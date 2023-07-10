@@ -50,7 +50,7 @@ image:    "icon-yes-capital-is-good.svg"
   </ul>
 
 <h1>Trendy Purpose</h1>
- <p>It becomes trendy for businesses to have a purpose. Nevertheless, they are still owned by the people with the capital (<em>i.e.</em>, which, as you may remember, came from enclosures).</p>
+ <p>It becomes trendy for businesses to have a purpose. Nevertheless, they are still owned by the people with the capital (<eg>i.e.</eg>, which, as you may remember, came from enclosures).</p>
  <p>Life goes on,</p>
   <ul>
    <li>Women join the workforce.</li>

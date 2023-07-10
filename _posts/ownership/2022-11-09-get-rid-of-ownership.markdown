@@ -49,13 +49,13 @@ image:    "icon-get-rid-of-ownership.svg"
  </ul>
  <ul>
   <li>The number of <span class="_paradigm">RAD</span>s a person has determines the amount of ownership she has.</li>
-  <li>The number of <span class="_paradigm">RAD</span>s one has determines the amount of tangibles (<em>i.e.</em>, dividends, assets, brand, etc.) each person gets.</li>
+  <li>The number of <span class="_paradigm">RAD</span>s one has determines the amount of tangibles (<eg>i.e.</eg>, dividends, assets, brand, etc.) each person gets.</li>
  </ul>
  <p>Also,</p>
   <ul>
-   <li><span class="_paradigm">RAD</span>s are a dimensionless unit of measure (<em>e.g.</em>, not a currency).</li>
+   <li><span class="_paradigm">RAD</span>s are a dimensionless unit of measure (<eg>e.g.</eg>, not a currency).</li>
    <li>The recognition criteria is completely up to each person. This is what makes a decentralized distribution possible.</li>
-   <li>Every person gets the same number of <span class="_paradigm">RAD</span>s (<em>i.e.</em>, one per day).</li>
+   <li>Every person gets the same number of <span class="_paradigm">RAD</span>s (<eg>i.e.</eg>, one per day).</li>
    <li>Recognitions are translated to <span class="_paradigm">RAD</span>s.</li>
    <li><span class="_paradigm">RAD</span>s are translated to tangibles.</li>
   </ul>

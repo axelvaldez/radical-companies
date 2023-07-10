@@ -52,10 +52,10 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
      alt="">
    </div>
   </p>
-  <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<em>i.e.</em>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
+  <p>Each employee/co-owner gets to recognize the people they work with. They do this based on <em>whatever they feel</em> is their contribution. Managers would not have to waste time agonizing over this. Next, managers can participate as co-owners of the fund (<eg>i.e.</eg>, which would now include their bonus pool as well). Over time, more and more bosses, and their bonus pools, would be include in this until, finally, the top executives, and their bonuses, would be included.</p>
 
 <h1>But, Wait: THERE IS MORE!</h1>
- <p>This still leaves us with the pay gap between executives and employees (<em>e.g.</em>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">Fiat</span> hierarchy (<em>i.e.</em>, it is not <em>a given</em> for businesses, as usually we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with <span class="_paradigm">RAD</span>s instead of titles.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>This still leaves us with the pay gap between executives and employees (<eg>e.g.</eg>, the CEO makes 265 times what an average employee draws). For that we would have to do something about the imposed, <span class="_paradigm">Fiat</span> hierarchy (<eg>i.e.</eg>, it is not <em>a given</em> for businesses, as usually we assume). Once that&rsquo;s done, Lockheed Martin would be ready to align salaries with <span class="_paradigm">RAD</span>s instead of titles.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
  
 <h1 class="_section">APPENDICES</h1>
  <h1>Wealth Extraction by Lockheed-Martin Bosses</h1>

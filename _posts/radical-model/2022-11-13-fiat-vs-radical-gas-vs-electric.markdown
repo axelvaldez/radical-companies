@@ -14,7 +14,7 @@ image:    "icon-the-roots-of-radical.svg"
  <p>We can&rsquo;t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
 
 <h1>The Fiat World</h1>
- <p>The world is ruled by fiat (<em>i.e.</em>, <span class="_quotespan">because I say so</span> with an implied <span class="_quotespan">or else</span>). The <span class="_paradigm">Fiat</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
+ <p>The world is ruled by fiat (<eg>i.e.</eg>, <span class="_quotespan">because I say so</span> with an implied <span class="_quotespan">or else</span>). The <span class="_paradigm">Fiat</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span class="_paradigm">Fiat</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work.</p>
  <p>The <span class="_paradigm">Radical</span> model is more like the all-electric car. Same look as a car, but it is fundamentally different. No gas, no problem.</p>
  <p>The <span class="_paradigm">Fiat</span> path will take us over the edge. A non-<span class="_paradigm">Fiat</span> system will take us to a more sustainable future.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -29,7 +29,7 @@ image:    "icon-the-roots-of-radical.svg"
  <p>The injustice, and oftentimes horror, that this system engenders is actually pretty predictable,</p>
  <ul>
   <li>It feeds on enclosures. What used to be for the use by the community is now for the exclusive use of the brute who moved all others out by force.</li>
-  <li>In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<em>e.g.</em>, think of Facebook and the software giants).</li>
+  <li>In modern times, the &ldquo;force&rdquo; can be gentle and pass unnoticed, but it is force nevertheless (<eg>e.g.</eg>, think of Facebook and the software giants).</li>
   <li>People are divided by what has come to be known as classes.</li>
   <li>Classes struggle and sometimes it ends up in bloody revolutions.</li>
   <li>All of these sacrifices end up ushering a new set of bosses, but the <span class="_paradigm">Fiat</span> stays in place.</li>

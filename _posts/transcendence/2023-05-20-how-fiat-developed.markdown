@@ -21,7 +21,7 @@ image:    "icon-how-fiat-developed.svg"
  <ul>
   <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
   <li>Romans soldiers provided the  muscle: <span class="_paradigm">Threats</span>, <span class="_paradigm">Fear</span>, <span class="_paradigm">Force</span>, and <span class="_paradigm">Pain</span>,</li>
-  <li>Hebrew collaborators (<em>e.g.</em>, the merchants) took advantage of the structure.</li>
+  <li>Hebrew collaborators (<eg>e.g.</eg>, the merchants) took advantage of the structure.</li>
  </ul>
  <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>
 

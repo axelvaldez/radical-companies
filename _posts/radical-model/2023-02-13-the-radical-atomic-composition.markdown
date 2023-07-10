@@ -53,7 +53,7 @@ image:    "icon-the-radical-atomic-composition.svg"
    <table class="_h2table">
     <tr>
      <th>Impact<br><span class="_alignquestions">what for?</span></th>
-     <td>What impact they want to make (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+     <td>What impact they want to make (<eg>i.e.</eg>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
     </tr>
     <tr>
      <th>Purpose<br><span class="_alignquestions">why?</span></th>

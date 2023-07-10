@@ -124,13 +124,13 @@ image:    "icon-escape-velocity-radical-style.svg"
    <li>Co-owners use the RADs! app to <em>recognize contributions</em>.</li>
    <li>Anybody can start a company or any other type of community by simply inviting  people to the <em><span class="_paradigm">RAD</span>s!</em> app.</li>
    <li>From recognized contributions, it calculates the number of <span class="_paradigm">RAD</span>s given and received by each co-owner.</li>
-   <li>The amount of RADs each person has earned determines their share of ownership (<em>i.e.</em>, the value created by all co-owners).</li>
+   <li>The amount of RADs each person has earned determines their share of ownership (<eg>i.e.</eg>, the value created by all co-owners).</li>
    <li>The whole thing is transparent. Everybody can see who is given RADs to whom, how many RADs each co-owner has, etc. Among other benefits, this lets anybody raise a red flag when they see a problem.</li>
   </ul>
  <h2>Explicit Relationships</h2>
   <p><em>Explicit Relationships</em> help people come together and build trust from the start.</p>
   <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
-  <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
+  <p>There are still lots of things to work out (<eg>e.g.</eg>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 
 <h1>Reaching Escape Velocity</h1>
  <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">Radical</span> model to build momentum and reach escape velocity.</p>
@@ -141,8 +141,8 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1 id="_appendix">About Communities</h1>
  <p>A community could be,</p>
  <ul>
-  <li>A legal entity (<em>e.g.</em>, C Corp, LLC, or an Unincorporated Association in California).</li>
-  <li>A group of people working together, with no legal structure (<em>e.g.</em>, a RADs! app community).</li>
+  <li>A legal entity (<eg>e.g.</eg>, C Corp, LLC, or an Unincorporated Association in California).</li>
+  <li>A group of people working together, with no legal structure (<eg>e.g.</eg>, a RADs! app community).</li>
   <li>Temporary or permanent.</li>
  </ul>
  <p>One more thing: a community&rsquo;s boundary is porous, made up and changed by the people who embody the community as they come in and out of it easily.</p>

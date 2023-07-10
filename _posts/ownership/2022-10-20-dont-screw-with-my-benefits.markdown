@@ -54,7 +54,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
       <p>Sabbaticals</p>
      </th>
      <td>
-      <p>You determine how long you want to be inactive (<em>i.e.</em>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.</p>
+      <p>You determine how long you want to be inactive (<eg>i.e.</eg>, how much time off you want to take). Since the <em>earned dividends</em> are going directly to you, you get to &ldquo;pay&rdquo; for any time you take that&rsquo;s not generating income.</p>
       <p>Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are also generating income that can &ldquo;pay&rdquo; for your inactive time.</p>
      </td>
     </tr>
@@ -97,8 +97,8 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <ul>
   <li>For example, your <span class="_paradigm">RAD</span>s may be your &ldquo;retirement&rdquo; fund. This would work if the revenues of all the companies you have co-owned are generally going up ahead of the number of co-owners.</li>
   <li>Alternatively, a company that you are part of may decide to reserve a percentage of its <em>earned dividends</em> to pay <em>inactive</em> co-owners.</li>
-  <li>Another company may treat it as an <em>expense</em> and take it off the revenue (<em>i.e.</em>, before calculating its <em>earned dividends</em>).</li>
-  <li>Yet another may decide that once your income falls below a certain level, they&rsquo;ll make up the difference (<em>i.e.</em>, similar to a PRI fund, but out of cashflow).</li>
+  <li>Another company may treat it as an <em>expense</em> and take it off the revenue (<eg>i.e.</eg>, before calculating its <em>earned dividends</em>).</li>
+  <li>Yet another may decide that once your income falls below a certain level, they&rsquo;ll make up the difference (<eg>i.e.</eg>, similar to a PRI fund, but out of cashflow).</li>
  </ul>
 
 <h1>Why the Quotation Marks?</h1>

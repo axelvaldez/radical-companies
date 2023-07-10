@@ -15,9 +15,9 @@ image:    "icon-disentangling-management.svg"
   <p>You have to distinguish between the CEO and every other manager, or as well call them the Big Boss and Lesser Bosses.</p>
   <p>The Big Boss could be any of,</p>
   <ul>
-   <li>A founder (<em>e.g.</em>, Steve Jobs, Jeff Bezos)</li>
-   <li>A career Lesser Boss (<em>e.g.</em>, Tim Cook, Andy Jassy) who is elevated to Big Boss.</li>
-   <li>A monied type who elevates himself to Big Boss (<em>e.g.</em>, Elon Musk).</li>
+   <li>A founder (<eg>e.g.</eg>, Steve Jobs, Jeff Bezos)</li>
+   <li>A career Lesser Boss (<eg>e.g.</eg>, Tim Cook, Andy Jassy) who is elevated to Big Boss.</li>
+   <li>A monied type who elevates himself to Big Boss (<eg>e.g.</eg>, Elon Musk).</li>
   </ul>
   <p>The Big Boss sits at the top of the <span class="_paradigm">Fiat</span> hierarchy, the boss of the Lesser Bosses.</p>
  <h2>The Lesser Bosses</h2>
@@ -28,7 +28,7 @@ image:    "icon-disentangling-management.svg"
   <p>Raising capital is the job of the Big Boss, but oftentimes a Board member or two get it done. &ldquo;We&rsquo;ll <em>help</em> you with that.&rdquo;</p>
   <p>This always happens at the start of the business. Later it may happen when</p>
    <ul>
-    <li>The Board pushes for <em>growth</em> and new investors are sought to provide the cash. If this is a <em>down round</em>, Board members agree to be diluted (<em>i.e.</em>, to have their shares do down in value) given that without the extra cash they may be financially screwed.</li>
+    <li>The Board pushes for <em>growth</em> and new investors are sought to provide the cash. If this is a <em>down round</em>, Board members agree to be diluted (<eg>i.e.</eg>, to have their shares do down in value) given that without the extra cash they may be financially screwed.</li>
     <li>A Board member wants to partially cashout. He sells some of his shares to another investor and he, not the business, gets the cash</li>
     <li>If a Board member wants to fully cash out, the euphemism is that he is &ldquo;leaving his Board seat to pursue other projects.&rdquo;. The business may or may not get any cash out of these types of transactions.</li>
    </ul>
@@ -50,7 +50,7 @@ image:    "icon-disentangling-management.svg"
   <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
  <h2>Mediating Conflict</h2>
   <p>The Lesser Bosses are often called to play referee. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
-  <p>In a co-managed company, either people resolve the issue themselves by bringing it up and talking through it, or they involve a third person (<em>i.e.</em>, a tried) and the three of them resolve it. Additionally, they all learn new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
+  <p>In a co-managed company, either people resolve the issue themselves by bringing it up and talking through it, or they involve a third person (<eg>i.e.</eg>, a tried) and the three of them resolve it. Additionally, they all learn new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
  <h2>Defending You from Other Bosses</h2>
   <p>Each department in a business is like a feudal dominion, with a castle in the middle surrounded by fields under its protection. It has a moat around it and you work the fields in exchange for protection (plus a paycheck in modern times). The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor &ldquo;defending&rdquo; you is your boss. As you can imagine, this becomes an obstacle to collaboration and it has major, negative impact on the business.</p>
  <h2>Implementing Tactics</h2>
@@ -58,7 +58,7 @@ image:    "icon-disentangling-management.svg"
   <p>In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals, but when in doubt, make sure to meet the profit goals.</p>
   <p>You are the proverbial cog and your job is to implement the profit-making goals.</p>
   <p>Unfortunately, you usually have no idea and no way to find out how what you do connects to the profit-making goals, or the tactics, or the strategy. So, you fall back on doing whatever your boss says to do. Everything else is a black box to you (and oftentimes to the Lesser Bosses, too).</p>
-  <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company&rsquo;s sustainability (<em>i.e.</em>, financials, strategy, tactics, etc.).</p>
+  <p>In a co-managed company, everything about the company is transparent. So you can figure out how what you do ties to your company&rsquo;s sustainability (<eg>i.e.</eg>, financials, strategy, tactics, etc.).</p>
  <h2>Other Things&hellip;</h2>
   <p>The Lesser Bosses are, in theory, responsible for many, many other things. Unfortunately, these things go undone or are done sporadically because the Lesser Bosses spend their time doing one thing or another for their bosses.</p>
 
@@ -127,8 +127,8 @@ image:    "icon-disentangling-management.svg"
    <tr>
     <th>Team Health</th>
     <td>
-     <p>Lesser Bosses don&rsquo;t measure teams&lsquo; health. They don&rsquo;t do it at all or, at best, they don't do it consistently. And, really, they don't have the tools (<em>e.g.</em>, the language) to do it.</p>
-     <p>Teams can do this themselves, but if they need to, they can form a triad with one or more people external to the team (<em>i.e.</em>, triads are not limited to individuals, it can involve groups of people, too).</p>
+     <p>Lesser Bosses don&rsquo;t measure teams&lsquo; health. They don&rsquo;t do it at all or, at best, they don't do it consistently. And, really, they don't have the tools (<eg>e.g.</eg>, the language) to do it.</p>
+     <p>Teams can do this themselves, but if they need to, they can form a triad with one or more people external to the team (<eg>i.e.</eg>, triads are not limited to individuals, it can involve groups of people, too).</p>
     </td>
    </tr>
   </table>

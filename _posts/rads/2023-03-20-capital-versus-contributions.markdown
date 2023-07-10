@@ -56,7 +56,7 @@ image:    "icon-capital-versus-contributions.svg"
    <li>You contribute to the work you and the other co-owners are doing together.</li>
    <li>Other co-owners see some of your work as a contribution.</li>
    <li>They give you <span class='_paradigm'>RAD</span>s in recognition.</li>
-   <li>Your percentage of <span class='_paradigm'>RAD</span>s determines your percentage of ownership, this month (<em>i.e.</em>, it is dynamic).</li>
+   <li>Your percentage of <span class='_paradigm'>RAD</span>s determines your percentage of ownership, this month (<eg>i.e.</eg>, it is dynamic).</li>
   </ul>
 
 {% include related.html %}

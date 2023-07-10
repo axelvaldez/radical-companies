@@ -46,7 +46,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li><em>Git</em> and its many derivatives are not what you&rsquo;d call user friendly for non-developers.</li>
-      <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<em>i.e.</em>, gets compiled into production). Branches are ephemeral, second class objects.</li>
+      <li>The <strong>trunk</strong> is the boss and it is the only one that counts (<eg>i.e.</eg>, gets compiled into production). Branches are ephemeral, second class objects.</li>
      </ul>
     </td>
    </tr>
@@ -103,10 +103,10 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
- <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
+ <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<eg>e.g.</eg>, diff).</p>
 
 <h1>No Trunk</h1>
- <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
+ <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<eg>e.g.</eg>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
  <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
 
 <h1>Authorship &amp; Ownership</h1>
@@ -123,7 +123,7 @@ image:    "icon-rmedia.svg"
   </ul>
 
 <h1>No Permission Needed</h1>
- <p>Any co-author can copy a flow without explicit permission; in fact, anybody can do that. On the other hand, an author can easily find out every copy of her content ever made (<em>i.e.</em>, even if it is a copy of a copy).</p>
+ <p>Any co-author can copy a flow without explicit permission; in fact, anybody can do that. On the other hand, an author can easily find out every copy of her content ever made (<eg>i.e.</eg>, even if it is a copy of a copy).</p>
  <p>A co-author could make any and all of her flows unreadable to others. Otherwise, if you can read it, you can copy it.</p>
 
 <h1>Pull&nbsp;Requests&nbsp;and&nbsp;Merges</h1>
@@ -192,7 +192,7 @@ image:    "icon-rmedia.svg"
     alt="This image shows six flows. FLow one is made up solo fragments. Fragments 1, 3, and 4 are by author1 and fragment two is by author2. The second flow starts with the same fragment written by author1, fragments 2 and 4 by author 2, and fragment 1 by author2. The third flow starts with the same fragment written by author1, the second fragment is co-written by author1 and author2, the third fragment is still the one written by author3, and the the last fragment written by author2. THe first two fragments of flow four are as before, but this time fragment 3 is written by author 2 and fragment four is co-written by author2 and author5. The first two fragments of flow five and its last fragment are as in flow four but in this flow fragment 3 is written by author5. The last flow illustrated starts with the same fragment written by author1, fragment2 is co-written by ">
   </div>
   <p>For example, maybe @author3 stopped contributing after modifying chapter 3. Other co-authors, however, continue to move the content forward and their changes make @author3&rsquo;s contribution obsolete. Or various co-authors make a few updates to my 4.0 fragment and then I make one last modification.</p>
-  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<em>i.e.</em>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<em>i.e.</em>, Linked flows will reflect any and all changes in these fragments),</p>
+  <p>There will be the case where one or more co-authors go off in a different direction from the perspective of the other co-authors. In that case, the divergent co-author(s) would start a new flow with the content of the source flow and then add new content to it (<eg>i.e.</eg>, This is conceptually similar to a fork of an OSS software project). They can create a Linked flow, where the untouched fragments are merely links to the original (<eg>i.e.</eg>, Linked flows will reflect any and all changes in these fragments),</p>
   <div style="text-align:center; ">
    <img
     src="/assets/img/rmake-new-flow.svg"
@@ -201,7 +201,7 @@ image:    "icon-rmedia.svg"
   </div>
   <p>They could, alternatively, create a Copied flow, where every fragment is a static copy of the original fragment. Changes in the original fragments would not be reflected in the new flow.</p>
   <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
-  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
+  <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<eg>e.g.</eg>, 1, 2, 3, 4) and you could publish another flow (<eg>e.g.</eg>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
   <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought a bit distressing, but as Doug Kirkpatrick points out,</p>
    <div class="_quotation">
     <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
@@ -210,7 +210,7 @@ image:    "icon-rmedia.svg"
    </div>
 
 <h1>Publishing</h1>
- <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
+ <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<eg>e.g.</eg>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
  <p style="margin-bottom:0; ">In the <span class="_paradigm">rMAKE</span> model, a Publisher could,</p>
   <ul>
    <li>Negotiates a deal around a particular flow.</li>
@@ -248,7 +248,7 @@ image:    "icon-rmedia.svg"
    </tr>
   </table>
  </div>
- <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<em>e.g.</em>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
+ <p>The different types of contributions must stand out and be visually distincts. Manipulating them must be intuitive (<eg>e.g.</eg>, as implemented in Google Docs, suggestions can render a document unreadable with many strokes and modification, and comments can overlap suggestions and make them unreachable). It must be straightforward to convert a suggestion to a comment and vice versa.</p>
  <p>Suggestions, rewrites, and additions carry authorship. When accepting any one of these, its authorship comes along with it.</p>
 
 <h1>Roles</h1>
@@ -333,7 +333,7 @@ image:    "icon-rmedia.svg"
 
 <h1>Social Media</h1>
  <p>A la Medium, text can be pre-selected as &ldquo;ready to post.&rdquo; Clicking on that text brings up a, for example, Twitter or LinkedIn post window with the text itself and a URL to the quoted text.</p>
- <p>Also, text can be selected and sent to other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
+ <p>Also, text can be selected and sent to other Social platforms, including a URL that points back to the text (<eg>i.e.</eg>, a la Diigo).</p>
  <div style="text-align:center; ">
   <img
    src="/assets/img/rmedia-diff.svg"
@@ -342,7 +342,7 @@ image:    "icon-rmedia.svg"
  </div>
 <h1>References</h1>
  <p>An <span class="_paradigm">rMAKE</span> reference can include text, URLs, or both, a la Kindle.</p>
- <p>URLs can point to internal targets (<em>e.g.</em>, titles, headers).</p>
+ <p>URLs can point to internal targets (<eg>e.g.</eg>, titles, headers).</p>
 
 <h1>Paper</h1>
  <p>The <span class="_paradigm">rMAKE</span> platform can prepare a flow for traditional paper publication. In particular, the platform will make it easy to convert references and URLs to footnotes or endnotes.</p>
@@ -363,7 +363,7 @@ image:    "icon-rmedia.svg"
  <ul>
   <li>Support adding sources to an image, optionally with embedded URLs to its source.</li>
   <li>Support adding titles to an image.</li>
-  <li>Support positioning these sources and titles as per the authors specs (<em>e.g.</em>, top, bottom).</li>
+  <li>Support positioning these sources and titles as per the authors specs (<eg>e.g.</eg>, top, bottom).</li>
  </ul>
 
 <h1>Bookmarks</h1>
@@ -382,10 +382,10 @@ image:    "icon-rmedia.svg"
 
 <h1>Views</h1>
  <ul>
-  <li>A View defines how a user, whether reader or writer, sees the content. Some people like to start paragraphs with an indent, but others don&rsquo;t. Some like more or less whitespace after sentences (<em>e.g.</em>, double space, single space). Some like paragraphs adjusted, some like them ragged.</li>
+  <li>A View defines how a user, whether reader or writer, sees the content. Some people like to start paragraphs with an indent, but others don&rsquo;t. Some like more or less whitespace after sentences (<eg>e.g.</eg>, double space, single space). Some like paragraphs adjusted, some like them ragged.</li>
   <li>Views are first class objects and can be combined with any other first class object. For example, a View can be selected by a reader which incorporates her preferences.</li>
   <li>Conceptually, there could be a View for the whole Flow, but another View for a particular module.</li>
-  <li>Parameters would include indentation, margins (all or individually as right, left, top, bottom), font family, font size, space after end-of-sentence punctuation (<em>e.g.</em>, n-width, m-width, other size), etc. (I imagine this as a CSS parameter file).</li>
+  <li>Parameters would include indentation, margins (all or individually as right, left, top, bottom), font family, font size, space after end-of-sentence punctuation (<eg>e.g.</eg>, n-width, m-width, other size), etc. (I imagine this as a CSS parameter file).</li>
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>

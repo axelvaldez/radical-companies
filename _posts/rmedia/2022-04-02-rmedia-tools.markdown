@@ -11,14 +11,14 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>rReader</h1>
- <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
+ <p>A reader app that works with ebooks and platforms (<eg>e.g.</eg>, Kindle).</p>
  <h2>Features</h2>
   <p>While on or near a PRADERA SHELF, the READER app can be used to,</p>
    <ul>
     <li>Download, listen to, or watch content.</li>
     <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
     <li>Read a book.</li>
-    <li>Download the digital book at a discount or get a discount coupon (<em>e.g.</em>, QR code) to buy a paper copy of the book at the hosting store.</li>
+    <li>Download the digital book at a discount or get a discount coupon (<eg>e.g.</eg>, QR code) to buy a paper copy of the book at the hosting store.</li>
    </ul>
  <h2>Highlights</h2>
   <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
@@ -37,10 +37,10 @@ image:    "icon-rmedia.svg"
     <li>Get a discount coupon to buy a paper copy of the book at the hosting store.</li>
     <li>See PRADERA READER.</li>
    </ul>
-  <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (<em>i.e.</em>, instant book clubs).</p>
+  <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (<eg>i.e.</eg>, instant book clubs).</p>
   <p>What’s disruptive about this is that,</p>
    <ul>
-    <li>The SHELF is different and becomes a conversation piece (<em>i.e.</em>, love or hate it, it gets mentioned online).</li>
+    <li>The SHELF is different and becomes a conversation piece (<eg>i.e.</eg>, love or hate it, it gets mentioned online).</li>
     <li>The store gets increased foot traffic.</li>
     <li>More book copies are sold.</li>
     <li>PRADERA MEDIA gets all contact info (opt-in) collected at the SHELF.</li>

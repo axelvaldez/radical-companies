@@ -266,7 +266,7 @@ image:    "icon-rmedia.svg"
    <li>Schedule all subsequent interviews.</li>
    <li>Profile interview,</li>
     <ul>
-     <li>Check for cultural alignment (<em>i.e.</em>, according to your Impact, Purpose, and Mission or whatever Alignment principles you use).</li>
+     <li>Check for cultural alignment (<eg>i.e.</eg>, according to your Impact, Purpose, and Mission or whatever Alignment principles you use).</li>
      <li>Check for level of knowledge about Computer Science basics.</li>
      <li>Decide if a Task interview is appropriate. The candidate is part of this discussion.</li>
     </ul>
@@ -276,7 +276,7 @@ image:    "icon-rmedia.svg"
       <li>Work and talk with the candidate.</li>
       <li>Offer hints (“I saw a thread in StackOverflow about that”).</li>
       <li>Question/nudge as needed (“wouldn&rsquo;t it be easier, if you did…”).</li>
-      <li>One interviewer acts as a distractor (<em>i.e.</em>, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
+      <li>One interviewer acts as a distractor (<eg>i.e.</eg>, to learn if the candidate is easily distracted or not, and whether she loses her train of thought easily or not).</li>
       <li>The Task interview includes three exercises,</li>
        <ul>
         <li>Easy. Doable within a half hour. Meant to make the candidate feel good, confident.</li>
@@ -289,7 +289,7 @@ image:    "icon-rmedia.svg"
       <ul>
        <li>Everybody who's talked to the candidate gets together.</li>
        <li>On their own, they grade the candidate on 1-4 scale on a) tech skills and b) cultural alignment.</li>
-       <li>They disclose their ratings (<em>e.g.</em>, Planning Poker) and discuss results.</li>
+       <li>They disclose their ratings (<eg>e.g.</eg>, Planning Poker) and discuss results.</li>
        <li>If need be, update ratings.</li>
        <li>Repeat until the decision to hire/not hire is made.</li>
        <li>If the decision is to pass but offer Office Hours, whoever volunteers to do it takes the lead and talks to the candidate about the process, etc.</li>
@@ -317,7 +317,7 @@ image:    "icon-rmedia.svg"
   <ul>
    <li>After the Thumbs, a member of the team tells the candidate about the Skills Incubator.</li>
    <li>The team had already estimated how long it would take the candidate to complete the program, now ask the candidate for her own estimate.</li>
-   <li>Share the team&rsquo;s estimate (<em>i.e.</em>, usually their estimate is lower than the team&rsquo;s).</li>
+   <li>Share the team&rsquo;s estimate (<eg>i.e.</eg>, usually their estimate is lower than the team&rsquo;s).</li>
    <li>Now you can both figure out what the appropriate estimate is to complete the Skills Incubator program.</li>
    <li>Use an in-house or external program to do the necessary training.</li>
    <li>Assign a mentor.</li>
@@ -327,7 +327,7 @@ image:    "icon-rmedia.svg"
  <p>This program is for members who want to learn a new skill or a new stack,</p>
   <ul>
    <li>For example, an Android developer wants to learn iOS or a C++ developer realizes she needs to learn a functional language.</li>
-   <li>The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (<em>e.g.</em>, from object oriented to functional).</li>
+   <li>The Power Up program leverages the experience a developer has gained to deliver the equivalent of one year experience in a few weeks. Shifting to a new paradigm will take longer (<eg>e.g.</eg>, from object oriented to functional).</li>
    <li>A kickoff Power Up program covers the basics, but the rest would come in follow up workshops and production work.</li>
   </ul>
 <h2>People Development</h2>

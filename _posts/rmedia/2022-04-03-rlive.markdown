@@ -38,7 +38,7 @@ image:    "icon-rmedia.svg"
     <th>Why?</th>
     <td>
      <ul>
-      <li>Spread the word about the <span class='_paradigm'>Radical</span> paradigm and make it familiar to people (<em>i.e.</em>, non-threatening).</li>
+      <li>Spread the word about the <span class='_paradigm'>Radical</span> paradigm and make it familiar to people (<eg>i.e.</eg>, non-threatening).</li>
       <li>To give everybody the opportunity to reveal their ideal future.</li>
       <li>To bring together <span class='_paradigm'>Radical</span>-adjacent movements.</li>
      </ul>
@@ -89,7 +89,7 @@ image:    "icon-rmedia.svg"
     <th>Simple</th>
     <td>
      <ul>
-      <li>The <span class='_paradigm'>Radical</span>S.LIVE! episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
+      <li>The <span class='_paradigm'>Radical</span>S.LIVE! episodes are online (<eg>e.g.</eg>,  Zoom, Riff) or in person</li>
       <li>Each speaker must appear to be looking at the other most of the time, not the camera. Their camera is the third party in the room and they could speak to it, too.</li>
      </ul>
     </td>
@@ -258,7 +258,7 @@ image:    "icon-rmedia.svg"
        <ul>
         <li>Pausing when the <span style="font-size:smaller; ">ICONOCLAST</span>s way goes off subject and helping them get back on track.</li>
         <li>Handling bathroom breaks and other unavoidable interruptions.</li>
-        <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">ICONOCLAST</span>s pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+        <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">ICONOCLAST</span>s pairs should move to different locations (<eg>e.g.</eg>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
        </ul>
       </td>
      </tr>

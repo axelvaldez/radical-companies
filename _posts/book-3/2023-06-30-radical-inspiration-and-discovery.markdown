@@ -105,13 +105,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Rules, Laws, and Force</h1>
  <p>Rules, followed by convention, eventually turn into <span class='_paradigm'>Fiat</span> laws which you are <em>forced</em> to follow,</p>
   <ul>
-   <li>You  get a ticket. A very minor form of force. You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
-   <li>If you feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
+   <li>You  get a ticket. A very minor form of force. You have to give up money (<eg>i.e.</eg>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
+   <li>If you feel that is an injustice, you let it go to court (<eg>i.e.</eg>, another type of force).</li>
    <li>If they rule in your behalf, you celebrate because you won, the force is with you. If they don&rsquo;t, you are angry and you have to pay the ticket. Still minor force.</li>
    <li>On the other hand, if you happen to be from the edge, it may get ugly and you may end up in prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> No longer a minor force.</li>
    <li>In prison you end, say, in a fight and you are maimed or killed or vice versa. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
- <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on theats to actual pain (<em>i.e.</em>, force).</p>
+ <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on theats to actual pain (<eg>i.e.</eg>, force).</p>
  <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span> We often don&rsquo;t realize that is coming from somebody else and we call it motivation. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of you may want to do. That is force.</p>
  <p>---</p>
  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. This goes againt the myth that without <span class='_paradigm'>Fiat</span> force we would never do anything of significance, we would never do anything bigger than ourselves.</p>
@@ -351,7 +351,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all govenance, from democracies to the dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
  <h2>Radical</h2>
-  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span>, not an evolved system (<em>i.e.</em>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
+  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span>, not an evolved system (<eg>i.e.</eg>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
    <div class='_center'>
     <img
      src='/assets/img/pic-the-radical-model-coming-together.svg'
@@ -399,7 +399,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>rTools</h1>
  <h2>Fiat</h2>
-  <p>Nothing to see here.</p>
+  <p>The only consistent tool in the <span class='_paradigm'>Radical</span> model is force.</p>
  <h2>Radical</h2>
   <p>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogman.</p>
   <div class='_center'>

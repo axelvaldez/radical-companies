@@ -84,8 +84,8 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
 
 <h1>The <em>RADs!</em> Mobile App</h1>
  <p>Co-owners use the <em><span class="_paradigm">RAD</span>s! mobile app</em> to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
- <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandise for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
- <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends).</p>
+ <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<eg>e.g.</eg>, <span class="_quotespan">&hellip; found us a place to store return merchandise for free.</span>) to something more intangible (<eg>e.g.</eg>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
+ <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<eg>e.g.</eg>, earned dividends).</p>
 
 <h1>Explicit Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Explicit Alignment tool is about,</p>
@@ -104,7 +104,7 @@ image:    "icon-how-to-create-a-radical-start-up.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>What impact they want to make? (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+    <td>What impact they want to make? (<eg>i.e.</eg>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
    <tr>
     <td></td>

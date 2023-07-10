@@ -15,7 +15,7 @@ image:    "icon-radical-units-of-measure.svg"
 
 <h1>A Unit of Distribution</h1>
  <p><span class="_paradigm">RAD</span>s account for what has so far been unaccountable. They quantify contributions as given by co-owners.</p>
- <p>At distribution time the percentage of <span class="_paradigm">RAD</span>s you have factors the amount of, say, Earned Dividends (<em>i.e.</em>, money) you get.</p>
+ <p>At distribution time the percentage of <span class="_paradigm">RAD</span>s you have factors the amount of, say, Earned Dividends (<eg>i.e.</eg>, money) you get.</p>
  <p>As we tried to use <span class="_paradigm">RAD</span>s in the early versions of the <em>RADs! app</em>, it got too clumsy and cumbersome. Co-owners would end up adding and subtracting <span class="_paradigm">RAD</span>s, which is exactly what we didn&rsquo;t want. We wanted to capture the <em>feeling intensity</em> that an observed contribution brought up.</p>
  
 <h1>A Unit-of-Recognition</h1>
@@ -24,7 +24,7 @@ image:    "icon-radical-units-of-measure.svg"
  <p style="margin-bottom:0; ">At the end of the cycle, the <em><span class="_paradigm">RAD</span>s! app</em> converts recognitions to <span class="_paradigm">RAD</span>s,
   <ul>
    <li>The number of recognitions co-owner A gave to other co-owners is divided by the total recognitions she gave during the period.</li>
-   <li>Each resulting percentage is then multiplied by the total number of <span class='_paradigm'>RAD</span>s in the cycle (<em>i.e.</em>, co-owners get one <span class="_paradigm">RAD</span> per day).</li>
+   <li>Each resulting percentage is then multiplied by the total number of <span class='_paradigm'>RAD</span>s in the cycle (<eg>i.e.</eg>, co-owners get one <span class="_paradigm">RAD</span> per day).</li>
    <li>This results in the number of <span class="_paradigm">RAD</span>s each co-owner gets from co-owner A.</li>
   </ul>
  </p>

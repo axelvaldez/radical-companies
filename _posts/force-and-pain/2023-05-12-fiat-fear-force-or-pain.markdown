@@ -7,7 +7,7 @@ image:    "icon-fiat-fear-force-or-pain.svg"
 ---
 
 <div style="display:none;">
- <p>What should it be , force, or pain. It turns that that <em>pain</em> is closer to the root. And I don&rsquo;t mean emotional pain, like losing a loved one, but the kind that comes from force (<em>e.g.</em>, being hit in the head).</p>
+ <p>What should it be , force, or pain. It turns that that <em>pain</em> is closer to the root. And I don&rsquo;t mean emotional pain, like losing a loved one, but the kind that comes from force (<eg>e.g.</eg>, being hit in the head).</p>
 </div>
 
 <h1>&nbsp;</h1>
@@ -29,7 +29,7 @@ image:    "icon-fiat-fear-force-or-pain.svg"
  <p>When I came out of the shower I was ready ( for now.</p>
 
 <h1>Heart-Felt Stories</h1>
- <p>Paty (Patricia) told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not as an app, but as a different way of living and thriving (<em>i.e.</em>, but it does include an app).</p>
+ <p>Paty (Patricia) told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not as an app, but as a different way of living and thriving (<eg>i.e.</eg>, but it does include an app).</p>
  <p>Chabeli told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned about the others reaction and was scared of the conversation that would follow. Finally, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it.</p>
  <p>As it turned out, the women that she was working with took her seriously and enjoyed and celebrated the process.</p>
  <p>These stories resonated with me. They spoke to the power of having an alternative to the  system we live under.</p>

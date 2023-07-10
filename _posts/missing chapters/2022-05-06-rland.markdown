@@ -52,7 +52,7 @@ image:    "icon-rland.svg"
  <p>As one of many possibilities, the bidding system might look something like this,</p>
   <ul>
    <li>Rather than open for bids all the time, uninvited bidding may happen, say, once or twice a year. Each community may establish a different rhythm.</li>
-   <li>The current occupier, on the other hand, may invite bids at any time (<em>e.g.</em>, somebody moving out of a house).</li>
+   <li>The current occupier, on the other hand, may invite bids at any time (<eg>e.g.</eg>, somebody moving out of a house).</li>
    <li>The bids would be assumed to be in good faith.</li>
    <li>The winning bidder takes over as the new occupier. Note that this could be <em>the current occupier&rsquo;s bid</em>.</li>
    <li>Whereas land ownership today is static and never ending, a winning bidder occupies the land until the next winning bid.</li>
@@ -77,10 +77,10 @@ image:    "icon-rland.svg"
  <p>I am not sure about &ldquo;Region&rdquo; and &ldquo;State,&rdquo; thus the question marks, but I suspect the latter will be around for a long time.</p>
 
 <h1>What about the the Country and Military?</h1>
- <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>BANNER</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
+ <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<eg>e.g.</eg>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>BANNER</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
 
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Country?</h2>
-  <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>BANNER</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
+  <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<eg>e.g.</eg>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>BANNER</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
 
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">The Military?</h2>
   <p>Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
@@ -136,7 +136,7 @@ image:    "icon-rland.svg"
 
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Common Good</h2>
   <p>A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
-  <p>Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is unoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
+  <p>Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is unoccupied, then it defaults to its surrounding community until someone bids for it (<eg>i.e.</eg>, the community cannot counter-bid).</p>
   <p>Common goods, like a park, would have an infinite value and so no big can possibly top it. The particular community can retire a common good and open it to bids. The mechanism for doing so is up to community politics, and generally it may look like this,</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px;  ">
    <img src="/assets/img/en-all-politics.svg" alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS." title="Common Goods and Politics">

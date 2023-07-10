@@ -29,7 +29,7 @@ image:    "icon-rnextbright.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td><em>rNextBright</em> has partnered with three tech companies (<em>i.e.</em>, many of which have their own <a href="#">rPlayGym</a>).</td>
+    <td><em>rNextBright</em> has partnered with three tech companies (<eg>i.e.</eg>, many of which have their own <a href="#">rPlayGym</a>).</td>
    </tr>
    <tr>
     <td class="_coltitle">Mission</td>
@@ -61,7 +61,7 @@ image:    "icon-rnextbright.svg"
  <p>The inspiration comes straight from our experience of the Nearsoft Academy project and from watching Beetroot, a Ukrainian company, at work. People enter the program with little programming experience, not used to working in a team, and poor communication skills. They come out of it with developed skills in all those areas.</p>
 
 <h1>How It Works</h1>
- <p>Graduates can choose to join a legacy company, a self-managed company, or a <span class='_paradigm'>Radical</span> company (<em>e.g.</em>, an <em>rHintersoft</em>  instance).</p>
+ <p>Graduates can choose to join a legacy company, a self-managed company, or a <span class='_paradigm'>Radical</span> company (<eg>e.g.</eg>, an <em>rHintersoft</em>  instance).</p>
  <div align="_center">
   <table>
    <tr>
@@ -144,7 +144,7 @@ image:    "icon-rnextbright.svg"
   <li>US-centric software development services, like Nearsoft, Tiempo, etc.</li>
   <li>Central and South America software product and services</li>
  </ul>
- <p>In other words, anybody who needs to hire developers but, preferably, software product companies or software development shops that work with those companies (<em>e.g.</em>, Nearsoft).</p>
+ <p>In other words, anybody who needs to hire developers but, preferably, software product companies or software development shops that work with those companies (<eg>e.g.</eg>, Nearsoft).</p>
 
 <h1>Other Funding for Students</h1>
  <p>There are several models in the wild,</p>
@@ -162,7 +162,7 @@ image:    "icon-rnextbright.svg"
    <li><a href="https://www.google.com/?ion=1&espv=2#q=scholarships%20crowdfunding">Maybe others</a>.</li>
    <li>Roll our own.</li>
   </ul>
-  <p>Possibly, work with foundations (<em>e.g.</em>, <a href="http://fer.org.mx/">Fundación Esposos Rodríguez</a>, in Sonora, Mexico).</p>
+  <p>Possibly, work with foundations (<eg>e.g.</eg>, <a href="http://fer.org.mx/">Fundación Esposos Rodríguez</a>, in Sonora, Mexico).</p>
 
 <h1>Possible Allies</h1>
  <ul>

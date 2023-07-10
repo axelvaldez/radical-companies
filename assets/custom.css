@@ -620,3 +620,10 @@ em {
   background-color:#dedede;
   font-style:normal;
 }
+
+/*
+ extended eg and ie
+ */
+ eg {
+  font-style:italic;
+}
