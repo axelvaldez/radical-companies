@@ -342,7 +342,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>The thing that has remained throughout is <span class='_paradigm'>Force.</span></p>
    <div class='_center'>
     <img
-     src='/assets/img/pic-pic-fiat-fear-force-or-pain.svg'
+     src='/assets/img/pic-fiat-fear-force-or-pain.svg'
      width='70%'
      alt=''>
    </div>
