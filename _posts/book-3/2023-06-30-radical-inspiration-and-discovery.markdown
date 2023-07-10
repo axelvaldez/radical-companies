@@ -406,28 +406,25 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <table class='h2table'>
     <tr>
      <th>Explicit Relationships</th>
-     <td></td>
+     <td>Explicit Relationships</td>
     </tr>
     <tr>
      <th>Explicit Alignment</th>
-     <td></td>
+     <td>Explicit Alignment</td>
     </tr>
     <tr>
      <th>Explicit Profile</th>
-     <td></td>
-    </tr>
-    <tr>
-     <th>RADs! Mobile App</th>
-     <td></td>
+     <td>Explicit Profile</td>
     </tr>
    </table>
   </div>
+  <p>The other rTools, and to me the most fundamental one is the <em>RADs! Mobile App</em>.</p>
 
-<h1>Pain vs Wellbeing</h1>
+<h1>RADs</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
-<h1>RADs</h1>
+<h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
