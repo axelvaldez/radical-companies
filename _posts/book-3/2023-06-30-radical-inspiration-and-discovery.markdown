@@ -410,7 +410,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <td>
       <table class='_h2table'>
        <tr>
-        <th>The world as experienced by you,</th>
+        <th>The world as experienced by you</th>
         <td>
          <ul>
           <li>How do you show up? Who are you?</li>
