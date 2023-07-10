@@ -340,17 +340,21 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> evolved into the complex mess it is today. Rules and laws morphed to adapt to their environment. For example, whereas the Christian Bible was admonishing slaves to &ldquo;obey your earthly masters&rdquo; that stopped being acceptable language in the lates 1800s (though women and children still had to obey their earthly master).</p>
   <p>The thing that has remained throughout is <span class='_paradigm'>Force.</span></p>
-   <img class='_center'
-    src='/assets/img/pic-pic-fiat-fear-force-or-pain.svg'
-    width='70%'
-    alt=''>
+   <div class='_center'>
+    <img
+     src='/assets/img/pic-pic-fiat-fear-force-or-pain.svg'
+     width='70%'
+     alt=''>
+   </div>
   <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all govenance, from democracies to the dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
  <h2>Radical</h2>
   <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span>, not an evolved system (<em>i.e.</em>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
-   <img class='_center'
-    src='/assets/img/pic-the-radical-model-coming-together.svg'
-    width='70%'
-    alt=''>
+   <div class='_center'
+    <img
+     src='/assets/img/pic-the-radical-model-coming-together.svg'
+     width='70%'
+     alt=''>
+   </div>
   <p>We get often lost in the intellectual weeds and never discover the really toxic. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
    <ul>
     <li>Will this decision make us more or less decentralized. Either choice is OK, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
