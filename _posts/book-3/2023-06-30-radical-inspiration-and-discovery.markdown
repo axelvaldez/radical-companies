@@ -360,7 +360,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <li>Will this decision make us more or less decentralized. Either choice is OK, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
     <li>Will this decision make it easier to help people find meaning in what they are doing or not. Again, wither choice is OK, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
    </ul>
-  <p>You may be leaning one way, but rethink it once you realize where it would take you. What you can&rsquo;t do is hide behind, <span class='_quotespan'>Oh, I didn*&rsquo;*t know!</span></p>
+  <p>You may be leaning one way, but rethink it once you realize where it would take you. What you can&rsquo;t do is hide behind, <span class='_quotespan'>Oh, I didn&rsquo;t know!</span></p>
   <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with gets to come up witgh the rules. You are all co-owners.</p>
 
 <h1>Military and Force</h1>
