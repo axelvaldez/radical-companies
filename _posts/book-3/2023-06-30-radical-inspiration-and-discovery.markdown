@@ -394,7 +394,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
  <h2>Radical</h2>
   <p><span class='_paradigm'>Radical<span> has nothing to say about enclosures directly. But enclosures do come out of force and force is a no-no in <span class='_paradigm'>Radical<span>-based alternatives.</p>
-  <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figure-how-to-exploit-it. We can lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way, many coming from inside us, coming for what we have learned as the children of <span class='_paradigm'>Fiat<span> that we are. But we need to choose and then act to make it happen.</p>
+  <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figure-how-to-exploit-it. We can lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way, many coming from inside us, coming for what we have learned as the children of <span class='_paradigm'>Fiat</span> that we are. But we need to choose and then act to make it happen.</p>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
