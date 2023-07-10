@@ -467,7 +467,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         </tr>
         <tr>
          <th stle='width:20%; '>What for?</th>
-         <td>&nbsp;</td>
+         <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to lift the community out of its poverty</span> or it could be <span class='_quotespan'>to bring joy to children with ceative toys</span>. It doesn't have to be world shattering, but it has to be stated.</td>
         </tr>
         <tr id='_background'>
          <td></td>
@@ -475,7 +475,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         </tr>
         <tr>
          <th>Why?</th>
-         <td>&nbsp;</td>
+         <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaen'>because&helllip;</span></td>
         </tr>
         <tr id='_background'>
          <td></td>
@@ -487,7 +487,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           When?<br>
           How?
          </th>
-         <td>&nbsp;</td>
+         <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
         </tr>
        </table>
       </div>
