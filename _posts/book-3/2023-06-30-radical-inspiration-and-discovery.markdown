@@ -395,10 +395,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
 
-<h1>Wellbeing</h1>
- <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
-
 <h1>RADs</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
