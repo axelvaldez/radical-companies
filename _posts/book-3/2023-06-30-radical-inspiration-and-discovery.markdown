@@ -380,7 +380,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
  <h2>Radical</h2>
   <p>Competition  is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with what acceptable to (most) everyone. The people who can&rsquo;t live with it, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practioners and as far as I know, they came up with it.</p>
-  <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system made up scarcity is used for those on top to control those at the bottom. This is what Marx didn&rsquo;t figure out. He just wanted a system where the workers were at the top and powerful at the bottom. Stallin named himself the respresentative of all workers and the rest is history. Hitler some of the same rhetoric and became friends with Stalin er all for a while, until he made the mistake of going agaisnt the Russin winter.</p>
+  <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial scarcity is used for those on top to control those at the bottom. This is what Marx didn&rsquo;t figure out. He just wanted a system where the workers were at the top and powerful at the bottom. Stallin named himself the respresentative of all workers and the rest is history. Hitler some of the same rhetoric and became friends with Stalin er all for a while, until he made the mistake of going agaisnt the Russin winter.</p>
 
 <h1>Scarcity and Abudance</h1>
  <h2>Fiat</h2>
