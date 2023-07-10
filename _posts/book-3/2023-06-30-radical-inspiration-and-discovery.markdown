@@ -451,7 +451,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </li>
   <li id='en05'>
    <p class='_list-item'>
-    And keep what ownership you&rsquo;ve earned to that point. More about that later.
+    Rent comes from Render whose first meaning is to provide or give. It also may mean to submit or present for inspection of consideration, deliver, or, literally, hand over.
     <a class='_uparrow' href='#bm05'><img src='/assets/img/arrow-up-icon.png'></a>
    </p>
   </li>
