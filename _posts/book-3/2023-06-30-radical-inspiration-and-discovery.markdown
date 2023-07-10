@@ -386,7 +386,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Scarcity and Abudance</h1>
  <h2>Fiat</h2>
   <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in hunting and gathering. But then, agriculture brought in land scarcity and the rest is history: we are defined by scarcity. That&rsquo;s how the story goes.</p>
-  <p>Actually, what agriculture brought about was <em>land enclosures.</em> An enclosure is when somebody takes <em>by force</em> over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to pay <em>rent. Abundance for a few, scarcity for all the rest</em></p>
+  <p>Actually, what agriculture brought about was <em>land enclosures.</em> An enclosure is when somebody takes <em>by force</em> over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to pay <em>rent.</em> Abundance for a few, scarcity for all the rest</em></p>
    <div class='_center'>
     <img
      src='/assets/img/pic-render-etymology.svg'

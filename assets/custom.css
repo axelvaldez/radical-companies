@@ -617,6 +617,8 @@ ul th, ul td, ul th p, ul td p {
  extended em
  */
 em {
+  font-family:'Courier New', Courier, monospace;
+  background-color:aquamarine;
   font-style:italic;
   font-weight:500px;
 }
