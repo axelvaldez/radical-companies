@@ -7,7 +7,7 @@ image:    "icon-preston-geeting-a-step-away-from-fiat.svg"
 ---
 
 <div style="display:none;">
- <p><em>Small bites</em>: support sales people to run their own businesses, without the need for an investment.</p>
+ <p>Support sales people to run their own businesses, without the need for an investment.</p>
 </div>
 
 <h1>&nbsp;</h1>
