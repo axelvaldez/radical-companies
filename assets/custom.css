@@ -583,7 +583,7 @@ table._h2table {
   width:85%;
 }
 table._h2table tr:nth-child(odd) {
-  background-color:#EEEEEE;
+  background-color:#eeeeee;
 }
 table._h2table th {
   padding-right:1em;
@@ -617,7 +617,7 @@ ul th, ul td, ul th p, ul td p {
  extended em
  */
 em {
-  background-color:#dddddd;
+  background-color:#eeeeee;
   font-style:normal;
 }
 
