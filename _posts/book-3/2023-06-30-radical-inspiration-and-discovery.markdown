@@ -23,34 +23,34 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
  <p>&ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending, because the system is too easy to game, particularly by powerful people. It adapts to fixes very fast.</p>
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
- <div class='_citation'>
-  <div class='_center'>
-   <table>
-    <tr>
-     <td class='_center'>
-      <img
-       src='/assets/img/pic-open-quote.svg'
-       style='padding:20px 0 20px 0; '
-       width='10%'>
-     </td>
-    </tr>
-    <tr>
-     <td>
-      <p style='font-size:150%; text-align:center; '>Creativity takes courage.</p>
-      <p id='_signature'>Henri Matisse</p>
-     </td>
-    </tr>
-    <tr>
-     <td class='_center'>
-      <img
-       src='/assets/img/pic-close-quote.svg'
-       style='padding:20px 0 10px 0; '
-       width='10%'>
-     </td>
-    </tr>
-   </table>
+  <div class='_citation'>
+   <div class='_center'>
+    <table>
+     <tr>
+      <td class='_center'>
+       <img
+        src='/assets/img/pic-open-quote.svg'
+        style='padding:20px 0 20px 0; '
+        width='10%'>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       <p style='font-size:150%; text-align:center; '>Creativity takes courage.</p>
+       <p id='_signature'>Henri Matisse</p>
+      </td>
+     </tr>
+     <tr>
+      <td class='_center'>
+       <img
+        src='/assets/img/pic-close-quote.svg'
+        style='padding:20px 0 10px 0; '
+        width='10%'>
+      </td>
+     </tr>
+    </table>
+   </div>
   </div>
- </div>
  <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it</span>), return this booklet. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
@@ -141,95 +141,96 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that were mostly nations or were cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). In fact, the Inquisition made sure that the converted were truly convicing Catholics and spoke the language of the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
-  <table class='_center, _h2table'>
-   <tr>
-    <th>Divide and Conquer</th>
-    <td>
-     <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women were chattel.</p>
-     <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
-     <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
-     <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span></p>
-    </td>
-   </tr>
-   <tr>
-    <th>Lording</th>
-    <td>
-     <p>With men lording over half of the population, it was easier for a few to lord over men. They could appeal to the stories and the made up history to support this convenient idealogy which also supported the making of kingdoms and empires.</p>
-     <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would dare to even think of equitable to such power, you can only submit to God.</p>
-     <p>In Christianity, the Pope is the only one that could understand what God meant with his signs.</p>
-    </td>
-   </tr>
-  </table>
- <h2>Non-Fiat</h2>
-  <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
-  <p>The alternative is not chaos, but it is certainly different,</p>
-  <div class='_center'>
-   <table class='_center, _h2table'>
-    <tr>
-     <th>Community</th>
-     <td>
-      <ul>
-       <li>I trust my decentralized and fully transparent community.</li>
-       <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
-       <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
-       <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
-      </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>Foundation</th>
-     <td>
-      <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
-       <ul>
-        <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
-        <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
-        <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
-       </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>Alignment</th>
-     <td>
-      <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
-       <ul>
-        <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span> it wants to have on the world.</li>
-        <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span> that made it come together as a community.</li>
-        <li>The community can then define the <em>what, when, and how,</em> of each <span class='_paradigm'>Mission</span> of the work it needs to do.</li>
-       </ul>
-        <div class='_center'>
-         <img
-          src='/assets/img/pic-explicit-alignment-en.svg'
-          width='70%'
-          alt=''>
-        </div>
-      <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
-      <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
-      <p>To be clear,</p>
-       <ul>
-        <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
-        <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
-        <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
-       </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>No Divisions</th>
-     <td>
-      <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
-       <ul>
-        <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
-        <li>
-         <p>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</p>
-         <p>BTW, the word company comes from Latin <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</p>
-        </li>
-        <li>The level of co-ownership is determined by contributions, not capital.</li>
-        <li>These contributions are recognized by all other co-owners.</li>
-       </ul>
-      <p>And, yes, there is an app for that.</p>
-     </td>
-    </tr>
-   </table>
-  </div>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>Divide and Conquer</th>
+      <td>
+       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women were chattel.</p>
+       <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
+       <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
+       <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span></p>
+      </td>
+     </tr>
+     <tr>
+      <th>Lording</th>
+      <td>
+       <p>With men lording over half of the population, it was easier for a few to lord over men. They could appeal to the stories and the made up history to support this convenient idealogy which also supported the making of kingdoms and empires.</p>
+       <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would dare to even think of equitable to such power, you can only submit to God.</p>
+       <p>In Christianity, the Pope is the only one that could understand what God meant with his signs.</p>
+      </td>
+     </tr>
+    </table>
+   <h2>Non-Fiat</h2>
+    <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
+    <p>The alternative is not chaos, but it is certainly different,</p>
+     <div class='_center'>
+      <table class='_center, _h2table'>
+       <tr>
+        <th>Community</th>
+        <td>
+         <ul>
+          <li>I trust my decentralized and fully transparent community.</li>
+          <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
+          <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
+          <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
+         </ul>
+        </td>
+       </tr>
+       <tr>
+        <th>Foundation</th>
+        <td>
+         <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
+          <ul>
+           <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
+           <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
+           <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
+          </ul>
+        </td>
+       </tr>
+       <tr>
+        <th>Alignment</th>
+        <td>
+         <p>But the <span class='_paradigm'>Foundation</span> is not enough, it needs an <span class='_paradigm'>Explicit Alignment</span>,</p>
+          <ul>
+           <li>To hold us together a community must define the <em>what for</em>, the <span class='_paradigm'>Impact</span> it wants to have on the world.</li>
+           <li>It must be explicit about the <em>why</em>, its <span class='_paradigm'>Purpose</span> that made it come together as a community.</li>
+           <li>The community can then define the <em>what, when, and how,</em> of each <span class='_paradigm'>Mission</span> of the work it needs to do.</li>
+          </ul>
+           <div class='_center'>
+            <img
+             src='/assets/img/pic-explicit-alignment-en.svg'
+             width='70%'
+             alt=''>
+           </div>
+         <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
+         <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
+         <p>To be clear,</p>
+          <ul>
+           <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+           <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
+           <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
+          </ul>
+        </td>
+       </tr>
+       <tr>
+        <th>No Divisions</th>
+        <td>
+         <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
+          <ul>
+           <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
+           <li>
+            <p>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</p>
+            <p>BTW, the word company comes from Latin <em>co</em>, meaning <em>together</em>, and <em>pan</em>, meaning <em>bread</em>.</p>
+           </li>
+           <li>The level of co-ownership is determined by contributions, not capital.</li>
+           <li>These contributions are recognized by all other co-owners.</li>
+          </ul>
+         <p>And, yes, there is an app for that.</p>
+        </td>
+       </tr>
+      </table>
+     </div>
 
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
@@ -239,76 +240,76 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Non-Fiat</h2>
   <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to increase the wellbeing of every co-owner and the society around then.</p>
   <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. You recognized contributions determines your level of co-ownership <em>that month.</em> Next month it will most likely be different.</p>
-  <div class='_center'>
-   <table class='_h2table'>
-    <tr>
-     <th>The Calculations</th>
-     <td>
-      <p>You get a <span class='_paradigm'>RAD</span> every day to give, not to keep. <span class='_paradigm'>RAD</span>s make contribution tangible.</p>
-      <p><span class='_paradigm'>RAD</span>s are distributed based on contributions that you have recognized,</p>
-       <div class='_center'>
-        <img
-         src='/assets/img/pic-recognitions-to-rads-equation.svg'
-         alt=''>
-       </div>
-      <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss is necessary to give attaboys to his favorites.</p>
-      <p>The mobile app does the all the calculation.</p>
-     </td>
-    </tr>
-    <tr>
-     <th>But&hellip;</th>
-     <td>
-      <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours.</span> And yes, it could, but only if the other co-owners do not say anything about. Because of &ldquo;Transparency,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that make co-ownership a joke.</span></p>
-      <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the &rdquo;fix&ldquo; is to fix what is in your hands&mdash;you are all co-owners.</p>
-      <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> The thing is that <em>homo economicus</em> is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival, though necessary, is not living.</p>
-     </td>
-    </tr>
-    <tr>
-     <th>Capital</th>
-     <td>
-      <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Fiat Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
-      <p>Usually that capital goes to pay for,</p>
-       <ul>
-       <li>Things needed by the company</li>
-       <li>To fund a <span class='_paradigm'>Predictable Recurring Income</span> (PRI) fund.</li>
-       </ul>
-     </td>
-    </tr>
-    <tr>
-     <th>The PRI</th>
-     <td>
-      <p>The PRI is used to pay co-owners a <em>predictable, recurring income</em> (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes of out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside that would normally (dividends) go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
-     </td>
-    </tr>
-    <tr>
-     <th>But&hellip;</th>
-     <td>
-      <p>But what about investing in the future? Owners don&rsquo;t put all the profits in the pocket, they invest it!</p>
-      <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not be included in the dividends.</p>
-     </td>
-    </tr>
-    <tr>
-     <th>Banners</th>
-     <td>
-      <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
-      <p>For the case, where all co-owners agree, the Banner Dashboard could lile this,</p>
-       <div style='padding-left:1rem; '>
-        <table>
-         <tr>
-          <td style='border:1px solid black; width:55%; '>
-           <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
-            <p style='text-indent:1em; '>Goal: $1M</p>
-            <p style='text-indent:1em; '>Time: 3 years</p>
-            <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
-            <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
-          </td>
-          <td style='border:1px solid black; width:45%; '>
-           <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-            <p style='text-indent:1em; '>All, $100.00</p>
-          </td>
-         </tr>
-        </table>
-       </div>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>The Calculations</th>
+      <td>
+       <p>You get a <span class='_paradigm'>RAD</span> every day to give, not to keep. <span class='_paradigm'>RAD</span>s make contribution tangible.</p>
+       <p><span class='_paradigm'>RAD</span>s are distributed based on contributions that you have recognized,</p>
+        <div class='_center'>
+         <img
+          src='/assets/img/pic-recognitions-to-rads-equation.svg'
+          alt=''>
+        </div>
+       <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss is necessary to give attaboys to his favorites.</p>
+       <p>The mobile app does the all the calculation.</p>
+      </td>
+     </tr>
+     <tr>
+      <th>But&hellip;</th>
+      <td>
+       <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours.</span> And yes, it could, but only if the other co-owners do not say anything about. Because of &ldquo;Transparency,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that make co-ownership a joke.</span></p>
+       <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the &rdquo;fix&ldquo; is to fix what is in your hands&mdash;you are all co-owners.</p>
+       <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span> The thing is that <em>homo economicus</em> is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People have to survive and they will go to kinds of length to do it, but survival, though necessary, is not living.</p>
+      </td>
+     </tr>
+     <tr>
+      <th>Capital</th>
+      <td>
+       <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Fiat Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
+       <p>Usually that capital goes to pay for,</p>
+        <ul>
+         <li>Things needed by the company</li>
+         <li>To fund a <span class='_paradigm'>Predictable Recurring Income</span> (PRI) fund.</li>
+        </ul>
+      </td>
+     </tr>
+     <tr>
+      <th>The PRI</th>
+      <td>
+       <p>The PRI is used to pay co-owners a <em>predictable, recurring income</em> (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes of out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside that would normally (dividends) go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
+      </td>
+     </tr>
+     <tr>
+      <th>But&hellip;</th>
+      <td>
+       <p>But what about investing in the future? Owners don&rsquo;t put all the profits in the pocket, they invest it!</p>
+       <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not be included in the dividends.</p>
+      </td>
+     </tr>
+     <tr>
+      <th>Banners</th>
+      <td>
+       <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
+       <p>For the case, where all co-owners agree, the Banner Dashboard could lile this,</p>
+        <div style='padding-left:1rem; '>
+         <table>
+          <tr>
+           <td style='border:1px solid black; width:55%; '>
+            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
+             <p style='text-indent:1em; '>Goal: $1M</p>
+             <p style='text-indent:1em; '>Time: 3 years</p>
+             <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
+             <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
+           </td>
+           <td style='border:1px solid black; width:45%; '>
+            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
+             <p style='text-indent:1em; '>All, $100.00</p>
+           </td>
+          </tr>
+         </table>
+        </div>
       <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
        <div style='padding-left:1rem; '>
         <table>
