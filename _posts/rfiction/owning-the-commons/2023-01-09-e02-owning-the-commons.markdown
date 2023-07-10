@@ -22,7 +22,7 @@ image:    "icon-owning-the-commons-e02.svg"
     alt=''>
   </div>
  <p>But we don&rsquo;t have enough land or water to keep our lifestyle. A few people are experimenting with low water systems, but who knows when that will work.</p>
- <p>That&rsquo;s when we take out the rifles that we bought online and bar the new families&hellip; oh, wait, that is the  way!</p>
+ <p>That&rsquo;s when we take out the rifles that we bought online and bar the new families&hellip; oh, wait, that is <em>not</em> the  way!</p>
 
 <h1>The Radical Way</h1>
  <p>They may not partake in the land that we possess because of lack of water, but the newcomers are now part of our community.</p>
