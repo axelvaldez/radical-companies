@@ -563,7 +563,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <td>1</td>
       </tr>
       <tr>
-       <th>People can recognize contributions</th>
+       <th>People can notice and recognize contributions</th>
        <td>
         <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
         <div class='_citation'>
