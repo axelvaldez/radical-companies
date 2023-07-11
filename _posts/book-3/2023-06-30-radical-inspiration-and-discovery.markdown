@@ -555,7 +555,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
            </td>
           </tr>
           <tr>
-           <td style='text-align:right; background-color:transparent; '>
+           <td style='text-align:right; '>
             <img
              src='/assets/img/pic-close-quote.svg'
              style='padding:20px 0 10px 0; '
