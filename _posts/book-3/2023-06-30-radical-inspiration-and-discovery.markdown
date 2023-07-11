@@ -92,7 +92,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
- <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of it. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob.</p>
+ <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob.</p>
  <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, the boss.</p>
  </p>
 
