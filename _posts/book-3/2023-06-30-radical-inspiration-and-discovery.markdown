@@ -550,7 +550,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           </tr>
           <tr>
            <td>
-            <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
+            <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
             <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> She looked happy and uplifted.</p>
            </td>
           </tr>
