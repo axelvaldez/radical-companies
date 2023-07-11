@@ -399,106 +399,101 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>rTools</h1>
  <h2>Fiat</h2>
-  <p>The only consistent tool in the <span class='_paradigm'>Radical</span> model is force.</p>
+  <p>The only consistent &rdquo;tool&ldquo; in the <span class='_paradigm'>Radical</span> model is force.</p>
  <h2>Radical</h2>
   <p>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</p>
   <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistenly communicate what the community is about.</p>
-  <div class='_center'>
-   <table class='_h2table'>
-    <tr>
-     <th>Explicit Relationships</th>
-     <td>
-      <table class='_h2table'>
-       <tr>
-        <th>The world as experienced by you</th>
-        <td>
-         <ul>
-          <li>How do you show up? Who are you?</li>
-          <li>Why do you need others?</li>
-          <li>What do you feel we need to agree on?</li>
-          <li>What are your red lines?</li>
-          <li>Anything else?</li>
-          <li>What gets you angry?</li>
-          <li>What shuts you up?</li>
-          <li>What makes you excited?</li>
-          <li>What we really need to know is what does each of the above look like?</li>
-          <li>How would we know if you are angry, feel shut up, or excited?</li>
-          <li>Anything else?</li>
-         </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>Vulnerability</th>
-        <td>
-         <ul>
-          <li>What are you biggest fears?</li>
-          <li>Do you speak up? How?</li>
-          <li>Do you need to be given permission to speak? <span class='_quotespan'>You didn&rsquo;t ask me!</span></li>
-          <li>Anything else?</li>
-         </ul>
-        </td>
-       </tr>
-       <tr>
-        <th>Collaboration</th>
-        <td>
-         <ul>
-          <li>What is meaningful to you?</li>
-          <li>What gives you joy?</li>
-          <li>How can we help you collaborate with us?</li>
-          <li>What stops you on your tracks?</li>
-          <li>How can we avoid doing that?</li>
-          <li>How do we know when you are collaborating? How do you show up?</li>
-          <li>What impact you have to have?</li>
-         </ul>
-        </td>
-       </tr>
-      </table>
+  <h2>Explicit Relationships</h2>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>The world as experienced by you</th>
+      <td>
+       <ul>
+       <li>How do you show up? Who are you?</li>
+       <li>Why do you need others?</li>
+       <li>What do you feel we need to agree on?</li>
+       <li>What are your red lines?</li>
+       <li>Anything else?</li>
+       <li>What gets you angry?</li>
+       <li>What shuts you up?</li>
+       <li>What makes you excited?</li>
+       <li>What we really need to know is what does each of the above look like?</li>
+       <li>How would we know if you are angry, feel shut up, or excited?</li>
+       <li>Anything else?</li>
+      </ul>
      </td>
     </tr>
     <tr>
-     <th>Explicit Alignment</th>
-     <td>
-      <p>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</p>
-      <div class='_center'>
-       <table class='_explicitalignment'>
-        <tr id='_background'>
-         <td></td>
-         <th>Impact</th>
-        </tr>
-        <tr>
-         <th>What for?</th>
-         <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to lift the community out of its poverty</span> or it could be <span class='_quotespan'>to bring joy to children with ceative toys</span>. It doesn't have to be world shattering, but it has to be stated.</td>
-        </tr>
-        <tr id='_background'>
-         <td></td>
-         <th>Purpose</th>
-        </tr>
-        <tr>
-         <th>Why?</th>
-         <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaen'>because&helllip;</span></td>
-        </tr>
-        <tr id='_background'>
-         <td></td>
-         <th>Mission</th>
-        </tr>
-        <tr>
-         <th>
-          What?<br>
-          When?<br>
-          How?
-         </th>
-         <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
-        </tr>
-       </table>
-      </div>
-     </td>
-    </tr>
-    <tr>
-     <th>Explicit Profile</th>
-     <td>Your explicit profile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
-    </tr>
-   </table>
-  </div>
+     <th>Vulnerability</th>
+      <td>
+       <ul>
+        <li>What are you biggest fears?</li>
+        <li>Do you speak up? How?</li>
+        <li>Do you need to be given permission to speak? <span class='_quotespan'>You didn&rsquo;t ask me!</span></li>
+        <li>Anything else?</li>
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <th>Collaboration</th>
+       <td>
+        <ul>
+         <li>What is meaningful to you?</li>
+         <li>What gives you joy?</li>
+         <li>How can we help you collaborate with us?</li>
+         <li>What stops you on your tracks?</li>
+         <li>How can we avoid doing that?</li>
+         <li>How do we know when you are collaborating? How do you show up?</li>
+         <li>What impact you have to have?</li>
+        </ul>
+       </td>
+      </tr>
+    </table>
+   </div>
+ <h2>Explicit Alignment</h2>
+  <p>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</p>
+   <div class='_center'>
+    <table class='_explicitalignment'>
+      <tr id='_background'>
+       <td></td>
+       <th>Impact</th>
+      </tr>
+      <tr>
+       <th>What for?</th>
+       <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to lift the community out of its poverty</span> or it could be <span class='_quotespan'>to bring joy to children with ceative toys</span>. It doesn't have to be world shattering, but it has to be stated.</td>
+      </tr>
+      <tr id='_background'>
+       <td></td>
+       <th>Purpose</th>
+      </tr>
+      <tr>
+       <th>Why?</th>
+       <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaen'>because&helllip;</span></td>
+      </tr>
+      <tr id='_background'>
+       <td></td>
+       <th>Mission</th>
+      </tr>
+      <tr>
+       <th>
+        What?<br>
+        When?<br>
+        How?
+       </th>
+       <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
+      </tr>
+     </table>
+    </div>
+ <h2>Explicit Profile</h2>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th></th>
+      <td>Your explicit profile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
+     </tr>
+    </table>
+   </div>
   <p>The other rTool, and to me the most fundamental one, is the <eg>RADs! Mobile App</eg>.</p>
 
 <div class='_center'>
