@@ -625,6 +625,6 @@ em {
 /*
  extended eg and ie
  */
- eg {
+ .eg, .ie {
   font-style:italic;
 }
