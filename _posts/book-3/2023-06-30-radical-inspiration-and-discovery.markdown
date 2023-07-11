@@ -556,10 +556,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           </tr>
           <tr>
            <td style='text-align:right; '>
+           <!--
             <img
              src='/assets/img/pic-close-quote.svg'
              style='padding:20px 0 10px 0; '
              width='10%'>
+           -->
            </td>
           </tr>
          </table>
