@@ -475,7 +475,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <th>Why?</th>
-      <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaen'>because&hellip;</span></td>
+      <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaxxxn'>because&hellip;</span></td>
      </tr>
      <tr id='_background'>
       <td></td>
