@@ -519,7 +519,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
          <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> She looked happy and uplifted.</p>
         </div>
-       <p>That was a major contribution. The act of noticing that somebody was not her usual self and engaging her in conversations was definitely a major contribution to the yound woman and indirectly to the company. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, if I were in the grip of my <span class='_paradigm'>Fiat</span> cage, <span class='_quotespan'>that was really good, but no, it doesn&rsquo;t equate to the number of check ins I did yesterday.</span> In order to recognize all kinds of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment we need.</p>
+       <p>That was a major contribution. The fact that,
+        <ul>
+         <li>She notice that somebody was not her usual self, and</li>
+         <li>Engaging her in conversations.</li>
+        </ul>
+        <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, thats why practice is necessesary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
       </td>
      </tr>
      <tr>
