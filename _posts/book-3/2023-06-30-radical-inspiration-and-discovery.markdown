@@ -477,10 +477,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Why?</th>
       <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaen'>because&helllip;</span></td>
      </tr>
-    </table>
-   </div>
-   <div class='_center'>
-    <table class='_explicitalignment'>
      <tr id='_background'>
       <td></td>
       <th>Mission</th>
@@ -493,11 +489,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </th>
       <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
      </tr>
+    </table>
+   </div>
+   <div class='_center'>
+    <table class='_explicitalignment'>
      <tr>
       <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:none; '>Explicit Profile</td>
      </tr>
      <tr>
-      <th></th>
       <td colspan='2'>Your explicit profile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
      </tr>
     </table>
