@@ -469,7 +469,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>What for?</th>
       <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to lift the community out of its poverty</span> or it could be <span class='_quotespan'>to bring joy to children with ceative toys</span>. It doesn't have to be world shattering, but it has to be stated.</td>
      </tr>
-      <td>Here is 
      <tr id='_background'>
       <td></td>
       <th>Purpose</th>
