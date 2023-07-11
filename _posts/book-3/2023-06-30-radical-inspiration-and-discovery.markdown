@@ -530,7 +530,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <th>People can learn to be a co-owner</th>
+      <th>People can learn to be co-owners</th>
       <td></td>
      </tr>
      <tr>
@@ -573,7 +573,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </td>
      </tr>
      <tr>
-      <th>People can learn to be distribute ownership to their peers</th>
+      <th>People can learn to distribute ownership of the company to their peers</th>
       <td></td>
      </tr>
     </table>
