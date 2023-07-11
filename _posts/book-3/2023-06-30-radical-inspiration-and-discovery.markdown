@@ -494,7 +494,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:white; '>Explicit Profile</td>
+      <td colspan='2' style='text-align:center; border:1px solid black; font-size:larger; background-color:white; '>Explicit Profile</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>
