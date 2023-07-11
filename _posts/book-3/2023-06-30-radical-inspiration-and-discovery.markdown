@@ -528,7 +528,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
   <p>The reason I think this rTool is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
    <div class='_center'>
-    <table class='_h2table'>
+    <table class='_h2table, _center'>
      <tr>
       <th>People can learn to be a co-owner.</th>
       <td></td>
