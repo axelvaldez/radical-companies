@@ -507,7 +507,26 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
+  <p>In a <span class='_paradigm'>Fiat</span> business, things are static. You give me so much cash, and I&rsquo;ll give you so much of the company. That percentage of the business remains fixed forever. You can even die and your heirs get the piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
+ <h2>Radical</h2>
+  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all <span class='_paradigm'>RAD</span>s and you get a seriouis percentage of the dividens.Next month you don&rsquo;t contribute as much and you end up with smaller percentage of <span class='_paradigm'>RAD</span>s and a smaller percentage of dividends. Ownership is dynamic.</p>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>What Are RADs</th>
+     <td>
+      <p><span class='_paradigm'>RAD</span>s are like tokens. Not crypto token or any such nonsense. Your <span class='_paradigm'>RAD</span>s really are a percentage of all <span class='_paradigm'>RAD</span>s ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
+      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.<eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever movivate you to press the recognition buttom.</p>
+       <div class='_center'>
+        <img
+         src='/assets/img/pic-fiat-not-fiat-glass.svg'
+         width='70%'
+         alt=''>
+       </div>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
