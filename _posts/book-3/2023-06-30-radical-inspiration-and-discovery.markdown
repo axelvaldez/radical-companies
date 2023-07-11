@@ -555,11 +555,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </table>
    </div>
   </div>
+  xxx
    <div class='_citation'>
     <div class='_center'>
      <table class='_h2table'>
       <tr>
-       <th>People can learn to be co-owners</th>
+       <th>People can learn to be owners</th>
        <td>1</td>
       </tr>
       <tr>
