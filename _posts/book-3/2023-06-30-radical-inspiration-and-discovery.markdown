@@ -29,35 +29,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <p id='_signature'>Henri Matisse</p>
    </div>
   </div>
-
-  <div class='_citation'>
-   <div class='_center'>
-    <table>
-     <tr>
-      <td>
-       <img
-        src='/assets/img/pic-open-quote.svg'
-        style='padding:20px 0 20px 0; '
-        width='10%'>
-      </td>
-     </tr>
-     <tr>
-      <td>
-       <p style='font-size:150%;'>Creativity takes courage.</p>
-       <p id='_signature'>Henri Matisse</p>
-      </td>
-     </tr>
-     <tr>
-      <td style='text-align:right; '>
-       <img
-        src='/assets/img/pic-close-quote.svg'
-        style='padding:20px 0 10px 0; '
-        width='10%'>
-      </td>
-     </tr>
-    </table>
-   </div>
-  </div>
  <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it</span>), return this booklet. Sorry for the inconvenience.</p>
 
 <h1>Fiat?</h1>
