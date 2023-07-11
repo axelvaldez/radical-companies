@@ -405,7 +405,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:none; '>Explicit Relationships</td>
+      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:transparent; '>Explicit Relationships</td>
      </tr>
      <tr>
       <th>The world as experienced by you</th>
@@ -456,7 +456,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:none; '>Explicit Alignment</td>
+      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:transparent; '>Explicit Alignment</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</td>
@@ -494,7 +494,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:none; '>Explicit Profile</td>
+      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:transparent; '>Explicit Profile</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>Your explicit profile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
