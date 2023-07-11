@@ -541,7 +541,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <div class='_center'>
          <table>
           <tr>
-           <td class='_center'>
+           <td>
             <img
              src='/assets/img/pic-open-quote.svg'
              style='padding:20px 0 20px 0; '
@@ -549,13 +549,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
            </td>
           </tr>
           <tr>
-           <td class='_center'>
+           <td>
             <p>The cleaning woman, went by, picking up the stuff people had left behind on their desks the day before. There were a handful of people in the office at the time. One if them being a young woman who looked really sad.</p>
             <p>The cleaning woman went to the end of the office and when she came up she started talking to the young woman. It was easy to overhear, so I did. It turned out that she had been dumped the night before and she had not slep. She decided to come to the office early instead of facing the walls of her home. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span></p>
            </td>
           </tr>
           <tr>
-           <td class='_center'>
+           <td>
             <img
              src='/assets/img/pic-close-quote.svg'
              style='padding:20px 0 10px 0; '
