@@ -519,7 +519,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever movivates you to press the recognition buttom.</p>
        <div class='_center'>
         <img
-         src='/assets/img/pic-fiat-not-fiat-glass.svg'
+         src='/assets/img/pic-recognitions-to-rads-equation.svg'
          width='70%'
          alt=''>
        </div>
