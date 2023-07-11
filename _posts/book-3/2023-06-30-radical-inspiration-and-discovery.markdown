@@ -531,16 +531,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <table class='_h2table'>
      <tr>
       <th>People can learn to be co-owners</th>
-      <td></td>
+      <td>1</td>
      </tr>
      <tr>
       <th>People can recognize contributions</th>
       <td>
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
        <div class='_citation'>
-        <!--
         <div class='_center'>
-        -->
          <table>
           <tr>
            <td>
@@ -565,16 +563,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
            </td>
           </tr>
          </table>
-        <!--
         </div>
-        -->
        </div>
        <p>That was a major contribution. The act of noticing that somebody was not her usual self and engaging it in conversations was definitely a major contribution to the yound woman and indirectly to the company. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, if I were in the grip of my <span class='_paradigm'>Fiat</span> cage, <span class='_quotespan'>that was really good, but no, it doesn&rsquo;t equate to the number of check ins I did yesterday.</span> We have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment we need.</p>
       </td>
      </tr>
      <tr>
       <th>People can learn to distribute ownership of the company to their peers</th>
-      <td></td>
+      <td>2</td>
      </tr>
     </table>
    </div>

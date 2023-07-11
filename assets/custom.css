@@ -650,3 +650,6 @@ div._citation div._center table tr td::nth-child(3) {
   text-align:right;
 }
  */
+div._citation div._center table tr td::nth-child(2) {
+  font-size:x-large;
+}
