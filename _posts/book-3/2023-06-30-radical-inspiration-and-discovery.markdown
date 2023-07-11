@@ -520,7 +520,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <div class='_center'>
         <img
          src='/assets/img/pic-recognitions-to-rads-equation.svg'
-         width='70%'
          alt=''>
        </div>
      </td>
