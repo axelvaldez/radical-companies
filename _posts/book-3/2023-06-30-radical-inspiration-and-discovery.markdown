@@ -451,7 +451,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </tr>
     </table>
    </div>
- <h2>Explicit Alignment</h2>
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
@@ -459,9 +458,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <td colspan='all'>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</td>
-      <tr id='_background'>
      </tr>
-     <tr>
+     <tr id='_background'>
       <td></td>
       <th>Impact</th>
      </tr>
@@ -491,7 +489,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
- <h2>Explicit Profile</h2>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
