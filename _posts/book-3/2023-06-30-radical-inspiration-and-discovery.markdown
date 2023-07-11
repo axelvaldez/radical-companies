@@ -23,6 +23,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
  <p>&ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending, because the system is too easy to game, particularly by powerful people. It adapts to fixes very fast.</p>
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
+  <div class='_center'>
+   <div class='_citation'>
+    <p style='font-size:150%;'>Creativity takes courage.</p>
+    <p id='_signature'>Henri Matisse</p>
+   </div>
+  </div>
+
   <div class='_citation'>
    <div class='_center'>
     <table>
