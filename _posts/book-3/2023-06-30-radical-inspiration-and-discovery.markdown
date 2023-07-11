@@ -461,6 +461,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <td colspan='2' style='border:0; '>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</td>
      </tr>
+    </table>
+   </div>  
+   <div class='_center'>
+    <table class='_explicitalignment'>
      <tr id='_background'>
       <td></td>
       <th>Impact</th>
@@ -469,6 +473,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>What for?</th>
       <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to lift the community out of its poverty</span> or it could be <span class='_quotespan'>to bring joy to children with ceative toys</span>. It doesn't have to be world shattering, but it has to be stated.</td>
      </tr>
+    </table>
+   </div>  
+   <div class='_center'>
+    <table class='_explicitalignment'>
      <tr id='_background'>
       <td></td>
       <th>Purpose</th>
@@ -477,12 +485,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Why?</th>
       <td>This is the reason the community is doing this. It could be anything as long as it starts with so,ething like <span class='_quotespan'>because&hellip;</span></td>
      </tr>
+    </table>
+   </div>  
+   <div class='_center'>
+    <table class='_explicitalignment'>
      <tr id='_background'>
       <td></td>
       <th>Mission</th>
      </tr>
      <tr>
-      <th>What?<br>When?<br>How?</th>
+      <th>What? When? >How?</th>
       <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
      </tr>
     </table>
