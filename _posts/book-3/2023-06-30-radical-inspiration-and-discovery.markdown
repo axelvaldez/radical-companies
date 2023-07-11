@@ -548,6 +548,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
              width='10%'>
            </td>
           </tr>
+          <tr>
+           <td>
+            caca
+           </td>
+          </tr>
        <!--
           <tr>
            <td class='_center'>
