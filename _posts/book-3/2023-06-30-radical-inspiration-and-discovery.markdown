@@ -477,9 +477,15 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Why?</th>
       <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespan'>because&hellip;</span></td>
      </tr>
+     <!--
      <tr id='_background'>
       <td></td>
-      <th>Mission xxx</th>
+      <th>Mission</th>
+     </tr>
+     -->
+     <tr id='_background'>
+      <td></td>
+      <th>Purpose xxx</th>
      </tr>
      <tr>
       <th>What?<br>When?<br>How?</th>
