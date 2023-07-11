@@ -621,6 +621,10 @@ em {
   background-color:#efefef;
   font-style:normal;
 }
+li p._list-item em {
+  background-color:white;
+  font-style:italic;
+}
 
 /*
  extended eg and ie
