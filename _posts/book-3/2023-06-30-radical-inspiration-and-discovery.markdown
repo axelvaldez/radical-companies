@@ -25,7 +25,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
   <div class='_citation'>
    <div class='_center'>
-    <table>
+    <table class='_center'>
      <tr>
       <td>
        <img
@@ -539,7 +539,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down one day and lifting up her spirits is a major contribution.</p>
        <div class='_citation'>
         <div class='_center'>
-         <table>
+         <table class='_center'>
           <tr>
            <td>
             <img
