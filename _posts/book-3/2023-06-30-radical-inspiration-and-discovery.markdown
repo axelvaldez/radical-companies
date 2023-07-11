@@ -405,7 +405,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <th colspan='all'>Explicit Relationships</th>
+      <th colspan='2' class='_center'>Explicit Relationships</th>
      </tr>
      <tr>
       <th>The world as experienced by you</th>
@@ -438,18 +438,18 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <th>Collaboration</th>
-       <td>
-        <ul>
-         <li>What is meaningful to you?</li>
-         <li>What gives you joy?</li>
-         <li>How can we help you collaborate with us?</li>
-         <li>What stops you on your tracks?</li>
-         <li>How can we avoid doing that?</li>
-         <li>How do we know when you are collaborating? How do you show up?</li>
-         <li>What impact you have to have?</li>
-        </ul>
-       </td>
-      </tr>
+      <td>
+       <ul>
+        <li>What is meaningful to you?</li>
+        <li>What gives you joy?</li>
+        <li>How can we help you collaborate with us?</li>
+        <li>What stops you on your tracks?</li>
+        <li>How can we avoid doing that?</li>
+        <li>How do we know when you are collaborating? How do you show up?</li>
+        <li>What impact you have to have?</li>
+       </ul>
+      </td>
+     </tr>
     </table>
    </div>
   <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistenly communicate what the community is about.</p>
