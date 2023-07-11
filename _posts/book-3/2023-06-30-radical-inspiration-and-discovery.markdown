@@ -527,44 +527,73 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </table>
   </div>
   <p>The reason I think this rTool is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
+  <div class='_citation'>
    <div class='_center'>
-    <table class='_h2table'>
+    <table>
      <tr>
-      <th>People can learn to be co-owners</th>
-      <td>1</td>
+      <td>
+       <img
+        src='/assets/img/pic-open-quote.svg'
+        style='padding:20px 0 20px 0; '
+        width='10%'>
+      </td>
      </tr>
      <tr>
-      <th>People can recognize contributions</th>
       <td>
-       <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
-       <div class='_citation'>
-        <div class='_center'>
-         <table>
-          <tr>
-           <td>
-            <img
-             src='/assets/img/pic-open-quote.svg'
-             style='padding:20px 0 20px 0; '
-             width='10%'>
-           </td>
-          </tr>
-          <tr>
-           <td>
-            <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
-            <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> She looked happy and uplifted.</p>
-           </td>
-          </tr>
-          <tr>
-           <td style='text-align:right; '>
-            <img
-             src='/assets/img/pic-close-quote.svg'
-             style='padding:20px 0 10px 0; '
-             width='10%'>
-           </td>
-          </tr>
-         </table>
+       <p style='font-size:150%;'>Creativity takes courage.</p>
+       <p id='_signature'>Henri Matisse</p>
+      </td>
+     </tr>
+     <tr>
+      <td style='text-align:right; '>
+       <img
+        src='/assets/img/pic-close-quote.svg'
+        style='padding:20px 0 10px 0; '
+        width='10%'>
+      </td>
+     </tr>
+    </table>
+   </div>
+  </div>
+   <div class='_citation'>
+    <div class='_center'>
+     <table class='_h2table'>
+      <tr>
+       <th>People can learn to be co-owners</th>
+       <td>1</td>
+      </tr>
+      <tr>
+       <th>People can recognize contributions</th>
+       <td>
+        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
+        <div class='_citation'>
+         <div class='_center'>
+          <table>
+           <tr>
+            <td style='text-align:center; '>
+             <img
+              src='/assets/img/pic-open-quote.svg'
+              style='padding:20px 0 20px 0; '
+              width='10%'>
+            </td>
+           </tr>
+           <tr>
+            <td>
+             <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
+             <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> She looked happy and uplifted.</p>
+            </td>
+           </tr>
+           <tr>
+            <td style='text-align:right; '>
+             <img
+              src='/assets/img/pic-close-quote.svg'
+              style='padding:20px 0 10px 0; '
+              width='10%'>
+            </td>
+           </tr>
+          </table>
+         </div>
         </div>
-       </div>
        <p>That was a major contribution. The act of noticing that somebody was not her usual self and engaging it in conversations was definitely a major contribution to the yound woman and indirectly to the company. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, if I were in the grip of my <span class='_paradigm'>Fiat</span> cage, <span class='_quotespan'>that was really good, but no, it doesn&rsquo;t equate to the number of check ins I did yesterday.</span> In order to recognize all kinds of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment we need.</p>
       </td>
      </tr>
@@ -574,6 +603,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
+  </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it is world changing</p>
 
 <h1>Pain vs Wellbeing</h1>
