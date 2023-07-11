@@ -505,7 +505,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </table>
   </div>
   <p>The reason I think this rTool is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
-  <div class='_citation'>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
@@ -529,8 +528,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
-  </div>
-  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it is world changing</p>
+  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it will be world changing</p>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
