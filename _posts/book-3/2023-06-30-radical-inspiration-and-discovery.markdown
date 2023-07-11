@@ -471,7 +471,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <th>What for?</th>
-      <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to reduce poverty</span> or <span class='_quotespan'>to bring joy.</span> It doesn&rsquo;t have to be world shattering, but it has to be explicit.</td>
+      <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>To reduce poverty</span> or <span class='_quotespan'>Happy children.</span> It doesn&rsquo;t have to be world shattering, but it has to be explicit.</td>
      </tr>
     </table>
    </div>
