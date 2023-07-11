@@ -651,5 +651,5 @@ div._citation div._center table tr td::nth-child(3) {
 }
  */
 div._citation div._center table tr td:nth-child(2) {
-  font-size:larger;
+  font-size:smallerr;
 }
