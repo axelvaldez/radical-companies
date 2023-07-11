@@ -493,10 +493,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </th>
       <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
      </tr>
-    </table>
-   </div>
-   <div class='_center'>
-    <table class='_h2table'>
      <tr>
       <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:none; '>Explicit Profile</td>
      </tr>
