@@ -555,7 +555,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
            </td>
           </tr>
           <tr>
-           <td style='text-align:right; background-color:lime; '>
+           <td style='text-align:right; background-color:transparent; '>
             <img
              src='/assets/img/pic-close-quote.svg'
              style='padding:20px 0 10px 0; '
@@ -565,7 +565,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          </table>
         </div>
        </div>
-       <p>That was a major contribution. The act of noticing that somebody was not her usual self and engaging it in conversations was definitely a major contribution to the yound woman and indirectly to the company. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, if I were in the grip of my <span class='_paradigm'>Fiat</span> cage, <span class='_quotespan'>that was really good, but no, it doesn&rsquo;t equate to the number of check ins I did yesterday.</span> We have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment we need.</p>
+       <p>That was a major contribution. The act of noticing that somebody was not her usual self and engaging it in conversations was definitely a major contribution to the yound woman and indirectly to the company. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, if I were in the grip of my <span class='_paradigm'>Fiat</span> cage, <span class='_quotespan'>that was really good, but no, it doesn&rsquo;t equate to the number of check ins I did yesterday.</span> In order to recognize all kinds of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment we need.</p>
       </td>
      </tr>
      <tr>
