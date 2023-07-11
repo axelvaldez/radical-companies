@@ -527,8 +527,39 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </table>
   </div>
   <p>The reason I think this rTool is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
+  xxx
+  <div class='_citation'>
    <div class='_center'>
-    <table class='_h2table'>
+    <table>
+     <tr>
+      <td>
+       <img
+        src='/assets/img/pic-open-quote.svg'
+        style='padding:20px 0 20px 0; '
+        width='10%'>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       <p style='font-size:150%;'>Creativity takes courage.</p>
+       <p id='_signature'>Henri Matisse</p>
+      </td>
+     </tr>
+     <tr>
+      <td style='text-align:right; '>
+       <img
+        src='/assets/img/pic-close-quote.svg'
+        style='padding:20px 0 10px 0; '
+        width='10%'>
+      </td>
+     </tr>
+    </table>
+   </div>
+  </div>
+  xxx
+  <div class='_citation'>
+   <div class='_center'>
+    <table>>
      <tr>
       <th>People can learn to be owners</th>
       <td>1</td>
@@ -574,6 +605,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </tr>
     </table>
    </div>
+  </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it is world changing</p>
 
 <h1>Pain vs Wellbeing</h1>
