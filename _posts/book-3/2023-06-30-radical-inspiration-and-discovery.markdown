@@ -570,7 +570,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <div class='_center'>
           <table>
            <tr>
-            <td style='text-align:center; '>
+            <td>
              <img
               src='/assets/img/pic-open-quote.svg'
               style='padding:20px 0 20px 0; '
