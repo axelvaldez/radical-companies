@@ -469,13 +469,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>What for?</th>
       <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>to lift the community out of its poverty</span> or it could be <span class='_quotespan'>to bring joy to children with ceative toys</span>. It doesn't have to be world shattering, but it has to be stated.</td>
      </tr>
+      <td>Here is 
      <tr id='_background'>
       <td></td>
       <th>Purpose</th>
      </tr>
      <tr>
-      <th>Why?</th>
-      <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespan'>because&hellip;</span></td>
+      <th>Why?</ththe reason why the community is doing this. It could anything as long as it starts with <span class='_quotespan'>because&hellip;</span></td>
      </tr>
      <!--
      <tr id='_background'>
