@@ -405,7 +405,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <th colspan='2' class='_center'>Explicit Relationships</th>
+      <td colspan='2' class='_center'>Explicit Relationships</td>
      </tr>
      <tr>
       <th>The world as experienced by you</th>
