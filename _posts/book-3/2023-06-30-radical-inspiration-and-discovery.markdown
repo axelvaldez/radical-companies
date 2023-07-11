@@ -526,6 +526,54 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
+  <p>The reason I think this rTool is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>People can to learn to be a co-owner.</th>
+      <td></td>
+     </tr>
+     <tr>
+      <th>People can to recognize contributions.</th>
+      <td>
+       <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down one day and lifting up her spirits is a major contribution.</p>
+       <div class='_citation'>
+       <div class='_citation'>
+        <div class='_center'>
+         <table>
+          <tr>
+           <td class='_center'>
+            <img
+             src='/assets/img/pic-open-quote.svg'
+             style='padding:20px 0 20px 0; '
+             width='10%'>
+           </td>
+          </tr>
+          <tr>
+           <td>
+            <p style='font-size:150%; text-align:center; '>The cleaning lady went by picking up the stuff people had left behind the day before. There were a few people in the office at the time. One if them being a young woman who looked really sad. In fact, she was playing games on her phone. The cleaning lady went to the end of the office and when she came up she started talking to the young woman. It was easy to overhear, so I did. It turned out that she had been dumped the night before and she had not slep. She decided to come to the office early instead of facing the walls of her home. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span><p>
+           </td>
+          </tr>
+          <tr>
+           <td class='_center'>
+            <img
+             src='/assets/img/pic-close-quote.svg'
+             style='padding:20px 0 10px 0; '
+             width='10%'>
+           </td>
+          </tr>
+         </table>
+        </div>
+       </div>
+      </td>
+     </tr>
+     <tr>
+      <th>People can to learn to be distribute ownership to their peers.</th>
+      <td></td>
+     </tr>
+    </table>
+   </div>
+  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it is world changing</p>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
