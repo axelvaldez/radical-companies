@@ -77,7 +77,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school, too, is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
   <div class='_center'>
    <img
-    src='/assets/img/pic-fiat-not-fiat-glass.svg'
+    src='/assets/img/pic-fiat-not-fiat-glassES.svg'
     width='70%'
     alt=''>
   </div>
@@ -516,7 +516,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>What Are RADs?</th>
      <td>
       <p><span class='_paradigm'>RAD</span>s are like tokens. Not crypto token or any such nonsense. Your <span class='_paradigm'>RAD</span>s really are a percentage of all <span class='_paradigm'>RAD</span>s ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
-      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever movivates you to press the recognition buttom.</p>
+      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever movivates you to press the recognition button.</p>
        <div class='_center'>
         <img
          src='/assets/img/pic-recognitions-to-rads-equation.svg'
