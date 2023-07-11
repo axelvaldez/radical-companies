@@ -619,6 +619,7 @@ ul th, ul td, ul th p, ul td p {
  */
 em {
   background-color:#efefef;
+  background-color:red;
   font-style:normal;
 }
 li p._list-item em {
