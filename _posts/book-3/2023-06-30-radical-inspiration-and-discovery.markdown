@@ -473,8 +473,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Why?</th>
       <td>This is the reason the community is doing this. It could be anything as long as it starts with so,ething like <span class='_quotespan'>because&hellip;</span></td>
      </tr>
-    </table>
-   </div>
+  <!-- 
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr id='_background'>
@@ -487,8 +486,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
-    <div class='_center'>
-    <table class='_explicitalignment'>
+-->
      <tr id='_background'>
       <td></td>
       <th>Impact</th>
