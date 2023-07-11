@@ -482,9 +482,6 @@ div table._background, div table._foundation {
   display:grid;
   place-items:center;
 }
-._adorned {
-  font-size:larger;
-}
 ._mb0 {
   margin-bottom:0;
 }
@@ -636,15 +633,15 @@ li p._list-item em {
 /*
  * _citation table
  */
-div._citation table td:before {
+div._citation td:before {
   content:'/assets/img/pic-open-quote.svg';
   width:'10%';
   text-align:left;
 }
-div._citation table tr td {
+div._citation td {
   font-size:smallerr;
 }
-div._citation table td#signature:after {
+div._citation td#signature:after {
   content:'/assets/img/pic-close-quote.svg';
   width:'10%';
   text-align:right;
