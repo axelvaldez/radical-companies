@@ -529,7 +529,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <th>People can learn to distribute ownership of the company to their peers</th>
-      <td>2</td>
+      <td>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. The investor hands over cash, and in exchange the business owner signs a stock certificate over to the investor.</td>
      </tr>
     </table>
    </div>
