@@ -27,7 +27,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table>
      <tr>
-      <td class='_center'>
+      <td>
        <img
         src='/assets/img/pic-open-quote.svg'
         style='padding:20px 0 20px 0; '
@@ -36,12 +36,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <td>
-       <p style='font-size:150%; text-align:center; '>Creativity takes courage.</p>
+       <p style='font-size:150%;'>Creativity takes courage.</p>
        <p id='_signature'>Henri Matisse</p>
       </td>
      </tr>
      <tr>
-      <td class='_center'>
+      <td>
        <img
         src='/assets/img/pic-close-quote.svg'
         style='padding:20px 0 10px 0; '
