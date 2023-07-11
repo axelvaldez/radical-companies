@@ -405,7 +405,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:transparent; '>Explicit Relationships</td>
+      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:white; opacity:50%; '>Explicit Relationships</td>
      </tr>
      <tr>
       <th>The world as experienced by you</th>
@@ -456,7 +456,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger;  background-color:white;'>Explicit Alignment</td>
+      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:white; opacity:50%; '>Explicit Alignment</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</td>
@@ -494,7 +494,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:0; font-size:larger; '>Explicit Profile</td>
+      <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:white; opacity:50%; '>Explicit Profile</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>
