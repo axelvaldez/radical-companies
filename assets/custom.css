@@ -644,7 +644,7 @@ div._citation div._center table td:before {
 div._citation div._center table tr td {
   font-size:smallerr;
 }
-div._citation div._center table td:after {
+div._citation div._center table td#signature:after {
   content:'/assets/img/pic-close-quote.svg';
   width:'10%';
   text-align:right;
