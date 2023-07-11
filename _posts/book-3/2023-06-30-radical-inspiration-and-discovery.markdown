@@ -497,7 +497,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td colspan='2' style='text-align:center; border:0; font-size:larger; background-color:none; '>Explicit Profile</td>
      </tr>
      <tr>
-      <td colspan='2'>Your explicit profile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
+      <td colspan='2' style='border:0; '>Your explicit profile is something that you maintain to let others know about, what bothers you, etc. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel. Our Fiat training goes against this, goes against being vulnerable, <span class='_quotespane'>because people can use use it against you.</span> But others can&rsquo;t help you without knowing you. For the <span class='_paradigm'>Radical</span> model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</td>
      </tr>
     </table>
    </div>
