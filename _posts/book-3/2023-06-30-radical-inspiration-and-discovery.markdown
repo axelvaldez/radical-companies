@@ -479,14 +479,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr id='_background'>
       <td></td>
-      <th>Mission</th>
+      <th>Mission xxx</th>
      </tr>
      <tr>
-      <th>
-       What?<br>
-       When?<br>
-       How?
-      </th>
+      <th>What?<br>When?<br>How?</th>
       <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
      </tr>
     </table>
