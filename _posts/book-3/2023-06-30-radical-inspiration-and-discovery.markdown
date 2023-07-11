@@ -467,6 +467,15 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <table class='_explicitalignment'>
      <tr id='_background'>
       <td></td>
+      <th>Impact</th>
+     </tr>
+     <tr>
+      <th>What for?</th>
+      <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>To reduce poverty</span> or <span class='_quotespan'>Happy children.</span> It doesn&rsquo;t have to be world shattering, but it has to be explicit.</td>
+     </tr>
+    </table>
+     <tr id='_background'>
+      <td></td>
       <th>Mission</th>
      </tr>
      <tr>
@@ -481,15 +490,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Why?</th>
       <td>This is the reason the community is doing this. It could be anything as long as it starts with so,ething like <span class='_quotespan'>because&hellip;</span></td>
      </tr>
-     <tr id='_background'>
-      <td></td>
-      <th>Impact</th>
-     </tr>
-     <tr>
-      <th>What for?</th>
-      <td>This is the Impact that the community wants to make. It could be <span class='_quotespan'>To reduce poverty</span> or <span class='_quotespan'>Happy children.</span> It doesn&rsquo;t have to be world shattering, but it has to be explicit.</td>
-     </tr>
-    </table>
    </div>  <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
