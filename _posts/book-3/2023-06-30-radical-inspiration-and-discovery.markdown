@@ -477,6 +477,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Why?</th>
       <td>Here is the reason why the community is doing this. It could anything as long as it starts with <span class='_quotespaen'>because&helllip;</span></td>
      </tr>
+    </table>
+   </div>
+   <div class='_center'>
+    <table class='_explicitalignment'>
      <tr id='_background'>
       <td></td>
       <th>Mission</th>
