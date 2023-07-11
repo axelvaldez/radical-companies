@@ -401,11 +401,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>The only consistent &rdquo;tool&ldquo; in the <span class='_paradigm'>Radical</span> model is force.</p>
  <h2>Radical</h2>
-  <p>These are some of the tools that have worked for us in our <span class='_paradigm'>Radical</span> work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</p>
-  <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistenly communicate what the community is about.</p>
-  <h2>Explicit Relationships</h2>
+  <p>These are some of the tools that have worked for us in our work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</p>
    <div class='_center'>
     <table class='_h2table'>
+     <tr>
+      <th colspan='all'>Explicit Relationships</th>
+     </tr>
      <tr>
       <th>The world as experienced by you</th>
       <td>
@@ -451,6 +452,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </tr>
     </table>
    </div>
+  <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistenly communicate what the community is about.</p>
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
