@@ -501,7 +501,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
   <p>The other rTool, and to me the most fundamental one, is the <eg>RADs! Mobile App</eg>.</p>
 
-      <div class='_center'>
+<div class='_center'>
        <table class='_explicitalignment'>
         <tr id='_background'>
          <td></td>
@@ -532,7 +532,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
         </tr>
        </table>
-      </div>
+</div>
+
 <h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
  <h2>Non-Fiat</h2>
