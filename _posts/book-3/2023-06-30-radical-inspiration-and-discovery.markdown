@@ -528,11 +528,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, thats why practice is necessesary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
       </td>
      </tr>
+-->
      <tr>
       <th>People can learn to distribute ownership of the company to their peers</th>
       <td>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumping, the investor hands over cash, and in exchange the business owner signs a stock certificate over to the investor.</td>
      </tr>
--->
     </table>
    </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it will be world changing</p>
