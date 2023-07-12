@@ -25,7 +25,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
   <div class='_center'>
    <div class='_citation'>
-    <p style='font-size:150%;'>Creativity takes courage.</p>
+    <p>Creativity takes courage.</p>
     <p id='_signature'>Henri Matisse</p>
    </div>
   </div>

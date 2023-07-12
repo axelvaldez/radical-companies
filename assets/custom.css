@@ -357,7 +357,7 @@ span._paradigm {
 }
 ._citation p {
   font-style: italic;
-  margin-bottom: 0;
+  font-size:150%;
 }
 ._citation p::before {
   content:"“";
