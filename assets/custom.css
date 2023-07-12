@@ -368,7 +368,7 @@ span._paradigm {
 }
 ._citation p::after {
   content:"”";
-  margin-top:-10px;
+  margin-top:-40px;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
