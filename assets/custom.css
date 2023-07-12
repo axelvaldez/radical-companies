@@ -633,7 +633,7 @@ li p._list-item em {
 /*
  * _citation table
  */
-._citation tr p:before {
+._citation p:before {
   content:'/assets/img/pic-open-quote.svg';
   width:'10%';
   text-align:left;
@@ -641,7 +641,7 @@ li p._list-item em {
 ._citation td {
   font-size:smaller;
 }
-._citation tr p#_signature:after {
+div._citation:has(+ p:after) {
   content:'/assets/img/pic-close-quote.svg';
   width:'10%';
   text-align:right;
