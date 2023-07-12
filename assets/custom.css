@@ -637,7 +637,7 @@ li p._list-item em {
   position:absolute;
   width:10%;
   text-align:left;
-  padding-left:-50px;
+  padding-left:100px;
   content:url('/assets/img/pic-open-quote.svg');
 }
 ._citation + p {
