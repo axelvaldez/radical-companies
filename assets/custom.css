@@ -652,12 +652,15 @@ li p._list-item em {
 }
 ._citation p::after {
   content:"”";
-  margin:-1rem 0 0 0;
+  margin:0 0 0 0;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
 }
 ._citation #_signature {
-  margin-top:2rem;
+  margin-top:3rem;
   font-size:1.5rem;
+}
+._citation #_signature:before {
+  content:"— ";
 }
