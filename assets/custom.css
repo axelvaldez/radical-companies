@@ -359,25 +359,25 @@ span._paradigm {
   font-style: italic;
   font-size:150%;
 }
-._citation p::before {
+._citation + p::before {
   content:"“";
   margin:-3rem 0 0 -8rem;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
 }
-._citation p::after {
+._citation + p::after {
   content:"”";
-  margin-top:-40px;
+  margin:-40px 0 0 0;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
 }
-#_signature {
+p#_signature {
   font-size:1.5rem;
   padding-bottom:60px;
 }
-#_signature::before {
+p#_signature::before {
   content:"— ";
   margin-left:40px;
 }
