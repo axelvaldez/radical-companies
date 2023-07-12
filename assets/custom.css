@@ -361,6 +361,7 @@ span._paradigm {
   border:#ED8849 1px solid;
   padding:5px 10px 5px 10px;
   margin:15px 20px 15px 20px;
+  background-image: url("pic-open-quote");
 }
 p#_signature {
   font-size:1rem;
