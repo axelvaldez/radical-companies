@@ -355,7 +355,7 @@ span._paradigm {
   color:cadetblue;
   font-family: Tahoma, sans-serif;
   font-style: italic;
-  font-size:150%;
+  font-size:120%;
 }
 ._citation + p::before {
   content:"“";
@@ -372,7 +372,7 @@ span._paradigm {
   position:absolute;
 }
 p#_signature {
-  font-size:1.5rem;
+  font-size:1rem;
 }
 p#_signature::before {
   content:"— ";
