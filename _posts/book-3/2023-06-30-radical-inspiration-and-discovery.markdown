@@ -528,7 +528,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         </div>
        <p>That was a major contribution. The fact that,</p>
         <ul>
-         <li>She notice that somebody was not her usual self, and</li>
+         <li>She noticed that somebody was not her usual self, and</li>
          <li>She engaged her in conversations.</li>
         </ul>
        <p>It was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
