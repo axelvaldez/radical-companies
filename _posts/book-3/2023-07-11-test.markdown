@@ -12,7 +12,7 @@ image:    "icon-ptsd-and-trust.svg"
 
 <div class='_center'>
  <div class='_citation'>
-  <p>Creativity takes courage.</p>
+  <p>Creativity takes courage</p>
   <div id='_signature'>Henri Matisse</div>
  </div>
 </div>
