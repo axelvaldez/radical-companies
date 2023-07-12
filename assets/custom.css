@@ -644,7 +644,7 @@ li p._list-item em {
 }
 ._citation p::before {
   content: "“";
-  margin: -2rem 0 -2rem -4rem;
+  margin: -2rem 0 0 -8rem;
   font-family: Georgia;
   font-size: 8rem;
   position: absolute;
