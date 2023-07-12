@@ -537,21 +537,25 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it will be world changing</p>
 
+<h1>The Little R</h1>
+ <h2>Fiat</h2>
+ <h2>Radical</h2>
+
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
+ <h2>Radical</h2>
 
 <h1>Transcendence</h1>
  <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
+ <h2>Radical</h2>
 
 <h1>Owning the Commons</h1>
  <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
+ <h2>Radical</h2>
 
 <h1>Military and Force</h1>
  <h2>Fiat</h2>
- <h2>Non-Fiat</h2>
+ <h2>Radical</h2>
 
 <h1 class='_section'>ENDNOTES</h1>
  <ul>
