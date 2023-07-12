@@ -553,12 +553,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>The <span class='_paradigm'>Fiat</span> model is based on <span class='_paradigm'>Pain</span> and people have gotten used to avoiding pain and survive.</p>
   <p>In the <span class='_paradigm'>Fiat</span> system, a threat is usually enough.</p>
    <img
-    src='/assets/img/pic-fiat-pain.svb'
+    src='/assets/img/pic-fiat-pain.svg'
     width:''>
  <h2>Radical</h2>
   <p>The <span class='_paradigm'>Radical</span> foundation is all about <span class='_paradigm'>wellbeing</span> for you and your community to live the lives you choose to live.</p>
    <img
-    src='/assets/img/pic-radical-wellbeing.svb'
+    src='/assets/img/pic-radical-wellbeing.svg'
     width:''>
 
 <h1>Transcendence</h1>
