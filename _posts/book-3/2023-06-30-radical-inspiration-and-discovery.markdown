@@ -37,7 +37,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing the way you feel.</p>
 
 <h1>What Does Fiat Even Mean?</h1>
- <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And it is an Italian automobile brand that stands for <em>Fabbrica Italiana Automobili Torino.</em> Thus the acronym, FIAT.</p>
+ <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT is the name of an Italian automobile car manufacturer; it stands for <em>Fabbrica Italiana Automobili Torino.</em> Thus the acronym.</p>
  <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is. Money used to be an equivalent to gold, but that stopped in the 70s. Now it is <span class='_quotespan'>because the country says so (and nominally its economy).</span>.</p>
  <p>In the context of giving orders, the phrase additionally carries an implied threat: <span class='_quotespan'>or else.</span></p>
@@ -520,7 +520,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td>
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
         <div class='_citation'>
-         <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
+         <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. Including a young woman who looked really down.</p>
          <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> She looked happy and uplifted.</p>
         </div>
        <p>That was a major contribution. The fact that,</p>
