@@ -339,32 +339,49 @@ span._paradigm {
 }
 
 /*
- * _quotation & _citation
-._quotation, ._citation {
+ * _quotation
+ */
+ ._quotation {
   font-family:'Courier New', Courier, monospace;
   background-color:AntiqueWhite;
   border:peru 4px solid;
   padding:0 40px 0 40px;
 }
-#_signature, 
-._signature {
-  display: block;
-  text-indent:-1em;
-  font-style:italic;
-  font-family:cursive;
-  padding-top:10px;
-  text-align:center;
-}
-#_signature::before, 
-._signature::before  {
-  text-indent:-0.3em;
-  content:"— ";
-}
-._quotation p:first-child,
-._citation p:first-child {
-  text-indent:0;
-}
+
+/*
+ * _citation
  */
+._citation {
+  color:cadetblue;
+  font-family: Tahoma, sans-serif;
+  font-size: 40px;
+}
+._citation p {
+  font-style: italic;
+  margin-bottom: 0;
+}
+._citation p::before {
+  content:"“";
+  margin:-3rem 0 0 -8rem;
+  font-family:Georgia;
+  font-size:8rem;
+  position:absolute;
+}
+._citation p::after {
+  content:"”";
+  margin:-24px 0 0 0;
+  font-family:Georgia;
+  font-size:8rem;
+  position:absolute;
+}
+._citation #_signature {
+  margin-top:3rem;
+  font-size:1.5rem;
+}
+._citation #_signature:before {
+  content:"— ";
+  margin-left:40px;
+}
 
 /*
  * dialog: begin
@@ -633,34 +650,3 @@ li p._list-item em {
 /*
  * new _citation and #_signature
  */
-._citation {
-  color: black;
-  font-family: Tahoma, sans-serif;
-  font-size: 40px;
-}
-._citation p {
-  font-style: italic;
-  margin-bottom: 0;
-}
-._citation p::before {
-  content:"“";
-  margin:-3rem 0 0 -8rem;
-  font-family:Georgia;
-  font-size:8rem;
-  position:absolute;
-}
-._citation p::after {
-  content:"”";
-  margin:-24px 0 0 0;
-  font-family:Georgia;
-  font-size:8rem;
-  position:absolute;
-}
-._citation #_signature {
-  margin-top:3rem;
-  font-size:1.5rem;
-}
-._citation #_signature:before {
-  content:"— ";
-  margin-left:40px;
-}
