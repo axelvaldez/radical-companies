@@ -379,9 +379,6 @@ p#_signature::before {
   content:"— ";
   margin-left:40px;
 }
-p#_signature::after {
-  content:" abc";
-}
 
 /*
  * dialog: begin
