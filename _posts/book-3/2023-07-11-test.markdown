@@ -10,9 +10,11 @@ image:    "icon-ptsd-and-trust.svg"
  <p></p>
 </div>
 
-<div class='_citation'>
- <p>Content</p>
- <div id='_signature'>signature</div>
+<div class=_center'>
+ <div class='_citation'>
+  <p>Content</p>
+  <div id='_signature'>signature</div>
+ </div>
 </div>
 
 {% include related.html %}
