@@ -357,14 +357,14 @@ span._paradigm {
   font-style: italic;
   font-size:120%;
 }
-._citation + p::before {
+._citation::before {
   content:"“";
   margin:-3rem 0 0 -8rem;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
 }
-._citation + p::after {
+._citation::after {
   content:"”";
   margin:-40px 0 0 0;
   font-family:Georgia;
