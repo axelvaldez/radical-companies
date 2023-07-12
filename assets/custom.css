@@ -374,11 +374,11 @@ span._paradigm {
   font-size:8rem;
   position:absolute;
 }
-._citation #_signature {
+#_signature {
   margin-top:3rem;
   font-size:1.5rem;
 }
-._citation #_signature:before {
+#_signature:before {
   content:"— ";
   margin-left:40px;
 }
