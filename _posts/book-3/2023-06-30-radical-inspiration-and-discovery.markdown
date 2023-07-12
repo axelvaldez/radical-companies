@@ -530,7 +530,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <li>She notice that somebody was not her usual self, and</li>
          <li>Engaging her in conversations.</li>
         </ul>
-       <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, thats why practice is necessesary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
+       <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
       </td>
      </tr>
      <tr>
