@@ -39,7 +39,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>What Does Fiat Even Mean?</h1>
  <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino.</em> Thus the acronym.</p>
  <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
- <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is. Money used to be an equivalent to gold, but that stopped in the 70s. Now it is <span class='_quotespan'>because the country says so (and nominally its economy).</span>.</p>
+ <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 70s. Now it is <span class='_quotespan'>because the country says so (and nominally its economy).</span>.</p>
  <p>In the context of giving orders, the phrase additionally carries an implied threat: <span class='_quotespan'>or else.</span></p>
  <p><span class='_quotespan'>Move those boxes over there</span> because I say so,&hellip; or else.</span></p>
 
