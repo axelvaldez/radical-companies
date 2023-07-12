@@ -512,8 +512,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <th>People can learn to be owners</th>
-      <td>1</td>
+      <th>People need to learn how to be owners</th>
+      <td>
+       <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owners&hellip; well, we don&rsquo;t talk about that. <span class='_quotespan'>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</span>. And if the business fails to make you &ldquo;a bare living&rdquo;, that mark&rsquo;s on you forever. <span class='_quotespan'>Get a good job instead. I hear the post office is hiring!</span></p>
+       <p>People need to learn to be owners and all the fear that it brings up. The have to lear to recognize others&rsquo; contribrutions without being afraid of <span class='_quotespan'>making them look good.</span> People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
+      </td>
      </tr>
      <tr>
       <th>People can notice and recognize contributions</th>
@@ -526,9 +529,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>That was a major contribution. The fact that,</p>
         <ul>
          <li>She notice that somebody was not her usual self, and</li>
-         <li>Engaging her in conversations.</li>
+         <li>She engaged her in conversations.</li>
         </ul>
-       <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
+       <p>It was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
+       <p>If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
       </td>
      </tr>
      <tr>
