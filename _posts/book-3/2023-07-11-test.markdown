@@ -13,7 +13,7 @@ image:    "icon-ptsd-and-trust.svg"
 <div class='_center'>
  <div class='_citation'>
   <p>Content</p>
-  <div id='_signature'>signature++</div>
+  <div id='_signature'>signature+-</div>
  </div>
 </div>
 
