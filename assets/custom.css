@@ -358,18 +358,20 @@ span._paradigm {
   font-size:120%;
 }
 ._citation::before {
-  content:"“";
+  color:cadetblue;
   margin:-3rem 0 0 -8rem;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
+  content:"“";
 }
 ._citation::after {
-  content:"”";
+  color:cadetblue;
   margin:-40px 0 0 0;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
+  content:"”";
 }
 p#_signature {
   font-size:1rem;
