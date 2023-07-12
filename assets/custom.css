@@ -629,22 +629,3 @@ li p._list-item em {
  .eg, .ie {
   font-style:italic;
 }
-
-/*
- * _citation table
- */
-._citation:before {
-  position:absolute;
-  width:10%;
-  text-align:left;
-  padding-left:0;
-  content:url('/assets/img/pic-open-quote.svg');
-}
-/*
-._citation:after {
-  position:absolute;
-  width:10%;
-  text-align:right;
-  content:url('/assets/img/pic-close-quote.svg');
-}
-*/
