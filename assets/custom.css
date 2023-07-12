@@ -643,18 +643,20 @@ li p._list-item em {
   margin-bottom: 0;
 }
 ._citation p::before {
-  content: "“";
-  margin: -2rem 0 0 -8rem;
-  font-family: Georgia;
-  font-size: 8rem;
-  position: absolute;
+  content:"“";
+  margin:-3rem 0 0 -8rem;
+  font-family:Georgia;
+  font-size:8rem;
+  position:absolute;
 }
 ._citation p::after {
-  content: "”";
-  font-family: Georgia;
-  font-size: 8rem;
-  position: absolute;
+  content:"”";
+  margin-bottom:-2rem;
+  font-family:Georgia;
+  font-size:8rem;
+  position:absolute;
 }
 ._citation #_signature {
-  font-size: 1.5rem;
+  margin-top:2rem;
+  font-size:1.5rem;
 }
