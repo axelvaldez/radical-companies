@@ -357,14 +357,6 @@ span._paradigm {
   font-style: italic;
   font-size:120%;
 }
-._citation::before {
-  color:cadetblue;
-  margin:-3rem 0 0 -5rem;
-  font-family:Georgia;
-  font-size:8rem;
-  position:absolute;
-  content:"“";
-}
 p#_signature {
   font-size:1rem;
 }
