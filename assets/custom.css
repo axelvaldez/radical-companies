@@ -340,7 +340,6 @@ span._paradigm {
 
 /*
  * _quotation & _citation
- */
 ._quotation, ._citation {
   font-family:'Courier New', Courier, monospace;
   background-color:AntiqueWhite;
@@ -365,6 +364,7 @@ span._paradigm {
 ._citation p:first-child {
   text-indent:0;
 }
+ */
 
 /*
  * dialog: begin
