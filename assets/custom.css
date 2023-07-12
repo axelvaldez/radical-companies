@@ -358,6 +358,8 @@ span._paradigm {
   text-align:justify;
   text-justify:inter-word;
   font-size:120%;
+  border:#ED8849 1px solid;
+  padding:5px 10px 5px 10px;
 }
 p#_signature {
   font-size:1rem;
