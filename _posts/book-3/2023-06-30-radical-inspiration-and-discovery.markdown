@@ -481,7 +481,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
-  <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
+  <p>The other rTool, and to me the most fundamental one, is the <em><span class='_paradigm'>RADs! Mobile App</span></em>.</p>
 
 <h1>The Little R</h1>
  <h2>Fiat</h2>
@@ -508,7 +508,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-  <p>The reason I think this rTool is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
+  <p>The reason I think the <em><span class='_paradigm'>RADs! Mobile App</span></em> is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
@@ -519,7 +519,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </td>
      </tr>
      <tr>
-      <th>People can notice and recognize contributions</th>
+      <th>People need to learn to notice and recognize contributions</th>
       <td>
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
         <div class='_citation'>
@@ -536,7 +536,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       </td>
      </tr>
      <tr>
-      <th>People can learn to distribute ownership of the company to their peers</th>
+      <th>People need to learn to distribute ownership of the company to their peers</th>
       <td>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumping the investor hands over cash and in exchange the business owner signs a stock certificate over to the investor.</td>
      </tr>
     </table>
