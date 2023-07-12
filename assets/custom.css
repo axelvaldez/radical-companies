@@ -351,11 +351,6 @@ span._paradigm {
 /*
  * _citation
  */
-  <div class='_citation'>
-   <p>Creativity takes courage.</p>
-   <p id='_signature'>Henri Matisse</p>
-  </div>
-
 ._citation {
   color:cadetblue;
   font-family: Tahoma, sans-serif;
