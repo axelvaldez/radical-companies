@@ -642,17 +642,18 @@ li p._list-item em {
   font-style: italic;
   margin-bottom: 0;
 }
-._citation p::before,
-._citation p::after {
+._citation p::before {
   content: "“";
+  margin: -2rem 0 -2rem -4rem;
   font-family: Georgia;
   font-size: 8rem;
-  margin: -2rem 0 0 -4rem;
   position: absolute;
 }
 ._citation p::after {
   content: "”";
-  margin: -1rem -4rem 0 0;
+  font-family: Georgia;
+  font-size: 8rem;
+  position: absolute;
 }
 ._citation #_signature {
   font-size: 1.5rem;
