@@ -522,7 +522,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td>
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
         <div class='_citation'>
-         <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. Including a young woman who looked really down.</p>
+         <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
          <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> Now she looked happy and uplifted.</p>
         </div>
        <p>That was a major contribution. The fact that,</p>
