@@ -634,7 +634,7 @@ li p._list-item em {
  * _citation table
  */
 ._citation p:before {
-  position:absolute;
+  position:relative;
   width:10%;
   text-align:left;
   content:url('/assets/img/pic-open-quote.svg');
@@ -643,7 +643,7 @@ li p._list-item em {
   font-size:smaller;
 }
 ._citation:has(+ p:after) {
-  position:absolute;
+  position:relative;
   width:10%;
   text-align:right;
   content:url('/assets/img/pic-close-quote.svg');
