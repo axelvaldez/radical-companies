@@ -634,15 +634,15 @@ li p._list-item em {
  * _citation table
  */
 ._citation p:before {
-  content:url('/assets/img/pic-open-quote.svg');
   width:'10%';
   text-align:left;
+  content:url('/assets/img/pic-open-quote.svg');
 }
 ._citation td {
   font-size:smaller;
 }
 div._citation:has(+ p:after) {
-  content:url('/assets/img/pic-close-quote.svg');
   width:'10%';
   text-align:right;
+  content:url('/assets/img/pic-close-quote.svg');
 }
