@@ -550,18 +550,19 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p></p>
  <h2>Radical</h2>
+  <p></p>
 
 <h1>Transcendence</h1>
  <h2>Fiat</h2>
+  <p></p>
  <h2>Radical</h2>
-
-<h1>Owning the Commons</h1>
- <h2>Fiat</h2>
- <h2>Radical</h2>
+  <p></p>
 
 <h1>Military and Force</h1>
  <h2>Fiat</h2>
+  <p></p>
  <h2>Radical</h2>
+  <p></p>
 
 <h1 class='_section'>ENDNOTES</h1>
  <ul>
