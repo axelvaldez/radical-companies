@@ -652,7 +652,7 @@ li p._list-item em {
 }
 ._citation p::after {
   content:"”";
-  margin:0 0 0 0;
+  margin:-24px 0 0 0;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
