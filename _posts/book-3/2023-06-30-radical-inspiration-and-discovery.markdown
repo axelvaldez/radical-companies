@@ -33,8 +33,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Fiat?</h1>
  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but the pile of work is bigger when you get back.</p>
- <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny&rdquo;, it is not living.</p>
- <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing the way you feel.</p>
+ <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny&rdquo;, it is not living. It is the <span class='_paradigm'>Fiat</span> system that we live in.</p>
+ <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
 
 <h1>What Does Fiat Even Mean?</h1>
  <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino.</em> Thus the acronym.</p>
