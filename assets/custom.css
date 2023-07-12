@@ -374,7 +374,7 @@ p._speaker {
   margin-bottom:0;
 }
 p._speakera, 
-p._speakerb,
+p._speakerb,_
 p._speakerc {
   margin-bottom:0;
 }
@@ -634,20 +634,16 @@ li p._list-item em {
  * new _citation and #_signature
  */
 ._citation {
-  color: rgba(250, 200, 130, 0.6);
+  color: black;
   font-family: Tahoma, sans-serif;
   font-size: 40px;
   width: 60%;
   margin: 0 auto;
 }
-._citation h1 {
-  font-size: 4rem;
-}
 ._citation p {
   font-style: italic;
   margin-bottom: 0;
 }
-
 ._citation p::before,
 ._citation p::after {
   content: "“";
@@ -655,14 +651,11 @@ li p._list-item em {
   font-size: 8rem;
   margin: -2rem 0 0 -4rem;
   position: absolute;
-  opacity: 0.5;
 }
-
 ._citation p::after {
   content: "”";
   margin: -1rem -4rem 0 0;
 }
-
 ._citation #_signature {
   font-size: 1.5rem;
 }
