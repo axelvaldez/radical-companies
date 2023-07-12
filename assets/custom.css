@@ -381,6 +381,7 @@ span._paradigm {
   content:"— ";
   margin-left:40px;
 }
+#_signature::after { }
 
 /*
  * dialog: begin
