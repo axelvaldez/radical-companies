@@ -319,8 +319,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Fiat and Radical</h1>
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
  <h2>Fiat</h2>
-  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> evolved into the complex mess it is today. Rules and laws morphed to adapt to their environment. For example, whereas the Christian Bible was admonishing slaves to &ldquo;obey your earthly masters&rdquo; that stopped being acceptable language in the lates 1800s (though women and children still had to obey their earthly master).</p>
-  <p>The thing that has remained throughout is <span class='_paradigm'>Force.</span></p>
+  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today, with rules and laws morphing to adapt to their environment. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the lates 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
+  <p>The thing that has remained constant throughout is <span class='_paradigm'>Force.</span></p>
    <div class='_center'>
     <img
      src='/assets/img/pic-fiat-fear-force-or-pain.svg'
@@ -329,14 +329,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all govenance, from democracies to the dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
  <h2>Radical</h2>
-  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span>, not an evolved system (<eg>i.e.</eg>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
+  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span> of what we need at the root of the system, not an evolved system (<eg>i.e.</eg>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
    <div class='_center'>
     <img
      src='/assets/img/pic-the-radical-model-coming-together.svg'
      width='70%'
      alt=''>
    </div>
-  <p>We get often lost in the intellectual weeds and never discover what&rsquo;s really toxic. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
+  <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and never discover what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
    <ul>
     <li>Will this decision make us more or less decentralized. Either choice is up to you and your community, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
     <li>Will this decision make it easier to help people find meaning in what they are doing or not. Again, either choice is up to you and your community, but the <span class='_paradigm'>Foundation</span> helps you know where you are headed.</li>
