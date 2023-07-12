@@ -663,4 +663,5 @@ li p._list-item em {
 }
 ._citation #_signature:before {
   content:"— ";
+  margin-left:40px;
 }
