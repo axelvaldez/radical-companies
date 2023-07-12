@@ -564,6 +564,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Transcendence</h1>
  <h2>Fiat</h2>
   <p></p>
+   <ul>
+    <li>who-am-i-if-not-a-manager</li>
+    <li>what-can-a-fiat-manager-do</li>
+    <li>how-fiat-developed</li>
+    <li>surviving-is-not-living.markdown</li>
+   </ul>
  <h2>Radical</h2>
   <p></p>
 
