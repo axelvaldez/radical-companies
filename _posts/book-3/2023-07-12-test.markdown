@@ -1,0 +1,18 @@
+---
+layout:   post
+title:    "TEMPLATE"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-ptsd-and-trust.svg"
+---
+
+<div style='display:none;'>
+ <p></p>
+</div>
+
+<div class='_citation'>
+ <p>Content</p>
+ <p id='_signature'>signature</p>
+</div>
+
+{% include related.html %}

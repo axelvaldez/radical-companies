@@ -629,3 +629,40 @@ li p._list-item em {
  .eg, .ie {
   font-style:italic;
 }
+
+/*
+ * new _citation and #_signature
+ */
+._citation {
+  color: rgba(250, 200, 130, 0.6);
+  font-family: Tahoma, sans-serif;
+  font-size: 40px;
+  width: 60%;
+  margin: 0 auto;
+}
+._citation h1 {
+  font-size: 4rem;
+}
+._citation p {
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+._citation p::before,
+._citation p::after {
+  content: "“";
+  font-family: Georgia;
+  font-size: 8rem;
+  margin: -2rem 0 0 -4rem;
+  position: absolute;
+  opacity: 0.5;
+}
+
+._citation p::after {
+  content: "”";
+  margin: -1rem -4rem 0 0;
+}
+
+._citation #_signature {
+  font-size: 1.5rem;
+}
