@@ -557,7 +557,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      src='/assets/img/pic-fiat-pain.svg'
      width='50%'
      alt=''>
-   <div>
+   </div>
  <h2>Radical</h2>
   <p>The <span class='_paradigm'>Radical</span> foundation is all about <span class='_paradigm'>wellbeing</span> for you and your community to live the lives you choose to live.</p>
    <div class='_center'>
@@ -565,7 +565,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      src='/assets/img/pic-radical-wellbeing.svg'
      width='50%'
      alt=''>
-   <div>
+   </div>
 
 <h1>Transcendence</h1>
  <h2>Fiat</h2>
