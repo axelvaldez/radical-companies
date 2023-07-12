@@ -511,10 +511,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>People can learn to be owners</th>
       <td>1</td>
      </tr>
-<!--     
      <tr>
       <th>People can notice and recognize contributions</th>
       <td>
+<!--
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
         <div class='_citation'>
          <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
@@ -526,9 +526,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <li>Engaging her in conversations.</li>
         </ul>
        <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, thats why practice is necessesary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
+-->
       </td>
      </tr>
--->
      <tr>
       <th>People can learn to distribute ownership of the company to their peers</th>
       <td>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumping the investor hands over cash and in exchange the business owner signs a stock certificate over to the investor.</td>
