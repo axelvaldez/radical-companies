@@ -539,7 +539,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
-  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it will be world changing</p>
+  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change world.</p>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
