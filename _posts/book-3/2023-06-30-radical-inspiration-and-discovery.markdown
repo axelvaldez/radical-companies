@@ -484,7 +484,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>The other rTool, and to me the most fundamental one, is the <em><span class='_paradigm'>RADs! Mobile App</span></em>.</p>
 
 <h1>The Little R</h1>
- <p>The little r in rTools and other labels stand for <span class='_paradigm'>Radical</span>. This is not a certificate program or any such thing, but the people who are part of it will tell you if it <span class='_paradigm'>Radical</span> or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span>, then they are not really based on the <span class='_paradigm'>Radical</span> Foundation. If they think they are going in the right direction, <>but are not there, yet<>, then they are going in the right direction (and will never get <em>there</em>).</p>
+ <p>The little r in rTools and other labels stand for <span class='_paradigm'>Radical</span>.</p>
+ <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really based on the <span class='_paradigm'>Radical</span> Foundation. If they think they are going in the right direction, then they are going in the right direction.</p>
 
 <h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
