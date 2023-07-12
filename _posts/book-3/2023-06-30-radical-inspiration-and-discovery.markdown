@@ -483,6 +483,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
 
+<h1>The Little R</h1>
+ <h2>Fiat</h2>
+ <h2>Radical</h2>
+
 <h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
   <p>In a <span class='_paradigm'>Fiat</span> business, things are static. You give me so much cash, and I&rsquo;ll give you so much of the company. That percentage of the business remains fixed forever. You can even die and your heirs get the piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
@@ -514,8 +518,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>People can notice and recognize contributions</th>
       <td>
-<!--
        <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
+<!--
         <div class='_citation'>
          <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time. One of them being a young woman who looked really down.</p>
          <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did. It turned out that the young woman had been dumped the night before and she had not slep. She decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span> She looked happy and uplifted.</p>
@@ -525,8 +529,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <li>She notice that somebody was not her usual self, and</li>
          <li>Engaging her in conversations.</li>
         </ul>
-       <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, thats why practice is necessesary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
 -->
+       <p>Was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhhaps not, thats why practice is necessesary. If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked ins yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
       </td>
      </tr>
      <tr>
@@ -536,10 +540,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </table>
    </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it will be world changing</p>
-
-<h1>The Little R in rTools</h1>
- <h2>Fiat</h2>
- <h2>Radical</h2>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
