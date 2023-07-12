@@ -633,19 +633,18 @@ li p._list-item em {
 /*
  * _citation table
  */
-._citation p:before {
+._citation:before {
   position:absolute;
   width:10%;
   text-align:left;
   padding-left:100px;
   content:url('/assets/img/pic-open-quote.svg');
 }
-._citation + p {
-  font-size:smaller;
-}
-._citation:has(+ p:after) {
+/*
+._citation:after {
   position:absolute;
   width:10%;
   text-align:right;
   content:url('/assets/img/pic-close-quote.svg');
 }
+*/
