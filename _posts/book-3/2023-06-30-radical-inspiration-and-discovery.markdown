@@ -511,6 +511,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>People can learn to be owners</th>
       <td>1</td>
      </tr>
+<!--     
      <tr>
       <th>People can notice and recognize contributions</th>
       <td>
@@ -531,6 +532,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>People can learn to distribute ownership of the company to their peers</th>
       <td>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumping, the investor hands over cash, and in exchange the business owner signs a stock certificate over to the investor.</td>
      </tr>
+-->
     </table>
    </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it will be world changing</p>
