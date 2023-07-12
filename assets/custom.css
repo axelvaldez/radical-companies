@@ -638,7 +638,7 @@ li p._list-item em {
   text-align:left;
   content:url('/assets/img/pic-open-quote.svg');
 }
-._citation td {
+._citation + p {
   font-size:smaller;
 }
 div._citation:has(+ p:after) {
