@@ -368,7 +368,7 @@ span._paradigm {
 }
 ._citation p::after {
   content:"”";
-  margin:-24px 0 0 0;
+  margin-top:-10px;
   font-family:Georgia;
   font-size:8rem;
   position:absolute;
@@ -381,7 +381,6 @@ span._paradigm {
   content:"— ";
   margin-left:40px;
 }
-#_signature::after { }
 
 /*
  * dialog: begin
