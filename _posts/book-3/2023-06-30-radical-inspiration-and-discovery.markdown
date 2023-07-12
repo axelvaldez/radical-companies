@@ -550,7 +550,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
-  <p></p>
+  <p>The <span class='_paradigm'>Pain</span> model is based on <span class='_paradigm'>Pain</span> and people have gotten used to avoiding pain and survive.</p>
  <h2>Radical</h2>
   <p></p>
 
