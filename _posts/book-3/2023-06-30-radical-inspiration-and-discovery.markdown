@@ -555,7 +555,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <img
      src='/assets/img/pic-fiat-pain.svg'
-     width='70%'
+     width='50%'
      alt=''>
    <div>
  <h2>Radical</h2>
@@ -563,7 +563,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <img
      src='/assets/img/pic-radical-wellbeing.svg'
-     width='70%'
+     width='50%'
      alt=''>
    <div>
 
