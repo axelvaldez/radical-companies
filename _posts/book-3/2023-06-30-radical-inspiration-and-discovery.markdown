@@ -574,6 +574,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <th>Who Am I If Not a Manager</th>
      <td>
+      <div class='_center, _citation'>
        <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up  by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
        <p>Thinking about hierarchical inefficiency, what comes to mind is what happened  recently to a friend who works at Amazon: he was recently put on probation <em>for not writing enough lines of code</em>. You read that right. I thought software companies had moved beyond stupid metrics like this, but I was wrong.</p>
        <p>Why wasn&rsquo;t he writing enough code? Because he was helping the other engineers achieve more by instructing them in things that would make total system performance even better. He was boosting each of his fellow engineers and getting them to output better quality code and a system that performed better. Helping people was part of his job description, but he was pretty surprised to find out that <em>belting out more lines of code</em> was most important.</p>
@@ -592,6 +593,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         </ul>
        <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the worky  ou actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
        <p>Who can I be if I am not a manager? I can be: A co-owner. A force-multiplier. A person connected to the people around me.</p>
+       <p class='_signature'>Adrian Perez</p>
+      </div> 
      </td>
     </tr>
     <tr>
@@ -630,12 +633,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        </ul>
       <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>
       <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
-       <div class='_central, _citation'>
+       <div class='_center, _citation'>
         <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
         <p id="_signature">Blair Fix, <em>An Evolutionary Theory of Resource Distribution</em>.</p>
        </div>
       <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
-       <div class='_central, _citation'>
+       <div class='_center, _citation'>
         <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
         <p id="_signature">Blair Fix, <em>An Evolutionary Theory of Resource Distribution</em></p>
        </div>
@@ -644,7 +647,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <th>Surviving Is Not Living</th>
      <td>
-       <div class='_central, _citation'>
+       <div class='_center, _citation'>
         <p>First, I jumped into the void, and I jumped past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of live. It was a blind jump, but I discovered the light in my life.</p>
         <p>I am not split between my &ldquo;personal&rdquo; live and my &ldquo;work&rdquo; life. I am one and the same no matter what I am doing. Love for myself exploded into my life and I now recognize the fears that &ldquo;work&rdquo; brings up.</p>
         <p>I was surviving, not living. But now I can recognize the fears that hold me in survival mode. I can go around them, lovingly, and go on with my life, guided my me, not my fears.</p>
