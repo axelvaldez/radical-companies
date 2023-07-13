@@ -78,7 +78,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>The rest of the booklet takes it one theme are a time. Where it makes sense, it also compares how it works in a <span class='_paradigm'>Fiat</span> system and how it would work in a non-<span class='_paradigm'>Fiat</span> system. Because I am describing a system, you may find the booklet repetitive.</p>
  <p>Even if you already see <span class='_paradigm'>Fiat</span> and its consequences, it might be worth skimming through the booklet not to be surprised when you tried to explain it to somebody else and the questions come (and keep coming).</p>
 
-<h1 class='_section'>Themes</h1>
+<h1 class='_section'>THEMES</h1>
 
 <h1>Rules, Laws, and Force</h1>
  <p>Rules, followed by convention, eventually turn into <span class='_paradigm'>Fiat</span> laws which you are <em>forced</em> to follow,</p>
