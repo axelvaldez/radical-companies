@@ -14,7 +14,7 @@ image:    "icon-how-fiat-developed.svg"
  <p>This should be called <em>How <span class='_paradigm'>Fiat</span> Developed</em> according to me. I don&rsquo;t even claim that this true, just that it is plausible.</p>
 
 <h1>The Ys</h1>
- <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured..</p>
+ <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
 
 <h1>Disentangling</h1>
  <p>This is what was happening in the land of the Ys,</p>
