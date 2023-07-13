@@ -596,11 +596,50 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
     <tr>
      <th>What Can a Manager Do</th>
-     <td></td>
+     <td>
+      <p>We talk a lot about <em>starting</em> <span class="_paradigm">Radical</span> companies. This is the easy way out for us, the book&rsquo;s authors,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> because we find starting companies to be straightforward,</p>
+       <ul>
+        <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
+        <li>Adrian grew up in it</li>
+        <li>Jose has been an entrepreneur since the tender age of 16</li>
+       </ul>
+      <p>But building a <span class="_paradigm">Radical</span> company from scratch is a hack because most people work in <span class="_paradigm">Fiat</span> businesses and see it as their only option. So, what can <em>they</em> do? Can they adopt some of the <span class="_paradigm">Radical</span> practices? Can they get away with it?</p>
+      <p>If you are a manager in a <span class="_paradigm">Fiat</span> environment, then implementing some <span class="_paradigm">Radical</span> practices can be fairly easy because what you say, goes. You can always tell your boss and HR what you want; you can even tell them that it is just a clever <span class="_paradigm">Fiat</span> trick.</p>
+      <p>As a <span class="_paradigm">Fiat</span> boss, you’ve seen the reviews, you’ve used HR’s point scale to rank employees. You have gone through the process many times and you know it doesn’t work. You also know that is not satisfying.</p>
+      <p>You know that you cannot constantly assess your employees the same way they can track each other. The latest technique from HR is not going to really measure contributions.</p>
+      <p>Employees know that you decision is based on who you like as much as anything else, and they compete with each other to bias your affections. That sort of politicking is poisonous to collaboration.</p>
+      <p>Instead, you share the RADs! application with your team. They can reward each other for what they see as a contribution. Then you don’t have to sweat it and you base your bonus allocation on the <span class="_paradigm">RAD</span> distribution. Is this subversive? Yes! But, is it good? Hell, yeah.</p>
+      <p>And just imagine how your team will feel having the ability to determine the bonus distribution themselves. And how will you feel knowing that the distribution is based on actual contributions to the company-as-common effort (and not guessing at it)?</p>
+      <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
+      <p>Similarly, you run <span class="_paradigm">Radical</span> inside a <span class="_paradigm">Fiat</span> organization.</p>
+      <p>Deploying <span class="_paradigm">Radical</span> wherever it can be run, will lead to more adoption. Mistakes will be made. Don't assume that everybody will get it right away: you’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR and tank it before it gets a chance to be put into action. You may even get fired over it.</p>
+      <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees. </p>
+      <p>Whatever you do, try this and help the adoption of the <span class="_paradigm">Radical</span> model. It will be good for you and the world.</p>
+     </td>
     </tr>
     <tr>
      <th>How Fiat Developed</th>
-     <td></td>
+     <td>
+      <p>This should be called <em>How  Developed, ACCORDING TO ME.</em> I don&rsquo;t even claim that this true, just that it is plausible.</p>
+      <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if was the prevailing feeling at the time that was being featured.</p>
+      <p>This is what was happening in the land of the Ys,</p>
+       <ul>
+        <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
+        <li>Romans soldiers provided the  muscle: <span class="_paradigm">Threats</span>, <span class="_paradigm">Fear</span>, <span class="_paradigm">Force</span>, and <span class="_paradigm">Pain</span>,</li>
+        <li>Hebrew collaborators (<eg>e.g.</eg>, the merchants) took advantage of the structure.</li>
+       </ul>
+      <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>
+      <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
+       <div class="_central, _citation">
+        <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
+        <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+       </div>
+      <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
+       <div class="_central, _citation">
+        <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
+        <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution</p>
+       </div>
+     </td>
     </tr>
     <tr>
      <th>Surviving Is Not Living</th>
