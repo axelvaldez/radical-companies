@@ -368,6 +368,7 @@ span._paradigm {
 }
 p#_signature {
   font-size:1rem;
+  sont-size:smaller;
 }
 p#_signature::before {
   content:"— ";
