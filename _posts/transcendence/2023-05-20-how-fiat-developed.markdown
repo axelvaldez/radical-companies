@@ -20,10 +20,10 @@ image:    "icon-how-fiat-developed.svg"
  <p>This is what was happening in the land of the Ys,</p>
  <ul>
   <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
-  <li>Romans soldiers provided the  muscle: <span class="_paradigm">Threats</span>, <span class="_paradigm">Fear</span>, <span class="_paradigm">Force</span>, and <span class="_paradigm">Pain</span>,</li>
-  <li>Hebrew collaborators (<eg>e.g.</eg>, the merchants) took advantage of the structure.</li>
+  <li>Romans soldiers provided the  muscle, from threats to pain,</li>
+  <li>Hebrew collaborators (<eg>aka</eg>, the merchants) took advantage of the structure to become wealthier.</li>
  </ul>
- <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>
+     <p>The collaborator Hebrews complained about the Ys and eventually the Romans put them down. However, the story of an individual crucifiction is more dramatic and easier to pass along, so much so that it has carried to this day.
 
 <h1>Long Time Coming</h1>
  <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
