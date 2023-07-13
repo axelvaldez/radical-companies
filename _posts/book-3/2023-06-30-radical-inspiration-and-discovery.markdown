@@ -632,12 +632,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
        <div class="_central, _citation">
         <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
-        <p id="_signature">Blair Fix,<br><margin-left:40px; '>An Evolutionary Theory of Resource Distribution<a href="#en01"></p>
+        <p id="_signature">Blair Fix,<br><span style='margin-left:40px; '>An Evolutionary Theory of Resource Distribution</span></p>
        </div>
       <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
        <div class="_central, _citation">
         <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
-        <p id="_signature">Blair Fix,<br><margin-left:40px; '>An Evolutionary Theory of Resource Distribution</p>
+        <p id="_signature">Blair Fix,<br><span style='margin-left:40px; '>An Evolutionary Theory of Resource Distribution</span></p>
        </div>
      </td>
     </tr>
