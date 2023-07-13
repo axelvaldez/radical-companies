@@ -620,6 +620,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees. </p>
        <p>Whatever you do, try this and help the adoption of the <span class='_paradigm'>Radical</span> model. It will be good for you and the world.</p>
        <p id='_signature'>Adrian Perez</p>
+      </div>
      </td>
     </tr>
     <tr>
@@ -656,7 +657,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <p>I am still afraid of living, but I am living my life. The more I do it, the easier it gets. I am not afraid of dying, so I am not afraid of living.</p>
         <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what&rsquo;s best for me.</p>
         <p>Security and control are now foreign to me. I know they were they priority at one point, but no more.</p>
-        <p id="_signature">Chabeli Atahuaman</em></p>
+        <p id="_signature">Chabeli Atahuaman</p>
        </div>
      </td>
     </tr>
