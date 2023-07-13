@@ -368,7 +368,7 @@ span._paradigm {
 p#_signature {
   font-size:1rem;
   font-size:smaller;
-  font-family:cursive;
+  font-family:Bradley Hand, cursive;
 }
 p#_signature::before {
   content:"— ";
