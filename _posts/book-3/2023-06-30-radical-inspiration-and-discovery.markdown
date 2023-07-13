@@ -568,16 +568,26 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
 
 <h1>Transcendence</h1>
- <p>How do you go from Fiat to Radical?</p>
- <span class='_paradigm'>Radical</span>
- <span class='_paradigm'>Fiat</span>
+ <p>How do you go from <span class='_paradigm'>Fiat</span> to <span class='_paradigm'>Radical</span>?</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
-     <td>Who Am I If Not a Manager</td>
-     <td>What Can a Manager Do</td>
-     <td>How Fiat Developed</td>
-     <td>Surviving Is Not Living</td>
+     <th>Who Am I If Not a Manager</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th>What Can a Manager Do</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th>How Fiat Developed</th>
+     <td></td>
+    </tr>
+    <tr>
+     <th>Surviving Is Not Living</th>
+     <td></td>
+    </tr>
+    <tr>
     </tr>
    </table>
   </div>
