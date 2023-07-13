@@ -353,8 +353,7 @@ span._paradigm {
  */
 ._citation {
   color:cadetblue;
-  font-family:Tahoma, sans-serif;
-  font-style:italic;
+  font-family:'Times New Roman', Times, serif;
   text-align:justify;
   text-justify:inter-word;
   font-size:120%;
@@ -368,7 +367,8 @@ span._paradigm {
 }
 p#_signature {
   font-size:1rem;
-  sont-size:smaller;
+  font-size:smaller;
+  font-family:cursive;
 }
 p#_signature::before {
   content:"— ";
