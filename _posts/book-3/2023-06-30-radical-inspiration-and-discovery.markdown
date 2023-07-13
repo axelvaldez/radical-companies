@@ -601,7 +601,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>What Can a Manager Do</th>
      <td>
       <div class='_center, _citation'>
-       <p>We talk a lot about <em>starting</em> <span class='_paradigm'>Radical</span> companies. This is the easy way out for us, the book&rsquo;s authors,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> because we find starting companies to be straightforward,</p>
+       <p>We talk a lot about <em>starting</em> <span class='_paradigm'>Radical</span> companies. This is the easy way out because we are used to it, starting companies to be straightforward,</p>
         <ul>
          <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
          <li>Adrian grew up in it</li>
@@ -665,11 +665,5 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-
-<h1>Military and Force</h1>
- <h2>Fiat</h2>
-  <p></p>
- <h2>Radical</h2>
-  <p></p>
 
 {% include related.html %}
