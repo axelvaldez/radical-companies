@@ -593,7 +593,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         </ul>
        <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the worky  ou actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
        <p>Who can I be if I am not a manager? I can be: A co-owner. A force-multiplier. A person connected to the people around me.</p>
-       <p class='_signature'>Adrian Perez</p>
+       <p id='_signature'>Adrian Perez</p>
       </div> 
      </td>
     </tr>
@@ -619,7 +619,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>Deploying <span class='_paradigm'>Radical</span> wherever it can be run, will lead to more adoption. Mistakes will be made. Don't assume that everybody will get it right away: you’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR and tank it before it gets a chance to be put into action. You may even get fired over it.</p>
        <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees. </p>
        <p>Whatever you do, try this and help the adoption of the <span class='_paradigm'>Radical</span> model. It will be good for you and the world.</p>
-       <p class='_signature'>Adrian Perez</p>
+       <p id='_signature'>Adrian Perez</p>
      </td>
     </tr>
     <tr>
