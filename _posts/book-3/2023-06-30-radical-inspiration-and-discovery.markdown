@@ -666,4 +666,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </table>
   </div>
 
+<h1>That Is It, for Now</h1>
+ <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essense, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
+ <p>You can choose to get a traditional job to create wealth for the owners, or you can choose to open the floodgates to opportunities, reimagine the conventional, and a different kid of risk-taking.</p>
+ <p>We hope you will join to challenge the status quo and propel humanity towards new horizons and, together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
+
 {% include related.html %}
