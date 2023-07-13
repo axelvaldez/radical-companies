@@ -632,7 +632,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
        <div class="_central, _citation">
         <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
-        <p id="_signature">Blair Fix,<br><margin-left:40px; '>An Evolutionary Theory of Resource Distribution<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+        <p id="_signature">Blair Fix,<br><margin-left:40px; '>An Evolutionary Theory of Resource Distribution<a href="#en01"></p>
        </div>
       <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
        <div class="_central, _citation">
@@ -668,52 +668,5 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p></p>
  <h2>Radical</h2>
   <p></p>
-
-<h1 class='_section'>ENDNOTES</h1>
- <ul>
-  <li id='en01'>
-   <p class='_list-item'>
-    If you don&rsquo;t get caught, no problem.
-    <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
-  <li id='en02'>
-   <p class='_list-item'>
-    <em>Can I go to Jail for a Traffic Ticket?</em>
-    &lt;<a href='https://radicals.world/64LLrH' target='_blank'>https://radicals.world/64LLrH</a>&gt;
-    hg.org
-    <a class='_uparrow' href='#bm02'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
-  <li id='en03'>
-   <p class='_list-item'>
-    &lt;<a href='https://radicals.world/EzlUyO' target='_blank'>https://radicals.world/EzlUyO</a>&gt;
-    Ephesians 6:5-9
-    <a class='_uparrow' href='#bm03'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
-  <li id='en04'>
-   <p class='_list-item'>
-    And keep what ownership you&rsquo;ve earned to that point. More about that later.
-    <a class='_uparrow' href='#bm04'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
-  <li id='en05'>
-   <p class='_list-item'>
-    Rent comes from Render whose first meaning is to provide or give. It also may mean to submit or present for inspection of consideration, deliver, or, literally, hand over.
-    <a class='_uparrow' href='#bm05'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
-  <li id='en06'>
-   <p class='_list-item'>
-    Karen Hao
-    <em>Artificial intelligence is creating a new colonial world order</em>
-    MIT Technology Review
-    April 19, 2022
-    &lt;<a href='https://radicals.world/sfYP5h' target='_blank'>https://radicals.world/sfYP5h</a>&gt;
-    <a class='_uparrow' href='#bm06'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
- </ul>
 
 {% include related.html %}
