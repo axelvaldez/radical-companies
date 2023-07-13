@@ -626,7 +626,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <th>How Fiat Developed</th>
      <td>
-      <p>This should be called <em>How <span class='_paradigm'>Fiat</span> Developed, ACCORDING TO ME.</em> I don&rsquo;t even claim that this true, just that it is plausible.</p>
+      <p>This should be called <em>How <span class='_paradigm'>Fiat</span> Developed</em> according to me. I don&rsquo;t even claim that this true, just that it is plausible.</p>
       <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
       <p>This is what was happening in the land of the Ys,</p>
        <ul>
