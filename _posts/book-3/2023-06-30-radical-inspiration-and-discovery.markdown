@@ -626,13 +626,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <th>How Fiat Developed</th>
      <td>
-      <p>This should be called <em>How  Developed, ACCORDING TO ME.</em> I don&rsquo;t even claim that this true, just that it is plausible.</p>
-      <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if was the prevailing feeling at the time that was being featured.</p>
+      <p>This should be called <em>How <span class='_paradigm'>Fiat</span> Developed, ACCORDING TO ME.</em> I don&rsquo;t even claim that this true, just that it is plausible.</p>
+      <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
       <p>This is what was happening in the land of the Ys,</p>
        <ul>
-        <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
-        <li>Romans soldiers provided the  muscle: <span class='_paradigm'>Threats</span>, <span class='_paradigm'>Fear</span>, <span class='_paradigm'>Force</span>, and <span class='_paradigm'>Pain</span>,</li>
-        <li>Hebrew collaborators (<eg>e.g.</eg>, the merchants) took advantage of the structure.</li>
+        <li>A few Hebrews were exploiting the rest of the Hebrews. They appropriated the wealth the unwashed masses generated.</li>
+        <li>Romans soldiers provided the enforcement muscle, from threats to pain,</li>
+        <li>Hebrew collaborators (<eg>e.g.</eg>, or as the Bible calls them, the merchants) took advantage of the structure to become wealthier.</li>
        </ul>
       <p>The collaborator Hebrews complained and eventually the Romans put down the Ys. However, the story of an individual crucifiction is more dramatic and has carried to this day.</p>
       <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
