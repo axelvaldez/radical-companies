@@ -7,7 +7,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 ---
 
 <div style='display:none;'>
- <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
+ <p>You are about to learn about an alternative way, where traditional boundaries crumble. It will challenge the status quo, spark your imagination, and leave an indelible mark on the world.</p>
 </div>
 
 <h1>Introduction</h1>
