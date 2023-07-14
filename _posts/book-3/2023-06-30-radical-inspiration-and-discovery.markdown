@@ -583,7 +583,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </td>
     </tr>
     <tr>
-     <th>How Fiat developed, according to me</th>
+     <th>How Fiat developed (according to me)</th>
      <td>
       <p>I don&rsquo;t even claim that this true, just that it is plausible.</p>
       <p>I will use <em>the Ys</em> to refer to the character of Jesus (<eg>aka</eg>, Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
