@@ -594,10 +594,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        </ul>
       <p>The collaborator Hebrews complained about the Ys resisting their directives and eventually the Romans put them down. However, the story of an individual crucifiction is more dramatic and easier to pass along, so much so that it has carried to this day.</p>
       <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
-       <div class='_center, _citation'>
-        <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
-        <p id="_signature">Blair Fix, <em>An Evolutionary Theory of Resource Distribution</em>.</p>
-       </div>
       <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
        <div class='_center, _citation'>
         <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
