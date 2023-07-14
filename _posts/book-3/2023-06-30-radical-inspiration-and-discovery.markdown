@@ -577,66 +577,22 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>Who Am I If Not a Manager</th>
      <td>
       <div class='_center, _citation'>
-       <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up  by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
-       <p>Thinking about hierarchical inefficiency, what comes to mind is what happened  recently to a friend who works at Amazon: he was recently put on probation <em>for not writing enough lines of code</em>. You read that right. I thought software companies had moved beyond stupid metrics like this, but I was wrong.</p>
-       <p>Why wasn&rsquo;t he writing enough code? Because he was helping the other engineers achieve more by instructing them in things that would make total system performance even better. He was boosting each of his fellow engineers and getting them to output better quality code and a system that performed better. Helping people was part of his job description, but he was pretty surprised to find out that <em>belting out more lines of code</em> was most important.</p>
-       <p>So if you are a senior software engineer and you want to get paid more, it’s better to get away from the programmer metrics and become a manager. You are going to go to a lot more meetings instead and you are going to be spending your time defending your team from the rest of the organization. As a senior engineer, you were helping your team do better and become better. You were operating as a role model. But now, as a manager, you have been essentially neutralized.</p>
-       <p>Now imagine, your company goes <span class='_paradigm'>Radical</span> and you are no longer a manager. If you had embraced this as part of your identity, it’s going to be difficult to let go. How do I make more money? What do I tell my friends? I am just one of the grunts!</p>
-       <p class='_mb0'>Instead, you are now a co-owner and co-manager of <em>your</em> <span class='_paradigm'>Radical</span> company,</p>
-        <ul>
-         <li>You don’t have to waste time defending your team from the rest of the hierarchy, because there is no <span class='_paradigm'>Fiat</span> hierarchy.</li>
-         <li>You don’t go to meetings unless you have something of value to contribute.</li>
-         <li>Your contribution as a role model to help the other engineers produce quality code and a system that performs better will be directly recognized.</li>
-        li>If helping people is your thing, and others recognize it, then that’s what counts and what gets rewarded.</li>
-         <li>There is no top-down &ldquo;rule&rdquo; that everyone has to write a certain amount of lines of code.</li>
-         <li>If you were spending time in meetings and worrying over firing and hiring people, the responsibility is shared with everyone and gradual hiring and gradual firing make it painless.</li>
-         <li>Finally, the rewards are direct. You get <span class='_paradigm'>RAD</span>s from your coworkers when you help them, be it with code or a difficult personal issue.</li>
-         <li><span class='_paradigm'>RAD</span>s transform into your share of earned dividends (<em>aka.</em>, profits) and ownership.</li>
-        </ul>
-       <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the worky  ou actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
-       <p>Who can I be if I am not a manager? I can be: A co-owner. A force-multiplier. A person connected to the people around me.</p>
-       <p id='_signature'>Adrian Perez</p>
+       <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
       </div> 
-     </td>
-    </tr>
-    <tr>
-     <th>What Can a Manager Do</th>
-     <td>
-      <div class='_center, _citation'>
-       <p>We talk a lot about <em>starting</em> <span class='_paradigm'>Radical</span> companies. We are used to it, starting companies is straightforward,</p>
-        <ul>
-         <li>Matt quickly adapted to the startup culture in Silicon Valley</li>
-         <li>Adrian grew up in it</li>
-         <li>Jose has been an entrepreneur since the tender age of 16</li>
-        </ul>
-       <p>But building a <span class='_paradigm'>Radical</span> company from scratch is a hack because most people work in <span class='_paradigm'>Fiat</span> businesses and see it as their only option. So, what can <em>they</em> do? Can they adopt some of the <span class='_paradigm'>Radical</span> practices? Can they get away with it?</p>
-       <p>If you are a manager in a <span class='_paradigm'>Fiat</span> environment, then implementing some <span class='_paradigm'>Radical</span> practices can be fairly easy because what you say, goes. You can always tell your boss and HR what you want; you can even tell them that it is just a clever <span class='_paradigm'>Fiat</span> trick.</p>
-       <p>As a <span class='_paradigm'>Fiat</span> boss, you’ve seen the reviews, you’ve used HR’s point scale to rank employees. You have gone through the process many times and you know it doesn’t work. You also know that is not satisfying.</p>
-       <p>You know that you cannot constantly assess your employees the same way they can track each other. The latest technique from HR is not going to really measure contributions.</p>
-       <p>Employees know that you decision is based on who you like as much as anything else, and they compete with each other to bias your affections. That sort of politicking is poisonous to collaboration.</p>
-       <p>Instead, you share the RADs! application with your team. They can reward each other for what they see as a contribution. Then you don’t have to sweat it and you base your bonus allocation on the <span class='_paradigm'>RAD</span> distribution. Is this subversive? Yes! But, is it good? Hell, yeah.</p>
-       <p>And just imagine how your team will feel having the ability to determine the bonus distribution themselves. And how will you feel knowing that the distribution is based on actual contributions to the company-as-common effort (and not guessing at it)?</p>
-       <p>In software, there is the concept of a virtual machine, where you can emulate one computer inside another computer system. For example, you could run the Linux operating system inside MS Windows, or vice versa. The software handles it.</p>
-       <p>Similarly, you run <span class='_paradigm'>Radical</span> inside a <span class='_paradigm'>Fiat</span> organization.</p>
-       <p>Deploying <span class='_paradigm'>Radical</span> wherever it can be run, will lead to more adoption. Mistakes will be made. Don't assume that everybody will get it right away: you’ll have to discuss what seems to you like the same topic over and over. Somebody will run to HR and tank it before it gets a chance to be put into action. You may even get fired over it.</p>
-       <p>On the other hand, the arbitrary nature of management actually works in your favor. “I’m in charge of this team, so I can do whatever I want.” You could &ldquo;clear it&rdquo; with your boss and tell him that you are going to try to offload some of your work onto your employees. </p>
-       <p>Whatever you do, try this and help the adoption of the <span class='_paradigm'>Radical</span> model. It will be good for you and the world.</p>
-       <p id='_signature'>Adrian Perez</p>
-      </div>
      </td>
     </tr>
     <tr>
      <th>How Fiat developed, according to me</th>
      <td>
       <p>I don&rsquo;t even claim that this true, just that it is plausible.</p>
-      <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
+      <p>I will use <em>the Ys</em> to refer to the character of Jesus (<eg>aka</eg>, Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
       <p>This is what was happening in the land of the Ys,</p>
        <ul>
         <li>A few Hebrews were exploiting the mass of Hebrews. They appropriated the wealth the unwashed masses generated.</li>
         <li>Romans soldiers provided the  muscle, from threats to pain,</li>
         <li>Hebrew collaborators (<eg>aka</eg>, the merchants) took advantage of the structure to become wealthier.</li>
        </ul>
-     <p>The collaborator Hebrews complained about the Ys and eventually the Romans put them down. However, the story of an individual crucifiction is more dramatic and easier to pass along, so much so that it has carried to this day.</p>
+      <p>The collaborator Hebrews complained about the Ys resisting their directives and eventually the Romans put them down. However, the story of an individual crucifiction is more dramatic and easier to pass along, so much so that it has carried to this day.</p>
       <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
        <div class='_center, _citation'>
         <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
