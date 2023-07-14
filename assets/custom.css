@@ -363,9 +363,9 @@ span._paradigm {
   margin:15px 20px 15px 20px;
   background-image: url('pic-quote.svg');
   background-repeat: no-repeat;
-  background-size:50%;
-  background-color:#dddddd;
-  background-position:center;
+  background-size:20%;
+  background-position-x:right;
+  background-position-y:bottom;
 }
 ._citation p {
   text-indent:0;
