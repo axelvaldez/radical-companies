@@ -577,7 +577,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>Who Am I If Not a Manager</th>
      <td>
       <div class='_center, _citation'>
-       <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
+       <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo;</p>
+       <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
        <p id="_signature">Adrian Perez</p>
       </div> 
      </td>
