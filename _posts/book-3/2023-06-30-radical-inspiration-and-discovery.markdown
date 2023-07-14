@@ -81,26 +81,28 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1 class='_section'>THEMES</h1>
 
 <h1>Rules, Laws, and Force</h1>
- <p>Rules, followed by convention, eventually turn into <span class='_paradigm'>Fiat</span> laws which you are <em>forced</em> to follow,</p>
+ <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
+ <p>Picture this,</p>
   <ul>
    <li>You  get a ticket. A very minor form of force. You have to give up money (<eg>i.e.</eg>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
    <li>If you feel that is an injustice, you let it go to court (<eg>i.e.</eg>, another type of force).</li>
-   <li>If they rule in your behalf, you celebrate because you won, the force is with you. If they don&rsquo;t, you are angry and you have to pay the ticket. Still minor force.</li>
-   <li>On the other hand, if you happen to be from the edge, it may get ugly and you may end up in prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> No longer a minor force.</li>
-   <li>In prison you end, say, in a fight and you are maimed or killed or vice versa. Either way, it is definitely a <em>force majeure</em>.</li>
+   <li>Victory brings celebration, the force is with you.</li>
+   <li>If you are defeated, you are angry, but you have to pay the ticket. Still minor force.</li>
+   <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> This is not longer a minor force.</li>
+   <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
- <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown to the electric chair. Withholding a prize because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on theats to actual pain (<eg>i.e.</eg>, force).</p>
- <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span> We often don&rsquo;t realize that is coming from somebody else and we call it motivation. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of you may want to do. That is force.</p>
- <p>---</p>
- <p>In an alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. This goes againt the myth that without <span class='_paradigm'>Fiat</span> force we would never do anything of significance, we would never do anything bigger than ourselves.</p>
- <p>But considere that humanity managed to survive as a species. We invented agriculture. Agriculture spread to all corners of the earth. We managed to do all that and more without anybody telling us how to do it.<p>
- <p>Then came the people who took things by force, because they had nothing to trade but force. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the <span class='_paradigm'>Fiat</span> system took shape around us.</p>
- <p>Then came the stories that supported it,</p>
+ <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown a mere frown to the ghastly spector of the electric chair.</p>
+ <p>Withholding a rewrd because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on theats to actual pain (<eg>i.e.</eg>, force).</p>
+ <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span>  We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of you may want to do. That is force.</p>
+ <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
+ <p>But I ask you to consider this: humanity has survived and thrived as a species. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.<p>
+ <p>Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the <span class='_paradigm'>Fiat</span> system took shape around us.</p>
+ <p>Alongside, there came the stories that supported the <span class='_paradigm'>Fiat</span> system as it evolved,</p>
   <ul>
    <li>An all powerful supernatural being at the top</li>
    <li>Paradise</li>
    <li>Eve as the bad apple</li>
-   <li>Homosexuality and shellfish as abominations.</li>
+   <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
    <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</span><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
@@ -109,39 +111,39 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>The boss.</li>
   </ul>
  <p>And that we get paid what the boss says it is reasonable.</p>
- <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. This is the general direction of the evolution, from forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
- <p>The <span class='_paradigm'>Fiat</span> system has evolved to the point that there are many form of this kind of force today, particularly economic, but also polical. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. So is being for one politician, no matter what. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy and ignored.</p>
+ <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
+ <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Uwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy and ignored.</p>
  <p></p>
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
  <h2>Fiat</h2>
-  <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that were mostly nations or were cleansed by force.</p>
-  <p>For example, before Fernando and Isabel sent their minions to the Americas, they cleansed most of their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). In fact, the Inquisition made sure that the converted were truly convicing Catholics and spoke the language of the Church.</p>
-  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered.</p>
+  <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that had been cleansed by force.</p>
+  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castillian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
+  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered&mdash;a tool to subjugate, control, and obliterate anything that stood in their way,</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
       <th>Divide and Conquer</th>
       <td>
-       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women were chattel.</p>
-       <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the bad apple,</span> and she had better submit for salvation. And women covered their hair and wore burkas as a matter of duty.</p>
-       <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
+       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women reduced chattel.</p>
+       <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and she had better submit for salvation. And women covered their hair and wore burkas, and reqlinquished their autonomy in the name of duty.</p>
+       <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masers, and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
        <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span></p>
       </td>
      </tr>
      <tr>
       <th>Lording</th>
       <td>
-       <p>With men lording over half of the population, it was easier for a few to lord over men. They could appeal to the stories and the made up history to support this convenient idealogy which also supported the making of kingdoms and empires.</p>
-       <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would dare to even think of equitable to such power, you can only submit to God.</p>
+       <p>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories, and made up history, to support this convenient ideology which happened to support the making of kingdoms and empires.</p>
+       <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would not dare to even think of yourself as equitable to such power, you can only submit to God.</p>
        <p>In Christianity, the Pope is the only one that could interpret what the Christian God meant with his signs.</p>
       </td>
      </tr>
     </table>
    </div>
   <h2>Non-Fiat</h2>
-   <p>In an alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
+   <p>In a <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
    <p>The alternative is not chaos, but it is certainly different,</p>
     <div class='_center'>
      <table class='_center, _h2table'>
@@ -320,7 +322,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
  <h2>Fiat</h2>
   <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today, with rules and laws morphing to adapt to their environment. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the lates 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
-  <p>The thing that has remained constant throughout is <span class='_paradigm'>Force.</span></p>
+  <p>The thing that has remained constant throughout is <span class='_paradigm'>force.</span></p>
    <div class='_center'>
     <img
      src='/assets/img/pic-fiat-fear-force-or-pain.svg'
@@ -670,26 +672,5 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essense, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
  <p>You can choose to get a traditional job to create wealth for the owners, or you can choose to open the floodgates to opportunities, reimagine the conventional, and a different kid of risk-taking.</p>
  <p>We hope you will join to challenge the status quo and propel humanity towards new horizons and, together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
-
-<h1>Rules, Laws, and Coercion: A Battle of Forces</h1>
- <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless fiat laws that leave us no choice but to comply. It's a relentless force, bearing down on us with an iron grip.</p>
- <p>Picture this: you receive a ticket, a mere slip of paper carrying the weight of coercion. It demands your hard-earned money, your sweat and toil, as if it's a small sacrifice to spare you the agony that would follow defiance. Is this justice? If you dare to challenge it, the battle moves to the courtroom, another arena of force. Victory brings celebration, a triumph over the system, where force aligns with your cause. But defeat? That breeds anger and demands payment for your disobedience, a reminder that force still holds you in its clutches.</p>
- <p>And then, consider those living on the fringes of society, where the ugliness unfolds. Their journey leads to prison, a sinister realm where force transcends the minor. Behind those cold, unforgiving walls, fights break out, blood is spilled, lives are maimed or lost—a true force majeure.</p>
- <p>Force, my friend, is ever-present in our fiat system. It stretches from a mere frown of disapproval to the ghastly specter of the electric chair, haunting our very existence. They dangle rewards before us, manipulating our desires, coercing us to comply. Withholding prizes because we fail to meet their expectations—ah, yes, that's a form of force. Overlooked for promotions or raises? Another twist of the coercive knife. And when they sever our ties, firing or laying us off, the force tightens its grip. Even raising our rent, leaving us no choice but to abandon our homes, inflicts yet another form of force upon us. We are trapped in a system that thrives on threats, on the pain it can inflict—a relentless force, indeed.</p>
- <p>But coercion doesn't stop there. It masquerades as motivation, a deceptive mask hiding the true face of force. They promise us rewards, enticing us with incentives to bend to their will. We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. Our own dreams and aspirations become secondary, overshadowed by the weight of their coercion.</p>
- <p>In an alternative system, devoid of fiat force, they claim we would achieve nothing of significance. They try to shatter our belief in our own capabilities, in the power of our collective potential. But I ask you to consider this: humanity has survived and thrived as a species. We birthed agriculture, spreading its roots across every corner of this planet. We accomplished all this and more without anyone dictating our path, without anyone wielding force to mold us. We are not bound by their illusions.</p>
- <p>Yet, they emerged—the ones who craved power, who grasped at it with desperate, forceful hands. They had nothing else to offer but coercion. And with the birth of money, that insidious force, they found a way to trade the stolen wealth, extracted from our very souls. Slowly but surely, the fiat system enveloped us, suffocating our dreams, cloaking us in stories that upheld its existence.</p>
- <p>In these stories, they presented an all-powerful being, perched atop their created hierarchy—an entity we dare not challenge, for it is beyond our comprehension. They painted a picture of paradise, tantalizingly close, yet forever out of reach. They labeled Eve as the harbinger of sin, forever burdening us with guilt. They condemned love in its various forms, branding it abominable. And they twisted the words to keep us enslaved, to convince us that even our toil should belong to another—whether a god or a boss—and that our worth would be defined by their decree.</p>
- <p>It didn't begin this way. No, it evolved, taking shape through a dark progression. First, prisoners of minor wars became beasts of burden, forced to carry the weight of the victors' indifference. Eventually, they would assimilate or return to their villages, marked by the blood ties that bound them. Then came the chains of slavery, where they deemed us unworthy, forcing us into labor through sheer dominance. And finally, wage labor emerged, a new form of coercion, where our chains were disguised as coins. Different forms of force, but force nonetheless—pervasive, unyielding.</p>
- <p>Now, the fiat system has evolved, reaching new heights of coercive power. Its tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. They condition us to take pride in being a "good worker" within this broken system. They demand unwavering loyalty to their chosen politicians, no matter the cost. They brand us as crazy, dismissing our cries for alternatives, warning us of the chaos that awaits should we dare to defy their forceful grip.</p>
- <p>Even organized religion, a tool within their arsenal, bolsters this system of coercion. But before we delve into that, let us address the age-old strategy of divide and conquer.</p>
- <p>Behold the creation of nations—concepts birthed within the fiat system, rising from the remnants of kingdoms that once stood as nations or were forcefully purged. Cast your gaze upon the landscape of history. Before Ferdinand and Isabella set forth to conquer the Americas, they waged their own campaign of cultural cleansing. Basques, Asturians, Galicians, Catalans, al-Andalusians—each was coerced into embracing Catholicism and adopting the language of the conquerors. The Inquisition stood as a merciless enforcer, ensuring their obedience to the Church.</p>
- <p>Across the Atlantic, Ferdinand of Aragon and Isabella of Castile perfected their methodology of cultural eradication. Divide and conquer became their mantra—a tool to subjugate, control, and obliterate anything that stood in their way.</p>
- <p>And oh, the chains that bind us! At some point in history, women were reduced to mere possessions, subjected to the whims of men. Their identities erased, their voices silenced. Inherited surnames became a testament to their subjugation, a constant reminder of their status as property. Men became the lords of their castles, while women were reduced to chattel. An ideology took hold, weaving a complex web that ensnared women, forcing them into subservience. Eve, portrayed as the instigator of sin, became a symbol of the shackles they were expected to wear. They covered their hair, donned burkas, relinquishing their autonomy in the name of duty.</p>
- <p>As Christianity spread like a disease, carried on the spearheads of colonization, it infected the minds of non-Europeans. They were made subservient to the Europeans, divided among themselves based on wealth, power, and proximity to their colonial masters. Even today, the remnants of this oppressive mindset persist—a stain that tarnishes our progress. We could have been living in paradise, but instead, they forced us to bite the apple of knowledge, poisoning us with their oppressive constructs.</p>
- <p>With men lording over half the population, the path was paved for a select few to exert dominance over their fellow men. They manipulated the stories, twisted history to serve their needs, and propagated the ideal of eternal bosses—be they God, an omnipotent figure at the pinnacle, or the Pope, the sole interpreter of divine signs.</p>
- <p>Can you feel the weight of it all? The raw emotion that accompanies these tales of struggle, coercion, and the indomitable human spirit? We are not mere pawns in their game. We are beings capable of greatness, capable of creating a world free from the clutches of coercion. It is time to rise above their narratives, to rewrite the stories that have held us captive.</p>
- <p>Let us break free from the chains, my friend, and forge a path of liberation—a world where force gives way to compassion, where coercion yields to cooperation. We can build a society that embraces the diversity of our human family, where power is not wielded as a weapon but is shared as a collective strength.</p>
- <p>Now, let us challenge the forces that bind us and embark on a journey toward a brighter, more equitable future. The time for change is upon us.</p>
 
 {% include related.html %}
