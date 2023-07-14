@@ -362,7 +362,6 @@ span._paradigm {
   margin:15px 20px 15px 20px;
   background-image: url('pic-quote.svg');
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: center; 
 }
 p#_signature {
