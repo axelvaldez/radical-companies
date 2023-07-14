@@ -366,6 +366,9 @@ span._paradigm {
   background-color:#dddddd;
   background-position:center;
 }
+._citation p {
+  text-indent:0;
+}
 p#_signature {
   font-size:1rem;
   font-size:smaller;
