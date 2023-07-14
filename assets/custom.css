@@ -363,6 +363,7 @@ span._paradigm {
   background-image: url('pic-quote.svg');
   background-repeat: no-repeat;
   background-size:15%;
+  background-color:#cccccc;
 }
 p#_signature {
   font-size:1rem;
