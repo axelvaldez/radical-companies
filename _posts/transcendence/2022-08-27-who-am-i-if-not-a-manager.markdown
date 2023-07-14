@@ -7,11 +7,11 @@ image:    "icon-who-am-i-if-not-a-manager.svg"
 ---
 
 <div style="display:none;">
- <p>&ldquo;<span class="_paradigm">Radical</span>&rdquo; is often perceived as an existential threat to managers. Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their fellow employees.</p>
+ <p>&ldquo;<span class="_paradigm">Radical</span>&rdquo; is often perceived as an existential threat to managers. Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>When we talk to people about going <span class="_paradigm">Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their fellow employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class="_paradigm">Radical</span> because they are currently boxed up  by the <span class="_paradigm">Fiat</span> hierarchy.</p>
+ <p>When we talk to people about going <span class="_paradigm">Radical</span> at their company, many perceive an existential threat to managers. &ldquo;If you are getting rid of my job type, then you are getting rid of me.&rdquo; Ironically, managers can be the happiest abandoning their titles and becoming co-partners with their former employees. People who are today &ldquo;managers&rdquo; will benefit the most by going <span class="_paradigm">Radical</span> because they are currently boxed up  by the <span class="_paradigm">Fiat</span> hierarchy.</p>
  <p>Thinking about hierarchical inefficiency, what comes to mind is what happened  recently to a friend who works at Amazon: he was recently put on probation <em>for not writing enough lines of code</em>. You read that right. I thought software companies had moved beyond stupid metrics like this, but I was wrong.</p>
  <p>Why wasn&rsquo;t he writing enough code? Because he was helping the other engineers achieve more by instructing them in things that would make total system performance even better. He was boosting each of his fellow engineers and getting them to output better quality code and a system that performed better. Helping people was part of his job description, but he was pretty surprised to find out that <em>belting out more lines of code</em> was most important.</p>
 <h1>Climbing the Hierarchy</h1>
