@@ -14,7 +14,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a way of living where the relentless pursuit of progress fuels transformation. A journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
  <p>In the world of <span class='_paradigm'>Radical</span> it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
  <p>Together, we will challenge the status quo and propel humanity towards new horizons. We embrace calculated risks, harnessing the power of playfullness and innovation to paths untraveled. We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
- <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a worl driven by contributions, not capital. We aim to leave an indelible mark on the world.
+ <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpasses expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
 <h1>Alternatives</h1>
@@ -92,7 +92,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
  <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown a mere frown to the ghastly spector of the electric chair.</p>
- <p>Withholding a rewrd because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on theats to actual pain (<eg>i.e.</eg>, force).</p>
+ <p>Withholding a rewrd because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on threats to actual pain (<eg>i.e.</eg>, force).</p>
  <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span>  We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of you may want to do. That is force.</p>
  <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
  <p>But I ask you to consider this: humanity has survived and thrived as a species. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.<p>
@@ -112,7 +112,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </ul>
  <p>And that we get paid what the boss says it is reasonable.</p>
  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
- <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Uwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy and ignored.</p>
+ <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy and ignored.</p>
  <p></p>
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
@@ -126,10 +126,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>Divide and Conquer</th>
       <td>
-       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inhereted last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish nanes is the equivalent to the &ldquo;apostrophe s&rdquo; in Enghlish, &ldquo;the property of.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women reduced chattel.</p>
-       <p>It all was bundled with a strong ideology that created an institution and women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and she had better submit for salvation. And women covered their hair and wore burkas, and reqlinquished their autonomy in the name of duty.</p>
-       <p>As Christianity spread at the spear-end of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masers, and poor non-Europeans. The wealthier was treated better and oftentimes put in charge.</p>
-       <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span></p>
+       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possesive &ldquo;apostrophe s&rdquo; in English (<eg>i.e.</eg>, Pedro&rsquo;s) as it indicates &ldquo;belongs to.&rdquo; <span class='_quotespan'>Men were the kings of their castle</span> and women reduced to chattel. Even regular men possesed everything in their limited domain. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in charge of what belonged to them, and not about the injustices from the powerful men above.</p>
+       <p>It all was bundled with a strong ideology that created an institution and, strangenly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and she submitted for salvation. Women covered their hair, wore burkas, and reqlinquished their autonomy in the name of duty and survival.</p>
+       <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
+       <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftover of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as a few powerful people cling to the past.</p>
       </td>
      </tr>
      <tr>
@@ -241,7 +241,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>But&hellip;</th>
       <td>
        <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RAD</span>s and you give me all of yours.</span> And yes, it could, but only if the other co-owners do not say anything about. Because of &ldquo;Transparency,&rdquo; they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that make co-ownership a joke.</span></p>
-       <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the &rdquo;fix&ldquo; is to deal with what you cosider a problem&mdash;you are all co-owners.</p>
+       <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-<span class='_paradigm'>Fiat</span> alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &rdquo;fix&ldquo; is not to elect a boss to tell us what to do, the &rdquo;fix&ldquo; is to deal with what you consider a problem&mdash;you are all co-owners.</p>
        <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community of society. My usual retort is, <span class='_quotespan'>what about family?</span></p>
        <p>&ldquo;Homo economicus&rdquo; is one of those convenient stories that popped up to support the <span class='_paradigm'>Fiat</span> system. People are not coin operated, but people have to survive and will go to kinds of length to do it. The thing to observe is that survival, though necessary, is not living.</p>
       </td>
@@ -274,7 +274,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Banners</th>
       <td>
        <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
-       <p>For the case, where all co-owners agree, the Banner Dashboard could lile this,</p>
+       <p>For the case, where all co-owners agree, the Banner Dashboard could look like this,</p>
         <div style='padding-left:1rem; '>
          <table>
           <tr>
@@ -321,7 +321,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Fiat and Radical</h1>
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
  <h2>Fiat</h2>
-  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today, with rules and laws morphing to adapt to their environment. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the lates 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
+  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today, with rules and laws morphing to adapt to their environment. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the late 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
   <p>The thing that has remained constant throughout is <span class='_paradigm'>force.</span></p>
    <div class='_center'>
     <img
@@ -329,7 +329,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      width='70%'
      alt=''>
    </div>
-  <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all govenance, from democracies to the dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
+  <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to the dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
  <h2>Radical</h2>
   <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span> of what we need at the root of the system, not an evolved system (<eg>i.e.</eg>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
    <div class='_center'>
@@ -344,12 +344,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <li>Will this decision make it easier to help people find meaning in what they are doing or not. Again, either choice is up to you and your community, but the <span class='_paradigm'>Foundation</span> helps you know where you are headed.</li>
    </ul>
   <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, <span class='_quotespan'>Oh, I didn&rsquo;t know!</span></p>
-  <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up witgh any rules you want, preferably without force. You are all co-owners.</p>
+  <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up with any rules you want, preferably without force. You are all co-owners.</p>
 
 <h1>Competition and Collaboration</h1>
  <h2>Fiat</h2>
-  <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practive our competitive skills.</p>
-  <p>And, <span class='_quotespan'>so?</span>, you ask, <span class='_quotespan'>what is wrong with that. We need to compete to survive.</span> But I see it as a way to divide people, as in divide and conquer. They who win and they who lose. In the Parlamentary system a specific political party may not win so they have to lump itno coaliations and then proceed to the sausage-making room where they come up with Minister of this and Minister of that. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
+  <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practice our competitive skills.</p>
+  <p>And, <span class='_quotespan'>so?</span>, you ask, <span class='_quotespan'>what is wrong with that. We need to compete to survive.</span> But I see it as a way to divide people, as in divide and conquer. They who win and they who lose. In the Parlamentary system a specific political party may not win so they have to lump into coalitions and then proceed to the sausage-making room where they come up with Minister of this and Minister of that. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
   <p>Democracy-by-voting is the best 18<sup>th</sup> century system we have, but we are in 21<sup>st</sup> century now.</p> 
   <div class='_center'>
    <table class='_h2table'>
@@ -366,11 +366,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the respresentative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
   <p>Hitler used some of the same rhetoric and became friends with Stalin for a while. And then he made the mistake of going against the Russian winter.</p>
 
-<h1>Scarcity and Abudance</h1>
+<h1>Scarcity and Abundance</h1>
  <h2>Fiat</h2>
   <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least,that&rsquo;s how the story goes.</p>
   <p>Actually, what agriculture brought about was <em>land enclosures.</em> An enclosure is when somebody takes, <em>by force</em>, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</em><a href='#en05'><sup id='bm05'>&hairsp;&nabla;&hairsp;</sup></a> Abundance for a few, scarcity for everybody else.</p>
-  <p>Abundance brings out the foreces to enclosed, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free as in beer). Some people would like to enclose that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to an enclosure.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
+  <p>Abundance brings out the forces to enclose, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free as in beer). Some people would like to enclose that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to an enclosure.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
  <h2>Radical</h2>
   <p>Enclosures do come out of force and force is a no-no in <span class='_paradigm'>Radical</span>-based alternatives.</p>
   <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
@@ -432,7 +432,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
     </table>
    </div>
-  <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistenly communicate what the community is about.</p>
+  <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
@@ -467,7 +467,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <th>What? When? How?</th>
-      <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an expirement. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
+      <td>Here is where the projects are listed. There may be a single one or many of these going on at one time. These is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
      </tr>
     </table>
    </div>  <div class='_center'>
@@ -493,14 +493,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>In a <span class='_paradigm'>Fiat</span> business, things are static. You give me so much cash, and I&rsquo;ll give you so much of the company. That percentage of the business remains fixed forever. You can even die and your heirs get the piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
  <h2>Radical</h2>
-  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all <span class='_paradigm'>RAD</span>s and you get a seriouis percentage of the dividens.Next month you don&rsquo;t contribute as much and you end up with smaller percentage of <span class='_paradigm'>RAD</span>s and a smaller percentage of dividends. Ownership is dynamic.</p>
+  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all <span class='_paradigm'>RAD</span>s and you get a serious percentage of the dividens.Next month you don&rsquo;t contribute as much and you end up with smaller percentage of <span class='_paradigm'>RAD</span>s and a smaller percentage of dividends. Ownership is dynamic.</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
      <th>What Are RADs?</th>
      <td>
       <p><span class='_paradigm'>RAD</span>s are like tokens. Not crypto token or any such nonsense. Your <span class='_paradigm'>RAD</span>s really are a percentage of all <span class='_paradigm'>RAD</span>s ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
-      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever movivates you to press the recognition button.</p>
+      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
        <div class='_center'>
         <img
          src='/assets/img/pic-recognitions-to-rads-equation.svg'
@@ -517,7 +517,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>People need to learn how to be owners</th>
       <td>
        <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. <span class='_quotespan'>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</span>. And if the business fails to make you &ldquo;a bare living,&rdquo; that mark&rsquo;s on you forever. <span class='_quotespan'>Get a good job instead. I hear the post office is hiring!</span></p>
-       <p>People need to learn to be owners and all the fear that it brings up. The have to lear to recognize others&rsquo; contribrutions without being afraid of <span class='_quotespan'>making them look good.</span> People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
+       <p>People need to learn to be owners and all the fear that it brings up. The have to lear to recognize others&rsquo; contributions without being afraid of <span class='_quotespan'>making them look good.</span> People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
       </td>
      </tr>
      <tr>
@@ -527,7 +527,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <div class='_citation'>
          <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
          <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did.</p>
-         <p>It turned out that the young woman had been unceremoniously dumped the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation contninued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span>.</p>
+         <p>It turned out that the young woman had been unceremoniously dumped the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span>.</p>
          <p>Now she was looking more like her usual self.</p>
         </div>
        <p>That was a major contribution. The fact that,</p>
@@ -536,19 +536,19 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <li>She engaged her in conversations.</li>
         </ul>
        <p>It was definitely a <em>major contribution</em> to the young woman. If we had the <em><span class='_paradigm'>RADs! Mobile App</span></em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
-       <p>If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thouhgt, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
+       <p>If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thought, <span class='_quotespan'>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday.</span> In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em><span class='_paradigm'>RADs! Mobile App</span></em> is the equipment for it.</p>
       </td>
      </tr>
      <tr>
       <th>People need to learn to distribute pieces of the company to their peers</th>
       <td>
        <p>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
-       <p>in a company based on the <span class='_paradigm'>Radical</span> foundation, everyboy, every co-owner, gives away pieces of the company as they see fit. But this is a skil like any other, and we will have to learn it. We are the pioneers  We, the children of <span class='_paradigm'>Fiat</span>, have to learn to be leaders of <span class='_paradigm'>Radical</span>-base alternatives.</p>
+       <p>in a company based on the <span class='_paradigm'>Radical</span> foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers  We, the children of <span class='_paradigm'>Fiat</span>, have to learn to be leaders of <span class='_paradigm'>Radical</span>-base alternatives.</p>
       </td>
      </tr>
     </table>
    </div>
-  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change world by changgiving people a chance to try an alternative.</p>
+  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change world by giving people a chance to live an alternative.</p>
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
@@ -612,7 +612,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
 
 <h1>That Is It, for Now</h1>
- <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essense, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
+ <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essence, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
  <p>You can choose to get a traditional job to create wealth for the owners, or you can choose to open the floodgates to opportunities, reimagine the conventional, and a different kid of risk-taking.</p>
  <p>We hope you will join to challenge the status quo and propel humanity towards new horizons and, together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
 
