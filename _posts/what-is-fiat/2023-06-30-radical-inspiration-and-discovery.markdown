@@ -105,14 +105,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
    <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</span><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
- <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
+ <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else. It goes to,</p>
   <ul>
-   <li>A god, the omnipotent being at the top</li>
-   <li>The boss.</li>
+   <li>A god, an omnipotent being at the top</li>
+   <li>A boss, an omnipotent being at the top.</li>
   </ul>
- <p>And that we get paid what the boss says it is reasonable.</p>
- <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
- <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs. Anybody talking alternatives (you and I) must be crazy and ignored.</p>
+ <p>We either get paid after we are dead, in heaven or we get paid what the boss says it is reasonable.</p>
+ <p>It may not have started this way, but that is what it evolved into.</p>
+ <p>Work evolved also. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (they were related) or they went back to their village. Then came slavery, they kept you as a beastly worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force neverthelesst.</p>
+ <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, our economics, and our politics. &ldquo;Being a good worker&rdquo; is a sign of pride and may bet you a higher wage. Unwavering loyalty to your chosen politicians, no matter the cost, may bring you the grace of winning. This is totally normal. Anything else is chaos, to be avoided at all costs.</p>
+ <p>Anybody talking alternatives (you and I) is crazy. Just ignore them.</p>
  <p></p>
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
