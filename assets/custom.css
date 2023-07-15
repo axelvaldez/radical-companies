@@ -389,7 +389,8 @@ span._paradigm {
   text-indent:5px;
 }
 ._citation p#_signature::before {
-  content:"— ";
+  content:"
+  — ";
 }
 
 /*
