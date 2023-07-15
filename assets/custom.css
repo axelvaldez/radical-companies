@@ -354,6 +354,7 @@ span._paradigm {
 ._citation {
   font-family:Bradley Hand, cursive;
   font-size:1.50%;
+  color:#777;
   text-align:justify;
   text-justify:inter-word;
   font-size:120%;
@@ -387,7 +388,7 @@ span._paradigm {
   margin-left:50px;
   text-indent:5px;
 }
-p#_signature::before {
+._citation p#_signature::before {
   content:"— ";
 }
 
