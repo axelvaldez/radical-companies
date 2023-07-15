@@ -378,7 +378,9 @@ span._paradigm {
 }
 ._citation p {
   text-indent:0;
+  /*
   display: inline;
+  */
 }
 
 ._citation p#_signature {
