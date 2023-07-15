@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Radical Inspiration and Discovery"
+title:    "Radical Inspiration and Discovery (long)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-radical-inspiration-and-discovery.svg"
