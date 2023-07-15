@@ -374,9 +374,7 @@ p#_signature {
   font-size:smaller;
   font-family:Bradley Hand, cursive;
   margin-left:50px;
-}
-p#_signature::before {
-  content:"— ";
+  text-indent:5px;
 }
 
 /*
