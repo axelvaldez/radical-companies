@@ -373,10 +373,10 @@ p#_signature {
   font-size:1rem;
   font-size:smaller;
   font-family:Bradley Hand, cursive;
+  margin-left:40px;
 }
 p#_signature::before {
   content:"— ";
-  margin-left:40px;
 }
 
 /*
