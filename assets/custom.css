@@ -363,7 +363,7 @@ span._paradigm {
   background-image: url('pic-quote.svg');
   background-repeat: no-repeat;
   background-size:20%;
-  background-position-x:right;
+  background-position-x:left;
   background-position-y:bottom;
 }
 ._citation p {
