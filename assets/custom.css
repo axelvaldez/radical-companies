@@ -370,6 +370,7 @@ span._paradigm {
 }  
 ._citation:before {
   color: #ccc;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   content: "““”";
   font-size: 4em;
   line-height: 0.1em;
