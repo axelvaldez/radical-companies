@@ -93,7 +93,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>If you feel that is an injustice, you let it go to court (<eg>i.e.</eg>, another type of force).</li>
    <li>Victory brings celebration, the force is with you.</li>
    <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
-   <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> This is not longer a minor force.</li>
+   <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> This is no longer a minor force.</li>
    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
  <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown a mere frown to the ghastly specter of the electric chair.</p>
