@@ -383,8 +383,8 @@ span._paradigm {
   line-height: 0.7em;
   /*
   margin-right: 0.25em;
-  */
   vertical-align: -0.4em;
+  */
 }
 ._citation p {
   text-indent:0;
@@ -396,9 +396,11 @@ span._paradigm {
 ._citation p#_signature {
   font-size:1rem;
   font-size:smaller;
+  /*
   font-family:Bradley Hand, cursive;
+  */
   margin-left:50px;
-  text-indent:5px;
+  text-indent:20px;
 }
 ._citation p#_signature::before {
   content:"— ";

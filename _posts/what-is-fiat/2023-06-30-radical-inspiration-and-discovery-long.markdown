@@ -18,8 +18,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
 <h1>Alternatives</h1>
- <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, and do more with less effort. But it is not you, but the system that we call <span class='_paradigm'>Fiat</span>.</p>
- <p>The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
+ <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, and do more with less effort. But it is not you, but the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
  <p>&ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending because the system is too easy to game, particularly by powerful people. The <span class='_paradigm'>Fiat</span> system adapts to fixes very fast.</p>
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
@@ -29,7 +28,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <p id='_signature'>Henri Matisse</p>
    </div>
   </div>
- <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about about it</span>), you can stop reading now. Sorry for any inconvenience.</p>
+ <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about it</span>), you can stop reading now. Sorry for any inconvenience.</p>
 
 <h1>Fiat?</h1>
  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but the pile of work is bigger when you get back.</p>
