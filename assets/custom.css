@@ -331,6 +331,7 @@ span._paradigm {
   font-family: Verdana;
   font-weight:520;
   font-size:smaller;
+  background-color:#efefef;
 }
 ._underDev {
   font-weight:bold;
@@ -633,18 +634,6 @@ h1 ~ h3 {
 }
 ul th, ul td, ul th p, ul td p {
   text-indent:0;
-}
-
-/*
- * extended em
- */
-em {
-  background-color:#efefef;
-  font-style:normal;
-}
-li p._list-item em {
-  background-color:white;
-  font-style:italic;
 }
 
 /*
