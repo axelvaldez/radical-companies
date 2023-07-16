@@ -363,11 +363,14 @@ span._paradigm {
   border-left:10px solid #ccc;
   margin:1.5em 10px;
   padding:0.5em 10px;
+  quotes:initial;
 }  
 ._citation:before {
   color:#aaa;
   font-family:Georgia, 'Times New Roman', Times, serif;
+  /*
   content:"“”";
+  */
   font-size:4em;
   line-height:0.7em;
   vertical-align:0;
@@ -650,7 +653,3 @@ li p._list-item em {
  .eg, .ie {
   font-style:italic;
 }
-
-/*
- * new _citation and #_signature
- */
