@@ -15,13 +15,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>In the world of <span class='_paradigm'>Radical</span> it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
  <p>Together, we will challenge the status quo and propel humanity towards new horizons. We embrace calculated risks, harnessing the power of playfulness and innovation to paths untraveled. We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
  <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.
- <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpasses expectations, and transform ownership. Dare to challenge the boundaries.</p>
+ <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
 <h1>Alternatives</h1>
- <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, do more with less effort. But it is not you, but the system that we call <span class='_paradigm'>Fiat</span>.</p>
+ <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, and do more with less effort. But it is not you, but the system that we call <span class='_paradigm'>Fiat</span>.</p>
  <p>The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
- <p>&ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending, because the system is too easy to game, particularly by powerful people. It adapts to fixes very fast.</p>
+ <p>&ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending because the system is too easy to game, particularly by powerful people. The <span class='_paradigm'>Fiat</span> system adapts to fixes very fast.</p>
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
   <div class='_center'>
    <div class='_citation'>
