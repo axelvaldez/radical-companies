@@ -343,9 +343,12 @@ span._paradigm {
  */
  ._quotation {
   font-family:'Courier New', Courier, monospace;
+  /*
   background-color:AntiqueWhite;
   border:peru 4px solid;
-  padding:0 40px 0 40px;
+  */
+  padding-right:40px;
+  padding-left:40px;
 }
 
 /*
@@ -354,11 +357,15 @@ span._paradigm {
 ._citation {
   font-family:Bradley Hand, cursive;
   font-size:1.50%;
+  /*
   color:#333;
+  */
   text-align:justify;
   text-justify:inter-word;
   font-size:120%;
+  /*
   border:#ED8849 1px solid;
+  */
   padding:15px;
   margin:15px 20px 15px 20px;
   
@@ -373,8 +380,10 @@ span._paradigm {
   font-family:Georgia, 'Times New Roman', Times, serif;
   content: "“”";
   font-size: 4em;
-  line-height: 0.1em;
+  line-height: 0.7em;
+  /*
   margin-right: 0.25em;
+  */
   vertical-align: -0.4em;
 }
 ._citation p {
