@@ -75,8 +75,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
- <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going tot like it!</span> You can&rsquo;t make a decision without considering Bob.</p>
- <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, the boss.</p>
+ <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going to like it!</span> You can&rsquo;t make a decision without considering Bob, your boss.</p>
+ <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, your boss.</p>
  </p>
 
 <h1>The Booklet</h1>
@@ -89,14 +89,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
  <p>Picture this,</p>
   <ul>
-   <li>You  get a ticket. A very minor form of force. You have to give up money (<eg>i.e.</eg>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
+   <li>You  get a traffic ticket. A very minor form of force. You have to give up money (<eg>i.e.</eg>, coined force) to be spared the pain that would follow if you didn&rsquo;t.</li>
    <li>If you feel that is an injustice, you let it go to court (<eg>i.e.</eg>, another type of force).</li>
    <li>Victory brings celebration, the force is with you.</li>
-   <li>If you are defeated, you are angry, but you have to pay the ticket. Still minor force.</li>
+   <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
    <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> This is not longer a minor force.</li>
    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
- <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown a mere frown to the ghastly spector of the electric chair.</p>
+ <p>Force is ever present in out <span class='_paradigm'>Fiat</span> system. It goes from a frown a mere frown to the ghastly specter of the electric chair.</p>
  <p>Withholding a rewrd because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising you rent so your only option is to leave is a form of force. We are surrounded by a system that runs on threats to actual pain (<eg>i.e.</eg>, force).</p>
  <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span>  We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of you may want to do. That is force.</p>
  <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
