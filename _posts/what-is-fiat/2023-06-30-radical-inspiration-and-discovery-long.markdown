@@ -40,7 +40,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 70s. Now it is <span class='_quotespan'>because the country says so (and nominally its economy).</span>.</p>
  <p>In the context of giving orders, the phrase additionally carries an implied threat: <span class='_quotespan'>or else.</span></p>
- <p><span class='_quotespan'>Move those boxes from there to over there</span> (because I say so,&hellip; or else).</p>
+ <p><span class='_quotespan'>Move those boxes from there to over there</span> (because I say so, &hellip; or else).</p>
 
 <h1>The Fiat System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by a system, I shape it however I want to.</span> However, you and I live within a system that has been evolving for quite a while.</p>
