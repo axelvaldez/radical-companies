@@ -55,8 +55,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Luckily, there are alternatives to the <span class='_paradigm'>Fiat</span> system.</p>
 
 <h1>It Starts with Rules</h1>
- <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Drug addicts were at the edge, too.</p>
- <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder</span>) and learn new ones (<span class='_quotespan'>keep your hands to yourself</span>).</p>
+ <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Anybody with an addiction or a tick were at the edge as well.</p>
+ <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder?</span>) and learn new ones (<span class='_quotespan'>keep your hands to yourself</span>).</p>
  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school, too, is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
   <div class='_center'>
    <img
@@ -64,7 +64,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     width='70%'
     alt=''>
   </div>
- <p>If we happen to be live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay away from the people who don't know how to wear the glasses correctly.</p>
+ <p>If we happen to live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay away from the people who don't know how to wear the glasses correctly.</p>
  <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are happy to be a resource and happier that we are getting a steady wage (until, surprise, we are not).</p>
  <p>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules. They want to live in the edge.</span></p>
  
