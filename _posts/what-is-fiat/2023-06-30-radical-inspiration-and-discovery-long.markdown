@@ -500,7 +500,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>In a <span class='_paradigm'>Fiat</span> business, things are static. You give me so much cash, and I&rsquo;ll give you so much of the company. That percentage of the business remains fixed forever. You can even die and your heirs get the piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
  <h2>Radical</h2>
-  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all <span class='_paradigm'>RAD</span>s and you get a serious percentage of the dividens.Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of <span class='_paradigm'>RAD</span>s and a smaller percentage of dividends. Ownership is dynamic.</p>
+  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all <span class='_paradigm'>RAD</span>s and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of <span class='_paradigm'>RAD</span>s and a smaller percentage of dividends. Ownership is dynamic.</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -517,7 +517,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-  <p>The reason I think the <em><span class='_paradigm'>RADs! Mobile App</span></em> is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
+  <p>The reason I think that the <em><span class='_paradigm'>RADs! Mobile App</span></em> is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
