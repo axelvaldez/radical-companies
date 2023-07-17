@@ -150,7 +150,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <h2>Non-Fiat</h2>
    <p>In a <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular belief works against our survival as a species.</p>
-   <p>The alternative is not chaos, but it is certainly different,</p>
+   <p>The alternative is <em>not chaos</em>, but it is certainly different,</p>
     <div class='_center'>
      <table class='_center, _h2table'>
       <tr>
