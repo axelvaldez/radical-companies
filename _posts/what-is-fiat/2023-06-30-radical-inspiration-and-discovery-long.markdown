@@ -239,8 +239,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           src='/assets/img/pic-recognitions-to-rads-equation.svg'
           alt=''>
         </div>
-       <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss is necessary to give attaboys to his favorites.</p>
-       <p>The mobile app does the all the calculation.</p>
+       <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss necessary.</p>
+       <p>The mobile app does all the calculations.</p>
       </td>
      </tr>
      <tr>
