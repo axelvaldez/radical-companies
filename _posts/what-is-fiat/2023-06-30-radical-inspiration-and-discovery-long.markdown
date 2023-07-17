@@ -30,12 +30,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
  <p>If you are not open to this and are just being polite (<span class='_quotespan'>Sounds interesting&hellip; tell me more about it</span>), you can stop reading now. Sorry for any inconvenience.</p>
 
-<h1>Fiat?</h1>
+<h1>What Does Fiat Even Mean?</h1>
  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. <span class='_quotespan'>Don't worry, you will get a chance to rest when you get back,</span> but the pile of work is bigger when you get back.</p>
  <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny,&rdquo; it is not living. It is the <span class='_paradigm'>Fiat</span> system that we live in.</p>
  <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
 
-<h1>What Does Fiat Even Mean?</h1>
+<h1>Fiat, the Word</h1>
  <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino.</em> Thus the acronym.</p>
  <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 70s. Now it is <span class='_quotespan'>because the country says so (and nominally its economy).</span>.</p>
@@ -506,8 +506,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <th>What Are RADs?</th>
      <td>
-      <p><span class='_paradigm'>RAD</span>s are like tokens. Not crypto token or any such nonsense. Your <span class='_paradigm'>RAD</span>s really are a percentage of all <span class='_paradigm'>RAD</span>s ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
-      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are you contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
+      <p><span class='_paradigm'>RAD</span>s are like tokens. Not crypto tokens or any such nonsense. Your <span class='_paradigm'>RAD</span>s really are a percentage of all <span class='_paradigm'>RAD</span>s ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
+      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
        <div class='_center'>
         <img
          src='/assets/img/pic-recognitions-to-rads-equation.svg'
@@ -534,7 +534,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <div class='_citation'>
          <p>R, the cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
          <p>When she came back around she started talking to the young woman and our community. It was easy to listen in, so I did.</p>
-         <p>It turned out that the young woman had been unceremoniously dumped the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span>.</p>
+         <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span>.</p>
          <p>Now she was looking more like her usual self.</p>
         </div>
        <p>That was a major contribution. The fact that,</p>
