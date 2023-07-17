@@ -416,7 +416,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>Vulnerability</th>
       <td>
        <ul>
-        <li>What are you biggest fears?</li>
+        <li>What are your biggest fears?</li>
         <li>Do you speak up? How?</li>
         <li>Do you need to be given permission to speak? <span class='_quotespan'>You didn&rsquo;t ask me!</span></li>
         <li>Anything else?</li>
