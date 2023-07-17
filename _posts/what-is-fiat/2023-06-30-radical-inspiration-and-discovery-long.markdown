@@ -136,7 +136,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Lording</th>
       <td>
        <p>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories, and made up history, to support this convenient ideology which happened to support the making of kingdoms and empires.</p>
-       <p>The Jewish tradition, Christianity, and Islam have an eternal boss named God. All powerful, at the top. You would not dare to even think of yourself as equitable to such power, you can only submit to God.</p>
+       <p>The Jewish tradition, Christianity, and Islam have an eternal, all-mighty boss named God.</p>
        <p>In Christianity, the Pope is the only one that could interpret what the Christian God meant with his signs.</p>
       </td>
      </tr>
