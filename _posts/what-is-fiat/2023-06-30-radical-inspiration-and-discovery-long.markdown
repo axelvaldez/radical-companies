@@ -115,7 +115,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>A god, an omnipotent being at the top</li>
    <li>A boss, an omnipotent being at the top.</li>
   </ul>
- <p>And that we get paid what the boss says it is reasonable.</p>
+ <p>And that we get paid what the boss says is reasonable.</p>
  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars, that were made to carry whatever the winners didn&rsquo;t want to carry. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
  <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.</p>
  <p>Anybody talking alternatives (you and I) must be crazy. Ignore them.</p>
