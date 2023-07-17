@@ -356,7 +356,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Fiat</h2>
   <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practice our competitive skills.</p>
   <p>And, <span class='_quotespan'>so?</span> you ask, <span class='_quotespan'>what is wrong with that. We need to compete to survive.</span> But I see it as a way to divide people, as in divide and conquer. They who win and they who lose. In the Parliamentary system a specific political party may not win so they have to lump into coalitions and then proceed to the sausage-making room where they come up with &ldquo;Minister of this&rdquo; and &ldquo;Minister of that.&rdquo; This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
-  <p>Democracy-by-voting is the best 18<sup>th</sup> century system we have, but we are in 21<sup>st</sup> century now.</p> 
+  <p>Democracy-by-voting probably was the best system in the 18th centuryis, but we are in 21<sup>st</sup> century now.</p> 
   <div class='_center'>
    <table class='_h2table'>
     <tr>
