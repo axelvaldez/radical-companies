@@ -328,9 +328,11 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 span._paradigm {
+  /*
   font-family: Verdana;
-  font-weight:520;
   font-size:smaller;
+  */
+  font-weight:600;
   background-color:#efefef;
 }
 ._underDev {
