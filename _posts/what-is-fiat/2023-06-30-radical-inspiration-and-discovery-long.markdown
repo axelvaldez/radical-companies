@@ -265,8 +265,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>But&hellip;</th>
       <td>
-       <p>But what about investing in the future? Owners don&rsquo;t put all their profits in the pocket, they invest it!</p>
-       <p>Indeed they do and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not to be included in the dividends.</p>
+       <p><span class='_quotespan'>But what about investing in the future? Owners don&rsquo;t put all their profits in the pocket, they invest it!</span></p>
+       <p>Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a <span class='_paradigm'>Banner</span> to accumulate that amount. They could decide to commit enough into the <span class='_paradigm'>Banner</span> to build up to $5M in three years. That amount is not to be included in the dividends.</p>
       </td>
      </tr>
      <tr>
