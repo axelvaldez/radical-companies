@@ -135,7 +135,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>Lording</th>
       <td>
-       <p>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories, and made up history, to support this convenient ideology which happened to support the making of kingdoms and empires.</p>
+       <p>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories and made up history to support this convenient ideology which happened to support the making of kingdoms and empires.</p>
        <p>The Jewish tradition, Christianity, and Islam have an eternal boss, all powerful, at the top.</p>
       </td>
      </tr>
