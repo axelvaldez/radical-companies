@@ -225,7 +225,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>For one, power is force. So investors have power over the business.</p>
   <p>On the other hand, you have no ownership in the business. You are happy to get your salary, but that&rsquo;s that. Owners have power over you.</p>
  <h2>Non-Fiat</h2>
-  <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are way to increase the wellbeing of every co-owner and the society around then.</p>
+  <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
   <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
    <div class='_center'>
     <table class='_h2table'>
@@ -327,7 +327,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Fiat and Radical</h1>
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
  <h2>Fiat</h2>
-  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today, with rules and laws morphing to adapt to their environment. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the late 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
+  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the late 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
   <p>The thing that has remained constant throughout is <span class='_paradigm'>force.</span></p>
    <div class='_center'>
     <img
