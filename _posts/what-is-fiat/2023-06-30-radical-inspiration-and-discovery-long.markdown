@@ -335,7 +335,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      width='70%'
      alt=''>
    </div>
-  <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to the dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
+  <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
  <h2>Radical</h2>
   <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span> of what we need at the root of the system, not an evolved system (<eg>i.e.</eg>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
    <div class='_center'>
