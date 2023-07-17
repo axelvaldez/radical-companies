@@ -64,7 +64,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     width='70%'
     alt=''>
   </div>
- <p>If we happen to live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simple fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay away from the people who don't know how to wear their glasses correctly.</p>
+ <p>If we happen to live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simply fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay away from the people who don't know how to wear their glasses correctly.</p>
  <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker.  We are happy to be a resource and happier that we are getting a steady wage (until, surprise, we are not).</p>
  <p>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules. They want to live on the edge.</span></p>
  
@@ -133,9 +133,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Divide and Conquer</th>
       <td>
        <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive &ldquo;apostrophe s&rdquo; in English (<eg>i.e.</eg>, Pedro&rsquo;s) as it indicates that it &ldquo;belongs to&rdquo; to the men. <span class='_quotespan'>Men were the kings of their castle</span> and women were reduced to chattel. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in charge of what belonged to them, and not about the injustices from the powerful men above.</p>
-       <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and she submitted for salvation. Women covered their hair, wore burkas, and reqlinquished their autonomy in the name of duty and survival.</p>
+       <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
        <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
-       <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftover of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as a few powerful people cling to the past.</p>
+       <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as powerful people cling to the past.</p>
       </td>
      </tr>
      <tr>
