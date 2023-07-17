@@ -194,7 +194,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <p>It is <em>alignment</em> in the sense that it ties people together into a community with something in common.</p>
         <p>To be clear,</p>
          <ul>
-          <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
+          <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business it because it is very, very difficult.</li>
           <li>If the <em>why</em>, the <span class='_paradigm'>Purpose</span>, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn&rsquo;t work, you don&rsquo;t join the community.</li>
           <li>The <em>what, when, and how</em>, the <span class='_paradigm'>Mission</span>, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
          </ul>
