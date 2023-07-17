@@ -524,16 +524,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>People need to learn how to be owners</th>
       <td>
        <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. <span class='_quotespan'>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</span>. And if the business fails to make you &ldquo;a bare living,&rdquo; that mark&rsquo;s on you forever. <span class='_quotespan'>Get a good job instead. I hear the post office is hiring!</span></p>
-       <p>People need to learn to be owners and all the fear that it brings up. The have to lear to recognize others&rsquo; contributions without being afraid of <span class='_quotespan'>making them look good.</span> People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
+       <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of <span class='_quotespan'>making them look good.</span> People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
       </td>
      </tr>
      <tr>
       <th>People need to learn to <em>notice</em> and <em>recognize</em> contributions</th>
       <td>
-       <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or The number of sacs of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
+       <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
         <div class='_citation'>
          <p>The cleaning woman went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
-         <p>When she came back around she started talking to the young woman. It was easy to listen in, so I did.</p>
+         <p>When she came back around she started talking to the young woman and our community. It was easy to listen in, so I did.</p>
          <p>It turned out that the young woman had been unceremoniously dumped the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span>.</p>
          <p>Now she was looking more like her usual self.</p>
         </div>
