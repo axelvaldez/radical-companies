@@ -537,7 +537,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span>.</p>
          <p>Now she was looking more like her usual self.</p>
         </div>
-       <p>That was a major contribution. The fact that,</p>
+       <p>That was a major contribution,</p>
         <ul>
          <li>She noticed that somebody was not her usual self, and</li>
          <li>She engaged her in conversations.</li>
