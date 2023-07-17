@@ -149,7 +149,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </table>
    </div>
   <h2>Non-Fiat</h2>
-   <p>In a <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular believe works against our survival as a species.</p>
+   <p>In a <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy. If you believe in supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work anymore; in fact, that particular belief works against our survival as a species.</p>
    <p>The alternative is not chaos, but it is certainly different,</p>
     <div class='_center'>
      <table class='_center, _h2table'>
@@ -160,7 +160,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <li>I trust my decentralized and fully transparent community.</li>
          <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
          <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
-         <li>And if that is not the case, I leave<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a>.</li>
+         <li>And if that is not the case, I leave.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></li>
         </ul>
        </td>
       </tr>
