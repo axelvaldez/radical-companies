@@ -559,7 +559,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Pain vs Wellbeing</h1>
  <h2>Fiat</h2>
-  <p>The <span class='_paradigm'>Fiat</span> model is based on <span class='_paradigm'>Pain</span> and people have gotten used to avoiding pain and survive.</p>
+  <p>The <span class='_paradigm'>Fiat</span> model is based on <span class='_paradigm'>Pain</span> and people have gotten used to avoiding pain and surviving.</p>
   <p>In the <span class='_paradigm'>Fiat</span> system, a threat is usually enough,</p>
    <div class='_center'>
     <img
@@ -593,7 +593,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <tr>
      <th>How Fiat developed (according to me)</th>
      <td>
-      <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
+      <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&ldquo;</p>
        <div class='_center, _citation'>
         <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
         <p id="_signature">Blair Fix, <em>An Evolutionary Theory of Resource Distribution</em></p>
@@ -604,9 +604,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>Surviving Is Not Living</th>
      <td>
        <div class='_center, _citation'>
-        <p>First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of live. It was a blind jump, but I discovered the light in my life.</p>
+        <p>First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of life. It was a blind jump, but I discovered the light in my life.</p>
         <p>I am not split between my &ldquo;personal&rdquo; live and my &ldquo;work&rdquo; life. I am one and the same no matter what I am doing.</p>
-        <p>I was surviving, not living. But now I can recognize the fears that held me in survival mode. I can go around them, lovingly, and go on with my life, guided my me, not my fears.</p>
+        <p>I was surviving, not living. But now I can recognize the fears that held me in survival mode. I can go around them, lovingly, and go on with my life, guiding me, not my fears.</p>
         <p>I am still afraid, but I am living my life. The more I do it, the easier it gets. I am not afraid of dying, so I am not afraid of living.</p>
         <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what&rsquo;s best for me.</p>
         <p id="_signature">Chabeli Atahuaman</p>
@@ -618,9 +618,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </table>
   </div>
 
-<h1>That Is It, for Now</h1>
- <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essence, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
- <p>You can choose to get a traditional job to create wealth for the owners, or you can choose to open the floodgates to opportunities, reimagine the conventional, and a different kid of risk-taking.</p>
+<h1>That Is It</h1>
+ <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you are a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essence, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
+ <p>You can choose to get a traditional job to create wealth for the owners, or you can choose to open the floodgates to opportunities, reimagine the conventional, and a different kind of risk-taking.</p>
  <p>We hope you will join to challenge the status quo and propel humanity towards new horizons and, together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
 
 {% include related.html %}
