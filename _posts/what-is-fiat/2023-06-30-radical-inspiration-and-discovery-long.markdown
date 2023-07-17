@@ -161,7 +161,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <tr>
        <th>Foundation</th>
        <td>
-        <p>This is the <span class='_paradigm'>Foundation</span> of a community,</p>
+        <p>This is the <span class='_paradigm'>Foundation</span> of a <span class='_paradigm'>Radical</span>-based community,</p>
          <ul>
           <li>A community must help find Meaning is a community that I want to Belong to.</li>
           <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
