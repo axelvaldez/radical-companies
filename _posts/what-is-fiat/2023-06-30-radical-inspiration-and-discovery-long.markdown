@@ -171,7 +171,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <ul>
           <li>A community must help find Meaning. This is a community that I want to Belong to.</li>
           <li>To work for <em>every</em> member, the community must be fully decentralized and transparent.</li>
-          <li>Members are free to experiment. Not meeting the expect result, means that we learn how not to do it.</li>
+          <li>Members are free to experiment. Not meeting the expected result, means that we learn how not to do it.</li>
          </ul>
        </td>
       </tr>
@@ -191,7 +191,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
            alt=''>
          </div>
         <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
-        <p>It is &ldquo;alignment&rdquo; in the sense that it that it ties people together into a community with something in common.</p>
+        <p>It is <em>alignment</em> in the sense that it that it ties people together into a community with something in common.</p>
         <p>To be clear,</p>
          <ul>
           <li>If the <em>what for</em>, the <span class='_paradigm'>Impact</span>, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed at it because it is very, very difficult.</li>
