@@ -266,7 +266,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>The PRI</th>
       <td>
-       <p>The PRI is used to pay co-owners a <em>predictable, recurring income</em> (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside that would normally (dividends) go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
+       <p>The PRI is used to pay co-owners a <em>predictable, recurring income</em> (like a salary) when there is little or no revenue. The <span class='_paradigm'>PRI</span> is paid back by the revenue each co-owner gets given their <span class='_paradigm'>RAD</span>s. Until it is paid in full, what a co-owner takes out of the <span class='_paradigm'>PRI</span> fund is a personal debt. Once the <span class='_paradigm'>PRI</span> fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their <span class='_paradigm'>RAD</span>s.</p>
       </td>
      </tr>
      <tr>
