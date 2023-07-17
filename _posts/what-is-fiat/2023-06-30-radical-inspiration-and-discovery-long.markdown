@@ -327,8 +327,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Fiat and Radical</h1>
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
  <h2>Fiat</h2>
-  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, in the late 1800s, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
-  <p>The thing that has remained constant throughout is <span class='_paradigm'>force.</span></p>
+  <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
+  <p>The thing that has remained constant in the <span class='_paradigm'>Fiat</span> sysste, is <span class='_paradigm'>Force.</span></p>
    <div class='_center'>
     <img
      src='/assets/img/pic-fiat-fear-force-or-pain.svg'
