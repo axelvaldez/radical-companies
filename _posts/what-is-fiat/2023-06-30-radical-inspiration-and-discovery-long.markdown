@@ -483,8 +483,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The other rTool, and to me the most fundamental one, is the <em><span class='_paradigm'>RADs! Mobile App</span></em>.</p>
 
-<div class='_center'>
- <table style='border:6px solid grey; padding:20px 20px 0 20px; width:90%; '>
+<div  style='border:6px dashed grey; padding:20px 20px 0 20px; '>
+ <table>
   <tr>
    <td style='text-justify:inter-world; text-align:justify; text-size:smaller; '>
     <p>The little <strong>r</strong> in rTools and other labels stand for <span class='_paradigm'>Radical</span>.</p>
