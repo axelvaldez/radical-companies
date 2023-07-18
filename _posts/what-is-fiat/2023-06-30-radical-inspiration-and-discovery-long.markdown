@@ -212,7 +212,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
-  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US, investors don&rsquo;t technically have any power over company operations, but they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effect of seeing capital as the only way to contribute.</p>
+  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US, investors don&rsquo;t technically have any power over company operations, but they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
   <p>For one, power is force. So investors have power over the business.</p>
   <p>On the other hand, you have no ownership in the business. You are happy to get your salary, but that&rsquo;s that. Owners have power over you.</p>
  <h2>Radical</h2>
