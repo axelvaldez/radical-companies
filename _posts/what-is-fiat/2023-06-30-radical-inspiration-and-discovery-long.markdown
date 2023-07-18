@@ -483,10 +483,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The other rTool, and to me the most fundamental one, is the <em><span class='_paradigm'>RADs! Mobile App</span></em>.</p>
 
-<div style='float:right; border:6px solid grey; padding:20px 0 20px 20px; margin-left:20px; width:35%; text-align:justify; text-justify:inter-word; text-size:smaller; '>
+<div style='float:right; border:6px solid grey; padding:20px 0 20px 20px; margin-left:20px; width:35%; margin-top:40px; '>
  <table>
   <tr>
-   <td>
+   <td style='text-justify:inter-world; text-align:justify; text-size:smaller; '>
     <p>The little <strong>r</strong> in rTools and other labels stand for <span class='_paradigm'>Radical</span>.</p>
     <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really co-owners and they are not really based on the <span class='_paradigm'>Radical</span> Foundation.</p>
     <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
