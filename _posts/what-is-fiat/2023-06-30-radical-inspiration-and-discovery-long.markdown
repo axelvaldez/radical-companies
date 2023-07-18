@@ -483,7 +483,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The other rTool, and to me the most fundamental one, is the <em><span class='_paradigm'>RADs! Mobile App</span></em>.</p>
 
-<div  style='border:6px dashed grey; padding:20px 60px 0 60px; margin-top:20px; '>
+<div  style='border:6px solid lightgrey; padding:20px 60px 0 60px; margin-top:20px; '>
  <table>
   <tr>
    <td style='text-justify:inter-world; text-align:justify; text-size:smaller; '>
