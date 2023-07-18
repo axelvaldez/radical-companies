@@ -486,8 +486,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <div  style='border:6px solid lightgrey; padding:20px 60px 0 60px; margin-top:20px; '>
  <table>
   <tr>
-   <td style='text-justify:inter-world; text-align:justify; text-size:smaller; '>
-    <p>BTW, the little <strong>r</strong> in rTools and other labels stand for &ldquo;Radical&rdquo;.</p>
+   <td style='text-justify:inter-world; text-align:justify; text-size:smaller; text-indent:0; '>
+    <p>BTW, the little <strong><em>r</em></strong> in rTools and other labels stand for &ldquo;Radical&rdquo;.</p>
     <p>This is not a certificate program or any such nonsense. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really co-owners and they are not really based on the <span class='_paradigm'>Radical</span> Foundation.</p>
     <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
    </td>
