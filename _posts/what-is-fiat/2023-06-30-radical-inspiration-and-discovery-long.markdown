@@ -483,9 +483,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The other rTool, and to me the most fundamental one, is the <em><span class='_paradigm'>RADs! Mobile App</span></em>.</p>
 
-<h1>The Little R</h1>
- <p>The little <strong>r<./strong> in rTools and other labels stand for <span class='_paradigm'>Radical</span>.</p>
- <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really co-owners and they are not really based on the <span class='_paradigm'>Radical</span> Foundation. If they think they are going in the right direction, then they are going in the right direction.</p>
+<div style='float:right; padding:20px 0 20px 20px; '>
+ <table>
+  <tr>
+   <td>
+    <p>The little <strong>r</strong> in rTools and other labels stand for <span class='_paradigm'>Radical</span>.</p>
+    <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really co-owners and they are not really based on the <span class='_paradigm'>Radical</span> Foundation. If they think they are going in the right direction, then they are going in the right direction.</p>
+   </td>
+  </tr>
+ </table>
+</div>
 
 <h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
