@@ -487,8 +487,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <table>
   <tr>
    <td style='text-justify:inter-world; text-align:justify; text-size:smaller; '>
-    <p>The little <strong>r</strong> in rTools and other labels stand for <span class='_paradigm'>Radical</span>.</p>
-    <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really co-owners and they are not really based on the <span class='_paradigm'>Radical</span> Foundation.</p>
+    <p>BTW, the little <strong>r</strong> in rTools and other labels stand for &ldquo;Radical&rdquo;.</p>
+    <p>This is not a certificate program or any such nonsense. The people who are part of it will tell you if the company is firmly based on the <span class='_paradigm'>Radical</span> model or not. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then they are not really co-owners and they are not really based on the <span class='_paradigm'>Radical</span> Foundation.</p>
     <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
    </td>
   </tr>
@@ -516,7 +516,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-  <p>The reason I think that the <em><span class='_paradigm'>RADs! Mobile App</span></em> is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear. By using it,</p>
+  <p>The reason I think that the <em><span class='_paradigm'>RADs! Mobile App</span></em> is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear (it is difficult to escape the force language). By using it,</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
