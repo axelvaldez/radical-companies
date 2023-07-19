@@ -37,15 +37,18 @@ image:    "icon-radical-ownership.svg"
 <h1>Shares Tired, RADs Wired</h1>
  <p>As I mentioned, <span class='_paradigm'>Radical</span>-based companies don&rsquo;t have shares. Ownership is based on recognized contributions, not capital</p>
  <p>Shares are a 16<sup>th</sup> century invention that worked pretty much as <span class='_paradigm'>RAD</span>s, with one significant difference: shares are based on <em>capital</em> while <span class='_paradigm'>RAD</span>s are based on <em>recognized contributions</em>. But they are both ways to create something bigger than one person could.</p>
- <p>Business shares must have sounded crazy, like <span class='_paradigm'>RAD</span>s sound today. The clientele for shares back then already were risk takers and it was a smaller audience. The audience for <span class='_paradigm'>RAD</span>s is everybody who have been trained since birth to work for a wage and leave everything else to the oligarchic owners.</p>
+ <p>Business shares must have sounded crazy, like <span class='_paradigm'>RAD</span>s sound today. The clientele for shares back then already were risk takers and it was a smaller audience. The audience for <span class='_paradigm'>RAD</span>s is everybody who have been trained since birth to work for a wage and leave everything else to the oligarchic owners. On the other hand with have more educate people who sense that the current system is not working for them.</p>
 
 <h1>Decentralized Ownership</h1>
- <p>Decentralized is sustainable. There is no </p>
+ <p>Decentralized ownership is sustainable. The company is not dependent on a top boss. It is forever flexible.</p>
+ <p>Decentralized ownership lasts&hellip; forever. For one, there is no issue of inheritance</p>
  <p>&nbsp;</p>
 
 <h1>Co-ownership is dynamic</h1>
- <p>It is based on the recognized contributions you get.</p>
- <p>&nbsp;</p>
+ <p>Say in January you make a lot of contributions that are recognized by your peers. Your <span class='_paradigm'>RAD</span>s go up quite a bit. But in February you are down to routine things. You get a few recognized contributions, but not many. Your <span class='_paradigm'>RAD</span>s go up a bit, but not much.</p>
+ <p>In March you and your team give talks about the projects you just finished and how it is going to reduce costs significantly. You recognized contributions go up and so do your <span class='_paradigm'>RAD</span>s. Then you go on vacation in April. Your <span class='_paradigm'>RAD</span>s stay the same but the total RADs go up (<em>e.g.</em>, more people) so your porcentage of revenue go down.</p>
+ <p>Your level of revenue ownership bobs up and down depending on 1) the contributions you make, and 2) how many of those are recognized by your peers.</p>
+ <p>The same is goinb on for every co-owner and their level of revenue ownership changes.</p>
 
 <h1>No Get-Rich-Quick Scheme</h1>
  <p>It is certainly not the way to accumulate more wealth than the next person. We are <em>not</em> competing, we are collaborating.</p>
