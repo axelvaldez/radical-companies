@@ -17,7 +17,7 @@ image:    "icon-radical-ownership.svg"
 <h1>RADs Instead of Shares</h1>
  <p></p>
 
-<h1>Decentralized Ownership</li>
+<h1>Decentralized Ownership</h1>
  <p>It is sustainable.</p>
 
 
@@ -30,7 +30,7 @@ image:    "icon-radical-ownership.svg"
 <h1>Rewards for Contributions</h1>
  <p>that are recognizable to your peer co-owners.</p>
 
-<h1>Capital Doesn&rsquo;t Get Power</li>
+<h1>Capital Doesn&rsquo;t Get Power</h1>
  <p><span class='_quotespan'>I needs capital to get started!</span></p>
  <p>Capital still has a role to play, but it doesn&rsquo;t get power over the company, the community.</p>
 
