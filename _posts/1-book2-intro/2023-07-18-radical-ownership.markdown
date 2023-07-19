@@ -48,7 +48,7 @@ image:    "icon-radical-ownership.svg"
  <p>Say in January you make a lot of contributions that are recognized by your peers. Your <span class='_paradigm'>RAD</span>s go up quite a bit. But in February you are down to routine things. You get a few recognized contributions, but not many. Your <span class='_paradigm'>RAD</span>s go up a bit, but not much.</p>
  <p>In March you and your team give talks about the projects you just finished and how it is going to reduce costs significantly. You recognized contributions go up and so do your <span class='_paradigm'>RAD</span>s. Then you go on vacation in April. Your <span class='_paradigm'>RAD</span>s stay the same but the total RADs go up (<em>e.g.</em>, more people) so your porcentage of revenue go down.</p>
  <p>Your level of revenue ownership bobs up and down depending on 1) the contributions you make, and 2) how many of those are recognized by your peers.</p>
- <p>The same is goinb on for every co-owner and their level of revenue ownership changes.</p>
+ <p>The same is going on for every co-owner and their level of revenue ownership changes.</p>
 
 <h1>No Get-Rich-Quick Scheme</h1>
  <p>It is certainly not the way to accumulate more wealth than the next person. We are <em>not</em> competing, we are collaborating.</p>
