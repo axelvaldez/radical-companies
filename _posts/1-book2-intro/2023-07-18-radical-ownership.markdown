@@ -15,36 +15,36 @@ image:    "icon-radical-ownership.svg"
  <p>Co-ownership is probably the least understood thing about the <span class='_paradigm'>Radical</span> paradigm. It is not a co-op and it is not revenue sharing. It is powerfully different. We&rsquo;ll get into the details of it below.</p>
 
 <h1>RADs Instead of Shares</h1>
- <p></p>
- <p></p>
+ <p>&nbsp;</p>
+ <p>&nbsp;</p>
 
 <h1>Decentralized Ownership</h1>
  <p>It is sustainable.</p>
- <p></p>
+ <p>&nbsp;</p>
 
 <h1>Co-ownership is dynamic</h1>
  <p>It is based on the recognized contributions you get.</p>
- <p></p>
+ <p>&nbsp;</p>
 
 <h1>No Get-Rich-Quick Scheme</h1>
  <p>It is certainly not the way to accumulate more wealth than the next person. We are <em>not</em> competing, we are collaborating.</p>
- <p></p>
+ <p>&nbsp;</p>
 
 <h1>Rewards for Contributions</h1>
  <p>that are recognizable to your peer co-owners.</p>
- <p></p>
+ <p>&nbsp;</p>
 
 <h1>Capital</h1>
  <p><span class='_quotespan'>But, I need capital. That is the normal way to get started!</span></p>
  <p>Capital still has a role to play, but it doesn&rsquo;t get power over the company, the community.</p>
- <p></p>
+ <p>&nbsp;</p>
 
 <h1>No Forever Shares</h1>
  <p>A co-owned company doesn&rsquo;t give out &ldquo;forever&rdquo; shares in exchange for capital because it doesn&rsquo;t have any to give!</p>
- <p></p>
+ <p>&nbsp;</p>
 
 <h1>What&rsquo;s the Catch?</h1>
  <p>What is the catch? Sounds like you want to pay people less!</p>
- <p></p>
+ <p>&nbsp;</p>
 
 {% include related.html %}
