@@ -22,7 +22,7 @@ image:    "icon-radical-ownership.svg"
    <li>A co-owned company doesn&rsquo;t give out &ldquo;forever&rdquo; shares in exchange for capital. It doesn&rsquo;t have any to give..</li>
    <li></li>
   </ul>
- <p>So, what is the trick.</p>
+ <p>So, what is the catch? Sounds like you want to pay people less!</p>
  <p></p>
 
 {% include related.html %}
