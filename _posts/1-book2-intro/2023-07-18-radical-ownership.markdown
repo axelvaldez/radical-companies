@@ -35,7 +35,7 @@ image:    "icon-radical-ownership.svg"
  <p></p>
 
 <h1>Capital</h1>
- <p><span class='_quotespan'>I needs capital to get started!</span></p>
+ <p><span class='_quotespan'>But, I need capital. That is the normal way to get started!</span></p>
  <p>Capital still has a role to play, but it doesn&rsquo;t get power over the company, the community.</p>
  <p></p>
 
