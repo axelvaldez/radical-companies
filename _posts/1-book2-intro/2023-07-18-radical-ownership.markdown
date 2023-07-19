@@ -19,8 +19,10 @@ image:    "icon-radical-ownership.svg"
    <li>Co-ownership is a way to get rewarded for contributions that are recognizable to your peer co-owners.</li>
    <li>Co-ownership is decentralized ownership: it is sustainable!</li>
    <li>Capital still has a role to play, but it doesn&rsquo;t get power over the company, the community.</li>
-   <li>A co-owned company doesn&rsquo;t have &ldquo;forever&rdquo; shares to give.</li>
+   <li>A co-owned company doesn&rsquo;t give out &ldquo;forever&rdquo; shares in exchange for capital. It doesn&rsquo;t have any to give..</li>
+   <li></li>
   </ul>
- <p>So, what is the trick</p>
+ <p>So, what is the trick.</p>
+ <p></p>
 
 {% include related.html %}
