@@ -32,7 +32,7 @@ image:    "icon-radical-ownership.svg"
  <p>Now we can talk about how <span class='_paradigm'>RAD</span>s work.</p>
  <p>The whole thing starts with recognized contributions. As you doing your work, other co-owners will recognize some of it as <em>contributions that resonate with them</em> and they will record those using the <em><span class='_paradigm'>RAD</span>s! mobile app</em> by simply pressing a button. The more signficant you find the contribution, the more button presses.</p>
  <p>At the end of the cycle (<em>e.g.</em>, a week, a month), the app calculates how many <span class='_paradigm'>RAD</span>s those recognized contributions translate to. That many span class='_paradigm'>RAD</span>s are given to each of the contributing co-owners.</p>
- <p>span class='_paradigm'>RAD</span>s are cummulative, so each cycle adds to existing span class='_paradigm'>RAD</span>s.</p>
+ <p><span class='_paradigm'>RAD</span>s are cummulative, so each cycle adds to existing span class='_paradigm'>RAD</span>s.</p>
  
 <h1>Shares Tired, RADs Wired</h1>
  <p>As I mentioned, span class='_paradigm'>Radical</span>-based companies don&rsquo;t have shares. Ownership is based on contributions not capital</p>
