@@ -51,8 +51,8 @@ image:    "icon-radical-ownership.svg"
  <p>The same is going on for every co-owner and their level of revenue ownership changes.</p>
 
 <h1>No Get-Rich-Quick Scheme</h1>
- <p>It is certainly not the way to accumulate more wealth than the next person. We are <em>not</em> competing, we are collaborating.</p>
- <p>&nbsp;</p>
+ <p>In our <span class='_paradigm'>Fiat</span> worlf, owning a business is the way to accumulate a lot of money. You pay yourelf well and keep the dividends. If you are lucky, somebody buys your company and you make a big lump sum. In the <span class='_paradigm'>Radical</span>-based apprach, this is not it.</p>
+ <p>You accumulate <span class='_paradigm'>Fiat</span> money by keeping the wealth that other people created. Yes, you pay them good wages to do so, but you keep the bulk of the value they create. In the <span class='_paradigm'>Radical</span>-based space you get paid according to the contributions that your peer co-owners recognize.</p>
 
 <h1>Rewards for Contributions</h1>
  <p>that are recognizable to your peer co-owners.</p>
