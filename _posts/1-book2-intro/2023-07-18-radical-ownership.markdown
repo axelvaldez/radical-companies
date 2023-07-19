@@ -25,7 +25,7 @@ image:    "icon-radical-ownership.svg"
  <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determine what percentage of the revunue you get.</p>
 
 <h1>Not a Co-op</h1>
- <p>Co-operatives make everybody financially equal. But people&rsquo;s contributions are not equal. Some people contribute more one month, but less the next.</p>
+ <p>Co-operatives make everybody financially equal. But people&rsquo;s contributions are not equal. The same person can contribute a lot one month, but less the next.</p>
  <p><span class='_paradigm'>RAD</span>s are used to keep a tally of contributions.</p>
  
 <h1>How RADs Work</h1>
@@ -34,12 +34,13 @@ image:    "icon-radical-ownership.svg"
  <p>At the end of the cycle (<em>e.g.</em>, a week, a month), the app calculates how many <span class='_paradigm'>RAD</span>s those recognized contributions translate to. That many span class='_paradigm'>RAD</span>s are given to each of the contributing co-owners.</p>
  <p>span class='_paradigm'>RAD</span>s are cummulative, so each cycle adds to existing span class='_paradigm'>RAD</span>s.</p>
  
-<h1>RADs Instead of Shares</h1>
- <p>&nbsp;</p>
- <p>&nbsp;</p>
+<h1>Shares Tired, RADs Wired</h1>
+ <p>As I mentioned, span class='_paradigm'>Radical</span>-based companies don&rsquo;t have shares. Ownership is based on contributions not capital</p>
+ <p>Shares are a 16<sup>th</sup> century invention that worked pretty much as span class='_paradigm'>RAD</span>s, with one significant difference: shares are based on <em>capital</em> whil <span class='_paradigm'>RAD</span>s are based on <em>contributions</em>. But they are both ways to create something bigger than one person could.</p>
+ <p>Business shares must have sounded crazy, like <span class='_paradigm'>RAD</span>s sound today. The clientele for shares back then already were risk takers and it was a smaller audience. The audience for <span class='_paradigm'>RAD</span>s is everybody who have been trained since birth to accept workig for a wage and leave everything else to the oligarchic owners.</p>
 
 <h1>Decentralized Ownership</h1>
- <p>It is sustainable.</p>
+ <p>Decentralized is sustainable. There is no </p>
  <p>&nbsp;</p>
 
 <h1>Co-ownership is dynamic</h1>
