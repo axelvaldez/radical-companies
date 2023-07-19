@@ -25,12 +25,12 @@ image:    "icon-radical-ownership.svg"
  <p>It is based on the recognized contributions you get.</p>
 
 <h1>No Get-Rich-Quick Scheme</h1>
- <p>It is certainly not the way to accumulate more wealth than the next person, because we are not competing, we are collaborating.</p>
+ <p>It is certainly not the way to accumulate more wealth than the next person. We are <em>not</em> competing, we are collaborating.</p>
 
 <h1>Rewards for Contributions</h1>
  <p>that are recognizable to your peer co-owners.</p>
 
-<h1>Capital Doesn&rsquo;t Get Power</h1>
+<h1>Capital</h1>
  <p><span class='_quotespan'>I needs capital to get started!</span></p>
  <p>Capital still has a role to play, but it doesn&rsquo;t get power over the company, the community.</p>
 
