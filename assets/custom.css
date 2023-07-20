@@ -317,7 +317,8 @@ table._background tr td, table._foundation tr td {
   font-size:smaller;
   padding-right:1em;
 }
-table._background tr:nth-child(odd), table._foundation tr:nth-child(odd) {
+table._background tr:nth-child(odd),
+table._foundation tr:nth-child(odd) {
   background-color:#EEEEEE;
 }
 table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:last-of-type {
@@ -328,12 +329,9 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 span._paradigm {
-  /*
-  font-family: Verdana;
-  font-size:smaller;
-  */
   font-weight:540px;
   background-color:#efefef;
+  mix-blend-mode:normal;
 }
 ._underDev {
   font-weight:bold;
