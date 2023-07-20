@@ -17,6 +17,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
+
 <h1 class="_section">SEEING FIAT</h1>
 
 <h1>What the Fiat System Does</h1>
@@ -618,6 +619,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
+
 
 <h1 class="_section">CO-OWNERSHIP</h1>
 
