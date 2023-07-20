@@ -330,8 +330,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 span._paradigm {
   font-weight:540px;
-  background-color:#efefef;
-  mix-blend-mode:normal;
+  background-color:#ddd;
 }
 ._underDev {
   font-weight:bold;
