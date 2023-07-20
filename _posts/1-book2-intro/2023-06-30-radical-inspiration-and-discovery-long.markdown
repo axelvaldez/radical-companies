@@ -673,7 +673,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>What&rsquo;s the Catch?</h1>
  <p>Sounds like you want people to do more and not be guaranteed a salary!</p>
- <p>And, yes, peole are not &ldquo;guaranteed&rdquo; a salary, but if you choose to, the PRI Fund can give provide a Predictable and Recurring Income.If &ldquo;more&rdquo; means, <span class='_quotespan'>more than just be a cog in the bussiness money manking machine,</span> then, yes, you are expected to do more &ldquo;owner stuf.&rdquo;</p>
+ <p>And, yes, peole are not &ldquo;guaranteed&rdquo; a salary, but if you choose, the PRI Fund can give provide a Predictable and Recurring Income.If &ldquo;more&rdquo; means, <span class='_quotespan'>more than just be a cog in the bussiness money manking machine,</span> then, yes, you are expected to do more &ldquo;owner stuf.&rdquo;</p>
  <p>You are expected to speak up if you think somebody is trying to game the <span class='_paradigm'>RAD</span> system. You are expected to care. And you are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit the community.</p>
  <p>You are expected to speak up when you see opportunites that others may not see. It is a safe space because you are a co-owner and you can tech people how to migrated out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
 
