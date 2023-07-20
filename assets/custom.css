@@ -373,10 +373,8 @@ span._paradigm {
 }  
 ._citation:before {
   color:#aaa;
-  font-family:Georgia, serif;
   font-size:4em;
   line-height:0.7em;
-  vertical-align:0;
   vertical-align:-0.5em;
 }
 ._citation p {
