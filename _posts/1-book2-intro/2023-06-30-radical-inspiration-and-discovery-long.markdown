@@ -135,7 +135,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as powerful people cling to the past.</p>
       </td>
      </tr>
-  <!--
      <tr>
       <th>Lording</th>
       <td>
@@ -144,8 +143,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td>
      </tr>
       <th>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories and made up history to support this convenient ideology which happened to support the making of kingdoms and empires. The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, all powerful, at the top. You would not dare to even think of yourself as equitable to such power, you can only submit to God.</th>
-      </td>
      </tr>
+  <!--
   -->
     </table>
    </div>
