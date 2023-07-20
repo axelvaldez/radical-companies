@@ -495,7 +495,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  </table>
 </div>
 
-<h1>RADs and RADs! Mobile App</h1>
+<h1>RADs and <em>RADs! Mobile App</em></h1>
  <h2>Fiat</h2>
   <p>In a <span class='_paradigm'>Fiat</span> business, things are static. You give me so much cash, and I&rsquo;ll give you so much of the company. That percentage of the business remains fixed forever. You can even die and your heirs get the piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
  <h2>Radical</h2>
