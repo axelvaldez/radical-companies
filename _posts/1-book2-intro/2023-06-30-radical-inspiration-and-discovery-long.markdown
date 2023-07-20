@@ -17,7 +17,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
-<h1 class="_section">FIAT</h1>
+<h1 class="_section">SEEING FIAT</h1>
 
 <h1>What the Fiat System Does</h1>
  <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
@@ -62,7 +62,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span> In primary school, too, is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
   <div class='_center'>
    <img
-    src='/assets/img/pic-fiat-not-fiat-glassES.svg'
+    src='/assets/img/pic-fiat-not-fiat-glass.svg'
     width='70%'
     alt=''>
   </div>
@@ -325,7 +325,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <img
      src='/assets/img/pic-fiat-fear-force-or-pain.svg'
-     width='25%'
+     width='50%'
      alt=''>
    </div>
   <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
@@ -334,7 +334,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <img
      src='/assets/img/pic-the-radical-model-coming-together.svg'
-     width='25%'
+     width='50%'
      alt=''>
    </div>
   <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and never discover what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
