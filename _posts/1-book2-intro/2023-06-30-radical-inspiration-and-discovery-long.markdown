@@ -333,7 +333,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <img
      src='/assets/img/pic-the-radical-model-coming-together.svg'
-     width='70%'
+     width='50%'
      alt=''>
    </div>
   <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and never discover what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
@@ -618,11 +618,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-
-<h1>That Is It</h1>
- <p>We hope you are starting to see <span class='_paradigm'>Fiat</span>, now that you are a bit more familiar with it and with <span class='_paradigm'>Radical</span>, a foundation for alternatives. Traditional boundaries are made up and must crumble. The status quo must be challenged. Your essence, your spark, and your imagination can leave an indelible mark on the world.We hope that you emerge as a pioneer ready to lead the way into uncharted territories, groundbreaking ideas that shape the future.</p>
- <p>You can choose to get a traditional job to create wealth for the owners, or you can choose to open the floodgates to opportunities, reimagine the conventional, and a different kind of risk-taking.</p>
- <p>We hope you will join to challenge the status quo and propel humanity towards new horizons and, together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
 
 <h1 class="_section">CO-OWNERSHIP</h1>
 
