@@ -20,7 +20,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>What the Fiat System Does</h1>
  <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
- <p>&ldquo;Curing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never ending because the system is too easy to game, particularly by powerful people. The <span class='_paradigm'>Fiat</span> system adapts to fixes very fast.</p>
+ <p>&ldquo;Fixing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never-ending because the system is too easy to game, particularly by powerful people. The <span class='_paradigm'>Fiat</span> system adapts to fixes very fast.</p>
  <p>Beware that alternatives to <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
   <div class='_center'>
    <div class='_citation'>
