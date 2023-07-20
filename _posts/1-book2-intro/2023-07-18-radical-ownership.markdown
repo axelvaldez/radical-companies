@@ -52,23 +52,17 @@ image:    "icon-radical-ownership.svg"
 
 <h1>No Get-Rich-Quick Scheme</h1>
  <p>In our <span class='_paradigm'>Fiat</span> world, owning a business is the way to accumulate a lot of money. You pay yourelf well and keep the dividends. If you are lucky, somebody buys your company and you make a big lump sum. In the <span class='_paradigm'>Radical</span>-based approach, this is not it.</p>
- <p>You accumulate <span class='_paradigm'>Fiat</span> money by keeping the wealth that other people created. Yes, you pay them good wages to do so, but you keep the bulk of the value they create. In the <span class='_paradigm'>Radical</span>-based space you get paid according to the contributions that your peer co-owners recognize. Because you are getting a portion of what a <span class='_paradigm'>Fiat</span> keep, you have the potential of making much more than a mere wage.</p>
-
-<h1>Rewards for Contributions</h1>
- <p>that are recognizable to your peer co-owners.</p>
- <p>&nbsp;</p>
+ <p>You accumulate <span class='_paradigm'>Fiat</span> money by keeping the wealth that other people created. Yes, you pay them good wages to do so, but you keep the bulk of the value they create. In the <span class='_paradigm'>Radical</span>-based space you get paid according to the contributions that your peer co-owners recognize. Because you are getting a portion of what a <span class='_paradigm'>Fiat</span> owner keeps, you have the potential of making much more than a mere wage.</p>
 
 <h1>Capital</h1>
  <p><span class='_quotespan'>But, I need capital. That is the normal way to get started!</span></p>
- <p>Capital still has a role to play, but it doesn&rsquo;t get power over the company, the community.</p>
- <p>&nbsp;</p>
-
-<h1>No Forever Shares</h1>
- <p>A co-owned company doesn&rsquo;t give out &ldquo;forever&rdquo; shares in exchange for capital because it doesn&rsquo;t have any to give!</p>
- <p>&nbsp;</p>
+ <p>Capital still has a role to play, but it just doesn&rsquo;t get power over the company. A <span class='_paradigm'>Radical</span> Invesment is more like a loan, but negotiated returns. More below.</p>
+ <p>The point being that mere capital doesn&rsquo;t get of the powers that investors get in the <span class='_paradigm'>Fiat</span> world.</p>
 
 <h1>What&rsquo;s the Catch?</h1>
- <p>What is the catch? Sounds like you want to pay people less!</p>
- <p>&nbsp;</p>
+ <p>Sounds like you want people to do more and not be guaranteed a salary!</p>
+ <p>And, yes, peole are not &ldquo;guaranteed&rdquo; a salary, but if you choose to, the PRI Fund can give provide a Predictable and Recurring Income.If &ldquo;more&rdquo; means, <span class='_quotespan'>more than just be a cog in the bussiness money manking machine,</span> then, yes, you are expected to do more &ldquo;owner stuf.&rdquo;</p>
+ <p>You are expected to speak up if you think somebody is trying to game the <span class='_paradigm'>RAD</span> system. You are expected to care. And you are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit the community.</p>
+ <p>You are expected to speak up when you see opportunites that others may not see. It is a safe space because you are a co-owner and you can tech people how to migrated out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
 
 {% include related.html %}
