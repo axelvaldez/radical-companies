@@ -466,6 +466,8 @@ p {
   padding-left:0;
   margin-bottom:6px;
   text-indent:1em;
+  text-align:justify;
+  text-justify:inter-word;
 }
 div._center table._explicitalignment p {
   text-indent:0;
