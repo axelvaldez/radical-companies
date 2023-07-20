@@ -118,7 +118,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p></p>
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
-<h1>Countries and Other Divisions</h1>
+<h1>Countries and Other Divisions</h1
  <h2>Fiat</h2>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that had been cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
