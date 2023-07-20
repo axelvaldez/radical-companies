@@ -182,7 +182,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <div class='_center'>
           <img
            src='/assets/img/pic-explicit-alignment-en.svg'
-           width='25%'
+           width='70%'
            alt=''>
          </div>
         <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
