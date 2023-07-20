@@ -488,14 +488,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <tr>
    <td style='text-justify:inter-world; text-align:justify; text-size:smaller; '>
     <p style='text-indent:0; '>BTW, the little <strong><em>r</em></strong> in rTools and other labels stand for &ldquo;Radical.&rdquo;</p>
-    <p style='text-indent:0; '>This is not a certificate program or any such nonsense. The people who are part of it will tell you ome way or the other. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then 1) they are not really co-owners and 2) they are not really based on the <span class='_paradigm'>Radical</span> Foundation.</p>
+    <p style='text-indent:0; '>This is not a certificate program or any such nonsense. The people who are part of it will tell you one way or the other. If they are afraid to tell you <span class='_quotespan'>because I may lose my job</span> or anything like it, then 1) they are not really co-owners and 2) they are not really based on the <span class='_paradigm'>Radical</span> Foundation.</p>
     <p style='text-indent:0; '>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
    </td>
   </tr>
  </table>
 </div>
 
-<h1>RADs and <em>RADs! Mobile App</em></h1>
+<h1>RADs and RADs! Mobile App</h1>
  <h2>Fiat</h2>
   <p>In a <span class='_paradigm'>Fiat</span> business, things are static. You give me so much cash, and I&rsquo;ll give you so much of the company. That percentage of the business remains fixed forever. You can even die and your heirs get the piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
  <h2>Radical</h2>
