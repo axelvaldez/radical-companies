@@ -378,13 +378,12 @@ span._paradigm {
 }
 
 ._citation p#_signature {
-  /*
-  font-size:1rem;
-  */
   font-family:Architects Daughter, cursive;
   font-size:smaller;
   margin-left:50px;
+  /*
   text-indent:20px;
+   */
 }
 ._citation p#_signature::before {
   content:"— ";
