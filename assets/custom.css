@@ -632,7 +632,8 @@ h1 ~ h3 {
   padding-top:25px;
   font-size:1.2rem;
 }
-ul th, ul td, ul th p, ul td p {
+ul th, ul td, ul th p, ul td p,
+td p {
   text-indent:0;
 }
 
