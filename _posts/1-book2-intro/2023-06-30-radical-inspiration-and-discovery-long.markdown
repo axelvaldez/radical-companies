@@ -141,8 +141,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
       <th>Non-Fiat</th>
       <td>
-     </tr>
-      <th>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories and made up history to support this convenient ideology which happened to support the making of kingdoms and empires. The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, all powerful, at the top. You would not dare to even think of yourself as equitable to such power, you can only submit to God.</th>
+       <p>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories and made up history to support this convenient ideology which happened to support the making of kingdoms and empires. The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, all powerful, at the top. You would not dare to even think of yourself as equitable to such power, you can only submit to God.</p>
+      </td>
      </tr>
   <!--
   -->
