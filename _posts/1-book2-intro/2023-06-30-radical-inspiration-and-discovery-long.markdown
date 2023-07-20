@@ -599,6 +599,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
         <p id="_signature">Blair Fix, <em>An Evolutionary Theory of Resource Distribution</em></p>
        </div>
+      <p id="_signature">Matt Perez</p>
      </td>
     </tr>
     <tr>
