@@ -204,7 +204,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
           <li>BTW, the word &ldquo;company&rdquo; comes from the Latin prefix &ldquo;co,&rdquo; meaning &ldquo;together&rdquo;, and the Latin word &ldquo;pan,&rdquo; meaning &ldquo;bread:&rdquo; <em>breaking bread together.</em></li>
           <li>The level of co-ownership is determined by contributions, not capital.</li>
-          <li>These contributions are recognized by all other co-owners.</li>
+          <li>These contributions are recognized by other co-owners.</li>
          </ul>
         <p>And, yes, there is an app for that.</p>
        </td>
