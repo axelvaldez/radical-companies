@@ -329,10 +329,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 span._paradigm {
-  font-weight:530;
-  background-color:#ddd;
-  background-color:transparent;
-  -webkit-text-stroke: 2px black;
+  font-family:sans-serif;
 }
 ._underDev {
   font-weight:bold;
