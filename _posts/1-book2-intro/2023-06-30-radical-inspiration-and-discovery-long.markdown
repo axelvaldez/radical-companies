@@ -302,7 +302,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           </td>
            <td style='border:1px solid black; width:40%; background-color: cyan; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-            <p style='font-size:smaller; width:40%; '>Mary O, $100.00</p>
+            <p style='font-size:smaller; width:40%; '>Mary O, $100</p>
             <p style='font-size:smaller; '>Anita P, 0.25% de $1M</p>
             <p style='font-size:smaller; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
             <p style='font-size:smaller; '>&hellip;</p>
