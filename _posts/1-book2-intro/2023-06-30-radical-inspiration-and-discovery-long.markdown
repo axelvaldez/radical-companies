@@ -198,7 +198,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <tr>
        <th>No Divisions</th>
        <td>
-        <p>All members are co-owners of the community. If their goal is to build products or services it would be called a company, which is different from a business,</p>
+        <p>All members are co-owners of the result of the community&rsquo;s work. If their goal is to build products or services it would be called a company, which is different from a business,</p>
          <ul>
           <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
           <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
