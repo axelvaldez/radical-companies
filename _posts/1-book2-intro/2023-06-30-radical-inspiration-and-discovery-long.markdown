@@ -215,7 +215,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Capital and Contributions</h1>
  <h2>Fiat</h2>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US, investors don&rsquo;t technically have any power over company operations, but they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
-  <p>For one, power is force. So investors have power over the business and can force it to do things that go against their interest..</p>
+  <p>For one, power is force. So investors have power over the business and can force it to do things that go against their interest.</p>
   <p>On the other hand, you have no ownership in the business. You are happy to get your salary, but that&rsquo;s that. Owners have power over you.</p>
  <h2>Radical</h2>
   <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
@@ -230,10 +230,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           src='/assets/img/pic-recognitions-to-rads-equation.svg'
           alt=''>
         </div>
-       <p>As you give those <span class='_paradigm'>RAD</span>s away, you are given other people ownership in the company. No boss needed.</p>
+       <p>As you give those <span class='_paradigm'>RAD</span>s away, you are giving other people ownership in the company. No boss needed.</p>
        <p>The mobile app does all the calculations.</p>
       </td>
      </tr>
+   </table>
+  </div>
 <!--
      <tr>
       <th>But&hellip;</th>
@@ -313,9 +315,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        </div>
      </td>
     </tr>
--->
    </table>
   </div>
+-->
 
 <h1>Fiat and Radical</h1>
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
