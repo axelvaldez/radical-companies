@@ -225,7 +225,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>The Calculations</th>
       <td>
-       <p>A Radical Investment</p>
+       <p><span class='_paradigm'>RAD</span>RADs make contributions tangible.</p>
+       <p>You get a <span class='_paradigm'>RAD</span> every day. To give, not to keep. <span class='_paradigm'>RAD</span>s are then distributed based on contributions that you have recognized,</p>
         <img
          src='/assets/img/pic-recognitions-to-rads-equation.svg'
          alt=''>
