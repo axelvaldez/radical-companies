@@ -277,14 +277,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
           <tr>
            <td style='border:1px solid black; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
-             <p style='text-indent:1em; font-size:smaller; '>Goal: $1M</p>
-             <p style='text-indent:1em; font-size:smaller; '>Time: 3 years</p>
+             <p style='font-size:smaller; '>Goal: $1M</p>
+             <p style='font-size:smaller; '>Time: 3 years</p>
              <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
-             <p style='text-indent:1em; font-size:smaller; '>Beneficiaries: Building Fund.</p>
+             <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
            </td>
            <td style='border:1px solid black; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-             <p style='text-indent:1em; font-size:smaller; '>All, $100.00</p>
+             <p style='font-size:smaller; '>All, $100.00</p>
            </td>
           </tr>
          </table>
@@ -295,7 +295,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <tr>
            <td style='border:1px solid black; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
-            <p style='text-indent:0.5rem; font-size:smaller; '>Goal: $1M</p>
+            <p style='font-size:smaller; '>Goal: $1M</p>
             <p style='font-size:smaller; '>Time: 3 years</p>
             <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
             <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
