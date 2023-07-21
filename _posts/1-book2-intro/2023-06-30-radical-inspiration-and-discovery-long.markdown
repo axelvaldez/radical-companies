@@ -272,40 +272,40 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td>
        <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
        <p>For the case, where all co-owners agree, the Banner Dashboard could look like this,</p>
-        <div style='padding-left:1rem; '>
+        <div style='padding:1rem; '>
          <table>
           <tr>
            <td style='border:1px solid black; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
-             <p style='text-indent:1em; '>Goal: $1M</p>
-             <p style='text-indent:1em; '>Time: 3 years</p>
-             <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
-             <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
+             <p style='text-indent:1em; font-size:smaller; '>Goal: $1M</p>
+             <p style='text-indent:1em; font-size:smaller; '>Time: 3 years</p>
+             <p style='text-indent:1em; font-size:smaller; '>Reason: To buy and furnish a building.</p>
+             <p style='text-indent:1em; font-size:smaller; '>Beneficiaries: Building Fund.</p>
            </td>
            <td style='border:1px solid black; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-             <p style='text-indent:1em; '>All, $100.00</p>
+             <p style='text-indent:1em; font-size:smaller; '>All, $100.00</p>
            </td>
           </tr>
          </table>
         </div>
       <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
-       <div style='padding-left:1rem; '>
+       <div style='padding:1rem; '>
         <table>
          <tr>
            <td style='border:1px solid black; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
-            <p style='text-indent:1em; '>Goal: $1M</p>
-            <p style='text-indent:1em; '>Time: 3 years</p>
-            <p style='text-indent:1em; '>Reason: To buy and furnish a building.</p>
-            <p style='text-indent:1em; '>Beneficiaries: Building Fund.</p>
+            <p style='text-indent:1em; font-size:smaller; '>Goal: $1M</p>
+            <p style='text-indent:1em; font-size:smaller; '>Time: 3 years</p>
+            <p style='text-indent:1em; font-size:smaller; '>Reason: To buy and furnish a building.</p>
+            <p style='text-indent:1em; font-size:smaller; '>Beneficiaries: Building Fund.</p>
           </td>
            <td style='border:1px solid black; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-            <p style='text-indent:1em; '>Mary O, $100.00</p>
-            <p style='text-indent:1em; '>Anita P, 0.25% de $1M</p>
-            <p style='text-indent:1em; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
-            <p style='text-indent:1em; '>&hellip;</p>
+            <p style='text-indent:1em; font-size:smaller; '>Mary O, $100.00</p>
+            <p style='text-indent:1em; font-size:smaller; '>Anita P, 0.25% de $1M</p>
+            <p style='text-indent:1em; font-size:smaller; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
+            <p style='text-indent:1em; font-size:smaller; '>&hellip;</p>
           </td>
          </tr>
         </table>
