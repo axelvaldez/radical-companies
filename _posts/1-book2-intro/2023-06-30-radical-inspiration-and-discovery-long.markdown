@@ -221,7 +221,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>This is probably the most shocking thing about non-<span class='_paradigm'>Fiat</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
   <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
    <div class='_center'>
-    <table class='_h2table'>
+    <table class='_h2table' style='margin-left:20px; margin-right:20px; '>
      <tr>
       <th>The Calculations</th>
       <td>
