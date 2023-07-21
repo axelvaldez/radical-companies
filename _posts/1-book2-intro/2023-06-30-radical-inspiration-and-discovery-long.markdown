@@ -332,7 +332,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <img
      src='/assets/img/pic-the-radical-model-coming-together.svg'
-     width='50%'
+     width='60%'
      alt=''>
    </div>
   <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and never discover what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
