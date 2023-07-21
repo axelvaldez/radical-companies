@@ -225,7 +225,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>The Calculations</th>
       <td>
-       <p>A Radical Investment
+       <p>A Radical Investment</p>
          <img
           src='/assets/img/pic-recognitions-to-rads-equation.svg'
           alt=''>
