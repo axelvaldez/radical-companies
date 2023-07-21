@@ -284,7 +284,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
            </td>
            <td style='border:1px solid black; width:45%; background-color: cyan; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-             <p style='font-size:smaller; '>All, $100.00</p>
+             <p style='font-size:smaller; '>All: $100.00</p>
            </td>
           </tr>
          </table>
