@@ -226,10 +226,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>The Calculations</th>
       <td>
        <p>A Radical Investment</p>
-         <img
-          src='/assets/img/pic-recognitions-to-rads-equation.svg'
-          alt=''>
-        </div>
+        <img
+         src='/assets/img/pic-recognitions-to-rads-equation.svg'
+         alt=''>
        <p>As you give those <span class='_paradigm'>RAD</span>s away, you are giving other people ownership in the company. No boss needed.</p>
        <p>The mobile app does all the calculations.</p>
       </td>
