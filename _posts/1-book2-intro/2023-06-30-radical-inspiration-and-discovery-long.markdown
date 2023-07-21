@@ -271,18 +271,18 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th>Banners</th>
       <td>
        <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can, at minimum, create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
-       <p>For the case where all co-owners agree, the Banner Dashboard could look like this,</p>
+       <p>For the case where all co-owners agree, the <span class=''>Banner Dashboard</span> could look like this,</p>
         <div>
          <table>
           <tr>
-           <td style='border:1px solid black; width:40%; background-color: yellow; '>
+           <td style='border:1px solid black; width:55%; background-color: yellow; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
              <p style='font-size:smaller; '>Goal: $1M</p>
              <p style='font-size:smaller; '>Time: 3 years</p>
              <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
              <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
            </td>
-           <td style='border:1px solid black; width:40%; background-color: cyan; '>
+           <td style='border:1px solid black; width:45%; background-color: cyan; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
              <p style='font-size:smaller; '>All, $100.00</p>
            </td>
@@ -293,14 +293,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <div>
         <table>
          <tr>
-           <td style='border:1px solid black; width:60%; background-color: yellow; '>
+           <td style='border:1px solid black; width:55%; background-color: yellow; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
             <p style='font-size:smaller; '>Goal: $1M</p>
             <p style='font-size:smaller; '>Time: 3 years</p>
             <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
             <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
           </td>
-           <td style='border:1px solid black; width:40%; background-color: cyan; '>
+           <td style='border:1px solid black; width:45%; background-color: cyan; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
             <p style='font-size:smaller; width:40%; '>Mary O, $100</p>
             <p style='font-size:smaller; '>Anita P, 0.25% de $1M</p>
