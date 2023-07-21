@@ -225,9 +225,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>The Calculations</th>
       <td>
-       <p>You get a <span class='_paradigm'>RAD</span> every day to give, not to keep. <span class='_paradigm'>RAD</span>s make contributions tangible.</p>
-       <p><span class='_paradigm'>RAD</span>s are distributed based on contributions that you have recognized,</p>
-        <div class='_center'>
+       <p>A Radical Investment
          <img
           src='/assets/img/pic-recognitions-to-rads-equation.svg'
           alt=''>
@@ -248,7 +246,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>Capital</th>
       <td>
-       <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Fiat Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
+       <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Radoical Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
        <p>Usually that capital goes to pay for,</p>
         <ul>
          <li>Things needed by the company</li>
@@ -361,7 +359,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </table>
   </div>
  <h2>Radical</h2>
-  <p>Competition  is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with what acceptable to (most) everyone. The people who can&rsquo;t live with it, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
+  <p>Competition  is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
   <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
   <p>Hitler used some of the same rhetoric and became friends with Stalin for a while. And then he made the mistake of going against the Russian winter.</p>
 
