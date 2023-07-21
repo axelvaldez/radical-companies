@@ -295,17 +295,17 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <tr>
            <td style='border:1px solid black; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
-            <p style='text-indent:1em; font-size:smaller; '>Goal: $1M</p>
-            <p style='text-indent:1em; font-size:smaller; '>Time: 3 years</p>
+            <p style='text-indent:0.5rem; font-size:smaller; '>Goal: $1M</p>
+            <p style='font-size:smaller; '>Time: 3 years</p>
             <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
-            <p style='text-indent:1em; font-size:smaller; '>Beneficiaries: Building Fund.</p>
+            <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
           </td>
            <td style='border:1px solid black; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-            <p style='text-indent:1em; font-size:smaller; '>Mary O, $100.00</p>
-            <p style='text-indent:1em; font-size:smaller; '>Anita P, 0.25% de $1M</p>
-            <p style='text-indent:1em; font-size:smaller; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
-            <p style='text-indent:1em; font-size:smaller; '>&hellip;</p>
+            <p style='font-size:smaller; '>Mary O, $100.00</p>
+            <p style='font-size:smaller; '>Anita P, 0.25% de $1M</p>
+            <p style='font-size:smaller; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
+            <p style='font-size:smaller; '>&hellip;</p>
           </td>
          </tr>
         </table>
