@@ -233,9 +233,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>The mobile app does all the calculations.</p>
       </td>
      </tr>
-   </table>
-  </div>
-<!--
      <tr>
       <th>But&hellip;</th>
       <td>
@@ -316,7 +313,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
--->
 
 <h1>Fiat and Radical</h1>
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
