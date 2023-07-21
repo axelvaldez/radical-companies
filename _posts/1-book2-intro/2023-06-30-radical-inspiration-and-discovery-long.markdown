@@ -272,7 +272,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td>
        <p><span class='_paradigm'>Banner</span>s represent non-people things like projects and investments. With the <em><span class='_paradigm'>RAD</span>s! mobile app</em> you can, at minimum, create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
        <p>For the case, where all co-owners agree, the Banner Dashboard could look like this,</p>
-        <div style='padding:1rem; '>
+        <div>
          <table>
           <tr>
            <td style='border:1px solid black; '>
@@ -290,7 +290,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          </table>
         </div>
       <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
-       <div style='padding:1rem; '>
+       <div>
         <table>
          <tr>
            <td style='border:1px solid black; '>
