@@ -331,6 +331,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 span._paradigm {
   font-weight:530px;
   background-color:#ddd;
+  background-color:transparent;
+  -webkit-text-stroke: 2px black;
 }
 ._underDev {
   font-weight:bold;
