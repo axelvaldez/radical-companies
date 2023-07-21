@@ -329,12 +329,11 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 span._paradigm {
-  /*
   font-weight:540px;
+  /*
   background-color:#ddd;
    */
-  -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: grey;
+  -webkit-text-stroke: 1px ddd;
 }
 ._underDev {
   font-weight:bold;
