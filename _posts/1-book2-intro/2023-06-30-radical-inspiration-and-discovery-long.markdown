@@ -246,7 +246,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>Capital</th>
       <td>
-       <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Radoical Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
+       <p>Capital does have a place in a non-<span class='_paradigm'>Fiat</span> company, but it doesn&rsquo;t acquire power. A non-<span class='_paradigm'>Radical Investment</span> is more like a loan in that you get your principal back. It is an investment in that how much and how it&rsquo;s paid is negotiated,.</p>
        <p>Usually that capital goes to pay for,</p>
         <ul>
          <li>Things needed by the company</li>
