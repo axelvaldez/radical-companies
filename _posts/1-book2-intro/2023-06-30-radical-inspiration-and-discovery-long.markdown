@@ -234,6 +234,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>The mobile app does all the calculations.</p>
       </td>
      </tr>
+<!--
      <tr>
       <th>But&hellip;</th>
       <td>
@@ -312,6 +313,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        </div>
      </td>
     </tr>
+-->
    </table>
   </div>
 
