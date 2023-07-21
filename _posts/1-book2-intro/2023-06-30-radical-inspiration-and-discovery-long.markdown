@@ -275,14 +275,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
         <div>
          <table>
           <tr>
-           <td style='border:1px solid black; '>
+           <td style='border:1px solid black; width:40%; background-color: yellow; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
              <p style='font-size:smaller; '>Goal: $1M</p>
              <p style='font-size:smaller; '>Time: 3 years</p>
              <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
              <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
            </td>
-           <td style='border:1px solid black; '>
+           <td style='border:1px solid black; width:40%; background-color: cyan; '>
             <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
              <p style='font-size:smaller; '>All, $100.00</p>
            </td>
@@ -293,16 +293,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <div>
         <table>
          <tr>
-           <td style='border:1px solid black; '>
+           <td style='border:1px solid black; width:60%; background-color: yellow; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Banner:</h2>
             <p style='font-size:smaller; '>Goal: $1M</p>
             <p style='font-size:smaller; '>Time: 3 years</p>
             <p style='font-size:smaller; '>Reason: To buy and furnish a building.</p>
             <p style='font-size:smaller; '>Beneficiaries: Building Fund.</p>
           </td>
-           <td style='border:1px solid black; '>
+           <td style='border:1px solid black; width:40%; background-color: cyan; '>
            <h2 style='padding-top:0; padding-bottom:0; font-size:smaller; '>Contributions:</h2>
-            <p style='font-size:smaller; '>Mary O, $100.00</p>
+            <p style='font-size:smaller; width:40%; '>Mary O, $100.00</p>
             <p style='font-size:smaller; '>Anita P, 0.25% de $1M</p>
             <p style='font-size:smaller; '>Salim Q, 5.00% of <span class='_paradigm'>RAD</span>s yield</p>
             <p style='font-size:smaller; '>&hellip;</p>
