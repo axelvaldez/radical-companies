@@ -662,9 +662,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>The point being that mere capital doesn&rsquo;t get of the powers that investors get in the <span class='_paradigm'>Fiat</span> world.</p>
 
 <h1>What&rsquo;s the Catch?</h1>
- <p><span class='_quotespan'>Sounds like people are not be guaranteed a salary!</span></p>
- <p>And, yes, peole are not &ldquo;guaranteed&rdquo; a salary, but if you choose, the PRI Fund can give provide a Predictable and Recurring Income.If &ldquo;more&rdquo; means, <span class='_quotespan'>more than just be a cog in the bussiness money manking machine,</span> then, yes, you are expected to do more &ldquo;owner stuf.&rdquo;</p>
+ <p><span class='_quotespan'>Sounds like people are not guaranteed a salary!</span></p>
+ <p>And, yes, people are not &ldquo;guaranteed&rdquo; a salary, but if you choose, the PRI Fund can provide a Predictable and Recurring Income. If &ldquo;more&rdquo; means <span class='_quotespan'>more than &ldquo;just be a cog&rdquo; in the money making machine,</span> then, yes, you are expected to do more &ldquo;owner stuff.&rdquo;</p>
  <p>You are expected to speak up if you think somebody is trying to game the <span class='_paradigm'>RAD</span> system. You are expected to care. And you are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit the community.</p>
- <p>You are expected to speak up when you see opportunites that others may not see. It is a safe space because you are a co-owner and you can tech people how to migrated out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
+ <p>You are expected to speak up when you see opportunities that others may not see. It is a safe space because you are a co-owner and you can technology people how to migrate out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
+ <p>Thas is the catch. And like in the Matrix movies, you need to get out of your pod.</p>
 
 {% include related.html %}
