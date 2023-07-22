@@ -95,7 +95,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </ul>
  <p>Force is ever present in our <span class='_paradigm'>Fiat</span> system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
  <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on threats to actual pain (<eg>i.e.</eg>, force).</p>
- <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span>  We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
+ <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span>  We often fail to see it for what it truly is—an external force, driving us toward someone else&rsquo;s desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
  <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
  <p>But I ask you to consider this: humanity has survived and thrived as a species. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.<p>
  <p>Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the <span class='_paradigm'>Fiat</span> system took shape around us.</p>
@@ -319,7 +319,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p><span class='_paradigm'>Fiat</span> is a complex and complicated system. <span class='_paradigm'>Radical</span> is a simple <span class='_paradigm'>Foundation</span></p>
  <h2>Fiat</h2>
   <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> <strong>evolved</strong> into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
-  <p>The thing that has remained constant in the <span class='_paradigm'>Fiat</span> sysste, is <span class='_paradigm'>Force.</span></p>
+  <p>The thing that has remained constant in the <span class='_paradigm'>Fiat</span> system, is <span class='_paradigm'>Force.</span></p>
    <div class='_center'>
     <img
      src='/assets/img/pic-fiat-fear-force-or-pain.svg'
@@ -609,7 +609,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
 <h1>The Most Powerful Tool We Have: Conversations</h1>
  <p>We have been thinking hard about how to  get the word out in a way that people can get. We recently had a conversation with Paty Preciado and she suggest the talking about our vulnerabilities let&rsquo; others talk about theirs.</p>
- <p>The other thing that caame out of this conversations is to help people with language, Radical rather than Fiat. It&rsquo;s like learning a new language, something I went through with English: you learn from socializing and bonding with speakers, even those with an accent. You see them do things and say things. And one day you do something similar and you say something similar. I remember the first time that happened to me and it was powerful.</p>
+ <p>The other thing that came out of this conversations is to help people with language, Radical rather than Fiat. It&rsquo;s like learning a new language, something I went through with English: you learn from socializing and bonding with speakers, even those with an accent. You see them do things and say things. And one day you do something similar and you say something similar. I remember the first time that happened to me and it was powerful.</p>
 
 <h1 class="_section">CO-OWNERSHIP</h1>
 
@@ -625,7 +625,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Not Revenue Sharing</h1>
  <p>Revenue sharing is done according to that the boss says people are going to get. In the <span class='_paradigm'>Radical</span>-based model, the system is decentralized and there is no boss to decide what you are going to get. Instead, your peers decide how many <span class='_paradigm'>RAD</span>s you get and you decide how many they get.</p>
- <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determine what percentage of the revunue you get.</p>
+ <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determine what percentage of the revenue you get.</p>
 
 <h1>Not a Co-op</h1>
  <p>Co-operatives make everybody financially equal. But people&rsquo;s contributions are not equal. The same person can contribute a lot one month, but less the next.</p>
@@ -653,19 +653,26 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>The same is going on for every co-owner and their level of revenue ownership changes.</p>
 
 <h1>No Get-Rich-Quick Scheme</h1>
- <p>In our <span class='_paradigm'>Fiat</span> world, owning a business is the way to accumulate a lot of money. You pay yourelf well and keep the dividends. If you are lucky, somebody buys your company and you make a big lump sum. In the <span class='_paradigm'>Radical</span>-based approach, this is not it.</p>
+ <p>In our <span class='_paradigm'>Fiat</span> world, owning a business is the way to accumulate a lot of money. You pay yourself well and keep the dividends. If you are lucky, somebody buys your company and you make a big lump sum. In the <span class='_paradigm'>Radical</span>-based approach, this is not it.</p>
  <p>You accumulate <span class='_paradigm'>Fiat</span> money by keeping the wealth that other people created. Yes, you pay them good wages to do so, but you keep the bulk of the value they create. In the <span class='_paradigm'>Radical</span>-based space you get paid according to the contributions that your peer co-owners recognize. Because you are getting a portion of what a <span class='_paradigm'>Fiat</span> owner keeps, you have the potential of making much more than a mere wage.</p>
 
 <h1>Capital</h1>
  <p><span class='_quotespan'>But, I need capital. That is the normal way to get started!</span></p>
- <p>Capital still has a role to play, but it just doesn&rsquo;t get power over the company. A <span class='_paradigm'>Radical</span> Invesment is more like a loan, but negotiated returns. More below.</p>
+  <div class='_center'>
+   <div class='_citation'>
+    <p>A business corporation is organized and carried on primarily for the profit of the stockholders.</p>
+    <p id="_signature">1918 Supreme Court, Dodge v Ford</p>
+   </div>
+  </div>
+ <p>Capital still has a role to play, but it just doesn&rsquo;t get power over the company.</p>
+ <p>A <span class='_paradigm'>Radical</span> Invesment is more like a loan, but negotiated returns. More below.</p>
  <p>The point being that mere capital doesn&rsquo;t get of the powers that investors get in the <span class='_paradigm'>Fiat</span> world.</p>
 
 <h1>What&rsquo;s the Catch?</h1>
  <p><span class='_quotespan'>Sounds like people are not guaranteed a salary!</span></p>
- <p>And, yes, people are not &ldquo;guaranteed&rdquo; a salary, but if you choose, the PRI Fund can provide a Predictable and Recurring Income. If &ldquo;more&rdquo; means <span class='_quotespan'>more than &ldquo;just be a cog&rdquo; in the money making machine,</span> then, yes, you are expected to do more &ldquo;owner stuff.&rdquo;</p>
+ <p>And, yes, people are not &ldquo;guaranteed&rdquo; a salary, but if you choose, the PRI Fund can provide a <span class='_paradigm'>Predictable</span> and <span class='_paradigm'>Recurring</span> <span class='_paradigm'>Income</span>. If &ldquo;more&rdquo; means <span class='_quotespan'>more than &ldquo;just be a cog&rdquo; in the money making machine,</span> then, yes, you are expected to do more &ldquo;owner stuff.&rdquo;</p>
  <p>You are expected to speak up if you think somebody is trying to game the <span class='_paradigm'>RAD</span> system. You are expected to care. And you are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit the community.</p>
  <p>You are expected to speak up when you see opportunities that others may not see. It is a safe space because you are a co-owner and you can technology people how to migrate out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
- <p>Thas is the catch. And like in the Matrix movies, you need to get out of your pod.</p>
+ <p>That is the catch. And like in the Matrix movies, you need to get out of your pod.</p>
 
 {% include related.html %}

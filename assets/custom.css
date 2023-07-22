@@ -372,6 +372,12 @@ span._paradigm {
 ._citation p {
   text-indent:0;
 }
+._citation p::before {
+  content:"“";
+}
+._citation p::after {
+  content:"”";
+}
 
 ._citation p#_signature {
   font-family:Architects Daughter, cursive;
