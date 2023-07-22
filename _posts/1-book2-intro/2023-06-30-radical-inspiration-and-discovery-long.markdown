@@ -621,11 +621,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Before I go on, I need to explain what <span class='_paradigm'>RAD</span>s are.</p>
  <p>The name, <span class='_paradigm'>RAD</span>s, is meaningless. It is the first name I could think of. But they are the key to decentralized ownership.</p>
  <p>We are used to &rdquo;somebody else,&rdquo; the boss, owning the business. <span class='_paradigm'>RAD</span>s make it possible to have decentralized ownership, where you and your peers own the company. You are part of creating value and wealth, and with <span class='_paradigm'>RAD</span>s you are a co-owner of it.</p>
- <p>The value that you help create shows up as revenue, money paid for your good or services. With decentralized ownership, you are a co-owner of that revenue. Now &rdquo;somebody else&ldquo; owns it.</p>
+ <p>The value that you help create shows up as revenue, money paid for your goods or services. With decentralized ownership, you are a co-owner of that revenue. Now &rdquo;somebody else&ldquo; owns it.</p>
 
 <h1>Not Revenue Sharing</h1>
  <p>Revenue sharing is done according to that the boss says people are going to get. In the <span class='_paradigm'>Radical</span>-based model, the system is decentralized and there is no boss to decide what you are going to get. Instead, your peers decide how many <span class='_paradigm'>RAD</span>s you get and you decide how many they get.</p>
- <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determine what percentage of the revenue you get.</p>
+ <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determines what percentage of the revenue you get.</p>
 
 <h1>Not a Co-op</h1>
  <p>Co-operatives make everybody financially equal. But people&rsquo;s contributions are not equal. The same person can contribute a lot one month, but less the next.</p>
@@ -633,9 +633,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  
 <h1>How RADs Work</h1>
  <p>Now we can talk about how <span class='_paradigm'>RAD</span>s work.</p>
- <p>The whole thing starts with recognized contributions. As you doing your work, other co-owners will recognize some of it as <em>contributions that resonate with them</em> and they will record those using the <em><span class='_paradigm'>RAD</span>s! mobile app</em> by simply pressing a button. The more signficant you find the contribution, the more button presses.</p>
+ <p>The whole thing starts with recognized contributions. As you doing your work, other co-owners will recognize some of it as <em>contributions that resonate with them</em> and they will record those using the <em><span class='_paradigm'>RAD</span>s! mobile app</em> by simply pressing a button. The more significant you find the contribution, the more button presses.</p>
  <p>At the end of the cycle (<em>e.g.</em>, a week, a month), the app calculates how many <span class='_paradigm'>RAD</span>s those recognized contributions translate to. That many <span class='_paradigm'>RAD</span>s are given to each of the contributing co-owners.</p>
- <p><span class='_paradigm'>RAD</span>s are cummulative, so each cycle adds to existing <span class='_paradigm'>RAD</span>s.</p>
+ <p><span class='_paradigm'>RAD</span>s are cumulative, so each cycle adds to existing <span class='_paradigm'>RAD</span>s.</p>
  
 <h1>Shares Tired, RADs Wired</h1>
  <p>As I mentioned, <span class='_paradigm'>Radical</span>-based companies don&rsquo;t have shares. Ownership is based on recognized contributions, not capital</p>

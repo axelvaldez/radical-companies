@@ -373,19 +373,14 @@ span._paradigm {
   text-indent:0;
 }
 ._citation p::before {
+  font-family:Georgia, serif;
+  font-size:24pt;
   content:"“";
 }
-._citation p::after {
-  content:"”";
-}
-
 ._citation p#_signature {
   font-family:Architects Daughter, cursive;
   font-size:smaller;
   margin-left:50px;
-  /*
-  text-indent:20px;
-   */
 }
 ._citation p#_signature::before {
   content:"— ";
