@@ -607,7 +607,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   </div>
-
+<h1>The Most Powerful Tool We Have: Conversations</h1>
+ <p>We have been thinking hard about how to  get the word out in a way that people can get. We recently had a conversation with Paty Preciado and she suggest the talking about our vulnerabilities let&rsquo; others talk about theirs.</p>
+ <p>The other thing that caame out of this conversations is to help people with language, Radical rather than Fiat. It&rsquo;s like learning a new language, something I went through with English: you learn from socializing and bonding with speakers, even those with an accent. You see them do things and say things. And one day you do something similar and you say something similar. I remember the first time that happened to me and it was powerful.</p>
 
 <h1 class="_section">CO-OWNERSHIP</h1>
 
@@ -643,7 +645,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Decentralized Ownership</h1>
  <p>Decentralized ownership is sustainable. The company is not dependent on a top boss. It is forever flexible.</p>
  <p>Decentralized ownership lasts&hellip; forever. For one, there is no issue of inheritance</p>
- <p>&nbsp;</p>
 
 <h1>Co-ownership is dynamic</h1>
  <p>Say in January you make a lot of contributions that are recognized by your peers. Your <span class='_paradigm'>RAD</span>s go up quite a bit. But in February you are down to routine things. You get a few recognized contributions, but not many. Your <span class='_paradigm'>RAD</span>s go up a bit, but not much.</p>
