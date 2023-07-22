@@ -79,7 +79,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Enforcing the rules.</li>
   </ul>
  <p>Think of what happens <em>when you get caught</em> not following the rules. Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going to like it!</span> You can&rsquo;t make a decision without considering Bob, your boss.</p>
- <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, your boss. And it is absolute faulty thinking encouraged by the <span class='_paradigm'>Fiat</span> system.</p>
+ <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, your boss. And it is absolutely bad logic encouraged by the <span class='_paradigm'>Fiat</span> system.</p>
  </p>
 
 <h1>Rules, Laws, and Force</h1>
