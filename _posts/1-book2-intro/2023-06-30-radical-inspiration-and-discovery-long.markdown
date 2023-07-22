@@ -78,7 +78,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Following the rules,</li>
    <li>Enforcing the rules.</li>
   </ul>
- <p>Think of what happens <em>when you get caught</em> not following the rules.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going to like it!</span> You can&rsquo;t make a decision without considering Bob, your boss.</p>
+ <p>Think of what happens <em>when you get caught</em> not following the rules. Think of how many decision you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going to like it!</span> You can&rsquo;t make a decision without considering Bob, your boss.</p>
  <p>You may be thinking, <span class='_quotespan'>How else would the system work? Things would not work without Bob.</span> That&rsquo;s part of what we learn as we grow up in the <span class='_paradigm'>Fiat</span> system. It is Bob or chaos. You do what you do because of Bob, your boss.</p>
  </p>
 
@@ -90,7 +90,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>If you feel that is an injustice, you let it go to court (<eg>i.e.</eg>, another type of force).</li>
    <li>Victory brings celebration, the force is with you.</li>
    <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
-   <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> This is no longer a minor force.</li>
+   <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
  <p>Force is ever present in our <span class='_paradigm'>Fiat</span> system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
@@ -105,7 +105,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>Paradise</li>
    <li>Eve as the bad apple</li>
    <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
-   <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</span><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></li>
+   <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</span></li>
   </ul>
  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else. It goes to,</p>
   <ul>
@@ -155,7 +155,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
          <li>I trust my decentralized and fully transparent community.</li>
          <li>What is going to keep my community growing is what&rsquo;s good for us.</li>
          <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
-         <li>And if that is not the case, I leave.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></li>
+         <li>And if that is not the case, I leave.</li>
         </ul>
        </td>
       </tr>
