@@ -46,15 +46,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p><span class='_quotespan'>Move those boxes from there to over there</span> (because I say so, &hellip; or else).</p>
 
 <h1>The Fiat System</h1>
- <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by any system, I shape it however I want to.</span> However, whether you like it or not, you and I live within a system that has been evolving for quite a while.</p>
- <p>We created the system and we maintain it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
+ <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> <em>system</em>. Some people <em>do not</em> like the word <em>system</em> associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by any system, I shape it however I want to.</span> Maybe &ldquo;ecology&ldquo; is more your thing, but an ecology is a system.</p>
+ <p>We created th <span class='_paradigm'>Fiat</span> system and we uphold it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
  <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on,</p>
   <ul>
    <li>Competition, not collaboration.</li>
-   <li>Dividing people, not bringing them together</li>
-   <li>Threats, fear, force, and pain.</li>
+   <li>Dividing people, not bringing us together</li>
+   <li>Threats, fear, force, and pain. Not wellbeing.</li>
   </ul>
- <p>The <span class='_paradigm'>Fiat</span> system does not work for the poorest or the wealthiest.</p>
  <p>Luckily, there are alternatives to the <span class='_paradigm'>Fiat</span> system.</p>
 
 <h1>It Starts with Rules</h1>
