@@ -335,13 +335,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      width='70%'
      alt=''>
    </div>
-  <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and point to the first obvious thing. The point is that we never discover what’s really at the root of the problem. We never go past this point and we end up never discovering what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
+  <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and point to the first obvious thing. The point is that we never discover what’s really at the root of the problem. We never get beyond this point and we end up never discovering what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical Foundation</span> helps us remain clear,</p>
    <ul>
     <li>Will this decision make us more or less decentralized? Either choice is up to you and your community, but the <span class='_paradigm'>Foundation</span> helps you know which direction the decision is taking you.</li>
     <li>Will this decision make it easier to help people find meaning in what they are doing or not? Again, either choice is up to you and your community, but the <span class='_paradigm'>Foundation</span> helps you know where you are headed.</li>
    </ul>
   <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, <span class='_quotespan'>Oh, I didn&rsquo;t know!</span></p>
-  <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up with any rules you want, preferably without force. You are all co-owners.</p>
+  <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without <span class='_paradigm'>Force</span>. You are all co-owners and none of you have the right to <span class='_paradigm'>Force</span> to others.</p>
 
 <h1>Competition and Collaboration</h1>
  <h2>Fiat</h2>
