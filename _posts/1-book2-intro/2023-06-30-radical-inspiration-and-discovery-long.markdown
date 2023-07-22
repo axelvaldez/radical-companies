@@ -367,13 +367,13 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>rTools</h1>
  <h2>Fiat</h2>
-  <p>The only consistent &rdquo;tool&ldquo; in the <span class='_paradigm'>Radical</span> model is force.</p>
+  <p>The only consistent &rdquo;tool&ldquo; in the <span class='_paradigm'>Radical</span> model is <span class='_paradigm'>Force</span>.</p>
  <h2>Radical</h2>
   <p>These are some of the tools that have worked for us in our work with companies who are based on the <span class='_paradigm'>Radical</span> model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <td colspan='2' style='text-align:center; border:1px solid black; font-size:larger; background-color:white; text-weight:bold; '>Explicit Relationships</td>
+      <td colspan='2' style='text-align:center; border:1px solid black; font-size:x-large; background-color:white; text-weight:bold; '>Explicit Relationships</td>
      </tr>
      <tr>
       <th>The world as experienced by you</th>
@@ -424,7 +424,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:1px solid black; font-size:larger; background-color:white; text-weight:bold; '>Explicit Alignment</td>
+      <td colspan='2' style='text-align:center; border:1px solid black; font-size:x-large; background-color:white; text-weight:bold; '>Explicit Alignment</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.</td>
@@ -461,7 +461,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>  <div class='_center'>
     <table class='_explicitalignment'>
      <tr>
-      <td colspan='2' style='text-align:center; border:1px solid black; font-size:larger; background-color:white; text-weight:bold; '>Explicit Profile</td>
+      <td colspan='2' style='text-align:center; border:1px solid black; font-size:x-large; background-color:white; text-weight:bold; '>Explicit Profile</td>
      </tr>
      <tr>
       <td colspan='2' style='border:0; '>
