@@ -72,7 +72,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. <span class='_quotespan'>We do our best for these people, but they just don&rsquo;t want to learn the rules. They want to live on the edge.</span></p>
  
 <h1>The Fiat System Is&hellip;</h1>
- <p>That is what <span class='_paradigm'>Fiat</span> <strong>system</strong> is,
+ <p>That is what <span class='_paradigm'>Fiat</span> system is,</p>
   <ul>
    <li>Learning the rules,</li>
    <li>Following the rules,</li>
