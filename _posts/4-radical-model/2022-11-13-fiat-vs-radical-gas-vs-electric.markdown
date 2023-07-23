@@ -17,7 +17,7 @@ image:    "icon-the-roots-of-radical.svg"
  <p>The world is ruled by fiat (<eg>i.e.</eg>, <span class="_quotespan">because I say so</span> with an implied <span class="_quotespan">or else</span>). The <span class="_paradigm">Fiat</span> world we live in has worked in the sense that it has made things better for many of us, but it can never be just.</p>
  <p>Trying to <em>fix</em> the <span class="_paradigm">Fiat</span> model is like trying to get a gas car to consume no gas. You can make the car more efficient, or even make it a gas-electric hybrid, but it will <em>always</em> be a gasoline fueled car. No gas, no work.</p>
  <p>The <span class="_paradigm">Radical</span> model is more like the all-electric car. Same look as a car, but it is fundamentally different. No gas, no problem.</p>
- <p>The <span class="_paradigm">Fiat</span> path will take us over the edge. A non-<span class="_paradigm">Fiat</span> system will take us to a more sustainable future.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The <span class="_paradigm">Fiat</span> path will take us over the edge. A <span class="_paradigm">Radical</span> system will take us to a more sustainable future.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Based on Extraction</h1>
  <p>The <span class="_paradigm">Fiat</span> world is based on extraction,</p>
@@ -39,7 +39,7 @@ image:    "icon-the-roots-of-radical.svg"
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
   <li>The <span class="_paradigm">Fiat</span> system has the side-effect of destructing our life support system.</li>
  </ul>
- <p>This may be disagreeable, scary, and what not, but it is actually rational in the <span class="_paradigm">Fiat</span> system. We need a non-<span class="_paradigm">Fiat</span>  system if we want to survive.</p>
+ <p>This may be disagreeable, scary, and what not, but it is actually rational in the <span class="_paradigm">Fiat</span> system. We need a <span class="_paradigm">Radical</span>  system if we want to survive.</p>
 
 <h1>Centralization</h1>
  <p>The &ldquo;bad guy&rdquo; is not the capital system and not this or that form of government. The bad guy is <em>centralized ownership</em>.</p>

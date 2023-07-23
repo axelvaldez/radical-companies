@@ -73,7 +73,7 @@ image:    "icon-the-co-owned-pastry-shop-my-favorite-store-in-town-e02.svg"
  <p>I noticed that the man was looking into the distance, so to speak. He must have been thinking intensely.</p>
 
 <h1>More Complications</h1>
- <p class="_speakerb">In the <span class="_paradigm">Fiat</span> system profits usually go to the owner. In the non-<span class="_paradigm">Fiat</span> system, the dividends get distributed among all co-owners according to the amount of <span class="_paradigm">RAD</span>s each has.</p>
+ <p class="_speakerb">In the <span class="_paradigm">Fiat</span> system profits usually go to the owner. In the <span class="_paradigm">Radical</span> system, the dividends get distributed among all co-owners according to the amount of <span class="_paradigm">RAD</span>s each has.</p>
  <p>The man looked uncomfortable, though he wasn&rsquo;t saying much.</p>
  <p class="_speakerb">I should add that there a <em><span class="_paradigm">RAD</span>s! mobile app</em> that takes care of all these &lsquo;complication&rsquo;</p>
  <p class="_speakera">Aha, &hellip; THERE IS AN APP FOR THAT!</p>

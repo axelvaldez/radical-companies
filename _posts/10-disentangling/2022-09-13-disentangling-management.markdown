@@ -64,7 +64,7 @@ image:    "icon-disentangling-management.svg"
 
 <h1>Disentangling Management</h1>
  <p>Other than creating an illusion of control, the <span class="_paradigm">Fiat</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierarchy and &ldquo;control theater.&rdquo;</p>
- <p>Non-<span class="_paradigm">Fiat</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
+ <p><span class="_paradigm">Radical</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>

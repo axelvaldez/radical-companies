@@ -16,8 +16,8 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
 
 <h1>Company Foundation</h1>
-  <p>In non-<span class="_paradigm">Fiat</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
-  <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a non-<span class="_paradigm">Fiat</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a Foundation,</p>
+  <p>In <span class="_paradigm">Radical</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
+  <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a Foundation,</p>
    <div class="_center">
     <table class="_h2table">
      <tr>
@@ -40,7 +40,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>Hierarchies don&rsquo;t just go away. Hierarchies are alyes present, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo; <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Alignment Must Be Explicit and Transparent</h1>
-  <p>In order to create a non-<span class="_paradigm">Fiat</span> company, you first need to be explicit about the company&rsquo;s Impact  (<eg>i.e.</eg>, <em>what for</em>), its Purpos (<eg>i.e.</eg> why), and Mission (<eg>i.e.</eg>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
+  <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s Impact  (<eg>i.e.</eg>, <em>what for</em>), its Purpos (<eg>i.e.</eg> why), and Mission (<eg>i.e.</eg>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
    <img
     src="/assets/img/en-alignment.svg"
@@ -205,14 +205,14 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <th>Experimental Projects</th>
        <td>
         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<eg>e.g.</eg>Google News came out of it). That was a generous gift from the <span class="_paradigm">Fiat</span> owners, but the same owners later took it away.</p>
-        <p style="text-indent:0;">For a non-<span class="_paradigm">Fiat</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
+        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
        </td>
       </tr>
       <tr>
        <th>Investments</th>
        <td>
         <p style="margin-bottom:3px;  margin-left;0;">In <span class="_paradigm">Fiat</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-        <p style="margin-bottom:6px; margin-left;0; ">In a non-<span class="_paradigm">Fiat</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span>s for co-owners to contribute to the funding of it or not.</p>
+        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">Radical</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span>s for co-owners to contribute to the funding of it or not.</p>
        </td>
       </tr>
      </tbody>
@@ -254,7 +254,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>Making Recurring Takehome Pay Predictable</h1>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
- <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the non-<span class="_paradigm">Fiat</span> context.</p>
+ <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">Radical</span> context.</p>
  <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<eg>e.g.</eg>, biweekly, monthly),</p>
   <ul>
    <li>
@@ -333,7 +333,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
 
 <h1>Comparing the Radical Investment Model with that of Banks and VCs</h1>
- <p>Non-<span class="_paradigm">Fiat</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<eg>i.e.</eg>, all the co-owners), and 2) less risk (<eg>i.e.</eg>, because a lot more people will be committed to making it work).</p>
+ <p><span class="_paradigm">Radical</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<eg>i.e.</eg>, all the co-owners), and 2) less risk (<eg>i.e.</eg>, because a lot more people will be committed to making it work).</p>
   <img
    src="/assets/img/bank-vs-vcs-vs-radical.svg"
    alt="Two graphs. The one on the left has RISKS on the horizontal axis and YIELD on the vertical axis. BANKS defines a small horizontal parallelogram, it's dot is about one fifth of the way into the RISKS axis and one tenth of the way up the YIELD axis. VC defines a square, it's dot is a little over half way into the RISKS axis and half way up the YIELD axis. RADICAL defines a large vertical parallelogram, with its dot at a little less than half way into the RISKS axis and nine tenth of the way up the YIELD axis. The RADICAL box shows a hashed square area which highlights the fact that the RADICAL approach provides much more YIELD than the BANKS or VC approaches. The graph on the right has RISKS on the horizontal axis and BENEFICIARIES on the vertical axis. As in the previous graph, BANKS defines a small horizontal parallelogram. VC defines a horizontal parallelogram, with it's dot appears seven tenth of the way into the RISKS axis and one fourth of the way up the YIELD axis. As in the previous graph, RADICAL defines a large vertical parallelogram. The RADICAL box shows a hashed area which highlights the fact that the RADICAL approach BENEFITS many more people than the BANKS or VC approaches.">

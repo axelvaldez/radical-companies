@@ -21,14 +21,14 @@ image:    "icon-alternatives-to-fiat.svg"
   <div class="_citation">
    <p>Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</p>
   </div>
- <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<eg>i.e.</eg>, domination). Our non-<span class="_paradigm">Fiat</span> alternative is based on contributions, instead of capital. This, we believe, will produced more of a life nourishing system.</p>
+ <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient form tool of getting power over everything (<eg>i.e.</eg>, domination). Our <span class="_paradigm">Radical</span> alternative is based on contributions, instead of capital. This, we believe, will produced more of a life nourishing system.</p>
 
 <h1>The Forever Obstacle</h1>
  <p>The obstacle has been who decides <em>what is a contribution</em>? We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately think of rules or benevolent judges. But judges don&rsquo;t stay benevolent forever and rules become sacred and unchangeable and always sprout a clerical bureaucracy around them.</p>
  <p>No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
 <h1>Our non-Fiat Alternative</h1>
- <p>Our non-<span class="_paradigm">Fiat</span> alternative makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the capital they invested. And not based or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what. For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owner is. That is decentralized co-ownership.</p>
+ <p>Our <span class="_paradigm">Radical</span> alternative makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the capital they invested. And not based or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what. For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owner is. That is decentralized co-ownership.</p>
  <p>The are no rules, every co-owner figures out what a contribution is by the feelings it brings up, from enthusiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
