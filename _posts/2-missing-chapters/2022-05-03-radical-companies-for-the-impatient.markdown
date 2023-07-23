@@ -42,10 +42,12 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 <h1>Alignment Must Be Explicit and Transparent</h1>
   <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s Impact  (<em>i.e.</em>, <em>what for</em>), its Purpos (<em>i.e.</em> why), and Mission (<em>i.e.</em>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
+  <div class='_center'>
    <img
     src="/assets/img/en-alignment.svg"
     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for Impact, the index finger for Purpose, and the ring finger for Mission"
     width="80%">
+  </div>
   <ul>
    <li>
     <p style="text-indent:0;">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
@@ -60,7 +62,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <p style="text-indent:0;">The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
    </li>
  </ul>
- <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team.</p>
+ <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team, all present and future co-owners.</p>
 
 <h1>Recognizing Contributions</h1>
  <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size. <a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></p>
