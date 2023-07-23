@@ -92,7 +92,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <li><span class="_paradigm">RAD</span>s represent any kind of contribution, not just financial. In fact, <span class="_paradigm">RAD</span>s account for the unaccountable.</li>
   </ul>
  <p>Co-owners then get to distribute <span class='_paradigm'>RAD</span>s according to their individual judgment. Co-owners do this by recognizing the contributons of other co-owners. The end result is that a number of <span class="_paradigm">RAD</span>s are given to other co-owners. The value of the whole emerges from the judgment of the many.</p> 
- <p>A few important observations about <span class="_paradigm">RAD</span>s,</p>
+ <p>Other important observations about <span class="_paradigm">RAD</span>s,</p>
   <ul>
    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are not a currency.</li>
    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
