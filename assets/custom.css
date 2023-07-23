@@ -633,10 +633,3 @@ ul th, ul td, ul th p, ul td p,
 td p {
   text-indent:0;
 }
-
-/*
- * extended eg and ie
- */
- .eg, .ie {
-  font-style:italic;
-}
