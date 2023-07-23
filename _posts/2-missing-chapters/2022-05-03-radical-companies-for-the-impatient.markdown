@@ -111,7 +111,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   </ul>
  <p>Allocations work like this,</p>
   <ul>
-   <li  style="text-indent:0;">As I sadi, co-owners get one <span class="_paradigm">RAD</span> per day.</li>
+   <li  style="text-indent:0;">As I said, co-owners get one <span class="_paradigm">RAD</span> per day.</li>
    <li  style="text-indent:0;">Co-owners get to recognize contributions by pressing a button in the <em><span class='_paradigm'>RADs!</span> mobile app</em>. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
    <li  style="text-indent:0;">At the end of the cycle, the number of <span class="_paradigm">RAD</span>s are calculated from recognized contributioms.</li>
   </ul>
