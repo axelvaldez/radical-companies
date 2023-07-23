@@ -117,71 +117,71 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <li  style="text-indent:0;">For transparency sake, all these transactions are posted to a public Dashboard.</li>
   </ul>
  
- <h1>Radical Distributions Are Scalable</h1>
-  <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many people to cover the whole team. If somebody doesn't get any <span class='_paradigm'>RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
-   <div class="_center">
-    <table>
-     <tr>
-      <td colspan="4">
+<h1>Radical Distributions Are Scalable</h1>
+ <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many people to cover the whole team. If somebody doesn't get any <span class='_paradigm'>RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
+  <div class="_center">
+   <table>
+    <tr>
+     <td colspan="4">
+      <img
+       src="/assets/img/icon-dynamic-distribution-1.svg"
+       alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person."
+      >
+     </td>
+    </tr>
+    <tr>
+     <td colspan="4" style="font-size: larger; text-align: center; ">1 person&rsquo;s point of view: 17 of 56 people.</td>
+    </tr>
+    <tr>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
        <img
-        src="/assets/img/icon-dynamic-distribution-1.svg"
-        alt="A big circle inside which there are 56 monochrome faces, 17 of which are in color to indicate they've been given RADs by one person."
+        src="/assets/img/icon-dynamic-distribution-2.svg"
+        alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people."
+        title="2 people's point of view: 31 of 56 people."
        >
-      </td>
-     </tr>
-     <tr>
-      <td colspan="4" style="font-size: larger; text-align: center; ">1 person&rsquo;s point of view: 17 of 56 people.</td>
-     </tr>
-     <tr>
-      <td>
-       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-        <img
-         src="/assets/img/icon-dynamic-distribution-2.svg"
-         alt="A small circle inside which there are 56 monochrome faces, 31 of which are in color to indicate they've been given RADs by two people."
-         title="2 people's point of view: 31 of 56 people."
-        >
-       </p>
-      </td>
-      <td>
-       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-        <img
-         src="/assets/img/icon-dynamic-distribution-3.svg"
-         alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people."
-         title="3 people's point of view: 40 of 56 people."
-        >
-       </p>
-      </td>
-      <td>
-       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-        <img
-         src="/assets/img/icon-dynamic-distribution-4.svg"
-         alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people."
-         title="4 people's point of view: 55 of 56 people."
-        >
-       </p>
-      </td>
-      <td>
-       <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-        <img
-         src="/assets/img/icon-dynamic-distribution-5.svg"
-         alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people."
-         title="5 people's point of view: 56 of 56 people."
-        >
-       </p>
-      </td>
-     </tr>
-     <tr>
-      <td style="font-size:small; text-align:center; ">2 people&rsquo;s view:<br>31 of 56 people.</td>
-      <td style="font-size:small; text-align:center; ">3 people&rsquo;s view:<br>40 of 56 people.</td>
-      <td style="font-size:small; text-align:center; ">4 people&rsquo;s view:<br>55 of 56 people.</td>
-      <td style="font-size:small; text-align:center; ">5 people&rsquo;s view:<br>56 of 56 people.</td>
-     </tr>
-     <tr>
-      <td colspan="4">&nbsp;</td>
-     </tr>
-    </table>
-   </div>
-  <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better. To quote author James Ownen, &ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it.&rdquo; They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
+      </p>
+     </td>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img
+        src="/assets/img/icon-dynamic-distribution-3.svg"
+        alt="A small circle inside which there are 56 monochrome faces, 40 of which are in color to indicate they've been given RADs by three people."
+        title="3 people's point of view: 40 of 56 people."
+       >
+      </p>
+     </td>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img
+        src="/assets/img/icon-dynamic-distribution-4.svg"
+        alt="A small circle inside which there are 56 monochrome faces, 55 of which are in color to indicate they've been given RADs by four people."
+        title="4 people's point of view: 55 of 56 people."
+       >
+      </p>
+     </td>
+     <td>
+      <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+       <img
+        src="/assets/img/icon-dynamic-distribution-5.svg"
+        alt="A small circle inside which there are 56 faces, all of which are in color to indicate they've been given RADs by five people."
+        title="5 people's point of view: 56 of 56 people."
+       >
+      </p>
+     </td>
+    </tr>
+    <tr>
+     <td style="font-size:small; text-align:center; ">2 people&rsquo;s view:<br>31 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">3 people&rsquo;s view:<br>40 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">4 people&rsquo;s view:<br>55 of 56 people.</td>
+     <td style="font-size:small; text-align:center; ">5 people&rsquo;s view:<br>56 of 56 people.</td>
+    </tr>
+    <tr>
+     <td colspan="4">&nbsp;</td>
+    </tr>
+   </table>
+  </div>
+ <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better. To quote author James Ownen, &ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it.&rdquo; They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
 
 <h1>Distributions Include Banners</h1>
   <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">Banner</span>s</p>
