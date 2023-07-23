@@ -33,7 +33,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>It means that the total amount of generated <span class='_paradigm'>RAD</span>s (denominator) changes regularly and the total number of <span class='_paradigm'>RAD</span>s allocated to a co-owner (numerator) changes regularly.</p>
  <p>For example,</p>
  <ul>
-  <li>Last month, six of us had 1,800 <span class='_paradigm'>RAD</span>s in total to distribute among ourselves.</li>
+  <li>Last month, we had 1,800 <span class='_paradigm'>RAD</span>s in total to distribute among ourselves.</li>
   <li>You ended with 450 allocated <span class='_paradigm'>RAD</span>s (25%) and I got 234 (13%).</li>
   <li>Next month the team generates 1860 more <span class='_paradigm'>RAD</span>s for a total of 3,660.</li>
   <li>This time you get 142 additional <span class='_paradigm'>RAD</span>s for a total of 592 (16%) and I end up with a total of 630 (17%).</li>
