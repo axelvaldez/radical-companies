@@ -34,7 +34,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </tr>
     </table>
    </div>
-  <p>Other practices can be layered on top of these, but for a non-<span class="_paradigm">Fiat</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">Fiat</span> business with &ldquo;ain&rsquo;t-we-nice&rdquo; sprinkled on top.</p>
+  <p>Other practices can be layered on top of these, but for a <span class="_paradigm">Radical</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">Fiat</span> business with &ldquo;ain&rsquo;t-we-nice&rdquo; sprinkled on top.</p>
 
 <h1>Fiat Hiearchies</h1>
   <p>Hierarchies don&rsquo;t just go away. Hierarchies are alyes present, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by what&rsquo;s needed, at a particular time, by the people involved. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo; <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -332,7 +332,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     The graph shows the PRI ACCOUNT as box full of read liquid. Below are vertical boxes. For SALIM, DALIAH, ALICIA, and ANITA the boxes are beige, meaning that their PRI came from EARNINGS.KIM and JULIO show boxes with a mix of red and beige to indicate that their PRI came from EARNINGS plus withdrawals from the PRI ACCOUNT.">
  <p>Notice that even though dividends are up, Julio continues to draw from the <em><span class="_paradigm">PRI</span> Account</em> because his <span class="_paradigm">PRI</span> is pretty high and his <span class="_paradigm">RAD</span>s count is pretty low. He may want to change his <span class="_paradigm">PRI</span> or get feedback on why his <span class="_paradigm">RAD</span>s are so low.</p>
 
-<h1>Comparing the non-Fiat Investment Model with that of Banks and VCs</h1>
+<h1>Comparing the Radical Investment Model with that of Banks and VCs</h1>
  <p>Non-<span class="_paradigm">Fiat</span> investments will, at worst, have the same financial yield as today&rsquo;s VC system, but with 1) a lot more beneficiaries (<eg>i.e.</eg>, all the co-owners), and 2) less risk (<eg>i.e.</eg>, because a lot more people will be committed to making it work).</p>
   <img
    src="/assets/img/bank-vs-vcs-vs-radical.svg"
