@@ -41,7 +41,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>Alignment Must Be Explicit and Transparent</h1>
   <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s Impact  (<em>i.e.</em>, <em>what for</em>), its Purpos (<em>i.e.</em> why), and Mission (<em>i.e.</em>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
-  <p>The three-finger Scout Salute <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
+  <p>The three-finger Scout Salute<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
    <img
     src="/assets/img/en-alignment.svg"
     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for Impact, the index finger for Purpose, and the ring finger for Mission"
