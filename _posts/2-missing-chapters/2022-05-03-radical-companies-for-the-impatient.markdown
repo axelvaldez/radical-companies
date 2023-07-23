@@ -95,12 +95,17 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>Other important observations about <span class="_paradigm">RAD</span>s,</p>
   <ul>
    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are not a currency.</li>
-   <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are issued even before there is revenue because contributions happen regardless of revenue.</li>
-   <li style="text-indent:0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. In any case, at every <span class="_paradigm">Distribution Retrospective</span> new criteria are fleshed out and harvested to use as guidelines.</li>
-   <li style="text-indent:0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may give me all your <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</li>
-   <li style="text-indent:0;">To calculate your percentage ownership, divide the number of <span class="_paradigm">RAD</span>s you have been given by the total number of <span class="_paradigm">RAD</span>s.</li>
-   <li style="text-indent:0;">The absolute number of <span class="_paradigm">RAD</span>s allocated to me either stays the same or goes up at every <span class="_paradigm">Distribution</span>, but it never goes down. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150. If I don&rsquo;t get any this cycle, my total number of <span class="_paradigm">RAD</span>s stays at 100.</li>
-   <li style="text-indent:0;">On the other hand, my <em>percentage</em> of the total could go up, stay the same, or go down at every <span class="_paradigm">Distribution</span>. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000, then I have 10% of the total. If I get 50 <span class="_paradigm">RAD</span>s this cycle, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%. In the worst case, if I don&rsquo;t get any new <span class="_paradigm">RAD</span>s, my percentage goes down to 8%.</li>
+   <li style="text-indent:0;">Each co-owner gets one <span class="_paradigm">RAD</span> per day, even before there is revenue because contributions happen regardless of revenue.</li>
+   <li style="text-indent:0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. Every so often new criteria are fleshed out and harvested to use as guidelines.</li>
+   <li style="text-indent:0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may get a lot of <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</li>
+   <li style="text-indent:0;">There is a <em><span class='_paradigm'>RAD</span>s Mobile App</em> that calculates,</li>
+    <div class='_center'>
+     <img
+      src=''
+      width=''>
+    </div>
+   <li style="text-indent:0;">Your <span class="_paradigm">RAD</span>s accumulate from one cycle to the next. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150.</li>
+   <li style="text-indent:0;">Your percentage of the total may go up, down, or stay the same. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000 <span class="_paradigm">RAD</span>s, then I have 10% of the total. If at the next cycle the total goes up to 1,200 <span class="_paradigm">RAD</span>s and I get 50, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%.</li>
    <li style="text-indent:0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
   </ul>
  <p>Allocations work like this,</p>
