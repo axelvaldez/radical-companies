@@ -283,7 +283,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </p>
    </li>
   </ul>
- <p>The <span class="_paradigm">PRI</span> Fund functions a lot like a salary fund,</p>
+ <p>The <span class="_paradigm">PRI Fund</span> functions a lot like a salary fund,</p>
   <ul>
    <li>
     <p style="text-indent:0;">If I earned <em>more</em> than my <span class="_paradigm">PRI</span>, then I can take home my <span class="_paradigm">PRI</span> <em>and my Earned Dividends</em>.</p>
