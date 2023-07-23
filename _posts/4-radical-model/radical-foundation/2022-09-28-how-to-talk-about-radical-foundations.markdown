@@ -89,7 +89,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    <tr>
     <th>Experimentation</th>
     <td>
-     <p>Means never having to say you&rsquo;re sorry, but you must tell what you&rsquo;ve <em>learned</em> from the experience (<eg>e.g.</eg>, I expected X, but got Y, because&hellip;). Even saying, <em>I don&rsquo;t know why it went wrong</em> means we have learned something from it.</p>
+     <p>Means never having to say you&rsquo;re sorry, but you must tell what you&rsquo;ve <em>learned</em> from the experience (<em>e.g.</em>, I expected X, but got Y, because&hellip;). Even saying, <em>I don&rsquo;t know why it went wrong</em> means we have learned something from it.</p>
    </td>
   </tr>
  </table>

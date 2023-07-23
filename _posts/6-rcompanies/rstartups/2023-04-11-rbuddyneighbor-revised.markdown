@@ -50,7 +50,7 @@ image:    "icon-rbuddyneighbor.svg"
 
 <h1>Members Are the Only Customer</h1>
  <ul>
-  <li>People must first become members of <span class="_paradigm">rBuddyNeighbors</span> to participate (<eg>i.e.</eg>, of course, there could be trials).</li>
+  <li>People must first become members of <span class="_paradigm">rBuddyNeighbors</span> to participate (<em>i.e.</em>, of course, there could be trials).</li>
   <li>People are our only customers.</li>
   <li>Members co-own everything about <span class="_paradigm">rBuddyNeighbors</span>.</li>
  </ul>
@@ -66,7 +66,7 @@ image:    "icon-rbuddyneighbor.svg"
       <li>The <span class="_paradigm">Buddy</span>, Nam, goes to Safeway at around 11 pm.</li>
       <li>A few minutes before, a <span class="_paradigm">Neighbor</span>, Kim, put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
       <li>When Name gets to Safeway, the system alerts him of this request and adds, <span class="_quotespan">This will take you an extra five to ten minutes and approximate three blocks out of your route.</span></li>
-      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<eg>e.g.</eg>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
+      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
       <li>Nam accepts the request.</li>
       <li>The system summarizes, and displays something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
      </ul>
@@ -215,7 +215,7 @@ image:    "icon-rbuddyneighbor.svg"
     <td>
      <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
      <p>Regardless of what you think of these things, this would go against the Explicit Alignment of<span class="_paradigm">rBuddyNeighbor</span>. So, we&rsquo;d probably have to do something about it, although not sure what.</p>
-     <p>Scanning requests will not work after a short while, and people will go crypto on us (<eg>e.g.</eg>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<eg>e.g.</eg>, the same person always responds to the &ldquo;Mike</span> requests).</p>
+     <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
      <p>When we detect any of this, we could kick the &ldquo;Mike&rdquo; character out (and return their membership fees). But that is a use of force.</p>
      <p>It is not a matter of rules, we already have the Explicit Alignment to guide us. No matter, in the end the members/co-owners need to do something about it.</p>
     </td>

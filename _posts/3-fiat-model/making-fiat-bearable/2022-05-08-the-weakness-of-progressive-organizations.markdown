@@ -36,7 +36,7 @@ image:    "icon-10-progressive-org-structures.svg"
     </tr>
    </table>
   </div>
- <p>Finally, experiment. Be explicit about what you expect (<eg>e.g.</eg>, levels of acidity in a tomato paste) and then don&rsquo;t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
+ <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don&rsquo;t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>

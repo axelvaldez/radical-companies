@@ -24,7 +24,7 @@ image:    "icon-gov.svg"
  <p>City governments are responsible for,</p>
   <ul>
    <li>The police force, fire abatement, paramedic help.</li>
-   <li>Traffic infrastructure (<eg>e.g.</eg>, signs, speed zones).</li>
+   <li>Traffic infrastructure (<em>e.g.</em>, signs, speed zones).</li>
    <li>Local city road construction and maintenance, including public parking for cars and motorcycles.</li>
    <li>Building regulations and zoning.</li>
    <li>Keeping water clean and maintaining sewer lines.</li>

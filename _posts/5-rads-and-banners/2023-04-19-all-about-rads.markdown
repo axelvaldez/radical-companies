@@ -12,7 +12,7 @@ image:    "icon-all-about-rads.svg"
 
 <h1>What Are RADs?</h1>
  <p>A <span class='_paradigm'>RAD</span> is a dimensionless unit and people measure their contributions with <span class='_paradigm'>RAD</span>s. They represent any kind of contribution, not just financial.</p>
- <p>Money has a fixed value, and stocks represent a fixed percentage of a property. <span class='_paradigm'>RAD</span>s are dynamic and the percentage of them any co-owner has changes from cycle to cycle (<eg>e.g.</eg>, monthly).</p>
+ <p>Money has a fixed value, and stocks represent a fixed percentage of a property. <span class='_paradigm'>RAD</span>s are dynamic and the percentage of them any co-owner has changes from cycle to cycle (<em>e.g.</em>, monthly).</p>
  <p>As an accounting tool, <span class='_paradigm'>RAD</span>s account for has previously been unaccountable: individual contributions. They allow us to get away from &ldquo;equal&rdquo; and make things truly &ldquo;equitable.&rdquo;</p>
 
 <h1>Giving RADs</h1>

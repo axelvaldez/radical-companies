@@ -52,7 +52,7 @@ image:    "icon-rbuddyneighbor.svg"
    <li>The buddy goes to Safeway at 11 pm.</li>
    <li>A few minutes before, a Neighbor put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
    <li>When the buddy gets to Safeway, the system alerts her of this request. <span class="_quotespan">This will take you an extra five to ten minutes and approximate five blocks out of your route.</span></li>
-   <li>The buddy  reviews the request and gets to see the Neighbors&rsquo; <span class="_quotespan">vitals&rdquo; (<eg>e.g.</eg>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three, the whole family is home with her</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind of creep factor that this buddy needs to know before she can safely accept a request.</li>
+   <li>The buddy  reviews the request and gets to see the Neighbors&rsquo; <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three, the whole family is home with her</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind of creep factor that this buddy needs to know before she can safely accept a request.</li>
    <li>The buddy  accepts the request.</li>
    <li>The system summarizes, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Jose at&hellip;</span></li>
    <li>So far, the Neighbor doesn&rsquo;t know anything.</li>
@@ -183,7 +183,7 @@ image:    "icon-rbuddyneighbor.svg"
 <h1>Them Deviants</h1>
  <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
  <p>Regardless of everything else, this would go against our impact, our purpose, and corrupt our mission. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
- <p>Scanning requests will not work after a short while, and people will go crypto on us (<eg>e.g.</eg>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<eg>e.g.</eg>, the same person always responds to the &ldquo;Mike</span> requests).</p>
+ <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
  <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
  <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
  <p>Do we alert the nearby Neighbors for potential intervention?</p>
@@ -209,15 +209,15 @@ image:    "icon-rbuddyneighbor.svg"
      <p>Under some circumstances, the Neighbor specifies a pickup location. If a Buddy is bringing me something from Spain, I&rsquo;ll go pick it up at the nearby town that I can drive to.</p>
      <p>It makes sense to let members define what <span class="_quotespan">near&rdquo; and &ldquo;detour</span> mean. There could be a,</p>
       <ul>
-       <li>Default setting (<eg>e.g.</eg>, <span class="_quotespan">three blocks,&rdquo; <span class="_quotespan">one minute,</span> &ldquo;within three blocks from my place</span>) .</li>
-       <li>A pickup setting (<eg>e.g.</eg>, <span class="_quotespan">anywhere in the Bay Area</span>).</li>
+       <li>Default setting (<em>e.g.</em>, <span class="_quotespan">three blocks,&rdquo; <span class="_quotespan">one minute,</span> &ldquo;within three blocks from my place</span>) .</li>
+       <li>A pickup setting (<em>e.g.</em>, <span class="_quotespan">anywhere in the Bay Area</span>).</li>
        <li>A per-request setting.</li>
       </ul>
     </td>
    </tr>
    <tr>
     <th>Route</th>
-    <td>From the outlet back to the Buddy&rsquo;s next destination (<eg>e.g.</eg>, home). It could include short detours if the Buddy agrees.</td>
+    <td>From the outlet back to the Buddy&rsquo;s next destination (<em>e.g.</em>, home). It could include short detours if the Buddy agrees.</td>
    </tr>
   </table> 
  </div>

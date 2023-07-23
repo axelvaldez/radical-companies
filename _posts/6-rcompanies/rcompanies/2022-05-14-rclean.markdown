@@ -71,7 +71,7 @@ image:    "icon-rmedia.svg"
 <h1>Intro</h1>
  <p>Help people with,</p>
  <ul>
-  <li>Cleaning living spaces (<eg>e.g.</eg>, homes, offices).</li>
+  <li>Cleaning living spaces (<em>e.g.</em>, homes, offices).</li>
   <li>Declutter and free up space.</li>
   <li>Interior design suggestions.</li>
  </ul>

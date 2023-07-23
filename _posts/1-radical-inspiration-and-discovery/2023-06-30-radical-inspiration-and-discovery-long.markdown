@@ -85,15 +85,15 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
  <p>Picture this,</p>
   <ul>
-   <li>You  get a traffic ticket. A very minor form of force. You have to give up money (<eg>i.e.</eg>, coined force) to be spared the pain that would follow if you didn&rsquo;t.</li>
-   <li>If you feel that is an injustice, you let it go to court (<eg>i.e.</eg>, another type of force).</li>
+   <li>You  get a traffic ticket. A very minor form of force. You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you didn&rsquo;t.</li>
+   <li>If you feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
    <li>Victory brings celebration, the force is with you.</li>
    <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
    <li>On the other hand, if you happen to be from the <em>edge,</em> any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure</em>.</li>
   </ul>
  <p>Force is ever present in our <span class='_paradigm'>Fiat</span> system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
- <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on threats to actual pain (<eg>i.e.</eg>, force).</p>
+ <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on threats to actual pain (<em>i.e.</em>, force).</p>
  <p>Motivation is another form of force. <span class='_quotespan'>Do this and you&rsquo;ll get the reward.</span>  We often fail to see it for what it truly is—an external force, driving us toward someone else&rsquo;s desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
  <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
  <p>But I ask you to consider this: humanity has survived and thrived as a species. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.<p>
@@ -128,7 +128,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>Divide and Conquer</th>
       <td>
-       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive &ldquo;apostrophe s&rdquo; in English (<eg>i.e.</eg>, Pedro&rsquo;s) as it indicates that it &ldquo;belongs to&rdquo; to the men. <span class='_quotespan'>Men were the kings of their castle</span> and women were reduced to chattel. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
+       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive &ldquo;apostrophe s&rdquo; in English (<em>i.e.</em>, Pedro&rsquo;s) as it indicates that it &ldquo;belongs to&rdquo; to the men. <span class='_quotespan'>Men were the kings of their castle</span> and women were reduced to chattel. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
        <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
        <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
        <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is still a struggle as powerful people cling to the past.</p>
@@ -327,7 +327,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
  <h2>Radical</h2>
-  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span> of what we need at the root of the system, not an evolved system (<eg>i.e.</eg>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
+  <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a <span class='_paradigm'>Foundation</span> of what we need at the root of the system, not an evolved system (<em>i.e.</em>, in yellow, below). <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
    <div class='_center'>
     <img
      src='/assets/img/pic-the-radical-model-coming-together.svg'
@@ -454,7 +454,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </tr>
      <tr>
       <th>What? When? How?</th>
-      <td>Here is where the projects are listed. There may be a single <span class='_paradigm'>Mission</span> or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<eg>i.e.</eg>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
+      <td>Here is where the projects are listed. There may be a single <span class='_paradigm'>Mission</span> or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the <em>how</em> so others can help you.</td>
      </tr>
     </table>
    </div>  <div class='_center'>
@@ -495,7 +495,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <th>What Are RADs?</th>
      <td>
       <p><span class='_paradigm'>RAD</span>s are like tokens. Not crypto tokens or any such nonsense. Your <span class='_paradigm'>RAD</span>s really are a percentage of all <span class='_paradigm'>RAD</span>s ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
-      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<eg>e.g.</eg>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
+      <p>The number of <span class='_paradigm'>RAD</span>s you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of <span class='_paradigm'>Recognized Contributions</span>. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> calculates the number of <span class='_paradigm'>RAD</span>s that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
        <div class='_center'>
         <img
          src='/assets/img/pic-recognitions-to-rads-equation.svg'

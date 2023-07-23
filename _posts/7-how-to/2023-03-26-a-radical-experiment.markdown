@@ -21,7 +21,7 @@ image:    "icon-a-radical-experiment.svg"
  <p>The canonical example of this is Einstein&rsquo;s relativity and Newton&rsquo;s gravity. <em>A of of people knew</em> that anything with mass will also have gravity and that gravity acted in a certain way. Then came Einstein with the implication that gravity was more complex than Newton assumed and definitely acted differently at the very micro and very macro levels.</p>
 
 <h1>Example: Belt Levels</h1>
- <p>This example came up last Friday. The question came up as, <span class="_quotespan">Is X be compatible with the <span class='_paradigm'>Radical</span> system?</span> My first answer was a very <span class='_paradigm'>Fiat</span> <em>No!</em> It took a while (<eg>i.e.</eg>, this <span class='_paradigm'>Fiat</span> stuff is not easy to shake), but I think I eventually came up with a truly <span class='_paradigm'>Radical</span>, out-of-love response: <span class="_quotespan">run an experiment!</span></p>
+ <p>This example came up last Friday. The question came up as, <span class="_quotespan">Is X be compatible with the <span class='_paradigm'>Radical</span> system?</span> My first answer was a very <span class='_paradigm'>Fiat</span> <em>No!</em> It took a while (<em>i.e.</em>, this <span class='_paradigm'>Fiat</span> stuff is not easy to shake), but I think I eventually came up with a truly <span class='_paradigm'>Radical</span>, out-of-love response: <span class="_quotespan">run an experiment!</span></p>
  <p>
   In this case, X refered to a mentoring system based on the Karate Belt level system. The problem with these schemes is that can get <span class='_paradigm'>Fiat</span>-complicated quickly, <span class="_quotespan">&hellip; and pay would be based on that</span>.
  </p>
@@ -32,7 +32,7 @@ image:    "icon-a-radical-experiment.svg"
 
 <h1>Money and Rank</h1>
  <p>Salaries are pretty integral to the <span class="_paradigm">Fiat</span> system. Employees earn a wage, owners reap profits.</p>
- <p>Eventually, co-owners will, I hope, switch to PRI to distribute <em>earned dividends</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> At that point earned dividends (popularly known as profits) will be factored through <span class="_paradigm">RAD</span>s. It might also make sense to factor Belt levels (<eg>i.e.</eg>, let&rsquo;s do the experiment). For example, a Black Belt who has not contributed much to anybody in the last few months, might stop being a Black Belt.</p>
+ <p>Eventually, co-owners will, I hope, switch to PRI to distribute <em>earned dividends</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> At that point earned dividends (popularly known as profits) will be factored through <span class="_paradigm">RAD</span>s. It might also make sense to factor Belt levels (<em>i.e.</em>, let&rsquo;s do the experiment). For example, a Black Belt who has not contributed much to anybody in the last few months, might stop being a Black Belt.</p>
  <p>
 
 <h1 class="_section">ENDNOTES</h1>

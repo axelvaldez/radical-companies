@@ -31,7 +31,7 @@ image:    "icon-giving-rads.svg"
  </ol>
 
 <h1>How RADs Are Calculated</h1>
- <p>What you are really doing with this app is recognizing your peers&rsquo; contributions<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> (<eg>i.e.</eg>, <em>Meaning</em>). You can press the <em>hand</em> recognition button as much as you want; the app takes care of calculating the actual number of <span class='_paradigm'>RAD</span>s that your peer will get.</p>
+ <p>What you are really doing with this app is recognizing your peers&rsquo; contributions<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> (<em>i.e.</em>, <em>Meaning</em>). You can press the <em>hand</em> recognition button as much as you want; the app takes care of calculating the actual number of <span class='_paradigm'>RAD</span>s that your peer will get.</p>
  <p>The calculation is based on your cycle, which could be monthly, or weekly, or quarterly, or whatever. In any case, the calculation is very simple,</p>
  <p class="_center">
   <img
@@ -43,7 +43,7 @@ image:    "icon-giving-rads.svg"
 
 <h1>How the <span class='_paradigm'>LET&rsquo;S TALK</span> Button Works</h1>
  <ul>
-  <li>Press the <span class='_paradigm'>LET&rsquo;S TALK</span> button (<eg>i.e.</eg>, once per topic).</li>
+  <li>Press the <span class='_paradigm'>LET&rsquo;S TALK</span> button (<em>i.e.</em>, once per topic).</li>
   <li>After you press it, a note box will come up for you to write a note, private to you, of the particular topic.</li>
   <li>Once you save the note, a notification shows up on their device letting them know that you&rsquo;d like to talk.</li>
   <li>It is a good practice to propose, or ask for, a day and time.</li>

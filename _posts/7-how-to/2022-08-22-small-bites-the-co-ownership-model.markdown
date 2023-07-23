@@ -15,7 +15,7 @@ image:    "icon-small-bites-money.svg"
   src="/assets/img/pic-co-ownership-the-big-bite.svg"
   alt="The heading reads Co-Ownership. Below it there is one circle labeled 'All of It' with big bite marks in their upper-left. The bite takes out only a small portion of the circle."
   style="margin-left:10px; float:right; width:30%; ">
- <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accusing it of being utopian (<eg>i.e.</eg>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (<eg>i.e.</eg>, &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
+ <p>Co-ownership is a big pill to swallow all in one gulp. It scares people and they react by accusing it of being utopian (<em>i.e.</em>, &ldquo;It won't work in the real world&rdquo;) or a political scheme (<em>i.e.</em>, &ldquo;The communists tried it, it didn&rsquo;t work&rdquo;).</p>
  <img
   src="/assets/img/pic-co-ownership-the-smaller-bites.svg"
   alt="The heading reads Co-Ownership. Below it there are three circles, each labeled 'All of It.' Each show a bite mark that take up more of each individual circle."
@@ -41,7 +41,7 @@ image:    "icon-small-bites-money.svg"
 
 <h1>RADs</h1>
  <p><span class="_paradigm">RAD</span>s<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> are all about recognizing contributions <em>and assigning them a value</em>. What the boss is doing when he assigns bonuses does it but in the privacy of his mind&mdash;nobody else knows if he is recognizing a financial contribution to the business&rsquo; bottom line or to his ego.</p>
- <p><span class="_paradigm">RAD</span>s are a tool for decentralizing the recognition of contributions. It is similar to what they boss does in his head, but, instead, lets everybody do it. These distributions is fully transparent, too, including the reason why each contribution is being recognized. Finally, <span class="_paradigm">RAD</span>s make contributions <em>tangible</em>. Instead of vague attaboy, <span class="_paradigm">RAD</span>s can be translated to a percentage of, say, profits (<eg>i.e.</eg>, earned dividends).</p>
+ <p><span class="_paradigm">RAD</span>s are a tool for decentralizing the recognition of contributions. It is similar to what they boss does in his head, but, instead, lets everybody do it. These distributions is fully transparent, too, including the reason why each contribution is being recognized. Finally, <span class="_paradigm">RAD</span>s make contributions <em>tangible</em>. Instead of vague attaboy, <span class="_paradigm">RAD</span>s can be translated to a percentage of, say, profits (<em>i.e.</em>, earned dividends).</p>
 
 <h1>Building Communities</h1>
  <p><span class="_paradigm">RAD</span>s could also be as a way to implement ways of easing into co-ownership by building communities.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>

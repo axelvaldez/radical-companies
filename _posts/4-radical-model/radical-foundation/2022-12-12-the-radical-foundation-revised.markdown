@@ -51,7 +51,7 @@ image:    "icon-the-radical-foundation-revised.svg"
 <h1>Explicit Alignment & Experimentation</h1>
  <p>Finally, we come to a leg of the <span class="_paradigm">Radical</span> foundation that needs to be changed.</p>
  <p>I was never very happy with the combination of <em>Explicit Alignment</em> and <em>Experimentation</em> under Practices. I have now realized that Explicit Alignment is a tool &ndash; one that we believe is key and absolutely necessary, but it&rsquo;s just a tool.</p>
- <p>Experimentation, on the other hand, applies to every <span class="_paradigm">Radical</span> practice. The result may or may not meet our expectations (<eg>i.e.</eg>, our hypothesis), but even when it does not, it serves to teach us a lesson and we learn.</p>
+ <p>Experimentation, on the other hand, applies to every <span class="_paradigm">Radical</span> practice. The result may or may not meet our expectations (<em>i.e.</em>, our hypothesis), but even when it does not, it serves to teach us a lesson and we learn.</p>
 
 <h1>Tools</h1>
  <p>Tools are not technically a part of the <span class="_paradigm">Radical</span> foundation itself; you can be on the <span class="_paradigm">Radical</span> path and use different tools. No matter, this is what we&rsquo;ve come up with, so far,</p>
@@ -61,7 +61,7 @@ image:    "icon-the-radical-foundation-revised.svg"
     <th>Explicit Alignment</th>
     <td>
      <div>
-      This applies to a group of people collaborating on a common project (<eg>e.g.</eg>, what we call a company). However you choose to express them, these are the key components that you must consider,
+      This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
       <div class="_center">
        <img
         src="/assets/img/en-alignment.svg"

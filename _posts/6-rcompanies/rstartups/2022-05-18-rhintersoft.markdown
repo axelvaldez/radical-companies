@@ -139,7 +139,7 @@ image:    "icon-rhintersoft.svg"
       <ul>
        <li>You decide how much wealth to extract from the company to take care of your recurring expenses.</li>
        <li>We still have to make the company work financially. This is not a magic wand to fend off hard situations or avoid difficult decisions.</li>
-       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends as given to co-owner (<eg>i.e.</eg>, as it is given to owners in businesses).</li>
+       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends as given to co-owner (<em>i.e.</em>, as it is given to owners in businesses).</li>
        <li>Unless other agreements have been made, the PRI fund gets paid first. The PRI fund is fed by <span class='_paradigm'>Radical</span> investments which has to be paid back and the PRI policy has to take that into consideration. OK, it doesn&rsquo;t have to, but it is highly advised that it does so.</li>
       </ul>
      </td>

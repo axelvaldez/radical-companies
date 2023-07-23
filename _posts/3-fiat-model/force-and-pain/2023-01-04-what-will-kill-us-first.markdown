@@ -95,7 +95,7 @@ image:    "icon-what-will-kill-us-first.svg"
   <table class="_h2table">
    <tr>
     <th>Explicit<br>Alignment</th>
-    <td>This applies to a group of people working on a common project (<eg>i.e.</eg>, what we call a company). However you choose to express them, these are the key components that you must consider,
+    <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
     </td>
    </tr>
    <tr>

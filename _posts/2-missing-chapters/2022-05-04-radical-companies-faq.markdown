@@ -76,7 +76,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h2>Can we take advantage of ESOPs?</h2>
  <p>One thing you can do with stock is to have it be owned by an Employee Stock Ownership Plan (ESOP) trust. According to US legislation, ESOPs don&rsquo;t pay taxes on revenue. We expect to have a more detailed answer later, but for now, if you want to know more about this, consult a lawyer.</p>
- <p>Originally, we were excited by ESOPs and thought that they were it! Unfortunately, they are not. They are positioned as a retirement plan (<eg>i.e.</eg>, they fall under the US ERISA legislation). They require a lot of bureaucracy to maintain them and that&rsquo;s usually outsourced to specialized accountants and lawyers, so they are expensive to maintain. The only benefit is financial and that comes at a higher risk of having all your eggs in one basket, so to speak (<eg>i.e.</eg>, the ESOP is completely dependent on the performance of one company).</p>
+ <p>Originally, we were excited by ESOPs and thought that they were it! Unfortunately, they are not. They are positioned as a retirement plan (<em>i.e.</em>, they fall under the US ERISA legislation). They require a lot of bureaucracy to maintain them and that&rsquo;s usually outsourced to specialized accountants and lawyers, so they are expensive to maintain. The only benefit is financial and that comes at a higher risk of having all your eggs in one basket, so to speak (<em>i.e.</em>, the ESOP is completely dependent on the performance of one company).</p>
 
 <h2>How does Radical Distribution works in companies that need funding, investment, or merge and acquisition capital?</h2>
  <p>Part 3 of the book is mostly speculation, but what is clear is that financial transactions should not be mixed in with governance.</p>
@@ -87,7 +87,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>Given the financial risk, then why do <span class='_paradigm'>Radical</span> investments at all?</p>
  <ul>
   <li>Every co-owner wants their business to succeed and the investment into a blow out financial success. Their self-interest is perfectly aligned with the financial investor&rsquo;s interest.</li>
-  <li>If problems arise, co-owners will recognize them right away and make them visible to all other co-owners and investors. (<eg>i.e.</eg>, transparency).</li>
+  <li>If problems arise, co-owners will recognize them right away and make them visible to all other co-owners and investors. (<em>i.e.</em>, transparency).</li>
   <li>Co-owners have the wherewithal to come up with solutions or ways around a problem. There is little or no energy will ever go into trying to hide a significant problem.</li>
   <li>There is very little chance of, say, a founder taking the company in the wrong direction for long without other co-owners noticing, voicing it, and doing something about it.</li>
 </ul>
@@ -118,7 +118,7 @@ image:    "icon-radical-companies-faq.svg"
 <h2>Do you know of other models for handling salaries?</h2>
  <p>There are a couple of companies in Argentina and a few in Europe that are experimenting with salaries. Ricardo Semler experimented with self-assigned salaries at SEMCO, in the late 1970s.</p>
  <p> In the cases we know of, they are still considered wages. We are so used to the work-for-money system that we don&rsquo;t question it. We don&rsquo;t even  realize that it is more like, &ldquo;I create wealth for you, and you give me a fixed amount of money that&rsquo;s unrelated to the wealth generated.&rdquo;</p>
- <p>Things like a capped ratio of highest to lowest wage (<eg>e.g.</eg>, cooperatives) didn&rsquo;t resonate with us. It is an arbitrary compression of wealth extraction, divorced from contributions.</p>
+ <p>Things like a capped ratio of highest to lowest wage (<em>e.g.</em>, cooperatives) didn&rsquo;t resonate with us. It is an arbitrary compression of wealth extraction, divorced from contributions.</p>
  <p>In the book, instead of &ldquo;wages&rdquo; or &ldquo;compensation,&rdquo; we looked at it from the point of view of wealth extraction and things started to fall in place for us. For the people who embody a company, the PRI model described in the book is clearly tied to the contributions everyone makes and the wealth created by it. For an investor, it makes it completely transparent how much goes into financially taking care of people versus other expenses and investments.</p>
  <p>We don&rsquo;t know what the ultimate form of this will be, but we feel strongly that wealth extraction has to be tied to financial performance and contributions.</p>
 
@@ -172,7 +172,7 @@ image:    "icon-radical-companies-faq.svg"
 <h2>If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
  <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we&rsquo;ve had an example of the latter recently (<em>ca.</em>, 2021), witness Basecamp.</p>
  <p>Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Heinemeier Hansson, believe strongly in the capability of people to self-manage – Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything that the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
- <p>BTW, this overnight change of heart was, at least, more open (<eg>i.e.</eg>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.</p>
+ <p>BTW, this overnight change of heart was, at least, more open (<em>i.e.</em>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.</p>
 
 <h2>Core Design Principle &ldquo;nested enterprises,&rdquo; is questionable. Wouldn&rsquo;t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
  <p>This stuff about &ldquo;sanctioning bad behavior&rdquo; only makes sense if the whole ecosystem is corrupt. This is very likely the case in a  business. But in a <span class='_paradigm'>Radical</span> company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.</p>

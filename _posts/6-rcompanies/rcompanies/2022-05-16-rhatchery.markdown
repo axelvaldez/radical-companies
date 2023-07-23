@@ -154,8 +154,8 @@ image:    "icon-rmedia.svg"
   <ol>
    <li>Describe scenario</li>
    <li>Team plays out a response</li>
-   <li>Retrospective to identify <span style="font-size:smaller; ">Fiat</span> behavior (<eg>e.g.</eg>, competitive)</li>
-   <li>Brainstorming for <span style="font-size:smaller; ">Radical</span> alternatives (<eg>e.g.</eg>, collaboration)</li>
+   <li>Retrospective to identify <span style="font-size:smaller; ">Fiat</span> behavior (<em>e.g.</em>, competitive)</li>
+   <li>Brainstorming for <span style="font-size:smaller; ">Radical</span> alternatives (<em>e.g.</em>, collaboration)</li>
   </ol>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Triads</h2>
   <p>David Logan, researcher and principal author of Tribal Leadership, suggested forming triads, a group of three people, to support each other.  So instead of the &ldquo;1-on-1 with your boss,&rdquo; you could instead do it with your peers. Logan meant triads as a mechanism to help people move up the <em>five tribal stages</em>,</p>
