@@ -301,7 +301,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <p style="text-indent:0;">If what I&rsquo;ve earned matches my <span class="_paradigm">PRI</span>, then I take that much home.</p>
    </li>
    <li>
-    <p style="text-indent:0;">If I earned <em>less than my <span class="_paradigm">PRI</span></em>, I still take home <em>the amount of money I expected</em>, because the <em><span class="_paradigm">PRI</span> Account</em> makes up the difference, but I now owe the difference to the <em><span class="_paradigm">PRI</span> Account</em>.</p>
+    <p style="text-indent:0;">If I earned <em>less than my <span class="_paradigm">PRI</span></em>, I still take home the amount of money I expected because the <em><span class="_paradigm">PRI Fund</span> makes up the difference. However, I now owe the difference to the <span class="_paradigm">PRI</span> Fund</span>.</p>
    </li>
   </ul>
  <p>You&rsquo;ll have to experiment with how these debts are settled. At its loosest, I could pay that debt &ldquo;later&rdquo; (<em>e.g.</em>, out of my future Earned Dividends). At its most forceful, I&rsquo;d have to pay the <em><span class="_paradigm">PRI</span> Account</em> debt, plus interest, within, say, 60 days. Our suggestion, as always, is to go for a policy that matches peoples' needs and situation. If a problem crops up, then tweak the policy as appropriate. In any case, don&rsquo;t yield to imagined fears.</p>
