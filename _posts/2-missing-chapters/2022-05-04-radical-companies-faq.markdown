@@ -27,7 +27,7 @@ image:    "icon-radical-companies-faq.svg"
   <li>Stocks are static. Each share of stock represents a fixed percentage of the business <em>forever</em>.</li>
   <li><span class='_paradigm'>RAD</span>s are dynamic, always changing. They represent the work that has gone into creating the value the company represents.</li>
 </ul>
- <p>Stock doesn&rsquo;t matter to <span class='_paradigm'>Radical</span> companies. If your company has been incorporated to have stock, make sure to put them in a safe place.</p>
+ <p>Stock is not at work in <span class='_paradigm'>Radical</span> companies. If your company has been incorporated to have stock, then re-incorporate it not have stock. For example, in California Unincorporate Associations don&rsquo;t have stock.</p>
 
 <h2>What does it mean that RADs are &ldquo;dynamic?&rdquo;</h2>
  <p>It means that the total amount of generated <span class='_paradigm'>RAD</span>s (denominator) grows regularly and the total number of <span class='_paradigm'>RAD</span>s allocated to a co-owner (numerator) changes regularly.</p>
