@@ -109,11 +109,12 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <li style="text-indent:0;">Your percentage of the total may go up, down, or stay the same. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000 <span class="_paradigm">RAD</span>s, then I have 10% of the total. If at the next cycle the total goes up to 1,200 <span class="_paradigm">RAD</span>s and I get 50, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%.</li>
    <li style="text-indent:0;">Money or whatever else is disbursed as a function of the number of <span class="_paradigm">RAD</span>s each co-owner has. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me.</li>
   </ul>
- <p>Allocations work like this,</p>
+ <p>To summarize, allocations work like this,</p>
   <ul>
-   <li  style="text-indent:0;">As I said, co-owners get one <span class="_paradigm">RAD</span> per day.</li>
+   <li  style="text-indent:0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</li>
    <li  style="text-indent:0;">Co-owners get to recognize contributions by pressing a button in the <em><span class='_paradigm'>RADs!</span> mobile app</em>. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
    <li  style="text-indent:0;">At the end of the cycle, the number of <span class="_paradigm">RAD</span>s are calculated from recognized contributioms.</li>
+   <li  style="text-indent:0;">For transparency sake, all these transactions are posted to a public Dashboard.</li>
   </ul>
  
  <h1>Radical Distributions Are Scalable</h1>
