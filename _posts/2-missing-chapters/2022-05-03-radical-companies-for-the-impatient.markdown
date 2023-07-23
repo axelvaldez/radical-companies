@@ -181,7 +181,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
      </tr>
     </table>
    </div>
-  <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better (&ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it&rdquo;<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a>). They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
+  <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better. To quote author James Ownen, &ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it.&rdquo; They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
 
 <h1>Distributions Include Banners</h1>
   <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they, too, be supported with <span class="_paradigm">Banner</span>s</p>
@@ -383,12 +383,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <li id="en06">
    <a href="https://en.wikipedia.org/wiki/Philip_Rosedale" target="_blank">Philip Rosedale</a> introduced the tool in 2005 when Linden Labs had about 50 employees.
    <a href="#bm06"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
-  </li>
-  <li id="en07">
-   James Owen.
-   <a href="https://www.goodreads.com/quotes/1279415-it-ain-t-bragging-if-you-ve-done-it-there-s-nothing-wrong" target="_blank">Drawing Out the Dragons: A Meditation on Art, Destiny, and the Power of Choice</a> (alt., <a href="https://diigo.com/0ofgkz" target="_blank">here</a>).
-   2014.
-   <a href="#bm07"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ul>
 h2table
