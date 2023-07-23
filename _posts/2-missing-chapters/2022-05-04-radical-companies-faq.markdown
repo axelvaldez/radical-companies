@@ -40,10 +40,9 @@ image:    "icon-radical-companies-faq.svg"
 </ul>
 
 <h2>Who&rsquo;s looking out for the business?</h2>
- <p>The allocation of <span class='_paradigm'>RAD</span>s is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.
- </p>
- <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. <span class='_paradigm'>Radical</span> Distributions are not a replacement for these difficult decisions and hard conversations.
- </p>
+ <p>The allocation of <span class='_paradigm'>RAD</span>s is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.</p>
+ <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices will be raised. <span class='_paradigm'>RAD</span>s are not a replacement for difficult decisions and hard conversations.</p>
+ <p>As far as the company&rsquo;s strategy, maybe everybody gets involved is coming up with it. It small companies that is the way it goes anyway. In a larger company, a few people may prove better at stratey and they can lead it. No matter, other co-owners can always bring their opinions or data to bear.</p>
 
 <h2>Stock shares don&rsquo;t count? really?</h2>
  <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a <span class='_paradigm'>Radical</span> company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the <span class='_paradigm'>RAD</span>s.</p>
