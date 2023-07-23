@@ -254,7 +254,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </li>
   </ul>
 
-<h1>Making Recurring Takehome Pay Predictable</h1>
+<h1>Predictable Takehome Pay</h1>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
  <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">Radical</span> context.</p>
  <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
