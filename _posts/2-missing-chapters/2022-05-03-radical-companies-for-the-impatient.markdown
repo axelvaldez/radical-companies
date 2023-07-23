@@ -88,7 +88,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>Instead of cash or stocks, <span class="_paradigm">Radical Distribution</span> uses a dimensionless unit we call a <span class="_paradigm">RAD</span>,</p>
   <ul>
    <li>Whereas money has a <em>fixed</em> value, RADs <em>factor</em> value through them.</li>
-   <l>Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</span>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</li>
+   <li>Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</span>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</li>
   </ul>
  <p>RADs represent any kind of contribution (<em>i.e.,</em> not just financial). In fact, as an accounting tool, <span class="_paradigm">RAD</span>s account for the unaccountable.</p>
  <p>Co-owners then get to distribute <span class='_paradigm'>RAD</span>s according to their individual judgment. Each decides what is an <em>equitable</em> number of <span class="_paradigm">RAD</span>s to give to other co-owners as recognition for their contributions. The value of the whole emerges from the judgment of the many.</p> 
