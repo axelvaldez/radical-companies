@@ -17,7 +17,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h2>Does a company need to be co-owned to be <span class='_paradigm'>Radical</span>?</h2>
  <p>Yes, it has to be co-owned <em>and</em> co-managed.</p>
- <p>The owner is the ultimate boss and self-management is at the mercy of a benevolent owner. On the other hand, when everybody in the company is a co-owner of it then co-management can happen unobstructed.</p>
+ <p>The owner is the ultimate boss and self-management, by itself, is at the mercy of a benevolent owner. On the other hand, when everybody in the company is a co-owner of it then co-management can happen unobstructed.</p>
  <p>In  companies the Board is the owner. In theory, it has to keep its hands out of operations, but it can replace the CEO, the ultimate operations boss, at its whim, by fiat. If the CEO was the benevolent type that allowed self-management to happen, then self-management goes out the door with him.</p>
  <p>By the same token, co-management is required for &ldquo;ownership&rdquo; not to become corrupted. For example, when John Spedan Lewis created the John Lewis Partnership in 1929 he left in place a  hierarchy in place and invariably the managers always take control of it. These companies are very generous compared to their competitors, and people vote on a bunch of things, but what&rsquo;s left of worker ownership is cosmetic at best.</p>
 
