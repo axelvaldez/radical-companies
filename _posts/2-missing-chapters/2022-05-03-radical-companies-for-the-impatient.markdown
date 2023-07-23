@@ -309,13 +309,13 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>Below there are three sample scenarios for how Earned Dividends are calculated,</p>
   <ul>
    <li>
-    <p style="text-indent:0;">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s <span class="_paradigm">PRI</span>s in full and the difference has to come out of the <em><span class="_paradigm">PRI</span> Account</em>s.</p>
+    <p style="text-indent:0;">Below breakeven: When we as a company don&rsquo;t generate enough Dividends to cover everybody&rsquo;s <span class="_paradigm">PRI</span>s the difference to make up the PRI amount comes out of the <span class="_paradigm">PRI Fund</span>s.</p>
    </li>
    <li>
-    <p style="text-indent:0;">At breakeven: When we make enough to at least pay everybody&rsquo;s <span class="_paradigm">PRI</span>.</p>
+    <p style="text-indent:0;">At breakeven: When we as a company make enough to at least pay everybody&rsquo;s their <span class="_paradigm">PRI</span> amount.</p>
    </li>
    <li>
-    <p style="text-indent:0;">Above breakeven: When we as a company can pay everybody&rsquo;s <span class="_paradigm">PRI</span> <em>and</em> disburse Earned Dividends.</p>
+    <p style="text-indent:0;">Above breakeven: When we as a company can pay everybody&rsquo;s their <span class="_paradigm">PRI</span> amount, the what&rsquo;s left is disbursed as Earned Dividends according the <span class=''>RAD</span>s each co-owner has.</p>
    </li>
   </ul>
  <p>This first scenario is what normally happens at the start of a company: it doesn&rsquo;t generate enough revenue to cover everybody&rsquo;s <span class="_paradigm">PRI</span>. In this case, we would need a cash infusion to the <em><span class="_paradigm">PRI</span> Account</em> so we can use it to meet the amount of <span class="_paradigm">PRI</span> each person has set.</p>
