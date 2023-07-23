@@ -98,11 +98,12 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <li style="text-indent:0;">Each co-owner gets one <span class="_paradigm">RAD</span> per day, even before there is revenue because contributions happen regardless of revenue.</li>
    <li style="text-indent:0;">The giving criteria is completely up to each person, although we can agree to some explicit guiding criteria to start with. Every so often new criteria are fleshed out and harvested to use as guidelines.</li>
    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s represent <em>dynamic</em> ownership. One month you may get a lot of <span class="_paradigm">RAD</span>s, but the next month you may not give me any.</li>
-   <li style="text-indent:0;">There is a <em><span class='_paradigm'>RAD</span>s Mobile App</em> that calculates,</li>
+   <li style="text-indent:0;">There is a <em><span class='_paradigm'>RAD</span>s Mobile App</em> that calculates this,</li>
     <div class='_center'>
      <img
-      src=''
-      width=''>
+      src='/assets/img/pic-recognitions-to-rads-equation.svg'
+      alt='The table has four columns. The first colum is labeled CO-OWNER RECOGNIZES CONTRIBUTIONS, this is the first thing that happens. The second comlum shows INDIVIDUAL RECOGNITIONS divided by TOTAL RECOGNITIONS and the result multiplied by RADS ACCUMULATED IN CYCLE. The third column is labels RADS GIVEN TO CO-ONWERS.'
+      width='80%'>
     </div>
    <li style="text-indent:0;">Your <span class="_paradigm">RAD</span>s accumulate from one cycle to the next. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150.</li>
    <li style="text-indent:0;">Your percentage of the total may go up, down, or stay the same. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000 <span class="_paradigm">RAD</span>s, then I have 10% of the total. If at the next cycle the total goes up to 1,200 <span class="_paradigm">RAD</span>s and I get 50, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%.</li>
