@@ -106,7 +106,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     </div>
    <li style="text-indent:0;">Your <span class="_paradigm">RAD</span>s accumulate from one cycle to the next. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150.</li>
    <li style="text-indent:0;">Your percentage of the total may go up, down, or stay the same. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000 <span class="_paradigm">RAD</span>s, then I have 10% of the total. If at the next cycle the total goes up to 1,200 <span class="_paradigm">RAD</span>s and I get 50, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%.</li>
-   <li style="text-indent:0;">When money, or time, or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each person owns. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me of whatever is being factored through the <span class="_paradigm">RAD</span>s.</li>
+   <li style="text-indent:0;">Money or whatever else is disbursed later, it is done as a function of the number of <span class="_paradigm">RAD</span>s each co-owner has. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me.</li>
   </ul>
  <p>Allocations work like this,</p>
   <ul>
