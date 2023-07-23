@@ -10,7 +10,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>A short walk through co-management and co-ownership, the <span style="font-size: smaller; ">Radical</span> model. A short version of what appears in the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>.</p>
 </div>
 
-<h1>Businesses-as-Dictatorships Hurt Us</h1>
+<h1>Businesses-as-Dictatorships</h1>
  <p>Our changing climate, the gaping wealth gap, discrimination, and exploitation are but a few of the inescapable side-effects of the system we live in. A system that &ldquo;divides, demonizes, and causes us to suspend our instincts toward better.&rdquo; <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> But it has also brought us abundance and we do not want to throw the baby out with the bathwater.</p>
  <p>What is clear is that we need a generative way of relating to one another, a different paradigm, a different model. And businesses are the place to start, transformed into companies-as-incubators for what comes next.</p>
  <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
