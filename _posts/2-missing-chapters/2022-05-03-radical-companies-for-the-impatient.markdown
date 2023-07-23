@@ -16,7 +16,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>Nature follows a simple path to create big beautiful things out of small, unpretentious ones. From a tiny seed to a mighty oak tree. We don&rsquo;t think that a long list of color scales or a 17-page constitution are necessary, or even helpful, to make a fundamental change. Eventually, these can become dogma, a form of force, and sabotage our progress. With that in mind, we came up with what we think is the simplest, most basic foundation to support our coming together to share work and wealth.</p>
 
 <h1>Company Foundation</h1>
-  <p>In <span class="_paradigm">Radical</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
+  <p>In <span class="_paradigm">Radical</span> speak, a company is what we call a group of people who come together to build something bigger than themselves. The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together. We distiguish companies from businesses whose some purpose is to make money for the owners.</p>
   <p>Every company is different because the people who embody it are different, and this means that every company must find its own way. What fundamentally makes a <span class="_paradigm">Radical</span> company different from a <span class="_paradigm">Fiat</span> business is that it has a Foundation,</p>
    <div class="_center">
     <table class="_h2table">
