@@ -216,14 +216,14 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <th>Experimental Projects</th>
        <td>
         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">Fiat</span> owners, but the same owners later took it away.</p>
-        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate RADs to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
+        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate the yield of their <span class='_paradigm'>RAD</span>s to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
        </td>
       </tr>
       <tr>
        <th>Investments</th>
        <td>
         <p style="margin-bottom:3px;  margin-left;0;">In <span class="_paradigm">Fiat</span> businesses the owners can decide whether or not to, say, purchase a new office building. Maybe it is done as a wise investment, or maybe it has to do with ego and fear, like a pharaoh&rsquo;s pyramid.</p>
-        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">Radical</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span>s for co-owners to contribute to the funding of it or not.</p>
+        <p style="margin-bottom:6px; margin-left;0; ">In a <span class="_paradigm">Radical</span> company, anybody can put up a &ldquo;New building&rdquo; <span class="_paradigm">Banner</span> for co-owners to contribute to the funding of it or not.</p>
        </td>
       </tr>
      </tbody>
@@ -265,7 +265,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>Predictable Takehome Pay</h1>
  <p>That earned amount is split between Dividends and a <em>Predictable Recurring Income</em> (PRI) component.</p>
- <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">Radical</span> context.</p>
+ <p>When you really think about it, &ldquo;salary&rdquo; is a <span class="_paradigm">Fiat</span> tool. Employees get a more or less predictable wage in exchange for doing as the boss says. Salaries, such as they are today, do not quite fit in the <span class="_paradigm">Radical</span> context, but people have bills to pay.</p>
  <p>The <span class="_paradigm">PRI</span> is what every co-owner takes home every period (<em>e.g.</em>, biweekly, monthly),</p>
   <ul>
    <li>
