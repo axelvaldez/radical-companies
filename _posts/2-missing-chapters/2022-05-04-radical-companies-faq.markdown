@@ -11,7 +11,7 @@ image:    "icon-radical-companies-faq.svg"
 </div>
 
 <h1>Intro</h1>
- <p>These questions come from readers of the <a href="https://radicalcompanies.com" target="_blank">RADICAL COMPANIES: Without Bosses or Employees</a> book and posts on the Radical Companies site.</p>
+ <p>These questions come from readers of the <a href="https://radicalcompanies.com" target="_blank">RADICAL COMPANIES: Without Bosses or Employees</a> book and posts on the Radical Companies site.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">Co-Ownership</h1>
 
@@ -292,5 +292,16 @@ image:    "icon-radical-companies-faq.svg"
 <h2 style="font-size:30px; font-family:Courier New, monospace;  ">So what if the boss&rsquo; project gets more resources? How many super successful projects and strategies would have never seen the light of day if it weren&rsquo;t for the founders?</h2>
  <p>In a  organization, the boss (and his proxies) decide who gets how much for which project and which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative and whitepapers will be written about it. If it doesn't turn out, then nobody will talk about it.</p>
  <p>In a <span class='_paradigm'>Radical</span> company, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.</p>
+
+<h1 class='_section'>ENDNOTES</h1>
+ <ul>
+  <li id='en01'>
+   <p class='_list-item'>
+    <em>Radical Companies Blog</em>.
+    &lt;<a href='https://radicalcompanies.com/blog/' target='_blank'>https://radicalcompanies.com/blog/</a>&gt;
+    <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
+   </p>
+  </li>
+ </ul>
 
 {% include related.html %}
