@@ -29,8 +29,8 @@ image:    "icon-radical-companies-faq.svg"
 </ul>
  <p>Stock is not at work in <span class='_paradigm'>Radical</span> companies. If your company has been incorporated to have stock, then re-incorporate it not have stock. For example, in California Unincorporate Associations don&rsquo;t have stock.</p>
 
-<h2>What does it mean that RADs are &ldquo;dynamic?&rdquo;</h2>
- <p>It means that the total amount of generated <span class='_paradigm'>RAD</span>s (denominator) grows regularly and the total number of <span class='_paradigm'>RAD</span>s allocated to a co-owner (numerator) changes regularly.</p>
+<h2>What does it mean that RADs are <em>dynamic</em>?</h2>
+ <p>It means that the total amount of generated <span class='_paradigm'>RAD</span>s (denominator) changes regularly and the total number of <span class='_paradigm'>RAD</span>s allocated to a co-owner (numerator) changes regularly.</p>
  <p>For example,</p>
  <ul>
   <li>Last month, six of us had 1,800 <span class='_paradigm'>RAD</span>s in total to distribute among ourselves.</li>
