@@ -97,7 +97,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>This is <em>not</em> to say that a <span class='_paradigm'>Radical</span> investment is less risky than the traditional capital investment. But everyone in the company, and not just a select few, is committed to the company&rsquo;s success.</p>
 
 <h2>Do I have to say no to investors?</h2>
- <p>As a class, VC investors won&rsquo;t understand any of this. They&rsquo;ll think it is nuts and walk away from this before you get a chance to say no.</p>
+ <p>As a class, VC investors won&rsquo;t understand any of this. They&rsquo;ll think it is nuts and walk away before you get a chance to say no.</p>
  <p>However, if you need a capital infusion, then find an investor that agrees to 1) give you the cash infusion you need, 2) in exchange for a promise to pay back the original investment plus a return. For example, you may get a $500K cash infusion in exchange for a promissory note to pay back $1.5M in three years.</p>
 
 <h2>What happens if the company gets acquired?</h2>
