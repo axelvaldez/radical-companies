@@ -11,7 +11,7 @@ image:    "icon-gov.svg"
 </div>
 
 <h1>Introduction</h1>
- <p>In the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">Radical</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
+ <p>In the book <em>RADICAL COMPANIES: Without Bosses or Employees</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">Radical</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
  <p>Later, in <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world.In <span class="_paradigm">rLand</span>, I wrote down my thoughts on how land would be handled in a <span class="_paradigm">Radical</span> world.</p>
  <p>In this document I finally get to lay down my thoughts about national governments.</p>
 
