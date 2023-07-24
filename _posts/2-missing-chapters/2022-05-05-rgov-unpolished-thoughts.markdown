@@ -79,14 +79,13 @@ image:    "icon-gov.svg"
     </div>
 
 <h1>County Government</h1>
- <p>These take care of school districts independent of cities. They also handle many city-like functions for unincorporated areas.</p>
+ <p>These take care of &ldquo;city&rdquo; services for unincorporated areas.</p>
 
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution, the State police, and its National Guard.</p>
  <p>Whatever we said about police, above, applies to the State police and National Guard.</p>
- <h2>Water: Urban vs Farm</h2>
-  <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise, either where nobody outright wins or the winner is obfuscated. That&rsquo;s the FIAT way.</p>
-  <p>I haven&rsquo;t thought about what this would look like under a <span class="_paradigm">Radical</span> model.</p>
+ <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise, either where nobody outright wins or the winner is obfuscated. That&rsquo;s the FIAT way.</p>
+ <p>I haven&rsquo;t thought about what this would look like under a <span class="_paradigm">Radical</span> model.</p>
 
 <h1>National Government</h1>
  <p>I don&rsquo;t see any use for national governments, long term.</p>
