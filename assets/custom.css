@@ -331,6 +331,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 span._paradigm {
   font-family:Helvetica, sans-serif;
   font-size:11pt;
+  font-size:10pt;
+  font-size:9pt;
 }
 ._underDev {
   font-weight:bold;
