@@ -270,17 +270,18 @@ image:    "icon-radical-companies-faq.svg"
  <p>In the extreme case of, say, a fire there is no discussion to be had and whoever is close to an escape will lead others through it. No need to wait for the boss to figure things out.</p>
 
 <h2>Where does the evidence for better financial growth for <span class='_paradigm'>Radical</span> companies come from?</h2>
- <p>There is no &ldquo;evidence&rdquo; because there are almost no <span class='_paradigm'>Radical</span> companies around. In the US we&rsquo;ve identified only one, W L Gore.</p>
- <p>We can extrapolate from the financial performance of businesses which practice self-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict  businesses.</p>
+ <p>There is no &ldquo;evidence&rdquo; because there are no <span class='_paradigm'>Radical</span> companies around. In the US we&rsquo;ve identified only one that comes close, W L Gore.</p>
+ <p>We can extrapolate from the financial performance of businesses which practice co-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict  businesses. Imagine where they could go with co-ownership.</p>
 
-<h2>Is the <span class='_paradigm'>Radical</span> approach not risking slowly killing innovation and progressive ideas?</h2>
- <p>Quite the opposite.  companies put up a lot of barriers to any innovative and progressive proposal that doesn&rsquo;t come from the boss or from those handpicked by the boss.</p>
- <p>Decentralization means that ideas can come from anybody in the company. Funding the implementation of those ideas is up to the co-owners which may or not support it.</p>
- <p>Over time, each company will learn which ideas are more aligned with their impact and which are too far out.</p>
+<h2>Is the <span class='_paradigm'>Radical</span> approach risak slowly killing innovation and progressive ideas?</h2>
+ <p>Quite the opposite. Businesses put up a lot of barriers to any innovative and progressive proposal that doesn&rsquo;t come from the boss or his circle.</p>
+ <p>Decentralization means that ideas can come from anybody in the company. Funding the implementation of those ideas is up to the co-owners which may support it.</p>
+ <p>Over time, each company will learn which ideas are more aligned with their <span class='_paradigm'>Impact</span> and which are not.</p>
 
-<h2>So what if the boss&rsquo; project gets more resources? How many super successful projects and strategies would have never seen the light of day if it weren&rsquo;t for the founders?</h2>
- <p>In a  organization, the boss (and his proxies) decide who gets how much for which project and which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative and whitepapers will be written about it. If it doesn't turn out, then nobody will talk about it.</p>
- <p>In a <span class='_paradigm'>Radical</span> company, everybody has the opportunity to ask the other co-owners to invest in their project. That opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will pull the red flag. If it looks like it's going to work, the co-owners working on it will probably push a bit harder to get out the door sooner because they know that it is not just good ideas, but good ideas that make it to market.</p>
+<h2>How many super successful projects and strategies would have never seen the light of day if it weren&rsquo;t for the founders?</h2>
+ <p>In a  organization, the boss, and his circle, decide who gets how much for which project. A few decide which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative. Whitepapers will be written about it.</p>
+ <p>If it doesn&rsquo;t turn out, then nobody will talk about it.</p>
+ <p>In a <span class='_paradigm'>Radical</span>-based company, everybody has the opportunity to put a <span class='_paradigm'>Banner</span> and to allow other co-owners to invest in their project. This opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will talk to you. If it looks like it is going to work, the co-owners working on it will probably push a bit harder to get it out the door sooner.</p>
 
 <h1 class='_section'>ENDNOTES</h1>
  <ul>
