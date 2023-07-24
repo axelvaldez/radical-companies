@@ -121,8 +121,8 @@ image:    "icon-radical-companies-faq.svg"
  <p>In a decentralized world, co-owners will deal with problems <em>before</em> they become a problem. They become a problem today because a handful of people can decide to ignore &ldquo;externalities&rdquo; for the sake of financial gain.</p>
 
 <h2>Aren&rsquo;t the liquidity suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
- <p>We never said anything about taxes, law, or anything else we don&rsquo;t know much about. These are suggestions, thought experiments to point to how things could possibly work.</p>
- <p>Maybe it is not so much that these ideas are impractical, as it is that they are different and unfamiliar.</p>
+ <p>We never said anything about taxes and laws because we don&rsquo;t know much about them.</p>
+ <p>We have been accused of being impractical, but it is not so much that as these ideas are different and unfamiliar.</p>
 
 <h1 class="_section">Co-Management</h1>
 
