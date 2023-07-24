@@ -140,22 +140,6 @@ image:    "icon-radical-companies-faq.svg"
 <h2>Does a company need to be co-managed to <span class='_paradigm'>Radical</span>?</h2>
  <p>Co-management is very basic to the <span class='_paradigm'>Radical</span> approach. People have to make their own decision without being afraid of losing their livelihood.</p>
 
-<h2>Why would I want my business to become a Radical Company?</h2>
- <p>You organize as a <span class='_paradigm'>Radical</span> company because,</p>
- <ul>
-  <li>You want a better quality of life for yourself and those around you.</li>
-  <li>You want the company to outlast you.</li>
-  <li>You want the company to grow.</li>
-  <li>You want everybody to financially benefit from the wealth the company creates.</li>
-  <li>You want to take more chances while minimizing the risk of doing so.</li>
-  <li>How do I become a <span class='_paradigm'>Radical</span> Company?</li>
- </ul>
- <p>By committing to transforming to the <span class='_paradigm'>Radical</span> paradigm. In the words of the all-wise Yoda, &ldquo;try not, do.&rdquo;</p>
- <p>If you are the owner, it&rsquo;s easiest to get started but making it happen will still take a lot of work.</p>
- <p>If you are the boss, it&rsquo;s a lot easier but you still have to get the owners in line. Once they are, you have a lot of work ahead of you.</p>
- <p>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction of going <span class='_paradigm'>Radical</span>.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership, but you can take some limited steps in that general direction.</p>
- <p>If you are not an owner or a boss, we don&rsquo;t know how you could proceed, other than to leave and either start your own company or join one that&rsquo;s aligned with where you want to go.</p>
-
 <h2>What do I have to give up?</h2>
  <p>The illusion of control, the fantasy that life is about winning and losing, the competitive silos, the stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate (or be dominated).</p>
  <p>What you get instead is a company that creates more wealth that more people benefit from, a better quality of life for all involved, it&rsquo;s more innovative and less risky, more resilient and scalable, a learning, collaborative culture.</p>
