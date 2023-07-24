@@ -104,8 +104,8 @@ image:    "icon-radical-companies-faq.svg"
  <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that cash you pay off any outstanding debt and distribute the rest according to the <span class='_paradigm'>RAD</span>s that each co-owner has. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the sale amount.</p>
 
 <h2>Is the Radical model really &ldquo;fair?&rdquo; Doesn&rsquo;t it risk becoming a demotivator?</h2>
- <p>Fairness and equality are not the goal at all. Fairness and equality are the children of the <span class='_paradigm'>Fiat</span> mindset.</p>
- <p>Recognizing personal contributions is better done by the people who are close to that effort. One line of code makes everything great for the whole team while another line of code, makes a mess of things. People in the team will readily recognize which is a plus and which is not.</p>
+ <p>Fairness and equality are the children of the <span class='_paradigm'>Fiat</span> mindset.</p>
+ <p>The goal is to recognizing personal contributions. And this is better done by the people who are close to that effort. One line of code makes everything great for the whole team while another line of code, makes a mess of things. People in the team will readily recognize which is a plus and which is not.</p>
  <p>If I think it was great, but I get no <span class='_paradigm'>RAD</span>s, then I call for feedback. If the feedback is not resonating with me, then I leave. The problem today is that people&rsquo;s livelihoods are deeply tied to employment. In the US, your health insurance is tied to your job and if your wife is 7 months pregnant, then you have to bite your lip and stick around for two more months and maybe longer. In other words, the current system is the problem.</p>
  <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier.</p>
 
