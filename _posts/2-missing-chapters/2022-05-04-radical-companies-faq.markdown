@@ -116,13 +116,13 @@ image:    "icon-radical-companies-faq.svg"
  <p>Instead of &ldquo;wages&rdquo; or &ldquo;compensation,&rdquo; we looked at it from the point of view of wealth extraction and things started to fall in place for us. For the people who embody a company, the PRI model described in the book is clearly tied to the contributions everyone makes and the wealth created by it. For an investor, it makes it completely transparent how much goes into financially taking care of people versus other expenses and investments.</p>
  <p>We don&rsquo;t know what the ultimate form of this will be, but we feel strongly that wealth extraction has to be tied to financial performance and contributions.</p>
 
-<h2>So, stock owners don't have any form of control? Look at what&rsquo;s happening in the oil & gas industry. We need responsible stockowners to force companies to change!</h2>
- <p>The existing financial system is broken, yes. What&rsquo;s happening with many businesses, not in oil and gas, is a reflection of that. We don&rsquo;t know how to tweak the current system so it lets us live a bit longer, but more bureaucratic controls are not going to fix it.</p>
+<h2>Investors don&rsquo;t have any form of control?</h2>
+ <p>The existing financial system is broken, and what&rsquo;s happening with many businesses, not in oil and gas, is a reflection of that. We don&rsquo;t know how to tweak the current system so it lets us survive a bit longer, but we know that more bureaucratic controls are not going to fix it.</p>
  <p>In a decentralized world, co-owners will deal with problems <em>before</em> they become a problem. They become a problem today because a handful of people can decide to ignore &ldquo;externalities&rdquo; for the sake of financial gain.</p>
 
 <h2>Aren&rsquo;t the liquidity suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h2>
- <p>We never said anything about taxes, law, or anything else we don&rsquo;t know much about. These are suggestions, thought experiments to point to  how things could possibly work.</p>
- <p>Maybe it is not so much a case that these ideas are impractical, as it is that they are different and unfamiliar.</p>
+ <p>We never said anything about taxes, law, or anything else we don&rsquo;t know much about. These are suggestions, thought experiments to point to how things could possibly work.</p>
+ <p>Maybe it is not so much that these ideas are impractical, as it is that they are different and unfamiliar.</p>
 
 <h1 class="_section">Co-Management</h1>
 
