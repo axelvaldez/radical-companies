@@ -205,7 +205,7 @@ image:    "icon-radical-companies-faq.svg"
 <h1 style="font-sise:smaller; ">Maybe use a less &ldquo;devastating, negative and martial&rdquo; language when talking about businesses?</h1>
  <p>We tried not to make it sound like war, but probably got over-enthusiastic in places.</p>
  <p>At this point there are people who recognize the problem and are looking for ways out of it. They will not feel threatened.</p>
- <p>No language will move people who are squarely committed to the status quo. On the other hand, it will equivocate the fundamental message that the status quo is killing us and we have to find alternatives. <span class='_paradigm'>Radical</span> offers an altenative <span class='_paradigm'>Foundation</span>.</p>
+ <p>No language will move people who are squarely committed to the status quo. On the other hand, we don not want to equivocate the fundamental message that the status quo is killing us and we have to find alternatives. <span class='_paradigm'>Radical</span> offers an altenative <span class='_paradigm'>Foundation</span>.</p>
 
 <h1 style="font-sise:smaller; ">Voting may be a limited way of making decisions, but how can it be overcome, particularly in larger organizations?</h1>
  <p>Every so often we will get a letter from a company asking us to &ldquo;please, vote&rdquo; for a new Board. However, there's usually a given slate of Board candidates already selected and, at best, you can write in a candidate or two. In the end, the system remains and the new Board operates like the old Board. Every few years we get to vote for our &ldquo;leaders&rdquo; in the US. Your vote counts to determine who gets elected, but it doesn&rsquo;t change the system they operate in. This is one problem with voting.</p>
