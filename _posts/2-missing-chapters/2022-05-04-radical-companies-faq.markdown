@@ -46,7 +46,7 @@ image:    "icon-radical-companies-faq.svg"
 <h2>And strategy?</h2>
  <p>As far as the company&rsquo;s strategy, maybe everybody gets involved is coming up with it. It small companies that is the way it goes anyway. In a larger company, a few people may prove better at stratey and they can lead it. No matter, other co-owners can always bring their opinions or data to bear.</p>
 
-<h2>Stock shares don&rsquo;t count? really?</h2>
+<h2>Stock shares don&rsquo;t count? Really?</h2>
  <p>Stock counts when a company is sold, either to another business or to the public market. It is unlikely that a <span class='_paradigm'>Radical</span> company will be sold, but if it is, the total amount of money paid for the company would be distributed according to the distribution of the <span class='_paradigm'>RAD</span>s.</p>
  <p>A <span class='_paradigm'>Radical</span> investment is ruled by a specific contract that stipulates how and how much the investment is to be paid back. This agreement is what rules the investment. If, out of habit, the investors demand &ldquo;stocks!&rdquo; then you can create a separate company and they can hold stock in that company, but with the condition that the stock goes back when the investment is paid according to the terms agreed upon. The parallel company could hold a percentage ownership in the <span class='_paradigm'>Radical</span> company.</p>
  <p>As always, experiment to figure out what works for you.</p>
