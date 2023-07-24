@@ -101,22 +101,13 @@ image:    "icon-radical-companies-faq.svg"
  <p>However, if you need a capital infusion, then find an investor that agrees to 1) give you the cash infusion you need, 2) in exchange for a promise to pay back the original investment plus a return. For example, you may get a $500K cash infusion in exchange for a promissory note to pay back $1.5M in three years.</p>
 
 <h2>What happens if the company gets acquired?</h2>
- <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that you pay off whatever debt you&rsquo;ve accumulated and distribute the rest according to the <span class='_paradigm'>RAD</span>s allocations. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the Distribution amount.</p>
+ <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that cash you pay off any outstanding debt and distribute the rest according to the <span class='_paradigm'>RAD</span>s that each co-owner has. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the sale amount.</p>
 
-<h2>How often do I have to do distributions?</h2>
- <p>Something like this could work,</p>
- <ul>
-   <li>Each person gets one <span class='_paradigm'>RAD</span> every day.</li>
-   <li>Each keeps track of people that she feels should be rewarded with <span class='_paradigm'>RAD</span>s.Throughout the day you flag people who have done something you consider significant. This could simply be a list of people you want to remember at allocation time or actual allocations.</li>
-   <li>The final distribution happens at monthly events where you can adjust your daily allocations if need be.</li>
-</ul>
- <p>One possible way to do this is by creating a Tinder-like mobile app, where you can easily flag people with a gesture. With a right-swipe you could add people to the &ldquo;good&rdquo; list and with a left swipe you could add people to the &ldquo;naughty&rdquo; list. At another time, the app would let you allocate a percentage of your <span class='_paradigm'>RAD</span>s to each person; it may even suggest a distribution based on the number of &ldquo;good&rdquo; and &ldquo;naughty&rdquo; swipes you gave each person. You could also add a note along with the allocation.</p>
-
-<h2>Is the Radical model really &ldquo;fair?&rdquo; Won&rsquo;t so much &ldquo;equality&rdquo; come at the price of individualism? Doesn&rsquo;t it risk becoming a demotivator?</h2>
- <p>Fairness and equality are not the goal at all. Fairness and equality are the children of the monolithic  mindset.</p>
- <p>Recognizing personal effort is better done by the people who are close to that effort. One line of code makes everything great for the whole team. Another line of code, makes a mess of things. But even though I know a few things about software, I CAN'T TELL the difference. However, people in the team readily recognize which is a plus and which is not.</p>
- <p>If I think it was great, but I get no <span class='_paradigm'>RAD</span>s, then I call for feedback. If the feedback is not resonating with me, then I leave. The problem today is that people's livelihoods are deeply tied to employment. In the US, your health insurance is tied to your job and if your wife is 7 months pregnant, then you have to bite your lip and stick around for two more months and maybe longer. In other words, the current system is the problem, not the Distribution.</p>
- <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier. And all kinds of shenanigans will happen along the way, for sure.</p>
+<h2>Is the Radical model really &ldquo;fair?&rdquo; Doesn&rsquo;t it risk becoming a demotivator?</h2>
+ <p>Fairness and equality are not the goal at all. Fairness and equality are the children of the <span class='_paradigm'>Fiat</span> mindset.</p>
+ <p>Recognizing personal contributions is better done by the people who are close to that effort. One line of code makes everything great for the whole team while another line of code, makes a mess of things. People in the team will readily recognize which is a plus and which is not.</p>
+ <p>If I think it was great, but I get no <span class='_paradigm'>RAD</span>s, then I call for feedback. If the feedback is not resonating with me, then I leave. The problem today is that people&rsquo;s livelihoods are deeply tied to employment. In the US, your health insurance is tied to your job and if your wife is 7 months pregnant, then you have to bite your lip and stick around for two more months and maybe longer. In other words, the current system is the problem.</p>
+ <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier.</p>
 
 <h2>Do you know of other models for handling salaries?</h2>
  <p>There are a couple of companies in Argentina and a few in Europe that are experimenting with salaries. Ricardo Semler experimented with self-assigned salaries at SEMCO, in the late 1970s.</p>
