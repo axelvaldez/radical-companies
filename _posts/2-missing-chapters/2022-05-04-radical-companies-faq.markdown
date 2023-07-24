@@ -94,11 +94,11 @@ image:    "icon-radical-companies-faq.svg"
   <li>Co-owners have the wherewithal to come up with solutions or ways around a problem. No energy is wasted into hiding a significant problem.</li>
   <li>There is very little chance of, say, a founder taking the company in the wrong direction for long. In a co-owned company co-owners will notice, voice their concerns, and do something about it.</li>
 </ul>
- <p>This is to say that a <span class='_paradigm'>Radical</span> investment is less risky than the traditional capital investment. But everyone in the company, and not just a select few, is committed to the company&rsquo;s success.</p>
+ <p>This is <em>not</em> to say that a <span class='_paradigm'>Radical</span> investment is less risky than the traditional capital investment. But everyone in the company, and not just a select few, is committed to the company&rsquo;s success.</p>
 
-<h2>So, do I have to say no to investors?</h2>
- <p>VC investors won&rsquo;t understand any of this. They&rsquo;ll think it is nuts and walk away from this before  you get a chance to say no.</p>
- <p>However, if you need a capital infusion, then find an investor that agrees to 1) give the money, 2) in exchange for a promise to pay back a multiple of the original investment. For example, you may get a $500K cash infusion in exchange for a promissory note to pay back $1.5M in three years.</p>
+<h2>Do I have to say no to investors?</h2>
+ <p>As a class, VC investors won&rsquo;t understand any of this. They&rsquo;ll think it is nuts and walk away from this before you get a chance to say no.</p>
+ <p>However, if you need a capital infusion, then find an investor that agrees to 1) give you the cash infusion you need, 2) in exchange for a promise to pay back the original investment plus a return. For example, you may get a $500K cash infusion in exchange for a promissory note to pay back $1.5M in three years.</p>
 
 <h2>What happens if the company gets acquired?</h2>
  <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that you pay off whatever debt you&rsquo;ve accumulated and distribute the rest according to the <span class='_paradigm'>RAD</span>s allocations. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the Distribution amount.</p>
