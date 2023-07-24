@@ -330,6 +330,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 span._paradigm {
   font-family:Arial, Helvetica, sans-serif;
+  font-size:smaller;
 }
 ._underDev {
   font-weight:bold;
