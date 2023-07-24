@@ -144,23 +144,23 @@ image:    "icon-radical-companies-faq.svg"
  <p>The illusion of control, the myth that life is nothinh but winning and losing, competitive silos, stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate.</p>
  <p>What you get instead is a company that creates more wealth, for more people, a better quality of life for all, more innovation, less risky, more resilient and scalable, and a learning, collaborative culture. At least.</p>
 
-<h2>If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
- <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we&rsquo;ve had an example of the latter recently (<em>ca.</em>, 2021), witness Basecamp.</p>
- <p>Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Heinemeier Hansson, believe strongly in the capability of people to self-manage – Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything that the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
- <p>BTW, this overnight change of heart was, at least, more open (<em>i.e.</em>, Fried posted the letter publicly). When benevolent owners backtrack little by little, it most often goes unnoticed.</p>
+<h2>If the benevolent owner are fairly young, self-management is not a big risk, right?</h2>
+ <p>The age of the owner is not a factor. The business is ready to be sold. The owner can change his mind on any issue at any momeny.</p>
+ <p>Take Basecamp. Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Heinemeier Hansson, believe strongly in the capability of people to self-manage&mdash;Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything what the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
+ <p>In the case of Basecamp, this change of heart played out in the open (<em>i.e.</em>, Fried posted the letter publicly). Most often, benevolent owners backtrack little by little hoping to go unnoticed.</p>
 
-<h2>Core Design Principle &ldquo;nested enterprises,&rdquo; is questionable. Wouldn&rsquo;t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
+<h2>Ostrom&rsquo;s Core Design Principle &ldquo;Nested Enterprises,&rdquo; is questionable. Wouldn&rsquo;t bad behavior of one group always be sanctioned within a bigger ecosystem?</h2>
  <p>This stuff about &ldquo;sanctioning bad behavior&rdquo; only makes sense if the whole ecosystem is corrupt. This is very likely the case in a  business. But in a <span class='_paradigm'>Radical</span> company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.</p>
  <p>In any case, this is not about &ldquo;sanctioning.&rdquo; It is about applying the same Core Design Principle to any interactions with other groups within the same organization managing a Common Pool Resource,</p>
 
-<h2>Boundaries of users and resource are clear</h2>
- <ul>
-  <li>Congruence between benefits and costs</li>
-  <li>Users had procedures for making own rules</li>
-  <li>Regular monitoring of users and resource condition</li>
-  <li>Graduated sanctions</li>
-  <li>Conflict resolution mechanism</li>
-</ul>
+<h2>Can you say more about the boundaries of users and resource?</h2>
+  <ul>
+   <li>Congruence between benefits and costs</li>
+   <li>Users had procedures for making own rules</li>
+   <li>Regular monitoring of users and resource condition</li>
+   <li>Graduated sanctions</li>
+   <li>Conflict resolution mechanism</li>
+  </ul>
  <p>For more information, see the <em>Ostrom&rsquo;s Core Design Principles</em> book appendix.</p>
 
 <h1 class="_section">General</h1>
