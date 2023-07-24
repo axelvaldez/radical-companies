@@ -80,7 +80,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>ESOP may have been well intended originally in terms of spreading the wealth, but they have become a windfall for onwers. They still put a few more dollars into people&rsquo;s pockets, but that is about it. They are no co-owners and they are not co-managers. They are not even involved in making any of the important decisions that affect them.</p>
  <p>They are many ways to game ESOPs and the specialized accountants and lawyers can help you with that if that is what you are interested in. It is not co-ownership, it is not co-management, and it is definitely yet-another <span class='_paradigm'>Fiat</span> tool.</p>
 
-<h2>How does Radical works with companies that need investment capital?</h2>
+<h2>How does Radical work for companies that need investment capital?</h2>
  <p>One thing that is clear is that financial transactions should <em>not</em> be mixed in with governance.</p>
  <p>A <span class='_paradigm'>Radical</span> investment is much like any other investment: the company gets a cash infusion. The significant difference is that a <span class='_paradigm'>Radical</span> investment is a purely financial transaction and assigns no other powers to the investor.</p>
  <p>The investment terms will include a timeframe and amount for repayment. This could be something like, <span class='_quotespan'>we will pay back three times the principal in three years hence,</span> or <span class='_quotespan'>we will pay back four times the principal amount in two years starting three years from now,</span> or even <span class='_quotespan'>we will pay back three times the principal if we reach X level of revenue, five times if we get to Y level of revenue, and ten times if our revenue grows beyond Z.</span></p>
