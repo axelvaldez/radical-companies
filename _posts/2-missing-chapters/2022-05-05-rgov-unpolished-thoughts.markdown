@@ -7,16 +7,17 @@ image:    "icon-gov.svg"
 ---
 
 <div style="display: none;">
- <p>Unpolished thoughts about national governments in a <span class="_paradigm">Radical</span> world.</p>
+ <p>Thoughts about national governments in a <span class="_paradigm">Radical</span>-based world.</p>
 </div>
 
 <h1>Introduction</h1>
- <p>In the book RADICAL COMPANIES: Without Bosses or Employees,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">Radical</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
- <p>In <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <span class="_paradigm">rLand</span>, I put down my thoughts on how land would be handled in a <span class="_paradigm">Radical</span> world. In this document I finally get to lay down some my thoughts, albeit unpolished, about government.</p>
+ <p>In the book <em>RADICAL COMPANIES: Without Bosses or Employees</em>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">Radical</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
+ <p>Later, in <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world.In <span class="_paradigm">rLand</span>, I wrote down my thoughts on how land would be handled in a <span class="_paradigm">Radical</span> world.</p>
+ <p>In this document I finally get to lay down my thoughts about national governments.</p>
 
 <h1>Very Different</h1>
- <p>National governments are the ultimate centralized power. Dictatorships are the most centralized, and democratic governments the least, but they all centralize power. They have a monopoly on force. The US national government run the military, state governments and cities run police forces, and then there is Reserves.</p>
- <p>In the <span class="_paradigm">Radical</span> model, governments would not be able to collect taxes since the moral equivalent of land taxes go directly into local community funds and only a trickle of it goes to more centralized centers of power.</p>
+ <p>National governments are the ultimate centralized power. Dictatorships are the most centralized, and democratic governments the least, but they all centralize power. Particularly, they have a monopoly on force. The US national government runs the military and state governments and cities run police forces.</p>
+ <p>In the <span class="_paradigm">Radical</span> model, governments would not be collect taxes since the moral equivalent of land taxes go directly into local community funds and only a trickle of it goes to more centralized centers of power.</p>
  <p>In any case, in the <span class="_paradigm">Radical</span> model society&rsquo;s governance would be decentralized and not like today. <span class="_paradigm">Radical</span> governance will be not based competition as it is in the <span class="_paradigm">Fiat</span> system.</p>
 
 <h1>City Government</h1>
