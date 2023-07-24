@@ -127,21 +127,18 @@ image:    "icon-radical-companies-faq.svg"
 <h1 class="_section">Co-Management</h1>
 
 <h2>What about titles?</h2>
- <p>In a co-managed company there is no  businesses, these titles don&rsquo;t mean anything inside a co-managed company.</p>
- <p>There are still roles that people perform, functions that have to be done, and specific skill sets that people have. But there are no entitled bosses &ldquo;in charge&rdquo; of silos. People work together in teams (fluid) but there are no departments (static).</p>
+ <p>In a co-managed company there are no  titles.</p>
+ <p>People perform functions that have to be done according to the skills people have. People work together in teams (fluid) but there are no departments (static).</p>
 
 <h2>How would this work with our Purpose?</h2>
- <p>Purpose is a component of an explicit alignment. It should be considered when allocating <span class='_paradigm'>RAD</span>s.</p>
- <p>On the other hand, each individual gets to decide how to distribute his <span class='_paradigm'>RAD</span>s and nobody else has the right to question their decisions (although social pressure is hard to ignore and harder to resist).</p>
+ <p>In general, we don&rsquo;t know what Purpose is. To us it is the <em>why</em> component of an <span class='_paradigm'>Explicit Alignment.</span> We want to make newcomers aware of what our <em>why</em> is so they can decide if they still want to join us.</p>
 
 <h2>How would this work with our Circle framework?</h2>
- <p>&ldquo;Circles&rdquo; come in two flavors, non-hierarchical and hierarchical.</p>
- <p>Non-hierarchical groups of people come together and dissolve as needed. Whether or not they are called &ldquo;circles,&rdquo; their scope is limited to the task at hand.</p>
- <p>Hierarchical &ldquo;circles,&rdquo; on the other hand, are just another form of  hierarchy and as such they are inimical to co-management and co-ownership.</p>
+ <p>&ldquo;Circles&rdquo; is a practice that can work for you. Non-hierarchical circles come together and dissolve, as needed; their scope is limited to the task at hand.</p>
+ <p>If by &ldquo;circles&rdquo; you mean yet-another-hierarchy that are inimical to co-management and co-ownership.</p>
 
 <h2>Does a company need to be co-managed to <span class='_paradigm'>Radical</span>?</h2>
- <p>A  hierarchy and a very extensive constitution to prevent managers from taking over the control of the company, but eventually they did. Other Europeans companies have tried a similar approach and invariably the managers took it over. They are still financially very generous companies compared to their competitors but what&rsquo;s left of worker control is cosmetic.</p>
- <p>So, yes, to be <span class='_paradigm'>Radical</span> a company has to be co-managed.</p>
+ <p>Co-management is very basic to the <span class='_paradigm'>Radical</span> approach. People have to make their own decision without being afraid of losing their livelihood.</p>
 
 <h2>Why would I want my business to become a Radical Company?</h2>
  <p>You organize as a <span class='_paradigm'>Radical</span> company because,</p>
