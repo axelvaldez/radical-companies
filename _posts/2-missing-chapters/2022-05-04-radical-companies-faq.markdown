@@ -67,10 +67,12 @@ image:    "icon-radical-companies-faq.svg"
 
 <h2>How do I become a <span class='_paradigm'>Radical</span> Company?</h2>
  <p>By committing to transforming to the <span class='_paradigm'>Radical</span> paradigm.</p>
- <p>If you are the owner, it&rsquo;s easiest to get started, but making it happen will still take a lot of work.</p>
- <p>If you are the top boss, it&rsquo;s a lot easier but you still have to get the owners in line. Once they are, you have a lot of work ahead of you.</p>
- <p>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction by using <span class='_paradigm'>RAD</span>s.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership.</p>
- <p>If you are not an owner or a boss, to leave and either start your own company or join one that&rsquo;s aligned with where you want to go.</p>
+  <ul>
+   <li>If you are the owner, it&rsquo;s easiest to get started, but making it happen will still take a lot of work.</li>
+   <li>If you are the top boss, it&rsquo;s a lot easier but you still have to get the owners in line. Once they are, you have a lot of work ahead of you.</li>
+   <li>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction by using <span class='_paradigm'>RAD</span>s.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership.</li>
+   <li>If you are not an owner or a boss, to leave and either start your own company or join one that&rsquo;s aligned with where you want to go.</li>
+  </ul>
 
 <h2>Can we take advantage of ESOPs?</h2>
  <p>One thing you can do with stock is to have it be owned by an Employee Stock Ownership Plan (ESOP) Trust. According to US legislation, ESOPs don&rsquo;t pay taxes on revenue. If you want to know more about this, consult a lawyer.</p>
