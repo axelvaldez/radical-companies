@@ -71,7 +71,7 @@ image:    "icon-radical-companies-faq.svg"
    <li>If you are the owner, it&rsquo;s easiest to get started, but making it happen will still take a lot of work.</li>
    <li>If you are the top boss, it&rsquo;s a lot easier but you still have to get the owners in line. Once they are, you have a lot of work ahead of you.</li>
    <li>If you are a lesser boss, you can get &ldquo;your&rdquo; team going in the general direction by using <span class='_paradigm'>RAD</span>s.  It will be easier to move towards co-management (because you are a boss), but more difficult to move fully into co-ownership.</li>
-   <li>If you are not an owner or a boss, to leave and either start your own company or join one that&rsquo;s aligned with where you want to go.</li>
+   <li>If you are not an owner or a boss, leave and either start your own company or join one that&rsquo;s aligned with where you want to go.</li>
   </ul>
 
 <h2>Can we take advantage of ESOPs?</h2>
