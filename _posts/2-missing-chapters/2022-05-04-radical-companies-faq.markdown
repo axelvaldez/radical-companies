@@ -203,7 +203,8 @@ image:    "icon-radical-companies-faq.svg"
  <p>We are financially dependent on our jobs. And we live in fear of falling into destitution if we step outside the box.</p>
 
 <h1 style="font-sise:smaller; ">Maybe use a less &ldquo;devastating, negative and martial&rdquo; language when talking about businesses?</h1>
- <p>At this point there are people who recognize the problem and are looking for ways out of it. They will not feel threatened. We tried not to make it sound like war, but probably got over-enthusiastic in places.</p>
+ <p>We tried not to make it sound like war, but probably got over-enthusiastic in places.</p>
+ <p>At this point there are people who recognize the problem and are looking for ways out of it. They will not feel threatened.</p>
  <p>No language will move people who are squarely committed to the status quo. On the other hand, it will equivocate the fundamental message that the status quo is killing us and we have to find alternatives. <span class='_paradigm'>Radical</span> offers an altenative <span class='_paradigm'>Foundation</span>.</p>
  <p>As we mentioned somewhere in the book, for most people who grew up climbing the , but it's not time yet, IMO.</p>
 
