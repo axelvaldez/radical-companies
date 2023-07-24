@@ -87,7 +87,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>A <span class='_paradigm'>Radical</span> investor </em>does not</em> get a percentage of the company or any such. The investor doesn&rsquo;t get a seat on the mythical Board, because there is no permanent Board. She does not get to &ldquo;fire the CEO,&rdquo. She does not get to demand that the company change directions. She does not get to force the company to sell itself.</p>
  <p>We would hope that the investor brings with her something other than money. If that is the case, the investor may be a valuable advisor and mentor and may be invited to discussions where her expertise and informed opinion are key. She may even get <span class='_paradigm'>RAD</span>s for those contributions. But this is all up to the co-owners and not a given part of the investment. Company governance remains with the co-owners, not the financial investors.</p>
 
-<h2>Given the financial risk, then why do <span class='_paradigm'>Radical</span> investments at all?</h2>
+<h2>Given the financial risk, then why accept <span class='_paradigm'>Radical Investments</span> at all?</h2>
  <ul>
   <li>Every co-owner wants their business to succeed and wants any investment to be blow out financial success. Their self-interest is perfectly aligned with the financial investor&rsquo;s interest.</li>
   <li>If problems arise, co-owners will recognize them right away and make them visible to other co-owners and investors. (<em>i.e.</em>, transparency).</li>
