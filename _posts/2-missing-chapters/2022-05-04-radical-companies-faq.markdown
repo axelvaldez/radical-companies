@@ -171,7 +171,24 @@ image:    "icon-radical-companies-faq.svg"
 
 <h2>How do we do this [transformation] even for the people that do not want it or are not ready for it?</h2>
  <p>We cannot &ldquo;do this&rdquo; for anybody. With this book, we are simply trying to make everybody aware of the system we are immersed in: we are making us fish aware that we live in water and how this shapes us. As <span class='_paradigm'>Radical</span> ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.</p>
- <p>Rather than dictate yet-another-structure, we are proposing a few foundational basics,</p>
+ <p>Rather than dictate yet-another overly detailed structure, we are proposing a few foundational basics,</p>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
+<!--
 <table style="margin: auto; ">
   <tr>
    <td colspan="3">
@@ -223,21 +240,18 @@ image:    "icon-radical-companies-faq.svg"
    </td>
   </tr>
 </table>
- <p>These are what we think are the important dimensions by which to view how healthy a community is and how supportive it is for learning and development of its members. You can also look at it as a self-assessment tool that companies can use to figure out what&rsquo;s most important to them and where they want to go. It is also a common language for companies to work with each other. Regardless of what &ldquo;solutions&rdquo; they&rsquo;ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another.</p>
- <p>Without a simple shared language, we can quickly slide down to &ldquo;my X is better than you Y&rdquo; and conversations are not possible.</p>
- <p>Note that this is not a way of ranking one company against another (&ldquo;We are more transparent than you are&rdquo;). But you can use this foundation to measure
-<em>your</em> company&rsquo;s progress over time (&ldquo;We are <em>more</em> transparent this month than last month&rdquo;).</p>
+-->
+ <p>These are what we think are the important dimensions by which to view how healthy a community is and how supportive it is for learning and the development of its members. You can also look at it as a self-assessment tool that companies can use to figure out what is most important to them and where they want to go.</p>
+ <p>It is also meant as a common language for companies to work with each other. Regardless of what &ldquo;solutions&rdquo; they&rsquo;ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another. Without a simple shared language, we can quickly slide down to &ldquo;my X is better than you Y&rdquo; and conversations are not possible.</p>
+ <p>Note that this is not a way of ranking one company against another. But you can use this foundation to measure your company&rsquo;s progress over time</p>
 
-<h2>How can a  company transform to a <span class='_paradigm'>Radical</span> model? It needs first a certain base of trust and experience before such an approach can be successful, no? How can this gap be bridged?</h2>
- <p>K2K Emocionando in Spain has been doing it since 2007, so it is possible.</p>
- <p>First they spend time educating the owners on what to expect, the financial arrangements, etc. Then they spend time with <em>everybody</em> else in the company. Then they put together a proposal based on what they heard. Finally, people (sigh) vote on it. If there&rsquo;s an overwhelming number of YES (not just majority), then they start implementing the transformation. Each is different.</p>
- <p>With K2K&rsquo;s coaching, people talk with others who cannot cannot live with the decision and figure out what to do in each case.</p>
- <p>Bottom line: it is not impossible, but every path there is unique to each particular group of people. It takes at least two years to go through the transformation.</p>
+<h2>How can a  company transform to a <span class='_paradigm'>Radical</span> model?</h2>
+ <p>K2K Emocionando in Spain has been helping companies transform to co-management since 2007. Krisos, also in Spain, is also doing it now. The company I founded, Nearsoft now renamed Encora, was co-managed from the start.</p>
+ <p>We don't know of any business go into co-ownership, so we are doing our own.</p>
 
-<h2>Are we <em>really</em> &ldquo;drowning in scarcity?&rdquo; It seems that it is because
-<em>we are not</em> drowning that we have the luxury to rethink the way we organize companies.</h2>
- <p>It is true that not all of us are drowning in <em>financial</em> scarcity. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don&rsquo;t function as adults.</p>
- <p>We are financially dependent on our jobs and not far away from the risk of destitution if we step outside the box.</p>
+<h2>Are we <em>really</em> &ldquo;drowning in scarcity?&rdquo;>/h2>
+ <p><em>We are not</em> drowning in scarcit. We are drowning in enclosures of abundance. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don&rsquo;t function as adults. We don&rsquo;t live as much as we exist.</p>
+ <p>We are financially dependent on our jobs. And we live in fear of falling into destitution if we step outside the box.</p>
 
 <h2>Maybe use a less &ldquo;devastating, negative and martial&rdquo; language when talking about  companies? Giving the &ldquo;old way of doing it&rdquo; a bit more credit will give the cause more credibility and acceptance as well.</h2>
  <p>At this point there are people who recognize the problem and are looking for ways out of it and will not feel threatened. We tried not to make it sound like war, but probably got over-enthusiastic in places.</p>
