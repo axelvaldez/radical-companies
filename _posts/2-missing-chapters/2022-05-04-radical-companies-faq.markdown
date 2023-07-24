@@ -144,7 +144,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>The illusion of control, the myth that life is nothinh but winning and losing, competitive silos, stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate.</p>
  <p>What you get instead is a company that creates more wealth, for more people, a better quality of life for all, more innovation, less risky, more resilient and scalable, and a learning, collaborative culture. At least.</p>
 
-<h2>If the benevolent owner are fairly young, self-management is not a big risk, right?</h2>
+<h2>If the benevolent owners are fairly young, self-management is not a big risk, right?</h2>
  <p>The age of the owner is not a factor. The business is ready to be sold. The owner can change his mind on any issue at any momeny.</p>
  <p>Take Basecamp. Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Heinemeier Hansson, believe strongly in the capability of people to self-manage&mdash;Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything what the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
  <p>In the case of Basecamp, this change of heart played out in the open (<em>i.e.</em>, Fried posted the letter publicly). Most often, benevolent owners backtrack little by little hoping to go unnoticed.</p>
