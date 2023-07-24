@@ -188,59 +188,6 @@ image:    "icon-radical-companies-faq.svg"
     </tr>
    </table>
   </div>
-<!--
-<table style="margin: auto; ">
-  <tr>
-   <td colspan="3">
-   </td>
-   <td rowspan="2" style="vertical-align: top; "><em>relationships</em>
-   </td>
-  </tr>
-  <tr>
-   <td style="vertical-align: middle; text-align: right; padding-right: 1em; ">principles
-   </td>
-   <td style="background-color: lightgrey; width: 2in; text-align: center; ">
-    <strong>Meaning & Belonging</strong> 
-   </td>
-   <td>⬈
-   </td>
-  </tr>
-  <tr>
-   <td colspan="3">
-   </td>
-   <td rowspan="2" style="vertical-align: top; "><em>autonomy</em>
-   </td>
-  </tr>
-  <tr>
-   <td style="vertical-align: middle; text-align: right; padding-right: 1em; ">commitments
-   </td>
-   <td style="background-color: lightgrey; width: 2in; text-align: center; ">
-    <strong>Transparency & Decentralization</strong>
-   </td>
-   <td>⬈
-   </td>
-  </tr>
-  <tr>
-   <td colspan="3">
-   </td>
-   <td rowspan="2" style="vertical-align: top; "><em>collaboration</em>
-   </td>
-  </tr>
-  <tr>
-   <td style="vertical-align: middle; text-align: right; padding-right: 1em; ">practices
-   </td>
-   <td style="background-color: lightgrey; width: 2in; text-align: center; ">
-    <strong>Alignment & Experimentation</strong>
-   </td>
-   <td>⬈
-   </td>
-  </tr>
-  <tr>
-   <td colspan="4">
-   </td>
-  </tr>
-</table>
--->
  <p>These are what we think are the important dimensions by which to view how healthy a community is and how supportive it is for learning and the development of its members. You can also look at it as a self-assessment tool that companies can use to figure out what is most important to them and where they want to go.</p>
  <p>It is also meant as a common language for companies to work with each other. Regardless of what &ldquo;solutions&rdquo; they&rsquo;ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another. Without a simple shared language, we can quickly slide down to &ldquo;my X is better than you Y&rdquo; and conversations are not possible.</p>
  <p>Note that this is not a way of ranking one company against another. But you can use this foundation to measure your company&rsquo;s progress over time</p>
