@@ -141,8 +141,8 @@ image:    "icon-radical-companies-faq.svg"
  <p>Co-management is very basic to the <span class='_paradigm'>Radical</span> approach. People have to make their own decision without being afraid of losing their livelihood.</p>
 
 <h2>What do I have to give up?</h2>
- <p>The illusion of control, the fantasy that life is about winning and losing, the competitive silos, the stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate (or be dominated).</p>
- <p>What you get instead is a company that creates more wealth that more people benefit from, a better quality of life for all involved, it&rsquo;s more innovative and less risky, more resilient and scalable, a learning, collaborative culture.</p>
+ <p>The illusion of control, the myth that life is nothinh but winning and losing, competitive silos, stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate.</p>
+ <p>What you get instead is a company that creates more wealth, for more people, a better quality of life for all, more innovation, less risky, more resilient and scalable, and a learning, collaborative culture. At least.</p>
 
 <h2>If the benevolent owners are fairly young, self-management is not so at risk, right?</h2>
  <p>The owners could decide to sell the company or they can simply change their mind overnight. Unfortunately, we&rsquo;ve had an example of the latter recently (<em>ca.</em>, 2021), witness Basecamp.</p>
