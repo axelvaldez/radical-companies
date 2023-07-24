@@ -57,10 +57,11 @@ image:    "icon-radical-companies-faq.svg"
 <h2>Why would I want my business to become a Radical Company?</h2>
  <p>You organize as a <span class='_paradigm'>Radical</span> company because,</p>
  <ul>
-   <li>You want the company to grow.</li>
    <li>You want everybody to financially benefit from the wealth the company creates.</li>
-   <li>You want to take more chances while minimizing the risk of doing so.</li>
    <li>You want a better quality of life for yourself and those around you.</li>
+   <li>You want the company to grow.</li>
+   <li>You want to take more chances.</li>
+   <li>You want to minimizing risks.</li>
    <li>You want the company to outlast you.</li>
  </ul>
 
