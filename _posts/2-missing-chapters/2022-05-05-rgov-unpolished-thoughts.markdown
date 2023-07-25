@@ -161,7 +161,7 @@ image:    "icon-gov.svg"
     <em>RADICAL COMPANIES: Without Bosses or Employees</em>.
     Pradera Media.
     2021.
-    &lt;<a href="https://radicalcompanies.com/2022/05/06/rland"> target="_blank">https://radicalcompanies.com/2022/05/06/rland"</a>&gt;
+    &lt;<a href="https://radicalcompanies.com/2022/05/06/rland" target="_blank">https://radicalcompanies.com/2022/05/06/rland"</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
