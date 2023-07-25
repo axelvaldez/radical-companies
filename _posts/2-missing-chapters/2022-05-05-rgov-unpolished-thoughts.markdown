@@ -50,11 +50,9 @@ image:    "icon-gov.svg"
 
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
-<!--
     <div class='_center'>
      <table class='_h2table'>
       <tr>
--->
 <!--
        <th>Zoning and Building Regulations</th>
        <td>
