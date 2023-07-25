@@ -86,7 +86,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
    <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
    <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
-   <li><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</p></li>
+   <li><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</li>
   </ol>
 
 <h1>About the Radical Framework</h1>
