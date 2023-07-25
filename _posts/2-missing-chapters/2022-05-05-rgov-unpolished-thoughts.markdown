@@ -55,7 +55,7 @@ image:    "icon-gov.svg"
      <tr>
       <th>Zoning and Building Regulations</th>
        <td>
-        <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
+        <p>Zoning strikes me as a weak way to try and control the worst tendencies of <span class="_paradigm">Fiat</span> landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
         <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
        </td>
       </tr>
@@ -99,34 +99,34 @@ image:    "icon-gov.svg"
 <h1>The Three Branches</h1>
  <p>Throughout the stuff above, there is a general disregard for the separation of powers so central to democratic governments today. That system was designed as a confrontation which does not allow any party to achieve victory. Every branch of government monitors and regulates the other branches (and vies with for power). That was the <span class="_paradigm">Fiat</span> solution to not having a King or Queen. Wild for the 18th century; kind of like the Internet of its time.</p>
  <p>In a <span class="_paradigm">Radical</span> world, there would not be such a separation, although there might be in particular cases.</p>
- <h2>The RADICAL Model</h2>
-  <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands, via a hierarchy, that tell people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. In this document, we assume a <span class="_paradigm">Radical</span> world that is, at the same time, alike and different from our world today.</p>
-  <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word &ldquo;company&rdquo; because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means &ldquo;together, with&rdquo; and <em>pan</em> means &ldquo;bread, food.&rdquo; At its root, then, <em>company</em> means &ldquo;people who break bread together.&rdquo; In the <span class="_paradigm">Radical</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
-  <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
-   <div class="_center">
-    <img
-     src="/assets/img/en-alignment.svg"
-     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
-     style="width:75%; "
-    >
-   </div>
-  <p>They do this starting from a simple Foundation,</p>
-   <div class="_center">
-    <table class="_h2table">
-     <tr>
-      <th>people</th>
-      <td>Meaning & Belonging</td>
-     </tr>
-     <tr>
-      <th>commitments</th>
-      <td>Decentralization & Transparency</td>
-     </tr>
-     <tr>
-      <th>practices</th>
-      <td>Experimentation</td>
-     </tr>
-    </table>
-   </div>
+
+<h1>The Radical Model</h1>
+ <p>We are used to companies being governed by <span class="_paradigm">Fiat</span> hierarchies, with an owner at the top sending down commands, via a hierarchy, that tell people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it. In this document, we assume a <span class="_paradigm">Radical</span> world that is, at the same time, alike and different from our world today.</p>
+ <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word &ldquo;company&rdquo; because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means &ldquo;together, with&rdquo; and <em>pan</em> means &ldquo;bread, food.&rdquo; At its root, then, <em>company</em> means &ldquo;people who break bread together.&rdquo; In the <span class="_paradigm">Radical</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
+ <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
+  <div class="_center">
+   <img
+    src="/assets/img/en-alignment.svg"
+    alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
+    style="width:75%; ">
+  </div>
+ <p>They do this starting from a simple Foundation,</p>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
 
 <h1>Evolution, Interrupted</h1>
    <p>As I see it, the <span class="_paradigm">Radical</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve anything.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
