@@ -133,51 +133,52 @@ image:    "icon-rland.svg"
 <h1 class='_section'>Appendix: Terminology</h1>
  <div class='_center'>
   <table class='_h2table'>
-   <th>Common Good</th>
-   <td>
-    <p>A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
-    <p>Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is unoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
-    <p>Common goods, like a park, would have an infinite value and so no big can possibly top it. The particular community can retire a common good and open it to bids. The mechanism for doing so is up to community politics, and generally it may look like this,</p>
-    <div class='_center'>
-     <img
-      src="/assets/img/en-all-politics.svg"
-      alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS.">
-     </div>
-   <p>A community may denominate land in the &ldquo;Region&rdquo; category. The community will literally prosper or not by those kinds of decisions. The <span class="_paradigm">Radical</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
-    </td>
-   </tr>
    <tr>
-    <th>Hyper-local Community</th>
+    <th>Common Good</th>
     <td>
-     <p>The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>Surrounding Community</th>
-    <td>
-     <p>The community that is physically or logically adjacent to the hyper-local community.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>Improvements</th>
-    <td>
-     <p>Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>Occupier</th>
-    <td>
-     <p>Occupiers are what we would call owners in our current <span class='_paradigm'>Fiat</spam> model. The difference is that it lasts until the next bidding.</p>
-     <p>If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
-     <p>In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>Winning Bid</th>
-    <td>
-     <p>The highest bid on any parcel of land.</p>
-    </td>
-   </tr>
+     <p>A good that does not belong to any one person and are used by all. For example, a road is a common good, a toll-road is not.</p>
+     <p>Land and improvements on it are common goods. If it is occupied, it is managed by the occupier until the next bid for it comes in. If it is unoccupied, then it defaults to its surrounding community until someone bids for it (<em>i.e.</em>, the community cannot counter-bid).</p>
+     <p>Common goods, like a park, would have an infinite value and so no big can possibly top it. The particular community can retire a common good and open it to bids. The mechanism for doing so is up to community politics, and generally it may look like this,</p>
+      <div class='_center'>
+       <img
+        src="/assets/img/en-all-politics.svg"
+        alt="Three circles: the left-most is labeled LAND OPEN FOR BIDS. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes into a bigger circle labeled COMMON GOOD. There is an arrow coming out of it labeled COMMUNITY POLITICS that goes to a smaller circle labeled LAND OPEN FOR BIDS.">
+      </div>
+     <p>A community may denominate land in the &ldquo;Region&rdquo; category. The community will literally prosper or not by those kinds of decisions. The <span class="_paradigm">Radical</span> model decentralizing principle gives the people most immediately affected a strong voice in the process.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Hyper-local Community</th>
+     <td>
+      <p>The community that is literally adjacent to the land in question. This includes communities that are physically close and those which are logically close.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Surrounding Community</th>
+     <td>
+      <p>The community that is physically or logically adjacent to the hyper-local community.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Improvements</th>
+     <td>
+      <p>Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Occupier</th>
+     <td>
+      <p>Occupiers are what we would call owners in our current <span class='_paradigm'>Fiat</spam> model. The difference is that it lasts until the next bidding.</p>
+      <p>If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
+      <p>In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Winning Bid</th>
+     <td>
+      <p>The highest bid on any parcel of land.</p>
+     </td>
+    </tr>
   </table>
  </div>
 
