@@ -40,9 +40,9 @@ image:    "icon-gov.svg"
    <p>In a <span class="_paradigm">Radical</span> world, city governments are no longer in this business. Everybody is capable and has the means to build their own wealth.</p>
 
 <h1>Car Traffic</h1>
-   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own and house cars. Our streets will not be loitered with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads.</p>
-   <p>The next development is to have intra-vehicle communication. With that and the sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
-   <p>So, take all things traffic off the city&rsquo;s todo list.</p>
+   <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. For example, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless car service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own and house cars.</p>
+   <p>Eventually, a car will own itself. Autonomous cars will house themselves out of sight throughout an urban area and there won&rsquo;t be cars parked on the side of roads. Our streets will be available for other uses.</p>
+   <p>Something that could have happened many years ago, is to have intra-vehicle communication. With the right sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
 
 <h1>Infrastructure</h1>
    <p>Local city road construction and maintenance remains a task that somebody has to be responsible for, at least, coordinating. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via RADs.</p>
