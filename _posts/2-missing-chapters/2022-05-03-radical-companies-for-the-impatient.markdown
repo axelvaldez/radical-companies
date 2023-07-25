@@ -39,7 +39,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 <h1>Fiat Hiearchies</h1>
   <p>Hierarchies don&rsquo;t just go away. Hierarchies are always present, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by the people involved, and what&rsquo;s needed at a particular time. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
-<h1>Alignment Must Be Explicit and Transparent</h1>
+<h1>Explicit and Transparent Alignment</h1>
   <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s Impact  (<em>i.e.</em>, <em>what for</em>), its Purpos (<em>i.e.</em> why), and Mission (<em>i.e.</em>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
    <div class='_center'>
