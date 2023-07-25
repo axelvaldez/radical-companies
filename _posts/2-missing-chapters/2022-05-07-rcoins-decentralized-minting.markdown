@@ -82,12 +82,12 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <li>With negligible costs.</li>
   </ul>
  <p><span class="_paradigm">rCoin</span>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these differences,</p>
- <ol>
-  <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
-  <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-  <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a>
-   <p><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</p></li>
- </ol>
+  <ol>
+   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
+   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
+   <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+   <li><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</p></li>
+  </ol>
 
 <h1>About the Radical Framework</h1>
  <p>This may be a difficult read and it may be worth repeating here a few words about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
