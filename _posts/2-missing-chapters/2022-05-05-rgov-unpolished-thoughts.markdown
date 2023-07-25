@@ -83,9 +83,6 @@ image:    "icon-gov.svg"
      </table>
     </div>
 
-<h1>County Government</h1>
- <p>These take care of &ldquo;city&rdquo; services for unincorporated areas.</p>
-
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution, the State police, and its National Guard.</p>
  <p>Whatever we said about police, above, applies to the State police and National Guard.</p>
