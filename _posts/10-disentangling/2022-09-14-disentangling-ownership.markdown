@@ -16,8 +16,8 @@ image:    "icon-disentangling-ownership.svg"
  <p> businesses are hierarchical. They can be generous and progressive, like Patagonia, but, no matter, their overarching goal is to make profits for its owners.</p>
 
 <h1>An Alternative</h1>
- <p>An alternative to the pervasive FIAT business model is what we call <span class="_paradigm">Radical</span> companies.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>></p>
- <p>Notice that we differentiate “businesses” from “companies.” Business, in the sense of manufacturing and trading, is what owners do to create profits for themselves. Company comes from the Latin prefix con- and the word pan, bread. Company then refers to people who break bread together. So, we talk about  businesses and <span class="_paradigm">Radical</span> companies as two distinct species of the same genus. Like donkeys and zebras.</p>
+ <p>An alternative to the pervasive <span class="_paradigm">Fiat</span> business model is what we call <span class="_paradigm">Radical</span> companies.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>></p>
+ <p>Notice that we differentiate &ldquo;businesses&rdquo; from &ldquo;companies.&rdquo; Business, in the sense of manufacturing and trading, is what owners do to create profits for themselves. Company comes from the Latin prefix con- and the word pan, bread. Company then refers to people who break bread together. So, we talk about  businesses and <span class="_paradigm">Radical</span> companies as two distinct species of the same genus. Like donkeys and zebras.</p>
 
 <h1>Disentangling Ownership</h1>
  <p>Like  businesses, <span class="_paradigm">Radical</span> companies are private. They are not owned by a benevolent-government-in-the-name-of-the-people and they are not cooperatives.</p>
