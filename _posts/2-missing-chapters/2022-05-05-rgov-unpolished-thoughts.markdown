@@ -37,7 +37,7 @@ image:    "icon-gov.svg"
 
 <h1>Economic Development</h1>
    <p>&ldquo;Economic development&ldquo; is where elected government goes over the line and gets involved in the creation of private goods for businesses and their owners in the name of &ldquo;job creation.&rdquo;</p>
-   <p>In a <span class="_paradigm">Radical</span> world, city governments are no longer responsible for any of this&mdash;everybody is capable and has the means to build their own wealth creating communities.</p>
+   <p>In a <span class="_paradigm">Radical</span> world, city governments are no longer in this business. Everybody is capable and has the means to build their own wealth.</p>
 
 <h1>Car Traffic</h1>
    <p>Let&rsquo;s take traffic next. I predict that all things traffic are going to change dramatically, very quickly. As I write this, CRUISE<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> launched a driverless, Uber-like service in San Francisco. It won&rsquo;t take long before its price comes down to the point that it will not make sense for individuals to own and house cars. Our streets will not be loitered with parked cars. Eventually, a car can own itself. Autonomous cars will house themselves out of sight throughout an urban area and there  won&rsquo;t be cars parked on the side of roads.</p>
