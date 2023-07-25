@@ -329,8 +329,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 span._paradigm {
-  font-family:Helvetica, sans-serif;
-  font-size:14pt;
+  font-family:Ariel, sans-serif;
+  font-size:smaller;
 }
 ._underDev {
   font-weight:bold;
