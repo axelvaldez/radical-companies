@@ -62,14 +62,14 @@ image:    "icon-gov.svg"
    <tr>
     <th>Waste Removal</th>
     <td>
-     <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
+     <p>City governments already contract with private businesses to do waste removal. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
     </td>
    </tr>
    <tr>
     <th>Municipal Courts</th>
     <td>
      <p>&ldquo;Crime&rdquo; in a <span class="_paradigm">Radical</span> community would be the exception and probably driven by mental imbalances that would be better taken care of by communities with the help of people who specialize in this kind of situation.</p>
-     <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
+     <p>Disputes could mostly be handled by the communities itself, with the help of facilitators.</p>
     </td>
    </tr>
    <tr>
