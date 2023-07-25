@@ -16,7 +16,7 @@ image:    "icon-gov.svg"
  <p>In this document I finally get to lay down my thoughts about national governments.</p>
 
 <h1>Very Different</h1>
- <p>National governments are the ultimate centralized power. Dictatorships are the most centralized, and democratic governments the least, but they all centralize power. Particularly, they have a monopoly on force. The US national government runs the military and state governments and cities run police forces.</p>
+ <p>National governments are the ultimate centralized power. Dictatorships are the most centralized, and democratic governments the least, but they are all centralized. In particular, they have a monopoly on <span class="_paradigm">Force.</span> The US national government runs the military and state governments and cities run police forces.</p>
  <p>In the <span class="_paradigm">Radical</span> model, governments would not be collect taxes since the moral equivalent of land taxes go directly into local community funds and only a trickle of it goes to more centralized centers of power.</p>
  <p>In any case, in the <span class="_paradigm">Radical</span> model society&rsquo;s governance would be decentralized and not like it is today. Governance will be not based competition as it is in the <span class="_paradigm">Fiat</span> system, but collaboration as in the <span class="_paradigm">Radical</span> model.</p>
 
