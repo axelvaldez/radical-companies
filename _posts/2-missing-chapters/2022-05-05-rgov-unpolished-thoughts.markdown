@@ -45,9 +45,11 @@ image:    "icon-gov.svg"
    <p>Something that could have happened many years ago, is to have intra-vehicle communication. With the right sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
 
 <h1>Infrastructure</h1>
-   <p>Local city road construction and maintenance remains a task that somebody has to be responsible for, at least, coordinating. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via RADs.</p>
-   <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them (again, as measured by RADs).</p>
-   <p>Parks and recreation are very similar, with people responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
+   <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via RADs.</p>
+   <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
+
+<h1>Parks, Water</h1>
+   <p>Companies will be responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
     <div class='_center'>
      <table class='_h2table'>
       <tr>
@@ -58,7 +60,7 @@ image:    "icon-gov.svg"
         <p>Off the list.</p>
        </td>
       </tr>
-       <th>Hygiene: Waste Removal</th>
+       <th>Waste Removal</th>
        <td>
         <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
        </td>
