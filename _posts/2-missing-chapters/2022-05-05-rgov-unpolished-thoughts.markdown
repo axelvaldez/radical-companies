@@ -49,7 +49,7 @@ image:    "icon-gov.svg"
    <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
 
 <h1>Parks, Water</h1>
-   <p>Companies will be responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
+   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
     <div class='_center'>
 <!--
      <table class='_h2table'>
