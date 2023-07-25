@@ -50,9 +50,6 @@ image:    "icon-gov.svg"
 
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
-<!--
-    <div class='_center'>
--->
      <table class='_h2table'>
       <tr>
        <th>Zoning and Building Regulations</th>
@@ -62,13 +59,15 @@ image:    "icon-gov.svg"
        </td>
       </tr>
      </table>
-<!--
+     <table class='_h2table'>
       <tr>
        <th>Waste Removal</th>
        <td>
         <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
        </td>
       </tr>
+     </table>
+     <table class='_h2table'>
       <tr>
        <th>Municipal Courts</th>
        <td>
@@ -76,6 +75,8 @@ image:    "icon-gov.svg"
         <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
        </td>
       </tr>
+     </table>
+     <table class='_h2table'>
       <tr>
        <th>Police, Fire, Paramedic</th>
        <td>
@@ -84,18 +85,14 @@ image:    "icon-gov.svg"
        </td>
       </tr>
      </table>
-    </div>
--->
 
 <h1>State Government</h1>
- <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution, the State police, and its National Guard.</p>
- <p>Whatever we said about police, above, applies to the State police and National Guard.</p>
- <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise, either where nobody outright wins or the winner is obfuscated. That&rsquo;s the FIAT way.</p>
+ <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the intrastate level, the State police, and its National Guard.</p>
+ <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise, either where nobody outright loses and the winner is obfuscated. That&rsquo;s the <span class="_paradigm">Fiat</span> way.</p>
  <p>I haven&rsquo;t thought about what this would look like under a <span class="_paradigm">Radical</span> model.</p>
 
 <h1>National Government</h1>
- <p>I don&rsquo;t see any use for national governments, long term.</p>
- <p>Maybe, bigger things like the Space Station and planetary research may remain in the hands of a government-like team.</p>
+ <p>Maybe, bigger things like the Space Station and planetary research may remain in the hands of a team with mltiple <span class="_paradigm">Banners</span> feeding it.</p>
 
 <h1>Worth Repeating</h1>
  <p>This may be a difficult read and it may be worth repeating here a few words about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
