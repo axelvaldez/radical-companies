@@ -66,6 +66,12 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>Recognizing Contributions</h1>
  <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <div class='_center'>
+   <div class='_citation'>
+    <p>Workers would be recompensed &hellip; according to their contribution</p>
+    <p id='_signature'>Charles Fourier</p>
+   </div>
+  </div>
 
 <h1>The Rosedale Distribution</h1>
  <p style="margin-bottom:10px; ">Rosedale Distribution<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a> is our name for a practice that we first heard from entrepreneur Philip Rosedale,</p>
@@ -114,12 +120,6 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <li  style="text-indent:0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</li>
    <li  style="text-indent:0;">Co-owners get to recognize contributions by pressing a button in the <em><span class='_paradigm'>RADs!</span> mobile app</em>. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
    <li  style="text-indent:0;">At the end of the cycle, the number of <span class="_paradigm">RAD</span>s are calculated from recognized contributions.</li>
-    <div class='_center'>
-     <div class='_citation'>
-      <p>Workers would be recompensed &hellip; according to their contribution</p>
-      <p id='_signature'>Charles Fourier</p>
-     </div>
-    </div>
    <li  style="text-indent:0;">For transparency sake, all these transactions are posted to a public Dashboard.</li>
   </ul>
 
