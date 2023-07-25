@@ -45,21 +45,21 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <div class='_center'>
     <img
      src="/assets/img/en-alignment.svg"
-     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for Impact, the index finger for Purpose, and the ring finger for Mission"
+     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of alignment: the middle finger stands for <span class="_paradigm">Impact</span>, the index finger for <span class="_paradigm">Purpose</span>, and the ring finger for <span class="_paradigm">Mission</span>"
      width="80%">
    </div>
   <ul>
    <li>
-    <p style="text-indent:0;">Impact is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
+    <p style="text-indent:0;"><span class="_paradigm">Impact</span> is our beacon, a clear point of light just over the horizon that guides us. This is what many call Vision but we wanted to put more emphasis on the <em>impact</em> that vision will have on the world.</p>
    </li>
    <li>
     <p style="text-indent:0;">Dave Logan, lead author of <em>Tribal Leadership</em>, used to call it Noble Cause, but these days he prefers to call it Noble Passion. As he puts it, &ldquo;&hellip; a noble cause gets you out of bed. A noble passion gets you out of bed early and keeps you up late into the night.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
    </li>
    <li>
-    <p style="text-indent:0;">Purpose is the reason why we, as a company, are focused on this particular Impact. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective Purpose must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
+    <p style="text-indent:0;"><span class="_paradigm">Purpose</span> is the reason why we, as a company, are focused on this particular <span class="_paradigm">Impact</span>. It doesn&rsquo;t have to be world shaking and it doesn&rsquo;t have to strum your heart&rsquo;s strings. An effective <span class="_paradigm">Purpose</span> must clearly express <em>why</em> it is important for others to join us in this adventure.</p>
    </li>
    <li>
-    <p style="text-indent:0;">The Mission defines <em>what</em> we are going to do to move towards the Impact, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
+    <p style="text-indent:0;">The <span class="_paradigm">Mission</span> defines <em>what</em> we are going to do to move towards the <span class="_paradigm">Impact</span>, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
    </li>
  </ul>
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team, all present and future co-owners.</p>
@@ -248,7 +248,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
 
 <h1>RADs Account for the Unaccountable</h1>
   <p><span class="_paradigm">RAD</span>s represent many things other than simple financial value. They are not beans, but they can be counted.</p>
-  <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our Impact, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
+  <p>The <span class="_paradigm">RAD</span>s you have represent how other people feel about you and how they value your contributions. If you are making us miserable, you&rsquo;ll probably get fewer <span class="_paradigm">RAD</span>s from us; if you are helping us thrive, you&rsquo;ll likely get more. If you do something that goes against our <span class="_paradigm">Impact</span>, &ldquo;but, hey, it makes money,&rdquo; you&rsquo;ll get less <span class="_paradigm">RAD</span>s; if instead you introduce a way to make money <em>and</em> strengthen our alignment, you&rsquo;ll get more <span class="_paradigm">RAD</span>s.</p>
   <p>Maybe I gave you <span class="_paradigm">RAD</span>s because you noticed that I was down and you talked to me and helped me get over a personal crisis. Or they may reflect the fact that you always make yourself available to help others in the team. Or it may indicate that you are a very effective coach, gentle and inspirational at the same time.</p>
   <p>In short, <span class="_paradigm">RAD</span>s account for the uncountable. They measure what had previously been immeasurable.</p>
 
