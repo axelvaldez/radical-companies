@@ -73,9 +73,14 @@ image:    "icon-gov.svg"
     </td>
    </tr>
    <tr>
-    <th>Police, Fire, Paramedic</th>
+    <th>Police</th>
     <td>
      <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. If there is, it would be very different than it is today.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Fire, Paramedic</th>
+    <td>
      <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service.</p>
      <p>I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for <span class="_paradigm">Banners.</span></p>
     </td>
