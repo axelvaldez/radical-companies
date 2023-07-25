@@ -56,7 +56,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
      </ul>
      <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being &ldquo;devalued&rdquo; or something being measured in 仪表).<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
      <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called &ldquo;currency,&rdquo; not while stuffed under the proverbial mattress.</p>
-     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so, national fiat coins.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
+     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so plus or minus what investor say.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
    </tr>
    <tr>
@@ -75,8 +75,13 @@ image:    "icon-rcoins-decentralized-minting.svg"
   </ul>
 
 <h1>A Historical Perspective</h1>
- <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local or complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> Ditto for Mutualism, Marxism, or any other theory or ideology. The point of <span class="_paradigm">rCoin</span>a is to make it possible to have a world-wide market, free of intermediaries, and with negligible costs.</p>
- <p>In fact, <span class="_paradigm">rCoin</span>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these twists,</p>
+ <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local  currencies, complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> The point of <span class="_paradigm">rCoin</span>a is to make it possible to,</p>
+  <ul>
+   <li>Have a world-wide market</li>
+   <li>Free of intermediaries</li>
+   <li>With negligible costs.</li>
+  </ul>
+ <p><span class="_paradigm">rCoin</span>s are very similar to national fiat coins. They are a unit of measure, a store of value, and a medium of exchange, but with these differences,</p>
  <ol>
   <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
   <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
