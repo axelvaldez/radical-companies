@@ -18,17 +18,19 @@ image:    "icon-rcoins-decentralized-minting.svg"
 </div>
 
 <h1>Hoarding Is Violence</h1>
- <p>Today, national fiat money is the canonical medium of exchange and that is what we assumed in our book, <em>RADICAL COMPANIES: Without Bosses or Emplyees</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need national fiat money to pay our bills and buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. Natioanl fiat money is coined power. This is problematic and leads to the most serious problems we face today.</p>
- <p>We need to have a <em>universal</em> medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Today, national fiat money is the canonical medium of exchange and that is what we assumed in our book, <em>RADICAL COMPANIES: Without Bosses or Emplyees</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need national fiat money to pay our bills and buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people.</p>
+ <p>National fiat money is coined power, canned violence.</p>
+ <p>This is problematic and leads to the most serious problems we face today.</p>
+ <p>Instead of national money, we need to have a <em>universal</em> medium of exchange. instead of fiat money, the universal coins need to be transparent. <span class="_paradigm">rCoin</span>s are universal and transparenbt, they don&rsquo;t have the national fiat money bagggage and can help us transform to a people-centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Like today&rsquo;s money, <span class="_paradigm">rCoin</span>s function as,</p>
   <ul>
    <li>A unit of measure</li>
    <li>A store of value</li>
    <li>A medium of exchange</li>
   </ul>
- <p>In addition, and this is critical, <span class="_paradigm">rCoin</span>s are transparent in the sense that an integral part of each <span class="_paradigm">rCoin</span> is its log of information from which potential risks and benefits can be calculated.</p>
+ <p>In addition, and this is critical, <span class="_paradigm">rCoin</span>s are transparent in the sense that an integral part of each <span class="_paradigm">rCoin</span> is its log of information from which potential risks and benefits can be calculated by your mobile device.</p>
  <p><span class="_paradigm">rCoin</span>s are also decentralized. Companies will be the guarantors of <span class="_paradigm">rCoin</span>s: not banks, not governments, and not international accords. This will make the costs of all transactions negligible.</p>
- <p>A decentralized and transparent <span class="_paradigm">rCoin</span> will make possible a world-wide market that we can all play in without intermediaries.</p>
+ <p>A decentralized and transparent <span class="_paradigm">rCoin</span> will make possible a <em>world-wide market</em> that we can participate in without intermediaries.</p>
 
 <h1>Terminology</h1>
  <div class="_center">
@@ -83,7 +85,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <p><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</p></li>
  </ol>
 
-<h1>About the RADICAL Framework</h1>
+<h1>About the Radical Framework</h1>
  <p>This may be a difficult read and it may be worth repeating here a few words about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep under the proverbial rug.</p>
  <p>The only difference—the big difference—is that the <span class="_paradigm">Radical</span> system is centered around our interdependence.</p>
  <p>Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
@@ -326,7 +328,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    >
   </p>
 
-<h1>FAQ</h1>
+<h1 class='_section'>Appendix: FAQ</h1>
  <h3 style="padding-top:0;">Companies minting rCoins without any rules sounds really, really crazy!</h3>
   <p>If that sounds &ldquo;crazy,&rdquo; then the financial system we have today is crazier. And it is business hostile, on top.</p>
   <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation and the behavior of the backers. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
