@@ -57,49 +57,48 @@ image:    "icon-gov.svg"
    <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via <span class="_paradigm">RAD</span>s.</p>
    <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
 
-<table class="_h2table">
-      <tr>
-       <th>Zoning and Building Regulations</th>
-       <td>
-        <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
-        <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
-       </td>
-      </tr>
-     </table>
-     <table class='_h2table'>
-      <tr>
-       <th>Waste Removal</th>
-       <td>
-        <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
-       </td>
-      </tr>
-     </table>
-     <table class='_h2table'>
-      <tr>
-       <th>Municipal Courts</th>
-       <td>
-        <p>&ldquo;Crime&rdquo; in a <span class="_paradigm">Radical</span> community would be the exception and probably driven by mental imbalances that would be better taken care of by communities with the help of people who specialize in this kind of situation.</p>
-        <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
-       </td>
-      </tr>
-     </table>
-     <table class='_h2table'>
-      <tr>
-       <th>Police, Fire, Paramedic</th>
-       <td>
-        <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
-        <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for <span class="_paradigm">Banners.</span></p>
-       </td>
-      </tr>
-     </table>
+<div class='_center'>
+ <table class='_h2table'>
+  <tr>
+   <th>Zoning and Building Regulations</th>
+    <td>
+     <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
+     <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Waste Removal</th>
+    <td>
+     <p>City governments already contract with private companies to do the removal work. Individual <span class="_paradigm">Radical</span> communities can do this easily, with transparency providing the coordinating function.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Municipal Courts</th>
+    <td>
+     <p>&ldquo;Crime&rdquo; in a <span class="_paradigm">Radical</span> community would be the exception and probably driven by mental imbalances that would be better taken care of by communities with the help of people who specialize in this kind of situation.</p>
+     <p>Disputes could mostly be handled by the communities itself, with the help of people who specialize in this kind of situation.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Police, Fire, Paramedic</th>
+    <td>
+     <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
+     <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for <span class="_paradigm">Banners.</span></p>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Infrastructurer</h1>
   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
-      <th>Negrita</th>
-      <td>Blanquita</td>
+      <th>Zoning and Building Regulations</th>
+      <td>
+       <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
+       <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
+      </td>
      </tr>
     </table>
    </div>
