@@ -83,8 +83,8 @@ image:    "icon-rland.svg"
  <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>Banner</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
 
 <h1>The Military?</h1>
-  <p>Also, there is no funds for a military or any kind of state violence. It may take longer, but that&rsquo;s where we are heading.</p>
-  <p id="fnref3">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won’t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the &ldquo;Region&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Also, there is no funds for a military or any kind of state violence. That&rsquo;s where we are heading.</p>
+ <p id="fnref3">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won&rsquo;t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the &ldquo;Region&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Fund Governance</h1>
  <p>The &ldquo;Region&rdquo; in the pictures could be governed jointly or individually. For example, hyper-local community circles (26%) may join up to create a park. Surrounding communites (3%) may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create <em>common goods</em>.</p>
