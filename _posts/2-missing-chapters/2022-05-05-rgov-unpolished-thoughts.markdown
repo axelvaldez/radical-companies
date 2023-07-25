@@ -51,7 +51,6 @@ image:    "icon-gov.svg"
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
     <div class='_center'>
-<!--
      <table class='_h2table'>
       <tr>
        <th>Zoning and Building Regulations</th>
@@ -60,6 +59,7 @@ image:    "icon-gov.svg"
         <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
        </td>
       </tr>
+<!--
       <tr>
        <th>Waste Removal</th>
        <td>
@@ -80,8 +80,8 @@ image:    "icon-gov.svg"
         <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for <span class="_paradigm">Banners.</span></p>
        </td>
       </tr>
-     </table>
 -->
+     </table>
     </div>
 
 <h1>State Government</h1>
