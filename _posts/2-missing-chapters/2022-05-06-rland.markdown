@@ -168,7 +168,7 @@ image:    "icon-rland.svg"
    <tr>
     <th>Occupier</th>
     <td>
-     <p>Occupiers are what we would call owners in our current <span class='_paradigm'>Fiat</spam> model. The difference is that it lasts until the next bidding.</p>
+     <p>Occupiers are what we would call owners in our current <span class='_paradigm'>Fiat</span> model. The difference is that it lasts until the next bidding.</p>
      <p>If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
      <p>In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
     </td>
