@@ -7,17 +7,19 @@ image:    "icon-rcoins-decentralized-minting.svg"
 ---
 
 <div style="display: none; ">
- <p>National fiat money is the problem, and so is our banking system, and our system of loans and investment. <span class="_paradigm">rCoin</span>s is a potential solution.</p>
+ <p>National <span class='_paradigm'>Fiat</span> money is the problem, and so is our banking system, and our system of loans and investment. <span class="_paradigm">rCoin</span>s is a potential solution.</p>
 </div>
 
-<div class="_citation">
- <p>If Kings and Queens had figured out the fiat money thing,<br>we&rsquo;d still be Her or His Majesty&rsquo;s subjects</p>
- <p id="_signature">Matt Perez</p>
+<div class='_center'>
+ <div class="_citation">
+  <p>If Kings and Queens had figured out the fiat money thing,<br>we&rsquo;d still be Her or His Majesty&rsquo;s subjects.</p>
+  <p id="_signature">Matt Perez</p>
+ </div>
 </div>
 
 <h1>Hoarding Is Violence</h1>
- <p>Today, money is the canonical medium of exchange and that is what we assumed in our book, <span class="_paradigm">RADICAL COMPANIES</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and as a medium of exchange to buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. This is problematic and leads to the most serious problems we face today.</p>
- <p>For this and other reasons, I now believe that we should have a universal medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Today, national fiat money is the canonical medium of exchange and that is what we assumed in our book, <em>RADICAL COMPANIES: Without Bosses or Emplyees</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need national fiat money to pay our bills and buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people. Natioanl fiat money is coined power. This is problematic and leads to the most serious problems we face today.</p>
+ <p>We need to have a <em>universal</em> medium of exchange, like <span class="_paradigm">rCoin</span>s that doesn&rsquo;t have the baggage of national fiat money and can help us transform to a human centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Like today&rsquo;s money, <span class="_paradigm">rCoin</span>s function as,</p>
   <ul>
    <li>A unit of measure</li>
