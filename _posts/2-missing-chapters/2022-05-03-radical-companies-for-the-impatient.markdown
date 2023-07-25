@@ -113,10 +113,16 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <ul>
    <li  style="text-indent:0;">Co-owners get one <span class="_paradigm">RAD</span> per day.</li>
    <li  style="text-indent:0;">Co-owners get to recognize contributions by pressing a button in the <em><span class='_paradigm'>RADs!</span> mobile app</em>. They can press this &ldquo;recognition&rdquo; button as many times as they <em>feel</em> like.</li>
-   <li  style="text-indent:0;">At the end of the cycle, the number of <span class="_paradigm">RAD</span>s are calculated from recognized contributioms.</li>
+   <li  style="text-indent:0;">At the end of the cycle, the number of <span class="_paradigm">RAD</span>s are calculated from recognized contributions.</li>
+    <div class='_center'>
+     <div class='_citation'>
+      <p>Workers would be recompensed &hellip; according to their contribution</p>
+      <p id='_signature'>Charles Fourier</p>
+     </div>
+    </div>
    <li  style="text-indent:0;">For transparency sake, all these transactions are posted to a public Dashboard.</li>
   </ul>
- 
+
 <h1>Radical Distributions Are Scalable</h1>
  <p>People are the best judges of <em>what</em> a contribution is and <em>who</em> is making it and it doesn't take that many people to cover the whole team. If somebody doesn't get any <span class='_paradigm'>RAD</span>s at all, it's probably because he is totally disconnected or none of his work looks like contributions to however many people make up the company.</p>
   <div class="_center">
