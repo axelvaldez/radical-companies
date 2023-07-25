@@ -50,6 +50,8 @@ image:    "icon-gov.svg"
 
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
+    <div class='_center'>
+    </div>
      <table class='_h2table'>
       <tr>
        <th>Zoning and Building Regulations</th>
@@ -85,6 +87,9 @@ image:    "icon-gov.svg"
        </td>
       </tr>
      </table>
+
+<h1>Parks, Water</h1>
+   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
 
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the intrastate level, the State police, and its National Guard.</p>
