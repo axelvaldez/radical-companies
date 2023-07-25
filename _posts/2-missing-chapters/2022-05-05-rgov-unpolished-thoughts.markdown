@@ -10,15 +10,6 @@ image:    "icon-gov.svg"
  <p>Thoughts about national governments in a <span class="_paradigm">Radical</span>-based world.</p>
 </div>
 
-<div class='_center'>
- <table class='_h2table'>
-  <tr>
-   <th>Negrita</th>
-   <td>Blanquita</td>
-  </tr>
-  </table>
-</div>
-
 <h1>Introduction</h1>
  <p>In the book <em>RADICAL COMPANIES: Without Bosses or Employees</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">Radical</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
  <p>Later, in <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <span class="_paradigm">rLand</span>, I wrote down my thoughts on how land would be handled in a <span class="_paradigm">Radical</span> world.</p>
@@ -53,19 +44,21 @@ image:    "icon-gov.svg"
    <p>Eventually, a car will own itself. Autonomous cars will house themselves out of sight throughout an urban area and there won&rsquo;t be cars parked on the side of roads. Our streets will be available for other uses.</p>
    <p>Something that could have happened many years ago, is to have intra-vehicle communication. With the right sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
 
-<h1>Infrastructure</h1>
-   <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via <span class="_paradigm">RAD</span>s.</p>
-   <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
+<h1>Road Construction</h1>
+ <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via <span class="_paradigm">RAD</span>s.</p>
+ <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
 
-<div class='_center'>
- <table class='_h2table'>
-  <tr>
-   <th>Zoning and Building Regulations</th>
-    <td>
-     <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
-     <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
-    </td>
-   </tr>
+<h1>Infrastructe</h1>
+  <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>Zoning and Building Regulations</th>
+       <td>
+        <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
+        <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
+       </td>
+      </tr>
    <tr>
     <th>Waste Removal</th>
     <td>
@@ -89,7 +82,7 @@ image:    "icon-gov.svg"
   </table>
  </div>
 
-<h1>Infrastructurer</h1>
+<h1>Infrastructe</h1>
   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
    <div class='_center'>
     <table class='_h2table'>
