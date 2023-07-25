@@ -62,7 +62,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
     <p style="text-indent:0;">The <span class="_paradigm">Mission</span> defines <em>what</em> we are going to do to move towards the <span class="_paradigm">Impact</span>, <em>how</em> we are going to do it, and by <em>when</em>. This is a live, dynamic conversation where everybody who wants to can participate. It is not "suggestions" sent by email to somebody else who is going to select by popularity or any such. And, yes, it scales: there are many ways to do it with 50, 1,00, or 10,000 people.</p>
    </li>
  </ul>
- <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to <em>everybody</em> in the team, all present and future co-owners.</p>
+ <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to every present and future co-owners in the team.</p>
 
 <h1>Recognizing Contributions</h1>
  <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></p>
