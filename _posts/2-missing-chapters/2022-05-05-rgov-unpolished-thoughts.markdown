@@ -44,14 +44,6 @@ image:    "icon-gov.svg"
    <p>Eventually, a car will own itself. Autonomous cars will house themselves out of sight throughout an urban area and there won&rsquo;t be cars parked on the side of roads. Our streets will be available for other uses.</p>
    <p>Something that could have happened many years ago, is to have intra-vehicle communication. With the right sensor in every vehicle, we won&rsquo;t need traffic lights or signage.</p>
 
-<h1>Infrastructure</h1>
-   <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via RADs.</p>
-   <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
-
-<h1>Parks, Water</h1>
-   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
-    <div class='_center'>
-    </div>
      <table class='_h2table'>
       <tr>
        <th>Zoning and Building Regulations</th>
@@ -90,6 +82,10 @@ image:    "icon-gov.svg"
 
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
+   <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via <span class="_paradigm">RAD</span>s.</p>
+   <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
+    <div class='_center'>
+    </div>
 
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the intrastate level, the State police, and its National Guard.</p>
