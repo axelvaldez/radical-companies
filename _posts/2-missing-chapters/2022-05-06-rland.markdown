@@ -188,8 +188,7 @@ image:    "icon-rland.svg"
    <tr>
     <th>Is risk associated with companies or with rCoins?</th>
     <td>
-     <p>This really is a distinction without a difference. A <span class="_paradigm">Coin</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
-     <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span class="_paradigm">rCoin</span>s based on personal knowledge.</p>
+     <p>This really is a distinction without a difference. A <span class="_paradigm">Coin</span> minted by a one-person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it. At least not at face value. On the other hand, there may be a young perfume maker who has become well known in his community for producing exquisite perfumes. People may accept her <span class="_paradigm">rCoin</span>s based on that personal knowledge.</p>
     </td>
    </tr>
   </table>
