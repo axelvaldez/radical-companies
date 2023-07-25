@@ -18,9 +18,8 @@ image:    "icon-rcoins-decentralized-minting.svg"
 </div>
 
 <h1>Hoarding Is Violence</h1>
- <p>Today, national fiat money is the canonical medium of exchange and that is what we assumed in our book, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need national fiat money to pay our bills and buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people.</p>
- <p>National fiat money is coined power, canned violence.</p>
- <p>This is problematic and leads to the most serious problems we face today.</p>
+ <p>Today, national fiat money is the canonical medium of exchange and that is what we assumed in our book, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> After all, we need money to pay our bills and buy stuff. Unfortunately, money also supports hoarding as a way to accumulate financial wealth and power over everything, including people.</p>
+ <p>National fiat money is coined power, canned violence. This is problematic and leads to the most serious problems we face today.</p>
  <p>Instead of national money, we need to have a <em>universal</em> medium of exchange. instead of fiat money, the universal coins need to be transparent. <span class="_paradigm">rCoin</span>s are universal and transparenbt, they don&rsquo;t have the national fiat money bagggage and can help us transform to a people-centered economy.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Like today&rsquo;s money, <span class="_paradigm">rCoin</span>s function as,</p>
   <ul>
