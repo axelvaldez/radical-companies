@@ -7,7 +7,7 @@ image:    "icon-e11-and-then.svg"
 ---
 
 <div style="display: none;">
- <p>In a world that got away from the strictly FIAT system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
+ <p>In a world that got away from the strictly <span class='_paradigm'>Fiat</spam> system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
 </div>
 
 <div clas='_citation'>
@@ -18,8 +18,8 @@ image:    "icon-e11-and-then.svg"
 </div>
 
 <h1>Still Crazy&hellip;</h1>
- <p>Not long after Ping&rsquo;s death, the world moved quickly from under the FIAT choke. Some national governments resurfaced, but that didn&rsquo;t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.</p>
- <p>A few communities had stuck to FIAT ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one FIAT region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
+ <p>Not long after Ping&rsquo;s death, the world moved quickly from under the <span class='_paradigm'>Fiat</spam> choke. Some national governments resurfaced, but that didn&rsquo;t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.</p>
+ <p>A few communities had stuck to <span class='_paradigm'>Fiat</spam> ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one <span class='_paradigm'>Fiat</spam> region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
  <p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The Off Earth Surface (FES) people who had lived under the Earth Authority&rsquo;s rule were more than alarmed and began to prepare for the worst.</p>
 
 <h1>Petra and Ignatius</h1>
@@ -76,7 +76,7 @@ image:    "icon-e11-and-then.svg"
  <p>&ldquo;Wait, that&rsquo;s too&hellip; &rdquo; Petra stumbled back a few steps and fell down. She was surprised, but still playful. She would have thrown it right back, but I stepped in between them.</p>
  <p>&ldquo;Please, don&rsquo;t throw it. That&rsquo;s an emergency battery pack, should you need it. It gets heavier as it gets closer to the clothing. It&rsquo;s like shooting a bullet. Thankfully, you threw it softly,&rdquo; I said while looking at Ignatius.</p>
  <p>&ldquo;It was kind of fun,&rdquo; Petra retorted. &ldquo;Come to think of it, why would you have this protective technology when it&rsquo;s all nice and peaceful over here?&rdquo;</p>
- <p>&ldquo;Actually, <em>we</em> didn&rsquo;t have it until after the Bracia hostilities started. In fact, nobody had exactly what you have right now, but we had enough pieces of it. Some of it came from the Off Surface folks and some from groups that were into extreme sports. Many people jumped in to put them all together quickly enough right after the Bracia violence started. Violence is one thing that revolts all of us.&rdquo; I continued, &ldquo;that is one of the big advantages of having transparent and unobstructed access to all kinds of technology and fundamental discoveries from anywhere in the biosphere. We can learn and take action fast because we are not slowed down by all the secrecy that FIAT thinking leads you to.&rdquo;</p>
+ <p>&ldquo;Actually, <em>we</em> didn&rsquo;t have it until after the Bracia hostilities started. In fact, nobody had exactly what you have right now, but we had enough pieces of it. Some of it came from the Off Surface folks and some from groups that were into extreme sports. Many people jumped in to put them all together quickly enough right after the Bracia violence started. Violence is one thing that revolts all of us.&rdquo; I continued, &ldquo;that is one of the big advantages of having transparent and unobstructed access to all kinds of technology and fundamental discoveries from anywhere in the biosphere. We can learn and take action fast because we are not slowed down by all the secrecy that <span class='_paradigm'>Fiat</spam> thinking leads you to.&rdquo;</p>
  <p>&ldquo;Are you hungry? We can get something to eat by ourselves or we can go to an open kitchen. Your choice.&rdquo;</p>
 
 <h1>Open Kitchen</h1>

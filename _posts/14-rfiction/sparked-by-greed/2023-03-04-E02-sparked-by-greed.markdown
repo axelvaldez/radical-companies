@@ -43,7 +43,7 @@ image:    "icon-sparked-by-greed.svg"
  <div>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</div>
 
 <h1>Fear Has Us</h1>
- <div class="_quotespan">I am tired of being afraid, seeing how the FIAT model works has exposed the fears and has made all the difference.</div>
+ <div class="_quotespan">I am tired of being afraid, seeing how the <span class='_paradigm'>Fiat</spam> model works has exposed the fears and has made all the difference.</div>
  <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleagues&hellip;</div>
  <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about gossip mongers and the over-controlling colleagues. Are they going to be co-owners, too?</div>
  <div class="_speakera">Well, if they contribute and somebody acknowledges their contribution, then they get <span class="_paradigm">RAD</span>s and they are co-owners.</div>

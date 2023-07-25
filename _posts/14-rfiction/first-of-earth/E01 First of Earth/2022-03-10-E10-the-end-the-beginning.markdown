@@ -27,7 +27,7 @@ hidden:   true
  <p>This time, however, they were able to protect themselves. They prevented a lot of fighting by redirecting the authoritarian troops away from each other. Sometimes they used their technology to confuse their dispatches and sometimes it was done by RADICAL Marine officers. This gave soldiers the opportunity to desert, and, as it so happened, the RADICALS were waiting to onboard them. The few soldiers who tried to subvert the RADICAL recovery operation were rebuffed by the ones who were sick of the violence and were ready to try a new way of living.</p>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">Hard-Learned Wisdom</h1>
- <p>Besides welcoming AWOL soldiers into RADICAL life, the Pods made a concerted effort to not let FIAT enclaves fester as they had in the past. This time they actively helped people integrate into the RADICAL communities.</p>
+ <p>Besides welcoming AWOL soldiers into RADICAL life, the Pods made a concerted effort to not let <span class='_paradigm'>Fiat</spam> enclaves fester as they had in the past. This time they actively helped people integrate into the RADICAL communities.</p>
  <p>This time people had lived under Earth Authority rule and reality. They had the scars that many years of authoritarian, and oftentimes brutal domination left imprinted in their minds and bodies. They knew that they had to actively help people learn to become fully functional and responsible adults and to recognize what was healthier for them. They knew, now more than ever, that people had to get there themselves. They had to create their own meaning and find their communities at their own pace.</p>
  <p>This time the RADICALS were ready to actively help make that possible.</p>
 

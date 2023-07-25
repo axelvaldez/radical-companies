@@ -16,7 +16,7 @@ hidden:   true
  <p>This time, Ignatius was fully awake.</p>
  <p>Ten kilometers later, the cruiser needed to recharge and it stopped at a station near where the border between where the border between the old State of Utah and the old State of Arizona used to be. They decided to eat at the restaurant nearby. In front, there was a renovated old sign that said SUBWAY.</p>
  <p>&ldquo;Was there a subway here?&rdquo; Ignatius asked.</p>
- <p>&ldquo;No, that&rsquo;s the name of a FIAT business that no longer exists. They sold sandwiches and other junk food.&rdquo;</p>
+ <p>&ldquo;No, that&rsquo;s the name of a <span class='_paradigm'>Fiat</spam> business that no longer exists. They sold sandwiches and other junk food.&rdquo;</p>
  <p>&ldquo;What is &lsquo;junk&rsquo; food?&rdquo; Petra asked.</p>
  <p>&ldquo;Food that wasn&rsquo;t good for you. It filled you up but it wasn&rsquo;t good for you or the Earth.&rdquo;</p>
  <p>They both were now obviously confused.</p>

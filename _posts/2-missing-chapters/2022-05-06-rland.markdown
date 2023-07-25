@@ -102,7 +102,7 @@ image:    "icon-rland.svg"
  <p>The only difference—the big difference—is that the <span class="_paradigm">Radical</span> system is centered around people&rsquo;s interdependence.</p>
  <p>Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. Businesses are built on creating platforms to bring us back together, for a fee. This works for a world where money comes first, ahead of everything else.</p>
  <p>A <span class="_paradigm">Radical</span> world, too, is centered around accomplishments and real innovation, but it prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We’ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number. The <span class="_paradigm">Radical</span> model is centered on trust, the type that comes from community and collaboration.</p>
- <p>We are used to companies being governed by FIAT hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, oftentimes <em>when</em> to do it, and even <em>how</em> to do it. Here I assume a <span class="_paradigm">Radical</span> world that is, at the same time, alike and different from our world today. </p>
+ <p>We are used to companies being governed by <span class='_paradigm'>Fiat</spam> hierarchies, with an owner at the top sending down commands telling people <em>what</em> to do, oftentimes <em>when</em> to do it, and even <em>how</em> to do it. Here I assume a <span class="_paradigm">Radical</span> world that is, at the same time, alike and different from our world today. </p>
  <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word &ldquo;Region&rdquo; because it has an interesting genesis: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means &ldquo;Region&rdquo; and <em>pan</em> means &ldquo;Region&rdquo; At its root, then, <em>company</em> means &ldquo;Region&rdquo; In the <span class="_paradigm">Radical</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
  <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -153,7 +153,7 @@ image:    "icon-rland.svg"
   <p>Anything added to the land in question. It could be houses, barns, irrigation, drainage, electricity, etc.</p>
 
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Occupier</h2>
-  <p>Occupiers are what we would call owners in our current FIAT model. The difference is that it lasts until the next bidding.</p>
+  <p>Occupiers are what we would call owners in our current <span class='_paradigm'>Fiat</spam> model. The difference is that it lasts until the next bidding.</p>
   <p>If the current occupier wins, then everything continues as before. However, if somebody has a higher bid, the new occupier moves in. If the new occupier wants to do away with an improvement, she pays for doing so.</p>
   <p>In either case, the occupier pays a percentage of her bid to the community fund; note that it could be higher or lower than before. No matter, the market calculated a new value for the land and its improvements.</p>
 
@@ -196,7 +196,7 @@ image:    "icon-rland.svg"
   </li>
   <li id="en04">
    <p class="_list-item">
-    I must admit that this aspect of the RADICAL model would be a pushover for malevolent outer space FIAT invaders.
+    I must admit that this aspect of the RADICAL model would be a pushover for malevolent outer space <span class='_paradigm'>Fiat</spam> invaders.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
