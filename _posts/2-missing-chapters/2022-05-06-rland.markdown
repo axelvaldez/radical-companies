@@ -185,10 +185,11 @@ image:    "icon-rland.svg"
 <h1 class='_section'>Appendix: FAQ</h1>
  <div class='_center'>
   <table class='_h2table'>
-   <th>Is risk associated with companies or with rCoins?</th>
-   <td>
-    <p>This really is a distinction without a difference. A <span class="_paradigm">CrCoinOIN</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
-    <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span class="_paradigm">rCoin</span>s based on personal knowledge.</p>
+   <tr>
+    <th>Is risk associated with companies or with rCoins?</th>
+    <td>
+     <p>This really is a distinction without a difference. A <span class="_paradigm">Coin</span> minted by a one person &ldquo;company&rdquo; will probably have a very high risk and nobody would take it.</p>
+     <p>On the other hand, there may be a young perfume maker who is very well known in his community for producing exquisite perfumes. People may accept her <span class="_paradigm">rCoin</span>s based on personal knowledge.</p>
     </td>
    </tr>
   </table>
