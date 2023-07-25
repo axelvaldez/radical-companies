@@ -121,7 +121,7 @@ image:    "icon-rhintersoft.svg"
      <th>Investments</th>
      <td>
       <ul>
-       <li>You can propose funding a new project simply by putting up a <span class='_paradigm'>BANNER</span>.</li>
+       <li>You can propose funding a new project simply by putting up a <span class='_paradigm'>Banner</span>.</li>
       </ul>
      </td>
     </tr>

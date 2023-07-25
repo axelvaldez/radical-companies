@@ -17,7 +17,7 @@ image:    "icon-radical-coops.svg"
 <h1>Why RADs Then?</h1>
  <p>Maybe it won&rsquo;t be the whole co-op that makes the switch. Individual co-op members may be the ones who make the switch.</p> 
  <ul>
-  <li>You could still give your <span class="_paradigm">RAD</span>s to a <span class='_paradigm'>BANNER</span>. For example, if somebody puts up a <span class='_paradigm'>BANNER</span> to clean and beautify a nearby river walk, you could give the yield of some of your <span class="_paradigm">RAD</span>s to it.</li>
+  <li>You could still give your <span class="_paradigm">RAD</span>s to a <span class='_paradigm'>Banner</span>. For example, if somebody puts up a <span class='_paradigm'>Banner</span> to clean and beautify a nearby river walk, you could give the yield of some of your <span class="_paradigm">RAD</span>s to it.</li>
   <li>When somebody leaves the co-op, they take their <span class="_paradigm">RAD</span>s with them. They earned them and they continue to get whatever is factored through these <span class="_paradigm">RAD</span>s. They their <span class="_paradigm">RAD</span>s, but they don’t receive any new ones.</li>
   <li>Co-ops generally are managed by a <span class="_paradigm">Fiat</span> hierarchy. It still carries the presumption that the little people (most of us) need a boss (a selected few of them) to tell them what to do.</li>
  </ul>

@@ -47,7 +47,7 @@ image:    "icon-a-radical-bid-for-the-future-of-business.svg"
       <p>By Making a Contribution</p>
      </th>
      <td class="_list-item">
-      <p>Alternatively, the platform gets <span class="_paradigm">RAD</span>s by becoming <span class="_paradigm">BANNER</span>. For sure, it would be a <span class="_paradigm">BANNER</span> in the new company&rsquo;s <span class="_paradigm">RAD</span> Distribution system. It might also be a <span class="_paradigm">BANNER</span> in the investor&rsquo;s <span class="_paradigm">RAD</span> Distribution system.</p>
+      <p>Alternatively, the platform gets <span class="_paradigm">RAD</span>s by becoming <span class="_paradigm">Banner</span>. For sure, it would be a <span class="_paradigm">Banner</span> in the new company&rsquo;s <span class="_paradigm">RAD</span> Distribution system. It might also be a <span class="_paradigm">Banner</span> in the investor&rsquo;s <span class="_paradigm">RAD</span> Distribution system.</p>
       <p>When the new company starts to distribute its earned dividends, the platform sees it as revenue. Ditto for the capital gains for investors.</p>
       <p>It’s important to note that the number of <span class="_paradigm">RAD</span>s can vary. It is not a negotiated amount or percentage chiseled in a legal contract. If the platform is creating value, it gets <span class="_paradigm">RAD</span>s, and then revenue. If the new company and its investors are delighted and empowered by the platform&rsquo;s contributions, then it makes money.</p>
      </td>

@@ -7,11 +7,11 @@ image:    "icon-decentralized-decision-making.svg"
 ---
 
 <div style="display:none;">
- <p><span class="_paradigm">BANNER</span>s kick off the process of expanding the co-owner base.</p>
+ <p><span class="_paradigm">Banner</span>s kick off the process of expanding the co-owner base.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Imagine that a <span class="_paradigm">Radical</span> company uses <span class="_paradigm">BANNER</span> to propose a project. The <span class="_paradigm">BANNER</span> includes its description including the skills and resources they might need. After a period of giving it shape, the <span class="_paradigm">BANNER</span> is funded.</p>
+ <p>Imagine that a <span class="_paradigm">Radical</span> company uses <span class="_paradigm">Banner</span> to propose a project. The <span class="_paradigm">Banner</span> includes its description including the skills and resources they might need. After a period of giving it shape, the <span class="_paradigm">Banner</span> is funded.</p>
 
 <h1>First Team, First Failure</h1>
  <p>As a decentralized company, everybody participates in strategizing. That is generally a good thing, but, in this case, people can&rsquo;t agree on what strategy to take. Even though these people are co-owners, they are frozen and can&rsquo;t take the next step.</p>

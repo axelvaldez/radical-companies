@@ -62,7 +62,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
   </div>
  
 <h1>BANNERs</h1>
- <p>You can also create <span class="_paradigm">BANNER</span>s for these eventualities. These can be individual <span class="_paradigm">BANNER</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,&rdquo; </p>
+ <p>You can also create <span class="_paradigm">Banner</span>s for these eventualities. These can be individual <span class="_paradigm">Banner</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,&rdquo; </p>
  <div class="_center">
   <img
    src="/assets/img/pic-dont-screw-with-my-benefits-01.svg"
