@@ -51,13 +51,13 @@ image:    "icon-gov.svg"
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction. Ditto for water purification.</p>
     <div class='_center'>
+<!--    
      <table class='_h2table'>
       <tr>
        <th>Zoning and Building Regulations</th>
        <td>
         <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
         <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
-        <p>Off the list.</p>
        </td>
       </tr>
       <tr>
@@ -77,10 +77,11 @@ image:    "icon-gov.svg"
        <th>Police, Fire, Paramedic</th>
        <td>
         <p>The first thing to note about the police is that it is <em>a force</em>, carrying lethal weapons. They <em>fight</em> criminals, people who don&rsquo;t abide by the rules and would harm the rest of us, well behaved citizens. We want them to do a lot besides that: caretakers and givers, arbiters, the calmest person in the room and the most aggressive person in the room. In the face of all these conflicting roles, they often default to the threat of violence and violence itself. I doubt that there&rsquo;d be a need for specialized police—people would do most of it—but even if there is, it would be very different than it is today.</p>
-        <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for Banners.</p>
+        <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for <span class="_paradigm">Banners.</span></p>
        </td>
       </tr>
      </table>
+  -->
     </div>
 
 <h1>State Government</h1>
