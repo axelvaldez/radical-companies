@@ -82,20 +82,6 @@ image:    "icon-gov.svg"
   </table>
  </div>
 
-<h1>Infrastructe</h1>
-  <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
-   <div class='_center'>
-    <table class='_h2table'>
-     <tr>
-      <th>Zoning and Building Regulations</th>
-      <td>
-       <p>Zoning strikes me as a weak way to try and control the worst tendencies of FIAT landowners. But keeping the &ldquo;bad&rdquo; buildings away from the residential buildings is not harmless. And it is not a solution, either. I&rsquo;d rather trust each hyper-local community, people who know each other, to make those decisions using the <span class="_paradigm">Radical</span> system rather than a city government.</p>
-       <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
-      </td>
-     </tr>
-    </table>
-   </div>
-
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the intrastate level, the State police, and its National Guard.</p>
  <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise, either where nobody outright loses and the winner is obfuscated. That&rsquo;s the <span class="_paradigm">Fiat</span> way.</p>
