@@ -50,7 +50,9 @@ image:    "icon-gov.svg"
 
 <h1>Parks, Water</h1>
    <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
+<!--
     <div class='_center'>
+-->
      <table class='_h2table'>
       <tr>
        <th>Zoning and Building Regulations</th>
@@ -59,6 +61,7 @@ image:    "icon-gov.svg"
         <p>There might be a coordinating function needed as well as expertise but that can be handled by <span class="_paradigm">Radical</span> companies.</p>
        </td>
       </tr>
+     </table>
 <!--
       <tr>
        <th>Waste Removal</th>
@@ -80,9 +83,9 @@ image:    "icon-gov.svg"
         <p>Fire abatement has been around for a long time. At the beginning putting out fires was a paid <span class="_paradigm">Fiat</span> business, &ldquo;you have to pay before we put out the fire.&rdquo; Eventually it became a public service. I imagine that fire abatement, paramedics, and disaster help would all come as a service paid for <span class="_paradigm">Banners.</span></p>
        </td>
       </tr>
--->
      </table>
     </div>
+-->
 
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution, the State police, and its National Guard.</p>
