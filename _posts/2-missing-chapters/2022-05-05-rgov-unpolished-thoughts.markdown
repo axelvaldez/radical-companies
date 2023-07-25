@@ -10,6 +10,15 @@ image:    "icon-gov.svg"
  <p>Thoughts about national governments in a <span class="_paradigm">Radical</span>-based world.</p>
 </div>
 
+<div class='_center'>
+ <table class='_h2table'>
+  <tr>
+   <th>Negrita</th>
+   <td>Blanquita</td>
+  </tr>
+  </table>
+</div>
+
 <h1>Introduction</h1>
  <p>In the book <em>RADICAL COMPANIES: Without Bosses or Employees</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we considered how the <span class="_paradigm">Radical</span> model would work in a company environment, but we said next to nothing about money<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>, land<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>, or government.</p>
  <p>Later, in <span class="_paradigm">rCoin: Decentralized Minting</span>, I laid out my ideas about money and what it would look like in a decentralized, transparent world. In <span class="_paradigm">rLand</span>, I wrote down my thoughts on how land would be handled in a <span class="_paradigm">Radical</span> world.</p>
@@ -48,7 +57,7 @@ image:    "icon-gov.svg"
    <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via <span class="_paradigm">RAD</span>s.</p>
    <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
 
-     <table class="_h2table">
+<table class="_h2table">
       <tr>
        <th>Zoning and Building Regulations</th>
        <td>
@@ -84,15 +93,16 @@ image:    "icon-gov.svg"
       </tr>
      </table>
 
-<h1>Parks, Water</h1>
-   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
-    <div class='_center'>
-     <table class='_h2table'>
-      <tr>
-       <th>Negrita</th>
-       <td>Blanquita</td>
-     </table>
-    </div>
+<h1>Infrastructurer</h1>
+  <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>Negrita</th>
+      <td>Blanquita</td>
+     </tr>
+    </table>
+   </div>
 
 <h1>State Government</h1>
  <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the intrastate level, the State police, and its National Guard.</p>
