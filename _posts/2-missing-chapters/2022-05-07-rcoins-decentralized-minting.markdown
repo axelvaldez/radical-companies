@@ -421,7 +421,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>Then you adjust your app to raise the risk of similar companies.</p>
 
 <h1>What about people who cannot work?</h1>
- <p>Some people will be unable to contribute to a company, for whatever reason. But to their family</p>
+ <p>Some people will be unable to contribute to a company, for whatever reason. But they still can contribute to their family, etc.</p>
 
 <h1>Is risk associated with companies or with rCoins?</h1>
  <p>A <span class="_paradigm">rCoin</span>s log includes all the information needed to calculate the <span class="_paradigm">rCoin</span>&rsquo;s potential risk and benefits. But, this date comes from the company behind the minted <span class="_paradigm">rCoin</span>s. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they&rsquo;ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities&rsquo; satisfaction.</p>
