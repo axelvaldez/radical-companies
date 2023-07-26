@@ -358,12 +358,20 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. National fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry super computers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>What prevents a company from continuously taking on new debt to retire old debt?</th>
     <td>
      <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>What if co-owners pay themselves a huge amount of rCoins and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</th>
     <td>
@@ -384,6 +392,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>They are not competing.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>PotatoCO mints rCoins to pay for the now higher priced shovel.</th>
     <td>
@@ -391,6 +403,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>People will continue to make mistakes and miss estimates. <span class="_paradigm">rCoin</span>s won&rsquo;t change human nature. But co-owners can mint the <span class="_paradigm">rCoin</span>s they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>But this means that another potato grower buys a tractor and grows even more potatoes!</th>
     <td>
@@ -398,6 +414,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Maybe the tractor turns out to be a lemon and doesn&rsquo;t help him produce more or better potatoes. He probably won&rsquo;t be able to retire the debt he took on to buy it.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>What if JerryCO, a brand new startup with no revenue, needs rCoins to get started, can it just mint them?</th>
     <td>
@@ -407,12 +427,20 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own <span class="_paradigm">rCoin</span>s will go down and will be able to pay with a mix of its own <span class="_paradigm">rCoin</span>s and co-investment <span class="_paradigm">rCoin</span>s. Oh, and those JerryCO&rsquo;s<span class="_paradigm">Coin</span>s that were taken at less than face value, would be up as well. And, yes, those who took them early would benefit.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn&rsquo;t get enough rCoins? Can&rsquo;t she convince the other co-owners to pay themselves more rCoins?</th>
     <td>
      <p>For BenCO co-owners to pay themselves a lot more <span class="_paradigm">rCoin</span>s than they actually receive in revenue, they would have to mint the extra <span class="_paradigm">rCoin</span>s. These newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>Do you mean that there is no possible way to defraud the system?</th>
     <td>
@@ -421,6 +449,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>I can imagine that there could be a way to falsify a <span class="_paradigm">rCoin</span>&rsquo;s log, but I&rsquo;ll leave that to smarter people.</p>e newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>Why can&rsquo;t people mint rCoins? Why is it limited to companies?</th>
     <td>
@@ -429,6 +461,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Having said all that, indivduals could mint<span class="_paradigm">Coin</span>s to their heart&rsquo;s content. The question is if anybody will take them.</p>e newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>What if a company mints rCoins and then is not able to retire the debt?</th>
     <td>
@@ -436,6 +472,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>The overall costs will be negligible. It happens all the time today and nobody notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so. But the system absorbs the losses, magically.</p>e newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
    <tr>
+  </table>
+ </div>
+ <div class='_center'>
+  <table class='_h2table'>
    <tr>
     <th>What about people who retired on their CarelessCO&rsquo;s rCoins?</th>
     <td>
@@ -448,7 +488,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
        <li>All the <span class="_paradigm">rCoin</span>s I have are the ones discredited. In fact, I was one of the co-owners who supported the minting (we were sure we could do it). In this case, I screwed myself financially, but I learned something in the process. I have to return the boat and join WiserCO.</li>
       </ol>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>What if lots of companies disband at the same time?</th>
     <td>
