@@ -409,7 +409,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>The overall costs will be negligible. It happens all the time today and nobody notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so. But the system absorbs the losses, magically.</p>
 
 <h3>What about people who retired on their CarelessCO&rsquo;s rCoins?</h3>
- <p> I think that in a <span class="_paradigm">Radical</span> world, &ldquo;retiring&rdquo; will be a thing of the past (<em>i.e.</em>, our present). People &ldquo;retire&rdquo; today because they&rsquo;ve been putting up with their job for many years and they are burned out in more ways than one.</p>
+ <p>Retirement as it is today, is a <span class="_paradigm">Fiat</span> thing and I think that in a <span class="_paradigm">Radical</span> world, &ldquo;retiring&rdquo; will go obsolete. People &ldquo;retire&rdquo; today because they&rsquo;ve been putting up with their job for many years and they are burned out in more ways than one.</p>
  <p>In a <span class="_paradigm">Radical</span> world, the more likely scenario is that people may decide to not join another company for a while and live instead off their portfolio of <span class="_paradigm">RAD</span>s from their past companies. This type of &ldquo;retiring&rdquo; will not be a function of age or tiresomeness, it will be of choice.</p>
  <p>So, let&rsquo;s say that I decide to travel the world on a sailboat, paying for it with CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s and CarelessCO disbands. There could be three cases,</p>
   <ol>
