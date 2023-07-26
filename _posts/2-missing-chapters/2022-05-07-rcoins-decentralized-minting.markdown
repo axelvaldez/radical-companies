@@ -344,12 +344,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
        alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoin +100 New for a TOTAL of 200 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 2000 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 rCoins. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 300 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 3000 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 rCoins. Some JerryCO co-owners have more rCoins than others.">
     </td>
    </tr>
-  </table>
- </div>
-
-<h1 class='_section'>Appendix: FAQ</h1>
- <div class='_center'>
-  <table class='_h2table'>
    <tr>
     <th>Companies minting rCoins without any rules sounds really, really crazy!</th>
     <td>
@@ -358,21 +352,12 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. National fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry super computers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class='_center'>
-  <table class='_h2table'>
    <tr>
     <th>What prevents a company from continuously taking on new debt to retire old debt?</th>
     <td>
      <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class='_center'>
-  <table class='_h2table'>
-   <tr>
     <th>What if co-owners pay themselves a huge amount of rCoins and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</th>
     <td>
      <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s. They may have lots and lots of <span class="_paradigm">rCoin</span>s, but they would not be welcome by most people.</p>
@@ -380,8 +365,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
    </tr>
   </table>
  </div>
-
-<h1 class='_section'>Appendix: FAQ</h1>
  <div class='_center'>
   <table class='_h2table'>
    <tr>
@@ -394,6 +377,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <tr>
   </table>
  </div>
+ STOP
  <div class='_center'>
   <table class='_h2table'>
    <tr>
