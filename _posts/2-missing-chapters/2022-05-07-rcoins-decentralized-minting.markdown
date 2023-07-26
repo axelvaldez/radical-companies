@@ -371,12 +371,13 @@ image:    "icon-rcoins-decentralized-minting.svg"
  </div>
 
 <h1>The potato grower uses the rCoins he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h1>
-  <p>Yes, that could happen. Like it does today.</p>
-  <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If he is stubborn, too, would go out of business.</p>
+ <p>Yes, that could happen. Like it does today.</p>
+ <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel make is stubborn, too, would go out of business. Another thing that could happen is that the stubborn shovel make would ask the new kind in town and the kid would tell him.</p>
+ <p>They are not competing.</p>
 
 <h1>PotatoCO mints rCoins to pay for the now higher priced shovel.</h1>
-  <p>If PotatoCO&rsquo;s co-owners figure that the new price is a fair price and there&rsquo;s no other supplier around, it would have to do that. They would have to make sure that they can get enough <span class="_paradigm">rCoin</span>s from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
-  <p>People will continue to make mistakes and miss estimates. <span class="_paradigm">rCoin</span>s won&rsquo;t change human nature. But co-owners can mint the <span class="_paradigm">rCoin</span>s they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
+ <p>If PotatoCO&rsquo;s co-owners figure that the new price is a fair price and there&rsquo;s no other supplier around, it would have to do that. They would have to make sure that they can get enough <span class="_paradigm">rCoin</span>s from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
+ <p>People will continue to make mistakes and miss estimates. <span class="_paradigm">rCoin</span>s won&rsquo;t change human nature. But co-owners can mint the <span class="_paradigm">rCoin</span>s they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
 
 <h1>But this means that another potato grower buys a tractor and grows even more potatoes!</h1>
  <p>Yes. This means that people can experiment more.</p>
