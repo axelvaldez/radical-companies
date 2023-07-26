@@ -400,6 +400,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 <h1>Why can&rsquo;t people mint rCoins? Why is it limited to companies?</h1>
  <p>In the RADICAL model, a company is a community of people who come together to contribute broad value to society and make an impact in the world. This means that co-owners may be motivated to mind <span class="_paradigm">rCoin</span>s, but the risks of doing so may hold them back. Do we believe that we can retire the debt? Can we do as we are promising?</p>
  <p>Maybe individuals can weigh all those considerations by themselves, but I know I couldn&rsquo;t, at least not in a balanced way. When the pros and cons are weighed by the broader consideration of a community, the final decision is more balanced.</p>
+ <p>Having said all that, people could mint rCoins to their heart&rsquo;s content. The question is if anybody will take them.</p>
 
 <h1>What if a company mints rCoins and then is not able to retire the debt?</h1>
  <p>Yes, this kind of thing will happen. And, in case you&rsquo;re asking, there is no punishment for the people involved in this.</p>
