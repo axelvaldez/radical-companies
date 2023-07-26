@@ -239,8 +239,9 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>rCoin Risks and Benefits</h1>
  <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a> while money stuffed under a mattress only benefits the hoarder.</p>
- <p>People have figured out that, in today&rsquo;s world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will &ldquo;rot&rdquo;). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments for controlling the value and availability of its coinage. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that &ldquo;inflation is bad,&rdquo; but we cannot do anything about it.</p>
- <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There&rsquo;s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at a national level. The poster child of demurrage is the <em>Miracle of W&ouml;rgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a>. During the Great Depression, the town of W&ouml;rgl, Austria, was quickly running out of money, like most of the world. The mayor issued W&ouml;rgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency &ldquo;rot.&rdquo;</p>
+ <p>People have figured out that, in the <span class="_paradigm">Fiat</span> world one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will &ldquo;rot&rdquo;). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that &ldquo;inflation is bad,&rdquo; but we cannot do anything about it.</p>
+ <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There&rsquo;s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used at other tha local levels. The poster child of demurrage is the <em>Miracle of W&ouml;rgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a>.</p>
+ <p>During the Great Depression, the town of W&ouml;rgl, Austria, was quickly running out of money, like most of the world. The mayor issued W&ouml;rgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency &ldquo;rot.&rdquo;</p>
  <table>
   <tr>
    <td>
@@ -256,24 +257,27 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <td>The bills had <em>52 spaces on the reverse side, one for each week of the year.</em><a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a> This meant that the script kept its face value only for one week.</td>
   </tr>
  </table>
- <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> Regardless of their good intentions, these rates of decay are picked out of thin air.</p>
+ <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> These rates of decay were picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every <span class="_paradigm">rCoin</span> carries a log of all the information people need to decide whether or not to accept it.</p>
   <img
    src="/assets/img/en-rad-auto-inflation.svg"
    alt="Table, with RISKS along the horizontal axis and BENEFITS along the vertical axis. 1) When rCoins are low in RISKS and BENEFITS, there is high acceptance of them. 2) When rCoins come with high RISKS and low BENEFITS, there will resistance to accept them. 3) When rCoins come with low RISKS and high BENEFITS, they have high acceptance. 4) When rCoins have high RISKS and high BENEFITS, there will be a high resistance to accepting them.">
- <h2>Calculating Risk</h2>
-  <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
-  <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
- <h2>Calculating Benefits</h2>
-  <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
-  <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
-   <img
-    src="/assets/img/en-rads-value-increase.svg"
-    alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 rCoins per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 rCoins per RAD."
-   >
-  </p>
- <h3>Other Value Factors</h3>
-  <p>Other things that may affect company value,</p>
+
+<h1>Calculating Risk</h1>
+ <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
+ <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
+
+<h1>Calculating Benefits</h1>
+ <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
+ <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
+  <img
+   src="/assets/img/en-rads-value-increase.svg"
+   alt="Table. Four columns by three rows. First row: After Month 1; +100 in Revenue;+100 New RADs; each RAD is worth one 100th; or one rCoin per RAD. After month 2: revenue is up by 1000; +100 New RADs; each worth one 200th of total; or 10 rCoins per RAD. After Month 3: revenue has gone up by 5000; +100 New RADs; each woth one 300%th; or 50 rCoins per RAD."
+  >
+ </p>
+
+<h1>Other Value Factors</h1>
+ <p>Other things that may affect company value,</p>
   <ul>
    <li>As a company creates more value, it gets more revenue, and it generates more <span class="_paradigm">rCoin</span>s. The revenue <span class="_paradigm">rCoin</span>s are allocated according to each person&rsquo;s broad contributions. Co-owners decide what is a broad contribution according to the value they perceive.</li>
    <li>If a company walks away from debt,<a href="#en23"><sup id="bm23">&hairsp;&nabla;&hairsp;</sup></a> it&rsquo;s reputation goes down, and its <span class="_paradigm">rCoin</span>s go down in value.</li>
