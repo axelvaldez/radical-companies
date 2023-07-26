@@ -341,25 +341,42 @@ image:    "icon-rcoins-decentralized-minting.svg"
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
    <img
     src="/assets/img/en-rad-auto-inflation-b.svg"
-    alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoin +100 New for a TOTAL of 200 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 2000 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 rCoins. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 300 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 3000 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 rCoins. Some JerryCO co-owners have more rCoins than others."
-   >
+    alt="Four tables. Three rows each. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoin +100 New for a TOTAL of 200 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 23% for the fourth. They each get 40, 70, 30, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 2000 rCoins. Second row is RAD DISTRIBUTION, distributed as 20% for the first person, 35% for the second, 15% for the third, and 30% for the fourth (the same as for BenCO). They each get 400, 700, 300, and 600 rCoins. Below there are two more tables. For BenCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +100 New for a TOTAL of 300 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth. They each get 120, 45, 45, and 60 rCoins. For JerryCO: first row is EARNED DIVIDENDS (in RADICAL rCoins); +1000 New for a TOTAL of 3000 rCoins. Second row is RAD DISTRIBUTION, distributed as 40% for the first person, 15% for the second, 15% for the third, and 20% for the fourth (the same as for BenCO). They each get 1200, 450, 450, and 600 rCoins. Some JerryCO co-owners have more rCoins than others.">
   </p>
 
 <h1 class='_section'>Appendix: FAQ</h1>
- <h3 style="padding-top:0;">Companies minting rCoins without any rules sounds really, really crazy!</h3>
-  <p>If that sounds &ldquo;crazy,&rdquo; then the financial system we have today is crazier. And it is business hostile, on top.</p>
-  <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation and the behavior of the backers. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
-  <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. National fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry super computers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
- <h3>Why not make co-owners responsible for personally retiring the debt?</h3>
-  <p>TBD</p>
- <h3>What prevents a company from continuously taking on new debt to retire old debt?</h3>
-  <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
- <h3>What if co-owners pay themselves a huge amount of rCoins and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</h3>
-  <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s. They may have lots and lots of <span class="_paradigm">rCoin</span>s, but they would not be welcome by most people.</p>
+ <div class='_center'>
+  <table class='_h2table'>
+   <tr>
+    <th>Companies minting rCoins without any rules sounds really, really crazy!</th>
+    <td>
+     <p>If that sounds &ldquo;crazy,&rdquo; then the financial system we have today is crazier. And it is business hostile, on top.</p>
+     <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation and the behavior of the backers. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
+     <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. National fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry super computers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Why not make co-owners responsible for personally retiring the debt?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <th>What prevents a company from continuously taking on new debt to retire old debt?</th>
+    <td>
+     <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>What if co-owners pay themselves a huge amount of rCoins and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</th>
+    <td>
+     <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s. They may have lots and lots of <span class="_paradigm">rCoin</span>s, but they would not be welcome by most people.</p>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>The potato grower uses the rCoins he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h1>
-  <p>Yes, that could happen, as it does today.</p>
-  <p>Eventually, another shovel-maker would appear and make shovels that people can afford. The greedy shovel maker would go out of business.</p>
+  <p>Yes, that could happen. Like it does today.</p>
+  <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If he is stubborn, too, would go out of business.</p>
 
 <h1>PotatoCO mints rCoins to pay for the now higher priced shovel.</h1>
   <p>If PotatoCO&rsquo;s co-owners figure that the new price is a fair price and there&rsquo;s no other supplier around, it would have to do that. They would have to make sure that they can get enough <span class="_paradigm">rCoin</span>s from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
