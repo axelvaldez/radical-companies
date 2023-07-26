@@ -455,7 +455,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>A <span class="_paradigm">rCoin</span>s log includes all the information needed to calculate the <span class="_paradigm">rCoin</span>&rsquo;s potential risk and benefits. But, this date comes from the company behind the minted <span class="_paradigm">rCoin</span>s. In all likelihood, it would include the number of co-owners who agreed to the mint and its how well they&rsquo;ve kept to their promises. It would also include that a case has been made by several communities that the company is harming them and whether or not the situation has been resolved to the communities&rsquo; satisfaction.</p>
      <p>For each <span class="_paradigm">rCoin</span>s, the log holds facts, not judgements and each of us gets to decide what to do with them.</p>
     </td>
-   <tr>
+   </tr>
   </table>
  </div>
  <h1>STOP. STOP.</h1>
