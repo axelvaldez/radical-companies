@@ -95,9 +95,9 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>A <span class="_paradigm">Radical</span> world prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We&rsquo;ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number or angels. But we will trust each other from collaborating and creating wealth together.</p>
 
 <h1>The Radical Model</h1>
-  <p>We are used to companies being governed by <span class="_paradigm">Fiat</span> hierarchies, with an owner at the top telling us <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it.</p>
-  <p>In the <span class="_paradigm">Radical</span> model a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word &ldquo;company&rdquo; because it has an interesting origin. The word company comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means &ldquo;together&rdquo; and <em>pan</em> means &rdquo;bread.&rdquo; <em>Company</em>, then, means &ldquo;people who break bread together.&rdquo; In the <span class="_paradigm">Radical</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
-  <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to co-own and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
+ <p>We are used to companies being governed by <span class="_paradigm">Fiat</span> hierarchies, with an owner at the top telling us <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it.</p>
+ <p>In the <span class="_paradigm">Radical</span> model a <em>company</em> is a group of people coming together to create something bigger than each of them. Other labels abound, but we chose the word &ldquo;company&rdquo; because it has an interesting origin. The word company comes from Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means &ldquo;together&rdquo; and <em>pan</em> means &rdquo;bread.&rdquo; <em>Company</em>, then, means &ldquo;people who break bread together.&rdquo; In the <span class="_paradigm">Radical</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
+ <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to co-own and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
   <div class="_center">
    <img
     src="/assets/img/en-alignment.svg"
@@ -105,26 +105,27 @@ image:    "icon-rcoins-decentralized-minting.svg"
     style="text-align:center; width:90%; "
    >
   </div>
-  <p>They do this starting from a simple Foundation,</p>
-   <div class="_center">
-    <table class="_h2table">
-     <tr>
-      <th>people</th>
-      <td>Meaning & Belonging</td>
-     </tr>
-     <tr>
-      <th>commitments</th>
-      <td>Decentralization & Transparency</td>
-     </tr>
-     <tr>
-      <th>practices</th>
-      <td>Experimentation</td>
-     </tr>
-    </table>
-   </div>
- <h2>rCoins as Collaboration</h2>
-  <p>As I see it, the <span class="_paradigm">Radical</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></p>
-  <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of collaboration.</p>
+ <p>They do this starting from a simple Foundation,</p>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
+
+<h1>rCoins as Collaboration</h1>
+ <p>As I see it, the <span class="_paradigm">Radical</span> model of co-ownership and co-management is the next stage in collaboration. Everything humanity has accomplished has been based on collaboration, but we have acted as if dominance by a few is the only way to achieve <em><em>progress</em>.</em><a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of collaboration.</p>
 
 <h1>rCoins for a World-Wide Market</h1>
  <p>A world-wide market would bring us together rather than keeping us siloed by the Rube Goldberg markets we have today.</p>
