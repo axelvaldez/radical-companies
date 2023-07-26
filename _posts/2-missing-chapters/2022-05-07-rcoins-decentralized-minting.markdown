@@ -371,21 +371,21 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel make is stubborn, too, he would go out of business. Or it coulde happen that the stubborn shovel maker is not so stubborn after all and would ask the new kind in town and the kid would tell him.</p>
      <p>They are not competing.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>PotatoCO mints rCoins to pay for the now higher priced shovel.</th>
     <td>
      <p>If PotatoCO&rsquo;s co-owners figure that the new price is a fair price and there&rsquo;s no other supplier around, it would have to do that. They would have to make sure that they can get enough <span class="_paradigm">rCoin</span>s from future potatoes to retire the debt as promised. Otherwise, they are going to pay with a lower reputation and value and less buying power for the co-owners.</p>
      <p>People will continue to make mistakes and miss estimates. <span class="_paradigm">rCoin</span>s won&rsquo;t change human nature. But co-owners can mint the <span class="_paradigm">rCoin</span>s they need to run their companies without worrying about the color of their skin, or their gender, or church affiliation.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>But this means that another potato grower buys a tractor and grows even more potatoes!</th>
     <td>
      <p>Yes. This means that people can experiment more.</p>
      <p>Maybe the tractor turns out to be a lemon and doesn&rsquo;t help him produce more or better potatoes. He probably won&rsquo;t be able to retire the debt he took on to buy it.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>What if JerryCO, a brand new startup with no revenue, needs rCoins to get started, can it just mint them?</th>
     <td>
@@ -394,13 +394,13 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO&rsquo;s product is complementary to theirs and will help the market grow. Or JerryCO promises to &ldquo;repay&rdquo; twice the original amount of this investment.</p>
      <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own <span class="_paradigm">rCoin</span>s will go down and will be able to pay with a mix of its own <span class="_paradigm">rCoin</span>s and co-investment <span class="_paradigm">rCoin</span>s. Oh, and those JerryCO&rsquo;s<span class="_paradigm">Coin</span>s that were taken at less than face value, would be up as well. And, yes, those who took them early would benefit.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn&rsquo;t get enough rCoins? Can&rsquo;t she convince the other co-owners to pay themselves more rCoins?</th>
     <td>
      <p>For BenCO co-owners to pay themselves a lot more <span class="_paradigm">rCoin</span>s than they actually receive in revenue, they would have to mint the extra <span class="_paradigm">rCoin</span>s. These newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>Do you mean that there is no possible way to defraud the system?</th>
     <td>
@@ -408,7 +408,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Every time I think of something, the system manages to protect itself. And it is all because of <em>the transparency built into it</em>.</p>
      <p>I can imagine that there could be a way to falsify a <span class="_paradigm">rCoin</span>&rsquo;s log, but I&rsquo;ll leave that to smarter people.</p>e newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>Why can&rsquo;t people mint rCoins? Why is it limited to companies?</th>
     <td>
@@ -416,18 +416,14 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Maybe individuals can weigh all those considerations by themselves, but I know I couldn&rsquo;t, at least not in a balanced way. When the pros and cons are weighed by the broader consideration of a community, the final decision is more balanced.</p>
      <p>Having said all that, indivduals could mint<span class="_paradigm">Coin</span>s to their heart&rsquo;s content. The question is if anybody will take them.</p>e newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>What if a company mints rCoins and then is not able to retire the debt?</th>
     <td>
      <p>Yes, this kind of thing will happen. And, in case you&rsquo;re asking, there is no punishment for the people involved in this.</p>
      <p>The overall costs will be negligible. It happens all the time today and nobody notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so. But the system absorbs the losses, magically.</p>e newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
     </td>
-   <tr>
-  </table>
- </div>
- <div class='_center'>
-  <table class='_h2table'>
+   </tr>
    <tr>
     <th>What about people who retired on their CarelessCO&rsquo;s rCoins?</th>
     <td>
@@ -446,13 +442,13 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <td>
      <p>Then you adjust your app to raise the risk of similar companies.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>What about people who cannot work?</th>
     <td>
      <p>Some people will be unable to contribute to a company, for whatever reason. But they still can contribute to their family, etc.</p>
     </td>
-   <tr>
+   </tr>
    <tr>
     <th>Is risk associated with companies or with rCoins?</th>
     <td>
