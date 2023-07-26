@@ -460,7 +460,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
-  <ul style="font-size:smaller; ">
+  <ul>
    <li id="en01">
     <p class="_list-item">
      Matt Perez, Adrian Perez, Jose Leal.
