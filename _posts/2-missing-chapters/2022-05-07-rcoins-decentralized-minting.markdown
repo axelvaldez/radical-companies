@@ -394,7 +394,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>Do you mean that there is no possible way to defraud the system?</h1>
  <p>It simply means that I can&rsquo;t think of a way of doing that.</p>
- <p>Every time I think of something, the system manages to protect itself. And it is all because of the transparency built into it.</p>
+ <p>Every time I think of something, the system manages to protect itself. And it is all because of <em>the transparency built into it</em>.</p>
  <p>I can imagine that there could be a way to falsify a <span class="_paradigm">rCoin</span>&rsquo;s log, but I&rsquo;ll leave that to smarter people.</p>
 
 <h1>Why can&rsquo;t people mint rCoins? Why is it limited to companies?</h1>
