@@ -292,9 +292,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<a href="#en24"><sup id="bm24">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
-<h1 class="_section">APPENDICES</h1>
-
-<h1>BAD ACTORS</h1>
+<h1 class='_section'>Appendix: Bad Actors</h1>
   <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p>We don&rsquo;t normally think of these, below, as bad actors. But they are. They fall back on their <span class="_paradigm">Fiat</span> world habits and are a drag on moving forward to a <span class="_paradigm">Radical</span> world.</p>
    <div class="_center">
@@ -330,6 +328,8 @@ image:    "icon-rcoins-decentralized-minting.svg"
    </table>
   </div>
   
+<h1 class='_section'>Appendix: FAQ</h1>
+
 <h1 id="VaryingBuyingPower">VARYING BUYING POWER</h1>
   <p>I am selling potatoes at 40 <span class="_paradigm">rCoin</span>s per dozen. After the first month, <strong>Ⓐ</strong> below, and his co-owners don&rsquo;t have enough <span class="_paradigm">rCoin</span>s to buy my potatoes, but <strong>Ⓔ</strong> and his co-owners do. It may be that JerryCO is more efficient or maybe its products or services are more valuable. Either way, BenCO&rsquo;s co-owners end up with less buying power than JerryCO&rsquo;s co-owners.</p>
   <p style="font-family: courier new; text-align: center; width: 75%; border: silver dotted 1px; margin: auto; margin-bottom: 20px; ">
@@ -407,7 +407,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>Yes, this kind of thing will happen. And, in case you&rsquo;re asking, there is no punishment for the people involved in this.</p>
  <p>The overall costs will be negligible. It happens all the time today and nobody notices. Yes, the people involved in a bankruptcy get punished, ruthlessly so. But the system absorbs the losses, magically.</p>
 
-<h3>What about people who retired on their CarelessCO&rsquo;s rCoins?</h3>
+<h1>What about people who retired on their CarelessCO&rsquo;s rCoins?</h1>
  <p>Retirement as it is today, is a <span class="_paradigm">Fiat</span> thing and I think that in a <span class="_paradigm">Radical</span> world, &ldquo;retiring&rdquo; will go obsolete. People &ldquo;retire&rdquo; today because they&rsquo;ve been putting up with their job for many years and they are burned out in more ways than one.</p>
  <p>In a <span class="_paradigm">Radical</span> world, the more likely scenario is that people may decide to not join another company for a while and live instead off their portfolio of <span class="_paradigm">RAD</span>s from their past companies. This type of &ldquo;retiring&rdquo; will not be a function of age or tiresomeness, it will be of choice.</p>
  <p>So, let&rsquo;s say that I decide to travel the world on a sailboat, paying for it with CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s and CarelessCO disbands. There could be three cases,</p>
