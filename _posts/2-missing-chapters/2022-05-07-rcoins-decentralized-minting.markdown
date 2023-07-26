@@ -135,9 +135,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
   <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today&rsquo;s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the ultimate pricing engine.</p>
- <h2>Decentralized Minting of rCoins</h2>
-  <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
-  <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
+
+<h1>Decentralized Minting of rCoins</h1>
+ <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
+ <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
 
 <h1>rCoins Are Transparent</h1>
  <p>National fiat coins are opaque. In theory that&rsquo;s good because it reduces transaction costs. But this &ldquo;reduction of costs&rdquo; also disables human choice.</p>
@@ -161,7 +162,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>rCoin Qualities</h1>
  <p>These are, in no particular order, a few of the qualities that a <span class="_paradigm">rCoin</span> must have,</p>
- <h3>Decentralized Minting of rCoins</h3>
+ <h3>Decentralized Minting of<span class="_paradigm">Coin</span>s</h3>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not a national government.</p>
   <div class="_center">
    <img
@@ -370,7 +371,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
   </table>
  </div>
 
-<h1>The potato grower uses the rCoins he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h1>
+<h1>The potato grower uses the<span class="_paradigm">Coin</span>s he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h1>
  <p>Yes, that could happen. Like it does today.</p>
  <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel make is stubborn, too, would go out of business. Another thing that could happen is that the stubborn shovel maker is not so stubborn and would ask the new kind in town and the kid would tell him.</p>
  <p>They are not competing.</p>
@@ -387,7 +388,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>In this case, most vendors would likely not accept JerryCO&rsquo;s <span class="_paradigm">rCoin</span>s as payments because its <span class="_paradigm">rCoin</span>s would have very high risk.</p>
  <p>Other companies may want to help out JerryCO by giving them <span class="_paradigm">rCoin</span>s. One or more companies could mint enough <span class="_paradigm">rCoin</span>s for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO&rsquo;s preferred vendors.</p>
  <p>Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO&rsquo;s product is complementary to theirs and will help the market grow. Or JerryCO promises to &ldquo;repay&rdquo; twice the original amount of this investment.</p>
- <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own <span class="_paradigm">rCoin</span>s will go down and will be able to pay with a mix of its own <span class="_paradigm">rCoin</span>s and co-investment <span class="_paradigm">rCoin</span>s. Oh, and those JerryCO&rsquo;s rCoins that were taken at less than face value, would be up as well. And, yes, those who took them early would benefit.</p>
+ <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own <span class="_paradigm">rCoin</span>s will go down and will be able to pay with a mix of its own <span class="_paradigm">rCoin</span>s and co-investment <span class="_paradigm">rCoin</span>s. Oh, and those JerryCO&rsquo;s<span class="_paradigm">Coin</span>s that were taken at less than face value, would be up as well. And, yes, those who took them early would benefit.</p>
 
 <h1>What if a BenCO co-owner wants to buy the latest electric, self-driving car, but she doesn&rsquo;t get enough rCoins? Can&rsquo;t she convince the other co-owners to pay themselves more rCoins?</h1>
  <p>For BenCO co-owners to pay themselves a lot more <span class="_paradigm">rCoin</span>s than they actually receive in revenue, they would have to mint the extra <span class="_paradigm">rCoin</span>s. These newly minted <span class="_paradigm">rCoin</span>s would show a lot of risks and sellers would likely not accept them as payment, particularly for luxury items.</p>
@@ -400,7 +401,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 <h1>Why can&rsquo;t people mint rCoins? Why is it limited to companies?</h1>
  <p>In the RADICAL model, a company is a community of people who come together to contribute broad value to society and make an impact in the world. This means that co-owners may be motivated to mind <span class="_paradigm">rCoin</span>s, but the risks of doing so may hold them back. Do we believe that we can retire the debt? Can we do as we are promising?</p>
  <p>Maybe individuals can weigh all those considerations by themselves, but I know I couldn&rsquo;t, at least not in a balanced way. When the pros and cons are weighed by the broader consideration of a community, the final decision is more balanced.</p>
- <p>Having said all that, people could mint rCoins to their heart&rsquo;s content. The question is if anybody will take them.</p>
+ <p>Having said all that, people could mint<span class="_paradigm">Coin</span>s to their heart&rsquo;s content. The question is if anybody will take them.</p>
 
 <h1>What if a company mints rCoins and then is not able to retire the debt?</h1>
  <p>Yes, this kind of thing will happen. And, in case you&rsquo;re asking, there is no punishment for the people involved in this.</p>
