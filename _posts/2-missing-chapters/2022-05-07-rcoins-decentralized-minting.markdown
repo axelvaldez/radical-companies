@@ -512,7 +512,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
- <div class="footnotes">
   <ul style="font-size:smaller; ">
    <li id="en01">
     <p class="_list-item">
@@ -716,6 +715,5 @@ image:    "icon-rcoins-decentralized-minting.svg"
     </p>
    </li>
   </ul>
-</div>
 
 {% include related.html %}
