@@ -363,10 +363,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s. They may have lots and lots of <span class="_paradigm">rCoin</span>s, but they would not be welcome by most people.</p>
     </td>
    </tr>
-  </table>
- </div>
- <div class='_center'>
-  <table class='_h2table'>
    <tr>
     <th>The potato grower uses the rCoins he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</th>
     <td>
