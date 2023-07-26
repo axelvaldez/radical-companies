@@ -358,6 +358,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
     </td>
    </tr>
+   </tr>
     <th>What if co-owners pay themselves a huge amount of rCoins and keep taking new debt to paper over it? Wouldn&rsquo;t this create massive inflation?</th>
     <td>
      <p>Co-owners could decide to do this, but it goes on the record, so to speak, for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s. They may have lots and lots of <span class="_paradigm">rCoin</span>s, but they would not be welcome by most people.</p>
