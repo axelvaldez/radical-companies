@@ -458,7 +458,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
    </tr>
   </table>
  </div>
- <h1>STOP. STOP.</h1>
 
 <h1 class="_section">ENDNOTES</h1>
   <ul>
@@ -664,7 +663,5 @@ image:    "icon-rcoins-decentralized-minting.svg"
     </p>
    </li>
   </ul>
-
- <h1>PARA. PARA.</h1>
 
 {% include related.html %}
