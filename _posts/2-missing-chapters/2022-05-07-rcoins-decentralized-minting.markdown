@@ -372,7 +372,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>The potato grower uses the rCoins he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</h1>
  <p>Yes, that could happen. Like it does today.</p>
- <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel make is stubborn, too, would go out of business. Another thing that could happen is that the stubborn shovel make would ask the new kind in town and the kid would tell him.</p>
+ <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel make is stubborn, too, would go out of business. Another thing that could happen is that the stubborn shovel maker is not so stubborn and would ask the new kind in town and the kid would tell him.</p>
  <p>They are not competing.</p>
 
 <h1>PotatoCO mints rCoins to pay for the now higher priced shovel.</h1>
