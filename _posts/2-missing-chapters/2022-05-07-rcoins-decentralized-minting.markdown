@@ -356,10 +356,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
     </td>
    </tr>
    <tr>
-    <th>Why not make co-owners responsible for personally retiring the debt?</th>
-    <td>TBD</td>
-   </tr>
-   <tr>
     <th>What prevents a company from continuously taking on new debt to retire old debt?</th>
     <td>
      <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
