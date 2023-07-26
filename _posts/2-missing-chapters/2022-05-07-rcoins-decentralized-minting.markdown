@@ -385,7 +385,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>What if JerryCO, a brand new startup with no revenue, needs rCoins to get started, can it just mint them?</h1>
  <p>In this case, most vendors would likely not accept JerryCO&rsquo;s <span class="_paradigm">rCoin</span>s as payments because its <span class="_paradigm">rCoin</span>s would have very high risk.</p>
- <p>In this case, other companies may want to help out JerryCO by giving them <span class="_paradigm">rCoin</span>s. One or more companies could mint enough <span class="_paradigm">rCoin</span>s for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO&rsquo;s preferred vendors.</p>
+ <p>Other companies may want to help out JerryCO by giving them <span class="_paradigm">rCoin</span>s. One or more companies could mint enough <span class="_paradigm">rCoin</span>s for JerryCO  to get to revenue or to build its minimum viable product. This could include vendors of equipment that JerryCO needs to succeed and the quid pro quo is that they will become JerryCO&rsquo;s preferred vendors.</p>
  <p>Alternatively, the investment may come from a group of adjacent companies. They believe that JerryCO&rsquo;s product is complementary to theirs and will help the market grow. Or JerryCO promises to &ldquo;repay&rdquo; twice the original amount of this investment.</p>
  <p>In any case, as JerryCO starts to show results and a pattern of doing as promised, the risk of its own <span class="_paradigm">rCoin</span>s will go down and will be able to pay with a mix of its own <span class="_paradigm">rCoin</span>s and co-investment <span class="_paradigm">rCoin</span>s.</p>
 
