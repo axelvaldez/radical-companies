@@ -16,7 +16,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>As a counter-example, Bitcoin and other crypto-currencies are not considered legitimate<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> nor sovereign.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> Maybe they will become legitimate for some transactions, but they can never be sovereign. The blockchain is not sustainable and the alternative, less-energy-consuming versions of it are not secure and are manipulable.</p>
 
 <h1>Legitimacy and Sovereignty</h1>
- <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected by a national power. The more legitimate and sovereign the currency, the easier to use it becomes. The seller and buyer of the currency exchange the currency as matter of routine.</p>
+ <p>Legitimacy means you do not have to convince people to accept the particular currency you wish to exchange. Sovereignty means the currency is protected by a national power. The more legitimate and sovereign the currency, the easier to use. The seller and buyer of the currency exchange the currency as matter of routine.</p>
  <p>The seller does not have to explain how the currency is legitimate and the buyer already knows that its lasting value is backed up by a sovereign power.</p>
 
 <h1>rCoins</h1>
