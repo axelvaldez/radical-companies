@@ -458,6 +458,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <tr>
   </table>
  </div>
+ <h1>STOP. STOP.</h1>
 
 <h1 class="_section">ENDNOTES</h1>
   <ul>
