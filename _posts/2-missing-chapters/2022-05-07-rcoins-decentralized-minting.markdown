@@ -128,7 +128,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>Competition has become an obstacle to real progress and it is now getting in the way of the next surge of human accomplishments. Now it&rsquo;s time to move on and build on the foundation of collaboration.</p>
 
 <h1>rCoins for a World-Wide Market</h1>
- <p>A world-wide market would bring us together rather than staying us siloed by the Rube Goldberg markets we have today.</p>
+ <p>A world-wide market would bring us together rather than staying siloed by the Rube Goldberg markets we have today.</p>
  <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
  <p>A decentralized, transparent <span class="_paradigm">rCoin</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
  <h2>rCoins for a Decentralized Market</h2>
