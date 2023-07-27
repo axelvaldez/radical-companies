@@ -609,18 +609,19 @@ table._ninety tr::nth-child(-n + 3) {
   text-indent:0;
 }
 _h2table th {
-  padding-right:1em;
+  text-align:right;
   vertical-align:text-top;
   padding-right:1em;
+  /**/
   font-weight:bold;
   column-width:25%;
-  text-align:right;
 }
 ._h2table td {
-  vertical-align:text-top;
   text-align:left;
-  border-left:black 1px solid;
+  vertical-align:text-top;
   padding-left:1em;
+  /**/
+  border-left:black 1px solid;
   column-width:75%;
 }
 
