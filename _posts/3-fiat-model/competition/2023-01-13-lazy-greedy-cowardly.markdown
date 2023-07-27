@@ -36,6 +36,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
+<!--
     <tr>
      <th>pregunta</th>
      <td>
@@ -45,7 +46,6 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
-<!--
     <tr>
      <th>
       <p>Did you hit him back?</p>
