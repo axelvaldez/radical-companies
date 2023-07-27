@@ -46,14 +46,12 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>Well, the person is likely part of your social circle and you trust them. You accept their <span class="_paradigm">rCoin</span>s at a discount. They do it because,</p>
   <ol>
    <li>The trade will increase the <span class="_paradigm">rCoin</span>s <em>legitimacy</em>.</li>
-   <li>As the cheeseburger-eating people deliver value to the world, the value of their <span class="_paradigm">rCoin</span>s will go up. Now the history of my <span class="_paradigm">rCoin</span>s includes the fact that the company backing them up is <em>sovereign</em> in the sense that it can back up its <span class="_paradigm">rCoin</span>s.</li>
+   <li>As the cheeseburger-eating people deliver value to the world, the value of their <span class="_paradigm">rCoin</span>s will go up. And, who knows, but these <span class="_paradigm">rCoin</span>s may go up in value in the future.</li>
   </ol>
  <p>Note that the first is a given, whereas the second is speculative.</p>
- <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCoin</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, but your mobile will.</p>
- <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCoin</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. As a side note, we used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span>. Well, chatGPT has managed to slap that attitude out.</p>
- <p>Your mobile can tirelessly look through all of the rCoins history and give you a go/no-go signal plus a recommended discount.</p>
- <p>As a side note, we used to tell people that computers could do this, but they rejected out of hand, “it’s… utopian! Well, chatGPT has managed to slap that attitude and people are going ga-ga over &rsquo;AI.&rsquo;
-
+ <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCoin</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, your mobile device will.</p>
+ <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCoin</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. As a side-note, we used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span>. Well, chatGPT and the explosiong of AI this and AI that has managed to slap that attitude right out.</p>
+ 
 <h1>A Herculean Task Ahead</h1>
  <p>As we said at the top of this post, <span class="_paradigm">rCoin</span>s will have a herculean task ahead when it comes to stepping away from tradition. Change is perceived as a threat.</p>
  <p>We are counting on the fact that <span class="_paradigm">rCoin</span>s are on the right side of history. National governments and their banks are on the wrong side, holding us back. Something is going to have to change. Perhaps the change will not result in <span class="_paradigm">rCoin</span>s, but it would be something close to it, that doesn&rsquo;t depend on national interests.</p>
