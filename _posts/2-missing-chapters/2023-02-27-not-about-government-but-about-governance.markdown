@@ -20,8 +20,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
  <p>In dictatorships, people revolt violently and lethally because that is what they have learned and what they know works. In places that lean towards democracy, people also revolt, but through non-violent, non-lethatl ways, like assembling, protesting, and voting. Because that is what they know works.</p>
 
 <h1>Governance, Not Government</h1>
- <p>When I wrote <span class="_paradigm">rGov</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> there was no distinction in my mind between government and governance. I assumed that there would be no borders to defend, no foreign policy to set, and people could co-manage the rest.</p>
- <p>I wish I had figured it out then because what we want is is co-governance.</p>
+ <p>When I wrote <span class="_paradigm">rGov</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> there was no distinction in my mind between government and governance. I wish I had figured it out then because governance is what we want.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>  <li id="en02">
