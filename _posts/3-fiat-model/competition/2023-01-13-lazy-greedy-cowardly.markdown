@@ -36,23 +36,21 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
    <tr>
-    <th>
+    <th>pregunta</th>
+    <td>respuesta</td>
+   </tr>
 <!--
+   <tr>
+    <th>
      <p>Did you hit him back?</p>
--->
     </th>
     <td>
-<!--
      <ul>
       <li>We are taught to be aggressive.</li>
       <li>We see people get ahead by being aggressive.</li>
      </ul>
--->
     </td>
    </tr>
-  </table>
- </div>
-<!--
    <tr>
     <th>Be absolutely sure</th>
     <td>
@@ -81,9 +79,9 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+-->
   </table>
  </div>
--->
 
 <h1>Let&rsquo;s Compete</h1>
  <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.
