@@ -20,10 +20,6 @@ image:    "icon-even-more-questions.svg"
       <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo;, or join them if you are working towards the the exact same impact.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</p>
@@ -32,10 +28,6 @@ image:    "icon-even-more-questions.svg"
       <p>Absolute win, which is what you are describing, is what we know and it is Fiat thinking, for a world driven by capital: I win it all, you lose all. However, it is not the fastest way to have a broad impact in a world based on contributions.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>I don&rsquo;t understand. What if they steal my ideas?</p>
@@ -46,10 +38,6 @@ image:    "icon-even-more-questions.svg"
       <p>Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.  </p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
    <tr>
      <th>
       <p>But what if she doesn't have the skills I need.</p>
@@ -58,10 +46,6 @@ image:    "icon-even-more-questions.svg"
       <p>To make sure&hellip; this is person who knows how to program, right? But she doesn&rsquo;t know the specific language your team needs, is that it?</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>Exactly!</p>
@@ -70,10 +54,6 @@ image:    "icon-even-more-questions.svg"
       <p>And you don&rsquo;t think that she can learn a new language?</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>Right! Well, no&hellip; yes, she can learn. But I need her to know that specific language the minute she walks in the door.</p>
@@ -82,10 +62,6 @@ image:    "icon-even-more-questions.svg"
       <p>That sounds like bad planning on your part, right?&hellip; By the way, do you know how to program?</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>Oh, sure&hellip;</p>
@@ -94,10 +70,6 @@ image:    "icon-even-more-questions.svg"
       <p>And you were you born knowing all the programming languages, ever, rights?</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>Of course not, but&hellip;</p>
