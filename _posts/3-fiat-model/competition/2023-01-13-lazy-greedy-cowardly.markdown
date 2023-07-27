@@ -35,6 +35,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+<!-->
    <tr>
     <th>
      <p>Did you hit him back?</p>
@@ -74,6 +75,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+-->
   </table>
  </div>
 
