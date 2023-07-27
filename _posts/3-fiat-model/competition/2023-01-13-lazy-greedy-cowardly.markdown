@@ -87,9 +87,9 @@ ZZZ
       </ul>
      </td>
     </tr>
--->
    </table>
   </div>
+-->
 
 <h1>Let&rsquo;s Compete</h1>
  <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.
