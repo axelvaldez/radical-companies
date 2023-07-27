@@ -35,8 +35,12 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div> 
+ <div class="_center">
+  <table class="_h2table">
    <tr>
-    <th style="width:25%; ">
+    <th>
      <p>Did you hit him back?</p>
     </th>
     <td>
@@ -46,6 +50,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div> 
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <th>Be absolutely sure</th>
     <td>
@@ -55,6 +63,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div> 
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <th>Rebut</th>
     <td>
@@ -64,6 +76,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div> 
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <th>Debate</th>
     <td>
