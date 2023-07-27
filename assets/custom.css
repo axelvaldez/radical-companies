@@ -612,7 +612,7 @@ table._h2table tr th,
 table._h2table tr th p {
   text-align:right;
   vertical-align:text-top;
-  padding-right:1em;
+  padding-right:.5em;
   /**/
   font-weight:bold;
   column-width:25%;
@@ -624,10 +624,11 @@ table._h2table tr td p {
   padding-left:1em;
   /**/
   padding-right:0;
-  border-left:black 1px solid;
   column-width:75%;
 }
-
+table._h2table tr td {
+  border-left:black 1px dotted;
+}
 /*
  */
 img {
