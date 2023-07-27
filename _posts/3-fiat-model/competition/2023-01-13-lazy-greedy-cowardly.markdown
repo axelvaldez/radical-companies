@@ -33,6 +33,11 @@ ZZZ
        <li>Name dropping is a tool of competition.</li>
        <li>In the <span class='_paradigm'>Fiat</spam> world, you have to build up your credibility before people listen to you, and quoting &ldquo;experts, authorities,&rdquo; and other well known people builds your credibility.</li>
        <li>So, you learn to do it all the time hoping that one day it will let you get in the real race.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+    </tr>
 <!--
       </ul>
      </td>
