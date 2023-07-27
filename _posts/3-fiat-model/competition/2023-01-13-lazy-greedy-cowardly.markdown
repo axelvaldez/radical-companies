@@ -37,7 +37,12 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </tr>
     <tr>
      <th>pregunta</th>
-     <td>respuesta</td>
+     <td>
+      <p>respuesta</p>
+      <ul>
+       <li>respuesta</li>
+      </ul>
+     </td>
     </tr>
 <!--
     <tr>
