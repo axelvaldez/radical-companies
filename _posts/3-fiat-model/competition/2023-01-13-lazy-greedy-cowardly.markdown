@@ -31,57 +31,59 @@ image:    "icon-lazy-greedy-cowardly.svg"
       <ul>
        <li>Name dropping is a tool of competition.</li>
        <li>In the <span class='_paradigm'>Fiat</spam> world, you have to build up your credibility before people listen to you, and quoting &ldquo;experts, authorities,&rdquo; and other well known people builds your credibility.</li>
-      <li>So, you learn to do it all the time hoping that one day it will let you get in the real race.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>pregunta</th>
-    <td>respuesta</td>
-   </tr>
+       <li>So, you learn to do it all the time hoping that one day it will let you get in the real race.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>pregunta</th>
+     <td>respuesta</td>
+    </tr>
 <!--
-   <tr>
-    <th>
-     <p>Did you hit him back?</p>
-    </th>
-    <td>
-     <ul>
-      <li>We are taught to be aggressive.</li>
-      <li>We see people get ahead by being aggressive.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Be absolutely sure</th>
-    <td>
-     <ul>
-      <li>You know this. For sure. Absolutely. So, say it loud and clear.</li>
-      <li>If anybody shows incredulity, repeat yourself, this time louder and with aggressive moves.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Rebut</th>
-    <td>
-     <ul>
-      <li>Agree but rebut with your own ideas.</li>
-      <li>Even if you incorporate what another says, state it as your own.</li>
-     </ul>
-    </td>
-   </tr>
-   <tr>
-    <th>Debate</th>
-    <td>
-     <ul>
-      <li>We learn to debate, but not to collaborate.</li>
-      <li>And can even win debate medals.</li>
-      <li>Our laws are based on proving the other party wrong, even if she&rsquo;s right.</li>
-     </ul>
-    </td>
-   </tr>
+    <tr>
+     <th>
+      <p>Did you hit him back?</p>
+     </th>
+     <td>
+      <ul>
+       <li>We are taught to be aggressive.</li>
+       <li>We see people get ahead by being aggressive.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>Be absolutely sure</th>
+     <td>
+      <ul>
+       <li>You know this. For sure. Absolutely. So, say it loud and clear.</ li>
+       <li>If anybody shows incredulity, repeat yourself, this time louder and with aggressive moves.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>
+      <p>Rebut</p>
+     </th>
+     <td>
+      <ul>
+       <li>Agree but rebut with your own ideas.</li>
+       <li>Even if you incorporate what another says, state it as your own.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <th>Debate</th>
+     <td>
+      <ul>
+       <li>We learn to debate, but not to collaborate.</li>
+       <li>And can even win debate medals.</li>
+       <li>Our laws are based on proving the other party wrong, even if she&rsquo;s right.</li>
+      </ul>
+     </td>
+    </tr>
 -->
-  </table>
- </div>
+   </table>
+  </div>
 
 <h1>Let&rsquo;s Compete</h1>
  <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.
