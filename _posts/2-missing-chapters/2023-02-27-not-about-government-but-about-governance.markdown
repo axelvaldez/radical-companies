@@ -16,7 +16,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
  <p>Governance is about collaborating to create and change those agreements, our ability to transform the culture.</p>
 
 <h1>Rules and Punishment</h1>
- <p>Making up rules that others must follow is easy to do, but harder to implement. In  environments we use some form of punishment for people who don&rsquo;t follow them rules. Different levels of pain: litigation, penalties, prison.  That holds a majority of people back, but only for a while. Eventually, when pain of following the rules is more so than the pain of raising hell, they revolt.</p>
+ <p>Making up rules that others must follow is easy to do, but harder to implement. Mos of tje time we end up using some form of punishment for people who don&rsquo;t follow them rules. Different levels of pain: litigation, penalties, prison.  That holds a majority of people back, but only for a while. Eventually, when pain of following the rules is more so than the pain of raising hell, they revolt.</p>
  <p>In dictatorships, people revolt violently because that is what they know works; they have learned that. In places that lean towards democracy, people also revolt, but through non-violent ways, like assembling, protesting, and voting. Because that is what they &ldquo;know&rdquo; works.</p>
 
 <h1>Governance, Not Government</h1>
