@@ -58,7 +58,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
 
 <h1>Did We Say Blockchain?</h1>
  <p>Finally, please note (pretty please) that we never said anything about <span class="_paradigm">rCoin</span>s being on a blockchain.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> They would have to be on a platform that guarantees their integrity, part of its legitimacy, but we don&rsquo;t specify what that platform is. The technology to do it sustainably is either here or within reach.</p>
- <p>Even if we end up with less-than-bullet proof technology, the worst that could happen is that each person involved will invest a relatively small amount on the unfamiliar <span class="_paradigm">rCoin</span>s. People will have lots of concerns and can check &ldquo;the quality and suitability of goods before a purchase is made.&ldquo;<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Even if we end up with less-than-bullet proof technology, the worst that could happen is that each person involved will invest a relatively small amount on the unfamiliar <span class="_paradigm">rCoin</span>s. People can always check their history.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
