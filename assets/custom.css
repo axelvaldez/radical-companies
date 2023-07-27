@@ -612,7 +612,7 @@ table._h2table tr th,
 table._h2table tr th p {
   text-align:right;
   vertical-align:text-top;
-  padding-right:.5em;
+  padding-right:0.5em;
   /**/
   font-weight:bold;
   column-width:25%;
@@ -621,7 +621,7 @@ table._h2table tr td,
 table._h2table tr td p {
   text-align:left;
   vertical-align:text-top;
-  padding-left:1em;
+  padding-left:0.5em;
   /**/
   padding-right:0;
   column-width:75%;
