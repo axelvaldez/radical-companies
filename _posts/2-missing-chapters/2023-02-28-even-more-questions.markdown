@@ -29,7 +29,7 @@ image:    "icon-even-more-questions.svg"
       <p>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</p>
      </th> 
      <td>
-      <p>Absolute win, which is what you are describing, is what we know and it is Fiat thinking, for a world driven by capital: I win it all, you lose all. However, it is not the fastest way to have a broad impact in a world based on contributions.</p>
+      <p>Absolute win, which is what you are describing, is what we know and it is <span class='_paradigm'>Fiat</span> thinking: I win it all, you lose it all. However, it is not the way to have a broad impact in a world based on contributions.</p>
      </td>
     </tr>
     <tr>
