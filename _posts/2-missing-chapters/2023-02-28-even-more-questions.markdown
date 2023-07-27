@@ -35,8 +35,7 @@ image:    "icon-even-more-questions.svg"
       <p>What if they steal my ideas?</p>
      </th>
      <td>
-      <p>OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else cannot copy you. They got the stuff that resonated with them, but that is it.</p>
-      <p>He heard me, but&hellip; food for thought.</p>
+      <p>OK, no&hellip; nobody can steal other people&rsquo;s ideas.&rdquo; Somebody else cannot copy you. They take away the stuff that resonated with them, but that is it.</p>
       <p>Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.</p>
      </td>
     </tr>
@@ -58,7 +57,7 @@ image:    "icon-even-more-questions.svg"
     </tr>
     <tr>
      <th>
-      <p>Right! Well, no&hellip; yes, she can learn. But I need her to know that specific language the minute she walks in the door.</p>
+      <p>Well, yes, she can learn. But I need her to know that specific language the minute she walks in the door.</p>
      </th>
      <td>
       <p>That sounds like bad planning on your part, right?&hellip; By the way, do you know how to program?</p>
