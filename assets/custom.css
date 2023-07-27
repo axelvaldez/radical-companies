@@ -605,23 +605,27 @@ table._ninety tr::nth-child(-n + 3) {
 ._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
 }
+._h2table p:first-child {
+  text-indent:0;
+}
 _h2table th {
   padding-right:1em;
   vertical-align:text-top;
-  text-align:right;
   padding-right:1em;
   font-weight:bold;
-  width:25%;
+  column-width:25%;
+  text-align:right;
 }
 ._h2table td {
   vertical-align:text-top;
   text-align:left;
   border-left:black 1px solid;
   padding-left:1em;
+  column-width:75%;
 }
-._h2table p:first-child {
-  text-indent:0;
-}
+
+/*
+ */
 img {
   font-family:'Courier New', Courier, monospace;
 }
