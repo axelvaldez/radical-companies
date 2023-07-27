@@ -19,7 +19,7 @@ image:    "icon-even-more-questions.svg"
      <td>
       <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo;, or join them if you are working towards the the exact same impact.</p>
     </td>
-   </tr
+   </tr>
    <tr>
     <th>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</p>
     <td>
