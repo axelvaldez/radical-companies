@@ -97,7 +97,7 @@ XXX
 -->
 
 <h1>Let&rsquo;s Compete</h1>
- <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.
+ <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.</p>
  <ul>
   <li>Raising your voice to signal others to <span class="_quotespan">shut up!</span></li>
   <li>Interrupt to establish dominance.</li>
@@ -109,7 +109,7 @@ XXX
  <p>Competition also means&hellip;</p>
  <ul>
   <li>Dividing people. The boss has the &ldquo;strong leader&rdquo; mindset. He is special.</li>
-  <li>Other lines of division,
+  <li>Other lines of division,</li>
    <ul>
     <li>Owners and employees.</li>
     <li>Middle class and poor.</li>
@@ -118,7 +118,6 @@ XXX
     <li>Juveniles, Adults, Old.</li>
     <li>Organized religions.</li>
    </ul>
-  </li>
   <li>Polarized people are easier to lead by the nose. People help each other to not submit. They are a pain to control.</li>
   <li>Taking hopefulness and dignity out out of work that others have to do for me, because they are not owners.</li>
   <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
