@@ -10,7 +10,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Lazy. Greedy. Cowardly. These are the words of gloating and  shaming.</p>
 </div>
 
- <div class="_citation">
+ <div class="_center, _citation">
   <p><span class="_quotespan">You lost because you are lazy.</span></p>
   <p><span class="_quotespan">Greedy bastard, aren&rsquo;t you getting enough?</span></p>
   <p><span class="_quotespan">You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</span></p>
