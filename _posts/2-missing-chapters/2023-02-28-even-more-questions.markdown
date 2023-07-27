@@ -17,7 +17,7 @@ image:    "icon-even-more-questions.svg"
     <tr>
      <th>What do you do if you can&rsquo;t offer as much as the competition?</th>
      <td>
-      <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo;, or join them if you are working towards the the exact same impact.</p>
+      <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo; if you are working towards the the exact same impact.</p>
      </td>
     </tr>
     <tr>
