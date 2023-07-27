@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Capital v Force"
+title:    "Capital Is Force"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-capital-v-force.svg"
+image:    "icon-capital-is-force.svg"
 ---
 
 <div style="display:none;">
