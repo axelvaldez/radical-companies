@@ -11,9 +11,9 @@ image:    "icon-lazy-greedy-cowardly.svg"
 </div>
 
  <div class="_center, _citation">
-  <p><span class="_quotespan">You lost because you are lazy.</span></p>
-  <p><span class="_quotespan">Greedy bastard, aren&rsquo;t you getting enough?</span></p>
-  <p><span class="_quotespan">You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</span></p>
+  <p>You lost because you are lazy.</p>
+  <p>Greedy bastard, aren&rsquo;t you getting enough?</p>
+  <p>You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</p>
  </div>
 
 <h1></h1>
