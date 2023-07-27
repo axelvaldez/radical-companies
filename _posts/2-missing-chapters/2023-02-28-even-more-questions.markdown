@@ -36,7 +36,7 @@ image:    "icon-even-more-questions.svg"
     </tr>
     <tr>
      <th>
-      <p>I don&rsquo;t understand. What if they steal my ideas?</p>
+      <p>What if they steal my ideas?</p>
      </th>
      <td>
       <p>OK, no&hellip; you cannot steal other people&rsquo;s ideas and they cannot [exaggerated air quotes] &ldquo;steal yours.&rdquo; Somebody else cannot copy you. They got the stuff that resonated with them, but that is it.</p>
