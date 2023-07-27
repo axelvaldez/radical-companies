@@ -35,6 +35,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
+    <p>XXX</p>
     <tr>
      <th>pregunta</th>
      <td>
