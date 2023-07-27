@@ -35,8 +35,6 @@ image:    "icon-lazy-greedy-cowardly.svg"
      </ul>
     </td>
    </tr>
- <div class="_center">
-  <table class="_h2table">
    <tr>
     <th>
      <p>Did you hit him back?</p>
