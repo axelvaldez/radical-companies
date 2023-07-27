@@ -22,10 +22,6 @@ image:    "icon-even-more-questions.svg"
       <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo; if you are working towards the the exact same impact.</p>
      </td>
     </tr>
-   </table>
-  </div>
-  <div class='_center'>
-   <table class='_h2table'>
     <tr>
      <th>
       <p>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</p>
