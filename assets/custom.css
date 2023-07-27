@@ -608,7 +608,8 @@ table._h2table tr:nth-child(odd) {
 table._h2table p:first-child {
   text-indent:0;
 }
-table._h2table tr th {
+table._h2table tr th,
+table._h2table tr th p {
   text-align:right;
   vertical-align:text-top;
   padding-right:1em;
@@ -616,7 +617,8 @@ table._h2table tr th {
   font-weight:bold;
   column-width:25%;
 }
-table._h2table tr td {
+table._h2table tr td,
+table._h2table tr td p {
   text-align:left;
   vertical-align:text-top;
   padding-left:1em;

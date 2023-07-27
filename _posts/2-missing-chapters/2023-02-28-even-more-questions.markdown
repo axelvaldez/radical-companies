@@ -15,7 +15,9 @@ image:    "icon-even-more-questions.svg"
   <div class='_center'>
    <table class='_h2table'>
     <tr>
-     <th>What do you do if you can&rsquo;t offer as much as the competition?</th>
+     <th>
+      <p>What do you do if you can&rsquo;t offer as much as the competition?</p>
+     </th>
      <td>
       <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo; if you are working towards the the exact same impact.</p>
      </td>
