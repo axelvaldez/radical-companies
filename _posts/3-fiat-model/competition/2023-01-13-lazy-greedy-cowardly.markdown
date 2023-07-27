@@ -94,7 +94,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </div>
 
 <h1>Let&rsquo;s Compete</h1>
- <p>We have learned this throughout our lives, just by watching the (financially) successful adults around us.
+ <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.
  <ul>
   <li>Raising your voice to signal others to <span class="_quotespan">shut up!</span></li>
   <li>Interrupt to establish dominance.</li>
@@ -123,6 +123,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
 
 <h1>Collaborate Out of Love</h1>
+ <p>Sounds flaky, but read on.</p>
  <ul>
   <li>Listening.</li>
   <li>Paraphrasing.</li>
