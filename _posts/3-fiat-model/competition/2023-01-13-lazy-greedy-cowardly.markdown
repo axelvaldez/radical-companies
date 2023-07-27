@@ -36,7 +36,8 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
   </table>
- </div> 
+ </div>
+<!--
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -77,6 +78,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     </td>
    </tr>
   </table>
+-->
  </div> 
  <div class="_center">
   <table class="_h2table">
