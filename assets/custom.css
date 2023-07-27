@@ -599,16 +599,16 @@ table._ninety tr::nth-child(-n + 3) {
 /*
  Table2col
  */
-._h2table {
+ table._h2table {
   width:85%;
 }
-._h2table tr:nth-child(odd) {
+table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
 }
-._h2table p:first-child {
+table._h2table p:first-child {
   text-indent:0;
 }
-_h2table th {
+table._h2table tr th {
   text-align:right;
   vertical-align:text-top;
   padding-right:1em;
@@ -616,7 +616,7 @@ _h2table th {
   font-weight:bold;
   column-width:25%;
 }
-._h2table td {
+table._h2table tr td {
   text-align:left;
   vertical-align:text-top;
   padding-left:1em;
