@@ -12,7 +12,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
  <div class="_center, _citation">
   <p>You lost because you are lazy.</p>
-  <p>Greedy bastard, aren&rsquo;t you getting enough?</p>
+  <p>Greedy bastard, aren&rsquo;t you getting paid enough?</p>
   <p>You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</p>
  </div>
 
