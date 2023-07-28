@@ -10,11 +10,11 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Lazy. Greedy. Cowardly. These are the words of gloating and  shaming.</p>
 </div>
 
- <div class="_center, _citation">
-  <p>You lost because you are lazy.</p>
-  <p>Greedy bastard, aren&rsquo;t you getting paid enough?</p>
-  <p>You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</p>
- </div>
+<div class="_center, _citation">
+ <p>You lost because you are lazy.</p>
+ <p>Greedy bastard, aren&rsquo;t you getting paid enough?</p>
+ <p>You didn&rsquo;t win because you didn&rsquo;t dare to, coward.</p>
+</div>
 
 <h1></h1>
  <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical <span class='_paradigm'>Fiat</span> behavior, even when we are being nice.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -35,6 +35,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>
       <p>Did you hit him back?</p>
@@ -46,6 +50,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>Be absolutely sure</th>
      <td>
@@ -55,6 +63,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>
       <p>Rebut</p>
@@ -66,6 +78,10 @@ image:    "icon-lazy-greedy-cowardly.svg"
       </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>Debate</th>
      <td>
