@@ -27,7 +27,7 @@ image:    "icon-gravity-is-force.svg"
  <ul>
   <li>A tiger kills and lunches on a bamby-like fawn.</li>
   <li>That is bad for the deer, but good for the tiger.</li>
-  <li>So, maybe some force is bad and some.</li>
+  <li>So, maybe some force is bad and some not so.</li>
  </ul>
 
 <h1>So, People</h1>
