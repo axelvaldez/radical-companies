@@ -51,7 +51,6 @@ image:    "icon-10-progressive-org-structures.svg"
      <th>Decentralization & Transparency</th>
      <td>
       <p>I tried, but I didn't find a way to reduce it to one word. You need both. Decntralization and transparency specify a range, they are vectors. You can be mvoe towards more or less decentralizationh and more or less transparent dependind on choices you make, decision you take.</p>
-      <p>.</p>
      </td>
     </tr>
     <tr>
