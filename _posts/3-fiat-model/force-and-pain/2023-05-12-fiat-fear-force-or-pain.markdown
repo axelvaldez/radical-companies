@@ -16,7 +16,7 @@ image:    "icon-fear-force-or-pain.svg"
 <h1>Getting Out of the Foxhole</h1>
  <p>The argument has been bouncing around in my head for a few days. So I took a shower (my contemplative place). As it turned out, we were meeting with proto-<span class="_paradigm">Radical</span> companies right after</p>
  <p>I explained what was going on and let them know that I was leaning towards getting from the <span class="_paradign">Fiat</span> system we live in. However, they had good arguments to the contrary.</p>
- <p> carries a threat of force with it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> very rarely gets said, but it is always there because I, the boss, can fire you and threatened your ability to survive. The box gets moved to avoid <span class="_paradign">Pain</span>.</p>
+ <p><span class="_paradign">Fiat</span> commands always carry a threat of force with it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> very rarely gets said, but it is always there because I, the boss, can fire you and threatened your ability to survive. The box gets moved to avoid <span class="_paradign">Pain</span>.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
