@@ -47,17 +47,13 @@ image:    "icon-10-progressive-org-structures.svg"
       <p>These are important things to people, finding meaning in what they do and belongin to a community that helps them in this quest.</p>
      </td>
     </tr>
-   </table>
-  </div>
-<!--
-  <div class="_center">
-   <table class="_h2table">
     <tr>
      <th>Decentralization & Transparency</th>
      <td>
       <p>I tried, but I didn't find a way to reduce it to one word. You need both. Decntralization and transparency specify a range, they are vectors. You can be mvoe towards more or less decentralizationh and more or less transparent dependind on choices you make, decision you take.</p>
       <p>.</p>
      </td>
+    </tr>
     <tr>
      <th>Experimentation</th>
      <td>
@@ -66,6 +62,9 @@ image:    "icon-10-progressive-org-structures.svg"
     </tr>
    </table>
   </div>
+<!--
+  <div class="_center">
+   <table class="_h2table">
 -->
 
 <h1 class="_section">ENDNOTES</h1>
