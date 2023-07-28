@@ -61,7 +61,7 @@ image:    "icon-yes-capital-is-good.svg"
   <ul>
    <li>A lot of them are getting the feeling that maybe this <span class="_paradigm">Fiat</span> system is not working for them.</li>
    <li>A lot of them feel that it is time for a change.</li>
-   <li>The <span class="_paradigm">Radical</span> model enters from stage left. The first alternative to <span class="_paradigm">Fiat</span>,</li>
+   <li>The <span class="_paradigm">Radical</span> model enters from stage left. The first alternative to <span class="_paradigm">Fiat</span>.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
