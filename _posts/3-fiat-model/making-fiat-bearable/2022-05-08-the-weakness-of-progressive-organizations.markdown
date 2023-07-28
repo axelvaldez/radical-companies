@@ -28,6 +28,10 @@ image:    "icon-10-progressive-org-structures.svg"
      <th>people</th>
      <td>Meaning & Belonging</td>
     </tr>
+   </table>
+  </div>
+  <div class="_center">
+   <table class="_h2table">
     <tr>
      <th>commitments</th>
      <td>Decentralization & Transparency</td>
