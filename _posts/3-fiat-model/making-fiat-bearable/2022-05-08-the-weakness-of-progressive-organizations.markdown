@@ -30,6 +30,7 @@ image:    "icon-10-progressive-org-structures.svg"
     </tr>
    </table>
   </div>
+<!--
   <div class="_center">
    <table class="_h2table">
     <tr>
@@ -63,7 +64,8 @@ image:    "icon-10-progressive-org-structures.svg"
      </td>
     </tr>
    </table>
-  </div> 
+  </div>
+-->
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
