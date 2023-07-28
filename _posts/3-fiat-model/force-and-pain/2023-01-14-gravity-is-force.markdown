@@ -13,14 +13,14 @@ image:    "icon-gravity-is-force.svg"
  <ul>
   <li>Gravy is a force. Dark Energy is a force.</li>
   <li>Gravity is good. Dark Energy seems to be good.</li>
-  <li>But force is bad.</li>
+  <li>But force is&hellip; bad?</li>
  </ul>
 
 <h1>Once Again</h1>
  <ul>
   <li>A big person forces a small person against the ground.</li>
   <li>The big guy is doing a bad thing.</li>
-  <li>But gravity is forcing both the big and small guy to the ground, the only difference is one is on his own legs, the other is not.</li>
+  <li>But gravity is forcing both the big and small guy to the ground.</li>
  </ul>
 
 <h1>Maybe…</h1>
