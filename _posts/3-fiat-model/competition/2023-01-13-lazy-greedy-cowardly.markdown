@@ -108,15 +108,16 @@ image:    "icon-lazy-greedy-cowardly.svg"
  </ul>
 
 <h1>Collaborate Out of Love</h1>
- <p>Sounds flaky, but read on.</p>
+ <p>Sounds flaky, but keep reading. Here are some god practice,</p>
  <ul>
   <li>Listening.</li>
-  <li>Paraphrasing.</li>
+  <li>Paraphrasing back what your heard.</li>
   <li>Celebrating.</li>
   <li>Adding to others ideas.</li>
-  <li>Jumping in to help is asked to.</li>
-  <li>Disagree if you don&rsquo;t like something.</li>
+  <li>Jumping in to help.</li>
+  <li>Disagree clearly if you don&rsquo;t like something. Don&rsquo;t make it an attack.</li>
   <li>Don&rsquo;t punch holes in others&rsquo; ideas to &ldquo;win.&rdquo;</li>
+  <li>What you hear something expressed in Fiat language, repeat in Radical lingo rather than shaming them.</li>
  </ul>
  <p>Collaboration also means&hellip;,</p>
  <ul>
