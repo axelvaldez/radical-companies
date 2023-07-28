@@ -38,7 +38,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
     alt="">
   </div>
 
-<h1>Co-Ownership</h1>xx
+<h1>Co-Ownership</h1>
  <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> model is closer to what they may be wishing for. Instead of <em>self</em>-management, we call it <em>co</em>-management to emphasize that only people can manage, not the business.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Whatever you call it, we also need decentralized ownership, or co-ownership as we call it.</p>
  <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that encouragement is a bunch of empty words. On the other hand, as a co-owner you behave like an owner, simply because <em>you are.</em></p>
 
