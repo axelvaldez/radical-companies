@@ -24,6 +24,6 @@ image:    "icon-the-difference-between-centralized-ownership-and-co-ownership.sv
    <li><span class="_quotespan">We must move towards co-ownership as well as to co-management.</span> &ndash; Changed it for clarity.</li>
   </ul>
  <p>When it is all said and done, this is what I meant to write,</p>
-  <div class="_quotespan" id="_bolder">&hellip; <span class="_me">centralized</span> governance and ownership will destroy us. Many folks seem to agree that we have to decentralize decision making, but that is not enough. We also have to decentralize ownership. We have to let wealth flow to the people who created it, based on their contributions. Instead, we must move towards co-ownership (<em>i.e.</em>, decentralized ownership) as well as to co-management (<em>i.e.</em>, decentralized management).</div>.
+  <div class="_quotespan">&hellip; <span class="_me">centralized</span> governance and ownership will destroy us. Many folks seem to agree that we have to decentralize decision making, but that is not enough. We also have to decentralize ownership. We have to let wealth flow to the people who created it, based on their contributions. Instead, we must move towards co-ownership (<em>i.e.</em>, decentralized ownership) as well as to co-management (<em>i.e.</em>, decentralized management).</div>.
 
 {% include related.html %}
