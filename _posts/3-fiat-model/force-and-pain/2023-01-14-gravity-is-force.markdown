@@ -30,6 +30,7 @@ image:    "icon-gravity-is-force.svg"
   <li>So, maybe some force is bad and some not so.</li>
  </ul>
 
+
 <h1>So, People</h1>
  <p>Maybe force is bad when <em>people</em> apply it to other <em>people</em>.</p>
  <div class="_center">
