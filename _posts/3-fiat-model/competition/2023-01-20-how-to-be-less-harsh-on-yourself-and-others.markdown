@@ -11,17 +11,14 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
 </div>
 
 <h1>&nbsp;</h1>
-xxx
  <p>As quoted in Maria Popova&rsquo;s post,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Ram Dass drew on the human-tree analogy,</p>
   <div class="_citation">
-   <div>
-    <p>When you go out into the woods and you look at trees, you see all these different trees. &hellip; You just allow it. You appreciate the tree.</p>
-    <p>The minute you get near humans, you lose all that. And you are constantly saying, “You’re too this, or I’m too this.” The judging mind comes in.</p>
-   </div>
+   <p>When you go out into the woods and you look at trees, you see all these different trees. &hellip; You just allow it. You appreciate the tree.</p>
+   <p>The minute you get near humans, you lose all that. And you are constantly saying, “You’re too this, or I’m too this.” The judging mind comes in.</p>
   </div>
  <p>In other words, when surrounded by people, competition sets in. That is what we have learned. But, tragically, we miss out on what competition <em>hides</em>,</p>
   <div class="_citation">
-   <p>When a tree is very small we protect it by surrounding it with a fence so that animals do not step on it. Later when the tree is bigger it no longer needs the fence. Then <strong>it can give shelter to many</strong>.</p>
+   <p>When a tree is very small we protect it by surrounding it with a fence so that animals do not step on it. Later when the tree is bigger it no longer needs the fence. Then it can give shelter to many.</p>
   </div>
  <p>We need to learn to &ldquo;just allow it&rdquo; and collaborate.</p>
  <p>Maria closes with this powerful statement,</p>
