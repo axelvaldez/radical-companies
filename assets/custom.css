@@ -374,7 +374,8 @@ span._paradigm {
 }
 ._citation::before {
   font-family:Georgia, serif;
-  font-size:24pt;
+  font-size:36pt;
+  color:black;
   content:"“";
 }
 ._citation p#_signature {
