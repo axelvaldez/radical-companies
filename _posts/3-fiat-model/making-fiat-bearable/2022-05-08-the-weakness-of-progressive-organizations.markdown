@@ -28,11 +28,6 @@ image:    "icon-10-progressive-org-structures.svg"
      <th>people</th>
      <td>Meaning & Belonging</td>
     </tr>
-   </table>
-  </div>
-<!--
-  <div class="_center">
-   <table class="_h2table">
     <tr>
      <th>commitments</th>
      <td>Decentralization & Transparency</td>
@@ -43,6 +38,7 @@ image:    "icon-10-progressive-org-structures.svg"
     </tr>
    </table>
   </div>
+ <p>Description,</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -51,6 +47,11 @@ image:    "icon-10-progressive-org-structures.svg"
       <p>These are important things to people, finding meaning in what they do and belongin to a community that helps them in this quest.</p>
      </td>
     </tr>
+   </table>
+  </div>
+<!--
+  <div class="_center">
+   <table class="_h2table">
     <tr>
      <th>Decentralization & Transparency</th>
      <td>
