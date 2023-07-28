@@ -46,7 +46,7 @@ image:    "icon-about-daos.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en1">
+  <li id="en01">
    <p class="_list-item">
     David Rosenthal.
     <a href="https://blog.dshr.org/2022/02/ee380-talk.html">EE380 Talk</a>.
@@ -54,7 +54,7 @@ image:    "icon-about-daos.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en2">
+  <li id="en02">
    <p class="_list-item">
     E. Glen Weyl, Puja Ohlhaver, Vitalik Buterin.
     <em>Decentralized Society: Finding Web3&rsquo;s Soul</em>
