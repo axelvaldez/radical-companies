@@ -38,28 +38,25 @@ image:    "icon-gravity-is-force.svg"
     <th>It is OK to guide cattle to the slaughterhouse (?)</th>
     <td>
      <p>But, it is not OK to force people into the slaughterhouse.</p>
-     <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
    <tr>
     <th>It is OK for people to believe whatever they want.</th>
     <td>
      <p>But it is not OK to force people to act as if they believe (what you believe).</p>
-     <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
    <tr>
     <th>It is OK for people to lust, eat unhealthily, want everything, lay around doing nothing, rage, envy, or show pride.</th>
     <td>
      <p>But it is not OK to force other people to do any of these things.</p>
-     <p>That would be a <em>crime</em>.</p>
     </td>
    </tr>
    <tr>
     <th>It is OK to have oxen pull the plow.</th>
     <td>
      <p>But it is not OK to force people to pull the plow.</p>
-     <p>That would be slavery, and it is a <em>crime</em>.</p>
+     <p>That would be slavery.</p>
     </td>
    </tr>
   </table>
