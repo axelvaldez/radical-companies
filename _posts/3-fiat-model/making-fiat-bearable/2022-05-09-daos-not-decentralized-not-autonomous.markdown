@@ -15,8 +15,9 @@ image:    "icon-about-daos.svg"
 
 <h1>The Criticism</h1>
  <p>As a criticism I would point out that the DAO technology is an <em>automated investment</em> platform meant to make creating money-first organizations more efficient. As such, it is a technology that would do nothing but expand <span class="_paradigm">Fiat</span> investment options.</p>
+
+<h1>Financial Investments</h1>
  <p>Financial investment has progressed from royalty, to wealthy patrons, to banks, to VCs: DAO is simply the next step in that progression. But the technology promises to do nothing towards taking ourselves and the world we live in. It is still grounded on the same principles of force and fear, "I have the capital, I am the boss." What it brings into the picture is a frictionless way for what VCs call <em>limited partners</em> (LP): more of them can enter at any capital amount. Great, more capitalists which should give way to more entrepreneurs. Not bad if you want to see the <span class="_paradigm">Fiat</span> system continue on its path to more fear, domination, force, and a bigger wealth gap with fewer and fewer at a higher, and higher top. The DAO technology as configured now will make that worse.</p>
- <p>Fortunately, all the creativity that has gone into creating the DAO technology could also be used to create alternatives to the <span class="_paradigm">Fiat</span> regime.</p>
 
 <h1>DAOs Are Not Decentralized</h1>
  <p>DAOs<sup id="bm01"><a href="#en01">1</a></sup> are more or less centralized, depending on its governance model, but they are not decentralized. In fact, here's no technology to decentralize them. More LPs (Limited Partners to a Venture Capital fund) and less friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution to our big problem.<p>
