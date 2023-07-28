@@ -377,6 +377,7 @@ span._paradigm {
   font-size:36pt;
   color:black;
   content:"“";
+  text-align:center;
 }
 ._citation p#_signature {
   font-family:Architects Daughter, cursive;
