@@ -30,7 +30,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
     alt="">
   </div>
  <p>I believe that this &ldquo;explosion&rdquo; of anxiety and depression diagnoses have to do with the fact that they economy is not working for post-1971 folks. We raised our children for a world that never materialized. And so they are more sensitive to the fact that they are close to pain and there&rsquo;re only very few, limited ways out.</p>
- <p>In any case the &ldquo;out&rdquo; would be to the <span class='_paradigm'>Fiat</span> system, something that they&rsquo;ve watched their parents go through and are not excited about for themselves or for their children.</p>
+ <p>In any case the &ldquo;get out of the <span class='_paradigm'>Fiat</span> system&rdquo;, something that they&rsquo;ve watched their parents go through and dont&rsquo; want it for themselves or for <em>their</em> children.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
@@ -38,10 +38,9 @@ image:    "icon-pain-anxiety=and-depression.svg"
     alt="">
   </div>
 
-<h1>Co-Ownership</h1>
- <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> system is closer to what they may be wishing for. Instead of <em>self</em>-management, we call it <em>co</em>-management<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>, but whatever you call it, we also need co-ownership, decentralized ownership.</p>
- <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that encouragement is a bunch of empty words.</p>
- <p>On the other hand, as a co-owner you behave like an owner, simply because <em>you are.</em> No empty words necessary.</p>
+<h1>Co-Ownership</h1>xx
+ <p>Co-ownership, co-management, and something like the <span class='_paradigm'>Radical</span> model is closer to what they may be wishing for. Instead of <em>self</em>-management, we call it <em>co</em>-management to emphasize that only people can manage, not the business.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> Whatever you call it, we also need decentralized ownership, or co-ownership as we call it.</p>
+ <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner.&rdquo; But you are not, so all that encouragement is a bunch of empty words. On the other hand, as a co-owner you behave like an owner, simply because <em>you are.</em></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
