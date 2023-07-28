@@ -21,7 +21,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>It Won&rsquo;t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That&rsquo;s all we&rsquo;ve learned and all we see in the world around us. And, so, that&rsquo;s what we do even when we intend to do otherwise.</p>
-xxx
+yyy
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -43,13 +43,10 @@ xxx
      <td>
       <ul>
        <li>We are taught to be aggressive.</li>
-       <li>We see people get ahead by being aggressive.</li>
+       <li>We see &ldquo;successful people&rdquo; get ahead by being aggressive.</li>
       </ul>
      </td>
     </tr>
-   </table>
-  </div>
-<!--
     <tr>
      <th>Be absolutely sure</th>
      <td>
@@ -82,6 +79,7 @@ xxx
     </tr>
    </table>
   </div>
+<!--
 -->
 
 <!--
