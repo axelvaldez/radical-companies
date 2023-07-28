@@ -13,13 +13,13 @@ image:    "icon-trust-and-ptsd.svg"
 <h1></h1>
  <p>According to the post by Dr. John Roth, the Roman Emperor Tiberius was a good person when he was young, but he ended up “a debauched, dissolute, and cruel recluse.”</p>
   <div class="_citation">
-   I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
+   <p>I have come to view Tiberius as a tragic figure, a good man, a gifted commander and leader, who was blindsided by multiple betrayals.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p>In <em>Vietnam: Combat Trauma and the Undoing of Character</em> (Touchstone, New York, 1994), the author, Dr Jonathan Shay concludes that Achilles <span class="_quotespan">suffered from a ruinous moral injury that destroys the character of once good men.</span><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>According to these authors, Achilles and Tiberius suffered from a basic distrust of their environment because of a trauma, like multiple betrayals, and their behavior reflected the kind of pain that goes under the label of PTSD.</p>
  <p>According to the Mayo Clinic, Post Traumatic Stress Disorder is,</p>
   <div class="_citation">
-   &hellip; a mental health condition that's triggered by a terrifying event &ndash; either experiencing it or witnessing it. Symptoms may include flashbacks, nightmares and severe anxiety, as well as uncontrollable thoughts about the event.
+   <p>&hellip; a mental health condition that's triggered by a terrifying event &ndash; either experiencing it or witnessing it. Symptoms may include flashbacks, nightmares and severe anxiety, as well as uncontrollable thoughts about the event.</p>
   </div>
  <p>Not everyone develops PTSD from the same event. Two people can be in the same car accident and one will walk away temporarily shaken, and another may never want to get into a car again. An additional aspect of PTSD is chronic stress, like the amount of vigilance a soldier may have to undergo day in and day out. They may not experience one specific terrifying event, but many smaller calls to worry about survival may induce damage.</p>
 
