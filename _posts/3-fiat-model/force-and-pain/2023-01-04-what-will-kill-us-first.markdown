@@ -114,7 +114,7 @@ image:    "icon-what-will-kill-us-first.svg"
    </tr>
    <tr>
     <th>Future Tools</th>
-    <td>There are going to be more tools in the future. For example, specialized and community-specific tools</td>
+    <td>There are going to be more tools in the future. For example, specialized and community-specific tools.</td>
    </tr>
   </table>
  </div>
