@@ -55,8 +55,7 @@ image:    "icon-gravity-is-force.svg"
    <tr>
     <th>It is OK to have oxen pull the plow.</th>
     <td>
-     <p>But it is not OK to force people to pull the plow.</p>
-     <p>That would be slavery.</p>
+     <p>But it is not OK to force people to pull the plow. That would be slavery.</p>
     </td>
    </tr>
   </table>
