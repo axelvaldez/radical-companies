@@ -34,7 +34,7 @@ image:    "icon-about-daos.svg"
   <div class='_center'>
    <img
     src='/assets/img/pic-fiat-pain.svg'
-    width='70%'
+    width='50%'
     alt=''>
   </div>
  <p>Fear is so prevalent in our present world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, but the rest of our body is affected by it and often not in a good, healthy way.</p>
