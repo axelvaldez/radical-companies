@@ -25,8 +25,7 @@ image:    "icon-fear-force-or-pain.svg"
   </div>
 
 <h1>Be Thankful for Contrarians</h1>
- <p>As Carlos Suarez said, , according to him, contained the whole cascade from an implied threat, to real <span class="_paradign">Pain</span>.</p>
- <p>When I came out of the shower I was ready ( for now.</p>
+ <p>Acoording to Carlos Suarez, <span class="_paradigm">Fiat</span> contains the whole cascade from an implied <span class="_paradigm">Fiat</span> contains the whole cascade from an implied Threat, to real <span class="_paradign">Threat</span>.</p>, to real <span class="_paradign">Pain</span>.</p>
 
 <h1>Heart-Felt Stories</h1>
  <p>Paty (Patricia) told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not as an app, but as a different way of living and thriving (<em>i.e.</em>, but it does include an app).</p>
