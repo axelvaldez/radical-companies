@@ -16,12 +16,12 @@ image:    "icon-10-progressive-org-structures.svg"
  <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or some other benevolent &rdquo;benevolent&rdquo; crap.</p>
 
 <h1>Co-Ownership Brings Robustness</h1>
- <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don&rsquo;t need the <span class="_paradigm">Fiat</span> hierarchical system we live under. Unfortunately, co-management doesn&rsquo;t last.</p>
- <p>Because when the owner-boss exits, that&rsquo;s the end of it. Most of these progressive companies have fallen back to the <span class="_paradigm">Fiat</span> hierarchical model following the exit of the benevolent owner-boss.</p>
- <p>For it to be robust, and long-term, decentralized management must be accompanied by decentralized ownership.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>It is great, in fact, that these companies have experimented with co-management. They have shown that it works and that we don&rsquo;t need the <span class="_paradigm">Fiat</span> hierarchical system we live under. Unfortunately, co-management is not enough because it doesn&rsquo;t last.</p>
+ <p>Most of these &ldquo;progressive&rdquo; companies have fallen back to the <span class="_paradigm">Fiat</span> hierarchical model once the benevolent owner-boss.is out of the picture.</p>
+ <p>For governance to be decentralized in robust and long-term way, decentralized management must be accompanied by decentralized ownership or co-ownership, as we call it.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Robustness Emerges from a Simple Foundation</h1>
- <p>Rather than specific practices or strict methodologies, this foundation allows you to discover out what works for you, while keeping you grounded on what&rsquo;s important,</p>
+ <p>Rather than specific practices or strict methodologies, this foundation allows you to discover out what works for you, while helping you to keep grounded on what&rsquo;s important,</p>
   <div class="_center">
    <table class="_h2table">
     <tr>
@@ -38,7 +38,27 @@ image:    "icon-10-progressive-org-structures.svg"
     </tr>
    </table>
   </div>
- <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don&rsquo;t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>Meaning and Belonging</th>
+     <td>
+     </td>
+      <p></p>
+    </tr>
+    <tr>
+     <th>Decentralization & Transparency</th>
+     <td>
+      <p></p>
+     </td>
+    <tr>
+     <th>Experimentation</th>
+     <td>
+      <p>Finally, experiment. Be explicit about what you expect (<em>e.g.</em>, levels of acidity in a tomato paste) and then don&rsquo;t be afraid of experimenting. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
+     </td>
+    </tr>
+   </table>
+  </div> 
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
