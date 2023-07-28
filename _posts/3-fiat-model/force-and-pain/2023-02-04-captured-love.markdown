@@ -7,7 +7,7 @@ image:    "icon-captured-love.svg"
 ---
 
 <div style="display:none;">
- <p>The English enclosures captured more than land: they also captured our essential drive to care for and nourish our social circle. <em>That</em>, as a system, continues to this day.</p>
+ <p>The English enclosures captured more than land: they also captured our essential drive to care for and nourish our social circle. <em>That</em>, as a system, continues to this day. We call it <span class='_paradigm'>Fiat</span> to make it visible</p>
 </div>
 
 <h1>&nbsp;</h1>
