@@ -26,7 +26,7 @@ xxx
  <p>We need to learn to &ldquo;just allow it&rdquo; and collaborate.</p>
  <p>Maria closes with this powerful statement,</p>
   <div class="_citation">
-   <p>The fence is the community of support&hellip; , the kindred spirits with whom we surround ourselves when we are still vulnerable &hellip; [A] lovely reminder of that mycelial connection that binds us to each other, just like the mycorrhizal network undergirds the forest with its web of communication and nutrition.</p>
+   <p>The fence is the community of support&hellip;, the kindred spirits with whom we surround ourselves when we are still vulnerable &hellip; [A] lovely reminder of that mycelial connection that binds us to each other, just like the mycorrhizal network undergirds the forest with its web of communication and nutrition.</p>
   </div>
 
 <h1 class="_section">ENDNOTES</h1>
