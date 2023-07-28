@@ -47,8 +47,8 @@ image:    "icon-10-progressive-org-structures.svg"
     <tr>
      <th>Meaning and Belonging</th>
      <td>
-     </td>
       <p>These are important things to people, finding meaning in what they do and belongin to a community that helps them in this quest.</p>
+     </td>
     </tr>
     <tr>
      <th>Decentralization & Transparency</th>
