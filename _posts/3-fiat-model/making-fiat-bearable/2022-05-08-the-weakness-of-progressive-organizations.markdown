@@ -7,12 +7,13 @@ image:    "icon-10-progressive-org-structures.svg"
 ---
 
 <div style="display:none;">
- <p>Co-management is a move away from the <span class="_paradigm">Fiat</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have co-ownership for robust and stable governance.</p>
+ <p>Co-management is a move away from the <span class="_paradigm">Fiat</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have decentralized ownership, which we call co-ownership, for robust and stable governance.</p>
 </div>
 
 <h1>The Weakness: Owner-Boss</h1>
- <p>In a recent Corporate Rebels post, Joost Minnaar identifies ten progressive organizational structures<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
- <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or otherwise benevolent.</p>
+ <p>Co-management is a move away from the <span class="_paradigm">Fiat</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have decentralized ownership, which we call co-ownership, for robust and stable governance.</p>
+ <p>In a recent Corporate Rebels post, Joost Minnaar identifies ten <em>progressive organizational structures</em><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> which he calls Amoebas, Cells, Circles, Chains, Fractals, Honeycombs, Lattice, Micro-communities, Mini-factories, and Squads.</p>
+ <p>Unfortunately, except for WL Gore, all the organizations given as primary examples have an owner-boss at the top. In these cases, the owner-boss sees himself as a “servant leader” or some other benevolent &rdquo;benevolent&rdquo; crap.</p>
 
 <h1>Co-Ownership Brings Robustness</h1>
  <p>It is great, in fact, that these companies have experimented with co-management, have shown that it works, and that we don&rsquo;t need the <span class="_paradigm">Fiat</span> hierarchical system we live under. Unfortunately, co-management doesn&rsquo;t last. Because when the owner-boss exits, that&rsquo;s the end of it. Most of these progressive companies have fallen back to the <span class="_paradigm">Fiat</span> hierarchical model following the exit of the benevolent owner-boss.</p>
