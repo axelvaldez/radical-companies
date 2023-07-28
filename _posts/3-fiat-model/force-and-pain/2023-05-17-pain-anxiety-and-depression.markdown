@@ -21,8 +21,8 @@ image:    "icon-pain-anxiety=and-depression.svg"
  <p>My children both suffered from depression, one of them had it worse than the other. A while back he was diagnosed as having anxiety which causes depression. After some adjustments to newly prescribed medicines, he is doing fine. I am thankful that they found the &ldquo;right&rdquo; parts of the brain to medicate.</p>
  <p>But pain is the common thing.</p>
 
-<h1>p71</h1>
- <p>People born post 1971 grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was wild growth and opportunities all around. Post 1971 it has been no growth and limited opportunities.
+<h1>Post-71</h1>
+ <p>People born after 1971 grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was wild growth and opportunities all around. Post 1971 it has been no growth and restricted opportunities.
   <div class="_center">
    <img
     src="/assets/img/pic-pain-anxiety-and-depression.svg"
