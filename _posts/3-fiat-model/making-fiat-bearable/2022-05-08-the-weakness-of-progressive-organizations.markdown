@@ -44,12 +44,13 @@ image:    "icon-10-progressive-org-structures.svg"
      <th>Meaning and Belonging</th>
      <td>
      </td>
-      <p></p>
+      <p>These are important things to people, finding meaning in what they do and belongin to a community that helps them in this quest.</p>
     </tr>
     <tr>
      <th>Decentralization & Transparency</th>
      <td>
-      <p></p>
+      <p>I tried, but I didn't find a way to reduce it to one word. You need both. They are vector, they specify a range. You can be mvoe towards more or less decentralizationh and more or less transparent dependind on choices you make, decision you take.</p>
+      <p>.</p>
      </td>
     <tr>
      <th>Experimentation</th>
