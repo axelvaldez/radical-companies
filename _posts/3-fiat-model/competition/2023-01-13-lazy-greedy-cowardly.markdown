@@ -50,7 +50,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
      <th>Be absolutely sure</th>
      <td>
       <ul>
-       <li>You know this. For sure. Absolutely. So, say it loud and clear.</ li>
+       <li>You know this. For sure. Absolutely. So, say it loud and clear.</li>
        <li>If anybody shows incredulity, repeat yourself, this time louder and with aggressive moves.</li>
       </ul>
      </td>
