@@ -28,7 +28,14 @@ image:    "icon-about-daos.svg"
  <p>DAOs are basically an <em>automated investment</em> platform, but, instead, we need a conversation platform supported by all the Web3 technology that does not yet exist.<sup id="bm02"><a href="#en02">2</a></sup></p>
 
 <h1>What Do DAOs Have to Do with Fear?</h1>
- <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; without any explanation at all. I&rsquo;d like to do that now. Fear is so prevalent in our present world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, by the neocortex; the rest of our body is affected by it and often not in a good, healthy way.</p>
+ <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; without any explanation at all. I&rsquo;d like to do that now.</p>
+  <div class='_center'>
+   <img
+    src='pic-fiat-pain'
+    alt=''
+    width=''>
+  </div>
+ <p>Fear is so prevalent in our present world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, by the neocortex; the rest of our body is affected by it and often not in a good, healthy way.</p>
  <p>You work for your boss (<em>i.e.</em>, &ldquo;<em>report</em>&rdquo; is the modern euphemism). The work you do goes to meet his goals, which were imposed on him by his own boss. If something goes wrong, it is your fault; you may even feel bad that he is going to look bad to his boss. If it goes really bad, you may end up being fired from your job and there goes your livelihood. Even if you are not worried about finding another job, very few people enjoy the interview process where you have to convince people on the other side of the table that you are going to definitely meet their goals. This is just one narrative.<p>
  <p>Your goals are handed down to you, perhaps by well-meaning, polite people, but they are nevertheless handed down to you. You may make a few adjustments to a goal, but, generally, there is no discussion as to what it is for, why it has to be done, or when and how to get it done. You don’t even think of asking these questions “at work.” You may feel it is not your place, or your boss is going to get upset if you ask too many questions, and who are you to ask? Behind it all fear modulates what you say, when you say it, to whom. Fear that you’ll get penalized, even fired. Fear of upsetting your boss. Fear that your boss, and many of your peers, will think badly of you.</p>
  <p>I see it as there being two types of fears: the healthy one that comes from inside you and keeps you alive and away from the tiger’s jaws. Call that <em>good-fear</em>. Then there is the fear that comes from outside of you, from people who can hurt you. Call that <em>bad-fear</em>. We embrace the bad-fear as if it were good-fear and we don’t say what we see as dangerous; we don’t ask clarifying questions; we don’t express what we feel. That is unhealthy fear because even though our cognitive brain doesn’t notice, our bodies do. They notice and react to bad-fear in many, mostly unhealthy, chronic ways.</p>
