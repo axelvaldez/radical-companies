@@ -22,7 +22,7 @@ image:    "icon-about-daos.svg"
  <p>The DAO technology  will make <span class="_paradigm">Fiat</span> worse.</p>
 
 <h1>DAOs Are Not Decentralized</h1>
- <p>DAOs<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> are more or less centralized, depending on its governance model, but they are <em>not</em> decentralized and there&rsquo;s no technology to decentralize them. More LPs (<em>ie</em>, Limited Partners to a Venture Capital fund) and different kind of friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution anything but an investment.<p>
+ <p>DAOs<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> are more or less centralized depending on its governance model, but they are <em>not</em> decentralized and there&rsquo;s no technology to decentralize them. More LPs (<em>ie</em>, Limited Partners to a Venture Capital fund) and different kind of friction does not equal decentralization. Sure, LPs have the choice of not joining the DAO or, depending on the governance model, bailing out, but that’s not a solution anything but an investment.<p>
  <p>Our big problem is the &ldquo;because I say so&rdquo;, <span class="_paradigm">Fiat</span> ways of doing things. We need a truly decentralized alternative to it.<p>
 
 <h1>DAOs Are Not Autonomous</h1>
