@@ -21,7 +21,6 @@ image:    "icon-lazy-greedy-cowardly.svg"
 
 <h1>It Won&rsquo;t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That&rsquo;s all we&rsquo;ve learned and all we see in the world around us. And, so, that&rsquo;s what we do even when we intend to do otherwise.</p>
-yyy
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -79,10 +78,7 @@ yyy
     </tr>
    </table>
   </div>
-<!--
--->
 
-<!--
 <h1>Let&rsquo;s Compete</h1>
  <p>We have learned this throughout our lives, just by watching the &ldquo;successful&rdquo; adults around us.</p>
  <ul>
@@ -110,9 +106,7 @@ yyy
   <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
   <li>Only coins count as motivators.</li>
  </ul>
--->
 
-<!--
 <h1>Collaborate Out of Love</h1>
  <p>Sounds flaky, but read on.</p>
  <ul>
@@ -139,10 +133,8 @@ yyy
   <li>Everything is fully transparent. No exceptions.</li>
   <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
  </ul>
--->
-
-<!--
-<h1 class="_section">ENDNOTES</h1>
+ 
+ <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
@@ -155,8 +147,5 @@ yyy
    </p>
   </li>
  </ul>
--->
 
-<!--
 {% include related.html %}
--->
