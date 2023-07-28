@@ -7,11 +7,11 @@ image:    "icon-about-daos.svg"
 ---
 
 <div style="display:none;">
- <p>There's nothing decentralized or autonomous about DAOs. That's not a criticism, it's simply an observation. They don't address the main societal issue today which is an overuse of force, and it's child, dominance.</p>
+ <p>There&rsquo;s nothing decentralized or autonomous about DAOs. That&rsquo;s not a criticism, it&rsquo;s simply an observation. They don&rsquo;t address the main societal issue today which is an overuse of force, and it&rsquo;s child, dominance.</p>
 </div>
 
 <h1>The DAO Story</h1>
- <p>In spite of their name, there's nothing decentralized or autonomous about DAOs. I don't mean that as a criticism, but simply as an observation.
+ <p>In spite of their name, there&rsquo;s nothing decentralized or autonomous about DAOs. I don&rsquo;t mean that as a criticism, but simply as an observation.
 
 <h1>The Criticism</h1>
  <p>As a criticism I would point out that the DAO technology is an <em>automated investment</em> platform meant to make creating money-first organizations more efficient. As such, it is a technology that would do nothing but expand <span class="_paradigm">Fiat</span> investment options.</p>
@@ -35,14 +35,14 @@ image:    "icon-about-daos.svg"
    <img
     src='/assets/img/pic-fiat-pain.svg'
     width='30%'
-    alt=''>
+    alt='It labeled FIAT. Below it, is says YOU DO IT BECAUSE OF. Below that theres is a cascade of words, increasing in punishment: THREAT, FEAR, FORCE, PAIN, SURVIVAL.'>
   </div>
- <p>Fear is so prevalent in our present world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, but the rest of our body is affected by it and often not in a good, healthy way.</p>
- <p>You work for your boss. The work you do goes to meet his goals, which were imposed on him by higher boss. If something goes wrong, it is your fault; you may even feel bad that he is going to look bad to his boss. If it goes really bad, you may end up being fired from your job and there goes your livelihood. Even if you are not worried about finding another job, very few people enjoy the interview process that follows where you have to convince people at the other side of the table that you are going to definitely meet <em>their</em> goals.<p>
- <p>Your goals are handed down to you, perhaps by well-meaning, polite people, but they are nevertheless handed down to you. You may make a few adjustments to a goal, but, generally, there is no discussion as to what it is for, why it has to be done, or when and how to get it done. You don’t even think of asking these questions &ldquo;at work.&rdquo; You may feel it is not your place, or your boss is going to get upset if you ask, and who are you to ask? Behind it all fear modulates what you say, when you say it, to whom. Fear that you&rsquo;ll get penalized, even fired. Fear of upsetting your boss. Fear that your boss, and many of your peers, will think badly of you.</p>
- <p>There is, of course, healthy fears. The healthy ones keeps you alive and away from the tiger&rsquo;s jaws. The bad fears come from people who can hurt you. We embrace the bad-fear as if it were good-fear and we don&rsquo;t say what we see as dangerous; we don&rsquo;t ask clarifying questions; we don&rsquo;t express what we feel. That is unhealthy fear because even though our cognitive brain doesn&rsquo;t notice, our bodies do. They notice and react to bad-fear in many, mostly unhealthy, chronic ways.</p>
- <p>You might be thinking, <span class='_quotespan'>But that&rsquo;s the way it is. You have to learn to restrain yourself and be polite about what you say and how you say. Otherwise, we will end up like animals, hurting each other.</span> Think of it this way: as a species, we are pretty successful. Social animals collaborate, they do not compete, and that&rsquo;s what&rsquo;s made us successful as a species. Perhaps we should behave more like the social animals we are.</p>
- <p>Force, and the fear it engenders, is what&rsquo;s holding us back, it hurts us, and will eventually kill more of us.</p>
+ <p>Threats and fear are so prevalent in our <span class="_paradigm">Fiat</span> world that it mostly goes unnoticed. At least, it goes unnoticed by our cognitive system, but the rest of our body is affected by it and not in a good, healthy way.</p>
+ <p>You work for your boss. The work you do goes to meet his goals, which were imposed on him by higher boss. If something goes wrong, it is your fault; you may even feel bad that he is going to look bad to his boss. If it goes really bad, you may end up being fired from your job and there goes your livelihood. Even if you are not worried about finding another job, very few people enjoy the interview process that follows where you have to convince people at the other side of the table that you are going to definitely meet <em>their</em> goals. Or else&hellip;<p>
+ <p>Your goals are handed down to you, possibly by well-meaning, polite people, but they are nevertheless handed down to you. You may make a few adjustments to a goal, but, generally, there is no discussion as to what it is for, why it has to be done, or when and how to get it done. You don&rsquo;t even think of asking these questions &ldquo;at work.&rdquo; You may feel it is not your place, or your boss is going to get upset if you ask, and who are you to ask? Behind it all fear modulates what you say, when you say it, to whom. Fear that you&rsquo;ll get penalized, even fired. Fear of upsetting your boss. Fear that your boss, and many of your peers, will think badly of you.</p>
+ <p>There is, of course, healthy fears the kind that keep you alive and away from the tiger&rsquo;s jaws. The unhealthy fears come from people who can hurt you. We conflate healthy and unhealth fears. We don&rsquo;t ask clarifying questions. We don&rsquo;t express what we feel. And our bodies notice and react to unhealthy fears in unhealthy, chronic ways.</p>
+ <p>You might be thinking, <span class='_quotespan'>But that&rsquo;s the way it is. You have to learn to restrain yourself and be polite about what you say and how you say. Otherwise, we will end up like animals, hurting each other.</span> Think of it this way: as a species, we are pretty successful. Social animals collaborate among themseles, they do not compete, and that&rsquo;s what&rsquo;s made us successful as a species. Perhaps we should behave more like the social animals we are.</p>
+ <p>Threats and fear are holding us back.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
