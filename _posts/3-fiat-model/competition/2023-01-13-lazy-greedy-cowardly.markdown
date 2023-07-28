@@ -24,7 +24,6 @@ image:    "icon-lazy-greedy-cowardly.svg"
 YYY
   <div class='_center'>
    <table class='_h2table'>
-<!--
     <tr>
      <th>
       <p>Name dropping & quoting authorities</p>
@@ -37,6 +36,7 @@ YYY
       </ul>
      </td>
     </tr>
+<!--
 -->
     <tr>
      <th>
