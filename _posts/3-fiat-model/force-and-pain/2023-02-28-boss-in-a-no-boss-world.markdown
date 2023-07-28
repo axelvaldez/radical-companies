@@ -2,7 +2,7 @@
 layout:   post
 title:    "Boss in a No-Boss World"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Adrian Perez"
 image:    "icon-boss-in-a-no-boss-world.svg"
 ---
 
