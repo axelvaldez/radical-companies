@@ -21,6 +21,7 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
    <p>When a tree is very small we protect it by surrounding it with a fence so that animals do not step on it. Later when the tree is bigger it no longer needs the fence. Then it can give shelter to many.</p>
   </div>
  <p>We need to learn to &ldquo;just allow it&rdquo; and collaborate.</p>
+ <p>&nbsp;</p>
  <p>Maria closes with this powerful statement,</p>
   <div class="_citation">
    <p>The fence is the community of support&hellip;, the kindred spirits with whom we surround ourselves when we are still vulnerable &hellip; [A] lovely reminder of that mycelial connection that binds us to each other, just like the mycorrhizal network undergirds the forest with its web of communication and nutrition.</p>
