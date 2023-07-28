@@ -27,7 +27,7 @@ image:    "icon-about-daos.svg"
 
 <h1>DAOs Are Not Autonomous</h1>
  <p>DAOs are not autonomous just because they are run from code. In fact, they are governed by committees of people. Even if those could be eliminated, their <em>code</em> itself is created by people. In any case, autonomy is the domain of people. We need autonomous collaboration among people. And people collaborate via conversations.<p>
- <p>DAOs are basically an <em>automated investment</em> platform, but, instead, we need a conversation platform supported by all the Web3 technology that does not yet exist.<sup id="bm02"><a href="#en02">2</a></sup></p>
+ <p>DAOs are basically an <em>automated investment</em> platform, but, instead, we need a conversation platform supported by all the Web3 technology that does not yet exist.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>What Do DAOs Have to Do with Fear?</h1>
  <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; without any explanation at all. I&rsquo;d like to do that now.</p>
