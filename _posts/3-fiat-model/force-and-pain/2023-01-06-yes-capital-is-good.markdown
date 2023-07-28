@@ -55,7 +55,7 @@ image:    "icon-yes-capital-is-good.svg"
   <ul>
    <li>Women join the workforce.</li>
    <li>Of course, women get paid less than men.</li>
-   <li>Most everybody is an employee and <span class="_quotespan">they all looked just the same</span>.<<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></li>
+   <li>Most everybody is an employee and <span class="_quotespan">they all looked just the same</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
  <p>Five billion people have Internet connectivity,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
   <ul>
