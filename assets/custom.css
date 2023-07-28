@@ -372,7 +372,7 @@ span._paradigm {
 ._citation p {
   text-indent:0;
 }
-._citation p::before {
+._citation::before {
   font-family:Georgia, serif;
   font-size:24pt;
   content:"“";
