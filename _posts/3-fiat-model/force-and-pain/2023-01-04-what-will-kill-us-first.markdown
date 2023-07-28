@@ -26,11 +26,11 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1>Homogeneity in Politics</h1>
  <p>This move towards homogeneity is not &ldquo;coming&rdquo;, it is already happening and here are a couple of examples. Take governance, for example.</p>
- <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an inevitable, all powerful, forever state. Today we can still compare, for example, the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
+ <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an inevitable, all powerful, forever state. Today we can still compare, the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
 
 <h1>Decline of Science</h1>
  <p>For another example, take the decline of disruptive science,</p>
- <div class="_quotation">
+ <div class="_citation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
   <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
