@@ -33,7 +33,7 @@ image:    "icon-about-daos.svg"
  <p>I have been bringing up &ldquo;violence,&rdquo; &ldquo;force,&rdquo; and &ldquo;fear,&rdquo; without any explanation at all. I&rsquo;d like to do that now.</p>
   <div class='_center'>
    <img
-    src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
+    src='/assets/img/pic-fiat-pain.svg'
     width='70%'
     alt=''>
   </div>
