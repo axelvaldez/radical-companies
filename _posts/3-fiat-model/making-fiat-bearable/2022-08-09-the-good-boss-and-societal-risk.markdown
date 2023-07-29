@@ -36,7 +36,7 @@ image:    "icon-the-good-boss.svg"
  <ul>
   <li id="en02">
    <p class="_list-item">
-    Ma Bell was the nickname for The Bell System. It had a government-sactioned monopoly on all telecommunication. It was led by the Bell Telephone Company and later by the American Telephone and Telegraph Company. They dominated the telephone services industry in North America for over 100 years from its creation in 1877 until its antitrust breakup in 1983.
+    Ma Bell was the nickname for The Bell System. It had a government-sactioned monopoly on all telecommunication. It was led by the Bell Telephone Company and later by the American Telephone and Telegraph Company. They dominated the telephone services industry in North America from its creation in 1877 until its antitrust breakup in 1983.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
