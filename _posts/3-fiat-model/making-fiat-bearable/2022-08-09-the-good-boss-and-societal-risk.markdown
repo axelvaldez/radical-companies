@@ -29,7 +29,7 @@ image:    "icon-the-good-boss.svg"
  <p>If Bell Labs had been committed to decentralization and transparency and to creating meaning and belonging, then Shannon would have had the autonomy he needed <em>systemic level</em>. He could have tackled subjects in whatever order he pleased, whether it&rsquo;d be Information Theory first or last or in the middle. It would not be up to the largesse of his <em>good boss</em> and the <em>hierarchy</em> he was beholden to.</p>
 
 <h1>Radically Healthier</h1>
- <p>The <span class="_paradigm">Radical</span> model ensures the gains of invention, discovery, and innovation for society. Invention under a <span class="_paradigm">Fiat</span> framework is very high risk. It goes against the norm and it leaves us in a situation where a manager plays roulette with his future within the hierarchy. He might get lucky or there may be some thrill around the risk, but does he really want to live at the edge chance? Do we want society&rsquo;s achievements to be won that way?</p>
+ <p>The <span class="_paradigm">Radical</span> model ensures the gains of invention, discovery, and innovation <em>for society,</em> for all. Invention under a <span class="_paradigm">Fiat</span> framework is very high risk. It goes against the norm and it leaves us in a situation where a manager plays roulette with his future within the hierarchy. Do we want society&rsquo;s achievements to be won that way?</p>
  <p>The <span class="_paradigm">Radical</span> model provides a healthier path toward discovery and achievement, one without the threat of professional death constantly hanging overhead.</p>
 
 <h1 class="_section">ENDNOTES</h1>
