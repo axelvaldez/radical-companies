@@ -25,8 +25,8 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>The other thing that has been happening for a while is the trend towards homogeneity in many fields.</p>
 
 <h1>Homogeneity in Politics</h1>
- <p>This move towards homogeneity is not &ldquo;coming&rdquo;, it is already happening and here are a couple of examples. Take governance, for example.</p>
- <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an inevitable, all powerful, forever state. Today we can still compare, the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
+ <p>This move towards homogeneity is not &ldquo;coming&rdquo;, it is already happening. Take governance, for example.</p>
+ <p>As every nation moves towards being run like every other nation, experimentation goes down and nations approach an all powerful, forever state. Today we can still compare the US to Europe when it comes to, say, healthcare. But as homogeneity sets in, distinctions will be minimal and easily brushed off.</p>
 
 <h1>Decline of Science</h1>
  <p>For another example, take the decline of disruptive science,</p>
