@@ -41,7 +41,7 @@ image:    "icon-what-will-kill-us-first.svg"
    width="100%"
    alt="">
  </div>
- <p>In sheer numbers, there is more research, but it trends towards improvement and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
+ <p>In sheer numbers, there is more research, but it trends towards tweaks and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
 
 <h1>Fragile Food</h1>
  <p>Another example comes from our food supply: food production is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
