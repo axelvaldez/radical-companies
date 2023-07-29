@@ -7,11 +7,11 @@ image:    "icon-what-will-kill-us-first.svg"
 ---
 
 <div style="display:none;">
- <p>Which will destroy the Anthropocene first, climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene first, climate change or more of the same?</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> first, climate change or homogeneity?</p>
+ <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> first, climate change or more of the same?</p>
 
 <h1>Climate Change</h1>
  <p>First, take climate change,</p>
