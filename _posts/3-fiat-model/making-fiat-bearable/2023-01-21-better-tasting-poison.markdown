@@ -14,9 +14,10 @@ image:    "icon-better-tasting-poison.svg"
  <p>Free lunches and massages at your chair are ineffective tweaks trying to make the <span class='_paradigm'>Fiat</span> system more palatable. They make the current business paradigm more palatable for a little bit.</p>
  <p>The article<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; that it &ldquo;has shown itself to be resilient.&rdquo; On the way, it also illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs while the <span class="_paradigm">Fiat</span> system continues unabated,</p>
   <ul>
-   <li>Competition and dominance.</li>
-   <li>Winners and losers.</li>
-   <li>&ldquo;Lazy&rdquo;, &ldquo;greedy&rdquo;, and &ldquo;cowardly&rdquo; language.</li>
+   <li>Competition</li>
+   <li>Dominance</li>
+   <li>Winners</li>
+   <li>Losers.</li>
   </ul>
  <p>All thanks to the <span class="_paradigm">Fiat</span> system. The invisible system that puts financial success above all else.</p>
 
