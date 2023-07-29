@@ -11,7 +11,7 @@ image:    "icon-better-tasting-poison.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Free lunches and massages are ineffective, terrible tweaks trying to make the <span class='_paradigm'>Fiat</spam> system more palatable.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Free lunches and massages are ineffective, terrible tweaks trying to make the <span class='_paradigm'>Fiat</span> system more palatable.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The article really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; because it &ldquo;has shown itself to be resilient.&rdquo; But it does illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs and the <span class="_paradigm">Fiat</span> system continues unabated.</p>
  <p>Competition and dominance.</p>
  <p>Winners and losers.</p>
