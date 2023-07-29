@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "ESOPS: Making Fiat Bearable (for Fiat Owners)"
+title:    "ESOPS: Making It Bearable for Fiat Owners"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-esops-making-fiat-bearable-for-fiat-owners.svg"
+image:    "icon-esops-making-it-bearable-for-fiat-owners.svg"
 ---
 
 <div style="display:none;">
- <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. And then I researched it and I wasn&rsquo;t so excited anymore.</p>
+ <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. Then I researched it and I wasn&rsquo;t so excited anymore.</p>
 </div>
 
 <h1>ESOPs</h1>
