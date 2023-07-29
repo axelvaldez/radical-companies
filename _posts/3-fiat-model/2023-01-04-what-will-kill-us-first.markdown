@@ -32,16 +32,16 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>For another example, take the decline of disruptive science,</p>
  <div class="_citation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
-  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science forward than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science into increamental improvements rather than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>This is also happening in social science, technology, physical sciences, life sciences, and biomedicine.</p>
+ <p>This is happening in social science, technology, physical sciences, life sciences, and biomedicine.</p>
  <div class="_center">
   <img
    src="/assets/img/disruptive-science-dwindles.svg"
    width="100%"
    alt="">
  </div>
- <p>In sheer numbers, there is more research, but it trends towards tweaks and not discovery. This is really bad because we can recognize and celebrate improvements (&ldquo;Wow, that’s going to make us live longer!&rdquo;), but we don’t recognize discoveries until it hits us in the face (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
+ <p>In sheer numbers, there is more research, but it is towards  provements (&ldquo;Wow, that&rsquo;s going to make us live longer!&rdquo;), and mot towards discoveries (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
 
 <h1>Fragile Food</h1>
  <p>Another example comes from our food supply: food production is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -59,13 +59,13 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, not only in politics,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> but also science, food, etc.</p>
 
 <h1>Monoculture</h1>
- <p>Monocultures are fragile. A virus that harm one member of the species, can harm <em>every</em> member of the species.</p>
- <p>Nature fends this off somewhat via genetic and habitat variations. This will allow a handful of individuals to survive, though some cultural knowledge will vanish as individuals die.</p>
- <p>Non-human species don’t accumulate as much cultural knowledge, but humans accumulate a lot of it. We will lose much, if not most, of it.</p>
+ <p>Monocultures are fragile. A virus that harm one member of the species, harms <em>every</em> member of the species.</p>
+ <p>Nature fends this off via genetic and habitat variations. This will allow a handful of individuals to survive, though some cultural knowledge will vanish.</p>
+ <p>Non-human species don&rsquo;t accumulate as much cultural knowledge, but humans accumulate a lot of it. We will lose much, if not most, of it.</p>
  <p>We will most likely get a chance to restart, but with a decimated community. The whole thing will be very fragile as we restart from near-scratch.</p>
 
 <h1>The Anthropocene</h1>
- <p>This will happen to us, and the Anthropocene will end, if we don’t do something about the direction we are going. Our fossil fuel car is heading towards world-wide homogeneity and climate change.</p>
+ <p>This will happen to us, and the Anthropocene will end if we don&rsquo;t do something about the direction we are going. Our garsoline car is heading towards world-wide homogeneity and climate change.</p>
 
 <h1>RADICAL Mindset</h1>
  <p>One way to protect us against this is a mindset of co-management and co-ownership. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>Umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
