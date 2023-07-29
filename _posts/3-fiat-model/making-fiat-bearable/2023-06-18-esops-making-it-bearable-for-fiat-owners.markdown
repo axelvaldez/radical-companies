@@ -11,13 +11,13 @@ image:    "icon-esops-making-it-bearable-for-fiat-owners.svg"
 </div>
 
 <h1>ESOPs</h1>
- <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. And then I researched it and I wasn&rsquo;t so excited anymore.</p>
- <p>The ESOP law was inspired by the book Capitalist Manifest, by Louis Kelso and Mortimer Adler. Adler was he writer, but the idea came from Kelso. As a recent post by Thomas Lewin put is, <span class='_quotespan'>If you contribute to the success of an enterprise, you share in the reward,</span></p>
+ <p>At one point I was really excited around ESOP, the Employee Stock Ownership Plan. Then I researched it and I wasn&rsquo;t so excited anymore.</p>
+ <p>The ESOP law was inspired by the book <em>Capitalist Manifest,</em> by Louis Kelso and Mortimer Adler. Adler was he writer, but the ideas came from Kelso. As a recent post by Thomas Lewin put it, <span class='_quotespan'>If you contribute to the success of an enterprise, you share in the reward,</span></p>
   <ul>
-   <li>Shared Success: ESOPs embody the philosophy that those who contribute to success should also share in the rewards. This is a game-changer in driving employee performance and satisfaction.</li>
+   <li>Shared Success: ESOPs embody the philosophy that those who contribute to success should also share in the financial rewards. This is a game-changer in driving employee performance and satisfaction.</li>
    <li>Retention Revolution: Say goodbye to the revolving door of talent. With ESOPs, your top performers have a vested interest in your company&rsquo;s success and are more likely to stick around.</li>
    <li>Smooth Succession: ESOPs keep the power within the organization, ensuring a seamless transition and uninterrupted growth.</li>
-   <li>Empowered Culture: Employees aren't just workers, they're owners. This fosters a culture of mutual respect, shared responsibility, and collective triumph.</li>
+   <li>Empowered Culture: Employees aren&rsquo;t just workers, they&rsquo;re owners. This fosters a culture of mutual respect, shared responsibility, and collective triumph.</li>
    <li>Win-Win Wealth: ESOPs are beneficial not just for the employees, but also for the company, with various tax advantages in play.</li>
   </ul>
  <p>Levin claims that, <span class='_quotespan'>This is a game-changer in driving employee performance and satisfaction.</span> And that is pretty much the way I felt until I discovered how many loopholes have crept in the law over the years. Today is is simply a windfall for the original owner.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The employee-owners continue to be employees and have no say in the management of the business which continues to be ruled by a Board and a <span class='_paradigm'>Fiat</span> hierarchy.</p>
