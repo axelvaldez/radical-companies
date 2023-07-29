@@ -17,12 +17,12 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>First, take climate change,</p>
  <ul> 
   <li>Changes to temperature patterns change weather patterns.</li>
-  <li>Changes to weather patterns change agricultural growth patterns and wild species habitats.</li>
-  <li>Changes to agriculture and wild species habitats are a threat to our life support system.</li>
-  <li>We cannot react to that many changes. As our life support system declines, our population will decline.</li>
-  <li>Given our <span class="_paradigm">Fiat</span> mindset, competition will increase and our cultural accomplishments will be forgotten.</li>
+  <li>Changes to weather patterns change agricultural and wild species habitats.</li>
+  <li>Changes to agriculture and wild species habitats are a threat to our life support system and infrastructure will be disrupted.</li>
+  <li>As our life support system declines and infrastructure is disrupted, our population will decline.</li>
+  <li>Given our <span class="_paradigm">Fiat</span> mindset, there is a good chance that competition will increase and our cultural accomplishments will be forgotten.</li>
  </ul>
- <p>The other thing happening now is the trend towards homogeneity in many fields.</p>
+ <p>The other thing that has been happening for a while is the trend towards homogeneity in many fields.</p>
 
 <h1>Homogeneity in Politics</h1>
  <p>This move towards homogeneity is not &ldquo;coming&rdquo;, it is already happening and here are a couple of examples. Take governance, for example.</p>
