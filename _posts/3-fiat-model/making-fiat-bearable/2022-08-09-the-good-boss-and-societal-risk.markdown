@@ -7,7 +7,7 @@ image:    "icon-the-good-boss.svg"
 ---
 
 <div style="display:none;">
- <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets you anything you want, or just leaves you alone. That is not bad, but it is fragile and temporary.</p>
+ <p>A good boss is someone who protects you from the hierarchy, or empowers you with decision-making, or gets you anything you want, or just leaves you alone. The no-boss boss. That is not bad, but it is fragile and temporary.</p>
 </div>
  
 <h1>&nbsp;</h1>
