@@ -20,17 +20,17 @@ image:    "icon-esops-making-it-bearable-for-fiat-owners.svg"
    <li>Empowered Culture: Employees aren&rsquo;t just workers, they&rsquo;re owners. This fosters a culture of mutual respect, shared responsibility, and collective triumph.</li>
    <li>Win-Win Wealth: ESOPs are beneficial not just for the employees, but also for the company, with various tax advantages in play.</li>
   </ul>
- <p>Lewin claims that, <span class='_quotespan'>This is a game-changer in driving employee performance and satisfaction.</span> And that is pretty much the way I felt until I discovered how many loopholes have crept in the law over the years. Today is is simply a windfall for the original owner.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The employee-owners continue to be employees and have no say in the management of the business which continues to be ruled by a Board and a <span class='_paradigm'>Fiat</span> hierarchy.</p>
+ <p>Lewin claims that, ESOPs were <span class='_quotespan'>&hellip; driving employee performance and satisfaction.</span> That is pretty much the way I felt until I discovered how many loopholes have crept in the law over the years. Today is is simply a windfall for the original owner.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The employee-owners continue to be employees and have no say in the management of the business which continues to be ruled by a Board and a <span class='_paradigm'>Fiat</span> hierarchy.</p>
  <p>Unfortunately, Kelso&rsquo;s ESOPs stayed within the <span class='_paradigm'>Fiat</span> system, making it a little bit more generous (and more risky) for employees and definitely a windfall for <span class='_paradigm'>Fiat</span> owners.</p>
 
-<h1>Non-Fiat</h1>
- <p>Non-<span class='_paradigm'>Fiat</span> systems provides these benefits for <em>every co-owner</em>,</p>
+<h1>Co-Ownership</h1>
+ <p>Co-ownership provides these benefits for <em>every co-owner</em>,</p>
   <ul>
-   <li>Shared Success: This would be more like community success, where the co-owner could part of company or an ensembles of companies.</li>
+   <li>Shared Success: Community success, where every co-owner co-owns the dividends of companies.</li>
    <li>Retention Revolution: It is not so much retention-of-employees-to-make-wealth-for-me, but that people would want stay with the community that they are part of. On the other hand, it they need to move on, they benefit from the part of the company they helped create.</li>
-   <li>Smooth Succession: This doesn&rsquo;t mean anything in a non-<span class='_paradigm'>Fiat</span> environment. On the other hand, if we interpret it as the &ldquo;smooth succession&rdquo; of the company itself, then this makes more sense. Note that this is not the succession of a <span class='_paradigm'>Fiat</span> wealth-making-for-the-owners business. It means that the company doesn&rsquo;t fall apart because of one departure.</li>
-   <li>Empowered Culture: The ESOP is neither empowered nor a culture. On the other hand, non-<span class='_paradigm'>Fiat</span> companies are decentralized, co-management and co-ownership, and as such they are a culture empowered by every co-owner in the team.</li>
-   <li>Win-Win Wealth: ESOPs are like co-ops in that they divide (what the Board decides are) dividends equally among all employees. That&rsquo;s not ideal. A mere division cannot supplant the co-owners participation in deciding who deserves what. Non-<span class='_paradigm'>Fiat</span> companies take every co-owner into consideration through the <em><span class='_paradigm'>RADs!</span> mobile app.</em></li>
+   <li>Smooth Succession: This doesn&rsquo;t mean anything in a non-<span class='_paradigm'>Fiat</span> environment. On the other hand, if we interpret it as the &ldquo;smooth succession&rdquo; of the company Explicit Alignment itself, then this makes more sense. It means that the company doesn&rsquo;t fall apart because of one departure.</li>
+   <li>Empowered Culture: The ESOP is neither empowered nor a culture. On the other hand, <span class='_paradigm'>Radical</span>-based companies are a culture empowered by every co-owner in the team.</li>
+   <li>Win-Win Wealth: ESOPs divide <em>what the Board decides</em> are dividends distributed to employees. That&rsquo;s not ideal. A mere division cannot supplant the co-owners participation in deciding who deserves what. <span class='_paradigm'>Radical</span>-based companies take every co-owner into consideration through the <em><span class='_paradigm'>RADs!</span> Mobile App.</em></li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
