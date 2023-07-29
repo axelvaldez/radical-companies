@@ -16,7 +16,7 @@ image:    "icon-better-tasting-poison.svg"
   <ul>
    <li>Competition and dominance.</li>
    <li>Winners and losers.</li>
-   <li>Lazy, greedy, and cowardly.</li>
+   <li>&ldquo;Lazy&rdquo;, &ldquo;greedy&rdquo;, and &ldquo;cowardly&rdquo; language.</li>
   </ul>
  <p>All thanks to the <span class="_paradigm">Fiat</span> system. The invisible system that puts financial success above all else.</p>
 
