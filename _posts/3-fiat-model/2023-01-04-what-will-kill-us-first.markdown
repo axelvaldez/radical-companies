@@ -56,7 +56,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>We need to try a different system, one based on collaboration, not competition. Abundance, not scarcity. co-management and co-ownership, not masters and slaves.</p>
 
 <h1>Strong Trend</h1>
- <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, in politics,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> science, food, etc.</p>
+ <p>Politically, our priorities are trending towards tweaking and avoiding risk. Worst, this trend is bringing about a world-wide monoculture in every aspect of our lives, not only in politics,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> but also science, food, etc.</p>
 
 <h1>Monoculture</h1>
  <p>Monocultures are fragile. A virus that harm one member of the species, can harm <em>every</em> member of the species.</p>
