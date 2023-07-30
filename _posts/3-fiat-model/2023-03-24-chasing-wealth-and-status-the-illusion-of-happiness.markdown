@@ -45,7 +45,7 @@ image:    "icon-chasing-wealth-and-status-the-illusion-of-happiness.svg"
    <li>What are your values and priorities in life, and how does your job align with them?</li>
   </ul>
  <p>Notice that <em>chatGPT</em> never questions the &ldquo;job&rdquo; concept, it assume that you will have a one. It never asks, <span class="_quotespan">Why should you have a job at all?</span> Its language training base assumes that you must exchange your time and skills for a wage, that you must exchange your life for enough money to survive. But working for a <span class="_paradigm">Fiat</span> wage is the critical question for systemic change.</p>
- <p>Such is the <span class="_paradigm">Fiat</span> system we live in: the grand majority of us only aspire to a good paying job, regardless of the cost to us.</p>
+ <p>Such is the <span class="_paradigm">Fiat</span> system we live in: the grand majority of us only aspire to a good paying job, regardless of the cost.</p>
  <p>The <span class="_paradigm">Fiat</span> system has provided good results: central heating, amazing medicines, and even electric cars. And at least in democratic systems, it has to produce enough public goods to survive, but a huge amount of its wealth goes to the lucky few. That certainly has been the case since 1972. The <span class="_paradigm">Fiat</span> system has also made a few people extremely wealthy and most of humanity dirt poor. While the folks in the middle of these extremes get wealth and status, they live their lives in existential dread.</p>
 
 <h1 class="_section">ENDNOTES</h1>
