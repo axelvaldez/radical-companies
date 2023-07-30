@@ -20,15 +20,22 @@ image:    "icon-yes-capital-is-good.svg"
    <li>Enclosures begat capital.</li>
    <li>Owners keep the profits</li>
    <li>Profits beget more capital for te owner.</li>
-   <li>Capital begets the <span class="_paradigm">Fiat</span> <em>system</em>.</li>
-   <li>The owner later builds a factory on <em>his</em> land and let&rsquo;s you work in it as his employee.</li>
-   <li>You are now a piece of a big, human machine.</li>
-   <li>The wage is higher and you are happier.</li>
-   <li>You can afford shoes for your boys; girls don&rsquo;t need shoes (you are starting to internalize the <span class="_paradigm">Fiat</span> model of domination).</li>
-   <li>You collaborate with others, minding only your work and tossing it to the other fellow.</li>
-   <li>You are a good employee and you are docile and obedient.</li>
-   <li>You are a good employee and your work is your only source of survival.</li>
-   <li>You are a good employee and you never learn that it was once possible to find  dignity at work.</li>
+   <li>Capital begets the <span class="_paradigm">Fiat</span> system.</li>
+   <li>The owner later builds a factory on his land and let&rsquo;s you work in it as his employee.</li>
+   <li>You are now a piece of a big machine that is partly made up of people like you.</li>
+   <li>Your wage goes up and you are happier.</li>
+   <li>You can afford shoes for your boys; girls don&rsquo;t need shoes.</li>
+   <li>you are starting to internalize the <span class="_paradigm">Fiat</span> model of domination.</li>
+   <li>You only mind your work.</li>
+   <li>Then you toss it to the next fellow in line.</li>
+  </ul>
+ 
+ <h1>>Lessons Learned</h1>
+  <p>As a good employee,
+  <ul>
+   <li>You are docile and obedient.</li>
+   <li>Your work is your only source of survival.</li>
+   <li>You never learn that it was once possible to find  dignity at work.</li>
   </ul>
 
 <h1>Labor as Boss</h1>
