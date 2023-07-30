@@ -113,7 +113,10 @@ image:    "icon-what-will-kill-us-first.svg"
      </tr>
      <tr>
       <th>Explicit Relationship</th>
-      <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
+      <td>
+       <p>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</p>
+       <p>This is food for gossip, quite the contrary. The point is to let others know where you need help.</p>
+      </td>
      </tr>
      <tr>
       <th>Future Tools</th>
