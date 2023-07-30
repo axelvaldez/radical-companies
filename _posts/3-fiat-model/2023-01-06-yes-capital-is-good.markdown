@@ -30,7 +30,7 @@ image:    "icon-yes-capital-is-good.svg"
    <li>Then you toss it to the next fellow in line.</li>
   </ul>
  
- <h1>Lessons Learned</h1>
+<h1>Lessons Learned</h1>
   <p>As a good employee,
   <ul>
    <li>You are docile and obedient.</li>
@@ -42,9 +42,9 @@ image:    "icon-yes-capital-is-good.svg"
   <ul>
    <li>They make demands on behalf of you, the little people.</li>
    <li>Unions protect you, the employee.</li>
-   <li>(But never ask why should you need protection? Never question the system.)</li>
    <li>Unions make you happy, little people.</li>
    <li>Wages go up and working condition get codified.</li>
+   <li>Unions never question the system.</li>
    <li>Unions are centralized and ruled by <span class="_paradigm">Fiat</span>, just like the businesses that spawned them.</li>
   </ul>
 
