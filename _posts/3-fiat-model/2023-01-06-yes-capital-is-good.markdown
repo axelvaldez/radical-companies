@@ -19,7 +19,7 @@ image:    "icon-yes-capital-is-good.svg"
    <li>These wages are first paid in goods and then in coins (probably minted by the owner).</li>
    <li>Enclosures begat capital.</li>
    <li>Owners keep the profits</li>
-   <li>Profits beget capital.</li>
+   <li>Profits beget more capital for te owner.</li>
    <li>Capital begets the <span class="_paradigm">Fiat</span> <em>system</em>.</li>
    <li>The owner later builds a factory on <em>his</em> land and let&rsquo;s you work in it as his employee.</li>
    <li>You are now a piece of a big, human machine.</li>
