@@ -38,8 +38,7 @@ image:    "icon-yes-capital-is-good.svg"
    <li>You never learn that it was once possible to find  dignity at work.</li>
   </ul>
 
-<h1>Labor as Boss</h1>
- <p>Unions enter the scene,</p>
+<h1>Unions Enter the Scene,</h1>
   <ul>
    <li>They make demands on behalf of you, the little people.</li>
    <li>Unions protect you, the employee.</li>
@@ -48,13 +47,14 @@ image:    "icon-yes-capital-is-good.svg"
    <li>Wages go up and working condition get codified.</li>
    <li>Unions are centralized and ruled by <span class="_paradigm">Fiat</span>, just like the businesses that spawned them.</li>
   </ul>
- <p>Unions fade away,</p>
+
+<h1>Unions Fade Away</h1>
   <ul>
    <li>Wages keep going up, in wealthy countries.</li>
-   <li>Wages go down, in poor countries.</li>
+   <li>Wages go down in poor countries.</li>
    <li>Wages become salaries for very good, educated employees.</li>
    <li>Very good employees take work home.</li>
-   <li>Vacation time goes up, but very good employees don&rsquo;t take advantage of it (and proud of it).</li>
+   <li>Vacation time goes up, but very good employees are proud of not taking advantage of it.</li>
   </ul>
 
 <h1>Trendy Purpose</h1>
