@@ -11,11 +11,11 @@ image:    "icon-change.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>When you hear, <span class="_quotespan">I hate change</span>, what you are really hearing is <span class="_quotespan">Change is a threat, I am afraid of threats, and I don&rsquo;t want them in my life. This foxhole protects me and allows me to survive. That other foxhole probably won&rsquo;t do that</span>.</p>
- <p>And the more you dig yourself in, the more threatening change is.</p>
- <p>What can help you out of the foxhole is other people around you. People you trust. People who move out of the foxhole and survive just fine. Those people are now helping ease you out of your foxhole.</p>
- <p>The boss won&rsquo;t help you get out. He probably can not, but, in any case, it is not in best interest if what you do in your foxhole creates wealth for him. Your community will because they are want your wellbeing.</p>
- <p>Very important: celebrate your getting out because you did it, with other&rsquo;s help, but you did it! You shed the limitations of your old foxhole!</p>
+ <p>When you hear, <span class="_quotespan">I hate change</span>, what you are really hearing is <span class="_quotespan">Change is a threat, I am afraid of threats, and I don&rsquo;t want them in my life. This foxhole protects me and allows me to survive. That other foxhole won&rsquo;t do that</span>.</p>
+ <p>And the more you dig yourself in your foxhole, the more threatening change is.</p>
+ <p>The people around you can help you out of the foxhole. People you trust. People who move out of the foxhole and survive just fine. Those people can help ease you out of your foxhole.</p>
+ <p>The boss won&rsquo;t help you get out. He probably can not, but, in any case, it is not in best interest if what you do in your foxhole creates wealth for him. Your community will help you because they want your wellbeing.</p>
+ <p>When you do get out, celebrate it because you did it! You shed the limitations of your old foxhole!</p>
  <p>To survive and thrive, you must evolve and adapt.</p>
 
 {% include related.html %}
