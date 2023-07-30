@@ -62,7 +62,7 @@ image:    "icon-yes-capital-is-good.svg"
 
 <h1>But Now&hellip;</h1>
   <ul>
-   <li>>Five billion people have Internet connectivity,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
+   <li>Five billion people have Internet connectivity,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
    <li>A lot of them are getting the feeling that maybe this <span class="_paradigm">Fiat</span> system is not working for them.</li>
    <li>A lot of them feel that it is time for a change.</li>
    <li>The <span class="_paradigm">Radical</span> model enters from stage left, an alternative to the <span class="_paradigm">Fiat</span> system.</li>
