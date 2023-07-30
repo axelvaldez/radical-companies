@@ -14,10 +14,10 @@ image:    "icon-yes-capital-is-good.svg"
  <p>In the beginning,</p>
   <ul>
    <li>There were <em>land enclosures</em></li>
-   <li>Enclosures begat capital.</li>
    <li>Enclosures decrease your means of survival and increases the enclosure master&rsquo;s, now owner of the land.</li>
    <li>The new owner of the land, nice as he is, <em>lets you</em> work <em>his</em> land in exchange for a <em>wage</em>.</li>
    <li>These wages are first paid in goods and then in coins (probably minted by the owner).</li>
+   <li>Enclosures begat capital.</li>
    <li>Owners keep the profits</li>
    <li>Profits beget capital.</li>
    <li>Capital begets the <span class="_paradigm">Fiat</span> <em>system</em>.</li>
