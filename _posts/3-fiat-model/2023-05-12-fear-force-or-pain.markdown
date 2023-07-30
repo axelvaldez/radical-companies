@@ -33,6 +33,6 @@ image:    "icon-fear-force-or-pain.svg"
  <p>These stories resonated with me and they spoke to the power of having an alternative to the <span class="_paradigm">Fiat</span> system we live under.</p>
 
 <h1>Wellbeing</h1>
- <p>The opposite of <span class="_paradigm">Pain</span> is not <em>not</em> hedonic pleasure, it is <span class="_paradigm">Wellbeing</span>. We need an alternative to the <span class="_paradigm">Fiat</span> system we live in today that constatnly threatens. A <span class="_paradigm">Radical</span>-based can support and promote <span class="_paradigm">Wellbeing</span>.</p>
+ <p>The opposite of <span class="_paradigm">Pain</span> is not <em>not</em> hedonic pleasure, it is <span class="_paradigm">Wellbeing</span>. We need an alternative to the <span class="_paradigm">Fiat</span> system we live in today and a <span class="_paradigm">Radical</span>-based environment supports and promotes <span class="_paradigm">Wellbeing</span>.</p>
 
 {% include related.html %}
