@@ -58,18 +58,20 @@ image:    "icon-yes-capital-is-good.svg"
   </ul>
 
 <h1>Trendy Purpose</h1>
- <p>It becomes trendy for businesses to have a purpose. Nevertheless, they are still owned by the people with the capital (<em>i.e.</em>, which, as you may remember, came from enclosures).</p>
- <p>Life goes on,</p>
+ <p>It becomes trendy for businesses to have a Purpose, capitalizad. Nevertheless, they are still owned by the people with the <em>capital</em> (<em>i.e.</em>, which, as you may remember, came from enclosures).</p>
+ <p>Then,</p>
   <ul>
    <li>Women join the workforce.</li>
-   <li>Of course, women get paid less than men.</li>
+   <li>Women get paid less than &ldquo;the man of the house.&rdquo;</li>
    <li>Most everybody is an employee and <span class="_quotespan">they all looked just the same</span>.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
- <p>Five billion people have Internet connectivity,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+
+<h1>But Then&hellip;</h1>
   <ul>
+   <li>>Five billion people have Internet connectivity,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></li>
    <li>A lot of them are getting the feeling that maybe this <span class="_paradigm">Fiat</span> system is not working for them.</li>
    <li>A lot of them feel that it is time for a change.</li>
-   <li>The <span class="_paradigm">Radical</span> model enters from stage left. The first alternative to <span class="_paradigm">Fiat</span>.</li>
+   <li>The <span class="_paradigm">Radical</span> model enters from stage left, an alternative to the <span class="_paradigm">Fiat</span> system.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
