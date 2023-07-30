@@ -23,7 +23,7 @@ image:    "icon-trust-and-ptsd.svg"
   </div>
  <p>Not everyone develops PTSD from the same event. Two people can be in the same car accident and one will walk away temporarily shaken, and another may never want to get into a car again. An additional aspect of PTSD is chronic stress, like the amount of vigilance a soldier may have to undergo day in and day out. They may not experience one specific terrifying event, but many smaller calls to worry about survival may induce damage.</p>
 
-<h1>Reaching&hellip;</h1>
+<h1>Digging the Past</h1>
  <p>Dr Shay and Dr. Roth reached into the past and concluded that what are normally portrayed as <span class="_quotespan">bad people</span> are people suffering from trauma. </p>
  <p>Back in the present, the questions are,</p>
   <ul>
