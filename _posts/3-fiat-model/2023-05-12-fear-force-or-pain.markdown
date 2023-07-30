@@ -1,17 +1,18 @@
 ---
 layout:   post
-title:    "FEAR, FORCE, or PAIN?"
+title:    "Fear, Force, or Pain?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fear-force-or-pain.svg"
 ---
 
 <div style="display:none;">
- <p>What should it be , force, or pain. It turns that that <em>pain</em> is closer to the root. And I don&rsquo;t mean emotional pain, like losing a loved one, but the kind that comes from force (<em>e.g.</em>, being hit in the head).</p>
+ <p>What would you have: fear, force, or pain. Pain is the ultimate. And I don&rsquo;t mean emotional pain, like losing a loved one, but the kind that comes from force.</p>
 </div>
 
 <h1>&nbsp;</h1>
- <p>It all started with a conversation with Jose. Instead of  as <em>the best</em> label for the imposed hierarchy. Needless to say, it wasn&rsquo;t much of <em>conversation</em>, it was more like defending the trap we had fallen into and we now warmly called our foxholes. We were resisting change</p>
+ <p>What would you have: fear, force, or pain. Pain is the ultimate. And I don&rsquo;t mean emotional pain, like losing a loved one, but the kind that comes from force (<em>e.g.</em>, being hit with a hammer on the head).</p>
+ <p>It all started with a conversation with Jose. Actually, it wasn&rsquo;t much of <em>conversation</em>, it was more like defending the trap we had fallen into and we now called our foxholes. We were resisting change</p>
 
 <h1>Getting Out of the Foxhole</h1>
  <p>The argument has been bouncing around in my head for a few days. So I took a shower (my contemplative place). As it turned out, we were meeting with proto-<span class="_paradigm">Radical</span> companies right after</p>
