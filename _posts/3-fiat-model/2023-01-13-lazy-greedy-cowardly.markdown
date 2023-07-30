@@ -17,7 +17,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 </div>
 
 <h1></h1>
- <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical <span class='_paradigm'>Fiat</span> behavior, even when we are being nice.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition. Typical <span class='_paradigm'>Fiat</span> behavior, even when we are being nice.</p>
 
 <h1>It Won&rsquo;t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That&rsquo;s all we&rsquo;ve learned and all we see in the world around us. And, so, that&rsquo;s what we do even when we intend to do otherwise.</p>
@@ -101,7 +101,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <li>Juveniles, Adults, Old.</li>
     <li>Organized religions.</li>
    </ul>
-  <li>Polarized people are easier to lead by the nose. People help each other to not submit. They are a pain to control.</li>
+  <li>Polarized people are easier to lead, even to the slaughterhouse. People help each other to not submit. They are a pain to control.</li>
   <li>Taking hopefulness and dignity out out of work that others have to do for me, because they are not owners.</li>
   <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
   <li>Only coins count as motivators.</li>
@@ -134,19 +134,6 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Everything is fully transparent. No exceptions.</li>
   <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
  </ul>
- 
- <h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    They are also energy conservation words. See,
-    Elisabeth A. Murray, Steven P. Wise, et al.
-    <em>The Evolutionary Road to Human Memory.</em>
-    2021.
-    &lt;<a href="https://a.co/0wD4UYx" target="_blank">https://a.co/0wD4UYx</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
+
 
 {% include related.html %}
