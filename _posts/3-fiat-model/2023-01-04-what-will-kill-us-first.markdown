@@ -71,7 +71,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>One way to protect us against this is a mindset of co-management and co-ownership. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>Umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <p>The RADICAL model consists of the RADICAL foundation, its tools, and new skills.</p>
 
- <h2>The RADICAL Foundation</h2>
+ <h1>The RADICAL Foundation</h1>
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -89,42 +89,45 @@ image:    "icon-what-will-kill-us-first.svg"
   </table>
  </div>
  
- <h2>The Tools</h2>
+ <h1>The Tools</h1>
   <p>These are the tools that we have come with so far,</p>
- <div class="_center">
-  <table class="_h2table">
-   <tr>
-    <th>Explicit<br>Alignment</th>
-    <td>This applies to a group of people working on a common project (<em>i.e.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
-    </td>
-   </tr>
-   <tr>
-    <td colspan="2" style="border:0; ">
-     <div class="_center">
-      <img
-       src="/assets/img/explicit-alignment-en.svg"
-       width="70%"
-       alt="">
-      </div>
-    </td>
-   </tr>
-   <tr>
-    <th>Trust Agreements</th>
-    <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
-   </tr>
-   <tr>
-    <th>Future Tools</th>
-    <td>There are going to be more tools in the future. For example, specialized and community-specific tools.</td>
-   </tr>
-  </table>
- </div>
+   <div class="_center">
+    <table class="_h2table">
+     <tr>
+      <th>Explicit<br>Alignment</th>
+      <td>
+       <p>This applies to a group of people working on a common project (<em>e.g.</em>, a company). However you choose to express them, these are the key components that you must consider.</p>
+       <p>The adjetive &ldquo;explicit&rdquo; comes from the fact that 1) it means what it says, and 2) it is public.</p>
+       <p>&ldquo;Alignment&rdquo; means that we are all in agreement with it (not that you have to wear a blue tie). The alignment comes from serveral discussions, not from a &ldquo;boss.&rdquo;</p>
+      </td>
+     </tr>
+     <tr>
+      <td colspan="2" style="border:0; ">
+       <div class="_center">
+        <img
+         src="/assets/img/explicit-alignment-en.svg"
+         width="70%"
+         alt="">
+        </div>
+      </td>
+     </tr>
+     <tr>
+      <th>Explicit Relationship</th>
+      <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
+     </tr>
+     <tr>
+      <th>Future Tools</th>
+      <td>There are going to be more tools in the future. For example, specialized and community-specific tools. Stay tuned.</td>
+     </tr>
+    </table>
+   </div>
 
- <h2>The Skills</h2>
+ <h1>The Skills</h1>
   <p>Skills include the capacity to,</p>
   <ul>
    <li>Be inquisitive over being accusative</li>
    <li>Be playful over being rigid</li>
-   <li>Respond from love over lecturing</li>
+   <li>Speaking from love over a dominating lecture.</li>
   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
