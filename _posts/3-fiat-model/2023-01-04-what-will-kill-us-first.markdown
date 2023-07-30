@@ -120,7 +120,10 @@ image:    "icon-what-will-kill-us-first.svg"
      </tr>
      <tr>
       <th>Future Tools</th>
-      <td>There are going to be more tools in the future. For example, specialized and community-specific tools. Stay tuned.</td>
+      <td>
+       <p>There are going to be more tools in the future. For example, specialized and community-specific tools.</p>
+       <p>Stay tuned.</p>
+      </td>
      </tr>
     </table>
    </div>
