@@ -30,7 +30,7 @@ image:    "icon-yes-capital-is-good.svg"
    <li>Then you toss it to the next fellow in line.</li>
   </ul>
  
- <h1>>Lessons Learned</h1>
+ <h1>Lessons Learned</h1>
   <p>As a good employee,
   <ul>
    <li>You are docile and obedient.</li>
