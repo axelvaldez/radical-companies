@@ -135,5 +135,4 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
  </ul>
 
-
 {% include related.html %}
