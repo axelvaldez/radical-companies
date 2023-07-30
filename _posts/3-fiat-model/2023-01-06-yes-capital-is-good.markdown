@@ -41,10 +41,10 @@ image:    "icon-yes-capital-is-good.svg"
 <h1>Labor as Boss</h1>
  <p>Unions enter the scene,</p>
   <ul>
-   <li>They make demands on behalf of the little people.</li>
+   <li>They make demands on behalf of you, the little people.</li>
    <li>Unions protect you, the employee.</li>
-   <li>Unions never ask &ldquo;why would you need protection?&rdquo;, but they protect you.</li>
-   <li>Unions make you happy little people.</li>
+   <li>But why would you need protection?</li>
+   <li>Unions make you happy, little people.</li>
    <li>Wages go up and working condition get codified.</li>
    <li>Unions are centralized and ruled by <span class="_paradigm">Fiat</span>, just like the businesses that spawned them.</li>
   </ul>
