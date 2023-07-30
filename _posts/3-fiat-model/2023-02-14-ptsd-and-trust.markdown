@@ -27,7 +27,7 @@ image:    "icon-trust-and-ptsd.svg"
  <p>Dr Shay and Dr. Roth reached into the past and concluded that what are normally portrayed as <span class="_quotespan">bad people</span> are people suffering from trauma. </p>
  <p>Back in the present, the questions are,</p>
   <ul>
-   <li>How many people today are walking around with work-induced PTSD?</li>
+   <li>How many people today are walking around with work-induced trauma?</li>
    <li>Is society suffering from PTSD?</li>
   </ul>
  <p>After all, workplaces are where people spend most of their waking hours. Workplaces are where drama happens, oftentimes harmful drama that causes trauma.</p>
