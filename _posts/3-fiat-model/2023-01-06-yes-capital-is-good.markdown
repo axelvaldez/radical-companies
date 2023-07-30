@@ -11,8 +11,9 @@ image:    "icon-yes-capital-is-good.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>In the beginning, there were <em>land enclosures</em>.</p>
+ <p>In the beginning,</p>
   <ul>
+   <li>There were <em>land enclosures</em></li>
    <li>Enclosures begat capital.</li>
    <li>Enclosures decrease your means of survival (and increases the enclosure master&rsquo;s, <em>aka</em>, the owner).</li>
    <li>The new owner of the land, nice as he is, <em>lets you</em> work <em>his</em> land in exchange for a <em>wage</em>.</li>
