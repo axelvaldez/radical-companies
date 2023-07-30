@@ -40,7 +40,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 
 <h1>Co-Ownership</h1>
  <p>Co-ownership, decentralized ownership, is closer to what they may be wishing for.</p>
- <p>I often see <em>experts</em> encouraging you to &ldquo;think like an owner,&rdquo; but you are not! On the other hand, as a co-owner you behave like a co-owner simply because <em>you are.</em></p>
+ <p>I often see &ldquo;experts&rdquo; encouraging you to &ldquo;think like an owner,&rdquo; but you are not! On the other hand, as a co-owner you behave like a co-owner simply because <em>you are.</em></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
