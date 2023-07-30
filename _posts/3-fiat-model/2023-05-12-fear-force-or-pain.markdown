@@ -18,7 +18,7 @@ image:    "icon-fear-force-or-pain.svg"
  <p><span class="_paradigm">Fiat</span> commands always carry a threat of force with it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> is very rarely gets said, but it is always there: the boss can fire you at any time and threatened your ability to survive. So you move the box to avoid <span class="_paradign">Pain</span>.</p>
 
 <h1>Be Thankful for Contrarians</h1>
- <p>Acoording to Carlos Suarez, the founder of Core Communications, <span class="_paradigm">Fiat</span> contains the whole cascade,</p>
+ <p>Acording to Carlos Suarez, the founder of Core Communications, <span class="_paradigm">Fiat</span> contains the whole cascade,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-fiat-fear-force-or-pain.svg"
