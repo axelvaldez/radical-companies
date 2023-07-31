@@ -24,18 +24,18 @@ image:    "icon-what-about-leftover-violence.svg"
   <ul>
    <li>Learn about a different way of looking at things and that will make the fears go away.</li>
    <li>Whether fearful or fearless, contribute.
-    <div class='_center'>
-     <img
-      src='/assets/img/pic-do-it-scared.svg'
-      style='float:right; '
-      width='30%'
-      alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
-    </div>
    </li>
    <li>Brainstorm the alternatives.</li>
    <li>In the end, the group will be a little <em>more</em> decentralized and more transparent.</li>
    <li>Each person will be more capable of independent action.</li>
   </ul>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-do-it-scared.svg'
+    style='float:right; '
+    width='30%'
+    alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
+  </div>
 
 <h1>But&hellip; What about the Guns?</h1>
  <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them? I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? Nope.</p>
