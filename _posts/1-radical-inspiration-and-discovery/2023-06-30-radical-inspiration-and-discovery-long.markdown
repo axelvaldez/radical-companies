@@ -130,6 +130,11 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <td>
        <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive &ldquo;apostrophe s&rdquo; in English (<em>i.e.</em>, Pedro&rsquo;s) as it indicates that it &ldquo;belongs to&rdquo; to the men. <span class='_quotespan'>Men were the kings of their castle</span> and women were reduced to chattel. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
        <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
+        <div class='_center'>
+         <div class='_citation'>
+          
+         </div>
+        </div>
        <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
        <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is still a struggle as powerful people cling to the past.</p>
       </td>
