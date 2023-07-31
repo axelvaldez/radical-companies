@@ -16,12 +16,12 @@ image:    "icon-equal-ne-equitable.svg"
    <tr>
     <td style="width:50%; ">
      <img
-      src="/assets/img/equal-ne-equitable-01.svg"
+      src="/assets/img/pic-equal-ne-equitable-01.svg"
       alt="">
     </td>
     <td style="width:50%; ">
      <img
-      src="/assets/img/equal-ne-equitable-02.svg"
+      src="/assets/img/pic-equal-ne-equitable-02.svg"
       alt=""><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
     </td>
    </tr>
@@ -34,16 +34,15 @@ image:    "icon-equal-ne-equitable.svg"
 
 <h1>They Are Not the Same</h1>
  <p>&ldquo;Equal&rdquo; assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working. <em>Equitable</em> is based on contributions. It scales.</p>
- <p>&ldquo;Equal&rdquo; and &ldquo;Equitable&rdquo; are not the same. Equal assumes that everybody being treated financiall equally is enoug. It seems to work for a while, but the it stops working.</p>
- <p><em>Equitable</em> is based on contributions. It scales.</p>
- <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever equitably. As the team grows, the boss or committee knows less and less of the new people as individual. At that point, the distribution starts to get out of whack: they make up rules that lean towards equal.</p>
- <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but &ldquo;hey, the old guys deserve it.&rdquo; The newest people also notice, feel unappreciated, and quit.</p>
+ <p>&ldquo;Equal&rdquo; and &ldquo;Equitable&rdquo; are not the same. Equal assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it invariably stops working. <em>Equitable</em> is based on contributions. It scales.</p>
 
-<h1>Fiat Does Not Scale</h1>
- <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people to make it bearable. Among other things, the <span class="_paradigm">Fiat</span> hierarchy gets in the way of innovation, productivity, and quality; worse. it gets in the way of wellbeing. The only thing it doesn&rsquo;t get in the way of, is making a few people wealthy.</p>
+<h1>By Committee</h1>
+ <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever <em>equitably.</em> As the team grows, the boss or committee knows less and less of the new people as individuals. At that point, the distribution starts to get out of whack and they make up rules that lean towards equal.</p>
+ <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair. Maybe the old guys deserve it.&rdquo; The newest people also notice, feel unappreciated, and soon quit.</p>
+ <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it relies on one or a handful of benevolent people to make it bearable.</p>
  
 <h1>Everybody a Co-Owner</h1>
- <p>The <span class="_paradigm">Radical</span> way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. It makes everybody a co-owner,</p>
+ <p><span class="_paradigm">Radical</span>-based way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. It makes everybody a co-owner,</p>
   <ul>
    <li>New people join a team.</li>
    <li>They know everybody in the team and what each does.</li>
@@ -54,7 +53,7 @@ image:    "icon-equal-ne-equitable.svg"
   </ul>
   <div class="_center">
    <img
-    src="/assets/img/equal-ne-equitable-03.svg"
+    src="/assets/img/pic-equal-ne-equitable-03.svg"
     class="_center"
     style="width:70%; margin-bottom:10px; "
     alt="">
@@ -75,7 +74,7 @@ image:    "icon-equal-ne-equitable.svg"
  <p>We may end with this,</p>
   <div class="_center">
    <img
-    src="/assets/img/equal-ne-equitable-04.svg"
+    src="/assets/img/pic-equal-ne-equitable-04.svg"
     class="_center"
     style="margin-bottom:10px; "
    width="70%"
@@ -84,7 +83,7 @@ image:    "icon-equal-ne-equitable.svg"
  <p>Or with this,</p>
  <div class="_center">
   <img
-   src="/assets/img/equal-ne-equitable-05.svg"
+   src="/assets/img/pic-equal-ne-equitable-05.svg"
    class="_center"
    style="margin-bottom:10px; "
    width="70%"
@@ -93,7 +92,7 @@ image:    "icon-equal-ne-equitable.svg"
  <p>Or even with this,</p>
  <div class="_center">
   <img
-   src="/assets/img/equal-ne-equitable-06.svg"
+   src="/assets/img/pic-equal-ne-equitable-06.svg"
    class="_center"
    style="margin-bottom:10px; "
    width="70%"
