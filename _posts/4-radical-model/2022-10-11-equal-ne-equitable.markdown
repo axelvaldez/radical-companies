@@ -21,7 +21,7 @@ image:    "icon-equal-ne-equitable.svg"
     </td>
     <td style="width:50%; ">
      <img
-      src="/assets/img/pic-equal-ne-equitable-02.svg"
+      src="/assets/img/pic-equal-ne-equitable-03.svg"
       alt=""><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
     </td>
    </tr>
