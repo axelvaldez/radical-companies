@@ -16,8 +16,8 @@ image:    "icon-what-about-leftover-violence.svg"
 
 <h1>Violence</h1>
  <p>What got me thinking about this was a comment made by our beach neighbor. One night she looked out her balcony window and saw two black pickups flanking the rental next door to ours. There were several armed people in the trucks and a loud party was going on inside the house.</p>
- <p>That sounded scary to me. What would I do if that had happened to me? Would I stay home? (No) Would I move away, to a hotel? (Yes). That is the choice we are going to face during a transitional period from our current system to a collaborative one.</p>
- <p>Most of them won&rsquo;t be as dramatic as people with guns, but there will be threats nevertheless.</p>
+ <p>That sounded scary to me. What would I do if that had happened to me?.</p>
+ <p>Most of these encounters won&rsquo;t be as dramatic as people with guns, but there will be threats nevertheless.</p>
 
 <h1>Learn from Each Other</h1>
  <p>Transparency may look scary at first. Some people will panic, and some even make dramatic exits. The <span class="_paradigm">Radical</span> skill is to learn from each other,</p>
