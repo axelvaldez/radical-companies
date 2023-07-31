@@ -82,7 +82,7 @@ image:    "icon-equal-ne-equitable.svg"
 
 <h1>Giving RADs</h1>
  <p>Every co-owner gets one <span class="_paradigm">RAD</span> per day to give, not to keep. She gets to give them to other co-owners based on what feels like contributions to her. Different co-owners will get different amounts of <span class="_paradigm">RAD</span>s from various other co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>We may end with this,</p>
+ <p>The distibution may end with this, depending on contributions,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-equal-ne-equitable-04.svg"
@@ -91,7 +91,7 @@ image:    "icon-equal-ne-equitable.svg"
    width="70%"
     alt="">
   </div>
- <p>Or with this,</p>
+ <p>Or like this,</p>
  <div class="_center">
   <img
    src="/assets/img/pic-equal-ne-equitable-05.svg"
@@ -100,7 +100,7 @@ image:    "icon-equal-ne-equitable.svg"
    width="70%"
    alt="">
  </div>
- <p>Or even with this,</p>
+ <p>Or even like this,</p>
  <div class="_center">
   <img
    src="/assets/img/pic-equal-ne-equitable-06.svg"
@@ -112,13 +112,13 @@ image:    "icon-equal-ne-equitable.svg"
  <p>This distribution will most likely change again in future cycles as things change.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>What Is a Contribution</h1>
- <p>In <span class="_paradigm">Fiat</span> businesses contributions are about growing to the wealth of the business owners,</p>
+ <p>In <span class="_paradigm">Fiat</span> businesses the only contribution is one that grows to the wealth of the business owners,</p>
   <div class='_center'>
    <div class="_citation">
     <p>Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
   </div>
- <p>In the <span class="_paradigm">Radical</span> model, contributions add to the wellbeing of co-owners.</p>
+ <p>In the <span class="_paradigm">Radical</span> model, contributions add to the wellbeing of all co-owners.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
