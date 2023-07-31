@@ -26,7 +26,6 @@ image:    "icon-what-about-leftover-violence.svg"
    <li>Whether fearful or fearless, contribute.</li>
     <div class='_center'>
      <img
-      style='float:right; '
       src='/assets/img/pic-do-it-scared.svg'
       width='30%'
       alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
