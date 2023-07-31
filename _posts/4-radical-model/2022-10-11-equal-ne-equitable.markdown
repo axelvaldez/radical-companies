@@ -33,7 +33,7 @@ image:    "icon-equal-ne-equitable.svg"
  </div>
 
 <h1>They Are Not the Same</h1>
- <p>&ldquo;Equal&rdquo; assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working. <em>Equitable</em> is based on contributions. It scales.</p>
+ <p>&ldquo;Equal&rdquo; assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working. &ldquo;Equitable&rdquo; is based on contributions. It scales.</p>
  <p>&ldquo;Equal&rdquo; and &ldquo;Equitable&rdquo; are not the same. Equal assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it invariably stops working. <em>Equitable</em> is based on contributions. It scales.</p>
 
 <h1>By Committee</h1>
