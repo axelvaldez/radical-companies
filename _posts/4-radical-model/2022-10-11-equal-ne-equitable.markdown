@@ -36,7 +36,7 @@ image:    "icon-equal-ne-equitable.svg"
  <p>&ldquo;Equal&rdquo; and &ldquo;Equitable&rdquo; are not the same. &ldquo;Equal&rdquo; assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working. &ldquo;Equitable&rdquo; is based on contributions. It scales.</p>
 
 <h1>By Committee</h1>
- <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever <em>equitably.</em> As the team grows, the boss or committee knows less and less of the new people as individuals. At that point, the distribution starts to get out of whack and they make up rules that lean towards equal.</p>
+ <p>Let&rsquo;s say that the distribution is done by a boss or a committee, all with good intentios. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever <em>equitably.</em> As the team grows, the boss or committee knows less and less of the new people as individuals. At that point, the distribution starts to get out of whack and they make up rules that lean towards equal.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair. Maybe the old guys deserve it.&rdquo; The newest people also notice, feel unappreciated, and soon quit.</p>
  <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it allows on one or a handful of benevolent people to make it bearable.</p>
  
