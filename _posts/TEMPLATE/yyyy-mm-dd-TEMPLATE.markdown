@@ -3,7 +3,7 @@ layout:   post
 title:    "TEMPLATE"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ptsd-and-trust.svg"
+image:    "icon-template.svg"
 ---
 
 <div style='display:none;'>
