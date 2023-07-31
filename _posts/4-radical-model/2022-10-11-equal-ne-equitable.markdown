@@ -53,7 +53,8 @@ image:    "icon-equal-ne-equitable.svg"
  <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it allows a few benevolent people to make it bearable. Any more than a few might be a problem.</p>
  
 <h1>Everybody a Co-Owner</h1>
- <p>People in <span class="_paradigm">Radical</span>-based companies recognize contributions <em>as they happen</em>. It makes everybody a co-owner,</p>
+ <p>People in <span class="_paradigm">Radical</span>-based companies recognize contributions <em>as they happen</em>. It makes everybody a co-owner.</p>
+ <p>It scales because,</p>
   <ul>
    <li>New people join a team.</li>
    <li>They know everybody in the team and what each does.</li>
