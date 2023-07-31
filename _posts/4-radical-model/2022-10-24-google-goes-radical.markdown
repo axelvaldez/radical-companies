@@ -223,7 +223,7 @@ image:    "icon-google-goes-radical.svg"
    alt="">
  </div>
  <p>A <span class="_paradigm">Radical</span> rGoogle co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 rGooglers might have chosen to grow the company differently.</p>
- <p>Decentralized rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no <span class="_paradigm">Fiat</span> hierarchy to grow.</p>
+ <p>rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no <span class="_paradigm">Fiat</span> hierarchy to grow. Oh, but the owners would not be billionairs today, just millionaires, same as every other co-owner.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
