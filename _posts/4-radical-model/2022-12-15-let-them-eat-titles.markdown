@@ -40,7 +40,7 @@ image:    "icon-let-them-eat-title.svg"
    <li>The rest may call you an Engineer.</li>
   </ul>
  <p>You are a person with many titles representing the many conceptions that your community has of you. You might find that people identify you differently over time.</p>
- <p>If you really wanted that <em>Senior</em> part added to your title, then you would have to earn it with your community, and not just by kissing up to the boss (because there ain&rsquo;t one). There likely are other ways, but the result will be a much richer and dynamic conception of identity. And it would offer an ability to interface with the <span class="_paradigm">Fiat</span> world.</p>
+ <p>If you really wanted that <em>Senior</em> part added to your title, then you would have to earn it with your community, and not just by kissing up to the boss (because there ain&rsquo;t one). There likely are other ways, but in all cases the result will be a much richer and dynamic conception of identity. And it would offer an ability to interface with the <span class="_paradigm">Fiat</span> world.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
