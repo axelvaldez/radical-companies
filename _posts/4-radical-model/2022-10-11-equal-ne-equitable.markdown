@@ -33,7 +33,7 @@ image:    "icon-equal-ne-equitable.svg"
  </div>
 
 <h1>They Are Not the Same</h1>
- <p>&ldquo;Equal&rdquo; assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working. &ldquo;Equitable&rdquo; is based on contributions. It scales.</p>
+ <p>&ldquo;Equal&rdquo; and &ldquo;Equitable&rdquo; are not the same. &ldquo;Equal&rdquo; assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working. &ldquo;Equitable&rdquo; is based on contributions. It scales.</p>
 
 <h1>By Committee</h1>
  <p>Let&rsquo;s say that the distribution is done by a boss or a committee. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever <em>equitably.</em> As the team grows, the boss or committee knows less and less of the new people as individuals. At that point, the distribution starts to get out of whack and they make up rules that lean towards equal.</p>
