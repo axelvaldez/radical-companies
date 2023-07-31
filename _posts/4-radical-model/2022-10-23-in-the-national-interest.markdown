@@ -107,12 +107,13 @@ image:    "icon-in-the-national-interest.svg"
   <li>Anything foreign can easily become, or be made, into a &ldquo;foreign danger.&rdquo;</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
- <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Camp Gillette proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">Fiat</span> hierarchy. I believe that the opposite is called for: governance without a <span class="_paradigm">Fiat</span> hierarchy at all.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Gillette, the inventor of the moderm shaver, proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">Fiat</span> hierarchy.</p>
+ <p>I believe that the opposite is called for: governance without a <span class="_paradigm">Fiat</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
- <p>As I said above, <span class='_quotespan'>A lot of people can solve problems bigger than themselves by working together with a lot of other people around the world.</span></p>
- <p>It may take a long time, but <span class="_paradigm">Radical</span> governance is what is bound to replace <span class="_paradigm">Fiat</span> governments: people collaborating to solve problems and improve our wellbeing.</p>
- <p>The European Union is an example of what happens when borders come down and things, like currency, get normalized across countries.</p>
+ <p>As I said above, <span class='_quotespan'>People can solve problems bigger than themselves by working together with people anywhere the world</span></p>
+ <p>It may take a long time, but <span class="_paradigm">Radical</span> governance is what is bound to replace <span class="_paradigm">Fiat</span> governments</p>
+ <p>The European Union is an example of what happens when 1) borders come down and 2) things, like currency, get normalized across countries.</p>
 
 <h1>Borders</h1>
  <p>Borders are a major weakness in the way the anthropocentric world runs today. A world government would be the most fragile of things,</p>
@@ -125,7 +126,7 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>Currency</h1>
  <p>A big part of the problems we face have also to do with money. In fact, <span class="_paradigm">Fiat</span> hierarchies and money go hand in hand.</p>
- <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be beneficial, too, to have one currency. Unlike the Euro, this currency would be decentralized and not minted by banks.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be better, too, to have one currency. Unlike the Euro, this currency would be decentralized and not minted by banks.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
