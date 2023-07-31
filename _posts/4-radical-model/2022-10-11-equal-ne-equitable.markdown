@@ -112,9 +112,11 @@ image:    "icon-equal-ne-equitable.svg"
 
 <h1>What Is a Contribution</h1>
  <p>In <span class="_paradigm">Fiat</span> businesses contributions are about growing to the wealth of the business owners,</p>
- <div class="_citation">
-  <p>&ldquo;Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
- </div>
+  <div class='_center'>
+   <div class="_citation">
+    <p>Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
+   </div>
+  </div>
  <p>In the <span class="_paradigm">Radical</span> model, contributions add to the wellbeing of co-owners.</p>
 
 <h1 class="_section">ENDNOTES</h1>
