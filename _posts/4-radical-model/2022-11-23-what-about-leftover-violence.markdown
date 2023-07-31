@@ -21,16 +21,17 @@ image:    "icon-what-about-leftover-violence.svg"
 
 <h1>Learn from Each Other</h1>
  <p>Transparency may look scary at first. Some people will panic, and some even make dramatic exits. The <span class="_paradigm">Radical</span> skill is to learn from each other,</p>
-  <div class='_center'>
-    <img
-     src='/assets/img/pic-do-it-scared.svg'
-     style='float:right; '
-     width='30%'
-     alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
-  </div>
   <ul>
    <li>Learn about a different way of looking at things and that will make the fears go away.</li>
-   <li>Whether fearful or fearless, contribute.</li>
+   <li>Whether fearful or fearless, contribute.
+    <div class='_center'>
+     <img
+      src='/assets/img/pic-do-it-scared.svg'
+      style='float:right; '
+      width='30%'
+      alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
+    </div>
+   </li>
    <li>Brainstorm the alternatives.</li>
    <li>In the end, the group will be a little <em>more</em> decentralized and more transparent.</li>
    <li>Each person will be more capable of independent action.</li>
