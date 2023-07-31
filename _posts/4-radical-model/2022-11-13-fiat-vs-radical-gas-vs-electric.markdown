@@ -7,7 +7,7 @@ image:    "icon-the-roots-of-radical.svg"
 ---
 
 <div style="display:none;">
- <p>We can&rsquo;t get to the future in a gas-powered car; it will take us over the edge first. We need a fundamentally different vehicle.</p>
+ <p>We can&rsquo;t get to the future in a gas-powered car; it will take us over the edge first. We need something fundamentally different from <span class="_paradigm">Fiat</span> to get us there.</p>
 </div>
 
 <h1>&nbsp;</h1>
