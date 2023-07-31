@@ -21,9 +21,10 @@ image:    "icon-what-about-leftover-violence.svg"
 
 <h1>Learn from Each Other</h1>
  <p>Transparency may look scary at first. Some people will panic, and some even make dramatic exits. The <span class="_paradigm">Radical</span> skill is to learn from each other,</p>
-  <div class='_center' style='float:right; '>
+  <div class='_center'>
     <img
      src='/assets/img/pic-do-it-scared.svg'
+     style='float:right; '
      width='30%'
      alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
   </div>
