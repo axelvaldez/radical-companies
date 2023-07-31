@@ -126,7 +126,7 @@ image:    "icon-in-the-national-interest.svg"
 
 <h1>Currency</h1>
  <p>A big part of the problems we face have also to do with money. In fact, <span class="_paradigm">Fiat</span> hierarchies and money together, given that money is packaged power.</p>
- <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be better, too, to have one currency. Unlike the Euro, this currency would be decentralized and not minted by banks.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The European Union has a single currency, the Euro, which has replaced the disparate national currencies. For world-wide commerce, it would be better, too, to have one currency. Unlike the Euro, this currency would be decentralized, not minted by banks.<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
