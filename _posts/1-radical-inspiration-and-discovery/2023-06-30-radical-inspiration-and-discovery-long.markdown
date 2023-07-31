@@ -118,8 +118,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p></p>
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
-<h1>Countries and Other Divisions</h1>
- <h2>Fiat</h2>
+<h1 class='_section'>Countries and Other Divisions</h1>
+
+<h1>Fiat</h1>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that had been cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered&mdash;a tool to subjugate, control, and obliterate anything that stood in their way,</p>
@@ -128,7 +129,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <tr>
       <th>Divide and Conquer</th>
       <td>
-       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive &ldquo;apostrophe s&rdquo; in English (<em>i.e.</em>, Pedro&rsquo;s) as it indicates that it &ldquo;belongs to&rdquo; to the men. <span class='_quotespan'>Men were the kings of their castle</span> and women were reduced to chattel. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
+       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive &ldquo;apostrophe S&rdquo; in English (<em>i.e.</em>, Pedro&rsquo;s) as it indicates that it &ldquo;belongs to&rdquo; to the men. <span class='_quotespan'>Men were the kings of their castle</span> and women were reduced to chattel. Sounds comical, but there is a intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
        <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
         <div class='_center'>
          <div class='_citation'>
@@ -140,15 +141,18 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>We are still struggling with that attitude today, thousands of years later. <span class='_quotespan'>We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us.</span> We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is still a struggle as powerful people cling to the past.</p>
       </td>
      </tr>
+<!--
      <tr>
       <th>Lording</th>
       <td>
        <p>With men lording over half of the population, it was easier for a few men to lord over them. They could appeal to the stories and made up history to support this convenient ideology which happened to support the making of kingdoms and empires. The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, all powerful, at the top. You would not dare to even think of yourself as equitable to such power, you can only submit to God.</p>
       </td>
      </tr>
+-->
     </table>
    </div>
-  <h2>Radical</h2>
+  
+<h1>Radical</h1>
    <p>In a <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn&rsquo;t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
    <p>The alternative is <em>not chaos</em>, but it is certainly different,</p>
     <div class='_center'>
