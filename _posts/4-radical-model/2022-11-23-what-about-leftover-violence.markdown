@@ -12,7 +12,7 @@ image:    "icon-what-about-leftover-violence.svg"
 
 <h1>Intro</h1>
  <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things?</p>
- <p>We have learned that <span class="_paradigm">Fiat</span> system <em>my success</em> requires that I&rsquo;d be willing to wield violence against you. The <span class="_paradigm">Fiat</span> system some amount of violence is required, from the mildest to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>We have learned that in the <span class="_paradigm">Fiat</span> system <em>my success</em> requires that I&rsquo;d willing to wield violence against you. The <span class="_paradigm">Fiat</span> system some amount of violence is required, from the mildest to the most brutal shooting, as just happened in Colorado Springs.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Violence</h1>
  <p>What got me thinking about this was a comment made by our neighbor. One night she looked out her balcony window and saw two black pickups flanking the rental next door to ours. There were several armed people in the trucks and a loud party was going on inside the house.</p>
