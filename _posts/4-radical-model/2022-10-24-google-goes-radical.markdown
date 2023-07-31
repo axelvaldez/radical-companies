@@ -117,15 +117,15 @@ image:    "icon-google-goes-radical.svg"
    width="70%"
    alt="">
  </div>
- <p>We will use net income as equivalent to dividends, earned by the people doing the work, but consumed by capital investors. Bonuses would have been treated as an expense and are not included in Net Income.</p>
+ <p>We will use net income as equivalent to dividends. Like dividends, net income is earned by the people doing the work, but consumed by capital investors.</p>
  <p>The situation is even worse when you look at their Capital Efficiency. If you have worked at a <span class="_paradigm">Fiat</span> software company, it is blatantly obvious that the people create the value and capital efficiency can be viewed as profit per employee. Looking at it this way,  <span class="_paradigm">Fiat</span> Google&rsquo;s capital efficiency peaked in 2006 and essentially plateaus after that.</p>
 
 <h1>Radical Google</h1>
- <p>A <span class="_paradigm">Radical</span> Google would have acted differently. The motivation is to bring co-owners into the group, but only as needed. Otherwise more headcount means less money for each co-owner.</p>
- <p>In 2004, <span class="_paradigm">Radical</span> Google would have had approximately $399 million in dividends to be distributed as <span class="_paradigm">RAD</span>s. Every Google co-owner would get a piece of those <em>earned dividends</em> according to the <span class="_paradigm">RAD</span>s they owned at the time. <span class="_paradigm">RAD</span> come from recognized contributions so people with lots of recognized contributions would get more and others less.</p>
+ <p>A <span class="_paradigm">Radical</span> Google would have acted differently. The motivation is to bring co-owners into the group, but only as needed. Present co-owners would want any more headcount than necessary.</p>
+ <p>In 2004, <span class="_paradigm">Radical</span> Google would have had approximately $399 million in dividends to be distributed as <span class="_paradigm">RAD</span>s. Every Google co-owner would get a piece of those <span class="_paradigm">earned dividends</span> according to the <span class="_paradigm">RAD</span>s they owned at the time. The amount of <span class="_paradigm">RAD</span>s is dynamic, and come from recognized contributions. People with lots of recognized contributions would get more and others less.</p>
  <p>In 2005, Google co-owners would share $1.465 billion in <em>earned dividends</em>. Imagine every Googler getting around half a million dollars.</p>
 
-<h1>Radical Google (rGoogle) Advantages</h1>
+<h1>rGoogle (Radical Google)) Advantages</h1>
  <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
  <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction, a must have of <span class="_paradigm">Fiat</span> hierarchies. But rGoogle co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of rGoogle&rsquo;s performance might have looked like,</p>
@@ -222,7 +222,8 @@ image:    "icon-google-goes-radical.svg"
    width="70%"
    alt="">
  </div>
- <p>A <span class="_paradigm">Radical</span> rGoogle co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 rGooglers might have chosen to grow the company differently. Decentralized rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">Fiat</span> hierarchy) to grow.</p>
+ <p>A <span class="_paradigm">Radical</span> rGoogle co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 rGooglers might have chosen to grow the company differently.</p>
+ <p>Decentralized rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no empires (<em>i.e.</em>, <span class="_paradigm">Fiat</span> hierarchy) to grow.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
