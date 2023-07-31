@@ -21,6 +21,6 @@ image:    "icon-business-vs-firm-vs-company.svg"
  <p>A <span class="_paradigm">company</span> is about people and about making an positive impact. It is is about people coming together to accomplish something bigger than any one person can. A <span class="_paradigm">company</span> is <em>fluid</em> and <em>dynamic</em>. And, of course, they have to make money, too.</p>
 
 <h1>A Story</h1>
- <p>The word &ldquo;company&rdquo; comes from Latin <em>con-</em> (together) and <em>pan</em> (bread). It means people who breaks bread together. We could have made up a word, but we did not want to sound too alien. The word &ldquo;company,&rdquo; on the other hand, is familiar and it has this lovely origin.</p>
+ <p>The word &ldquo;company&rdquo; comes from Latin prefix <em>con-</em> (together) and <em>pan</em> (bread). It means people who breaks bread together. We could have made up a word, but we did not want to sound too alien. The word &ldquo;company,&rdquo; on the other hand, is familiar and it has this lovely origin.</p>
 
 {% include related.html %}
