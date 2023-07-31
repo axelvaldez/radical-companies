@@ -35,7 +35,7 @@ image:    "icon-equal-ne-equitable.svg"
 <h1>They Are Not the Same</h1>
  <p>&ldquo;Equal&rdquo; and &ldquo;Equitable&rdquo; are not the same,</p>
   <div class='_center'>
-   <table cass='_h2table'>
+   <table class='_h2table'>
     <tr>
      <th>Equal</th>
      <td>It assumes that everybody being treated financiall equally is enough. It seems to work for a while, but the it stops working.</td>
