@@ -40,7 +40,7 @@ image:    "icon-what-about-leftover-violence.svg"
 <h1>But&hellip; What about the Guns?</h1>
  <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them? I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? Nope.</p>
  <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> By the times the weapons show up, it is too late.</p>
- <p>If the money came from selling drugs to addicted people, the thing to so is help addicted people get the monkeys off their back. Help them get out from under the <span class="_paradigm">Fiat</span> pressures that lead to addiction in the first place.</p>
+ <p>If the money came from selling drugs to addicted people, the thing to so is help addicted people get the monkey off their back. Help them get out from under the <span class="_paradigm">Fiat</span> pressures that lead to addiction in the first place.</p>
  <p>Get rid of <span class="_paradigm">Fiat</span> pressures and get rid of addiction and people with guns.</p>
 
 <h1 class="_section">ENDNOTES</h1>
