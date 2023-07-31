@@ -132,7 +132,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. <span class='_quotespan'>Eve was the instigator of sin,</span> and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
         <div class='_center'>
          <div class='_citation'>
-          
+          <p>The tyrant grinds down his slaves and they don&rsquo;t turn against him, they crush those beneath them.</p>
+          <p>Emily Bront&euml;
          </div>
         </div>
        <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
