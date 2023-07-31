@@ -112,13 +112,13 @@ image:    "icon-equal-ne-equitable.svg"
  <p>This distribution will most likely change again in future cycles as things change.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>What Is a Contribution</h1>
- <p>In <span class="_paradigm">Fiat</span> businesses the only contribution is one that grows to the wealth of the business owners,</p>
+ <p>In <span class="_paradigm">Fiat</span> businesses the only contribution recognized is one that grows to the wealth of the business owners,</p>
   <div class='_center'>
    <div class="_citation">
     <p>Owning a business is the fastest reliable way to wealth.&hellip; That&rsquo;s because once your business is established, you can earn more as the business grows without the need to work additional hours.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
   </div>
- <p>In the <span class="_paradigm">Radical</span> model, contributions add to the wellbeing of all co-owners.</p>
+ <p>In the <span class="_paradigm">Radical</span> model, contributions add to the wellbeing of <em>all</em> co-owners.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
