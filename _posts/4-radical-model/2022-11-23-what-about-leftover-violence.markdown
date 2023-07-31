@@ -27,8 +27,9 @@ image:    "icon-what-about-leftover-violence.svg"
     <div class='_center'>
      <img
       src='/assets/img/pic-do-it-scared.svg'
-      width='70%'
-      alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'>
+      width='30%'
+      alt='There is a horizontal gray box labeled I WANT TO DO THIS. Below it there are two boxes, a green one on the left labeled DO IT and a gray one on the right labeled BUT I AM SCARED. Bellow that box there is a green box labeled DO IT SCARED.'
+      style='float:right;'>
     </div>
    <li>Brainstorm the alternatives.</li>
    <li>In the end, the group will be a little <em>more</em> decentralized and more transparent.</li>
