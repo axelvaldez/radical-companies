@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Let Them Live It"
+title:    "Let Them Live It!"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-let-them-live-it.svg"
