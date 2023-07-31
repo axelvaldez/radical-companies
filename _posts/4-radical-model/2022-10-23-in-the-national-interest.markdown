@@ -11,29 +11,27 @@ image:    "icon-in-the-national-interest.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>National governments really are very, very tall <span class="_paradign">Fiat</span> hierarchies with a monopoly on force. We need governance, not centralized governments. This is true for democracies all the way to dictatorships.</p>
+ <p>National governments really are <span class="_paradign">Fiat</span> hierarchies. And they have a monopoly on force. This is true for democracies all the way to dictatorships.</p>
+ <p>We need governance, not centralized governments.</p>
  <div class="_citation">
   <p><span class="_quotespan">&hellip; who would be trustworthy and persuasive enough?&hellip; The answer was a bunch of ordinary people.</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Churchill</h1>
  <div class="_citation">
-  <span class="_quotespan">&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; </span>
+  <p>&hellip; it has been said that democracy is the worst form of Government except for all those other forms that have been tried&hellip; </p>
   <p class="_signature">Winston Churchill, 1947<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>When he said this, Churchill assumed that a government would be in place. And it was a fair assumption, but why?</p>
+ <p>When he said this, Churchill assumed that a government would be in place. And it was a fair, <span class='_paradigm'>Fiat</span> assumption.</p>
  
 <h1>Democracy</h1>
  <p>In the same speech, Churchill defined democracy as &ldquo;insurance,&rdquo;</p>
  <div class="_citation">
-  <p><span class="_quotespan">&hellip; insurance against dangers from abroad</span>.</p>
-  <p id="_signature">
-   Winston Churchill, 1947
-   <a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a>
-  </p>
+  <p>&hellip; insurance against dangers from abroad.</p>
+  <p id="_signature">Winston Churchill, 1947<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>People, including Churchill, had reason to believe this given the history of raids, wars and other <span class='_paradigm'>dangers from abroad.</span></p>
- <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of modern governments, democracy brings along with it a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, nevertheless, the hierarchy is imposed fy force.</p>
+ <p>People, including Churchill, had reason to believe that given the history of raids, wars and other <span class='_paradigm'>dangers from abroad.</span> they would continue. And a <span class='_paradigm'>Fiat</span> world, it was a valid assumption.</p>
+ <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of modern governments, democratic goverments brings along with them a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, nevertheless, the hierarchy and its bureaucry is imposed fy force.</p>
 
 <h1>National Governments</h1>
  <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Governments are huge <span class="_paradigm">Fiat</span> hierarchies in charge of the national borders and a monopoly on force.</p>
