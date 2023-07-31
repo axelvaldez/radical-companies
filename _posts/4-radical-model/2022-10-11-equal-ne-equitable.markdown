@@ -53,7 +53,7 @@ image:    "icon-equal-ne-equitable.svg"
  <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it allows on one or a handful of benevolent people to make it bearable.</p>
  
 <h1>Everybody a Co-Owner</h1>
- <p><span class="_paradigm">Radical</span>-based way is to have <em>everybody</em> recognize contributions <em>as they happen</em>. It makes everybody a co-owner in that it gives them the opportunity to give credit where they see it,</p>
+ <p>People in <span class="_paradigm">Radical</span>-based companies recognize contributions <em>as they happen</em>. It makes everybody a co-owner,</p>
   <ul>
    <li>New people join a team.</li>
    <li>They know everybody in the team and what each does.</li>
