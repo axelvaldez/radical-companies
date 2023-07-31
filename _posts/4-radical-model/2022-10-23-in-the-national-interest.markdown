@@ -37,32 +37,35 @@ image:    "icon-in-the-national-interest.svg"
  <p>National governments were engendered by big kingdoms, which were engendered by lesser kingdoms, which were engendered by tribal chiefdoms. This is true for all national governments, from shameless dictatorships to benevolent democracies. Governments are huge <span class="_paradigm">Fiat</span> hierarchies in charge of the national borders and a monopoly on force.</p>
 
 <h1>Nations</h1>
- <p>I think at this point it would come in handy to talk about <em>nations.</em> These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean, but it applies to all of Europe and a good chunk of the modern world.</p>
+ <p>I think at this point it would come in handy to talk about <em>nations.</em> These are primarily groups of people who speak the same language. More accurately, these are groups of people who have been forced to speak the same language and live/fake the same culture. Spain is a good example of what I mean: it cleansed its portion of the penisula and then did the same thing in the Americas. It also applies to all of Europe and a good chunk of the modern world.</p>
 
 <h1>Iberian Peninsula</h1>
  <p>Take Spain. First the Germanic tribes, Goths, Visigoths, Celts, moved throughout the European continent and incorporated or cleansed the people who were already living in the peninsula. The disparate tribes spoke their own versions of the language. Then the Romans of yore showed up and took over the Iberian peninsula. They spoke Latin and forced everybody to speak it as well.</p>
- <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what&rsquo;s today Spain, to speak Castilian. The Basque and the Catalonians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation. Tribes became nations.</p>
- <p>To be clear, this &ldquo;amalgamation&rdquo; was not peaceful by any means. It involved all-out wars and ethnic cleansing.</p>
- <p><em>This</em> is how nations were made, by brute force.</p>
- <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of an imagined evolution.</p>
+ <p>Later the Roman empire fell apart and wars ensued. In the end, the Castilian chiefdom won and forced everybody else, in what&rsquo;s today Spain, to speak Castilian. The Basque, the Catalonians, the Astures, and the Galicians still speak their corresponding language, but they speak Castilian as well. In fact, all of Europe went through similar amalgamation.</p>
+ <p>This &ldquo;amalgamation&rdquo; was not peaceful by any means. It involved all-out wars and ethnic cleansing.</p>
+ <p>Tribes became nations, by brute force.</p>
+ <p>However, it all happened a long time ago and by now we are happy to believe that &ldquo;nations&rdquo; have always been this way. Kind of like a perfect result of a fantasy evolution.</p>
 
 <h1>Lingua Franca</h1>
  <p>You can fake culture, traditions and rituals, but not language. Let&rsquo;s assume a common language as the main requirement for a nation.</p>
- <p>In that case, much of the world is becoming an American-english-speaking nation. This time the amalgamation is brought about not by brute force, but by the financial system, a milder form of force.</p>
+ <p>In that case, much of the world is becoming an American-english-speaking nation. This time the amalgamation is brought about not by brute force, but by the financial system, a milder, but just as devastating, form of force.</p>
  <p>Today, a lot of people can,</p>
  <ul>
   <li>Communicate with one another.</li>
-  <li>See they share common problems.</li>
+  <li>Share their common problems.</li>
   <li>Learn from one another.</li>
   <li>Collaborate.</li>
-  <li>Solve problems bigger than themselves by working together with a lot of other people around the world.</li>
+  <li>Solve problems bigger than themselves by working together with people anywhere the world.</li>
  </ul>
- <p>What this means is, that as much as I may wish for a different history, we are now at a point where we should be coming up with new systems, not one anchored in the past. We can create a better history going forward, without violence, with collaboration.</p>
+ <p>We are now at a point where we should be coming up with new systems, not stick to one anchored in the past. We can create a better history going forward, without violence, with collaboration.</p>
+
+<h1>The Fiat System</h1>
  <p>The <span class="_paradigm">Fiat</span> system that we&rsquo;ve inherited has not been viable for a while already and will continue to get worse going forward. In a search for an alternative, we need to be able to <em>see</em>,</p>
   <ul>
-   <li><span class="_paradigm">Fiat</span> hierarchies.</li>
-   <li>How much we accept them.</li>
-   <li>How invisible they are.</li>
+   <li>The <span class="_paradigm">Fiat</span> system.</li>
+   <li>How much it hurts all of us.</li>
+   <li>How much we accept it.</li>
+   <li>How invisible it is.</li>
   </ul>
   <div class="_center">
    <img
@@ -72,16 +75,12 @@ image:    "icon-in-the-national-interest.svg"
   </div>
 
 <h1>The Fiat Hierarchy</h1>
- <p>Every kind of organization today is based on a <span class="_paradigm">Fiat</span> hierarchy: churches, businesses, non-for-profits, NGOs, and governments.</p>
+ <p>Every kind of organization today is based on a <span class="_paradigm">Fiat</span> hierarchy: businesses, non-for-profits, churches, NGOs, and governments.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <th>Churches</th>
-    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">Fiat</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the selected few are the boss of this particular <span class="_paradigm">Fiat</span> hierarchy.</td>
-   </tr>
-   <tr>
     <th>Businesses</th>
-    <td>Businesses have an owner, the Board, and have a CEO who is the boss of the <span class="_paradigm">Fiat</span> hierarchy.</td>
+    <td>Businesses have an owner, the Board that hires CEO as boss of the <span class="_paradigm">Fiat</span> hierarchy. All directives and commands come from the top.</td>
    </tr>
    <tr>
     <th>Unions</th>
@@ -90,6 +89,10 @@ image:    "icon-in-the-national-interest.svg"
    <tr>
     <th>Non-for-Profits and NGOs</th>
     <td>They are well-meaning, hopefully. They don&rsquo;t aim to make money, but to make the <span class="_paradigm">Fiat</span> system bearable. No matter, they are also ruled by one or more bosses. Their edicts flow down the <span class="_paradigm">Fiat</span> hierarchy below.</td>
+   </tr>
+   <tr>
+    <th>Churches</th>
+    <td>All churches have one or more supernatural gods at the top of their <span class="_paradigm">Fiat</span> hierarchy. And, of course, there is one or a small group of humans who can interpret the deities. God is the owner and the selected few are the self-appointed boss of this particular <span class="_paradigm">Fiat</span> hierarchy.</td>
    </tr>
   </table>
  </div>
