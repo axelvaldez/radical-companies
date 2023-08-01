@@ -61,7 +61,7 @@ image:    "icon-the-radical-atomic-composition.svg"
     </tr>
     <tr>
      <th>Mission<br><span class="_alignquestions">what?<br>when?<br>how?</span></th>
-     <td>What are doing, when, and How? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
+     <td>What are doing, when, and how? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
     </tr>
    </table>
   </div>
