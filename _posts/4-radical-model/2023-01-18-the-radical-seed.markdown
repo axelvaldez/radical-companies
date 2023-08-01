@@ -11,7 +11,7 @@ image:    "icon-the-radical-seed.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>The <span class="_paradigm">Radical</span> model includes a Foundation and it is more like a seed than a tree. You do not know how it is going to develop. It doesn&rsquo;t specify the number of branches or the quality of the fruit that it will grow.</p>
+ <p>The <span class="_paradigm">Radical</span> model includes a Foundation that is more like a seed. You do not know how it is going to develop. It doesn&rsquo;t specify the number of branches or the quality of the fruit that it will grow. But it will grow.</p>
  <p>We hope to be surprised by what others come up with.</p>
 
 <h1>Foundation</h1>
