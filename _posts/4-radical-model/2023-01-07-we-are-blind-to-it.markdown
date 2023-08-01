@@ -49,7 +49,7 @@ image:    "icon-we-are-blind-to-it.svg"
  <p>But co-management is not enough. We also need co-ownership.</p>
 
 <h1>Co-Ownership</h1>
- <p>Ownership is a human invention, a tool for living in society. <span class=<'_quotespan'>That is my tooth brush, but we can share the tooth paste.</span> The problem is that <span class="_paradigm">Fiat</span> ownership is <em>centralized</em>.</p>
+ <p>Ownership is a human invention, a tool for living in society. <span class=<'_quotespan'>That is my tooth brush, but we can share the tooth paste.</span> The problem with <span class="_paradigm">Fiat</span> ownership is that it is <em>centralized</em>.</p>
  <p>Instead, consider co-ownership,</p>
   <li>Co-ownership is decentralized.</li>
   <li>Co-ownership is based on recognized contributions</li>
