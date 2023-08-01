@@ -27,7 +27,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
     <td width="50%">Preaching and coercing are not going to help.</td>
    </tr>
    <tr>
-    <th><span class="_quotespan">What kind of stupid question is that?</span></th>
+    <th><span class="_quotespan">What kind of silly question is that?</span></th>
     <td>Shaming and force are not going to help.</td>
    </tr>
    <tr>
