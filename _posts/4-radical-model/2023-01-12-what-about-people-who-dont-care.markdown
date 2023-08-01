@@ -51,7 +51,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
     </td>
    </tr>
    <tr>
-    <th>Definitely ask</th>
+    <th>Definitely&nbsp;Ask</th>
     <td>
      <ul>
       <li>What would make you feel that you can trust these RADICAL people and their ways?</li>
@@ -61,7 +61,7 @@ image:    "icon-what-about-people-who-dont-care.svg"
     </td>
    </tr>
    <tr>
-    <th>Keep asking</th>
+    <th>Keep&nbsp;Asking</th>
     <td>
      <ul>
       <li>What can I do?</li> 
