@@ -12,7 +12,7 @@ image:    "icon-radical-coops.svg"
 
 <h1>&nbsp;</h1>
  <p>Co-ops people could easily switch to be based on the <span class="_paradigm">Radical</span> model.</p>
- <p>It&rsquo;d be fairly straight forward to do by breaking the &ldquo;one person, one vote&rdquo; rule. They could then switch to a <span class="_paradigm">RAD</span>s-based system. This system would be based on contributions, not equality.</p>
+ <p>It&rsquo;d be fairly straight forward to do by breaking the &ldquo;one person, one vote&rdquo; rule. They could then switch to a <span class="_paradigm">RAD</span>s-based to a system based on contributions, not equality.</p>
 
 <h1>Pluses and Minuses of RADs</h1>
  <p>Ideally, the whole co-op that makes the switch, but most likely it will be individual co-op members,</p> 
