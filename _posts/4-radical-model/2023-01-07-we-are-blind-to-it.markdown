@@ -49,14 +49,15 @@ image:    "icon-we-are-blind-to-it.svg"
  <p>But co-management is not enough. We also need co-ownership.</p>
 
 <h1>Co-Ownership</h1>
- <p>Ownership is a human invention, a tool for living in society. <span class=<'_quotespan'>That is my tooth brush, but we can share the tooth paste.</span> The problem with <span class="_paradigm">Fiat</span> ownership is that it is <em>centralized</em>.</p>
+ <p>Ownership is a human invention, a tool for living in society. <span class='_quotespan'>That is my tooth brush, but we can share the tooth paste.</span> The problem with <span class="_paradigm">Fiat</span> ownership is that it is <em>centralized</em>.</p>
  <p>Instead, consider co-ownership,</p>
-  <li>Co-ownership is decentralized.</li>
-  <li>Co-ownership is based on recognized contributions</li>
-  <li>everybody who contributes is a co-owner</li>
-  <li>There is a <em><span class='_paradigm'>RAD</span>s! Mobile App</em> that helps you recognize contributions.</li>
-  <li>the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> converts recognized contributions to <span class='_paradigm'>RAD</span></span>s</li>
-  <li><span class='_paradigm'>RAD</span>s make contributions tangible.</li>
- </ul>
+  <ul>
+   <li>Co-ownership is decentralized.</li>
+   <li>Co-ownership is based on recognized contributions</li>
+   <li>everybody who contributes is a co-owner</li>
+   <li>There is a <em><span class='_paradigm'>RAD</span>s! Mobile App</em> that helps you recognize contributions.</li>
+   <li>the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> converts recognized contributions to <span class='_paradigm'>RAD</span></span>s</li>
+   <li><span class='_paradigm'>RAD</span>s make contributions tangible.</li>
+  </ul>
 
 {% include related.html %}
