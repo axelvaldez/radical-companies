@@ -34,7 +34,7 @@ image:    "icon-the-radical-seed.svg"
   </div>
  <p>How this is implemented will depend on each community. Will co-owners speak up when they are making a decision away from decentralization? Will they notice and say something about a decision that is taking them away from transparency? They are co-owners and it&rsquo;s up to them to shape the company.</p>
 
-<h1>A Baby</h1>
+<h1>A Baby Tree</h1>
  <p>Like the tree that grows from the seed, you hope for the best, but they learn what they learn. Each will grow up differently depending on the co-owners..</p>
 
 {% include related.html %}
