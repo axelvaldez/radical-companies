@@ -19,18 +19,20 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>We feel its impact, but can not see the source of it.</li>
   <li>The <span class="_paradigm">Fiat</span> system remains invisible to us.</li>
  </ul>
-  <img
-   src='/assets/img/pic-fiat-fear-force-or-pain.svg'
-   alt=''
-   width='50%'>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-fiat-fear-force-or-pain.svg'
+    alt=''
+    width='50%'>
  <p>We did not even had a name for it, so we called it <span class="_paradigm">Fiat</span>.</p>
 
 <h1>Radical Foundation</h1>
  <p>Rather than a systme where you have to remember rules and whatnots, we focused on an easy-to-remenber <span class="_paradigm">Foundation.</span> They also happen to be closer to the root of what we think it is important (<em>i.e.</em>, thus Radical).</p>
-  <img
-   src='/assets/img/pic-the-radical-model-coming-together.svg'
-   alt=''
-   width='50%'>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-the-radical-model-coming-together.svg'
+    alt=''
+    width='50%'>
 
 <h1>Co-Management</h1>
  <p>To start to move away from <span class="_paradigm">Fiat</span>, consider co-management,</p>
