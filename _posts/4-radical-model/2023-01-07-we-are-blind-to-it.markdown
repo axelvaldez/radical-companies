@@ -22,8 +22,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <img
    src='/assets/img/pic-fiat-fear-force-or-pain.svg'
    alt=''
-   width='45%'
-   style='float:left; '>
+   width='50%'>
  </ul>
  <p>We did not even had a name for it, so we called it <span class="_paradigm">Fiat</span>.</p>
 
@@ -32,8 +31,7 @@ image:    "icon-we-are-blind-to-it.svg"
   <img
    src='/assets/img/pic-the-radical-model-coming-together.svg'
    alt=''
-   width='45%'
-   style='float:right; '>
+   width='50%'>
 
 <h1>Co-Management</h1>
  <p>To start to move away from <span class="_paradigm">Fiat</span>, consider co-management,</p>
