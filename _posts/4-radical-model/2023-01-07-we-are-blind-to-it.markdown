@@ -18,12 +18,11 @@ image:    "icon-we-are-blind-to-it.svg"
   <li>We assume that the <span class="_paradigm">Fiat</span> system is a forever thing and cannot be changed.</li>
   <li>We feel its impact, but can not see the source of it.</li>
   <li>The <span class="_paradigm">Fiat</span> system remains invisible to us.</li>
-  </li>
+ </ul>
   <img
    src='/assets/img/pic-fiat-fear-force-or-pain.svg'
    alt=''
    width='50%'>
- </ul>
  <p>We did not even had a name for it, so we called it <span class="_paradigm">Fiat</span>.</p>
 
 <h1>Radical Foundation</h1>
