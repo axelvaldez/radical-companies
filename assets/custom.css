@@ -554,10 +554,20 @@ _qna 1{
   font-weight:bolder;
   font-size:larger;
 }
+._q:before {
+  font-size:larger;
+  font-family:'Courier New', Courier, monospace;
+  content:"Q: "
+}
 ._a {
   text-indent:0;
   padding-bottom:0.5em;
   font-style:italic;
+}
+._a:before {
+  font-size:larger;
+  font-family:'Courier New', Courier, monospace;
+  content:"A: ";
 }
 div._q p, div._a p {
   text-indent:0;
