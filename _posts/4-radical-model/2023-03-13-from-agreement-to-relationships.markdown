@@ -48,13 +48,13 @@ image:    "icon-from-agreements-to-relationships.svg"
   <li>Do you talk without pausing?</li>
   <li>How do we knew if we can interrupt and jump in?</li>
  </ul>
- <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have been written down.</p>
+ <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have been written down and you had a chance to read them.</p>
  <p>Your opening up and talking about, for example, your deepest fears won&rsquo;t happen in one sitting. It will take time for you to figure things out and for you to feel safe enough to open up more and more. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">Fiat</span>.</p>
 
 <h1>Commitments</h1>
- <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">Even when I am angry, I will keep my voice down&hellip; .</span></p>
- <p>For each of those commitments, people in the group will make a support commitment to help remind you of your commitment. <span class="_quotespan">I will ask you to keep your voice down, even if I have to raise my own voice to get your attention.</span></p>
- <p>After you make your explicit commitments and receive support commitments, go through commitments written down in the Explicit Relationship document by other co-owners and add your own support commitments, as appropriate.</p>
+ <p>As you go through these questions, you will likely bring up things that you would like to change. For some of these, you may even make a commitment, <span class="_quotespan">I will keep my voice down even when I am angry.</span></p>
+ <p>For each of those commitments, people in the group will make a support commitment to help remind you of it. <span class="_quotespan">I will ask you to keep your voice down, even if I have to raise my own voice to get your attention.</span></p>
+ <p>After you make your explicit commitments and receive support commitments, go through commitments written down in the <span class="_paradigm">Explicit Relationship</span> document by other co-owners and add your own support commitments, as appropriate.</p>
  
 <h1 class="_section">ENDNOTES</h1>
  <ul>
