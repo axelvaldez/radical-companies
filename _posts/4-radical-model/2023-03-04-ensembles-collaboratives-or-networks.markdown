@@ -24,7 +24,7 @@ image:    "icon-ensembles-collabortives-or-networks.svg"
  <p>So, is there a better word?</p>
 
 <h1>Ensembles</h1>
- <p>Ensembles are groups of people who come together to play music. This is a social act. It embraces everybody&rsquo;s mistakes and aims to make others look good. This is what coming close together is all about.</p>
+ <p>Ensembles are groups of people who come together to play. They may play together for a long time or they may disband. This is a social act. It embraces everybody&rsquo;s mistakes and aims to make others look good. This is what coming close together is all about.</p>
  <p>It seems to me that the association of <em>ensemble</em> with making music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
 
 {% include related.html %}
