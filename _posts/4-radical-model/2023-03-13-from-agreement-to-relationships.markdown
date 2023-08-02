@@ -29,8 +29,8 @@ image:    "icon-from-agreements-to-relationships.svg"
  <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other.</p>
 
 <h1>You & Me</h1>
- <p>We want to make explicit a) how you experience the world and b) what you have to offer it in return. We want to know how you show up in relationships.</p>
- <p>These are in general the questions that you need to think</p>
+ <p>We want to make explicit a) how you experience the world and b) what you have to offer. We want to know how you show up in relationships.</p>
+ <p>These are in general the questions that you need to think about,</p>
  <ul>
   <li>Who are you?</li>
   <li>How do you show up?</li>
