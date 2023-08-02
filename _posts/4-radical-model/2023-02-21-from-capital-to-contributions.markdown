@@ -7,7 +7,7 @@ image:    "icon-from-capital-to-contributions.svg"
 ---
 
 <div style="display:none;">
- <p>We have to get away from capital-as-static-power to contributions-as-dynamic-power as the basis of our culture. Not everybody has accumulated capital, but everybody can contribute.</p>
+ <p>We have to get away from capital as power to contributions as power as the basis of our culture. Not everybody has accumulated capital, but everybody can contribute.</p>
 </div>
 
 <h1>&nbsp;</h1>
