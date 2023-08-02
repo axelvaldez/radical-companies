@@ -3,7 +3,7 @@ layout:   post
 title:    "Ensembles, Collaboratives, or Networks?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-ensembles-collabortives-networks.svg"
+image:    "icon-ensembles-collabortives-or-networks.svg"
 ---
 
 <div style="display:none;">
