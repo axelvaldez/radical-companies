@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    " Radical Companies Solve Problems Faster than Fiat Businesses"
+title:    "Radical Companies Solve Problems Faster than Fiat Businesses"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-radical-companies-solve-problems-faster-than-fiat-businesses.svg"
