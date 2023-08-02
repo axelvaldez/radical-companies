@@ -67,8 +67,8 @@ image:    "icon-the-radical-foundation-house.svg"
   </div>
   <ul>
    <li>There is one <span class='_paradigm'>Impact</span>. Changing the impact is major: it is the equivalent of making up a new company.</li>
-   <li>There is one <span class='_paradigm'>Purpose</span>, although it may change (the gray translucent color represents a past floor).</li>
-   <li>There are many <span class='_paradigm'>Missions,</spen> one after another and many in parallel.</li>
+   <li>There is one <span class='_paradigm'>Purpose</span>, although it may change (the gray translucent color under <span class='_paradigm'>Purpose</span> represents a past <span class='_paradigm'>Purpose</span>).</li>
+   <li>There are many <span class='_paradigm'>Missions,</span> one after another and many in parallel.</li>
   </ul>
  <p>Everything else is a Practice,</p>
   <ul>
