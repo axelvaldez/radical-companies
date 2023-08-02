@@ -33,7 +33,7 @@ image:    "icon-alternatives-to-fiat.svg"
 <h1>Our non-Fiat Alternative</h1>
  <p>Our <span class="_paradigm">Radical</span> alternative makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the capital they invested. And not based or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what.</p>
  <p>For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owner is. No rules or benevolent judges needed. That is decentralized co-ownership.</p>
- <p>The are no rules, every co-owner figures out what a contribution is by the feelings it brings up, from enthusiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
+ <p>Every co-owner figures out what a contribution is by the feelings it brings up, from enthusiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
 <h1>Chaos!</h1>
