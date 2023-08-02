@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADICAL Investments"
+title:    "Radical Investments"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-radical-investments.svg"
