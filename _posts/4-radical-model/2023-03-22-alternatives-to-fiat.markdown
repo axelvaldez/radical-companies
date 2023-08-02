@@ -48,7 +48,7 @@ image:    "icon-alternatives-to-fiat.svg"
  <p>Rules add legalistic rigidity have absolutely no value. They are a form of foce and have no place in the <span class="_paradigm">Radical</span> model</p>
 
 <h1>RADs</h1>
- <p>Before we get into the Q&A, we have to explain <span class="_paradigm">RAD</span>s,</p>
+ <p>At this point, we have to explain <span class="_paradigm">RAD</span>s,</p>
   <ul>
    <li>Eveny co-owner gets one <span class="_paradigm">RAD</span> per day, to give not to keep.</li>
    <li><span class="_paradigm">Recognized Contributions</span> are converted to <span class="_paradigm">RAD</span>s by the <em><span class="_paradigm">RAD</span>s! Mobile App</em>.</li>
@@ -58,12 +58,12 @@ image:    "icon-alternatives-to-fiat.svg"
   </ul>
 
 <h1>Q&A</h1>
- <p>Having said that, we can talk about potential cheatin&rsquo;,</p>
+ <p>Is it open to potential cheating?,</p>
   <div class='_qnablock'>
-   <p class="_q">OK, so not quite chaos, but it is open to cheatin&rsquo;, right?</p>
+   <p class="_q">OK, so not quite chaos, but it is open to cheating, right?</p>
    <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
-   <p class="_q">doesn&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
-   <p class='_a'>Maybe. If somebody cheats once, they some amount of <span class='_paradigm'>RAD</span>s will go to the offending co-owners. But then you talk them. If the cheatin&rsquo; continues to go on, you and your fellow co-owners would stop giving them <span class="_paradigm">RAD</span>s.</p>
+   <p class="_q">Doesn&rsquo;t this mean that people are not protected and can have money taken out of their pocket?</p>
+   <p class='_a'>Maybe. If somebody cheats once, some amount of <span class='_paradigm'>RAD</span>s will go to the cheating co-owner. But, remember that everything is transparent, and you can ask them about an iffy transaction. If the cheating continues, you and your fellow co-owners would stop giving them <span class="_paradigm">RAD</span>s.</p>
    <p class="_q">But, what if people in cahoots give all their <span class="_paradigm">RAD</span>s to each other?</p>
    <p class='_a'>Yes, that could happen. But since everything is transparent, somebody is bound to notice and question it.</p>
    <p class="_q">What if co-owners give out <span class="_paradigm">RAD</span>s for silly reasons?</p>
