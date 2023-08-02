@@ -14,7 +14,6 @@ image:    "icon-the-radical-foundation-house.svg"
  <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradigm">Radical</span> model</span>. After having slept over it, I woke up with an image of a building where,</p>
   <ul>
    <li>
-    The words MEANING and BELONGING are the two axis of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;floor&rdquo;). It represents the people fundamentals,
     <div class="_center">
      <img
       src="/assets/img/pic-the-radical-foundation-house-1.svg"
@@ -22,9 +21,9 @@ image:    "icon-the-radical-foundation-house.svg"
       style="width:70%; "
      >
     </div>
+    The words MEANING and BELONGING are the two axis of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;floor&rdquo;). It represents the people fundamentals,
    </li>
    <li>
-    DECENTRALIZATION and TRANSPARENCY are the axis of the &ldquo;roof&rdquo; meaning that 1) the house has no boss in it and 2) everything is transparent. By having all information available to everybody, it makes sure that any potential &ldquo;gaming&rdquo; of the system is apparent to everybody and it gets dealt with.
     <div class="_center">
      <img
       src="/assets/img/pic-the-radical-foundation-house-2.svg"
@@ -32,9 +31,9 @@ image:    "icon-the-radical-foundation-house.svg"
       style="width:70%; "
      >
     </div>
+    DECENTRALIZATION and TRANSPARENCY are the axis of the &ldquo;roof&rdquo; meaning that 1) the house has no boss in it and 2) everything is transparent. By having all information available to everybody, it makes sure that any potential &ldquo;gaming&rdquo; of the system is apparent to everybody and it gets dealt with.
    </li>
    <li>
-    Finally, EXPERIMENTATION, underlying all practices, holds up the house. This means that that whether an EXPERIMENT worked as you expected it or not, you always learn from it, and knowledge holds the house up.
     <div class="_center">
      <img
       src="/assets/img/pic-the-radical-foundation-house-3.svg"
@@ -42,6 +41,7 @@ image:    "icon-the-radical-foundation-house.svg"
       style="height:3.33in; "
      >
     </div>
+    Finally, EXPERIMENTATION, underlying all practices, holds up the house. This means that that whether an EXPERIMENT worked as you expected it or not, you always learn from it, and knowledge holds the house up.
    </li>
   </ul>
 
