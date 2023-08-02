@@ -57,7 +57,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
 
-<h1>More Questions</h1>xxx
+<h1>More Questions</h1>
   <div class='_qnablock'>
    <p class="_q">OK, so not quite chaos, but it is open to cheating, right?</p>
    <p class="_a">Well no. Since there are no rules, you can&rsquo;t cheat.</p>
