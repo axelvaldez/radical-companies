@@ -3,7 +3,7 @@ layout:   post
 title:    "Decentralized Decision Making"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
-image:    "icon-decentralized-decisionm-making.svg"
+image:    "icon-decentralized-decision-making.svg"
 ---
 
 <div style="display:none;">

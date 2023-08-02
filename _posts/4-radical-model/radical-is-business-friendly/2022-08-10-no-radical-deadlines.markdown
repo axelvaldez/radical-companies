@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "No RADICAL Deadlines"
+title:    "No Radical Deadlines"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
 image:    "icon-no-radical-deadlines.svg"
