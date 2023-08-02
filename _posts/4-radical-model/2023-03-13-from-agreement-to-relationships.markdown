@@ -11,12 +11,12 @@ image:    "icon-from-agreements-to-relationships.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>You can read about the latest version of the Explicit Relationship here.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> However, in this post I am taking a different, simpler approach based on relationship.</p>
+ <p>You can read about the latest version of the <span class="_paradigm">Explicit Relationship</span> here.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> However, in this post I am taking a different, simpler approach based on relationship.</p>
 
 <h1>Not a Contract</h1>
- <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating an Explicit Relationship. Of course, contracts can be <em>enforced</em>, but when it comes to relationships force does not apply and we don&rsquo;t want to inject it into it. On the other hand, we do want to make relationships as explicit as possible.</p>
+ <p>Rather than creating an <em>agreement</em>, which people can interpret as a contract, we are creating an <span class="_paradigm">Explicit Relationship.</span> Contracts can be <em>enforced</em>, but when it comes to relationships force does not apply and we don&rsquo;t want to inject force into it. On the other hand, we do want to make relationships as explicit as possible.</p>
  <p>What is often lacking in the world is your <em>explicit</em> expression of yourself. A limited amount of it may come out during arguments, <span class="_quotespan">&hellip; that&rsquo;s the way I am.</span> But, in general, most of it never gets expressed out in the open.</p>
- <p>Of course, whatever you say about yourself is a snapshot of the way you feel at this moment in time. It is not the &ldquo;true you&rdquo; for long and will change tomorrow or the day after. But it is a place to start.</p>
+ <p>Of course, whatever you say about yourself is a snapshot of the way you feel at this moment in time. It is not the &ldquo;true you&rdquo; for long and will change tomorrow or a moment after. But it is a place to start.</p>
 
 <h1>Explicit Relationships</h1>
  <p>It&rsquo;s pretty simple,</p>
