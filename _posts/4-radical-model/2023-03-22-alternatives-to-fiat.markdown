@@ -37,27 +37,27 @@ image:    "icon-alternatives-to-fiat.svg"
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
 
 <h1>Chaos!</h1>
- <p>If you are thinking that this would result in chaos, that is <span class="_paradigm">Fiat</span> thinking. I am not accusing you of anything that I haven&rsquo;t done and continue to do, by the way. It is what we have learned to fear: unless there are rules, there is chaos.</p>
+ <p>If you are thinking that this would result in chaos, that is <span class="_paradigm">Fiat</span> thinking. I am not accusing you of anything that I haven&rsquo;t done and, by the way, continue to do. It is what we have learned to fear: if there are no rules, there is chaos.</p>
  <p>I now invite you to think about rules,</p>
   <ul>
-   <li>Rules are &ldquo;broken&rdquo; all the time.</li>
-   <li>You have to remember all the rules before you can recognize something as a contribution, so you can defend your decisions.</li>
+   <li>Rules are bent and broken all the time.</li>
+   <li>You would have to remember all the rules before you can recognize something as a contribution, so you can defend your decisions.</li>
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
-   <li>Some people are very good at it and get away with it. They are like Rules Lawyers.</li>
+   <li>Some people are very good at bending the rules and get away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>Rules add legalistic rigidity and absolutely no value.</p>
+ <p>Rules add legalistic rigidity have absolutely no value. They are a form of foce and have no place in the <span class="_paradigm">Radical</span> model</p>
 
-<h1>Q&A</h1>
- <p>Before we get into the Q&A, we have to explain a bit more about recognizing contributions,</p>
+<h1>RADs</h1>
+ <p>Before we get into the Q&A, we have to explain <span class="_paradigm">RAD</span>s,</p>
   <ul>
-   <li>Recognized Contributions end up as <span class="_paradigm">RAD</span>s.</li>
-   <li>Things like money are factored through <span class="_paradigm">RAD</span>s.</li>
-   <li><span class="_paradigm">RAD</span>s help distribute tangible things like money.</li>
-   <li>Everybody gets one <span class="_paradigm">RAD</span> per day.</li>
-   <li><span class="_paradigm">RAD</span>s don&rsquo;t keep them, the give them to other co-owners as they recognize their contributions.</li>
-   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to Mike, a co-owner, everybody can see that. And ask about it.</li>
+   <li>Eveny co-owner gets one <span class="_paradigm">RAD</span> per day, to give not to keep.</li>
+   <li><span class="_paradigm">Recognized Contributions</span> are converted to <span class="_paradigm">RAD</span>s by the <em><span class="_paradigm">RAD</span>s! Mobile App</em>.</li>
+   <li>Things like money are factored through <span class="_paradigm">RAD</span>s. If you have twice as many <span class="_paradigm">RAD</span>s as me, you will get twice as much money as me.</li>
+   <li>Everything is transparent, so everything is out in the open to everybody. If I give <span class="_paradigm">RAD</span>s to co-owner Mike everybody can see that. And ask about it, if they wish.</li>
    <li>You, and everybody else in a <span class="_paradigm">Radical</span> company, are co-owners.</li>
   </ul>
+
+<h1>Q&A</h1>
  <p>Having said that, we can talk about potential cheatin&rsquo;,</p>
   <div class='_qnablock'>
    <p class="_q">OK, so not quite chaos, but it is open to cheatin&rsquo;, right?</p>
