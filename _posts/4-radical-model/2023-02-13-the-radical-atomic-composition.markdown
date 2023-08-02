@@ -124,6 +124,6 @@ image:    "icon-the-radical-atomic-composition.svg"
  </div>
 
 <h1>The Molecule</h1>
- <p>The <span class="_paradigm">Radical Molecule</span> has even more potential. Our Lab will keep working on it.</p>
+ <p><span class="_paradigm">Radicalium</spanx>, the <span class="_paradigm">Radical Molecule</span>, and it elements have potential beyond our wildest dreams. Our Lab will continue to work on it.</p>
 
 {% include related.html %}
