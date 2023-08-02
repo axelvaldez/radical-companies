@@ -78,7 +78,7 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>There is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
   </ul>
- <p>This is one alternative to the <span class="_paradigm">Fiat</span> model and it leaves nothing to be <span class="_quotespan">extremely perplexed,</span> about. Once you see the <span class="_paradigm">Fiat</span> system and the harm that it causes, your horizons will open up and you will be able to imagine other alternatives.</p>
+ <p>This is one alternative to the <span class="_paradigm">Fiat</span> model and it leaves nothing to be <span class="_quotespan">extremely perplexed</span> about. Once you see the <span class="_paradigm">Fiat</span> system and the harm that it causes, your horizons will open up and you will be able to imagine other alternatives.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
