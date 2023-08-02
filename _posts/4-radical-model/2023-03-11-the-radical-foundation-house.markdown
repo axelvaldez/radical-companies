@@ -14,7 +14,7 @@ image:    "icon-the-radical-foundation-house.svg"
  <p>Yesterday we had a discussion about a way of reframing the <span class="_quotespan"><span class="_paradigm">Radical</span> model</span>. After having slept over it, I woke up with an image of a building where,</p>
   <ul>
    <li>
-    The words MEANING and BELONGING are the two axis of the &ldquo;ground floor.&rdquo; It represents the people fundamentals,
+    The words MEANING and BELONGING are the two axis of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;floor&rdquo;). It represents the people fundamentals,
     <div class="_center">
      <img
       src="/assets/img/pic-the-radical-foundation-house-1.svg"
