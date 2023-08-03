@@ -36,7 +36,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    </div>
   <p>Other practices can be layered on top of these, but for a <span class="_paradigm">Radical</span> company this foundation is essential, otherwise it is just a <span class="_paradigm">Fiat</span> business with &ldquo;ain&rsquo;t-we-nice&rdquo; sprinkled on top.</p>
 
-<h1>Fiat Hiearchies</h1>
+<h1>Fiat Hierarchies</h1>
   <p>Hierarchies don&rsquo;t just go away. Hierarchies are always present, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by the people involved, and what&rsquo;s needed at a particular time. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Explicit and Transparent Alignment</h1>
