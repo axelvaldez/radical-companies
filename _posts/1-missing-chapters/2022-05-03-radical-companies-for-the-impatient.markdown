@@ -209,7 +209,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
       <tr style="vertical-align: top; ">
        <th>Special Accomplishment</th>
        <td>
-        <p style="text-indent:0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves a wider recognition.</p>
+        <p style="text-indent:0;">&ldquo;Margot deserves to be recognized for stewarding the creation of our training platform.&rdquo; This may be in addition to other contributions that Margot has made. Maybe her role in &ldquo;stewarding the creation of our training platform&rdquo; was not as visible, but her teammates feel she deserves wider recognition.</p>
        </td>
       </tr>
       <tr>
