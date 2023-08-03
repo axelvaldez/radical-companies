@@ -222,7 +222,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
        <th>Experimental Projects</th>
        <td>
         <p style="margin-bottom:3px; ">At one point Google got a lot of coverage for their policy of allowing everybody to use 20% of their time to work on side projects (<em>e.g.</em>Google News came out of it). That was a generous gift from the <span class="_paradigm">Fiat</span> owners, but the same owners later took it away.</p>
-        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate the yield of their <span class='_paradigm'>RAD</span>s to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span>s could fund that specific project.</p>
+        <p style="text-indent:0;">For a <span class="_paradigm">Radical</span> company the equivalent thing would be to put up a &ldquo;20%&rdquo; <span class="_paradigm">Banner</span> and co-owners could allocate the yield of their <span class='_paradigm'>RAD</span>s to it as they see fit. Or more specifically, a &ldquo;Google News&rdquo; <span class="_paradigm">Banner</span> could fund that specific project.</p>
        </td>
       </tr>
       <tr>
