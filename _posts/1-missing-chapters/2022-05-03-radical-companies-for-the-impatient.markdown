@@ -391,5 +391,5 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <a href="#bm06"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
   </li>
  </ul>
-h2table
+
 {% include related.html %}
