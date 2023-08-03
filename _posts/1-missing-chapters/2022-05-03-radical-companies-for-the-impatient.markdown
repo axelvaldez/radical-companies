@@ -40,7 +40,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
   <p>Hierarchies don&rsquo;t just go away. Hierarchies are always present, but, unlike in a <span class='_paradigm'>Fiat</span> business, a hierarchy is not imposed in a co-managed company. Hierarchies that do emerge are dynamic, fluid, and shaped by the people involved, and what&rsquo;s needed at a particular time. &ldquo;An organism constantly changes. The cells develop, die and are replaced. It adapts to the current environment or goes away. &hellip; The org chart is insufficient.&rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Explicit and Transparent Alignment</h1>
-  <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s <span class="_paradigm">Impact</span>  (<em>i.e.</em>, <em>what for</em>), its <span class="_paradigm">Purpos</span> (<em>i.e.</em> why), and <span class="_paradigm">Mission</span> (<em>i.e.</em>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
+  <p>In order to create a <span class="_paradigm">Radical</span> company, you first need to be explicit about the company&rsquo;s <span class="_paradigm">Impact</span>  (<em>i.e.</em>, <em>what for</em>), its <span class="_paradigm">Purpose</span> (<em>i.e.</em> why), and <span class="_paradigm">Mission</span> (<em>i.e.</em>, <em>what</em>, <em>how</em>, and <em>when</em>). You might call them something different or you might lump them in different ways, but, no matter, they have to be explicit and completely open and accessible to everyone.</p>
   <p>The three-finger Scout Salute<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> is a good mnemonic for it,</p>
    <div class='_center'>
     <img
@@ -65,7 +65,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>This is but one way to express alignment. The important thing is to make it explicit, simple, and meaningful to every present and future co-owners in the team.</p>
 
 <h1>Recognizing Contributions</h1>
- <p>The Distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The distribution mechanism we describe below recognizes contributions, makes ownership decentralized and dynamic, supports egalitarian and equitable wealth sharing, and it scales to organizations of any size.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a></p>
   <div class='_center'>
    <div class='_citation'>
     <p>Workers would be recompensed &hellip; according to their contribution</p>
@@ -97,7 +97,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
    <li>Whereas stocks represent a fixed percentage of the company <em>forever</em>, <span class="_paradigm">RAD</span>s represent a dynamic <em>percentage</em> of ownership<em> at each cycle</em>.</li>
    <li><span class="_paradigm">RAD</span>s represent any kind of contribution, not just financial. In fact, <span class="_paradigm">RAD</span>s account for the unaccountable.</li>
   </ul>
- <p>Co-owners then get to distribute <span class='_paradigm'>RAD</span>s according to their individual judgment. Co-owners do this by recognizing the contributons of other co-owners. The end result is that a number of <span class="_paradigm">RAD</span>s are given to other co-owners. The value of the whole emerges from the judgment of the many.</p> 
+ <p>Co-owners then get to distribute <span class='_paradigm'>RAD</span>s according to their individual judgment. Co-owners do this by recognizing the contributions of other co-owners. The end result is that a number of <span class="_paradigm">RAD</span>s are given to other co-owners. The value of the whole emerges from the judgment of the many.</p> 
  <p>Other important observations about <span class="_paradigm">RAD</span>s,</p>
   <ul>
    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s are not a currency.</li>
@@ -112,7 +112,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
       width='80%'>
     </div>
    <li style="text-indent:0;"><span class="_paradigm">RAD</span>s accumulate from one cycle to the next. For example, if I had 100 <span class="_paradigm">RAD</span>s last cycle and I get 50 this cycle, my total number of <span class="_paradigm">RAD</span>s goes to 150.</li>
-   <li style="text-indent:0;">Your percentage of the total may go up, down, or stay the same. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000 <span class="_paradigm">RAD</span>s, then I have 10% of the total. If at the next cycle the total goes up to 1,200 <span class="_paradigm">RAD</span>s and I get 50, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%.</li>
+   <li style="text-indent:0;">Your percentage of the total may go up, down, or stay the same. For example, if I get 100 <span class="_paradigm">RAD</span>s from a total of 1,000 <span class="_paradigm">RAD</span>s, then I have 10% of the total. If in the next cycle the total goes up to 1,200 <span class="_paradigm">RAD</span>s and I get 50, I have 150 <span class="_paradigm">RAD</span>s and my percent ownership goes up to 12.5%. If, on the other hand, I get 20 new <span class="_paradigm">RAD</span>s, my percentage stays at 10%.</li>
    <li style="text-indent:0;">Money or whatever else is disbursed as a function of the number of <span class="_paradigm">RAD</span>s each co-owner has. For example, if you have accumulated 200 <span class="_paradigm">RAD</span>s and I have 100, then you&rsquo;ll get twice as much as me.</li>
   </ul>
  <p>To summarize, allocations work like this,</p>
@@ -190,7 +190,7 @@ image:    "icon-radical-companies-for-the-impatient.svg"
  <p>As people share and grant each other <span class="_paradigm">RAD</span>s, they learn the value of what they&rsquo;re building together at a visceral level. People will, by necessity, be encouraged to learn to communicate more and better. To quote author James Ownen, &ldquo;It ain&rsquo;t bragging if you&rsquo;ve done it.&rdquo; They will learn from their peers to value their own accomplishments. They will also learn to talk about their failures, what they&rsquo;ve learned from them, and how this learning can be valuable to others.</p>
 
 <h1>Distributions Include Banners</h1>
-  <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they are supported by <span class="_paradigm">Banner</span>s</p>
+  <p>Recognition is really important to both the giver and the receiver. Whether as individuals or as a team, having our accomplishments recognized by others is very important and precious to people. But what about team accomplishments, causes, communities, or new projects? Even though they are not people, they are supported by <span class="_paradigm">Banner</span>s,</p>
   <p>
    <img
     src="/assets/img/en-Banner.svg"
