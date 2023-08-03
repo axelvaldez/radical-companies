@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    " rCoins: Decentralized Minting, Again"
+title:    "rCoins: Decentralized Minting, Again"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rcoins-decentralized-minting-again.svg"
