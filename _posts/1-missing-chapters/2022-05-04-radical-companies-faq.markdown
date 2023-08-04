@@ -27,7 +27,7 @@ image:    "icon-radical-companies-faq.svg"
   <li>Stocks are static. Each share of stock represents a fixed percentage of the business <em>forever</em>.</li>
   <li><span class='_paradigm'>RAD</span>s are dynamic, always changing. They represent the work that has gone into creating the value the company represents.</li>
 </ul>
- <p>Stock is not at work in <span class='_paradigm'>Radical</span> companies. If your company has been incorporated to have stock, then re-incorporate it not have stock. For example, in California Unincorporate Associations don&rsquo;t have stock.</p>
+ <p>Stock is not at work in <span class='_paradigm'>Radical</span> companies. If your company has been incorporated to have stock, then re-incorporate it not have stock. For example, in California Unincorporated Associations don&rsquo;t have stock.</p>
 
 <h1 style="font-size:30px; ">What does it mean that RADs are <em>dynamic</em>?</h1>
  <p>It means that the total amount of generated <span class='_paradigm'>RAD</span>s (denominator) changes regularly and the total number of <span class='_paradigm'>RAD</span>s allocated to a co-owner (numerator) changes regularly.</p>
@@ -41,7 +41,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 style="font-size:30px; ">Who&rsquo;s looking out for the business?</h1>
  <p>The allocation of <span class='_paradigm'>RAD</span>s is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.</p>
- <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices may be raised. There no avoiding difficult decisions and hard conversations.</p>
+ <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices may be raised. There is no avoiding difficult decisions and hard conversations.</p>
 
 <h1 style="font-size:30px; ">And strategy?</h1>
  <p>As far as the company&rsquo;s strategy, maybe everybody gets involved is coming up with it. It small companies that is the way it goes anyway. In a larger company, a few people may prove better at stratey and they can lead it. No matter, other co-owners can always bring their opinions or data to bear.</p>
