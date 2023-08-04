@@ -15,7 +15,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 class="_section">Co-Ownership</h1>
 
-<h1 style="font-size:30px; ">Does a company need to be co-owned to be <span class='_paradigm'>Radical</span>?</h1>
+<h1 style="font-size:30px; ">Does a company need to be co-owned to be Radical?</h1>
  <p>Yes, it has to be co-owned <em>and</em> co-managed.</p>
  <p>The owner is the ultimate boss and self-management, by itself, is at the mercy of a benevolent owner. On the other hand, when everybody in the company is a co-owner then co-management can happen unobstructed.</p>
  <p>In  businesses the Board is the owner. In theory, it has to keep its hands out of operations, but it can replace the CEO at its whim. If the CEO was the benevolent type that allowed self-management to happen, then self-management goes out the door with him.</p>
@@ -65,7 +65,7 @@ image:    "icon-radical-companies-faq.svg"
    <li>You want the company to outlast you.</li>
  </ul>
 
-<h1 style="font-size:30px; ">How do I become a <span class='_paradigm'>Radical</span> Company?</h1>
+<h1 style="font-size:30px; ">How do I become a Radical Company?</h1>
  <p>By committing to transforming to the <span class='_paradigm'>Radical</span> paradigm.</p>
   <ul>
    <li>If you are the owner, it&rsquo;s easiest to get started, but making it happen will still take a lot of work.</li>
@@ -194,7 +194,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>It is also meant as a common language for companies to work with each other. Regardless of what &ldquo;solutions&rdquo; they&rsquo;ve adopted, they can use these dimensions to figure where each is and how they could possibly collaborate with one another. Without a simple shared language, we can quickly slide down to &ldquo;my X is better than you Y&rdquo; and conversations are not possible.</p>
  <p>Note that this is not a way of ranking one company against another. But you can use this foundation to measure your company&rsquo;s progress over time</p>
 
-<h1 style="font-size:30px; ">How can a  company transform to a <span class='_paradigm'>Radical</span> model?</h1>
+<h1 style="font-size:30px; ">How can a  company transform to a Radical model?</h1>
  <p>K2K Emocionando in Spain has been helping companies transform to co-management since 2007. Krisos, also in Spain, is also doing it now. The company I founded, Nearsoft now renamed Encora, was co-managed from the start.</p>
  <p>We don't know of any business go into co-ownership, so we are doing our own.</p>
 
@@ -219,11 +219,11 @@ image:    "icon-radical-companies-faq.svg"
  <p>If you are the first one to see the problem, then you would say, &ldquo;we need to decide by the end of today, Let&rsquo;s get together at 3 pm.&rdquo;  Most people will not to show up for whatever reasons, but everybody who wants to show up could, to be part of the decision. Maybe your proposal will carry the day you are very clear on what needs to happen and you'd be very convincing. But maybe there&rsquo;s a better idea that comes out of the discussion. Either way, you&rsquo;ll come out of it with a plan on what to do about it.</p>
  <p>In the extreme case of, say, a fire there is no discussion to be had and whoever is close to an escape will lead others through it. No need to wait for the boss to figure things out.</p>
 
-<h1 style="font-size:30px; ">Where does the evidence for better financial growth for <span class='_paradigm'>Radical</span> companies come from?</h1>
+<h1 style="font-size:30px; ">Where does the evidence for better financial growth for Radical companies come from?</h1>
  <p>There is no &ldquo;evidence&rdquo; because there are no <span class='_paradigm'>Radical</span> companies around. In the US we&rsquo;ve identified only one that comes close, W L Gore.</p>
  <p>We can extrapolate from the financial performance of businesses which practice co-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict  businesses. Imagine where they could go with co-ownership.</p>
 
-<h1 style="font-size:30px; ">Is the <span class='_paradigm'>Radical</span> approach risak slowly killing innovation and progressive ideas?</h1>
+<h1 style="font-size:30px; ">Is the Radical approach risak slowly killing innovation and progressive ideas?</h1>
  <p>Quite the opposite. Businesses put up a lot of barriers to any innovative and progressive proposal that doesn&rsquo;t come from the boss or his circle.</p>
  <p>Decentralization means that ideas can come from anybody in the company. Funding the implementation of those ideas is up to the co-owners which may support it.</p>
  <p>Over time, each company will learn which ideas are more aligned with their <span class='_paradigm'>Impact</span> and which are not.</p>
