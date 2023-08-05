@@ -155,19 +155,20 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 style="font-size:30px; ">If the benevolent owner is fairly young, self-management by itself is not a big risk, right?</h1>
  <p>The age of the owner is not a factor. The business is ready to be sold. The owner can change his mind on any issue at any momeny.</p>
- <p>Take Basecamp. Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Hansson, believe strongly in the capability of people to self-manage&mdash;Fried even wrote books about it. Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything what the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
+ <p>Take Basecamp. Basecamp is a software company and was touted as a self-management poster child. Its owners, Jason Fried and David Hansson, believe strongly in the capability of people to self-manage. Fried even wrote books about it.</p>
+ <p>Then one day Jason and David got off on the wrong side of their respective beds, so to speak, and brushed aside everything that the Basecamp <em>employees</em> had built over many years as a self-managed team. As a result Basecamp lost more than a third of its staff overnight.</p>
  <p>In the case of Basecamp, this change of heart played out in the open (<em>i.e.</em>, Fried posted the letter publicly). Most often, benevolent owners backtrack little by little hoping to go unnoticed.</p>
 
-<h1 style="font-size:30px; ">Ostrom&rsquo;s Core Design Principle &ldquo;Nested Enterprises,&rdquo; is questionable. Wouldn&rsquo;t bad behavior of one group always be sanctioned within a bigger ecosystem?</h1>
+<h1 style="font-size:30px; ">Ostrom&rsquo;s Core Design Principle &ldquo;Nested Enterprises,&rdquo; is questionable. Bad behavior of one group may be sanctioned  within a bigger ecosystem!</h1>
  <p>This stuff about &ldquo;sanctioning bad behavior&rdquo; only makes sense if the whole ecosystem is corrupt. This is very likely the case in a  business. But in a <span class='_paradigm'>Radical</span> company even if a few co-owners drink too much Kool-Aid, the others will raise the red flag.</p>
- <p>In any case, this is not about &ldquo;sanctioning.&rdquo; It is about applying the same Core Design Principle to any interactions with other groups within the same organization managing a Common Pool Resource,</p>
+ <p>In any case, this is not about &ldquo;sanctioning.&rdquo; It is about applying the same <em>Core Design Principle</em> to any interactions with other groups within the same organization managing a Common Pool Resource,</p>
 
-<h1 style="font-size:30px; ">Can you say more about the boundaries of users and resource?</h1>
+<h1 style="font-size:30px; ">Can you say more about the boundaries of users and resources?</h1>
   <ul>
    <li>Congruence between benefits and costs</li>
    <li>Users had procedures for making own rules</li>
    <li>Regular monitoring of users and resource condition</li>
-   <li>Graduated sanctions</li>
+   <li>Graduated sanctions (which in Radical-based companies, reduces to conversations)</li>
    <li>Conflict resolution mechanism</li>
   </ul>
  <p>For more information, see the <em>Ostrom&rsquo;s Core Design Principles</em> book appendix.</p>
@@ -177,10 +178,10 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 style="font-size:30px; ">If &ldquo;businesses are broken,&ldquo; how can it be that they are more successful than ever?</h1>
  <p>More <em>financially</em> successful, yes. On the other hand, engagement and tenure are going down, innovation is much talked about but non-existent in practice, burnout and suicides are going up.</p>
- <p>No question that <em>financially</em> businesses are going up, but the financial &ldquo;rewards,&rdquo; the dividends, are going to fewer and fewer while the price, emotional damage and diminished health, is being paid by more and more.</p>
+ <p>No question that <em>financially</em> businesses are going up, but the financial &ldquo;rewards,&rdquo; the dividends, are going to fewer and fewer people while the price, emotional damage and diminished health, is being paid by more and more.</p>
 
 <h1 style="font-size:30px; ">How do we do this [transformation] even for the people that do not want it or are not ready for it?</h1>
- <p>We cannot &ldquo;do this&rdquo; for anybody. With this book, we are simply trying to make everybody aware of the system we are immersed in: we are making us fish aware that we live in water and how this shapes us. As <span class='_paradigm'>Radical</span> ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.</p>
+ <p>We cannot &ldquo;do this&rdquo; for anybody. With this book, we are simply trying to make everybody aware of the system we are immersed in in, which is like making fish aware that they live in water. As <span class='_paradigm'>Radical</span> ideas become more widely known and more people go from I-am-curious to I-am-ready, companies will start to transform. This will be evolutionary, from living in water to living on land. Through it all, we'll find out what works and what doesn't for every particular company.</p>
  <p>Rather than dictate yet-another overly detailed structure, we are proposing a few foundational basics,</p>
   <div class='_center'>
    <table class='_h2table'>
