@@ -207,15 +207,15 @@ image:    "icon-radical-companies-faq.svg"
  <p>K2K Emocionando in Spain has been helping companies transform to co-management since 2007. Krisos, also in Spain, is also doing it now, although they are buying companies to get the old, reticent owners out of the way. The company I co-founded, and sold successfully, was co-managed from the start.</p>
  <p>We don&rsquo;t know of any business being co-owned, but they are starting.</p>
 
-<h1 style="font-size:30px; ">Are we <em>really</em> &ldquo;drowning in scarcity?&rdquo;</h1>
- <p><em>We are not</em> drowning in scarcit. We are drowning in enclosures of abundance. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don&rsquo;t function as adults. We don&rsquo;t live as much as we exist.</p>
+<h1 style="font-size:30px; ">Are we <em>really</em> &ldquo;drowning&rdquo; in scarcity?</h1>
+ <p><em>We are not</em> drowning in scarcity. We are drowning in enclosures of abundance. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don&rsquo;t function as adults. We don&rsquo;t live as much as we exist.</p>
  <p>We are financially dependent on our jobs. And we live in fear of falling into destitution if we step outside the box.</p>
 
 <h1 style="font-size:30px; ">Maybe use a less &ldquo;devastating, negative and martial&rdquo; language when talking about businesses?</h1>
  <p>We tried not to make it sound like war, but probably got over-enthusiastic in places.</p>
  <p>At this point there are people who recognize the problem and are looking for ways out of it. They will not feel threatened.</p>
- <p>No language will move people who are squarely committed to the status quo. On the other hand, we don not want to equivocate the fundamental message that the status quo is killing us and we have to find alternatives.</p>
- <p><span class='_paradigm'>Radical</span> offers an altenative <span class='_paradigm'>Foundation</span>.</p>
+ <p>No language will move people who are squarely committed to the status quo. On the other hand, we do not want to equivocate the fundamental message that the status quo is killing us and we have to find alternatives.</p>
+ <p><span class='_paradigm'>Radical</span> offers an alternative <span class='_paradigm'>Foundation</span>.</p>
 
 <h1 style="font-size:30px; ">Voting may be a limited way of making decisions, but how can it be overcome, particularly in larger organizations?</h1>
  <p>Every so often we will get a letter from a company asking us to &ldquo;please, vote&rdquo; for a new Board. However, there's usually a given slate of Board candidates already selected and, at best, you can write in a candidate or two. In the end, the system remains and the new Board operates like the old Board. Every few years we get to vote for our &ldquo;leaders&rdquo; in the US. Your vote counts to determine who gets elected, but it doesn&rsquo;t change the system they operate in. This is one problem with voting.</p>
