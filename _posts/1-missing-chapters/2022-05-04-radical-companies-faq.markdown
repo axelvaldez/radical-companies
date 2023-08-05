@@ -143,7 +143,14 @@ image:    "icon-radical-companies-faq.svg"
  <p>Co-management is very basic to the <span class='_paradigm'>Radical</span> approach. People have to make their own decisions without being afraid of losing their livelihood.</p>
 
 <h1 style="font-size:30px; ">What do I have to give up?</h1>
- <p>The illusion of control, the myth that life is nothing but winning and losing, competitive silos, stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate.</p>
+  <ul>
+   <li>The illusion of control</li>
+   <li>The myth that life is nothing but winning and losing</li>
+   <li>Competitive silos</li>
+   <li>Stress</li>
+   <li>The obsession with &ldquo;getting rich&rdquo;</li>
+   <li>The drive to dominate.</li>
+  </ul>
  <p>What you get instead is a company that creates more wealth, for more people, a better quality of life for all, more innovation, less risky, more resilient and scalable, and a learning, collaborative culture. At least.</p>
 
 <h1 style="font-size:30px; ">If the benevolent owners are fairly young, self-management is not a big risk, right?</h1>
