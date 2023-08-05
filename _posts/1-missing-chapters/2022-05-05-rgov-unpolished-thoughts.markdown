@@ -94,7 +94,7 @@ image:    "icon-gov.svg"
  <p>Under the <span class="_paradigm">Radical</span> model I would like to think that people would want to collaborate rather the win. And if wishes were horses&hellip</p>
 
 <h1>National Government</h1>
- <p>Maybe bigger things like the Space Station and planetary research may remain in the hands of a team with mltiple <span class="_paradigm">Banners</span> feeding it.</p>
+ <p>Maybe bigger things like the Space Station and planetary research may remain in the hands of a team with multiple <span class="_paradigm">Banners</span> feeding it.</p>
 
 <h1>Worth Repeating</h1>
  <p>This may be a difficult read and it may be worth repeating here about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current <span class="_paradigm">Fiat</span> world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and for a long time their impulse would want to sweep under the proverbial rug.</p>
