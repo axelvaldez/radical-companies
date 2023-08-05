@@ -22,7 +22,7 @@ image:    "icon-rland.svg"
  <p id="fnref2">In <em>Another Now</em>, Yanis Varoufakis envisions all land as a commons controlled by &ldquo;Region&rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Henry George saw the land as one thing and anything sitting on it as separate, so his proposed single tax would <em>tax the land, but not the improvements</em>. People like Joeri Torfs and Pim Ampe, have envisioned land <em>and</em> improvements as being perennially open for sale as a (very clever) alternative.</p>
  <p>My own working model is that,</p>
   <ul>
-   <li>Treating land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
+   <li>Treat land <em>and</em> improvements as one thing&mdash;it would be difficult, at best, to separate the two in people&rsquo;s minds for the foreseeable future.</li>
    <li>The combo would always be open for bids, so that use privilege would be determined by <em>a market dedicated to calculating land value</em>.</li>
   </ul>
  <p>Having all land perennially open for bids creates a decentralized market, able to calculate its current value. That is because the winning bid will reflect the perceived value of the land, any improvements, its location, and, just as importantly, the value of contributions made by the community around it,</p>
@@ -81,8 +81,8 @@ image:    "icon-rland.svg"
  <p>The adjacent, hyper-local community also has a big say and can do significant works when combined with what other occupiers contribute to the fund. Ditto for the surrounding community.</p>
  <p>I am not sure about &ldquo;Region&rdquo; and &ldquo;State,&rdquo; thus the question marks, but I suspect the latter will be around for a long time.</p>
 
-<h1>What about the the Military?</h1>
- <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw from. Rather than a &ldquo;Region&rdquo; the way to decentralize, I believe, it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>Banner</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
+<h1>What about the Military?</h1>
+ <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw from. Rather than a &ldquo;Region&rdquo; the way to decentralize, I believe, is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>Banner</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;—instead, I am counting on people&rsquo;s interests and their persuasive power when impassioned enough.</p>
 
 <h1>The Country?</h1>
  <p>Note that there is no &ldquo;Region&rdquo; circle and this means that there would not be a fund that traditionally countries could draw for. Rather than a &ldquo;Region&rdquo; the way to decentralize it is to fund big, audacious, long-term projects (<em>e.g.</em>, space, fusion, and other research) individually. For example, companies and each of the circles above could contribute part of their funds to a <span class='_paradigm'>Banner</span> earmarked for a research area. I am not counting on the &ldquo;Region&rdquo; of people or &ldquo;Region&rdquo;&mdash;instead, I am counting on people&rsquo;s interests and the persuasive power of their enthusiasm.</p>
@@ -92,7 +92,7 @@ image:    "icon-rland.svg"
  <p id="fnref3">But, how n&auml;ive, you might say, all it takes is a <em>few bad people</em> with weapons to take over everything, won&rsquo;t it? Again, I am counting on &rsquo;s aversion to violence and how swiftly they can mobilize in a connected world to neutralize the violence of the &ldquo;Region&rdquo;<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Community Fund Governance</h1>
- <p>The &ldquo;Region&rdquo; in the pictures could be governed jointly or individually. For example, hyper-local community circles (26%) may join up to create a park. Surrounding communites (3%) may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create <em>common goods</em>.</p>
+ <p>The &ldquo;Region&rdquo; in the pictures could be governed jointly or individually. For example, hyper-local community circles (26%) may join up to create a park. Surrounding communities (3%) may pool their funds to create a bullet train through the region. Keep in mind that when aggregated, Region and State circles have a pretty big pool of actual cash to create <em>common goods</em>.</p>
  <p style="font-family:courier new; text-align:center; width:80%; border:silver dotted 1px; margin:auto; margin-bottom:20px;  ">
   <img src="/assets/img/en-community-funds-intertwined.svg" alt="Five intertwined circles. the top two are intertwined at the Hyper-Local Community level (in yellow). Next two circle are intertwined at the Community level (l)ight orange). Next two are intertwined at the Region level (liht pink). The last two are intertwined at the State level (light brown)." title="Community Funds–Intertwined">
  </p>
