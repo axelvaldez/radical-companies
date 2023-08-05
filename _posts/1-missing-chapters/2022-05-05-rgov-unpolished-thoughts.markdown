@@ -106,7 +106,7 @@ image:    "icon-gov.svg"
  <p>Throughout the stuff above, there is a general disregard for the separation of powers so central to democracy today. That system was designed as a confrontation which does not allow any party to achieve victory. Every branch of government monitors and regulates the other branches. That was the <span class="_paradigm">Fiat</span> solution to not having a King or Queen. It probably was a terrific solution for the 18<sup>th</sup> century, but we are in the 21<sup>st</sup> century now. We have the technology to change.</p>
 
 <h1>The Radical Model</h1>
- <p>We are used to companies being controlled by <span class="_paradigm">Fiat</span> hierarchies, with an owner at the top. He sends down commands that tells people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it.</p>
+ <p>We are used to companies being controlled by <span class="_paradigm">Fiat</span> hierarchies, with an owner at the top. He sends down commands that tell people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it.</p>
  <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is a group of people coming together to create something bigger they can do individually.</p>
  
 <h1>Business Are not Companies</h1>
