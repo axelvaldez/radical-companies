@@ -98,7 +98,7 @@ image:    "icon-gov.svg"
 
 <h1>Worth Repeating</h1>
  <p>This may be a difficult read and it may be worth repeating here about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current <span class="_paradigm">Fiat</span> world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and for a long time their impulse would want to sweep under the proverbial rug.</p>
- <p>The only difference&mdash;the big difference&mdash;is that the <span class="_paradigm">Radical</span> system would nudge us to collaboration rather than competition.</p>
+ <p>The only difference&mdash;the big difference&mdash;is that the <span class="_paradigm">Radical</span> system would nudge us towards collaboration rather than competition.</p>
  <p>The <span class="_paradigm">Fiat</span> system is based on separating us: my countries against the shithole countries; my towns against every other town; good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, lies. This leaves us disconnected and drives us to isolation. This works for a world where money comes first, ahead of everything else including people.</p>
  <p>A <span class="_paradigm">Radical</span> world prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We&rsquo;ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number nor angels: our communities will help us to lean away from those extremes.</p>
 
