@@ -48,7 +48,7 @@ image:    "icon-gov.svg"
  <p>Local city road construction and maintenance remains a task that somebody has to do. Imagine a company whose &ldquo;product&rdquo; is the public good, with expertise of where the roads are needed, and whose &ldquo;performance&rdquo; would then be measured via <span class="_paradigm">RAD</span>s.</p>
  <p>The actual construction of the roads would be 1) funded by the community that needs it and 2) built by companies that have expertise in doing so and are highly valued by the communities that finance them, again, as measured by <span class="_paradigm">RAD</span>s.</p>
 
-<h1>Infrastructe</h1>
+<h1>Infrastructure</h1>
   <p>Companies will be responsible for <em>coordinating</em> planning and construction.</p>
    <div class='_center'>
     <table class='_h2table'>
