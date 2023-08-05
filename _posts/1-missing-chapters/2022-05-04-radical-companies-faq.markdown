@@ -140,7 +140,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>If by &ldquo;circles&rdquo; you mean yet-another-hierarchy that are inimical to co-management and co-ownership.</p>
 
 <h1 style="font-size:30px; ">Does a company need to be co-managed to Radical?</h1>
- <p>Co-management is very basic to the <span class='_paradigm'>Radical</span> approach. People have to make their own decision without being afraid of losing their livelihood.</p>
+ <p>Co-management is very basic to the <span class='_paradigm'>Radical</span> approach. People have to make their own decisions without being afraid of losing their livelihood.</p>
 
 <h1 style="font-size:30px; ">What do I have to give up?</h1>
  <p>The illusion of control, the myth that life is nothinh but winning and losing, competitive silos, stress, the obsession with &ldquo;getting rich,&rdquo; and the drive to dominate.</p>
