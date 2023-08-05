@@ -136,7 +136,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>In general, we don&rsquo;t know what Purpose is. To us it is the <em>why</em> component of an <span class='_paradigm'>Explicit Alignment.</span> We want to make newcomers aware of what our <em>why</em> is so they can decide if they still want to join us.</p>
 
 <h1 style="font-size:30px; ">How would this work with our Circle framework?</h1>
- <p>&ldquo;Circles&rdquo; is a practice that can work for you. Non-hierarchical circles come together and dissolve, as needed; their scope is limited to the task at hand.</p>
+ <p>&ldquo;Circles&rdquo; is a <em>practice<em> that can work for you. Non-hierarchical circles come together and dissolve, as needed; their scope is limited to the task at hand.</p>
  <p>If by &ldquo;circles&rdquo; you mean yet-another-hierarchy that are inimical to co-management and co-ownership.</p>
 
 <h1 style="font-size:30px; ">Does a company need to be co-managed to Radical?</h1>
