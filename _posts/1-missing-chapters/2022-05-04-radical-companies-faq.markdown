@@ -123,14 +123,14 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 style="font-size:30px; ">Aren&rsquo;t the liquidity suggestions super complex? What about tax-wise? Do we want the people to deal with that?</h1>
  <p>We never said anything about taxes and laws because we don&rsquo;t know much about them.</p>
- <p>We have been accused of being impractical, but it is not so much that as these ideas are different and unfamiliar.</p>
+ <p>We have been accused of being impractical, but it is not so much that these ideas are different and unfamiliar.</p>
 
 
 <h1 class="_section">Co-Management</h1>
 
 <h1 style="font-size:30px; ">What about titles?</h1>
  <p>In a co-managed company there are no  titles.</p>
- <p>People perform functions that have to be done according to the skills people have. People work together in teams (fluid) but there are no departments (static).</p>
+ <p>People perform functions that have to be done according to the skills people have. People work together in teams (fluid), but there are no departments (static).</p>
 
 <h1 style="font-size:30px; ">How would this work with our Purpose?</h1>
  <p>In general, we don&rsquo;t know what Purpose is. To us it is the <em>why</em> component of an <span class='_paradigm'>Explicit Alignment.</span> We want to make newcomers aware of what our <em>why</em> is so they can decide if they still want to join us.</p>
