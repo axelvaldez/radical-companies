@@ -204,8 +204,8 @@ image:    "icon-radical-companies-faq.svg"
  <p>Note that this is not a way of ranking one company against another. But you can use this foundation to measure your company&rsquo;s progress over time</p>
 
 <h1 style="font-size:30px; ">How can a  company transform to a Radical model?</h1>
- <p>K2K Emocionando in Spain has been helping companies transform to co-management since 2007. Krisos, also in Spain, is also doing it now. The company I founded, Nearsoft now renamed Encora, was co-managed from the start.</p>
- <p>We don't know of any business go into co-ownership, so we are doing our own.</p>
+ <p>K2K Emocionando in Spain has been helping companies transform to co-management since 2007. Krisos, also in Spain, is also doing it now, although they are buying companies to get the old, reticent owners out of the way. The company I co-founded, and sold successfully, was co-managed from the start.</p>
+ <p>We don&rsquo;t know of any business being co-owned, but they are starting.</p>
 
 <h1 style="font-size:30px; ">Are we <em>really</em> &ldquo;drowning in scarcity?&rdquo;</h1>
  <p><em>We are not</em> drowning in scarcit. We are drowning in enclosures of abundance. In fact, most people alive today live in financial splendor compared with the royalty of old. On the other hand, we definitely lack time, mental health, choices, and are generally stunted in our ability to live a full life. At work, we don&rsquo;t function as adults. We don&rsquo;t live as much as we exist.</p>
