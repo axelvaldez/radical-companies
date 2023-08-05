@@ -106,7 +106,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 style="font-size:30px; ">Is the Radical model really &ldquo;fair?&rdquo; Doesn&rsquo;t it risk becoming a demotivator?</h1>
  <p>Fairness and equality are the children of the <span class='_paradigm'>Fiat</span> mindset.</p>
- <p>The goal is to recognizing personal contributions. And this is better done by the people who are close to that effort. One line of code makes everything great for the whole team while another line of code, makes a mess of things. People in the team will readily recognize which is a plus and which is not.</p>
+ <p>The goal is to recognize personal contributions. And this is better done by the people who are close to that effort. One line of code makes everything great for the whole team while another line of code makes a mess of things. People in the team will readily recognize which is a plus and which is not.</p>
  <p>If I think it was great, but I get no <span class='_paradigm'>RAD</span>s, then I call for feedback. If the feedback is not resonating with me, then I leave. The problem today is that people&rsquo;s livelihoods are deeply tied to employment. In the US, your health insurance is tied to your job and if your wife is 7 months pregnant, then you have to bite your lip and stick around for two more months and maybe longer. In other words, the current system is the problem.</p>
  <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier.</p>
 
