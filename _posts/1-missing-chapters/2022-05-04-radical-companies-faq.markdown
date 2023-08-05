@@ -232,7 +232,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>There is no &ldquo;evidence&rdquo; because there are no <span class='_paradigm'>Radical</span> companies around. In the US we&rsquo;ve identified only one that comes close, W L Gore.</p>
  <p>We can extrapolate from the financial performance of businesses which practice co-management, or have set up an ESOP, or those that practice Open Book Management. Even then, these businesses perform financially better than strict  businesses. Imagine where they could go with co-ownership.</p>
 
-<h1 style="font-size:30px; ">Is the Radical approach risak slowly killing innovation and progressive ideas?</h1>
+<h1 style="font-size:30px; ">Won&rsquo;t the Radical approach risk slowly killing innovation and progressive ideas?</h1>
  <p>Quite the opposite. Businesses put up a lot of barriers to any innovative and progressive proposal that doesn&rsquo;t come from the boss or his circle.</p>
  <p>Decentralization means that ideas can come from anybody in the company. Funding the implementation of those ideas is up to the co-owners which may support it.</p>
  <p>Over time, each company will learn which ideas are more aligned with their <span class='_paradigm'>Impact</span> and which are not.</p>
