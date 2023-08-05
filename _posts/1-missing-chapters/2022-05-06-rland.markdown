@@ -47,6 +47,7 @@ image:    "icon-rland.svg"
        <p id="fnref2" style="font-size:smaller; text-align: justify; font-family:helvetica, sans-serif; font-style:italic; margin-bottom:3px; ">
         <p style='font-size:larger; '>&ldquo;EVERYBODY WORKS BUT THE VACANT LOT&rdquo;</P>
         <p style='font-size:smaller; '>I paid $3600 for this lot and will hold &lsquo;till I get $6000. The profit is unearned increment made possible by the presence of this community and enterprise of its people. I take the profit without earning it. For the remedy read &ldquo;<span style='font-size:larger; '>HENRY GEORGE</span>&rdquo;</p>
+       </p>
        <p style="font-size:smaller; text-align:right; font-family:helvetica, sans-serif; font-style:italic; margin-top:0;"><em>— Yours Truly, Fay Lewis</em><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
       </div>
      </td>
