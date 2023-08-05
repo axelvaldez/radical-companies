@@ -238,7 +238,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>Over time, each company will learn which ideas are more aligned with their <span class='_paradigm'>Impact</span> and which are not.</p>
 
 <h1 style="font-size:30px; ">How many super successful projects and strategies would have never seen the light of day if it weren&rsquo;t for the founders?</h1>
- <p>In a  organization, the boss, and his circle, decide who gets how much for which project. A few decide which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative. Whitepapers will be written about it.</p>
+ <p>In an organization, the boss, and his circle, decide who gets how much for which project. A few decide which idea gets implemented. If it turns out to be a financial win, the boss will pat himself on the back for being innovative. Whitepapers will be written about it.</p>
  <p>If it doesn&rsquo;t turn out, then nobody will talk about it.</p>
  <p>In a <span class='_paradigm'>Radical</span>-based company, everybody has the opportunity to put a <span class='_paradigm'>Banner</span> and to allow other co-owners to invest in their project. This opens the door to more innovation to come from all over, not just a select few. If you start to implement it and it becomes obvious that it is not going to work, the co-owners working on it will talk to you. If it looks like it is going to work, the co-owners working on it will probably push a bit harder to get it out the door sooner.</p>
 
