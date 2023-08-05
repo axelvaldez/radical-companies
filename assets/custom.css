@@ -329,8 +329,10 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
 }
 span._paradigm {
+  /*
   font-weight:500;
-  background-color:#d9d9d9;
+   */
+  background-color:#808080;
 }
 ._underDev {
   font-weight:bold;
