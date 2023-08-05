@@ -61,7 +61,7 @@ image:    "icon-radical-companies-faq.svg"
    <li>You want a better quality of life for yourself and those around you.</li>
    <li>You want the company to grow.</li>
    <li>You want to take more chances.</li>
-   <li>You want to minimizing risks.</li>
+   <li>You want to minimize risks.</li>
    <li>You want the company to outlast you.</li>
  </ul>
 
