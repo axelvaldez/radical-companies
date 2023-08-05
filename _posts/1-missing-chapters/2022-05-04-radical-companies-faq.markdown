@@ -102,7 +102,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>He may say, “oh, but that’s an Angel investment.” But keep talking. He may be willing to go for the “return” to be a percentage of profits for, say, five years.</p>
 
 <h1 style="font-size:30px; ">What happens if the company gets acquired?</h1>
- <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that cash you pay off any outstanding debt and distribute the rest according to the <span class='_paradigm'>RAD</span>s that each co-owner has. For example, if you end up with 10% of all the <span class='_paradigm'>RAD</span>s, then you get 10% of the sale amount.</p>
+ <p>We don&rsquo;t envision <span class='_paradigm'>Radical</span> companies being sold, but if that&rsquo;s the way it turns out, then, as in any such transaction, you trade the company&rsquo;s stock for the purchase amount. With that cash you pay off any outstanding debt and distribute the rest according to the <span class='_paradigm'>RAD</span>s that each co-owner has. For example, if you end up with 10% of the <span class='_paradigm'>RAD</span>s, and I end up with 5%, you get twice as much as I do</p>
 
 <h1 style="font-size:30px; ">Is the Radical model really &ldquo;fair?&rdquo; Doesn&rsquo;t it risk becoming a demotivator?</h1>
  <p>Fairness and equality are the children of the <span class='_paradigm'>Fiat</span> mindset.</p>
