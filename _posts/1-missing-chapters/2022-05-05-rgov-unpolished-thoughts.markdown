@@ -89,7 +89,7 @@ image:    "icon-gov.svg"
  </div>
 
 <h1>State Government</h1>
- <p>The main function of State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the State level, as well as the State police, and its National Guard.</p>
+ <p>The main function of the State government seems to be standing in the way of what progressive cities want to do or pushing conservative cities to do something they don&rsquo;t really want to. Other than that, they handle water harvesting and distribution at the State level, as well as the State police, and its National Guard.</p>
  <p>Water is a good case to think through. Residential water versus irrigation water is a fight that has been going on in California for a long time. Central Valley versus coastal areas. Producers versus consumers. Talking points that go straight for the emotional buzzer. And really the whole thing is about who is going to rule water? The State government is left to compromise. That&rsquo;s the <span class="_paradigm">Fiat</span> way.</p>
  <p>Under the <span class="_paradigm">Radical</span> model I would like to think that people would want to collaborate rather than win. And if wishes were horses&hellip;</p>
 
