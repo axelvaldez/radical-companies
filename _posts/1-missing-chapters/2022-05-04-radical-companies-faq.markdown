@@ -111,7 +111,7 @@ image:    "icon-radical-companies-faq.svg"
  <p>My hope is that over time changing how companies are governed and owned will spill out and change the system we live in and make things healthier.</p>
 
 <h1 style="font-size:30px; ">Do you know of other models for handling salaries?</h1>
- <p>There are a couple of companies in Argentina and a few in Europe that are experimenting with salaries. Ricardo Semler experimented with self-assigned salaries at SEMCO, in the late 1970s.</p>
+ <p>There are a couple of companies in Argentina and a few in Europe that are experimenting with salaries. Ricardo Semler experimented with self-assigned salaries at SEMCO, in the late 1970s early 1980s.</p>
  <p> In the cases we know of, they are still considered wages. We are so used to the work-for-money system that we don&rsquo;t question it. We don&rsquo;t even  realize that it is more like, &ldquo;I create wealth for you, and you give me a fixed amount of money that&rsquo;s unrelated to the wealth generated.&rdquo;</p>
  <p>Things like a capped ratio of highest to lowest wage (<em>e.g.</em>, cooperatives) didn&rsquo;t resonate with us. It is an arbitrary compression of wealth extraction, divorced from contributions.</p>
  <p>Instead of &ldquo;wages&rdquo; or &ldquo;compensation,&rdquo; we looked at it from the point of view of wealth extraction and things started to fall in place for us. For the people who embody a company, the PRI model described in the book is clearly tied to the contributions everyone makes and the wealth created by it. For an investor, it makes it completely transparent how much goes into financially taking care of people versus other expenses and investments.</p>
