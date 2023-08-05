@@ -109,7 +109,7 @@ image:    "icon-gov.svg"
  <p>We are used to companies being contolled by <span class="_paradigm">Fiat</span> hierarchies, with an owner at the top. He sends down commands that tells people <em>what</em> to do, <em>how</em> to do it, and <em>when</em> to do it.</p>
  <p>In the <span class="_paradigm">Radical</span> model, a <em>company</em> is a group of people coming together to create something bigger they can do individually.</p>
  
-<h1>Business Rre not Companies</h1>
+<h1>Business Are not Companies</h1>
  <p>Other labels abound, but we chose the word &ldquo;company&rdquo; because it has an interesting etymology: it comes from the Latin <em>con-</em> and <em>pan</em>. The prefix <em>con-</em> means &ldquo;together, with&rdquo; and <em>pan</em> means &ldquo;bread, food.&rdquo; At its root, then, <em>company</em> means &ldquo;people who break bread together.&rdquo; In the <span class="_paradigm">Radical</span> model a company is a community of people who come together to contribute broad value to society and make an impact on the world.</p>
  <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to govern and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
   <div class="_center">
