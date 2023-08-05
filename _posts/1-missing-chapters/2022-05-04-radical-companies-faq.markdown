@@ -94,7 +94,7 @@ image:    "icon-radical-companies-faq.svg"
   <li>Co-owners have the wherewithal to come up with solutions or ways around a problem. No energy is wasted into hiding a significant problem.</li>
   <li>There is very little chance of, say, a founder taking the company in the wrong direction for long. In a co-owned company co-owners will notice, voice their concerns, and do something about it.</li>
 </ul>
- <p>This is <em>not</em> to say that a <span class='_paradigm'>Radical</span> investment is less risky than the traditional capital investment. But everyone in the company, and not just a select few, is committed to the company&rsquo;s success.</p>
+ <p>This is <em>not</em> to say that a <span class='_paradigm'>Radical</span> investment is less risky than the traditional capital investment. But everyone in the company, and not just a select few, is personally committed to the company&rsquo;s success.</p>
 
 <h1 style="font-size:30px; ">Do I have to say no to investors?</h1>
  <p>As a class, VC investors won&rsquo;t understand any of this. They&rsquo;ll think it is nuts and walk away before you get a chance to say no.</p>
