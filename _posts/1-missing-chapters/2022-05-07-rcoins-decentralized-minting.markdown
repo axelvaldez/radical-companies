@@ -105,7 +105,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
     style="text-align:center; width:90%; "
    >
   </div>
- <p>They do this starting from a simple Foundation,</p>
+ <p>Radical companies do this starting from a simple Foundation,</p>
   <div class="_center">
    <table class="_h2table">
     <tr>
@@ -220,11 +220,11 @@ image:    "icon-rcoins-decentralized-minting.svg"
  
 <h1>rCoin Value</h1>
  <p>The face value of national fiat coins is fixed forever. At least, that is true for reserve currencies. Other national fiat coins are not so lucky: their face value stays put, but their purchasing  power fluctuates, sometimes wildly.</p>
- <p><span class="_paradigm">rCoin</span>s have a face value of one. It is backed by people who come together as <span class="_paradigm">RADICAL COMPANIES</span> to create broad value for society. It is free from national and international politics and manipulation.</p>
+ <p><span class="_paradigm">rCoin</span>s have a face value of one. It is backed by people who come together as <span class="_paradigm">Radical Companies</span> to create broad value for society. It is free from national and international politics and manipulation.</p>
  <p>The face value of <span class="_paradigm">rCoin</span>s never changes but the information in its log may. Based on all of that, each of us gets to decide whether or not to accept the <span class="_paradigm">rCoin</span>s given the risks and benefits indicated in its log.</p>
 
 <h1>Different Companies, Different Values</h1>
- <p>As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example.</p>
+ <p>As it is today, different companies will end up with different values and their co-owners will have more or less purchasing power. For example,</p>
   <ul>
    <li>Company BenCO earns 100 <span class="_paradigm">rCoin</span>s.</li>
    <li>Company JerryCo earns 1,000 <span class="_paradigm">rCoin</span>s.</li>
@@ -236,12 +236,12 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p><span class="_paradigm">rCoin</span>s are backed up by the <span class="_paradigm">RADICAL COMPANIES</span>, not national governments. This means that the <span class="_paradigm">rCoin</span>&rsquo;s &ldquo;value&rdquo; is determined by what each company brings to society and by its co-owners&rsquo; sensitivities.</p>
   <p>This last bit is really important.</p>
  <p>In today&rsquo;s businesses, the owners can do whatever they want. Although the same is technically true for a <span class="_paradigm">RADICAL COMPANY</span> it will be a lot more unlikely that all co-owners would agree to do something that goes against their own values, health, and communities.</p>
- <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of CarelessCO co-owners to at least get a conversation going. If they harm affects many such communities and all CarelessCO co-owners refuse to engage, they can simply record the failed discussion to CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
+ <p>For example, if a community feels harmed by the actions of CarelessCO they can make their case to a few of CarelessCO co-owners to at least get a conversation going. If the harm affects many such communities and all CarelessCO co-owners refuse to engage, they can simply record the failed discussion to CarelessCO&rsquo;s <span class="_paradigm">rCoin</span>s. Some people may interpret this as a high risk (to society) while others may see it differently. We all get to decide.</p>
 
 <h1>rCoin Risks and Benefits</h1>
  <p>There is plenty of evidence that shows that a currency, one that actually actually flows, can benefit a society,<a href="#en18"><sup id="bm18">&hairsp;&nabla;&hairsp;</sup></a> while money stuffed under a mattress only benefits the hoarder.</p>
- <p>People have figured out that, in the <span class="_paradigm">Fiat</span> world one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will &ldquo;rot&rdquo;). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that &ldquo;inflation is bad,&rdquo; but we cannot do anything about it.</p>
- <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There&rsquo;s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used outside local levels. The poster child of demurrage is the <em>Miracle of W&ouml;rgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a>.</p>
+ <p>People have figured out that, in the <span class="_paradigm">Fiat</span> world, one way to keep money flowing is by having it lose its value over time (<em>i.e.</em>, there is no point in hoarding it because it will &ldquo;rot&rdquo;). This can be done by inflation or demurrage. Inflation, the decline of purchasing power, has been the preferred method of national governments. Governments can do this by several means, including by tweaking interest rates, which impacts the supply of national fiat coins. We all know that &ldquo;inflation is bad,&rdquo; but we cannot do anything about it.</p>
+ <p>The other approach is by demurrage, where coins <em>lose</em> their value over time. There&rsquo;s been a number of local deployments of demurrage coins and they are generally beneficial to the local economy. However, as far as I know, demurrage has never been used outside local levels. The poster child of demurrage is the <em>Miracle of W&ouml;rgl."</em><a href="#en19"><sup id="bm19">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>During the Great Depression, the town of W&ouml;rgl, Austria, was quickly running out of money, like most of the world. The mayor issued W&ouml;rgls to pay people for doing local jobs and the local shops agreed to accept them. The bills had to be stamped every week in order to keep them valid, and every stamp reduced the value of these coins. This kept the notes in circulation. So much so, that people even paid taxes earlier rather than let their currency &ldquo;rot.&rdquo;</p>
  <table>
   <tr>
