@@ -100,7 +100,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>Rather than having an owner and a hierarchy of bosses, a <span class="_paradigm">Radical</span> company has co-owners and co-managers to co-own and operate it. These people align themselves according to the impact they want to make, why they are doing so, and then they embark on many experiments to get there.</p>
   <div class="_center">
    <img
-    src="/assets/img/en-alignment.svg"
+    src="/assets/img/pic-radical-alignment-en.svg"
     alt="Three middle fingers up, as in the Scout Salute, serves as a mnemonic for the three elements of <alignment: the middle finger stands for IMPACT, the index finger for PURPOSE, and the ring finger for MISSION"
     style="text-align:center; width:90%; "
    >
