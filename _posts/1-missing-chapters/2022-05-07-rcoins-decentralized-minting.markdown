@@ -487,7 +487,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    </li>
    <li id="en04">
     <p class="_list-item">
-     M1 is a <em>measure</em> of how much fiat currency there is, not a backing for it.
+     M1 is the most narrow definition of money supply. It is a <em>measure</em> of how much fiat currency there is, not a backing for it.
      &lt;<a href="https://radicals.world/HlOzNL" target="_blank">https://radicals.world/HlOzNL</a>&gt;
      <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
