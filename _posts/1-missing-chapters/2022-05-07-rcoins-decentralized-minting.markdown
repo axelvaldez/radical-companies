@@ -265,7 +265,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    alt="Table, with RISKS along the horizontal axis and BENEFITS along the vertical axis. 1) When rCoins are low in RISKS and BENEFITS, there is high acceptance of them. 2) When rCoins come with high RISKS and low BENEFITS, there will resistance to accept them. 3) When rCoins come with low RISKS and high BENEFITS, they have high acceptance. 4) When rCoins have high RISKS and high BENEFITS, there will be a high resistance to accepting them.">
 
 <h1>Calculating Risk</h1>
- <p>A <span class="_paradigm">rCoin</span>‘s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
+ <p>A <span class="_paradigm">rCoin</span>&rsquo;s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
  <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Calculating Benefits</h1>
@@ -293,7 +293,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
 <h1 class='_section'>Appendix: Bad Actors</h1>
-  <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behavior: gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
+  <p>There may not be as many bad actors as we think. We probably have a preponderance of them today because 1) they make the news, and 2) we live in a system that is meant to reward bad behaviorreward bad behavior. Gaming is part and parcel of the system. As we find out, we patch it to prevent other bad actors from exploiting the same weakness. But then the next batch of bad actors become wealthy by discovering and exploiting new weaknesses.</p>
   <p>We don&rsquo;t normally think of these, below, as bad actors. But they are. They fall back on their <span class="_paradigm">Fiat</span> world habits and are a drag on moving forward to a <span class="_paradigm">Radical</span> world.</p>
    <div class="_center">
     <table class="_h2table">
@@ -349,13 +349,13 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <td>
      <p>If that sounds &ldquo;crazy,&rdquo; then the financial system we have today is crazier. And it is business hostile, on top.</p>
      <p><span class="_paradigm">rCoin</span>s minted by BenCO carry a log which includes all the information related to their creation and the behavior of the backers. The co-owners are motivated to retire the <span class="_paradigm">rCoin</span>s they minted in the time promised. If they don&rsquo;t do that, fewer and fewer sellers will accept their <span class="_paradigm">rCoin</span>s. Their buying power will go down the drain in a hurry.</p>
-     <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. National fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry super computers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
+     <p>The &ldquo;rules&rdquo; required to keep national fiat coins in line are needed only because they are easy to cheat with. National fiat coins always have the same value, whether it comes from criminal or legit business. A dollar that came from an illegal transaction looks and it is worth the same as a dollar that came from selling candy. <span class="_paradigm">rCoin</span>s, on the other hand, carry their history in their logs and today we carry supercomputers in our pockets that can figure the difference in an instant and figure out what is their worth. And there is no way to hide or screw with the information.</p>
     </td>
    </tr>
    <tr>
     <th>What prevents a company from continuously taking on new debt to retire old debt?</th>
     <td>
-     <p>Co-owners could decide to do this, but it goes on the record for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
+     <p>Co-owners could decide to do this, but it goes <em>on the log</em> for everyone to see. As sellers detect that pattern, they would shy away from the company&rsquo;s <span class="_paradigm">rCoin</span>s.</p>
     </td>
    </tr>
    <tr>
@@ -368,7 +368,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <th>The potato grower uses the rCoins he got from selling her potatoes to buy a shovel. But then she discovers that the town&rsquo;s shovel-maker raised his prices so that he can buy metal and wood to make more shovels.</th>
     <td>
      <p>Yes, that could happen. Like it does today.</p>
-     <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel make is stubborn, too, he would go out of business. Or it coulde happen that the stubborn shovel maker is not so stubborn after all and would ask the new kind in town and the kid would tell him.</p>
+     <p>Eventually, another shovel-maker would appear and make shovels that people can afford. If the expensive shovel maker is stubborn, too, he would go out of business. Or it could happen that the stubborn shovel maker is not so stubborn after all and would ask the new kind in town and the kid would tell him.</p>
      <p>They are not competing.</p>
     </td>
    </tr>
