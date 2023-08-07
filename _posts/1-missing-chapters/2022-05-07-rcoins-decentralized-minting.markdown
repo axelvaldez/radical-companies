@@ -494,7 +494,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    </li>
    <li id="en05">
     <p class="_list-item">
-     555 For example, see
+     For example, see
      <em>Local Exchange Trading System (LETS)</em>
      &lt;<a href="https://radicals.world/7zoLJT" target="_blank">https://radicals.world/7zoLJT</a>&gt; and
      <em>Dollars Service Exchange</em>
