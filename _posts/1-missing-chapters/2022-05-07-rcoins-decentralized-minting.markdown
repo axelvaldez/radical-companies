@@ -75,7 +75,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
   </ul>
 
 <h1>A Historical Perspective</h1>
- <p><span class="_paradigm">rCoin</span>s are not to be confused, or conflated, with local  currencies, complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> The point of <span class="_paradigm">rCoin</span>a is to make it possible to,</p>
+ <p><span class="_paradigm">rCoin</span>s are not to be confused or conflated with local  currencies, complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> The point of <span class="_paradigm">rCoin</span>s is to make it possible to,</p>
   <ul>
    <li>Have a world-wide market</li>
    <li>Free of intermediaries</li>
@@ -383,7 +383,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <th>But this means that another potato grower buys a tractor and grows even more potatoes!</th>
     <td>
      <p>Yes. This means that people can experiment more.</p>
-     <p>Maybe the tractor turns out to be a lemon and doesn&rsquo;t help him produce more or better potatoes. He probably won&rsquo;t be able to retire the debt he took on to buy it.</p>
+     <p>The tractor can be a great option. Or maybe the tractor turns out to be a lemon and doesn&rsquo;t help him produce more or better potatoes. He probably won&rsquo;t be able to retire the debt he took on to buy it.</p>
     </td>
    </tr>
    <tr>
