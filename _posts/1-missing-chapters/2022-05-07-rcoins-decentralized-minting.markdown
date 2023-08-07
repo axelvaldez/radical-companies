@@ -54,9 +54,9 @@ image:    "icon-rcoins-decentralized-minting.svg"
       <li>&ldquo;Coins&rdquo; are a tangible instance of money.</li>
       <li>&ldquo;Fiat money&rdquo; is coinage created by fiat, out of whole cloth. It used to be that you needed gold to create coins, but not anymore.</li>
      </ul>
-     <p>As a <em>unit of measure</em>, a national fiat coin works like a meter or a minute and serves as a stable denominator for transactions. However, while the meter and the minute are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being &ldquo;devalued&rdquo; or something being measured in 仪表).<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
-     <p>National fiat coins act as a <em>store of value</em> by virtue of their fixed nominal value. This means that these coins can be used to accumulate financial wealth. From that perspective, national fiat coins do not deserve to be called &ldquo;currency,&rdquo; not while stuffed under the proverbial mattress.</p>
-     <p>National fiat coins serve as a <em>medium of exchange</em>. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so plus or minus what investor say.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
+     <p>As a <em>unit of measure</em>, a national fiat coin works like a &ldquo;meter&rdquo; or a &ldquo;minute&rdquo; and serves as a stable denominator for transactions. However, while the &ldquo;meter&rdquo; and the &ldquo;minute&rdquo; are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being &ldquo;devalued&rdquo; or something being measured in 仪表).<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+     <p>National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
+     <p>National fiat coins serve as a medium of exchange. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point the exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so plus or minus what investors say.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
    </tr>
    <tr>
@@ -69,9 +69,9 @@ image:    "icon-rcoins-decentralized-minting.svg"
  </div>
  <p>To avoid confusion, in this document I use,</p>
   <ul>
-   <li><em>money</em> to refer to the concept,</li>
-   <li><em>national fiat coin</em> to refer to what we normally mean by money,</li>
-   <li><em>currency</em> not at all.</li>
+   <li>&ldquo;money&rdquo; to refer to the concept,</li>
+   <li>&ldquo;national fiat coin&rdquo; to refer to what we normally mean by money,</li>
+   <li>and &ldquo;currency&rdquo; not at all.</li>
   </ul>
 
 <h1>A Historical Perspective</h1>
@@ -90,7 +90,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
   </ol>
 
 <h1>About the Radical Framework</h1>
- <p>It may be worth repeating here a few words about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep things under the proverbial rug.</p>
+ <p>It may be worth repeating here a few words about the <span class="_paradigm">Radical</span> framework and how it&rsquo;s different from our current Fiat world. Probably the most confusing thing about it is that a <span class="_paradigm">Radical</span> world would be very similar to our current world. People will be the same with all our jealousies, overreactions, and habits. They will be embarrassed by overpromising and want to sweep things under the proverbial rug.</p>
  <p>Our current system is based on separating us: countries, towns, good and bad neighborhoods; political parties and their vastly different realities; need to know, secrecy, protection. This leaves us disconnected and drives us to isolation. This works for a world where money comes first, ahead of everything else.</p>
  <p>A <span class="_paradigm">Radical</span> world prioritizes what&rsquo;s important to people first, ahead of everything else, including money. We&rsquo;ll still be individuals, with our own needs, rights, and idiosyncrasies. We are not going to become a number or angels. But we will trust each other from collaborating and creating wealth together.</p>
 
