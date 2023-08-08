@@ -186,45 +186,12 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en05">
-   <p class="_list-item">
-    Finance is not a science, it does not predict anything. It is included in politics.
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en06">
    <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>&gt;
+    God.
+    <em>Ephesians 6:5</em>.
+    &lt;<a href="https://biblehub.com/ephesians/6-5.htm" target="_blank">https://biblehub.com/ephesians/6-5.htm</a>&gt;
     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">Radical</span></em>.
-    &lt;<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>&gt;
-    <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en08">
-   <p class="_list-item">
-    <em>Your Cheatin&rsquo; <span class="_paradigm">RAD</span>s</em>
-    &lt;<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>&gt;
-    <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    &lt;<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>&gt;
-    <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en10">
-   <p class="_list-item">
-    <em>Giving RADs</em>
-    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&gt;
-    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
