@@ -52,7 +52,7 @@ image:    "icon-what-will-kill-us-first.svg"
 
 <h1>It Has Happened Before</h1>
  <p>In <em>Profit: An Environmental History</em><a href="#en11"><sup id="bm11">&hairsp;&nabla;&hairsp;</sup></a> Mark Stoll documents, extensively, how competition has driven us to the spoilage of our environment multiple times. The process was not good for most people who went to their early grave from overwork, malnutrition, and disease. Forests were devastated by sugar, tobacco, and other &ldquo;commercial&rdquo; crops. Over time they drained the land of nutrients and impoverished people&rsquo;s lives.</p>
- <p>This is not the first time that competition has driven us to collapse, but it has been localized. The big problem now is that the specter of collapse is global. In fact, it won&rsquo;t be a collapse, as much as a near extinction. By near I mean that there will be enough of us left and we will eventually make a come back. The winner-takes-all <span class="_paradigm">Fiat</span> system of competition and dominance has been catastrophic and it would force us to replay the same old movie that ends up in collapse, again.</p>
+ <p>This is not the first time that competition has driven us to collapse, but it has been localized. The big problem now is that the specter of collapse is global. In fact, it won&rsquo;t be a collapse, as much as a near extinction. By near I mean that there will be enough of us left and we will eventually make a comeback. The winner-takes-all <span class="_paradigm">Fiat</span> system of competition and dominance has been catastrophic and it would force us to replay the same old movie that ends up in collapse, again.</p>
  <p>We need to try a different system, one based on collaboration, not competition. Abundance, not scarcity. co-management and co-ownership, not masters and slaves.</p>
 
 <h1>Strong Trend</h1>
@@ -97,7 +97,7 @@ image:    "icon-what-will-kill-us-first.svg"
       <th>Explicit<br>Alignment</th>
       <td>
        <p>This applies to a group of people working on a common project (<em>e.g.</em>, a company). However you choose to express them, these are the key components that you must consider.</p>
-       <p>The adjetive &ldquo;explicit&rdquo; comes from the fact that 1) it means what it says, and 2) it is public.</p>
+       <p>The adjective &ldquo;explicit&rdquo; comes from the fact that 1) it means what it says, and 2) it is public.</p>
        <p>&ldquo;Alignment&rdquo; means that we are all in agreement with it (not that you have to wear a blue tie). The alignment comes from serveral discussions, not from a &ldquo;boss.&rdquo;</p>
       </td>
      </tr>
