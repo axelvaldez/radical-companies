@@ -11,7 +11,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that governments are  organizations, dependant on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> That is the way story goes.</p>
+ <p>Governments protect us and our country&rsquo;s borders and therefore need to have a monopoly on force and foreign policy. The other story is that governments are  organizations, dependent on dictatorships-known-as-businesses.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> That is the way story goes.</p>
  <p>What we do need, and always emerges is <em>governance</em>. A way to collaborate, live, and work together. You don&rsquo;t need governance if you are stranded in an island by yourself. The only &ldquo;agreement&rdquo; you can have with the other dangerous animals in the island is, <span class="_quotespan">If you come near me and you scare me, I will slaughter you.</span> But that doesn&rsquo;t work with people. You need governance with people.</p>
  <p>Governance is about collaborating to create and change those agreements, our ability to transform the culture.</p>
 
