@@ -98,7 +98,7 @@ image:    "icon-what-will-kill-us-first.svg"
       <td>
        <p>This applies to a group of people working on a common project (<em>e.g.</em>, a company). However you choose to express them, these are the key components that you must consider.</p>
        <p>The adjective &ldquo;explicit&rdquo; comes from the fact that 1) it means what it says, and 2) it is public.</p>
-       <p>&ldquo;Alignment&rdquo; means that we are all in agreement with it (not that you have to wear a blue tie). The alignment comes from serveral discussions, not from a &ldquo;boss.&rdquo;</p>
+       <p>&ldquo;Alignment&rdquo; means that we are all in agreement with it (not that you have to wear a blue tie). The alignment comes from several discussions, not from a &ldquo;boss.&rdquo;</p>
       </td>
      </tr>
      <tr>
@@ -114,8 +114,8 @@ image:    "icon-what-will-kill-us-first.svg"
      <tr>
       <th>Explicit Relationship</th>
       <td>
-       <p>Inspired by J Kim Wright&rsquo;s Conscious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</p>
-       <p>The point is to let others know areas that you want to improve abd could use need help.</p>
+       <p>Inspired by J Kim Wright&rsquo;s Conscious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building at a safe pace (psychologically and physically).</p>
+       <p>The point is to let others know areas that you want to improve and could use help.</p>
       </td>
      </tr>
      <tr>
