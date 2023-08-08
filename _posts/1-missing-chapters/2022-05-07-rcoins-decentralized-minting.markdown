@@ -56,7 +56,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
      </ul>
      <p>As a <em>unit of measure</em>, a national fiat coin works like a &ldquo;meter&rdquo; or a &ldquo;minute&rdquo; and serves as a stable denominator for transactions. However, while the &ldquo;meter&rdquo; and the &ldquo;minute&rdquo; are world-wide units, fiat coins are a national thing. This makes them very unstable and fragile as a unit of measure (<em>e.g.</em>, imagine a minute being &ldquo;devalued&rdquo; or something being measured in 仪表).<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
      <p>National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
-     <p>National fiat coins serve as a medium of exchange. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point the exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so plus or minus what investors say.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
+     <p>National fiat coins serve as a medium of exchange. This is the prevailing message that governments, banks, and the whole financial industry repeats over and over. At one point the exchange was based on the value of gold, but since the 1970s the system is based on each country&rsquo;s say so plus or minus what investors say. National governments talk about this as the best thing since sliced bread, and international accords have tried to cobble together a market out of them, but the whole arrangement is very fragile and under constant threat.</p>
     </td>
    </tr>
    <tr>
@@ -483,13 +483,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <p class="_list-item">
      <em>Meter</em> in Mandarin.
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en04">
-    <p class="_list-item">
-     M1 is the most narrow definition of money supply. It is a <em>measure</em> of how much fiat currency there is, not a backing for it.
-     &lt;<a href="https://radicals.world/HlOzNL" target="_blank">https://radicals.world/HlOzNL</a>&gt;
-     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en05">
