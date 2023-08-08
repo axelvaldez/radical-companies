@@ -60,15 +60,7 @@ image:    "icon-even-more-questions.svg"
       <p>Well, yes, she can learn. But I need her to know that specific language the minute she walks in the door.</p>
      </th>
      <td>
-      <p>That sounds like bad planning on your part, right?&hellip; By the way, do you know how to program?</p>
-     </td>
-    </tr>
-    <tr>
-     <th>
-      <p>Oh, sure&hellip;</p>
-     </th>
-     <td>
-      <p>And were you born knowing all the programming languages, ever, rights?</p>
+      <p>That sounds like bad planning on your part, right?&hellip;</p>
      </td>
     </tr>
     <tr>
