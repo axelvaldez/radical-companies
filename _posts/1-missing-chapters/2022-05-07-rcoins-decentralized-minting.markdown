@@ -195,7 +195,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
      </tr>
     </table>
    </div>
-  <p>A seller&rsquo;s app can calculate a risk factor based on the BenCO <span class="_paradigm">rCoin</span>&rsquo;s log <em>and</em> her particular preset parameters. We can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span class="_paradigm">rCoin</span>s as payment.<a href="#en12"><sup id="bm12">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>A seller&rsquo;s app can calculate a risk factor based on the BenCO <span class="_paradigm">rCoin</span>&rsquo;s log <em>and</em> her particular preset parameters. We can let the apps do the calculations and, based on that, decide whether or not to take the BenCO <span class="_paradigm">rCoin</span>s as payment.</p>
 
 <h1>rCoins Are Stable</h1>
  <p>In today&rsquo;s system of exchange, &ldquo;reserve currencies&rdquo; are used for international transactions. This makes these transactions very expensive.</p>
@@ -208,7 +208,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 <h1>rCoins Are (Not) Fungible</h1>
  <p>In today&rsquo;s financial model, to be effective as a medium of exchange, money must be fungible—one coin is indistinguishable from all others. &ldquo;Trying to use a non-fungible good as money results in transaction costs of individually evaluating each unit of the good before an exchange can take place.&rdquo;<a href="#en15"><sup id="bm15">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Thankfully, <span class="_paradigm">rCoin</span>s are fungible throughout the world as a class. Their transaction costs, nationally and internationally, are negligible.</p>
- <p>But, also thankfully, they are not fungible individually. Each <span class="_paradigm">rCoin</span> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of &ldquo;evaluating&rdquo; whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <span class="_paradigm">rCoin</span>s as payment carries no financial cost since most transactions would be driven by the app&rsquo;s results and the few exceptions to it would be driven by people to people relationships.<a href="#en16"><sup id="bm16">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>But, also thankfully, they are not fungible individually. Each <span class="_paradigm">rCoin</span> carries information about its genesis and history and this translates to a different level of risk associated with each one. Their only transaction cost is that of &ldquo;evaluating&rdquo; whether or not to accept the risk associated with it. But this can be automated and it is insignificant. To decide whether to accept a given mix of <span class="_paradigm">rCoin</span>s as payment carries no financial cost since most transactions would be driven by the app&rsquo;s results and the few exceptions to it would be driven by people to people relationships.</p>
  
 <h1>rCoins Represent Broad Value</h1>
  <p>To be robust, a <span class="_paradigm">rCoin</span> needs to be tied to value creation, and <span class="_paradigm">rCoin</span>s are. In fact they represent more than financial value. Their value also represents wellbeing, acts of kindness, and whatever else people consider important. And since <span class="_paradigm">rCoin</span>s are factored through <span class="_paradigm">RAD</span>s they represent broad value contributions as well.</p>
@@ -258,7 +258,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <td>The bills had <em>52 spaces on the reverse side, one for each week of the year.</em><a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a> This meant that the script kept its face value only for one week.</td>
   </tr>
  </table>
- <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> The thing to notice is that these rates of decay were picked out of thin air.</p>
+ <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month. The thing to notice is that these rates of decay were picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every <span class="_paradigm">rCoin</span> carries a log of all the information and people need to decide whether or not to accept it at face value or at a lower value.</p>
   <img
    src="/assets/img/pic-rad-auto-inflation-en.svg"
@@ -266,7 +266,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>Calculating Risk</h1>
  <p>A <span class="_paradigm">rCoin</span>&rsquo;s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
- <p>One side-effect of this, is that people will want to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>One side-effect of this, is that people will want to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.</p>
 
 <h1>Calculating Benefits</h1>
  <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
@@ -289,7 +289,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>TA-DAAAA!</h1>
  <p><span class="_paradigm">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they &ldquo;measure&rdquo; what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span class="_paradigm">rCoin</span>s according to the percentage of <span class="_paradigm">RAD</span>s they have and that makes <span class="_paradigm">rCoin</span>s a much broader measure than just financial value.</p>
- <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith might be happy with.<a href="#en24"><sup id="bm24">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith might be happy with.</p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
 <h1 class='_section'>Appendix: Bad Actors</h1>
@@ -522,14 +522,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <em>RADICAL COMPANIES: Without Boss or Employees</em> (alt., &lt;<a href="https://radicals.world/AS7Ofo" target="_blank">https://radicals.world/AS7Ofo</a>&gt;).
      <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
-   </li>   
-   <li id="en12">
-    <p class="_list-item">
-     This coincides with
-     Michael Linton&rsquo;s idea of letting different businesses decide what percentage of local versus fiat currency a business will take. See
-     <em>Covestment with Community Currencies</em>
-     <a class="_uparrow" href="#bm12"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
    </li>
    <li id="en13">
     <p class="_list-item">
@@ -553,12 +545,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
      &lt;<a href="https://radicals.world/EsIF0M" target="_blank">https://radicals.world/EsIF0M</a>&gt;
      Investopedia
     <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en16">
-    <p class="_list-item">
-     If you are still struggling with that, that&rsquo;s fine, too. Breaking out of jail is never easy.
-     <a class="_uparrow" href="#bm16"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en17">
@@ -595,31 +581,10 @@ image:    "icon-rcoins-decentralized-minting.svg"
      <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
-   <li id="en21">
-    <p class="_list-item">
-     <em>Stamp Scrip: Money People Paid to Use. Federal Reserve Bank of Cleveland</em>.
-     &lt;<a href="https://radicals.world/hrUnt8" target="_blank">https://radicals.world/hrUnt8</a>&gt;
-     April, 2008.
-     <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en22">
-    <p class="_list-item">
-     As a crutch, national fiat coins could be thrown into the mix to lower the risk of a payment since coins are considered &ldquo;no risk.&rdquo;
-     &lt;<a href="https://radicals.world/z8WRti" target="_blank">https://radicals.world/z8WRti</a>&gt;
-     <a class="_uparrow" href="#bm22"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
    <li id="en23">
     <p class="_list-item">
      Money laundering will be easier to detect if they retire debt, even when their revenue stays flat or goes down.
      <a class="_uparrow" href="#bm23"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en24">
-    <p class="_list-item">
-     But maybe not. 
-     <a class="_uparrow" href="#bm24"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en25">
