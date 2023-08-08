@@ -36,15 +36,15 @@ image:    "icon-even-more-questions.svg"
      </th>
      <td>
       <p>Nobody can steal other people&rsquo;s ideas. Somebody else cannot copy you. They take away the stuff that resonated with them, but that is it.</p>
-      <p>Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.</p>
+      <p>Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidate shows enough interest and curiosity; that is the candidate you want. One who wants to learn.</p>
      </td>
     </tr>
    <tr>
      <th>
-      <p>But what if she doesn&rsquo;t have the skills I need.</p>
+      <p>But what if she doesn&rsquo;t have the skills I need?</p>
      </th>  
      <td>
-      <p>To make sure&hellip; this is person who knows how to program, right? But she doesn&rsquo;t know the specific language your team needs, is that it?</p>
+      <p>To make sure&hellip; this is a person who knows how to program, right? But she doesn&rsquo;t know the specific language your team needs, is that it?</p>
      </td>
     </tr>
     <tr>
@@ -68,7 +68,7 @@ image:    "icon-even-more-questions.svg"
       <p>Oh, sure&hellip;</p>
      </th>
      <td>
-      <p>And you were you born knowing all the programming languages, ever, rights?</p>
+      <p>And were you born knowing all the programming languages, ever, rights?</p>
      </td>
     </tr>
     <tr>
@@ -76,7 +76,7 @@ image:    "icon-even-more-questions.svg"
       <p>Of course not, but&hellip;</p>
      </th>
      <td>
-     <p>&hellip; then why not give her a chance to learn the new language. That is going to go a lot faster that learning co-management and co-ownership. Also, your team should explain what they need and she may even know somebody who can mentor her or she can propose another language that would be better suited to their needs.</p>
+     <p>&hellip; then why not give her a chance to learn the new language. That is going to go a lot faster than learning co-management and co-ownership. Also, your team should explain what they need and she may even know somebody who can mentor her or she can propose another language that would be better suited to their needs.</p>
      </td>
     </tr>
    </table>
