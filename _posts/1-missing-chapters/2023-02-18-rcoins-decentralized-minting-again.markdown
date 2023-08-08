@@ -72,6 +72,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
    </p>
   </li>
   <li id="en01">
+   <p class="_list-item">
     David Gura.
     <em>2022 was the year crypto came crashing down to Earth</em>.
     Dec 2022.
