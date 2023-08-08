@@ -131,14 +131,13 @@ image:    "icon-rcoins-decentralized-minting.svg"
  <p>A world-wide market would bring us together rather than staying siloed by the Rube Goldberg markets we have today.</p>
  <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
  <p>A decentralized, transparent <span class="_paradigm">rCoin</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
- <h2>rCoins for a Decentralized Market</h2>
+
+<h1>rCoins for a Truly Decentralized Market</h1>
   <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
   <p>Today&rsquo;s international markets have been cobbled together by agreements that are fraught with weaknesses. National and international politics make transaction costs very expensive. Worst of all, these international markets are unduly influenced by transnational businesses seeking to profit no matter the harm to society.</p>
   <p>A decentralized market, free of interference and manipulation, is the ultimate pricing engine.</p>
-
-<h1>Decentralized Minting of rCoins</h1>
- <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
- <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
+  <p>We need decentralized minting of <span class="_paradigm">rCoin</span>s to take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
+  <p><span class="_paradigm">rCoin</span>s are minted by companies, not any national government or central banks.</p>
 
 <h1>rCoins Are Transparent</h1>
  <p>National fiat coins are opaque. In theory that&rsquo;s good because it reduces transaction costs. But this &ldquo;reduction of costs&rdquo; also disables human choice.</p>
@@ -483,12 +482,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <p class="_list-item">
      <em>Meter</em> in Mandarin.
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en07">
-    <p class="_list-item">
-     But, pay your taxes. One day we&rsquo;ll be able to pay taxes with <span class="_paradigm">rCoin</span>s and that&rsquo;ll be something, but in the meantime, pay your taxes with the required coinage.
-     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en08">
