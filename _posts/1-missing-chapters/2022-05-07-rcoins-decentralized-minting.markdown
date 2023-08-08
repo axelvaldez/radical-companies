@@ -75,7 +75,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
   </ul>
 
 <h1>A Historical Perspective</h1>
- <p><span class="_paradigm">rCoin</span>s are not to be confused or conflated with local  currencies, complementary currencies, demurrage money, or any such.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> The point of <span class="_paradigm">rCoin</span>s is to make it possible to,</p>
+ <p><span class="_paradigm">rCoin</span>s are not to be confused or conflated with local  currencies, complementary currencies, demurrage money, or any such. The point of <span class="_paradigm">rCoin</span>s is to make it possible to,</p>
   <ul>
    <li>Have a world-wide market</li>
    <li>Free of intermediaries</li>
@@ -85,7 +85,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
   <ol>
    <li>They represent value at its broadest. In addition to financial value, they account for wellbeing, contributions, acts of kindness, and all the other things that are important to people.</li>
    <li>They spread risks and benefits through society. We all share in the adventure: the burden of risk and the joys of gains.</li>
-   <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,<a href="#en06"><sup id="bm06">&hairsp;&nabla;&hairsp;</sup></a></li>
+   <li><span class="_paradigm">rCoin</span>s bypass the complications and costs brought about by banks, exchanges, national politics,</li>
    <li><span class="_paradigm">rCoin</span>s have the potential to enable a world-wide market. This will help us break out of our national silos and create a world-wide economy that&rsquo;s decentralized and transparent.</li>
   </ol>
 
@@ -483,24 +483,6 @@ image:    "icon-rcoins-decentralized-minting.svg"
     <p class="_list-item">
      <em>Meter</em> in Mandarin.
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en05">
-    <p class="_list-item">
-     For example, see
-     <em>Local Exchange Trading System (LETS)</em>
-     &lt;<a href="https://radicals.world/7zoLJT" target="_blank">https://radicals.world/7zoLJT</a>&gt; and
-     <em>Dollars Service Exchange</em>
-     &lt;<a href="https://radicals.world/P5hFb6" target="_blank">https://radicals.world/P5hFb6</a>&gt;.
-     Also, Sardex
-     &lt;<a href="https://radicals.world/8u8lIc" target="_blank">https://radicals.world/8u8lIc</a>&gt;
-     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en06">
-    <p class="_list-item">
-     Which has devolved from a coordination game to a competition game.
-     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en07">
