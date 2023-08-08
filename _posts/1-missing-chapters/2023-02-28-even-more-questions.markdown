@@ -11,7 +11,7 @@ image:    "icon-even-more-questions.svg"
 </div>
 
 <h1></h1>
- <p>The questions were about hiring. I tried to explain that my preference is that they'd be no hiring, per se. The <span class="_paradigm">Radical</span> system is set up for that. But to no avail,</p>
+ <p>The questions were about hiring. I tried to explain that my preference is that they&rsquo;d be no hiring, per se. The <span class="_paradigm">Radical</span> system is set up for that. But to no avail,</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -19,12 +19,12 @@ image:    "icon-even-more-questions.svg"
       <p>What do you do if you can&rsquo;t offer as much as the competition?</p>
      </th>
      <td>
-      <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo; if you are working towards the the exact same impact.</p>
+      <p>You don&rsquo;t have competition. You must be doing something different or else you should create an ensemble with &ldquo;the competition&rdquo; if you are working towards the exact same impact.</p>
      </td>
     </tr>
     <tr>
      <th>
-      <p>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you'll work faster.</p>
+      <p>You&rsquo;ll make money based on your contributions, that won&rsquo;t change. And you&rsquo;ll work faster.</p>
      </th> 
      <td>
       <p>Absolute win, which is what you are describing, is what we know and it is <span class='_paradigm'>Fiat</span> thinking: I win it all, you lose it all. However, it is not the way to have a broad impact in a world based on contributions.</p>
@@ -35,13 +35,13 @@ image:    "icon-even-more-questions.svg"
       <p>What if they steal my ideas?</p>
      </th>
      <td>
-      <p>OK, no&hellip; nobody can steal other people&rsquo;s ideas.&rdquo; Somebody else cannot copy you. They take away the stuff that resonated with them, but that is it.</p>
+      <p>Nobody can steal other people&rsquo;s ideas. Somebody else cannot copy you. They take away the stuff that resonated with them, but that is it.</p>
       <p>Back to the &ldquo;offer more money&rdquo; competition&hellip; let&rsquo;s say that these other people are completely <span class="_paradigm">Fiat</span>. All they know is that money works and they offered your candidate more than you. Time and time again, they &ldquo;win.&rdquo; It seems to me that those people that went for &ldquo;more money&rdquo; would not be aligned with you community. Keep looking until a candidates shows enough interest and curiosity; that is the candidate you want. One who wants to learn.</p>
      </td>
     </tr>
    <tr>
      <th>
-      <p>But what if she doesn't have the skills I need.</p>
+      <p>But what if she doesn&rsquo;t have the skills I need.</p>
      </th>  
      <td>
       <p>To make sure&hellip; this is person who knows how to program, right? But she doesn&rsquo;t know the specific language your team needs, is that it?</p>
