@@ -40,7 +40,7 @@ image:    "icon-the-serpent-is-sensuality.svg"
    <li>Royalty shall live, common people may die.</li>
   </ul>
  <p>Organized religion became dedicated to preserving its existence. It has gotten simpler: &ldquo;powerful people shall live, everybody else may die.&rdquo;</p>
- <p>In spite of it all, we are still here (GOOD). However, we are destroying the very system that has nourished us (NOT SO GOOD).</p>
+ <p>In spite of it all, we are still here (good). However, we are destroying the very system that has nourished us (not so good).</p>
 
 <h1>People</h1>
  <p>Today, people can take it from here. And they can do it with their sensuality and warm relationships. Adult people with their tools, science, and technology in hand. We can take it from here.</p>
