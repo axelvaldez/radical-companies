@@ -17,7 +17,7 @@ image:    "icon-not-about-government-but-about-governance.svg"
 
 <h1>Rules and Punishment</h1>
  <p>Making up rules that others must follow is easy to do, but harder to implement. Mos of tje time we end up using some form of punishment for people who don&rsquo;t follow them rules. We use different levels of pain: litigation, penalties, prison.  That holds a majority of people back, but only for a while. Eventually, when following the rules is more painful than the pain of raising hell, people revolt.</p>
- <p>In dictatorships, people revolt violently and lethally because that is what they have learned and what they know works. In places that lean towards democracy, people also revolt, but through non-violent, non-lethatl ways, like assembling, protesting, and voting. Because that is what they know works.</p>
+ <p>In dictatorships, people revolt violently and lethally because that is what they have learned and what they know works. In places that lean towards democracy, people also revolt, but through non-violent, non-lethal ways, like assembling, protesting, and voting. Because that is what they know works.</p>
 
 <h1>Governance, Not Government</h1>
  <p>When I wrote <span class="_paradigm">rGov</span>,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> there was no distinction in my mind between government and governance. I wish I had figured it out then because governance is what we want.</p>
