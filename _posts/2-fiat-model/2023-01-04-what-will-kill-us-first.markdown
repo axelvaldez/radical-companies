@@ -32,7 +32,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>For another example, take the decline of disruptive science,</p>
  <div class="_citation">
   <p>The number of science and technology research papers published has skyrocketed over the past few decades &ndash; but the &lsquo;disruptiveness&rsquo; of those papers has dropped. &hellip;</p>
-  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science into increamental improvements rather than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science into incremental improvements rather than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>This is happening in social science, technology, physical sciences, life sciences, and biomedicine.</p>
  <div class="_center">
@@ -41,7 +41,7 @@ image:    "icon-what-will-kill-us-first.svg"
    width="100%"
    alt="">
  </div>
- <p>In sheer numbers, there is more research, but it is towards  provements (&ldquo;Wow, that&rsquo;s going to make us live longer!&rdquo;), and mot towards discoveries (&ldquo;WAT? We can generate energy like the Sun does?&rdquo;).</p>
+ <p>In sheer numbers, there is more research, but it is towards  provements (<span class='_quotespan'>Wow, that is going to make us my skin smoother!</span>), and mot towards discoveries (<span class='_quotespan'>WHAT? We can generate energy like the Sun does?</span>).</p>
 
 <h1>Fragile Food</h1>
  <p>Another example comes from our food supply: food production is getting more and more fragile as we consume fewer and fewer food varieties.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
