@@ -30,12 +30,13 @@ image:    "icon-not-about-government-but-about-governance.svg"
     <em>radical-for-the-impatient</em>.
     May 2022.
     &lt;<a href="https://radicalcompanies.com/2022/05-03/radical-companies-for-the-impatient" target="_blank">https://radicalcompanies.com/2022/05-03/radical-companies-for-the-impatient</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en01">
    <p class="_list-item">
     Matt Perez.
-    <em>rGOV</em>.
+    <em>rGov: Unpolished Thoughts</em>.
     May 2022.
     &lt;<a href="https://radicalcompanies.com/2022/05/05/rgov" target="_blank">https://radicalcompanies.com/2022/05/05/rgov</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
