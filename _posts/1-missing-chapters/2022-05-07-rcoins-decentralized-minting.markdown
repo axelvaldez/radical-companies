@@ -129,8 +129,9 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>rCoins for a World-Wide Market</h1>
  <p>A world-wide market would bring us together rather than staying siloed by the Rube Goldberg markets we have today.</p>
- <p>We could have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the wrong direction towards centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
- <p>A decentralized, transparent <span class="_paradigm">rCoin</span> is fundamental to such a unified market. These are some of the other things we would need to nourish and support a world-wide market,</p>
+ <p>We <em>could</em> have a single world government create and enforce a single currency. But even if it were politically feasible, it is unnecessary and a move in the direction of centralization. To wit, we didn&rsquo;t need a single world government for minutes, meters, or the Internet, some of the most useful world-wide tools of all time.</p>
+ <p>Instead, rCoins are minted by companies, not any national government or central banks. It would take national and international politics out of it and to eliminate the influence of transnational corporations.</p>
+ <p>A decentralized, transparent rCoin is fundamental to such a unified market.</p>
 
 <h1>rCoins for a Truly Decentralized Market</h1>
   <p>We need a decentralized market to nurture the next stage of innovation and accomplishment. Unfortunately, national fiat coins are an obstacle to this. They are not very stable and are subject to cyclical crises.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a> They make international markets very complex, very opaque, and very expensive.</p> 
