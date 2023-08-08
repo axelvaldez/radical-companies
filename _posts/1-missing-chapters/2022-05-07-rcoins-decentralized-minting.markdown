@@ -289,7 +289,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>TA-DAAAA!</h1>
  <p><span class="_paradigm">RAD</span>s account for what so far has been unaccountable. People get to decide what a contribution is and by doing so they &ldquo;measure&rdquo; what has been unmeasurable: an act of kindness, spontaneous help. Co-owners get <span class="_paradigm">rCoin</span>s according to the percentage of <span class="_paradigm">RAD</span>s they have and that makes <span class="_paradigm">rCoin</span>s a much broader measure than just financial value.</p>
- <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith would be happy with.<a href="#en24"><sup id="bm24">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Companies mint <span class="_paradigm">rCoin</span>s. This means that <span class="_paradigm">rCoin</span>s are decentralized and free of interference by national and international politics, financial institutions, and too-big-to-fail transnationals. <span class="_paradigm">rCoin</span>s will make it possible to create a world-wide market that Adam Smith might be happy with.<a href="#en24"><sup id="bm24">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The whole system is transparent and each of us can decide to accept a payment or not. It is not mysterious or left to robed experts to figure things out. Each of us can do it because each of us is an expert on our own sensitivities and how we interpret the world.</p>
 
 <h1 class='_section'>Appendix: Bad Actors</h1>
