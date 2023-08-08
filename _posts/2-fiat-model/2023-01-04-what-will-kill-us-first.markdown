@@ -186,14 +186,6 @@ image:    "icon-what-will-kill-us-first.svg"
     <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en06">
-   <p class="_list-item">
-    God.
-    <em>Ephesians 6:5</em>.
-    &lt;<a href="https://biblehub.com/ephesians/6-5.htm" target="_blank">https://biblehub.com/ephesians/6-5.htm</a>&gt;
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
  </ul>
 
 {% include related.html %}
