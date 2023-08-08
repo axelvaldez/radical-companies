@@ -32,7 +32,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
  <p>My social circle, and maybe others, accept my <span class="_paradigm">rCoin</span>s at a discount. As our company gets close to delivering value, these <span class="_paradigm">rCoin</span>s go up, too, towards 100%  of their value. The early believers, and subsequent supporters, get the gain! Instead of diluting the investors&rsquo; basket of <span class="_paradigm">rCoin</span>s, it will increase its value.</p>
 
 <h1>Big Spender</h1>
- <p>But, wait, that&rsquo;s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusted me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
+ <p>But, wait, that&rsquo;s the ideal case. This could turn into a blank check for runaway personal consumption! Or, what if I spend it all on useless items at a cost to my social circle and everybody who trusts me? That may be so. Once. But in the future no one is going to trade with me. Perhaps, a few people will, but they will be more guarded. And if I keep doing it…</p>
  <p>BTW, this happens today. We used to put a lot of legal guardrails to make sure that people who are <span class="_quotespan">non qualified investors</span> would not be allowed to become investors, but those guardrails are no longer. They were paternalistic and now we are supposed to act as adults.</p>
  <p>The problem is that, in spite of rumors to the contrary, today&rsquo;s investments are not transparent. This means that we are supposed to,</p>
   <ul>
@@ -50,7 +50,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
   </ol>
  <p>Note that the first is a given, whereas the second is speculative.</p>
  <p>This is pretty much the way seed rounds are raised today, even though the <span class="_quotespan">deals</span> are opaque. <span class="_paradigm">rCoin</span>s bring along a <em>transparent history</em>. You would most likely not bother looking at it and calculating its legitimacy and sovereignty, your mobile device will.</p>
- <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCoin</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. As a side-note, we used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span>. Well, chatGPT and the explosiong of AI this and AI that has managed to slap that attitude right out.</p>
+ <p>Your mobile can tirelessly look through all of the <span class="_paradigm">rCoin</span>&rsquo;s history and give you a go/no-go signal plus a recommended discount. As a side-note, we used to tell people this and they found it unbelievable, <span class="_quotespan">That&rsquo;s&hellip;  utopian!</span> Well, chatGPT and the explosion of the so-called AI that has managed to slap that attitude right out.</p>
  
 <h1>A Herculean Task Ahead</h1>
  <p>As we said at the top of this post, <span class="_paradigm">rCoin</span>s will have a herculean task ahead when it comes to stepping away from tradition. Any change is perceived as a threat and this will be perceived as the biggest of threats.</p>
