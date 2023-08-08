@@ -258,7 +258,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
    <td>The bills had <em>52 spaces on the reverse side, one for each week of the year.</em><a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a> This meant that the script kept its face value only for one week.</td>
   </tr>
  </table>
- <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> These rates of decay were picked out of thin air.</p>
+ <p>One problem with demurrage is that the rate of decay is not tied to value creation or anything like it. The W&ouml;rgl, and others like it, kept its face value for a week and went down in value every week thereafter. The W&auml;ra, another demurrage coin, lost 1% of its value every month.<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a> The thing to notice is that these rates of decay were picked out of thin air.</p>
  <p><span class="_paradigm">rCoin</span>s, on the other hand, are always the same value. What changes is the potential risks and benefits associated with the company that engendered it. Every <span class="_paradigm">rCoin</span> carries a log of all the information and people need to decide whether or not to accept it at face value or at a lower value.</p>
   <img
    src="/assets/img/pic-rad-auto-inflation-en.svg"
@@ -266,7 +266,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>Calculating Risk</h1>
  <p>A <span class="_paradigm">rCoin</span>&rsquo;s log may include, for example, the number of co-owners that agree to its mint, the company&rsquo;s revenue history, how many <span class="_paradigm">rCoin</span>s the company has minted, and the company&rsquo;s debt performance. Given the <span class="_paradigm">rCoin</span>&rsquo;s log, we can calculate the risk associated with every <span class="_paradigm">rCoin</span> and decide whether or not to accept a particular <span class="_paradigm">rCoin</span> as payment.</p>
- <p>One side-effect of this, is that people will try to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>One side-effect of this, is that people will want to dilute what risk they hold by paying with a combination of low and high risk <span class="_paradigm">rCoin</span>s, enough of each to make the risk acceptable to the seller.<a href="#en22"><sup id="bm22">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Calculating Benefits</h1>
  <p>Over time, companies will go up in value because they get very efficient, benefit from high demand, or both. People will likely hold on to their <span class="_paradigm">rCoin</span>s. It may be that they are more comfortable with risk and may not mind taking higher risk <span class="_paradigm">rCoin</span>s from fledgling companies. It may also be that even the more conservative folks may be tempted to take high risk <span class="_paradigm">rCoin</span>s from high potential companies.</p>
