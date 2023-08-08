@@ -83,7 +83,7 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
   <li id="en02">
    <p class="_list-item">
     The blockchain is not impervious to manipulation.
-    See,
+    See
     <em>DSHR&rsquo;s Blog: EE380 Talk</em>
     &lt;<a href="https://radicals.world/aaJg8k">https://radicals.world/aaJg8k</a>&gt;.
     Also, see,
