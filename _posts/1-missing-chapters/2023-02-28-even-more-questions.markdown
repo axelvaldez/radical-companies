@@ -68,7 +68,7 @@ image:    "icon-even-more-questions.svg"
       <p>Of course not, but&hellip;</p>
      </th>
      <td>
-     <p>&hellip; then why not give her a chance to learn the new language. That is going to go a lot faster than learning co-management and co-ownership. Also, your team should explain what they need and she may even know somebody who can mentor her or she can propose another language that would be better suited to their needs.</p>
+     <p>&hellip; then why not give her a chance to learn the new language. That is going to go a lot faster than xxx learning co-management and co-ownership. Also, your team should explain what they need and she may even know somebody who can mentor her or she can propose another language that would be better suited to their needs.</p>
      </td>
     </tr>
    </table>
