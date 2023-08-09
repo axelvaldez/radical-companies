@@ -17,7 +17,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
 </div>
 
 <h1></h1>
- <p>Lazy. Greedy. Cowardly. These are violent words, the words of gloating and  shaming. The words of competition.</p>
+ <p>Lazy. Greedy. Cowardly. These are violent words. The words of gloating and  shaming. The words of competition.</p>
 
 <h1>It Won&rsquo;t Work</h1>
  <p>Even when <em>we say</em> we want to collaborate, we are most likely competing, aiming to dominate. That&rsquo;s all we&rsquo;ve learned and all we see in the world around us. And, so, that&rsquo;s what we do even when we intend to do otherwise.</p>
