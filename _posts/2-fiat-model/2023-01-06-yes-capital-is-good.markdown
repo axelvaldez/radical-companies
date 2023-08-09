@@ -14,14 +14,14 @@ image:    "icon-yes-capital-is-good.svg"
  <p>In the beginning,</p>
   <ul>
    <li>There were <em>land enclosures</em></li>
-   <li>Enclosures decrease your means of survival and increases the enclosure master&rsquo;s, now owner of the land.</li>
+   <li>Enclosures decrease your means of survival and increase the enclosure master&rsquo;s, now owner of the land.</li>
    <li>The new owner of the land, nice as he is, <em>lets you</em> work <em>his</em> land in exchange for a <em>wage</em>.</li>
    <li>These wages are first paid in goods and then in coins (probably minted by the owner).</li>
    <li>Enclosures begat capital.</li>
    <li>Owners keep the profits</li>
-   <li>Profits beget more capital for te owner.</li>
+   <li>Profits beget more capital for the owner.</li>
    <li>Capital begets the <span class="_paradigm">Fiat</span> system.</li>
-   <li>The owner later builds a factory on his land and let&rsquo;s you work in it as his employee.</li>
+   <li>The owner later builds a factory on his land and lets you work in it as his employee.</li>
    <li>You are now a piece of a big machine that is partly made up of people like you.</li>
    <li>Your wage goes up and you are happier.</li>
    <li>You can afford shoes for your boys; girls don&rsquo;t need shoes.</li>
@@ -43,7 +43,7 @@ image:    "icon-yes-capital-is-good.svg"
    <li>They make demands on behalf of you, the little people.</li>
    <li>Unions protect you, the employee.</li>
    <li>Unions make you happy, little people.</li>
-   <li>Wages go up and working condition get codified.</li>
+   <li>Wages go up and working conditions get codified.</li>
    <li>Unions never question the system.</li>
    <li>Unions are centralized and ruled by <span class="_paradigm">Fiat</span>, just like the businesses that spawned them.</li>
   </ul>
@@ -70,17 +70,9 @@ image:    "icon-yes-capital-is-good.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Malvina Reynolds.
-    <em>Little Boxes</em>.
-    &lt;<a href="https://youtu.be/VUoXtddNPAM" target="_blank">https://youtu.be/VUoXtddNPAM</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en02">
    <p class="_list-item">
-    <em>How Many People Use the Internet?</em>.
+    <em>How Many People Use the Internet?</em>
     Oberlo.
     &lt;<a href="https://radicals.world/dXr7HM" target="_blank">https://radicals.world/dXr7HM</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
