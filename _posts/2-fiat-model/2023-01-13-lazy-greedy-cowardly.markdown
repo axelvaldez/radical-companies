@@ -89,7 +89,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Repeating yourself, over and over.</li>
   <li>Even saying &ldquo;sorry, but that&rsquo;s what I feel&rdquo; after a show of aggression is an act of competition. Even if you <em>are</em> sorry, the damage is done.</li>
  </ul>
- <p>Competition also means&hellip;</p>
+ <p>Competition also means,</p>
  <ul>
   <li>Dividing people. The boss has the &ldquo;strong leader&rdquo; mindset. He is special.</li>
   <li>Other lines of division,</li>
@@ -102,7 +102,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
     <li>Organized religions.</li>
    </ul>
   <li>Polarized people are easier to lead, even to the slaughterhouse. People help each other to not submit. They are a pain to control.</li>
-  <li>Taking hopefulness and dignity out out of work that others have to do for me, because they are not owners.</li>
+  <li>Taking hopefulness and dignity out of work that others have to do for me, because they are not owners.</li>
   <li>Hopefulness and dignity things lie outside the work I need them to do.</li>
   <li>Only coins count as motivators.</li>
  </ul>
@@ -111,7 +111,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
  <p>Sounds flaky, but keep reading. Here are some god practice,</p>
  <ul>
   <li>Listening.</li>
-  <li>Paraphrasing back what your heard.</li>
+  <li>Paraphrasing back what you heard.</li>
   <li>Celebrating.</li>
   <li>Adding to others ideas.</li>
   <li>Jumping in to help.</li>
