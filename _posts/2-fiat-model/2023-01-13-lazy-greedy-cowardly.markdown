@@ -107,7 +107,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Only coins count as motivators.</li>
  </ul>
 
-<h1>Collaborate Out of Love</h1>
+<h1>Let&rsquo;s Collaborate, not Compete</h1>
  <p>Sounds flaky, but keep reading. Here are some god practice,</p>
  <ul>
   <li>Listening.</li>
@@ -117,7 +117,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Jumping in to help.</li>
   <li>Disagree clearly if you don&rsquo;t like something. Don&rsquo;t make it an attack.</li>
   <li>Don&rsquo;t punch holes in others&rsquo; ideas to &ldquo;win.&rdquo;</li>
-  <li>What you hear something expressed in Fiat language, repeat in Radical lingo rather than shaming them.</li>
+  <li>When you hear something expressed in Fiat language, repeat in Radical lingo rather than shaming them.</li>
  </ul>
  <p>Collaboration also means&hellip;,</p>
  <ul>
@@ -132,7 +132,7 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>I work with people who are always ready to help me find meaning and dignity.</li>
   <li>There is no boss. We align, and we work and we create. It&rsquo;s all decentralized but cogent.</li>
   <li>Everything is fully transparent. No exceptions.</li>
-  <li>We consider all we do an experiment. It either works as expected, or we learn.</li>
+  <li>We consider all we do as an experiment. It either works as expected, or we learn.</li>
  </ul>
 
 {% include related.html %}
