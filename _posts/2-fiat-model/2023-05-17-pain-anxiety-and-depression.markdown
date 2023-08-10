@@ -17,7 +17,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 <h1>A Different Take</h1>
  <p>Anxiety and depression are two aspects of pain. They are different as far as our brains are concerned, but they are alike in that they cause pain.</p>
  <p>My children both suffered from depression, one of them had it worse than the other. A while back he was diagnosed as having <em>anxiety</em> which causes <em>depression.</em> He is now doing fine.</p>
- <p>Anxiety, depressiong, <span class='_paradigm'>pain</span> is the common thing.</p>
+ <p>Anxiety, depression, and pain are common.</p>
 
 <h1>Post-71</h1>
  <p>People born after 1971, like both of my children did, grew up in an economy very different from the one I grew up in (I was worn in 1951). For me it was growth and opportunities all around; for the post-1971 generation it has been no growth and restricted opportunities.
