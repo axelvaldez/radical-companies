@@ -11,9 +11,7 @@ image:    "icon-pain-anxiety=and-depression.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>Dr Olusola Ajore, University of Illinois Chicago, Professor of Psychiatry, says,</p>
-  <div class="_citation">
-   <p><span class="_quotatespan">We&rsquo;ve had &hellip; soaring rates of anxiety and depression</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Dr Olusola Ajore, University of Illinois Chicago, Professor of Psychiatry, says, <span class="_quotatespan">We&rsquo;ve had &hellip; soaring rates of anxiety and depression</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>A Different Take</h1>
