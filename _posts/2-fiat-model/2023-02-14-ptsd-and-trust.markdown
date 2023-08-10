@@ -36,8 +36,8 @@ image:    "icon-trust-and-ptsd.svg"
 
 <h1>Trauma</h1>
  <p>Here is our starting point: <span class="_quotespan">Business encourages competition, and competition leads to trauma.</span> Ans some of this trauma ends up as PTSD.</p>
- <p>The <span class="_paradigm">Fiat</span> (<span class="_quotespan">because I say so</span>) system encourages competition and domination. It also encourages helplessness, another key component of PTSD. A terrifying event is even more harmful when you can do nothing to stop or diminish it. And <span class="_paradigm">Fiat</span> is the very definition of helplessness. This is built into structure of <span class="_paradigm">Fiat</span> businesses. Top bosses compete. Lesser bosses compete. Wanna-be bosses compete. People compete for resources to do their jobs.</p>
- <p>The winners end on top and get to dominate the losers. They get not only higher status, they also get to extract more money for themselves. Their  voice becomes more dominant as their place in the <span class='_paradigm'>Fiat</spam> hierarchy goes up. The whole <span class="_paradigm">Fiat</span> hierarchy works that way.</p>
+ <p>The <span class="_paradigm">Fiat</span> (<span class="_quotespan">because I say so</span>) system encourages competition and domination. It also encourages helplessness, another key component of PTSD. A terrifying event is even more harmful when you can do nothing to stop or diminish it. And <span class="_paradigm">Fiat</span> is the very definition of helplessness. This is built into the structure of <span class="_paradigm">Fiat</span> businesses. Top bosses compete. Lesser bosses compete. Wanna-be bosses compete. People compete for resources to do their jobs.</p>
+ <p>The winners end on top and get to dominate the losers. They get not only higher status, they also get to extract more money for themselves. Their  voice becomes more dominant as their place in the <span class='_paradigm'>Fiat</span> hierarchy goes up. The whole <span class="_paradigm">Fiat</span> hierarchy works that way.</p>
  <p>And, as it turns out, that is <em>not natural</em>.</p>
 
 <h1>The Right to Deny</h1>
