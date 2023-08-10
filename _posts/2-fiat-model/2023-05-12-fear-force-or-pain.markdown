@@ -15,7 +15,7 @@ image:    "icon-fear-force-or-pain.svg"
  <p>We met with the proto-<span class="_paradigm">Radical</span> companies and I explained what was going on in my hear and let them know that I was leaning towards giving &ldquo;<span class="_paradigm">Radical</span>&rdquo; a secondary role. However, they had good arguments to the contrary.</p>
 
 <h1>Fiat and Force</h1>
- <p><span class="_paradigm">Fiat</span> commands always carry a threat of force with it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> is very rarely gets said, but it is always there: the boss can fire you at any time and threatened your ability to survive. So you move the box to avoid <span class="_paradign">Pain</span>.</p>
+ <p><span class="_paradigm">Fiat</span> commands always carry a threat of force with it, <span class="_quotespan">move that box from there to there</span>. The implied <span class="_quotespan">or else</span> very rarely gets said, but it is always there: the boss can fire you at any time and threaten your ability to survive. So you move the box to avoid <span class="_paradign">Pain</span>.</p>
 
 <h1>Radical Is Good</h1>
  <p>According to Carlos Suarez, the founder of Core Communications, <span class="_paradigm">Fiat</span> encompasses the whole cascade,</p>
@@ -25,8 +25,8 @@ image:    "icon-fear-force-or-pain.svg"
     alt="At the top of it all, we see the word <span class='_paradigm'>Fiat</spam>. Below it, we see the words 'threat of force.' Below and to the right, we see 'Threat of Pain.' Below and to the right, we see 'Fear (avoid Pain).' Below and to the right we see 'Force.' Bellow and to the right, we see 'Pain.' To the far right of that, we see 'Wellbeing.' There are arrows connecting these boxes. Finally, underneath all of it, we see 'Survivability.'"
     style="width:50%;">
   </div>
- <p>Paty (Patricia) told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not with technology, but as a different way of living and thriving.</p>
- <p>Chabeli told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned about others might react and was scared of the conversation that would follow. Finally, she came out and said it, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it. As it turned out, the people that she was working with took her seriously and they even enjoyed the process.</p>
+ <p>Paty (Patricia) Preciado told the story of when she got beaten down by job and she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not with technology, but as a different way of living and thriving.</p>
+ <p>Chabeli Atahuaman told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned about others might react and was scared of the conversation that would follow. Finally, she came out and said it, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it. As it turned out, the people that she was working with took her seriously and they even enjoyed the process.</p>
  <p>These stories resonated with me and they spoke to the power of having a named alternative like <span class="_paradigm">Radical</span>.</p>
 
 <h1>Wellbeing</h1>
