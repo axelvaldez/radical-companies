@@ -12,7 +12,7 @@ image:    "icon-attention-and-survival.svg"
 
 <h1>&nbsp;</h1>
  <p>Being worthy of attention is tied to survival.</p>
- <p>We want to be heard. Things are not real until they have an impact on the world. Mass shootings make that impact. Helping old people cross the strees makes that impact. It is a choice.</p>
+ <p>We want to be heard. Things are not real until they have an impact on the world. Mass shootings make that impact. Helping old people cross the street makes that impact. It is a choice.</p>
  <p>Force is another choice. Even the threat of force is tied to survival, but my survival is predominant. <span class="_quotespan">Listen to what I have to say or I&rsquo;ll hurt you!</span> &hellip; <span class="_quotespan">The community may not see it my way, but they are not going to survive&hellip; I will force them, I am justified!</span></p>
 
 <h1>Fluid</h1>
