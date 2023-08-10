@@ -41,7 +41,7 @@ image:    "icon-trust-and-ptsd.svg"
  <p>And, as it turns out, that is <em>not natural</em>.</p>
 
 <h1>The Right to Deny</h1>
- <p>Capital can be seen as the right to deny access or control. Capital comes from, <em>capita,</em> capa, the head of a cow. A cow in a herd that you have control over, that you can decide how it is used, when it is sold, etc. It is  It is <em>your</em> herd, <em>your</em> property, and you can deny others the use of it.</p>
+ <p>Capital can be seen as the right to deny access or control. Capital comes from, <em>capita,</em> capa, the head of a cow. A cow in a herd that you have control over, that you can decide how it is used, when it is sold, etc. It is <em>your</em> herd, <em>your</em> property, and you can deny others the use of it.</p>
  <p>This is the essence of <span class="_paradigm">Fiat</span> capital: the right to deny.</p>
  <p>The <span class="_paradigm">Fiat</span> system capitalizes people. A boss acquires the right to deny the use of his team, his human capital. Another boss can not just step in and tell the team what to do unless they are higher up in the pyramid. And it is not just about resource denial across teams.</p>
  <p>Compete-win-dominate works on <span class="_quotespan">them people,</span> those dissimilar to us. Once upon a time we could have been excused to think and act that way, but not anymore. Now we know that people the world over are similar. What separates us is the rationalized prejudices, the stories in our minds.</p>
