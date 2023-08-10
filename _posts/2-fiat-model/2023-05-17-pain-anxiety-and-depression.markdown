@@ -12,7 +12,6 @@ image:    "icon-pain-anxiety=and-depression.svg"
 
 <h1>&nbsp;</h1>
  <p>Dr Olusola Ajore, University of Illinois Chicago, Professor of Psychiatry, says, <span class="_quotatespan">We&rsquo;ve had &hellip; soaring rates of anxiety and depression</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
-  </div>
 
 <h1>A Different Take</h1>
  <p>Anxiety and depression are two aspects of pain. They are different as far as our brains are concerned, but they are alike in that they cause pain.</p>
