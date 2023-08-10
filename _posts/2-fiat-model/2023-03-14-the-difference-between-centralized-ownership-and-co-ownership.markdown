@@ -18,7 +18,7 @@ image:    "icon-the-difference-between-centralized-ownership-and-co-ownership.sv
   <ul>
    <li><span class="_quotespan">&hellip; <span class="_me">centralized</span> governance and ownership will destroy us.</span> &ndash; Emphasis on <span class="_quotespan">centralized.</span></li>
    <li><span class="_quotespan">Many folks seem to agree that we have to decentralize decision making, but that is not enough. We also have to decentralize ownership.</span></li>
-   <li>I also changed <span class="_quotespan">I hope</span> because is not the same as <span class="_quotespan">I know.</span></li>
+   <li>I also changed <span class="_quotespan">I hope</span> because it is not the same as <span class="_quotespan">I know.</span></li>
    <li>Also, I took out &ldquo;(co-management)&rdquo; and &ldquo;(co-ownership)&rdquo; to avoid confusion.</li>
    <li><span class="_quotespan">We have to let wealth flow to the people who created it, <span class="_me">based on their contributions</span>.</span> &ndash; The bit about &ldquo;based on their contributions&rdquo; is very important.</li>
    <li><span class="_quotespan">We must move towards co-ownership as well as to co-management.</span> &ndash; Changed it for clarity.</li>
