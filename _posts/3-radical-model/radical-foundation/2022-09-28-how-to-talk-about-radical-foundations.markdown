@@ -49,7 +49,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
  <div class="_center">
   <table class="_explicitalignment">
    <tr id="_background">
-    <td></td>
+    <th></th>
     <td>PEOPLE</td>
    </tr>
    <tr>
@@ -65,7 +65,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
+    <th></th>
     <td>COMMITMENT</td>
    </tr>
    <tr>
@@ -83,7 +83,7 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
     </td>
    </tr>
    <tr id="_background">
-    <td></td>
+    <th></th>
     <td>PRACTICES</td>
    </tr>
    <tr>
