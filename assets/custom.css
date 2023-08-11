@@ -198,7 +198,7 @@ table._explicitalignment th {
   vertical-align:text-top;
   padding-right:1em;
   text-align:right;
-  border-right:black 1px solid;
+  border-right:red dotted 1px;
   font-weight:bold;
   column-width:25%;
 }
@@ -206,7 +206,7 @@ table._explicitalignment td {
   vertical-align:text-top;
   padding-left:1em;
   text-align:left;
-  border-right:black dotted 1px;
+  border-right:green dotted 1px;
 }
 table._explicitalignment tr:nth-child(1),
 table._explicitalignment tr:nth-child(4),
@@ -219,7 +219,7 @@ table._explicitalignment tr:nth-child(1) td,
 table._explicitalignment tr:nth-child(4) td,
 table._explicitalignment tr:nth-child(7) td {
   border:0;
-  border-left:black dotted 1px;
+  border-left:blue dotted 1px;
 }
 table._explicitalignment tr:nth-child(2) th,
 table._explicitalignment tr:nth-child(3) th,
@@ -236,7 +236,7 @@ table._explicitalignment tr:nth-child(5) td,
 table._explicitalignment tr:nth-child(6) td,
 table._explicitalignment tr:nth-child(8) td {
   border:0;
-  border-left:black dotted 1px;
+  border-left:cyan dotted 1px;
   text-align:left;
 }
 
