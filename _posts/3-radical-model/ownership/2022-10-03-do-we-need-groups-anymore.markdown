@@ -21,7 +21,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   <li>YouTube Ads</li>
   <li>Patreon sponsorship</li>
  </ul>
- <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community is recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividends from the YouTube revenue.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I invite everyone who provides YouTube feedback to a <span class="_paradigm">RAD</span> community and I also invite Patreon sponsors who provide valuable feedback about my videos. Their contributions inspire me and I want to reward them. Everyone in the <span class="_paradigm">RAD</span> community is recognized, by me and everyone else, for their contributions. As a result, they get <span class="_paradigm">RAD</span>s. And everyone with <span class="_paradigm">RAD</span>s shares the dividends from the YouTube revenue.</p>
  <p>Let&rsquo;s say I make $5K in dividends and I distribute $2.5K of it through the <span class="_paradigm">RAD</span> Community according to the allocations (<em>i.e.</em>, which everyone can see). The actual money can be distributed through Venmo, CashApp, or Zelle.</p>
  
 <h1>Patreon Sponsorships</h1> 
@@ -38,7 +38,7 @@ image:    "icon-do-we-need-groups-anymore.svg"
   </ul>
 
 <h1>The Pump Convivium</h1>
- <p>A group of people gets together as a <em>convivium</em><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> to make pumps. I make the impeller. A woman, one my my peer co-owners, makes the housings. And a nonbinary person sells the pumps. Other companies is happy with the pumps and pays for them.</p>
+ <p>A group of people gets together as a <em>convivium</em> to make pumps. I make the impeller. A woman, one my my peer co-owners, makes the housings. And a nonbinary person sells the pumps. Other companies is happy with the pumps and pays for them.</p>
  <p>In this case, the revenue happens because of the work we all do. None of us could build pumps at the same rate and quality by ourselves.</p>
  <p>The dividends are distributed according to the <span class="_paradigm">RAD</span>s co-owners gave each other through the pump building process. <span class="_paradigm">RAD</span>s are based on our recognized contributions.</p>
 
@@ -54,23 +54,6 @@ image:    "icon-do-we-need-groups-anymore.svg"
     May 2019.
     <<a href="https://capitalaspower.com/" target="_blank">https://capitalaspower.com/</a>>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    Maybe not all of it, but, say, half of it.
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    Wiktionary defines convivium as &ldquo;A symposium.&rdquo; and &ldquo;A geographically isolated population of a species that shows differentiation from other populations of the same species.&rdquo;
-    &lt;<a href="https://en.wiktionary.org/wiki/convivium" target="_blank">https://en.wiktionary.org/wiki/convivium</a>&gt;
-    Merriam-Webster defines it as &ldquo;a convivial gathering : banquet.&rdquo;
-    &lt;<a href="https://www.merriam-webster.com/dictionary/convivium" target="_blank">https://www.merriam-webster.com/dictionary/convivium</a>&gt;
-    Etymoline describes it as originally associate with &ldquo;feast,&rdquo; but since the 18c it has meant &ldquo;sociable.&rdquo;
-    &lt;<a href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
