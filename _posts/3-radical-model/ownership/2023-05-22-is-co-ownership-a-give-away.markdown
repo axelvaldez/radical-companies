@@ -28,9 +28,9 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <div class="_a">
   <p>They probably will not, but let’s assume they do. In that case you would have put a clause in the agreement to protect you from that situation. If they revenue goes down by X% of predicted, this agreement will be nulled and void&hellip;</p>
  </div>
- <div class="_q">What if am not ready to sell my whole business?</div>
+ <div class="_q">What if I am not ready to sell my whole business?</div>
  <div class="_a">
-  <p>Sure. If want to sell only 50% of the business and your employees agree, then that&rsquo;s fine.</p>
+  <p>Sure. If you want to sell only 50% of the business and your employees agree, then that&rsquo;s fine. Practices are experiments.</p>
  </div>
 <p>Keep in mind that you are <em>not</em> negotiating with stranger, these are people that you have worked with and know pretty well. Just make sure the agreement works for all, including you.</p>
 
