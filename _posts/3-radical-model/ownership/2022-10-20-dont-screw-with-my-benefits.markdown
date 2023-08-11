@@ -26,7 +26,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    <table class='_h2table'>
     <tr>
      <td></td>
-     <th><span class="_paradigm" style='text-align:left; align-items:left; display:grid; place-items:left; '>Radical</span> Goodness</th>
+     <th style='text-align:left; align-items:left; display:grid; place-items:left; '><span class="_paradigm">Radical</span> Goodness</th>
     </tr>
     <tr>
      <th>Bonus</th>
