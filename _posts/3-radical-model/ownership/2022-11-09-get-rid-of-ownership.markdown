@@ -37,7 +37,7 @@ image:    "icon-get-rid-of-ownership.svg"
 <h1>RADs!</h1>
  <ul>
   <li>Everybody gets the <em>RADs!</em> app.</li>
-  <li>We all use the app to recognize contributions as we see them.</li>
+  <li>And use the app to recognize contributions as we see them.</li>
   <li>Based on these <em>contributions</em>, the <em>RADs!</em> app calculates <em>how many</em> <span class="_paradigm">RAD</span>s each person gets.
   <div class="_center">
    <img
