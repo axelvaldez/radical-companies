@@ -20,7 +20,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
 </div>
  
 <h1>RADICAL Threat</h1>
- <p>The <span class="_paradigm">Radical</span> model is not about tweaking the <span class="_paradigm">Fiat</span> system we live in. It is very, very different. And it seems like a threat. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
+ <p>The <span class="_paradigm">Radical</span> model is <em>not</em> about tweaking the <span class="_paradigm">Fiat</span> system. They are very, very different. And it seems like a threat. <span classs='_quotespan'>The current system is all I know. It has been built over many, many years and it has made our lives better, right? Why change it so drastically? What is so dramatically wrong with it that you want to pull it apart?</span></p>
  <p>Actually, the end result will not be that different. People will continue to be people. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo;, you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For me to feel better, I don't have to make you feel miserable.</p>
   <div class="_center">
    <table class='_h2table'>
