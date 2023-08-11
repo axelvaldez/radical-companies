@@ -32,7 +32,7 @@ image:    "icon-the-radical-foundation-revised.svg"
  <p>At pivotal points, having a <span class='_paradigm'>Foundation</span> helps you get oriented along the path you have chosen. <span class="_quotespan">Will this action help us to develop and grow as people?</span> <span class="_quotespan">Will this decision make us more centralized or more decentralized?</span> <span class="_quotespan">Are we being too rigid or are we still learning from experimentation?</span></p>
 
 <h1>Meaning and Belonging</h1>
- <p>Meaning and Belonging cannot be separated. <em>Belonging</em> is key to <em>Meaning</em> to the individual, but it is something we get primarily from others in the community we that we are part of. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my spear, my expression, becomes a contribution!</p>
+ <p>Meaning and Belonging cannot be separated. <em>Belonging</em> is key to <em>Meaning</em> to the individual, but it is something we get primarily from others in the community that we are part of. If I make a spear to fish, it becomes significant to myself next time I am hungry and I eat the fish that I caught with my spear. But when I see <em>somebody else</em> make a spear like mine to fish, that is when my spear, my expression, becomes a contribution!</p>
  <p>Rather than &ldquo;principles,&rdquo; this should be re-labeled &ldquo;people&rdquo; to make it super-obvious that <em>people</em> are the basis of it all.</p>
 
 <h1>Decentralization & Transparency</h1>
@@ -57,7 +57,7 @@ image:    "icon-the-radical-foundation-revised.svg"
       This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
       <div class="_center">
        <img
-        src="/assets/img/en-alignment.svg"
+        src="/assets/img/pic-explicit-alignment-en.svg"
         alt=""
        >
       </div>
@@ -65,8 +65,18 @@ image:    "icon-the-radical-foundation-revised.svg"
     </td>
    </tr>
    <tr>
-    <th>Explicit Agreements</th>
+    <th>Explicit Agreement</th>
     <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
+   </tr>
+   <tr>
+    <th>Explicit Relationships</th>
+    <td>
+      <div class="_center">
+       <img
+        src="/assets/img/icon-explicit-relationships-en.svg"
+        alt=""
+       >
+      </div></td>
    </tr>
    <tr>
     <th>Future Tools</th>
