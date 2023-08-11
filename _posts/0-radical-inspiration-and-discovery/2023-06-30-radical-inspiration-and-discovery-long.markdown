@@ -2,7 +2,7 @@
 layout:   post
 title:    "Radical Inspiration and Discovery"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Matt Perez, Adrian Perez"
 image:    "icon-radical-inspiration-and-discovery.svg"
 ---
 
