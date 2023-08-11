@@ -27,7 +27,7 @@ image:    "icon-you-will-never-give-up-power.svg"
  <p>And, beyond feeling good, think of all that CEO confers to you,</p>
  <ul>
   <li>Dominance</li>
-  <li>Recognition</li>
+  <li>Ascription</li>
   <li>Power</li>
   <li>Stock</li>
   <li>Money</li>
