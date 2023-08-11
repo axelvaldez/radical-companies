@@ -2,7 +2,7 @@
 layout:   post
 title:    "Don&rsquo;t Screw with My Benefits"
 subtitle: "TEMPLATE"
-authors:  "Adrian Perez, Matt Perez"
+authors:  "Adrian Perez"
 image:    "icon-dont-screw-with-my-benefits.svg"
 ---
 
@@ -11,7 +11,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
 </div>
 
 <h1>FIAT Benefits</h1>
- <p>&ldquo;<span class="_paradigm">RAD</span>s sound like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk&rdquo;.</p>
+ <p><span class='_quotespan'><span class='_paradigm'>RAD</span>s sound like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk.</span></p>
  <p>Vacations, parental time off, and sick days are <span class="_paradigm">Fiat</span> benefits that people throw up as an objection to the <span class="_paradigm">Radical</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  
 <div class="_citation">
@@ -26,7 +26,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    <table class='_h2table'>
     <tr>
      <td></td>
-     <th><span class="_paradigm" style='text-align:left; '>Radical</span> Goodness</th>
+     <th><span class="_paradigm" style='text-align:left; align-items:left; display:grid; place-items:left; '>Radical</span> Goodness</th>
     </tr>
     <tr>
      <th>Bonus</th>
