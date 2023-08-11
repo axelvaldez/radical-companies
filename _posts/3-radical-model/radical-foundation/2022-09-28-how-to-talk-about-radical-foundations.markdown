@@ -11,8 +11,8 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p><span class="_quotespan">How can I talk about <span class="_paradigm">Radical</span> to people who don&rsquo;t know anything about it.</span> What are its Principles? Does <span class="_paradigm">Radical</span> have a structure?</p>
- <p>Note that <em>principles</em> and <em>structure</em> are a reflection of <span class="_paradigm">Fiat</span> concerns, and these questions really are about centralization and would translate to <em>who defines these principles and structures? who is the boss?</em></p>
+ <p><span class="_quotespan">How can I talk about <span class="_paradigm">Radical</span>s to people who don&rsquo;t know anything about it?</span> What are its Principles? Does <span class="_paradigm">Radical</span> have a structure?</p>
+ <p>Note that principles and structure are a reflection of <span class="_paradigm">Fiat</span> concerns, and these questions really are about centralization and would translate to who defines these principles and structures? Who is the boss?</p>
  <p>Nevertheless, you can address these types of questions by talking about the <span class="_paradigm">Radical</span> tools you do have,</p>
  <ul style="margin-left:20px; ">
   <li>The RADs! mobile app<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></li>
