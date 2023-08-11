@@ -32,7 +32,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <div class="_a">
   <p>Sure. If you want to sell only 50% of the business and your employees agree, then that&rsquo;s fine. Practices are experiments.</p>
  </div>
-<p>Keep in mind that you are <em>not</em> negotiating with stranger, these are people that you have worked with and know pretty well. Just make sure the agreement works for all, including you.</p>
+<p>Keep in mind that you are <em>not</em> negotiating with strangers, these are people that you have worked with and know pretty well. Just make sure the agreement works for all, including you.</p>
 
 <h1>Warnings&hellip;</h1>
  <p>As able and competent as you may see your employees, they are not business people. They love their profession, but dealing with a business is something that they, and most of us, have trained to not worry our pretty little heads about, or worse, to be disgusted by it.</p>
@@ -40,7 +40,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <p>One more: You may have been doing too much and working harder than you had to. Don&rsquo;t be offended if they say they are going to do things differently. This is an opportunity for you to learn, too.</p>
 
 <h1>Happy Endings!</h1>
- <p>You want them to succeed and they want succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>.</p>
+ <p>You want them to succeed and they want to succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>.</p>
  <p>You were the boss and everybody submitted to you (more or less). Now all of you will have to learn to collaborate and deal with each other as equally well-intentioned and wanting your common work to succeed.</p>
  <p>It is going to be strenuous for a while, but at the end of the tunnel you all get what you want.</p>
 
