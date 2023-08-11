@@ -93,7 +93,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    <li>Where the wealth from the value created by all, goes &ldquo;up&rdquo; to the owners</li>
    <li>And benefits are handed &ldquo;down&rdquo;</li>
    <li>Benefits are part of &ldquo;the cost of doing business.&rdquo;</p>
-  </ul
+  </ul>
 
 <h1>Retirement</h1>
  <p>&ldquo;Retirement&rdquo; is yet another <span class="_paradigm">Fiat</span> &ldquo;benefit&rdquo; that is handled very differently in the <span class="_paradigm">Radical</span> model.</p>
