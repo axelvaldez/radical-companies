@@ -41,7 +41,7 @@ image:    "icon-get-rid-of-ownership.svg"
   <li>Based on these <em>contributions</em>, the <em>RADs!</em> app calculates <em>how many</em> <span class="_paradigm">RAD</span>s each person gets.
   <div class="_center">
    <img
-    src="/assets/img/recognitions-to-rads-equation.svg"
+    src="/assets/img/pic-recognitions-to-rads-equation.svg"
     width="70%"
     alt="">
   </div>
