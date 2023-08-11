@@ -42,16 +42,18 @@ image:    "icon-dont-screw-with-my-benefits.svg"
      </td>
     </tr>
     <tr>
+     <th>
+      <p><span class="_paradigm">Radical</span> Difference</p>
+     </th>
      <td></td>
-     <th><span class="_paradigm">Radical</span> Difference</th>
     </tr>
     <tr>
      <th>
-      <p>Vacation</p>
-      <p>Time Off</p>
+      <p>Vacation,</p>
+      <p>Time Off,</p>
       <p>Sick Days</p>
-      <p>Holidays</p>
-      <p>Compensatory Time</p>
+      <p>Holidays,</p>
+      <p>Comp Time,</p>
       <p>Sabbaticals</p>
      </th>
      <td>
