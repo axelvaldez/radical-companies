@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-get-rid-of-ownership.svg"
 ---
 
-<div style="display:none;">
+<div style="display:none;">rads
  <p><span class="_quotespan">Just get rid of ownership and everything will be fine</span>. This is a recurring and dangerous fantasy. Although we have taken it to an extreme, ownership is actually a good thing.</p>
 </div>
 
@@ -65,9 +65,9 @@ image:    "icon-get-rid-of-ownership.svg"
    <li>My percentage ownership goes up and down dynamically. For example,</li>
    <div class="_center" style="margin-top:1em; ">
     <img
-     src="/assets/img/rads-fluctuations.svg"
-     width="50%"
-     alt="">
+     src='/assets/img/pic-rads-fluctuations.svg'
+     width='50%'
+     alt=''>
    </div>
    <li>If you have 200 <span class="_paradigm">RAD</span>s and I have 100, then you’ll get twice (the revenue, assets, etc.) as me.</li>
   </ul>
