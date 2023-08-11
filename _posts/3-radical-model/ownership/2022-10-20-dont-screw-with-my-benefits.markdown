@@ -23,26 +23,27 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>The <span class="_paradigm">Radical</span> model is not about tweaking the <span class="_paradigm">Fiat</span> system we live in. It is very, very different. And it seems like a threat. &ldquo;The current system is all I know. It has been built over hundreds of years and it has made out lives better, right? Why change it so drastically? What is dramatically wrong with it that you want to pull it apart?&rdquo;</p>
  <p>Actually, the end result will not be that different. People will continue to be people. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo;, you don't have to be &ldquo;poor.&rdquo; For my live to be better, we don't have to break Earth. For me to feel better, I don't have to make you feel miserable.</p>
   <div class="_center">
-   <table>
+   <table class='_h2table'>
     <tr>
-     <td style="text-align:right; padding-right:1em; "></td>
-     <th id="_background"><span class="_paradigm">Radical</span> Goodness</th>
+     <td></td>
+     <th><span class="_paradigm">Radical</span> Goodness</th>
     </tr>
     <tr>
      <th>Bonus</th>
      <td>
-      Replaced by <em>earned dividends</em>, which are calculated based on the number of <span class="_paradigm">RAD</span>s. They, in turn, are calculated based on the number of recognized contributions your peers have given you.
-      <br>
-      Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.
+      <p>Replaced by <em>earned dividends</em>, which are calculated based on the number of <span class="_paradigm">RAD</span>s. They, in turn, are calculated based on the number of recognized contributions your peers have given you.</p>
+      <p>Keep in mind that the <span class="_paradigm">RAD</span>s you have  with previous companies are still generating income.</p>
      </td>
     </tr>
     <tr>
      <th>Salary</th>
-     <td>As your company matures and people are more experienced with RAD distributions, salaries can be replaced with a <em>predictable recurring income</em> (PRI) system.</td>
+     <td>
+      <p>As your company matures and people are more experienced with RAD distributions, salaries can be replaced with a <em>predictable recurring income</em> (PRI) system.</p>
+     </td>
     </tr>
     <tr>
-     <td style="text-align:right; padding-right:1em; ></td>
-     <th id="_background"><span class="_paradigm">Radical</span> Difference</th>
+     <td></td>
+     <th><span class="_paradigm">Radical</span> Difference</th>
     </tr>
     <tr>
      <th>
