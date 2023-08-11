@@ -38,12 +38,12 @@ image:    "icon-do-we-need-groups-anymore.svg"
   </ul>
 
 <h1>The Pump Convivium</h1>
- <p>A group of people gets together as a <em>convivium</em><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> to make pumps. I make the impeller. One woman makes the housings. And a nonbinary person sells the pumps. A  company is happy with the pumps and pays for them.</p>
+ <p>A group of people gets together as a <em>convivium</em><a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> to make pumps. I make the impeller. A woman, one my my peer co-owners, makes the housings. And a nonbinary person sells the pumps. Other companies is happy with the pumps and pays for them.</p>
  <p>In this case, the revenue happens because of the work we all do. None of us could build pumps at the same rate and quality by ourselves.</p>
- <p>The dividends are distributed according to the <span class="_paradigm">RAD</span>s co-owners gave each other through the pump building process. This is based on our recognized contributions.</p>
+ <p>The dividends are distributed according to the <span class="_paradigm">RAD</span>s co-owners gave each other through the pump building process. <span class="_paradigm">RAD</span>s are based on our recognized contributions.</p>
 
 <h1>So&hellip;</h1>
- <p>&hellip; we need groups. </p>
+ <p>We need groups. </p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -64,24 +64,13 @@ image:    "icon-do-we-need-groups-anymore.svg"
   </li>
   <li id="en03">
    <p class="_list-item">
-    <ul>
-     <li>
-      Wiktionary defines convivium as &ldquo;A symposium.&rdquo; and &ldquo;A geographically isolated population of a species that shows differentiation from other populations of the same species.&rdquo;
-      <<a href="https://en.wiktionary.org/wiki/convivium" target="_blank">https://en.wiktionary.org/wiki/convivium</a>>
-     </li>
-     <li>
-      Merriam-Webster defines it as &ldquo;a convivial gathering : banquet.&rdquo;
-      <<a href="https://www.merriam-webster.com/dictionary/convivium" target="_blank">https://www.merriam-webster.com/dictionary/convivium</a>>
-     </li>
-     <li>
-      It seems to come from Latin <em>con-</em>, together, and <em>vivial</em>, to live.
-     </li>
-     <li>
-      Etymoline describes it as originally associate with &ldquo;feast,&rdquo; but since the 18c it has meant &ldquo;sociable.&rdquo;
-      <<a href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>>
-      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-     </li>
-    </ul>
+    Wiktionary defines convivium as &ldquo;A symposium.&rdquo; and &ldquo;A geographically isolated population of a species that shows differentiation from other populations of the same species.&rdquo;
+    &lt;<a href="https://en.wiktionary.org/wiki/convivium" target="_blank">https://en.wiktionary.org/wiki/convivium</a>&gt;
+    Merriam-Webster defines it as &ldquo;a convivial gathering : banquet.&rdquo;
+    &lt;<a href="https://www.merriam-webster.com/dictionary/convivium" target="_blank">https://www.merriam-webster.com/dictionary/convivium</a>&gt;
+    Etymoline describes it as originally associate with &ldquo;feast,&rdquo; but since the 18c it has meant &ldquo;sociable.&rdquo;
+    &lt;<a href="https://www.etymonline.com/word/convivial" target="_blank">https://www.etymonline.com/word/convivial</a>&gt;
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
