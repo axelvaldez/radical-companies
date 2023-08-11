@@ -91,7 +91,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    <li>Born of a nostalgic fear</li>
    <li>From being born, growing up, and living for so long in a <span class="_paradigm">Fiat</span> environment</li>   
    <li>Where the wealth from the value created by all, goes &ldquo;up&rdquo; to the owners</li>
-   <li>And &ldquo;benefits&rdquo; are handed &ldquo;down&rdquo;</li>
+   <li>And &ldquo;benefits&rdquo; are handed &ldquo;down.&rdquo;</li>
   </ul>
 
 <h1>Retirement</h1>
