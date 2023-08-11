@@ -89,10 +89,9 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>After a while, you will figure out that this &ldquo;benefit&rdquo; thing is,</p>
   <ul>
    <li>Born of a nostalgic fear</li>
-   <li>From living for so long in a <span class="_paradigm">Fiat</span> environment</li>
+   <li>From being born, growing up, and living for so long in a <span class="_paradigm">Fiat</span> environment</li>   
    <li>Where the wealth from the value created by all, goes &ldquo;up&rdquo; to the owners</li>
-   <li>And benefits are handed &ldquo;down&rdquo;</li>
-   <li>Benefits are part of &ldquo;the cost of doing business.&rdquo;</p>
+   <li>And &ldquo;benefits&rdquo; are handed &ldquo;down&rdquo;</li>
   </ul>
 
 <h1>Retirement</h1>
@@ -109,7 +108,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p>Over centuries, we have been tweaking the pay system to accommodate people&rsquo;s basic needs to survive and work another day. As Chuck Blakeman remind us,<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> the range starts at zero pay during slavery to higher pay (plus poverty). The &ldquo;signal&rdquo; to pay more usually comes as some form of violence: strikes, revolution, or war.</p>
  <p>Eventually, governments impose taxes and benefits to calm things down. This imposition is a form of violence, but most businesses go along with it because they know it is better for them than the more violent alternative.</p>
  <p>As a result, we have ended up with a hodgepodge of &ldquo;benefits&rdquo; worldwide. Primarily because of lack of trust, of the business owners <em>and</em> the workers, the money for these benefits goes first to governments. Then a bureaucracy develops to &ldquo;manage&rdquo; this money &ldquo;on behalf of&rdquo; the workers.</p>
- <p>The <span class="_paradigm">Radical</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">Radical</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot to deal with this responsibility and there will be many bumps along with way until it works smoothly, but all adults are capable of learning it and doing it.</p>
+ <p>The <span class="_paradigm">Radical</span> model assumes that people know their needs better than any government, as benevolent as it may be. It follows, then, that people are the best &ldquo;managers&rdquo; of what they need to live. In the <span class="_paradigm">Radical</span> model money in the form of <em>earned dividends</em> go directly to each of us. And, yes, we all have to learn a lot to deal with this responsibility and there will be many bumps along the way until it works smoothly, but all adults are capable of learning it and doing it.</p>
  <p>If you are thinking, &ldquo;yeah, but people will never&hellip; &rdquo;, keep in mind that that you are right to think that of &ldquo;people <em>in <span class="_paradigm">Fiat</span> environment</em>.&rdquo; In an different environment, where people are not conditioned to be afraid of learning and people help each other learn, thing will go much faster and smoothly.</p>
 
 <h1 class="_section">ENDNOTES</h1>
