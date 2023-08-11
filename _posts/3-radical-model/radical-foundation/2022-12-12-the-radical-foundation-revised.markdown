@@ -51,17 +51,24 @@ image:    "icon-the-radical-foundation-revised.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
+    <th>RADs! mobile App</th>
+    <td></td>
+   </tr>
+   <tr>
+    <th>Explicit Relationships</th>
+    <td></td>
+   </tr>
+   <tr>
     <th>Explicit Alignment</th>
     <td>
-     <div>
       This applies to a group of people collaborating on a common project (<em>e.g.</em>, what we call a company). However you choose to express them, these are the key components that you must consider,
       <div class="_center">
        <img
-        src="/assets/img/pic-explicit-alignment-en.svg"
+        src="/assets/img/pic-radical-alignment-en.svg"
         alt=""
        >
       </div>
-     </div>
+       <!-- src="/assets/img/pic-explicit-alignment-en.svg" -->
     </td>
    </tr>
    <tr>
