@@ -66,17 +66,11 @@ image:    "icon-the-radical-foundation-revised.svg"
    </tr>
    <tr>
     <th>Explicit Agreement</th>
-    <td>Inspired by J Kim Wright&rsquo;s Concious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building in a safe pace (psychologically and physically).</td>
+    <td>Inspired by J Kim Wright&rsquo;s Conscious Contracts&reg;, these apply to <em>individuals</em> as they create or enter a <em>community</em>. Its goal is to make explicit that which usually remains hidden for fear of being ridiculed or rejected. It is the start of trust building at a safe pace (psychologically and physically).</td>
    </tr>
    <tr>
     <th>Explicit Relationships</th>
-    <td>
-      <div class="_center">
-       <img
-        src="/assets/img/icon-explicit-relationships-en.svg"
-        alt=""
-       >
-      </div></td>
+    <td></td>
    </tr>
    <tr>
     <th>Future Tools</th>
@@ -103,70 +97,5 @@ image:    "icon-the-radical-foundation-revised.svg"
    </tr>
   </table>
  </div>
- <h2>Tools</h2>
-  <p>Keep in mind that most of these tools will likely be different for you,</p>
-   <div class="_center">
-    <table class="_h2table">
-     <tr>
-      <th><em>RADs! App</em></th>
-      <td>
-       <span class="_paradigm">RAD</span> Distribution<br>
-      </td>
-     </tr>
-     <tr>
-      <th>Agreements</th>
-      <td>
-       Explicit Alignment
-       <br>
-       Explicit Relationships
-      </td>
-     </tr>
-     <tr id="_background">
-      <th>Future</th>
-      <td>
-       [Your space&hellip;]
-      </td>
-     </tr>
-   </table>
-  </div>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    <em>Get Rid of Ownership</em>.
-    <<a href="https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html" target="_blank">https://radicalcompanies.com/2022/11/09/get-rid-of-ownership.html</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    <em>Google Goes <span class="_paradigm">Radical</span></em>.
-    <<a href="https://radicalcompanies.com/2022/10/24/google-goes-radical.html" target="_blank">https://radicalcompanies.com/2022/10/24/google-goes-radical.html</a>>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    <em>Your Cheatin&rsquo; <span class="_paradigm">RAD</span>s</em>
-    <<a href="https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html" target="_blank">https://radicalcompanies.com/2022/10/19/your-cheatin-rads.html</a>>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    <em>No Bonuses or Salaries</em>
-    <<a href="https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html" target="_blank">https://radicalcompanies.com/2022/10/15/no-bonuses-or-salaries.html</a>>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    <em>Giving RADs</em>
-    <<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="_blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
 
 {% include related.html %}
