@@ -64,6 +64,10 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
       <p>Do you want to work with this group? Does it feel right to be part of this project?</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_explicitalignment">
    <tr id="_background">
     <th></th>
     <td>COMMITMENT</td>
@@ -82,6 +86,10 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
      <p>Just be transparent to yourself and others about what you are doing.</p>
     </td>
    </tr>
+  </table>
+ </div>
+ <div class="_center">
+  <table class="_explicitalignment">
    <tr id="_background">
     <th></th>
     <td>PRACTICES</td>
