@@ -26,7 +26,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    <table class='_h2table'>
     <tr>
      <th></th>
-     <td><span class="_paradigm" style='font-weight:bold; '>Radical</span> Goodness</td>
+     <td><span class="_paradigm" style='font-weight:bold; border-left:0; '>Radical</span> Goodness</td>
     </tr>
     <tr>
      <th>Bonus</th>
