@@ -13,29 +13,22 @@ image:    "icon-the-radical-foundation-revised.svg"
 <h1>&nbsp;</h1>
  <p>The <span class="_paradigm">Radical</span> Foundation can be made a bit simpler and more focused.</p>
  <p>In the book <span class="_paradigm">RADICAL COMPANIES</span>, we described the Foundation like this,</p>
- <table align="center">
-  <tr style="_h2table">
-   <th>principles</th>
-   <td>Meaning & Belonging</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr>
-   <th>commitments</th>
-   <td>Transparency & Decentralization</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
-  <tr style="_background">
-   <th>practices</th>
-   <td>Alignment & Experimentation</td>
-  </tr>
-  <tr>
-   <td class="_spacer"></td>
-  </tr>
- </table>
+  <div class='_center'>
+   <table class="_h2table">
+    <tr>
+     <th>principles</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Transparency & Decentralization</td>
+    </tr>
+    <tr style="_background">
+     <th>practices</th>
+     <td>Alignment & Experimentation</td>
+    </tr>
+   </table>
+  </div>
  <p>At pivotal points, having a <span class='_paradigm'>Foundation</span> helps you get oriented along the path you have chosen. <span class="_quotespan">Will this action help us to develop and grow as people?</span> <span class="_quotespan">Will this decision make us more centralized or more decentralized?</span> <span class="_quotespan">Are we being too rigid or are we still learning from experimentation?</span></p>
 
 <h1>Meaning and Belonging</h1>
