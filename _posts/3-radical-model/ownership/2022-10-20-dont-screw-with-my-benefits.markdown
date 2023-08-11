@@ -10,16 +10,16 @@ image:    "icon-dont-screw-with-my-benefits.svg"
  <p><span class="_paradigm">RAD</span>s are OK, but what about my benefits (e.g., vacations, parental time off, sick days)? I don&rsquo;t want to put them at risk!</p>
 </div>
 
-<h1>FIAT Benefits</h1>
+<h1>Fiat Benefits</h1>
  <p><span class='_quotespan'><span class='_paradigm'>RAD</span>s sound like it&rsquo;s going to let businesses bypass their responsibilities and put my benefits at risk.</span></p>
  <p>Vacations, parental time off, and sick days are <span class="_paradigm">Fiat</span> benefits that people throw up as an objection to the <span class="_paradigm">Radical</span> model. The <span class="_paradigm">RAD</span>s system is sold as all goodness, but there has to be a downside to them, right?</p>
  
 <div class="_citation">
- Perhaps our job is to create the conditions for things to get better, not to predict that they won’t.
+ <p>Perhaps our job is to create the conditions for things to get better, not to predict that they won&rsquo;t.</p>
  <p id="_signature">Seth Godin<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
  
-<h1>RADICAL Threat</h1>
+<h1>Radical Threat</h1>
  <p>The <span class="_paradigm">Radical</span> model is <em>not</em> about tweaking the <span class="_paradigm">Fiat</span> system. They are very, very different. And it seems like a threat. <span classs='_quotespan'>The current system is all I know. It has been built over many, many years and it has made our lives better, right? Why change it so drastically? What is so dramatically wrong with it that you want to pull it apart?</span></p>
  <p>Actually, the end result will not be that different. People will continue to be people. Our lives will keep improving, but without the exploitation of other people. For me to be &ldquo;rich&rdquo;, you don&rsquo;t have to be &ldquo;poor.&rdquo; For my life to be better, we don&rsquo;t have to break Earth. For me to feel better, I don&rsquo;t have to make you feel miserable.</p>
   <div class="_center">
@@ -64,7 +64,7 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    </table>
   </div>
  
-<h1>BANNERs</h1>
+<h1>Banners</h1>
  <p>You can also create <span class="_paradigm">Banner</span>s for these eventualities. These can be individual <span class="_paradigm">Banner</span>s, company-wide, or anywhere in between. For example, some of your peers may agree to reserve 10% of their income for &ldquo;benefits,&rdquo; </p>
  <div class="_center">
   <img
