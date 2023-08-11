@@ -467,6 +467,9 @@ p {
   text-align:justify;
   text-justify:inter-word;
 }
+p._list-item {
+  text-align:left;
+}
 div._center table._explicitalignment p {
   text-indent:0;
 }
@@ -548,7 +551,7 @@ div table._background, div table._foundation {
 }
 
 /* Q&A BEGIN */
-_qna 1{
+_qna {
   padding-left:2em;
 }
 ._q {
@@ -649,7 +652,6 @@ h1 ~ h3 {
   padding-top:25px;
   font-size:1.2rem;
 }
-ul th, ul td, ul th p, ul td p,
-td p {
+ul th, ul td, ul th p, ul td p, td p {
   text-indent:0;
 }
