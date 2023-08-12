@@ -33,7 +33,7 @@ image:    "icon-investments-and-co-ownership.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    More like IndieGoGo than Kickstarter)
+    More like IndieGoGo than Kickstarter.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
