@@ -43,7 +43,7 @@ image:    "icon-a-sample-radical-investment.svg"
  <p style="text-indent:2em; ">The Note shall bear interest at a rate of ten percent (10%) in total over the life of the loan investment if it is fully repaid by [DATE].</p>
 
 <h1>IV. ALTERNATIVE TO INTEREST</h1>
- <p style="text-indent:2em; font-weight:bold; ">If the Borrower chooses to match the interest amount then the combination of the Borrower&rsquo;s matched [AMOUNT] plus the interest [AMOUNT] will be put into a fund to be distributed according to the number of <span class="_paradigm">RAD</span>s each co-owner has at the time of the disbursement.</p>
+ <p style="text-indent:2em; font-weight:bold; ">If the Borrower chooses to match the interest amount, then the combination of the Borrower&rsquo;s matched [AMOUNT] plus the interest [AMOUNT] will be put into a fund to be distributed according to the number of <span class="_paradigm">RAD</span>s each co-owner has at the time of the disbursement.</p>
 
 <h1>V. PREPAYMENT</h1>
  <p style="text-indent:2em; ">The Borrower has the right to pay back the loan in-full or make additional payments at any time without penalty.</p>
