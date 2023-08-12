@@ -2,7 +2,7 @@
 layout:   post
 title:    "The Many Benefits of Being the Boss"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez, Adrian Perez"
+authors:  "Adrian Perez"
 image:    "icon-the-many-benefits-of-being-the-boss.svg"
 ---
 
@@ -12,9 +12,9 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 
 <h1>FREEDOM!</h1>
  <p>When you are broke-but-with-a-great-idea, the big kick comes from developing that idea, thinking of its many potentials, and telling people about it. You have the freedom to rift on it at the speed of thinking.</p>
- <p>As your idea meets the reality of implementation, the main benefit is the satisfaction of solving the problems that keep coming at you and your team. Lots of bonding, too, with your team, including your early investors and early-adopter customer. You can see how your new world is coming together.</p>
+ <p>As your idea meets the reality of implementation, the main benefit is the satisfaction of solving the problems that keep coming at you and your team. Lots of bonding, too, with your team, including your early investors and early-adopter customers. You can see how your new world is coming together.</p>
  <p>You are &ldquo;the CEO,&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> the big kahuna, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that <span class="_quotespan">it will be really easy to make it into a full fledged, world-class product.</span></p>
- <p>Finally, you get the capital infusion that you needed to expand. You have a Board now to help you turn this new world you&rsquo;ve created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
+ <p>Finally, you get the capital infusion that you need to expand. You have a Board now to help you turn this new world you&rsquo;ve created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
 
 <h1>Your Friend, the Author</h1>
  <p>All along, your friend has been telling you about a different way of running the business. It kind of makes sense, but you can&rsquo;t take that kind of idealistic risk now. Maybe later.</p>
@@ -22,7 +22,7 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
  <p>Now that you have the capital and an awesome product is on its way, you take the weekend off. Really. You sit down with your friend and tell her that <span class="_quotespan">I read your book, but I don&rsquo;t think it&rsquo;s something that we can do now. My Board would  not react well to it, and, honestly, it won&rsquo;t reflect well on me, either, to bring it up at this point. But once the business is more established, we can revisit it.</span></p>
 
 <h1>The Rubber Hits the (Yellow Brick) Road</h1>
- <p>After all, you&rsquo;re a new CEO and have to build your reputation and you can&rsquo;t afford to be seen as anything less a winner. And, at this point, it&rsquo;s all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
+ <p>After all, you&rsquo;re a new CEO and have to build your reputation and you can&rsquo;t afford to be seen as anything less than a winner. And, at this point, it&rsquo;s all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
  <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. <span class="_quotespan">Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.</span></p>
  <p>There is so much more to do, but now they want me to hire <span class="_quotespan">people with credentials and the chops to make it happen, whatever that means. You&rsquo;ve talked to a couple of candidates and found out that they want more shares and bigger salaries than anybody in your team. And the Board keeps sending their awesome friends.</span></p>
 
@@ -34,7 +34,7 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 <h1>For Personal Reasons</h1>
  <p>One of your oldest Board member pulls you aside and tells you to not attend the next Board meeting. <span class="_quotespan">You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.</span></p>
  <p>You are out <em>for personal reasons.</em> You are conflicted and feeling worse than awful and you can&rsquo;t face your team.</p>
- <p>You get news that the business is going to be acquired <em>but a low price.</em> So low, in fact, that <span class="_quotespan">the Board made a unanimous decision to dilute  non-active employees and common shareholders to 25% of their holdings.</span> Not such a big pay off after all for you or your team.</p>
+ <p>You get news that the business is going to be acquired <em>but at a low price.</em> So low, in fact, that <span class="_quotespan">the Board made a unanimous decision to dilute  non-active employees and common shareholders to 25% of their holdings.</span> Not such a big pay off after all for you or your team.</p>
  
 <h1>Time to Read the Book</h1>
  <p>You start to come out of your depression and go out in the lake for a last boat ride. Amazing how calming the water is.</p>
