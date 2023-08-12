@@ -12,7 +12,7 @@ image:    "icon-radical-hiring-no-such-thing.svg"
 
 <h1>&nbsp;</h1>
  <p>I keep having this image of being able to show up at a company and start to work there without the interviews, the judgment, or any of the other barriers. The act of hiring is a very  thing, it reeks of command and control.</p>
- <p>I suspect it has to do with the way I was hired at XCOR Aerospace. My friend and I called them up and asked if we could visit. They said “yes,” and we drove seven hours out into the Mojave desert. They could not show us around because they were testing their rocket plane. However, they asked us if we wanted to help roll the rocket plane out, which did we without hesitation. When we saw the test, we were immediately sold on working there.</p>
+ <p>I suspect it has to do with the way I was hired at XCOR Aerospace. My friend and I called them up and asked if we could visit. They said “yes,” and we drove seven hours out into the Mojave desert. They could not show us around because they were testing their rocket plane. However, they asked us if we wanted to help roll the rocket plane out, which we did without hesitation. When we saw the test, we were immediately sold on working there.</p>
  <p>We got a long talk from the CEO about the aerospace industry, how terrible it was, and how we should avoid the industry at all costs. It was the most unorthodox job hunt ever. In spite of it, we ended up happily working there. And that is the way that “hiring” should happen.</p>
 
 <h1>Banners</h1>
@@ -24,6 +24,6 @@ image:    "icon-radical-hiring-no-such-thing.svg"
    <li>If what you do is not recognized as contributions, you’d probably go away. Alternatively, it may be a matter of doing a better job at letting others know what you’re doing.</li>
    <li>Later, we then can go through the Explicit Relationship and, if everything goes well, you are part of the company.</li>
   </ul>
- <p>Easy peasy!</p>
+ <p>Piece of cake!</p>
 
 {% include related.html %}
