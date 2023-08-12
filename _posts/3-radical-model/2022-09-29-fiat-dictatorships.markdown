@@ -40,9 +40,8 @@ image:    "icon-fiat-dictatorships.svg"
  <p>On the other hand, the stock market got stuck and it went backwards. It went from being a pricing machine to a gambling table, with ruthless competition and predatory practices. All of this has corrupted its growth.</p>
 
 <h1>Oh, the Irony</h1>
- <p>It is noteworthy that <span class="_paradigm">Radical</span>, <span class="_paradigm">Radical</span>, companies will be incubated <em>inside</em> <span class="_paradigm">Fiat</span> businesses. This, we hope, will transform the <span class="_paradigm">Fiat</span> system itself. As people learn what is like to be a co-owner, our hope is that they will take it to other <span class="_paradigm">Fiat</span> institutions, like School Boards and their local governments.</p>
- <p>It is worth noting that <span class="_paradigm">Radical</span> companies are better at growth than <span class="_paradigm">Fiat</span> businesses. It&rsquo;s just that <em>the growth</em> doesn&rsquo;t go into one pocket (the owner&rsquo;s), but many (co-owners&rsquo;) and therefore the difference.</p>
- <p>Oh, the irony.</p>
+ <p>It is noteworthy that <span class="_paradigm">Radical</span>, <span class="_paradigm">Radical</span>, companies will be incubated <em>inside</em> <span class="_paradigm">Fiat</span> businesses. This, we hope, will transform the <span class="_paradigm">Fiat</span> system itself. As people learn what it is like to be a co-owner, our hope is that they will take it to other <span class="_paradigm">Fiat</span> institutions, like School Boards and their local governments.</p>
+ <p>It is worth noting that <span class="_paradigm">Radical</span> companies are better at growth than <span class="_paradigm">Fiat</span> businesses. It&rsquo;s just that <em>the growth</em> doesn&rsquo;t go into the owner’s pocket, but into the pockets of the co-owners. That is the difference. And the irony.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
