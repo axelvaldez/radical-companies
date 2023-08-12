@@ -11,7 +11,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 </div>
 
 <h1>Intro</h1>
- <p>We are pretty sure that we are not the first to come up with the model the book described in the book <em>RADICAL COMPANIES</em>. You find instances of communities and businesses everywhere in the world and at different times in history. However, an alternative model to the <span class="_paradigm">Fiat</span> system has never reached escape velocity.</p>
+ <p>We are pretty sure that we are not the first to come up with the model described in the book <em>RADICAL COMPANIES: Without Bosses or Employess</em>. You find instances of communities and businesses everywhere in the world and at different times in history. However, an alternative model to the <span class="_paradigm">Fiat</span> system has never reached escape velocity.</p>
 
 <h1>Precursors</h1>
  <p><span class="_paradigm">Radical</span>-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
