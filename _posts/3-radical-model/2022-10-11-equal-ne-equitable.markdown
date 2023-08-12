@@ -48,7 +48,7 @@ image:    "icon-equal-ne-equitable.svg"
   </div>
 
 <h1>By Committee</h1>
- <p>Let&rsquo;s say that the distribution is done by a boss or a committee, all with good intentions. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever <em>equitably.</em> As the team grows, the boss or committee knows less and less of the new people as individuals. At that point, the distribution starts to get out of whack and they make up rules that lean towards equal.</p>
+ <p>Let&rsquo;s say that the distribution is done by a boss or a committee, all with good intentions. In the early days, with a small team, the boss or committee knows everybody and knows their work and they assign money, or stock, or whatever <em>equitably.</em> As the team grows, the boss or committee knows less and less of the new people as individuals. At that point, the distribution starts to get out of whack and they make up rules that lean towards equality.</p>
  <p>The old people notice and feel nostalgic. The next wave of people also notice and feel it&rsquo;s somewhat unfair, but the old folks deserve it. The newest people also notice, feel unappreciated, and soon quit.</p>
  <p>This <span class="_paradigm">Fiat</span> system doesn&rsquo;t scale mostly because it allows a few benevolent people to make it bearable. Any more than a few might be a problem.</p>
  
@@ -60,7 +60,7 @@ image:    "icon-equal-ne-equitable.svg"
    <li>They know everybody in the team and what each does.</li>
    <li>The team gets to know the new folks and what they do.</li>
    <li>Everybody gets to recognize contributions as they happen.</li>
-   <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made my each.</li>
+   <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made by each.</li>
    <li>Co-owners will learn to communicate more global contributions widely.</li>
   </ul>
   <div class="_center">
