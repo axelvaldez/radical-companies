@@ -61,7 +61,7 @@ image:    "icon-equal-ne-equitable.svg"
    <li>The team gets to know the new folks and what they do.</li>
    <li>Everybody gets to recognize contributions as they happen.</li>
    <li>As the community scales in size, co-owners in teams still know each other and can recognize contributions made by each.</li>
-   <li>Co-owners will learn to communicate more global contributions widely.</li>
+   <li>Co-owners will learn to communicate more globally.</li>
   </ul>
   <div class="_center">
    <img
@@ -76,13 +76,13 @@ image:    "icon-equal-ne-equitable.svg"
  <ul>
   <li>Goes on all the time, not a quarter or a year later when memories get fuzzy.</li>
   <li>Are done by everybody, not just a small group.</li>
-  <li>Co-owners don&rsquo;t need to be benevolent or even angelical. They just needs to know enough about the people around them. They know when a co-owner talked to another who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by many things: her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well in the other directions and overall they strike a much better balance than the boss or committee.</li>
+  <li>Co-owners don&rsquo;t need to be benevolent or even angelical. They just need to know enough about the people around them. They know when a co-owner talked to another who was down in the dump and by the end of it their mood had visibly improved. And, yes, this is biased by many things: her mood, whether or not she likes the other co-owner, etc. But other co-owners are biased as well in the other directions and overall they strike a much better balance than the boss or committee.</li>
  </ul>
  <p>This way, each co-owner gets to distribute the ownership of the company and its dividends to other co-owners. And they do it all the time, as they see those contributions happen. They can do this via the <em><span class="_paradigm">RAD</span>s! mobile app</em>.</p>
 
 <h1>Giving RADs</h1>
  <p>Every co-owner gets one <span class="_paradigm">RAD</span> per day to give, not to keep. She gets to give them to other co-owners based on what feels like contributions to her. Different co-owners will get different amounts of <span class="_paradigm">RAD</span>s from various other co-owners.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>The distibution may end with this, depending on contributions,</p>
+ <p>The distribution may end with this, depending on contributions,</p>
   <div class="_center">
    <img
     src="/assets/img/pic-equal-ne-equitable-04.svg"
