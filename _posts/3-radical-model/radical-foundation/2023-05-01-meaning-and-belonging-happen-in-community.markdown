@@ -11,7 +11,7 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p><em>Meaning & Belonging</em> only happen in communities. Transformations only happen in community.</p>
+ <p><em>Meaning & Belonging</em> only happen in communities. Transformations only happen in communities.</p>
  <p>Changing your mindset is key, but you need other people who have changed their mindset as well. <span class="_quotespan">If you want to go quick, go alone. If you want to go far, go together,</span> you will need like-minded companions for the journey.</p>
  <p>That is, too, what diversity is all about,
   <div class="_citation">
@@ -20,7 +20,7 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
   </div>
  
 <h1>Isolation</h1>
- <p>The opposite to belonging is isolation, loneliness. The <span class="_paradigm">Fiat</span> system&rsquo;s drive to divide and conquer has gone overboard and has come down to individuals. It negatively affects the health of individuals and society.</p>
+ <p>The opposite of belonging is isolation, loneliness. The <span class="_paradigm">Fiat</span> system&rsquo;s drive to divide and conquer has gone overboard and has come down to individuals. It negatively affects the health of individuals and society.</p>
   <div class="_citation">
    <p>Loneliness is more than just a bad feeling. When people are socially disconnected, their risk of anxiety and depression increases. So does their risk of heart disease (29%), dementia (50%), and stroke (32%). The increased risk of premature death associated with social disconnection is comparable to smoking daily&mdash;and maybe even greater than the risk associated with obesity.</p>
    <p id="_signature">Vivek Murthy, US Surgeon General, New York Times<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
