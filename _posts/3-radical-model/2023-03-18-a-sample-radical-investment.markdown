@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "A Sample Radical Investment"
+title:    "A Radical Investmen Agreement Template"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-a-sample-radical-investment.svg"
+image:    "icon-a-radical-investment-agreement-template.svg"
 ---
 
 <div style="display:none;">
