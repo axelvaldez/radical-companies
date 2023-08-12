@@ -26,13 +26,6 @@ image:    "icon-roundabouts.svg"
 
  <h1>Decentralized Traffic</h1>
   <p>Roundabouts could be plain, though they usually match their surroundings. Oftentimes, they can be very artistic and even be flamboyant. They don&rsquo;t cost as much to &ldquo;install&rdquo; and maintenance, if any, is minimal. Most importantly, <em>the drivers manage their operation</em> according to what&rsquo;s happening: sometimes they go in and other times they wait for other vehicles or pedestrians. There&rsquo;s no bureaucracy to fight and the only &ldquo;influence&rdquo; that counts is that of the people at the intersection.</p>
-  <div class=_center>
-   <img
-    src="/assets/img/pic-roundabouts.svg"
-    style="display:block; margin:0 auto; "
-    alt="Roundabouts in matching their surroundings, artistics, and flamboyant. All very interesting and good looking."
-    width="90%" >
-  </div>
 
  <h1>The Important Point</h1>
   <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that with Roundabouts people don&rsquo;t need an &ldquo;authority&rdquo; to tell them how to proceed. As adults they can figure out how to deal with what they see in the place, at the moment.</p>
