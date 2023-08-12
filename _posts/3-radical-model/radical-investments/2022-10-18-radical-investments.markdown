@@ -15,7 +15,7 @@ image:    "icon-radical-investments.svg"
  <p>Here is a sketch of each&hellip;</p>
  
 <h1>Venture Capital Investments</h1>
- <p>A Venture Capital (VC) investment triggers an ownership transfer.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The business now has to issue shares of stock so they can give a <em>forever</em> percentage of stock to the VC investor in exchange for their capital. If the amount of investment is big enough, VC investors also expect a seat on the Board which gives then control over the business. Although they usually defer to the execs, they can always fire them and take direct hire somebody more, say, amenable to their wishes.</p>
+ <p>A Venture Capital (VC) investment triggers an ownership transfer.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> The business now has to issue shares of stock so they can give a <em>forever</em> percentage of stock to the VC investor in exchange for their capital. If the amount of investment is big enough, VC investors also expect a seat on the Board which gives then control over the business. Although they usually defer to the execs, they can always fire them and hire somebody more, say, amenable to their wishes.</p>
  <p>In my experience, they contribute almost nothing to the success of the business other than their capital. Their advice is hard to come by and, in fairness, they don't have the expertise or the bandwidth to give you more than banal advise.</p>
  
 <h1>Angel Investments</h1>
@@ -42,12 +42,10 @@ image:    "icon-radical-investments.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Fix quotes Nitzan and Bichler as arguing that <span class="_quotespan">ownership is a negative social relation: it is the institutional right to exclude.</span>
-    Blair Fix.
+    According to Blair Fix, Nitzan and Bichler argue that <span class="_quotespan">ownership is a negative social relation: it is the institutional right to exclude.</span>
     <em>Unemployment and the Maturity of Capitalism.</em>
     May 06, 2023.
     Economics from the Top Down.
-    Nitzan and Bichler argue that ownership is a negative social relation: it is the institutional right to exclude.
     &lt;<a href="https://…" target="_blank">https://…</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
