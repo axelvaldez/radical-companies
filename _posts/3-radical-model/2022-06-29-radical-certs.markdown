@@ -11,7 +11,7 @@ image:    "icon-radical-certs.svg"
 </div>
 
 <h1>How It Started</h1>
- <p>The issue of &ldquo;certification&rdquo; came up as: <span class='_paradigm'>it&rsquo;d be nice to have a <span class='_paradigm'>Radical</span> cert.</span> Certification makes sense in the <span class='_paradigm'>Fiat</span> system, run by hierarchies and organized around domination through fear, <em>a mighty authority certifies that you are qualified</em>. On the other hand, &ldquo;certs&rdquo; are incongruous with a <span class='_paradigm'>Radical</span> model, without hierarchies, domination, or fear posing as &ldquo;motivation.&rdquo;</p>
+ <p>The issue of &ldquo;certification&rdquo; came up as: <span class='_quotespan'>it&rsquo;d be nice to have a <span class='_paradigm'>Radical</span> cert.</span> Certification makes sense in the <span class='_paradigm'>Fiat</span> system, run by hierarchies and organized around domination through fear, <em>a mighty authority certifies that you are qualified</em>. On the other hand, &ldquo;certs&rdquo; are incongruous with a <span class='_paradigm'>Radical</span> model, without hierarchies, domination, or fear posing as &ldquo;motivation.&rdquo;</p>
  <p>Given that we live in a <span class='_paradigm'>Fiat</span> world, and will do so for a while, the urge for differentiation is not unreasonable: &ldquo;<em>Hey, we are certified as <span class='_paradigm'>Radical</span>!</em>&rdquo; However, rather than an external authority, the <em>people</em> who embody a company <em>are</em> the ones to positively declare that, <span class='_quotespan'>We are on a <span class='_paradigm'>Radical</span> path, and here&rsquo;s the data that tells where we are at along the path</span>
  
 <h1>Not Aligned</h1>
