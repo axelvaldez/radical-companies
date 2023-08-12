@@ -13,7 +13,7 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 <h1>FREEDOM!</h1>
  <p>When you are broke-but-with-a-great-idea, the big kick comes from developing that idea, thinking of its many potentials, and telling people about it. You have the freedom to rift on it at the speed of thinking.</p>
  <p>As your idea meets the reality of implementation, the main benefit is the satisfaction of solving the problems that keep coming at you and your team. Lots of bonding, too, with your team, including your early investors and early-adopter customers. You can see how your new world is coming together.</p>
- <p>You are &ldquo;the CEO,&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> the big kahuna, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that <span class="_quotespan">it will be really easy to make it into a full fledged, world-class product.</span></p>
+ <p>You are &ldquo;the CEO,&rdquo; the big kahuna, the boss of an incredible team, with a great, disruptive idea, and an MVP that is so awesome that <span class="_quotespan">it will be really easy to make it into a full fledged, world-class product.</span></p>
  <p>Finally, you get the capital infusion that you need to expand. You have a Board now to help you turn this new world you&rsquo;ve created into a money-making machine. Screw Zuckerberg, this is going to be bigger and do good in the world.</p>
 
 <h1>Your Friend, the Author</h1>
@@ -23,7 +23,7 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 
 <h1>The Rubber Hits the (Yellow Brick) Road</h1>
  <p>After all, you&rsquo;re a new CEO and have to build your reputation and you can&rsquo;t afford to be seen as anything less than a winner. And, at this point, it&rsquo;s all about making it big for those investors who took a chance on you and you crazy idea. And, yes, your awesome team, too.</p>
- <p>But now is all about growing beyond out initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. <span class="_quotespan">Really, you should start to look into the possibly of an IPO—at.worst, it will make the business more attractive for a big acquisition.</span></p>
+ <p>But now it is all about growing beyond our initial market. The Board thinks we can do much, much better and turn what we have into a huge franchise. <span class="_quotespan">Really, you should start to look into the possibility of an IPO—at worst, it will make the business more attractive for a big acquisition.</span></p>
  <p>There is so much more to do, but now they want me to hire <span class="_quotespan">people with credentials and the chops to make it happen, whatever that means. You&rsquo;ve talked to a couple of candidates and found out that they want more shares and bigger salaries than anybody in your team. And the Board keeps sending their awesome friends.</span></p>
 
 <h1>The Gloves Come Off</h1>
@@ -42,18 +42,5 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
  <p>As you sit there, in the middle of the lake, your phone rings again and you pick up a call from your author friend. Among other things, she tells you about his new book, <span class="_quotespan">this one is about our experience implementing all those ideas we spoke about. It truly is more awesome that we had speculated. It is amazing the things we have done with little capitalization just by decentralizing all decision-making and recognizing people’s contributions. I am so happy and fulfilled&mdash;the whole team is! You should come.and stay with us&hellip; </span></p>
  <p>She had taken home more than you got from the acquisition. In fact, the whole team of co-owners had taken home about three times the revenue his company was bringing in. And they had paid back the capital they had borrowed plus a substantial gain. You made her repeat twice that the investor hadn&rsquo;t gotten any shares in the company. Come to think of it, it didn&rsquo;t sound like the company had issued shares at all. And it sounded like they were just getting started.</p>
  <p>As you paddle towards the shore you just know that you&rsquo;re going to pass on the plan-B-CEO offer. It will give you time to really read her book.</p>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Adrian Perez.
-    <em>Who Am I If Not a Manager?</em>.
-    Aug 2002.
-    <<a href="https://radicalcompanies.com/2022/08/27/who-am-i-if-not-a-manager.html" target="_blank">https://radicalcompanies.com/2022/08/27/who-am-i-if-not-a-manager.html</a>>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
 
 {% include related.html %}
