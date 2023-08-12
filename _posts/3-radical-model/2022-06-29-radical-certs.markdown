@@ -53,7 +53,7 @@ image:    "icon-radical-certs.svg"
    <p class="_list-item">
     Dan & Jessica.
     <em>What Does Certified B Corporation Mean?</em>
-    &lt;<a href="https://www.recycledandrenewed.com/what-does-certified-b-corporation-mean/" target="blank"></a> (alt., &lt;<a href="https://diigo.com/0pa15t" target="blank">https://diigo.com/0pa15t</a>&gt;).
+    &lt;<a href="https://radicals.world/Fq6mTH" target="blank"></a> (alt., &lt;<a href="https://radicals.world/Fq6mTH" target="blank">https://diigo.com/0pa15t</a>&gt;).
     Mar 9, 2020.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
