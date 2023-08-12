@@ -117,8 +117,7 @@ image:    "icon-escape-velocity-radical-style.svg"
    </table>
   </div>
 
-<h1>Radical Tools</h1>
- <h2><em>RADs! Mobile App</em></h2>
+<h1><em>RADs! Mobile App</em></h1>
   <p>We have a mobile app called <em><span class="_paradigm">RAD</span>s!</em> that supports <span class="_paradigm">RAD DISTRIBUTION</span>s.</p>
   <ul>
    <li>Co-owners use the <em>RADs! Mobile App</em> to <em>recognize contributions</em>.</li>
@@ -127,9 +126,10 @@ image:    "icon-escape-velocity-radical-style.svg"
    <li>The amount of RADs each person has earned determines their share of ownership (<em>i.e.</em>, the value created by all co-owners).</li>
    <li>The whole thing is transparent. Everybody can see who is given RADs to whom, how many RADs each co-owner has, etc. Among other benefits, this lets anybody raise a red flag when they see a problem.</li>
   </ul>
- <h2>Explicit Relationships</h2>
+
+<h1>Explicit Relationships</h1>
   <p><em>Explicit Relationships</em> help people come together and build trust from the start.</p>
-  <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an <em>Explicit Relationships</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Appendix</a>), they create an <em>Explicit Relationships</em> from their discussion notes.</p>
+  <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an <em>Explicit Relationship</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Avout Community</a>, below), they create an <em>Explicit Relationship</em> from their discussion notes.</p>
   <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 
 <h1>Reaching Escape Velocity</h1>
