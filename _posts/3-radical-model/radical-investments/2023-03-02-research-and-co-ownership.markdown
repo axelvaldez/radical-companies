@@ -15,7 +15,7 @@ image:    "icon-research-and-co-ownership.svg"
   <ul>
    <li>Put up a <span class="_paradigm">Banner</span>.</li>
    <li>People give their <span class="_paradigm">RAD</span>s to the <span class="_paradigm">Banner</span>.</li>
-   <li>If it falls short, and you have consent, you can get an outside <span class="_paradigm">Radical</span> investment<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> for the difference.</li>
+   <li>If it falls short, and you have consent, you can get an outside <span class="_paradigm">Radical</span> investment for the difference.</li>
    <li>Done.</li>
   </ul>
 
@@ -24,22 +24,8 @@ image:    "icon-research-and-co-ownership.svg"
   <li><span class="_paradigm">Banner</span>s can&rsquo;t give <span class="_paradigm">RAD</span>s back, so this process cannot be gamed or corrupted (at least, not this way).</li>
   <li>An internal investment can come from anybody with company <span class="_paradigm">RAD</span>s, including people for the ensemble your company may be part of.</li>
   <li>Consensus means that everybody has to agree without a doubt. If you don&rsquo;t, we badger you or bribe you until you are willing to say you agree. If nothing works, the whole process stops. You are at the mercy of one.</li>
-  <li>Consent means that you are not sure you fully agree, but you can live with it. The disagreeing people has to explain their reason and that may a better argument against than the one for original proposal. It is an opportunity for all to learn.</li>
+  <li>Consent means that you are not sure you fully agree, but you can live with it. Alternatively, the disagreeing people have to explain their reason. It is an opportunity for all to learn.</li>
   <li>For internal investments, the &ldquo;consent&rdquo; <span class="_paradigm">RAD</span>s get taken out of the <span class="_paradigm">RAD</span>s given in this cycle and contributed to the <span class="_paradigm">Banner</span>s. They get ownership according to the <span class="_paradigm">RAD</span>s each co-owner has at the time of the investment.</li>
- </ul>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez.
-    <em>Radical Investments</em>.
-    PRADERA MEDIA.
-    2022.
-    &lt;<a href="https://radicalcompanies.com/2022/10/18/radical-investments" target="_blank">https://radicalcompanies.com/2022/10/18/radical-investments</a>&gt;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
  </ul>
 
 {% include related.html %}
