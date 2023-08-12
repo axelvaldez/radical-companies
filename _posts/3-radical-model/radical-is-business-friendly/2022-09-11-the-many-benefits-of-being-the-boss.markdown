@@ -28,11 +28,11 @@ image:    "icon-the-many-benefits-of-being-the-boss.svg"
 
 <h1>The Gloves Come Off</h1>
  <p>The Board meetings are getting to be a royal pain. The Board members have turned hostile and they keep bringing up stuff that had to come from the people you hired. It all has a whiff of truth in it, but it&rsquo;s all twisted. And they bring this crap just as the meeting is ending and there is no time to straighten things out before they <em>have to run</em> to their next meeting.</p>
- <p>On top of that, your team is not reacting well to the new executive team. They don&rsquo;t like all the <em>reporting</em> meetings that turn into <span class="_quotespan">do as I say</span> meetings.</p>
+ <p>On top of that, your team is not reacting well to the new executive team. They don&rsquo;t like all the <em>reporting</em> meetings that turn into do-as-I-say meetings.</p>
  <p>Actually, you feel awful, but, jeez, the money will make up for it.</p>
 
 <h1>For Personal Reasons</h1>
- <p>One of your oldest Board member pulls you aside and tells you to not attend the next Board meeting. <span class="_quotespan">You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.</span></p>
+ <p>One of your oldest Board members pulls you aside and tells you to not attend the next Board meeting. <span class="_quotespan">You are out and the COO is going to be our interim CEO–but, don&rsquo;t worry, you&rsquo;ll keep your shares.</span></p>
  <p>You are out <em>for personal reasons.</em> You are conflicted and feeling worse than awful and you can&rsquo;t face your team.</p>
  <p>You get news that the business is going to be acquired <em>but at a low price.</em> So low, in fact, that <span class="_quotespan">the Board made a unanimous decision to dilute  non-active employees and common shareholders to 25% of their holdings.</span> Not such a big pay off after all for you or your team.</p>
  
