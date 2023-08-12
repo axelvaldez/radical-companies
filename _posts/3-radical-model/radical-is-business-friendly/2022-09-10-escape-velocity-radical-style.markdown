@@ -130,7 +130,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>Explicit Relationships</h1>
   <p><em>Explicit Relationships</em> help people come together and build trust from the start.</p>
   <p>Inspired by J Kim Wright&rsquo;s <em>Conscious Contracts<sup>®</sup></em> framework,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an <em>Explicit Relationship</em> consists of four items that would-be co-owners discuss. Then, when they agree to come together as a community (see <a id="_aboutCommunity" href="#_appendix">Avout Community</a>, below), they create an <em>Explicit Relationship</em> from their discussion notes.</p>
-  <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including this: <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
+  <p>There are still lots of things to work out (<em>e.g.</em>, how to scale it), but so far we&rsquo;ve gotten good feedback, including, <span class="_quotespan">some organizations never build up trust among people, even after years of operation.</span></p>
 
 <h1>Reaching Escape Velocity</h1>
  <p>Simple Foundation, Language, and Tools, I believe, is what we need for the <span class="_paradigm">Radical</span> model to build momentum and reach escape velocity.</p>
@@ -142,7 +142,7 @@ image:    "icon-escape-velocity-radical-style.svg"
  <p>A community could be,</p>
  <ul>
   <li>A legal entity (<em>e.g.</em>, C Corp, LLC, or an Unincorporated Association in California).</li>
-  <li>A group of people working together, with no legal structure (<em>e.g.</em>, a <em>RADs! Mobile App</em> community).</li>
+  <li>A group of people working together, with a <em>RADs! Mobile App</em> community.</li>
   <li>Temporary or permanent.</li>
  </ul>
  <p>One more thing: a community&rsquo;s boundary is porous, made up and changed by the people who embody the community as they come in and out of it easily.</p>
