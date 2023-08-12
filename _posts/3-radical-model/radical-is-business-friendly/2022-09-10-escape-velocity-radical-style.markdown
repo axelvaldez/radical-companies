@@ -16,7 +16,7 @@ image:    "icon-escape-velocity-radical-style.svg"
 <h1>Precursors</h1>
  <p><span class="_paradigm">Radical</span>-like groups have been around for a while: one comes up, others copy him, and they pick up some momentum, <em>but never enough</em>. The reasons range from the visionary leader passing away, dogma setting in, or the group being taken over by barbarians.</p>
  <p>What drives these barbarians to <em>take over</em>? Why do they believe they are winning when their chieftains get the long-term benefits of their work? Don&rsquo;t they, the people who do the <em>winning,</em> realize that they, too, can easily end up on the wrong side of this win-lose mindset?</p>
- <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, if in spite of it all, this, <span class="_paradigm">Radical</span>-like groups keep coming up, over and over again. Why?</p>
+ <p>Or maybe <strong><em>we</em></strong> are all barbarians and we can&rsquo;t help it. It's just the human condition, so don&rsquo;t go against it. But, in spite of it all, these, <span class="_paradigm">Radical</span>-like groups keep coming up, over and over again. Why?</p>
  <p>Maybe, just maybe, it is because the <em>barbarian</em> thing is a system? It encourages and guides people to act like barbarians.</p>
  <p>Then, how  that leads some people to act like barbarians did this system get started? And, why has it been so robust, so long-lasting?</p>
 
