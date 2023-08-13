@@ -21,7 +21,7 @@ image:    "icon-the-radical-foundation-house.svg"
       style='width:70%; '
      >
     </div>
-    The words <span class='_paradigm'>Meaning</span> and <span class='_paradigm'>Belonging</span> are the two axis of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;ground floor&rdquo;). It represents the people fundamentals,
+    The words <span class='_paradigm'>Meaning</span> and <span class='_paradigm'>Belonging</span> are the two axes of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;ground floor&rdquo;). It represents the people fundamentals,
    </li>
    <li>
     <div class='_center'>
