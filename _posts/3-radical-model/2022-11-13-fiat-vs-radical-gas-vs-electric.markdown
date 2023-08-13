@@ -37,9 +37,9 @@ image:    "icon-the-roots-of-radical.svg"
   <li>At the other end, it ends up with elected &ldquo;leaders.&rdquo;, that nevertheless by rule by fiat.</li>
   <li>In both cases, big money calls the shots and the <span class="_paradigm">Fiat</span> hierarchy remains. We may get a new dictator or not get reelected, but <span class="_paradigm">Fiat</span> stays.</li>
   <li>Servitude, enclosure, and exploitation continue unabated.</li>
-  <li>The <span class="_paradigm">Fiat</span> system has the side-effect of destructing our life support system.</li>
+  <li>The <span class="_paradigm">Fiat</span> system has the side-effect of destroying our life support system.</li>
  </ul>
- <p>This may be disagreeable, scary, or what not, but it is actually rational in the <span class="_paradigm">Fiat</span> space. We need <span class="_paradigm">Radical</span>-based communities if we want to survive.</p>
+ <p>This may be disagreeable, scary, or whatnot, but it is actually rational in the <span class="_paradigm">Fiat</span> space. We need <span class="_paradigm">Radical</span>-based communities if we want to survive.</p>
 
 <h1>Centralization</h1>
  <p>The &ldquo;bad guy&rdquo; is not the capital system and not government. The bad guy is <em>centralized ownership</em>.</p>
