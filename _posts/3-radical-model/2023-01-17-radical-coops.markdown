@@ -13,8 +13,6 @@ image:    "icon-radical-coops.svg"
 <h1>&nbsp;</h1>
  <p>Co-ops people could easily switch to be based on the <span class="_paradigm">Radical</span> model.</p>
  <p>It&rsquo;d be fairly straightforward to do by breaking the &ldquo;one person, one vote&rdquo; rule. They could then switch to a <span class="_paradigm">RAD</span>s-based to a system based on contributions, not equality.</p>
-
-<h1>Impediments</h1>
  <p>Ideally, the whole co-op makes the switch, but most likely it will be be up to individual co-op members,</p> 
  <ul>
   <li>You could give your <span class="_paradigm">RAD</span>s yield to a <span class='_paradigm'>Banner</span>. For example, if somebody puts up a <span class='_paradigm'>Banner</span> to clean and beautify a nearby river walk, you could give the yield of some of your <span class="_paradigm">RAD</span>s to it.</li>
