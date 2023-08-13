@@ -27,6 +27,6 @@ image:    "icon-ensembles-collabortives-or-networks.svg"
 <h1>Ensembles</h1>
  <p>Ensembles are groups of people who come together to play. They may play together for a long time or they may disband.</p>
  <p>More importantly, this is a social act. It embraces everybody&rsquo;s mistakes and aims to make others look good. This is what working together is all about.</p>
- <p>It seems to me that the association of <em>ensemble</em> with making music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
+ <p>It seems to me that the association of <em>ensemble</em> with music is more fitting than associating it with <em>mathematics</em> or <em>labor</em>.</p>
 
 {% include related.html %}
