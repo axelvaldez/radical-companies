@@ -18,7 +18,7 @@ image:    "icon-the-radical-foundation-house.svg"
     alt='The floor of the Foundation house, it shows the words MEANING and BELONGING as its two axis.'
     style='width:70%; '>
   </div>
- <p>The words <span class='_paradigm'>Meaning</span> and <span class='_paradigm'>Belonging</span> are the two axes of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;ground floor&rdquo;). It represents the people fundamentals,</p>
+ <p>The words <span class='_paradigm'>Meaning</span> and <span class='_paradigm'>Belonging</span> are the two axes of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called it the &ldquo;ground floor&rdquo;). It represents the people fundamentals,</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation-house-2.svg'
@@ -32,7 +32,7 @@ image:    "icon-the-radical-foundation-house.svg"
     alt='The word EXPERIMENTATION sits in between the floor and the roof and holds up the house.'
     style='height:3.33in; '>
   </div>
- <p>Finally, <span class='_paradigm'>Eexperimentation</span>, underlying all practices, holds up the house. This means that that whether an experiment worked as you expected it or not, you always learn from it. Knowledge holds up the house.</p>
+ <p>Finally, <span class='_paradigm'>experimentation</span>, underlying all practices, holds up the house. This means that whether an experiment worked as you expected it or not, you always learn from it. Knowledge holds up the house.</p>
 
 <h1>Altogether Now</h1>
  <p>Altogether, they make up the <span class='_paradigm'>Radical Foundation</span> house,</p>
