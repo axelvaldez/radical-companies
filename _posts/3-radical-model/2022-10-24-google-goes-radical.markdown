@@ -125,7 +125,7 @@ image:    "icon-google-goes-radical.svg"
  <p>In 2004, <span class="_paradigm">Radical</span> Google would have had approximately $399 million in dividends to be distributed as <span class="_paradigm">RAD</span>s. Every Google co-owner would get a piece of those <span class="_paradigm">earned dividends</span> according to the <span class="_paradigm">RAD</span>s they owned at the time. The amount of <span class="_paradigm">RAD</span>s is dynamic, and come from recognized contributions. People with lots of recognized contributions would get more and others less.</p>
  <p>In 2005, Google co-owners would share $1.465 billion in <em>earned dividends</em>. Imagine every Googler getting around half a million dollars.</p>
 
-<h1>rGoogle (Radical Google)) Advantages</h1>
+<h1>Radical Google Advantages</h1>
  <p>As a decentralized and transparent company, rGoogle would have likely not have the ballooning headcount that started around 2007.</p>
  <p><span class="_paradigm">Fiat</span> Google couldn&rsquo;t help their headcount addiction, a must have of <span class="_paradigm">Fiat</span> hierarchies. But rGoogle co-owners would have grown their rank as needed.</p>
  <p>Here is what ten years of rGoogle&rsquo;s performance might have looked like,</p>
