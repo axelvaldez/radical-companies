@@ -31,7 +31,7 @@ image:    "icon-let-them-eat-title.svg"
  <p>In a <span class="_paradigm">Fiat</span> world identity comes down from above: your boss gives you a title. This doesn&rsquo;t work in a <span class="_paradigm">Radical</span> environment where the community reflects the qualities of the person; their work role is secondary, and can change.</p>
 
 <h1>Disentangle</h1>
- <p>To decentralize, disentangle. In this case, how do we disentangle the boss&rsquo; function? how do we decentralize the power of assigning titles?</p>
+ <p>To decentralize, disentangle. In this case, how do we disentangle the boss&rsquo; function? How do we decentralize the power of assigning titles?</p>
  <p>One approach is to have everyone responsible for coming up with their own title, like they did at Nearsoft.</p>
  <p>Another way would be to have everyone who cares assign you a title. After everyone has put in their two cents, you will find you may have multiple titles. For example,</p>
   <ul>
