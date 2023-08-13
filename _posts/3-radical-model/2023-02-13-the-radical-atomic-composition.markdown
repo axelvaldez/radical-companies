@@ -61,7 +61,7 @@ image:    "icon-the-radical-atomic-composition.svg"
     </tr>
     <tr>
      <th>Mission<br><span class="_alignquestions">what?<br>when?<br>how?</span></th>
-     <td>What are doing, when, and how? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
+     <td>What are doing, when, and how? For example, <span class="_quotespan">We already have a partner farm that will harvest by the end of April. We mean to sign up the first 100 customers by the end of March.</span></td>
     </tr>
    </table>
   </div>
@@ -95,7 +95,7 @@ image:    "icon-the-radical-atomic-composition.svg"
     <th>Vulnerability</th>
     <td>
      <ul>
-      <li>What are you biggest fears?</li>
+      <li>What are your biggest fears?</li>
       <li>Do you speak up? How?</li>
       <li>Do you need to be given permission to speak? You didn&rsquo;t ask me!</li>
       <li>Anything else?</li>
@@ -112,7 +112,7 @@ image:    "icon-the-radical-atomic-composition.svg"
       <li>What stops you on your tracks?</li>
       <li>How can we avoid doing that?</li>
       <li>How do we know when you are collaborating? How do you show up?</li>
-      <li>What impact you have to have?</li>
+      <li>What impact do you have to have?</li>
      </ul>
     </td>
    </tr>
@@ -124,6 +124,6 @@ image:    "icon-the-radical-atomic-composition.svg"
  <p>We developed PRInium because anything like <em>shares</em> in the business gives away power over decision-making and will likely become an obstacle to your business. Keep taking PRInium</p>
 
 <h1>The Molecule</h1>
- <p><span class="_paradigm">Radicalium</spanx>, the <span class="_paradigm">Radical Molecule</span>, and it elements have potential beyond our wildest dreams. Our Lab will continue to work on it.</p>
+ <p><span class="_paradigm">Radicalium</span>, the <span class="_paradigm">Radical Molecule</span>, and it elements have potential beyond our wildest dreams. Our Lab will continue to work on it.</p>
 
 {% include related.html %}
