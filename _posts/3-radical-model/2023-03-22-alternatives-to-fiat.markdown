@@ -17,7 +17,7 @@ image:    "icon-alternatives-to-fiat.svg"
   <p id="_signature">John Maynard Keynes (via Blair Fix)<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>I just saw the quote above in one of Blair Fix&rsquo;s papers entitled <span class="_quotespan">Redistributing Income Through Hierarchy,</span></p>
- <p>This shows how difficult it is to see past what goes by capitalism and Keynes admitted to be <span class="_quotespan">extremely perplexed.</span>.</p>
+ <p>The fact that Keynes admits to being <span class="_quotespan">extremely perplexed.</span> shows how difficult it is to see past what goes by capitalism.</p>
 
 <h1>Life Nourishing</h1>
   <div class="_citation">

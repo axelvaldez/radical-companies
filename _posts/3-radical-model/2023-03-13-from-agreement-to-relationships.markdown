@@ -46,7 +46,7 @@ image:    "icon-from-agreements-to-relationships.svg"
   <li>Do you speak up?</li>
   <li>Do you need to be given permission to speak? <span class="_quotespan">You didn&rsquo;t ask me!</span></li>
   <li>Do you talk without pausing?</li>
-  <li>How do we knew if we can interrupt and jump in?</li>
+  <li>How do we know if we can interrupt and jump in?</li>
  </ul>
  <p>Then the other co-owner talks about how she perceives the world and how she shows up in the world. If there is more than one person involved, they probably have gone through this before and their responses to these questions have been written down and you had a chance to read them.</p>
  <p>Your opening up and talking about, for example, your deepest fears won&rsquo;t happen in one sitting. It will take time for you to figure things out and for you to feel safe enough to open up more and more. This is one of the many skills that we need to learn as part of our moving away from <span class="_paradigm">Fiat</span>.</p>
