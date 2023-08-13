@@ -30,7 +30,7 @@ image:    "icon-in-the-national-interest.svg"
   <p>&hellip; insurance against dangers from abroad.</p>
   <p id="_signature">Winston Churchill, 1947<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
- <p>People, including Churchill, had reason to believe that given the history of raids, wars and other <span class='_paradigm'>dangers from abroad.</span> they would continue. And a <span class='_paradigm'>Fiat</span> world, it was a valid assumption.</p>
+ <p>People, including Churchill, had reason to believe that given the history of raids, wars and other <span class='_paradigm'>dangers from abroad.</span> they would continue. And in a <span class='_paradigm'>Fiat</span> world, it was a valid assumption.</p>
  <p>So, yes, democracy is better for our wellbeing than other forms of governance. However, like all forms of modern governments, democratic governments bring along with them a <span class="_paradign">Fiat</span> hierarchy and a bureaucracy. And even though the bosses of said hierarchy are elected by the governed, nevertheless, the hierarchy and its bureaucracy is imposed by force.</p>
 
 <h1>National Governments</h1>
@@ -107,12 +107,11 @@ image:    "icon-in-the-national-interest.svg"
   <li>Anything foreign can easily become, or be made, into a &ldquo;foreign danger.&rdquo;</li>
  </ul>
  <p>The idea that national governments are an anachronism has been recognized for a long time.</p>
- <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early 1960s book. Before that, in 1910, King Gillette, the inventor of the moderm shaver, proposed a World Corporation to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">Fiat</span> hierarchy.</p>
+ <p>I first ran into it in the book <em>La Cuarta Vertebra</em>,<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a> an early-1960s book. Before that, in 1910, King Gillette, the inventor of the shaver with replaceable blades, proposed a <em>World Corporation</em> to bypass governments.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> There are many others that have come up on a regular basis, but they all have the same weakness: their proposed fix is to build a taller <span class="_paradigm">Fiat</span> hierarchy.</p>
  <p>I believe that the opposite is called for: governance without a <span class="_paradigm">Fiat</span> hierarchy at all.</p>
 
 <h1>Collaboration</h1>
- <p>As I said above, <span class='_quotespan'>People can solve problems bigger than themselves by working together with people anywhere the world</span></p>
- <p>It may take a long time, but <span class="_paradigm">Radical</span> governance is what is bound to replace <span class="_paradigm">Fiat</span> governments</p>
+ <p>As I said above, <span class='_quotespan'>People can solve problems bigger than themselves by working together with people anywhere in the world.</span> It may take a long time, but <span class="_paradigm">Radical</span> governance is what is bound to replace <span class="_paradigm">Fiat</span> governments</p>
  <p>The European Union is an example of what happens when 1) borders come down and 2) things, like currency, get normalized across countries.</p>
 
 <h1>Borders</h1>
