@@ -16,7 +16,7 @@ image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
   <table class="_h2table">
    <tr>
     <th>Co-Ownership</th>
-    <td>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth, that the company creates.</td>
+    <td>As a co-owner, you are no longer exchanging your time and skills for a wage. You are one of many owners and have rights to earned dividends, the wealth that the company creates.</td>
    </tr>
    <tr>
     <th>RADs</th>
