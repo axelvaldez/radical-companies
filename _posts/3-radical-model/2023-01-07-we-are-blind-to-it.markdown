@@ -25,10 +25,10 @@ image:    "icon-we-are-blind-to-it.svg"
     alt=''
     width='60%'>
   </div>
- <p>We did not even had a name for it, so we called it <span class="_paradigm">Fiat</span>.</p>
+ <p>We did not even have a name for it, so we called it <span class="_paradigm">Fiat</span>.</p>
 
 <h1>Radical Foundation</h1>
- <p>Rather than a systme where you have to remember rules and whatnots, we focused on an easy-to-remenber <span class="_paradigm">Foundation.</span> They also happen to be closer to the root of what we think it is important (<em>i.e.</em>, thus Radical).</p>
+ <p>Rather than a system where you have to remember rules and whatnots, we focused on an easy-to-remember <span class="_paradigm">Foundation.</span> They also happen to be closer to the root of what we think is important (<em>i.e.</em>, thus Radical).</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-model-coming-together.svg'
