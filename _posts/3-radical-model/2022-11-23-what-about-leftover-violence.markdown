@@ -10,9 +10,9 @@ image:    "icon-what-about-leftover-violence.svg"
  <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things? Will violence keep us from moving through to <span class="_paradigm">Radical</span>?</p>
 </div>
 
-<h1>Intro</h1>
+<h1>&nbsp;</h1>
  <p>What might it look like as we transition away from the <span class="_paradigm">Fiat</span> way of doing things?</p>
- <p>We have learned that in the <span class="_paradigm">Fiat</span> system <em>my success</em> requires that I&rsquo;d willing to wield violence against you. The <span class="_paradigm">Fiat</span> system requires violence, from the mildest to the most brutal shooting.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>We have learned that in the <span class="_paradigm">Fiat</span> system <em>my success</em> requires that I am willing to wield violence against you. The <span class="_paradigm">Fiat</span> system requires violence, from the mildest to the most brutal shooting.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Violence</h1>
  <p>What got me thinking about this was a comment made by our beach neighbor. One night she looked out her balcony window and saw two black pickups flanking the rental next door to ours. There were several armed people in the trucks and a loud party was going on inside the house.</p>
@@ -40,7 +40,7 @@ image:    "icon-what-about-leftover-violence.svg"
 <h1>But&hellip; What about the Guns?</h1>
  <p>Not sure what to do about <em>people with guns.</em> Would I go down and talk to them? I don&rsquo;t think so. Would I do the superhero thing and swipe their weapons away with my cape? Nope.</p>
  <p>The <em>talk</em> is not with <em>people with weapons</em> but with <em>people with needs.</em> By the times the weapons show up, it is too late.</p>
- <p>If the money came from selling drugs to addicted people, the thing to so is help addicted people get the monkey off their back. Help them get out from under the <span class="_paradigm">Fiat</span> pressures that lead to addiction in the first place.</p>
+ <p>If the money came from selling drugs to addicted people, the thing to do is help addicted people get the monkey off their back. Help them get out from under the <span class="_paradigm">Fiat</span> pressures that lead to addiction in the first place.</p>
  <p>Get rid of <span class="_paradigm">Fiat</span> pressures and get rid of addiction and people with guns.</p>
 
 <h1 class="_section">ENDNOTES</h1>
