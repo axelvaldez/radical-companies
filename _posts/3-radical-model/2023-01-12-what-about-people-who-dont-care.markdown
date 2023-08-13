@@ -14,12 +14,13 @@ image:    "icon-what-about-people-who-dont-care.svg"
  <p>Talking about co-management, the questions came up as,</p>
   <div class='_qnablock'>
    <p class='_q'>What about people who don&rsquo;t seem to care and just want to be told what to do?</p>
-   <p class='_a'>This may be because that&rsquo;s what has worked for them,</p>
+   <p class='_a'>This may be because that&rsquo;s what has worked for them.</p>
    <p class='_q'>But if I do what the boss says, I can&rsquo;t be blamed. He may yell at me, but when heads roll, it won&rsquo;t be mine.</p>
    <p class='_a'>It maintains the status quo, and the great majority of people don&rsquo;t expect any more than the status quo. So, you must find a way to help people learn the alternatives.</p>
   </div>
 
 <h1>Preaching, Shaming, and Pressure</h1>
+ <p>Preaching, shaming, and pressure are not going to work, either.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
