@@ -15,7 +15,7 @@ image:    "icon-decentralized-decision-making.svg"
 
 <h1>First Team, First Failure</h1>
  <p>As a decentralized company, everybody participates in strategizing. That is generally a good thing, but, in this case, people can&rsquo;t agree on what strategy to take. Even though these people are co-owners, they are frozen and can&rsquo;t take the next step.</p>
- <p>It could be because these people have lived their whole life in a  environment. Not used to making decisions, they would act this way.</p>
+ <p>It could be because these people have lived their whole life in an environment. Not used to making decisions, they would act this way.</p>
 
 <h1>Another Team, Another Failure</h1>
  <p>Then another team would take over after figuring out that something must be done differently. So they <em>elect</em> a <em>chief strategist</em> and commit to following whatever decision their chief strategist comes up with.</p>
