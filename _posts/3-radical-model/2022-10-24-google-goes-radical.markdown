@@ -222,20 +222,19 @@ image:    "icon-google-goes-radical.svg"
    width="70%"
    alt="">
  </div>
- <p>A <span class="_paradigm">Radical</span> rGoogle co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 rGooglers might have chosen to grow the company differently.</p>
- <p>rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no <span class="_paradigm">Fiat</span> hierarchy to grow. Oh, but the owners would not be billionairs today, just millionaires, same as every other co-owner.</p>
+ <p>rGoogle co-owner could have earned a total of over $18M over that time. As people who co-owned the company, the 2004 rGooglers might have chosen to grow the company differently. rGoogle might have grown meteorically. This would also increase profit per co-owner because there&rsquo;d be no <span class="_paradigm">Fiat</span> hierarchy to grow. Oh, but the owners would not be billionaires today, just millionaires, same as every other co-owner.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     See <em>Number of employees at Alphabet</em>,
-    <<a href="https://statistic.com/number-of-employees-at-alphabet">https://statistic.com/number-of-employees-at-alphabet</a>>,
+    &lt;<a href="https://statistic.com/number-of-employees-at-alphabet">https://statistic.com/number-of-employees-at-alphabet</a>&gt;,
     and <em>Google&rsquo;s Net Income</em>,
-    <<a href="https://www.statista.com/statistics/266472/googles-net-income/">https://www.statista.com/statistics/266472/googles-net-income/</a>>
+    &lt;<a href="https://www.statista.com/statistics/266472/googles-net-income/">https://www.statista.com/statistics/266472/googles-net-income/</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
