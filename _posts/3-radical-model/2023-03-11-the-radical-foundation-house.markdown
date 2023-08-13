@@ -12,38 +12,24 @@ image:    "icon-the-radical-foundation-house.svg"
 
 <h1>&nbsp;</h1>
  <p>Yesterday we had a discussion about a way of reframing the <span class='_quotespan'><span class='_paradigm'>Radical</span> model</span>. After having slept over it, I woke up with an image of a building where,</p>
-  <ul>
-   <li>
-    <div class='_center'>
      <img
       src='/assets/img/pic-the-radical-foundation-house-1.svg'
       alt='The floor of the Foundation house, it shows the words MEANING and BELONGING as its two axis.'
       style='width:70%; '
      >
-    </div>
-    The words <span class='_paradigm'>Meaning</span> and <span class='_paradigm'>Belonging</span> are the two axes of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;ground floor&rdquo;). It represents the people fundamentals,
-   </li>
-   <li>
-    <div class='_center'>
+ <p>The words <span class='_paradigm'>Meaning</span> and <span class='_paradigm'>Belonging</span> are the two axes of the &ldquo;ground floor&rdquo; (actually, I had them as the top floor, but Jose called the &ldquo;ground floor&rdquo;). It represents the people fundamentals,</p>
      <img
       src='/assets/img/pic-the-radical-foundation-house-2.svg'
       alt='The roof of the Foundation house, it shows the words DECENTRALIZATION and TRANSPARENCY as its two axis.'
       style='width:70%; '
      >
-    </div>
-    <span class='_paradigm'>Decentralization</span> and <span class='_paradigm'>Transparenccy</span> are the axis of the &ldquo;roof&rdquo; meaning that 1) the house has no boss in it and 2) everything is transparent. By having all information available to everybody, it makes sure that any potential &ldquo;gaming&rdquo; of the system is apparent to everybody and it gets dealt with.
-   </li>
-   <li>
-    <div class='_center'>
+ <p><span class='_paradigm'>Decentralization</span> and <span class='_paradigm'>Transparenccy</span> are the axis of the &ldquo;roof&rdquo; meaning that 1) the house has no boss in it and 2) everything is transparent. By having all information available to everybody, it makes sure that any potential &ldquo;gaming&rdquo; of the system is apparent to everybody and it gets dealt with.</p>
      <img
       src='/assets/img/pic-the-radical-foundation-house-3.svg'
       alt='The word EXPERIMENTATION sits in between the floor and the roof and holds up the house.'
       style='height:3.33in; '
      >
-    </div>
-    Finally, <span class='_paradigm'>Eexperimentation</span>, underlying all practices, holds up the house. This means that that whether an experiment worked as you expected it or not, you always learn from it. Knowledge holds up the house.
-   </li>
-  </ul>
+ <p>Finally, <span class='_paradigm'>Eexperimentation</span>, underlying all practices, holds up the house. This means that that whether an experiment worked as you expected it or not, you always learn from it. Knowledge holds up the house.</p>
 
 <h1>Altogether Now</h1>
  <p>Altogether, they make up the <span class='_paradigm'>Radical Foundation</span> house,</p>
