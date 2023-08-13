@@ -24,14 +24,14 @@ image:    "icon-alternatives-to-fiat.svg"
    <p>Hierarchies are perhaps the dominant feature of our working lives. Yet paradoxically, they rarely enter into mainstream theories of income distribution.</p>
   </div>
  <p>The <span class="_paradigm">Fiat</span> system is based on competition and domination and capital happens to be a very efficient tool of getting power over anything and everything (<em>i.e.</em>, domination).</p>
- <p>The <span class="_paradigm">Radical</span> alternative, on the other hand, is based on contributions, instead of capital. This, we believe, will produced more of a life nourishing system.</p>
+ <p>The <span class="_paradigm">Radical</span> alternative, on the other hand, is based on contributions, instead of capital. This, we believe, will produce more of a life nourishing system.</p>
 
 <h1>The Forever Obstacle</h1>
  <p>The obstacle has been who decides <em>what is a contribution</em>? We are so used to the <span class="_paradigm">Fiat</span> hierarchical model that we immediately think of rules or benevolent judges. But judges don&rsquo;t stay benevolent forever and rules become sacred and unchangeable and always sprout a clerical bureaucracy around them.</p>
  <p>No wonder we are <span class="_quotespan">extremely perplexed.</span></p>
 
 <h1>Our non-Fiat Alternative</h1>
- <p><span class="_paradigm">Radical</span>-based alternatives makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the capital they invested. And not based or the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what.</p>
+ <p><span class="_paradigm">Radical</span>-based alternatives makes sure that ownership is distributed to all co-owners <em>based on their contributions</em>, not the capital they invested. And not based on the &ldquo;human capital&rdquo; or any other nonsense. It is certainly not an <em>equality</em> system, where everybody gets the same no matter what.</p>
  <p>For Sam, a co-owner, her contributions are determined by all the other co-owners who recognize it. The same for Joe, another co-owner. In fact, the same for all co-owners: other co-owners determine what the contributions of each co-owner is. No rules or benevolent judges needed. That is decentralized co-ownership.</p>
  <p>Every co-owner figures out what a contribution is by the feelings it brings up, from enthusiasm to apathy. If they think they've seen a contribution, then they recognize it. It could be somebody who reorganized the warehouse, or computer code check-in which other co-owners perceive as valuable. Or it could be somebody&rsquo;s smile that makes my day. Whatever a co-owner recognizes as a contribution, is a contribution.</p>
  <p>At this point, you should be thinking, <span class="_quotespan">wow, that is chaos!</span></p>
@@ -43,9 +43,9 @@ image:    "icon-alternatives-to-fiat.svg"
    <li>Rules are bent and broken all the time.</li>
    <li>You would have to remember all the rules before you can recognize something as a contribution, so you can defend your decisions.</li>
    <li>You have to interpret the rules to make sure you are within their bounds.</li>
-   <li>Some people are very good at bending the rules and get away with it. They are like Rules Lawyers.</li>
+   <li>Some people are very good at bending the rules and getting away with it. They are like Rules Lawyers.</li>
   </ul>
- <p>Rules add legalistic rigidity have absolutely no value. They are a form of foce and have no place in the <span class="_paradigm">Radical</span> model</p>
+ <p>&ldquo;Rules&rdquo; add legalistic rigidity and add absolutely no value. They are a form of force and have no place in the <span class="_paradigm">Radical</span> model</p>
 
 <h1>RADs</h1>
  <p>At this point, we have to explain <span class="_paradigm">RAD</span>s,</p>
@@ -74,7 +74,7 @@ image:    "icon-alternatives-to-fiat.svg"
  <p>Please, note,</p>
   <ul>
    <li>This is not a <span class="_paradigm">Fiat</span> hierarchy and, therefore, there is no <em>boss</em> giving out goodies to his favorite people.</li>
-   <li>People will get more or less <span class="_paradigm">RAD</span>s according contributions that their peers recognize. If co-owners don&rsquo;t contribute, they don&rsquo;t get <span class="_paradigm">RAD</span>s, but if they contribute and other co-owners recognize those contributions, they do.</li>
+   <li>People will get more or less <span class="_paradigm">RAD</span>s according to contributions that their peers recognize. If co-owners don&rsquo;t contribute, they don&rsquo;t get <span class="_paradigm">RAD</span>s, but if they contribute and other co-owners recognize those contributions, they do.</li>
    <li>There is nobody around who can give themselves a raise. The number of <span class="_paradigm">RAD</span>s one gets depends on what other co-owners recognize as contributions.</li>
    <li>If people are not recognizing your contributions, either 1) they see them, but don&rsquo;t consider them valuable or 2) they don&rsquo;t know the value of what you are doing and you need to explain it to them.</li>
   </ul>
