@@ -89,6 +89,7 @@ image:    "icon-giving-rads-validated.svg"
         <li>They eventually convert to money and other tangible value.</li>
         <li>They are often unexpected, personal, and public.</li>
        </ul>
+     </td>
     </tr>
    </table>
   </div>
