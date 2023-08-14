@@ -46,8 +46,10 @@ image:    "icon-giving-rads-validated.svg"
    </table>
   </div>
  <p>Zak concludes that,</p>
-  <div class="_quotation">
-   <td><span class="_quotespan">&hellip;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</span></td>
+  <div class="_citation">
+   <p>
+    <span class="_quotespan">&hellip;those working in high-trust companies enjoyed their jobs 60% more, were 70% more aligned with their companies’ purpose, and felt 66% closer to their colleagues. &hellip; Compared with employees at low-trust organizations, the high-trust folks had 11% more empathy for their workmates, depersonalized them 41% less often, and experienced 40% less burnout from their work. They felt a greater sense of accomplishment, as well—41% more.</span>
+   </p>
   </div>
 
 <h1>RADs Promote Trust</h1>
