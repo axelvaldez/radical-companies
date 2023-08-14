@@ -78,7 +78,15 @@ image:    "icon-giving-rads-validated.svg"
    <table class="_h2table">
     <tr>
      <th>Recognize Excellence</th>
-     <td>&ldquo;&hellip; excellence&rdquo; is way too vague. <span calls="_paradigm">RAD</span>s are used to recognize contributions. They come immediately after people sees an action as a contribution. It comes from peer co-owners. They eventually convert to money and other tangible value. They are often unexpected, personal, and <em>public</em>.</td>
+     <td>
+      <p>&ldquo;Excellence&rdquo; is way too vague. <span calls="_paradigm">RAD</span>, on the other hand, are tangible,</p>
+       <ul>
+        <li>RADs are used to recognize contributions.</li>
+        <li>They come immediately after people see an action as a contribution.</li>
+        <li>It comes from peer co-owners.</li>
+        <li>They eventually convert to money and other tangible value.</li>
+        <li>They are often unexpected, personal, and public.</li>
+       </ul>
     </tr>
     <tr>
      <th>Induce &ldquo;Challenge Stress&rdquo;</th>
