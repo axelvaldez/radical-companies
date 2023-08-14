@@ -25,7 +25,7 @@ image:    "icon-giving-rads-validated.svg"
     </tr>
     <tr>
      <th>Give People Discretion in How They Do Their Work</th>
-     <td><span class="_quotespan">BTW&hellip; </span> allow them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip; </span>.</td>
+     <td>It allows them, whenever possible, to manage people and execute projects in their own way. Being trusted to figure things out is a big motivator. Also, autonomy <span class="_quotespan">promotes innovation&hellip; </span>.</td>
     </tr>
     <tr>
      <th>Enable Job Crafting</th>
