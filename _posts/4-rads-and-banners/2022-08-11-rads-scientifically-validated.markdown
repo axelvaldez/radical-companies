@@ -55,7 +55,7 @@ image:    "icon-giving-rads-validated.svg"
 <h1>RADs Promote Trust</h1>
  <p>These behaviors are integral to the <span class="_paradigm">Radical</span> model and its Foundation,</p>
  <div class="_center">
-  <table class="_foundation">
+  <table class="_h2table">
    <tr>
     <th>people</th>
     <td>Meaning & Belonging</td>
