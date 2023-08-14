@@ -137,8 +137,9 @@ image:    "icon-giving-rads-validated.svg"
     <tr>
      <th>Facilitate Whole-Person Growth</th>
      <td>Being the sole owner of a business makes you grow to deal with all the surprises that come at you. They same is true for a community of co-owners, except the learning is more dense because the same way you are learning, so are they. Not only will you learn from circumstances, co-owners learn from each other.</td>
-  </tr>
- </table>
+    </tr>
+   </table>
+  </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
