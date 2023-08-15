@@ -23,7 +23,6 @@ image:    "icon-radical-companies-faq.svg"
   <p>By the same token, co-management is required for &ldquo;ownership&rdquo; not to become corrupted. For example, when John Spedan Lewis created the John Lewis Partnership in the UK in 1929 he left in place a  hierarchy in place. Eventually the managers took control of it. These companies are very generous compared to their competitors, but what&rsquo;s left of worker ownership is cosmetic at best.</p>
  </div>
 
-</div>
 <h1 class='_q'>Are RADs the same as shares of stock?</h1>
  <div class='_a'>
   <p>They are different things. They both represent &ldquo;ownership,&rdquo; but very differently,</p>
