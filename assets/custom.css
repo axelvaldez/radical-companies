@@ -558,6 +558,11 @@ div table._background, div table._foundation {
 _qna {
   padding-left:2em;
 }
+._qnablock {
+  display:block;
+  margin-left:2em;
+  font-size:smaller;
+}
 ._q {
   text-indent:0;
   padding-top:0.25em;
@@ -582,12 +587,9 @@ _qna {
   content:"A: ";
 }
 div._q p, div._a p {
+  /*
   text-indent:0;
-}
-._qnablock {
-  display:block;
-  margin-left:2em;
-  font-size:smaller;
+  */
 }
 /* Q&A END*/
 
