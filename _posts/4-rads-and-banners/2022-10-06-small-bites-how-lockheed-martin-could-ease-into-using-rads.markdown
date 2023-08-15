@@ -2,7 +2,7 @@
 layout:   post
 title:    "Small Bites: How Lockheed Martin Could Ease into Using RADs"
 subtitle: "TEMPLATE"
-authors:  "Adrian Perez, Matt Perez"
+authors:  "Adrian Perez"
 image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
 ---
 
