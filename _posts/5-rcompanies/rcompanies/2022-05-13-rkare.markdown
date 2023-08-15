@@ -11,34 +11,34 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>Explicit Alignment</h1>
-   <div class='_center'>
-    <table class='_explicitalignment'>
-     <tr>
-      <td></td>
-      <th>Impact</th>
-     </tr>
-     <tr>
-      <th style='column-width:20px; col-width:30px; '>What for?</th>
-      <td>TBD</td>
-     </tr>
-     <tr>
-      <td></td>
-      <th>Purpose</th>
-     </tr>
-     <tr>
-      <th>Why?</th>
-      <td>TBD</td>
-     </tr>
-     <tr>
-      <td></td>
-      <th>Mission</th>
-     </tr>
-     <tr>
-      <th>What<br>When?<br>How?</th>
-      <td>TBD</td>
-     </tr>
-    </table>
-   </div>
+ <div class='_center'>
+  <table class='_explicitalignment'>
+   <tr>
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th style='column-width:20px; col-width:30px; '>What for?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>What<br>When?<br>How?</th>
+    <td>TBD</td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Intro</h1>
  <p>Taking care of children with or without the parents&rsquo; help, while their parents are busy with their <span class='_paradigm'>Fiat</span> jobs.</p>
