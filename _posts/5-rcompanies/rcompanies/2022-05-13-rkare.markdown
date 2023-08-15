@@ -1,13 +1,13 @@
 ---
 layout:   post
 title:    "rKare"
-subtitle: "From Gig Subsistence to Co-Ownership"
+subtitle: "TEMPLATE"
 authors:  "Jose Leal, Matt Perez"
 image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>Taking care of children with or without the parents' help, while their parents are at busy with something else (<em>e.g.</em> their <span class='_paradigm'>Fiat</spam> work).</p>
+ <p>Taking care of children with or without the parents' help, while their parents are at busy with something else (<em>e.g.</em> their <span class='_paradigm'>Fiat</span> work).</p>
 </div>
 
 <h1>Explicit Alignment</h1>
