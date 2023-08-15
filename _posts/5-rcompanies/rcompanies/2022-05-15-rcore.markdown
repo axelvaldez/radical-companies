@@ -41,7 +41,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Intro</h1>
- <p>Transforming an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;template&rdquo; for other &ldquo;gig&rdquo; business.</p>
+ <p>Transforming an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;template&rdquo; for other &ldquo;gig&rdquo; businesses.</p>
 
 <h1>Origin Story</h1>
  <p>TBD</p>
