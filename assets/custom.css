@@ -584,6 +584,8 @@ div table._background, div table._foundation {
 }
 div._q p, div._a p {
   margin-left:2.3rem;
+}
+div._a p:nth-child(1) {
   text-indent:0;
 }
 div._q ul, div._a ul {
@@ -649,6 +651,7 @@ table._h2table tr td p {
 table._h2table tr td {
   border-left:black 1px dotted;
 }
+
 /*
  */
 img {
