@@ -54,7 +54,7 @@ image:    "icon-all-about-rads.svg"
 
 <h1>Receiving RADs</h1>
  <p>The number of <span class='_paradigm'>RAD</span>s you have determines your level of co-ownership.</p>
- <p>In a <span class='_paradigm'>Fiat</spam> business, profits belong to the owners. In a <span class='_paradigm'>Radical</span>s company, profits belong to co-owners based on the amount of <span class='_paradigm'>RAD</span>s they have. </p>
+ <p>In a <span class='_paradigm'>Fiat</span> business, profits belong to the owners. In a <span class='_paradigm'>Radical</span>s company, profits belong to co-owners based on the amount of <span class='_paradigm'>RAD</span>s they have.</p>
 
 <h1>Cheatin&rsquo; RADs</h1>
   <p class="_q">Can this easily become a tit-for-tat exchange?</p>
