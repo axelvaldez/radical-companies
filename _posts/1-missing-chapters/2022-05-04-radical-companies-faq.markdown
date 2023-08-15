@@ -15,7 +15,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 class="_section">Co-Ownership</h1>
 
-<h1 class='_q'>(.*)</h1>
+<h1 class='_q'>Does a company has to be co-owned to be Radical?</h1>
  <div class='_a'>
   <p>Yes, it has to be co-owned <em>and</em> co-managed.</p>
   <p>The owner is the ultimate boss and self-management, by itself, is at the mercy of a benevolent owner. On the other hand, when everybody in the company is a co-owner then co-management can happen unobstructed.</p>
