@@ -10,71 +10,46 @@ image:    "icon-rmedia.svg"
  <p>Transforming an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;template&rdquo; for other &ldquo;gig&rdquo; business.</p>
 </div>
 
-<h1>Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
-</table>
+<h1>Explicit Alignment</h1>
+ <div class='_center'>
+  <table class='_explicitalignment'>
+   <tr>
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th style='column-width:20px; col-width:30px; '>What for?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>What<br>When?<br>How?</th>
+    <td>TBD</td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Intro</h1>
  <p>Transforming an interpretation service to the <span style="font-size:smaller; ">RADICAL COMPANIES</span> foundation. This could be the &ldquo;template&rdquo; for other &ldquo;gig&rdquo; business.</p>
 
 <h1>Origin Story</h1>
+ <p>TBD</p>
 
 <h1>How It Works</h1>
+ <p>TBD</p>
 
 <h1>What's in It for &hellip;?</h1>
+ <p>TBD</p>
 
 {% include related.html %}
