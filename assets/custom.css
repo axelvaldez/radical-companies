@@ -555,12 +555,12 @@ div table._background, div table._foundation {
 }
 
 /* Q&A BEGIN */
-_qna {
+._qna {
   padding-left:2em;
 }
 ._qnablock {
   display:block;
-  margin-left:2em;
+  margin-left:1m;
   font-size:smaller;
 }
 ._q {
@@ -587,6 +587,12 @@ _qna {
   content:"A: ";
 }
 div._q p, div._a p {
+  /*
+  text-indent:0;
+  */
+  padding-left:3em;
+}
+div._q ul, div._a ul {
   /*
   text-indent:0;
   */
