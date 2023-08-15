@@ -41,7 +41,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Intro</h1>
- <p>Taking care of children with or without the parents&rsquo; help, while their parents are busy with their <span class='_paradigm'>Fiat</span> jobs.</p>
+ <p>Taking care of children while their parents are busy with their <span class='_paradigm'>Fiat</span> jobs.</p>
 
 <h1>Origin Story</h1>
  <p>TBD</p>
