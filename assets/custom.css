@@ -589,15 +589,10 @@ div table._background, div table._foundation {
   content:"A: ";
 }
 div._q p, div._a p {
-  /*
-  text-indent:0;
-  */
   margin-left:2.3rem;
+  text-indent:0;
 }
 div._q ul, div._a ul {
-  /*
-  text-indent:0;
-  */
   margin-left:3rem;
 }
 /* Q&A END*/
