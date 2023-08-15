@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "RADs and chatGPT"
+title:    "RADs and ChatGPT"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez, Matt Perez"
 image:    "icon-rads-and-chatgpt.svg"
@@ -12,7 +12,7 @@ image:    "icon-rads-and-chatgpt.svg"
 
 <h1>&nbsp;</h1>
  <div class="_center">
-  <table class="_background">
+  <table class='_h2table'>
    <tr>
     <th>Question</th>
     <td>
@@ -32,7 +32,7 @@ image:    "icon-rads-and-chatgpt.svg"
   </table>
  </div>
  <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
    <tr>
     <th>Question</th>
     <td>
@@ -56,7 +56,7 @@ image:    "icon-rads-and-chatgpt.svg"
  <br clear="all">
 
  <div class="_center">
-  <table class="_background" style="border:1px solis black; width:50%; ">
+  <table class="_h2table">
    <tr>
     <th>Fiat</th>
     <td><span class="_quotespan">Because I say so</span></td>
@@ -77,7 +77,7 @@ image:    "icon-rads-and-chatgpt.svg"
 <h1>Fear, Uncertainty, and Doubt</h1>
  <p>Let&rsquo;s try and address some of the things that came up in these answers,</p>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Market-based approach</th>
     <td>
