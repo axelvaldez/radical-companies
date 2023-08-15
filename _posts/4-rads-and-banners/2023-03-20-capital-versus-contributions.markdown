@@ -17,7 +17,7 @@ image:    "icon-capital-versus-contributions.svg"
 <h1 class="_section"></h1>
 
 <h1>Financial Power</h1>
- <p>Shares in a  business for 30% ownership. let&rsquo;s assume that the 30% ownership gets you a seat on the Board.</li>
+ <p>Shares in a  business for 30% ownership. let&rsquo;s assume that the 30% ownership gets you a seat on the Board.</p>
  <p>Your financial power, to dividends, is determined by owning 30% of the shares. Since business shares are static, this means that the 30% is yours <em>forever</em>.</p>
 
 <h1>Operational Power</h1>
