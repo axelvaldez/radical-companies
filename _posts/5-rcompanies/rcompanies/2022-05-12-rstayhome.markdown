@@ -34,7 +34,7 @@ image:    "icon-rmedia.svg"
       <th>Mission</th>
      </tr>
      <tr>
-      <th>What? When? How?</th>
+      <th>What<br>When?<br>How?</th>
       <td>TBD</td>
      </tr>
     </table>
