@@ -209,32 +209,28 @@ table._explicitalignment td {
   border-right:black dotted 1px;
 }
 table._explicitalignment tr:nth-child(1),
-table._explicitalignment tr:nth-child(4),
-table._explicitalignment tr:nth-child(7) {
+table._explicitalignment tr:nth-child(3),
+table._explicitalignment tr:nth-child(5) {
   border:0;
   background-color:#EEEEEE;
   font-weight:bold;
 }
 table._explicitalignment tr:nth-child(1) td,
-table._explicitalignment tr:nth-child(4) td,
-table._explicitalignment tr:nth-child(7) td {
+table._explicitalignment tr:nth-child(3) td,
+table._explicitalignment tr:nth-child(5) td {
   border:0;
   border-left:black dotted 1px;
 }
 table._explicitalignment tr:nth-child(2) th,
-table._explicitalignment tr:nth-child(3) th,
-table._explicitalignment tr:nth-child(5) th,
-table._explicitalignment tr:nth-child(6) th,
-table._explicitalignment tr:nth-child(8) th {
+table._explicitalignment tr:nth-child(4) th,
+table._explicitalignment tr:nth-child(6) th {
   text-align:right;
   border:0px;
   font-size:smaller;
 }
 table._explicitalignment tr:nth-child(2) td,
-table._explicitalignment tr:nth-child(3) td,
-table._explicitalignment tr:nth-child(5) td,
-table._explicitalignment tr:nth-child(6) td,
-table._explicitalignment tr:nth-child(8) td {
+table._explicitalignment tr:nth-child(4) td,
+table._explicitalignment tr:nth-child(6) td {
   border:0;
   border-left:black dotted 1px;
   text-align:left;
