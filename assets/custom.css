@@ -234,7 +234,7 @@ table._explicitalignment tr:nth-child(6) th {
   text-align:right;
   border:0px;
   font-size:smaller;
-  column-width:1in;
+  width:25%;
 }
 table._explicitalignment tr:nth-child(2) td,
 table._explicitalignment tr:nth-child(4) td,
