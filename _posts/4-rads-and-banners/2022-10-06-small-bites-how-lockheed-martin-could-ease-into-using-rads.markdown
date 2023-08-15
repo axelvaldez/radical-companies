@@ -35,8 +35,8 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
  <p>We could give everybody the same about but that doesn&rsquo;t work for long. We could add things like years of schooling and service, but that is pretty arbitrary and biased. In any case, it has little to do with contributions.</p>
 
 <h1>Equitable Distribution</h1>
- <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible to most people, and mistrusted.</p>
- <p>We have not discovered a formula for it, either. What <span class="_paradigm">Radical</span> supports, and what a <span class="_paradigm">RAD<span>s do, is that it lets employees determine what a <em>valuable contribution</em> is.</p>
+ <p>&ldquo;Equitable&rdquo; sounds good, but there isn&rsquo;t a generally agreed formula for it. People have tried all kinds, but none really work for long and are often tweaked. Eventually, they become unintelligible, and mistrusted, to most people.</p>
+ <p>We have not discovered a formula for it, either. What <span class="_paradigm">Radical</span> supports, and what <span class="_paradigm">RAD<span>s do is that it lets employees determine what a <em>valuable contribution</em> is.</p>
  <p>As an experiments, we could do the following,</p>
   <ul>
    <li>Lockheed Martin employees would co-own the employee bonus pool.</li>
@@ -44,7 +44,7 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
    <li>Each employees would recognize the contributions of the handful of people each knows.</li>
    <li>Everybody would be recognized this way.</li>
   </ul>
-  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s/dollars in the &ldquo;bonus&rdquo; pool to calculate the number of dollars each co-owner gets.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
+  <p>At the end of the Distribution period, the number of recognitions each co-owner <em>got</em> is divided by the total number of recognition each co-owner <em>gave</em>. This ratio is multiplied by <span class="_paradigm">RAD</span>s in the &ldquo;bonus&rdquo; pool to calculate the number of dollars each co-owner gets.<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a>
    <div class="_center">
     <img
      src="/assets/img/pic-recognitions-to-rads-equation.svg"
