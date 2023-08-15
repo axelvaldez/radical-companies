@@ -49,8 +49,7 @@ image:    "icon-radical-companies-faq.svg"
 <h1 class='_q'>Who&rsquo;s looking out for the business?</h1>
  <div class='_a'>
   <p>The allocation of <span class='_paradigm'>RAD</span>s is not based on traditional key performance indicators, or targets, or any of the things that are usually measured and checked by the bosses. So, the question is who is looking out for the company? And the answer is the co-owners, the people who embody it.</p>
- <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices may be raised. There is no avoiding difficult decisions and hard conversations.</p>
-
+  <p>The metrics that are important to the business continue to be important to the company and co-owners will want to look at these metrics, question the results, etc. For example, if I didn&rsquo;t come through on something I promised to do that was critical to these indicators, then we&rsquo;ll have to figure out why it didn&rsquo;t happen and what could we have done differently to make it happen. These conversations may get heated, and voices may be raised. There is no avoiding difficult decisions and hard conversations.</p>
  </div>
 
 <h1 class='_q'>And strategy?</h1>
