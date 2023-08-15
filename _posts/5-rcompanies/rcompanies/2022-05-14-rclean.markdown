@@ -10,6 +10,36 @@ image:    "icon-rmedia.svg"
  <p>Helping people keep their homes and their businesses clean, decluttered, and presentable.</p>
 </div>
 
+<h1>Explicit Alignment</h1>
+ <div class='_center'>
+  <table class='_explicitalignment'>
+   <tr>
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th style='column-width:20px; col-width:30px; '>What for?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>TBD</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>What<br>When?<br>How?</th>
+    <td>TBD</td>
+   </tr>
+  </table>
+ </div>
+<!--
 <h1>Alignment</h1>
  <table>
  <tbody style="font-size:smaller; vertical-align:top; ">
@@ -67,6 +97,7 @@ image:    "icon-rmedia.svg"
   </tr>
  </tbody>
 </table>
+-->
 
 <h1>Intro</h1>
  <p>Help people with,</p>
