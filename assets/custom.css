@@ -200,7 +200,6 @@ table._explicitalignment th {
   text-align:right;
   border-right:black dotted 1px;
   font-weight:bold;
-  column-width:25%;
 }
 table._explicitalignment td {
   vertical-align:text-top;
@@ -214,6 +213,15 @@ table._explicitalignment tr:nth-child(5) {
   border:0;
   background-color:#EEEEEE;
   font-weight:bold;
+}
+table._explicitalignment tr:nth-child(1) th,
+table._explicitalignment tr:nth-child(3) th,
+table._explicitalignment tr:nth-child(5) th {
+  border:0;
+  background-color:#EEEEEE;
+  font-weight:bold;
+  text-align:left;
+  column-width:25%;
 }
 table._explicitalignment tr:nth-child(1) td,
 table._explicitalignment tr:nth-child(3) td,

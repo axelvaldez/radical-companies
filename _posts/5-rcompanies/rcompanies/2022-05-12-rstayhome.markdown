@@ -38,7 +38,6 @@ image:    "icon-rmedia.svg"
       <td>TBD</td>
      </tr>
     </table>
-   </div>
 
 <h1>Intro</h1>
  <p>Taking care of people at their home.</p>
