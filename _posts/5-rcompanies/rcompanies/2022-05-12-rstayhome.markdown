@@ -18,7 +18,7 @@ image:    "icon-rmedia.svg"
       <th>Impact</th>
      </tr>
      <tr>
-      <th>What for?</th>
+      <th style='column-width:25%;'>What for?</th>
       <td>TBD</td>
      </tr>
      <tr>
