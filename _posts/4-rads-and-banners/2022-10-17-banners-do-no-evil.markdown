@@ -26,7 +26,7 @@ image:    "icon-banners-do-no-evil.svg"
  <p>The <span class="_paradigm">Radical</span> solution seems to be to disclose all <span class="_paradigm">Banner</span> beneficiaries and let the co-owners deal with maladapted <span class="_paradigm">Banner</span>s. This also feels like the most effective solution.</p>
  <div class="_center">
   <img
-   src="/assets/img/icon-banners-do-no-evil.svg"
+   src="/assets/img/pic-banners-do-no-evil.svg"
    alt=""
    width="50%">
 
