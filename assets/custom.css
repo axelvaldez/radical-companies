@@ -570,7 +570,9 @@ _qna {
   content:"Q: "
 }
 ._a {
+  /*
   text-indent:0;
+  */
   padding-bottom:0.5em;
   font-style:italic;
 }
