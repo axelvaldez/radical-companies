@@ -584,9 +584,7 @@ div table._background, div table._foundation {
 }
 div._q p, div._a p {
   margin-left:2.3rem;
-}
-div._a p:nth-child(1) {
-  text-indent:0;
+  text-indent:1rem;
 }
 div._q ul, div._a ul {
   margin-left:3rem;
