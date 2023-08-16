@@ -18,5 +18,4 @@ image:    "icon-renchilada.svg"
  <p>We are also thinking of also lining up companies that would be willing to take these folks as paid interns. We had a program at Nearsoft where we took in recent graduates and put them through a six month program, with the last two months working with a client. It has worked fantastically well. Graduates from the program have grown to be superstars.</p>
  <p>With <em>rEnchilada</em> we hope that as Sales folks we can enable people to benefit from the Silicon Valley economy. Once we get this smoothed out, we will go after other talents (<em>e.g.</em>, artists).</p>
 
-
 {% include related.html %}
