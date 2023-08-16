@@ -29,13 +29,6 @@ image:    "icon-renchilada.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02">
-   <p class="_list-item">
-    @leonnoel
-    &lt;<a href="https://twitter.com/leonnoel" target='_blank'>https://twitter.com/leonnoel</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
  </ul>
 
 {% include related.html %}
