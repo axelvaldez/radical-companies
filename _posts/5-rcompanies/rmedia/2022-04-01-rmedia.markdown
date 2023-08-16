@@ -146,7 +146,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>Learning to take the friction out of printing books.</li>
-      <li>They&rsquo;ll hear, “we&rsquo;ll help you compete with Amazon.”</li>
+      <li>They&rsquo;ll hear, <span class='_quotespan'>we&rsquo;ll help you compete with Amazon.</span></li>
      </ul>
     </td>
    </tr>
@@ -155,7 +155,7 @@ image:    "icon-rmedia.svg"
     <td>
      <ul>
       <li>Learning to take the friction out of book distribution.</li>
-      <li>They&rsquo;ll hear, “we&rsquo;ll help you compete with Amazon.”</li>
+      <li>They&rsquo;ll hear, <span class='_quotespan'>we&rsquo;ll help you compete with Amazon.</span></li>
      </ul>
     </td>
    </tr>
