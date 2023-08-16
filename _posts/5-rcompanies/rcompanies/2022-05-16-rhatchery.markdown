@@ -187,7 +187,7 @@ image:    "icon-rmedia.svg"
    <li>Talk to everyone in the company for at least one hour.</li>
    <li>Let them get out their standard war stories.</li>
    <li>Get them to talk about their ideal company.</li>
-   <li>Craft a progression of stories sprinkled with their individual stories, that speak to their ideals, and culminates with their aspirations.</li>
+   <li>Craft a progression of stories based on their individual stories, that speak to their ideals, and culminates with their aspirations.</li>
   </ul>
   <p style="text-align:center; width:90%; margin:auto; margin-bottom:20px; ">
    <img src="/assets/img/radical-process-origin-stories.svg" alt="Three triangles with three colored bands called ASPIRATIONS, IDEALS, and WAR STORIES. The left-most triangle has a small ASPIRATIONS band, a large IDEALS band, and a middling WAR STORIES band. The middle triangle has a larger ASPIRATIONS band of the same height as the IDEALS bad, and a smaller WAR STORIES bad. The right-most triangle show a very tall ASPIRATIONS bad, a middling IDEALS band, and a pretty small WAR STORIES bad. This indicate how people's stories proceed over time." title="Origin Stories Progress">
