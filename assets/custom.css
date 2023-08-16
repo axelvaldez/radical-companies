@@ -205,7 +205,9 @@ table._explicitalignment td {
   vertical-align:text-top;
   padding-left:1em;
   text-align:left;
+  /*
   border-right:black dotted 1px;
+  */
 }
 table._explicitalignment tr:nth-child(1),
 table._explicitalignment tr:nth-child(3),
