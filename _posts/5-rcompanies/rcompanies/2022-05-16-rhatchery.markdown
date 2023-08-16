@@ -173,7 +173,7 @@ image:    "icon-rmedia.svg"
   <p>Ideally, the triad would include somebody who’s a &ldquo;stage four&rdquo; person.  As Logan would have it, <span class='_quotespan'>You’ll know these individuals by (1) their focus on &lsquo;we,</span>; (2) the number of triads in their networks, and (3) success that comes from groups.&rdquo;<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
    <p>Triads are a co-training tool, where everybody ends up a <span style="font-size:smaller; ">Radical</span> evangelist. Hatchers would be the first &ldquo;stage four&rdquo; cohort to kick off the triads, but then they would replace themselves with <em><span style="font-size:smaller; ">Radical</span>-IN-TRAINING</em> folks.</p>
  
-<h1><span style="font-size:smaller; ">Radical</span> Farm Systems</h1>
+<h1>Radical Farm Systems</h1>
   <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog &ldquo;farm.&rdquo;.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a &ldquo;trouble dog&rdquo; is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they &ldquo;graduate&rdquo; from the farm, these are, literally, <span style="font-size:smaller; ">Radical</span> dogs.</p>
   <p><span style="font-size:smaller; ">Radical</span><em> </em>Farms would serve a similar purpose.  People from would-be <span style="font-size:smaller; ">Radical</span> companies would spend time at one of the many <span style="font-size:smaller; ">Radical</span> farms in the system.  These &ldquo;farms&rdquo; are <span style="font-size:smaller; ">Radical</span> companies that are prepared to host would-be <span style="font-size:smaller; ">Radical</span> so they can learn how to let go of fear driven habits.</p>
   <p>If dogs can learn how to be dogs from other dogs, people can best learn how to be people from other people.</p>
@@ -248,7 +248,6 @@ image:    "icon-rmedia.svg"
   </ul>
 
 <h1 class='_section'>ENDNOTES</h1>
- <ul>
  <ul>
   <li id="en01">
    <p class="_list-item">
