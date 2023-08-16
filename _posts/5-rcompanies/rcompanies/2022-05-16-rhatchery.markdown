@@ -236,8 +236,8 @@ image:    "icon-rmedia.svg"
     <em>The One Minute Manager.</em>
     Berkeley Trade.
     February 15, 1986.
-    &lt;<a href="https://radicals.world/kKIG4J" target='_blank'>https://radicals.world/kKIG4J.</a>&gt;xxx
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>yyy
+    &lt;<a href="https://radicals.world/kKIG4J" target='_blank'>https://radicals.world/kKIG4J.</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
