@@ -201,16 +201,10 @@ image:    "icon-rmedia.svg"
   <ul>
    <li>We could invite people to give talks.</li>
    <li>We could have people present their books.</li>
-   <li>Corporate Rebels can launch their University there.</li>
-   <li>Allan Rhodes can talk about Reimagina.</li>
    <li>We can present our book, one chapter at a time.</li>
-   <li>Jacqueline can talk about the chicken model.</li>
-   <li>Kim can talk about Conscious Contracts.</li>
    <li>Train the bigger, more mature Hatchers, too,</li>
-  </ul>
-  <p>Their pitch would have to adjust to incorporate the <span class='_paradigm'>Radical</span> model.</p>
-  <ul>
-   <li>Hatcher triads? Mentored and learning to mentor.</li>
+   <li>Their pitch would have to adjust to incorporate the <span class='_paradigm'>Radical</span> model.</li>
+   <li>Mentor Hatcher triads.</li>
   </ul>
 
 <h1>Hatchlings</h1>
