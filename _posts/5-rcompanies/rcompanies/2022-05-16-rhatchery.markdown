@@ -161,7 +161,7 @@ image:    "icon-rmedia.svg"
   <p>If dogs can learn how to be dogs from other dogs, people can best learn how to be people from other people.</p>
 
 <h1>Emerging Sensitivities</h1>
-  <p>We are very sensitive about people who want to dominate us.  When people say, &ldquo;I’ve always had trouble with authority,&rdquo; I hear that as &ldquo;I am very sensitive to anything and anybody trying to dominate me, and I always resist.&rdquo;  That’s because we have grown up in a system fueled by domination.</p>
+  <p>We are very sensitive about people who want to dominate us.  When people say, &ldquo;I’ve always had trouble with authority,&rdquo; I hear that as &ldquo;I am sensitive to anything and anybody trying to dominate me, and I always resist.&rdquo;  That’s because we have grown up in a system fueled by domination.</p>
   <p>We need to help people to let go of this and other fear-based habits and learn collaborative habits.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Co-Ownership Workshops</h2>
   <p>Help people figure out how to get started experimenting with this thing.</p>
