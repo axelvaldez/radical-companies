@@ -57,14 +57,14 @@ image:    "icon-rmedia.svg"
    >
 
 <h1 class="_section">ENDNOTES</h1>
- <ul style="font-size:smaller; ">
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Not the perfect name, but MBA is more accessible. For now.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  </ul>
+ </ul>
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/01/rmedia">&lt; Previous</a></span>
