@@ -10,9 +10,9 @@ image:    "icon-rmedia.svg"
  <p>Curious people can get the <span style="font-size:smaller; ">Radical</span> experience by staying with <span style="font-size:smaller; ">Radical</span> companies in the rCircuit.</p>
 </div>
 
-<div style="background-color:beige; font-size:x-large; font-family:american typewriter, serif; padding:1em; margin-bottom:30px; " class="_typewriter">
- <p style="text-align:center; margin:0; ">Compassion is the <span style="font-size:smaller; ">Radical</span>ism of our time</p>
- <p style="text-align:right; margin:0; font-size:smaller; ">&mdash; Dalai Lama XIV</p>
+<div class='_citation'>
+ <p>Compassion is the <span style="font-size:smaller; ">Radical</span>ism of our time</p>
+ <p id='_signature'>Dalai Lama XIV</p>
 </div>
 
 <h1>Intro</h1>
@@ -25,51 +25,51 @@ image:    "icon-rmedia.svg"
    <li>Help them not fall back on <span style="font-size:smaller; ">Radical</span> habits.</li>
   </ol>
 
-<h1>Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td colspan="2" style="font-weight:bold; text-align:center; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
+<h1>Explicit Alignment</h1>
+ <div class='_center'>
+  <table class='_explicitalignment'>
+   <tr>
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <th style='column-width:20px; col-width:30px; '>What for?</th>
    <td>
     <ul>
      <li>The <span style="font-size:smaller; ">Radical</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span style="font-size:smaller; ">Fiat</span> and continue to evolve along the <span style="font-size:smaller; ">Radical</span> path.</li>
     </ul>
    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Purpose</th>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>
+     <ul>
+      <li>To help companies get started and stay on the <span class='_paradigm'>Radical</span> path.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>What?</th>
+    <td>
+     <ul>
+      <li>Start talking to people about what we are doing.  Present tense, no hesitation.</li>
+      <li>Figure out who can help us build a prospect channel.</li>
+      <li>Figure out the resonant messages (e.g., for very small businesses, for very large businesses, and for every business in between).</li>
+      <li>Create and refine our personal and company story.</li>
+      <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
+     </ul>
+    </td>
   </tr>
   <tr>
-   <td colspan="2" style="font-weight:bold; text-align:center; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
-   <td>
-    <ul>
-     <li>To help companies get started and stay on the <span style="font-size:smaller; ">Radical</span> path.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; text-align:center; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
-    <ul>
-     <li>Start talking to people about what we are doing.  Present tense, no hesitation.</li>
-     <li>Figure out who can help us build a prospect channel.</li>
-     <li>Figure out the resonant messages (e.g., for very small businesses, for very large businesses, and for every business in between).</li>
-     <li>Create and refine our personal and company story.</li>
-     <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
+   <th>When?</th>
    <td>
     <ul>
      <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
@@ -77,16 +77,16 @@ image:    "icon-rmedia.svg"
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
+   <th>How?</th>
    <td>
     <ul>
      <li>Starting now.</li>
      <li>For the next six months.</li>
     </ul>
    </td>
-  </tr>
- </tbody>
-</table>
+   </tr>
+  </table>
+ </div>
 
 <h1>What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
