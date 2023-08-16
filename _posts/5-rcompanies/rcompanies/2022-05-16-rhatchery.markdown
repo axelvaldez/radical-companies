@@ -81,7 +81,7 @@ image:    "icon-rmedia.svg"
     <th>How?</th>
     <td>
      <ul>
-      <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
+      <li>We either charge a fee or we become co-owners of what the company that results.</li>
      </ul>
     </td>
    </tr>
