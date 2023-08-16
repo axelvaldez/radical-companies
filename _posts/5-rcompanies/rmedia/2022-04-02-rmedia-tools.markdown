@@ -12,7 +12,8 @@ image:    "icon-rmedia.svg"
 
 <h1>rReader</h1>
  <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
- <h2>Features</h2>
+
+<h1>Features</h1>
   <p>While on or near a PRADERA SHELF, the READER app can be used to,</p>
    <ul>
     <li>Download, listen to, or watch content.</li>
@@ -20,13 +21,15 @@ image:    "icon-rmedia.svg"
     <li>Read a book.</li>
     <li>Download the digital book at a discount or get a discount coupon (<em>e.g.</em>, QR code) to buy a paper copy of the book at the hosting store.</li>
    </ul>
- <h2>Highlights</h2>
+
+<h1>Highlights</h1>
   <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
   <p>In addition to highlighting, the READER can support underlines, boxes, and other forms of emphasis alone or in combination.</p>
 
 <h1>rShelf</h1>
  <p>The PRADERA SHELF could bring new life to small booksellers and make their business more profitable.</p>
- <h2>Features</h2>
+
+<h1>Features</h1>
   <p>Retailers would have an area, called the SHELF, dedicated to PRADERA MEDIA content.</p>
   <p>Later, retailers could include other publishers, but they would have to pay a fee to the store for the privilege (at that point the store would probably have to buy the SHELF).</p>
   <p>Mobile phones and pads will readily connect to the SHELF to,</p>
@@ -48,26 +51,19 @@ image:    "icon-rmedia.svg"
   <p>Footprints could span from a single-user booth, to a platform with several chairs in it, or even a counter where people could sit and read.</p>
   <div>
    <img
-    src="/assets/img/pradera-reader.svg"
+    src="/assets/img/pic-pradera-reader.svg"
     alt="Three possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs."
     title="PRADERA Reader configurations."
    >
 
-<h1>rMBA</h1>
- <div class="_citation">
-  <p>Compassion is the radicalism of our time.</p>
-  <p id="_signature">Dalai Lama XIV</p>
- </div>
- <h2>Origin Story</h2>
-  <p>The idea came up during a conversation with Jose Leal and Marcial Quintanar. One thing led to another and we ended up with rough plans for a <span style="font-size:smaller; ">RADICAL MBA</span>.<sup id="bm01"><a href="#en01">1&nbsp;</a></sup></p>
- <h2 class="_section">ENDNOTES</h2>
-  <ul style="font-size:smaller; ">
-   <li id="en01">
-    <p class="_list-item">
-     Not the perfect name, but MBA is more accessible. For now.
-     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
+<h1 class="_section">ENDNOTES</h1>
+ <ul style="font-size:smaller; ">
+  <li id="en01">
+   <p class="_list-item">
+    Not the perfect name, but MBA is more accessible. For now.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
   </ul>
 
 <div class="_next">
