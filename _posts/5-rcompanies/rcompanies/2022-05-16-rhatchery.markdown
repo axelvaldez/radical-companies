@@ -29,7 +29,7 @@ image:    "icon-rmedia.svg"
  <div class='_center'>
   <table class='_explicitalignment'>
    <tr>
-    <td></td>
+    <td style='border:0; '></td>
     <th>Impact</th>
    </tr>
    <tr>
@@ -41,7 +41,7 @@ image:    "icon-rmedia.svg"
    </td>
    </tr>
    <tr>
-    <td></td>
+    <td style='border:0; '>
     <th>Purpose</th>
    </tr>
    <tr>
@@ -53,7 +53,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td></td>
+    <td style='border:0; '>
     <th>Mission</th>
    </tr>
    <tr>
