@@ -67,21 +67,21 @@ image:    "icon-rmedia.svg"
       <li>Collect contact info, intros, etc., for the ⓡHATCHERY from everybody we talk to.</li>
      </ul>
     </td>
-  </tr>
-  <tr>
-   <th>When?</th>
-   <td>
-    <ul>
-     <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <th>How?</th>
+   </tr>
+   <tr>
+    <th>When?</th>
     <td>
      <ul>
       <li>Starting now.</li>
       <li>For the next six months.</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>How?</th>
+    <td>
+     <ul>
+      <li>We either charge a hefty fee or we become co-owners of what the company that results.</li>
      </ul>
     </td>
    </tr>
