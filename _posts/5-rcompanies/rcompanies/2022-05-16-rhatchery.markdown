@@ -213,7 +213,6 @@ image:    "icon-rmedia.svg"
    <li>Once a business signs an Agreement with us they are <span class='_paradigm'>Radical</span>S.</li>
    <li>Co-ownership is included in the Agreement.</li>
    <li><span class='_paradigm'>Fiat</span> money payment is desirable, but not an obstacle to entry.</li>
-   <li>???</li>
   </ul>
 
 <h1>COGS</h1>
@@ -237,8 +236,8 @@ image:    "icon-rmedia.svg"
     <em>The One Minute Manager.</em>
     Berkeley Trade.
     February 15, 1986.
-    &lt;<a href="https://radicals.world/kKIG4J">https://radicals.world/kKIG4J.</a>&gt;
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    &lt;<a href="https://radicals.world/kKIG4J" target='_blank'>https://radicals.world/kKIG4J.</a>&gt;xxx
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>yyy
    </p>
   </li>
   <li id="en03">
