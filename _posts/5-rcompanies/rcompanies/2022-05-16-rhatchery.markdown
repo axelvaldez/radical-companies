@@ -153,7 +153,7 @@ image:    "icon-rmedia.svg"
    <li>Life is great</li>
   </ol>
   <p>Ideally, the triad would include somebody who’s a &ldquo;stage four&rdquo; person.  As Logan would have it, <span class='_quotespan'>You’ll know these individuals by (1) their focus on &lsquo;we,</span>; (2) the number of triads in their networks, and (3) success that comes from groups.&rdquo;<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p>Triads are a co-training tool, where everybody ends up a <span class='_paradigm'>Radical</span> evangelist. Hatchers would be the first &ldquo;stage four&rdquo; cohort to kick off the triads, but then they would replace themselves with <em><span class='_paradigm'>Radical</span>-IN-TRAINING</em> folks.</p>
+   <p>Triads are a co-training tool, where everybody ends up a <span class='_paradigm'>Radical</span> evangelist. Hatchers would be the first &ldquo;stage four&rdquo; cohort to kick off the triads, but then they would replace themselves with other <em><span class='_paradigm'>Radical</span> folks.</p>
  
 <h1>Radical Farm Systems</h1>
   <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog &ldquo;farm.&rdquo;.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a &ldquo;trouble dog&rdquo; is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they &ldquo;graduate&rdquo; from the farm, these are, literally, <span class='_paradigm'>Radical</span> dogs.</p>
