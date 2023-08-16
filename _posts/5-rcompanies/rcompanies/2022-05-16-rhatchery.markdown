@@ -93,9 +93,9 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table'>
     <tr>
-     <td>
+     <th>
       <p>Hatchers</p>
-     </td>
+     </th>
      <td>
       <ul>
        <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, <span class='_paradigm'>Radical</span> world one company at a time.</li>
@@ -103,9 +103,9 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td>
-      <p>>Companies</p>
-     </td>
+     <th>
+      <p>Companies</p>
+     </th>
      <td>
       <ul>
        <li>Learning from the ability to experiment with various media, different messages.</li>
@@ -114,9 +114,9 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-     <td>
+     <th>
       <p>People</p>
-     </td>
+     </th>
      <td>
       <ul>
        <li>Learning to let go of fear.</li>
