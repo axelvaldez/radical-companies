@@ -78,12 +78,12 @@ image:    "icon-rmedia.svg"
   </tr>
   <tr>
    <th>How?</th>
-   <td>
-    <ul>
-     <li>Starting now.</li>
-     <li>For the next six months.</li>
-    </ul>
-   </td>
+    <td>
+     <ul>
+      <li>Starting now.</li>
+      <li>For the next six months.</li>
+     </ul>
+    </td>
    </tr>
   </table>
  </div>
