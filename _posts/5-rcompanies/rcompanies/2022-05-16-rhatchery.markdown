@@ -141,23 +141,27 @@ image:    "icon-rmedia.svg"
  <tbody>
  <table>
 
-<h1>How It Works</h1>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Embrace FIAT</h2>
+<h1 class='_section'>How It Works</h1>
+
+<h1>Embrace FIAT</h1>
   <p>The <span style="font-size:smaller; ">Fiat</span> world is our own creation and we start by embracing that.  When we engage with folks creating or running a business, even startups, we are engaging with <span style="font-size:smaller; ">Fiat</span> minded people. In fact, most people around today are <span style="font-size:smaller; ">Fiat</span> minded. That’s not a &ldquo;fault&rdquo; of theirs, that’s just the way it is.</p>
   <p>When we engage with established companies that want to make the transition,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> they are going to show up as <span style="font-size:smaller; ">Fiat</span> companies.  Their top boss has an intuition about &ldquo;a better way,&rdquo; but she’ll hear everything you say through <span style="font-size:smaller; ">Fiat</span> filters.</p>
   <p>Don’t roll your eyes.  Don’t get exasperated.  Don’t smirk.  &ldquo;Help people reach their full potential.  Catch them doing something right.&rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> People have spent years learning <span style="font-size:smaller; ">Fiat</span> habits.  You have to help them walk away from those and get used to <span style="font-size:smaller; ">Radical</span> habits.  Show them compassion, not pity, and respect for their commitment to the transformation.</p>
   <p>You are not going to win them all.  You just have to figure out when you can walk away and leave them to build their co-management and co-ownership skills without you.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Rinse and Repeat</h2>
+
+<h1>Rinse and Repeat</h1>
   <p>This is about the various ways to get the basics out and repeat them over and over to let them sink in.  We learn by repetition, so repeat.</p>
   <p>TBD.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Workshops</h2>
+
+<h1>Workshops</h1>
   <ol>
    <li>Describe scenario</li>
    <li>Team plays out a response</li>
    <li>Retrospective to identify <span style="font-size:smaller; ">Fiat</span> behavior (<em>e.g.</em>, competitive)</li>
    <li>Brainstorming for <span style="font-size:smaller; ">Radical</span> alternatives (<em>e.g.</em>, collaboration)</li>
   </ol>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Triads</h2>
+
+<h1>Triads</h1>
   <p>David Logan, researcher and principal author of Tribal Leadership, suggested forming triads, a group of three people, to support each other.  So instead of the &ldquo;1-on-1 with your boss,&rdquo; you could instead do it with your peers. Logan meant triads as a mechanism to help people move up the <em>five tribal stages</em>,</p>
   <ol>
    <li>Life sucks</li>
@@ -166,32 +170,37 @@ image:    "icon-rmedia.svg"
    <li>We are great (and they’re not)</li>
    <li>Life is great</li>
   </ol>
-  <p>Ideally, the triad would include somebody who’s a &ldquo;stage four&rdquo; person.  As Logan would have it, &ldquo;You’ll know these individuals by (1) their focus on &ldquo;we,&rdquo; (2) the number of triads in their networks, and (3) success that comes from groups.&rdquo;<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Ideally, the triad would include somebody who’s a &ldquo;stage four&rdquo; person.  As Logan would have it, <span class='_quotespan'>You’ll know these individuals by (1) their focus on &lsquo;we,</span>; (2) the number of triads in their networks, and (3) success that comes from groups.&rdquo;<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
    <p>Triads are a co-training tool, where everybody ends up a <span style="font-size:smaller; ">Radical</span> evangelist. Hatchers would be the first &ldquo;stage four&rdquo; cohort to kick off the triads, but then they would replace themselves with <em><span style="font-size:smaller; ">Radical</span>-IN-TRAINING</em> folks.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; " style="font-size:30px; font-family:Courier New, monospace; "><span style="font-size:smaller; ">Radical</span> Farm Systems</h2>
+ 
+<h1><span style="font-size:smaller; ">Radical</span> Farm Systems</h1>
   <p>This technique is inspired by Cesar Millan, The Dog Whisperer, and his dog &ldquo;farm.&rdquo;.  His large backyard is full of dogs that simply behave like dogs.  Other dogs can stay in the farm for a while to learn to be dogs. Most of the time, a &ldquo;trouble dog&rdquo; is trouble only because of its owner.  These are not mean people, but they treat their dogs as babies, siblings, or roommates.  But dogs are dogs, not humans. Atd his farm, Cesar let the dogs get back to their roots.  When they &ldquo;graduate&rdquo; from the farm, these are, literally, <span style="font-size:smaller; ">Radical</span> dogs.</p>
   <p><span style="font-size:smaller; ">Radical</span><em> </em>Farms would serve a similar purpose.  People from would-be <span style="font-size:smaller; ">Radical</span> companies would spend time at one of the many <span style="font-size:smaller; ">Radical</span> farms in the system.  These &ldquo;farms&rdquo; are <span style="font-size:smaller; ">Radical</span> companies that are prepared to host would-be <span style="font-size:smaller; ">Radical</span> so they can learn how to let go of fear driven habits.</p>
   <p>If dogs can learn how to be dogs from other dogs, people can best learn how to be people from other people.</p>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Emerging Sensitivities</h2>
+
+<h1>Emerging Sensitivities</h1>
   <p>We are very sensitive about people who want to dominate us.  When people say, &ldquo;I’ve always had trouble with authority,&rdquo; I hear that as &ldquo;I am very sensitive to anything and anybody trying to dominate me, and I always resist.&rdquo;  That’s because we have grown up in a system fueled by domination.</p>
   <p>We need to help people to let go of this and other fear-based habits and learn collaborative habits.</p>
  <h2 style="font-size:30px; font-family:Courier New, monospace; ">Co-Ownership Workshops</h2>
   <p>Help people figure out how to get started experimenting with this thing.</p>
 
-<h1>rHatchery</h1>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Who Belongs</h2>
+<h1 class='_section'>rHatchery</h1>
+
+<h1>Who Belongs</h1>
   <ul>
    <li>The rHatchery is a community.</li>
-   <li>Anybody who voices &ldquo;interest&rdquo; is already ia &ldquo;member&rdquo; of it.</li>
+   <li>Anybody who voices &ldquo;interest&rdquo; is already a &ldquo;member&rdquo; of it.</li>
    <li>Signed clients start in the rHatchery and remain there once they become <a href="https://docs.google.com/document/d/1OSMzaxsBEGVL4OVH_r1Q_PTrkJV7AeDA9nlNw00igkA/edit#heading=h.cs43sopv1paq">clients</a>.</li>
   </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Model</h2>
+
+<h1>Model</h1>
   <ul>
    <li>Clients  sign an agreement (conscious contract?).</li>
    <li>There will be a rate pre-agreement and another post-agreement.</li>
    <li>And there will be a &ldquo;co-ownership rate,&rdquo; which means that Hatchers become co-owners of the company.</li>
   </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Process</h2>
+
+<h1>Process</h1>
   <ul>
    <li>Talk to everyone in the company for at least one hour.</li>
    <li>Let them get out their standard war stories.</li>
@@ -205,7 +214,8 @@ image:    "icon-rmedia.svg"
    <ul>
     <li>Talk to them in small groups to 1) get the reactions to the story, and 2) start habituating them to work, and be vulnerable, in groups.</li>
    </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Learning Opportunities</h2>
+
+<h1>Learning Opportunities</h1>
   <ul>
    <li>We could invite people to give talks.</li>
    <li>We could have people present their books.</li>
@@ -220,7 +230,8 @@ image:    "icon-rmedia.svg"
   <ul>
    <li>Hatcher triads? Mentored and learning to mentor.</li>
   </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">Hatchlings</h2>
+
+<h1 style="font-size:30px; font-family:Courier New, monospace; ">Hatchlings</h1>
   <p>Birds go through several stages on their way to adulthood: nestling, fledgling, juvenile, and, finally, adulthood. Our job is to help these people move towards adulthood.</p>
   <ul>
    <li>Once a business signs an Agreement with us they are <span style="font-size:smaller; ">Radical</span>S.</li>
@@ -228,14 +239,15 @@ image:    "icon-rmedia.svg"
    <li><span style="font-size:smaller; ">Fiat</span> money payment is desirable, but not an obstacle to entry.</li>
    <li>???</li>
   </ul>
- <h2 style="font-size:30px; font-family:Courier New, monospace; ">COGS</h2>
+
+<h1>COGS</h1>
   <p>The upfront costs should be treated as a cash infusion that has to be repaid.</p>
   <ul>
    <li>Facilitating the rHatchery community.</li>
    <li>Facilitating client-specific rHatchery communities.</li>
   </ul>
 
-<h1 class="_section">ENDNOTES</h1>
+<h1 class='_section'>ENDNOTES</h1>
  <ul>
  <ul>
   <li id="en01">
