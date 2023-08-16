@@ -29,19 +29,19 @@ image:    "icon-rmedia.svg"
  <div class='_center'>
   <table class='_explicitalignment'>
    <tr>
-    <td style='border:0; '></td>
+    <td style='border:0; '>&nbsp;</td>
     <th>Impact</th>
    </tr>
    <tr>
     <th style='column-width:20px; col-width:30px; '>What for?</th>
-   <td>
-    <ul>
-     <li>The <span class='_paradigm'>Radical</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span class='_paradigm'>Fiat</span> and continue to evolve along the <span class='_paradigm'>Radical</span> path.</li>
-    </ul>
-   </td>
+    <td>
+     <ul>
+      <li>The <span class='_paradigm'>Radical</span> paradigm is on its way to becoming the norm. Many companies have turned away from <span class='_paradigm'>Fiat</span> and continue to evolve along the <span class='_paradigm'>Radical</span> path.</li>
+     </ul>
+    </td>
    </tr>
    <tr>
-    <td style='border:0; '>
+    <td style='border:0; '>&nbsp;</td>
     <th>Purpose</th>
    </tr>
    <tr>
@@ -53,7 +53,7 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td style='border:0; '>
+    <td style='border:0; '>&nbsp;</td>
     <th>Mission</th>
    </tr>
    <tr>
