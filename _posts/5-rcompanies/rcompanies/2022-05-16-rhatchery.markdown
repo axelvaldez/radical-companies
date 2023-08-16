@@ -89,7 +89,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>What's in It for &hellip;?</h1>
- <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
+ <p>This is what different entities will get in addition to co-ownership and participation in the wealth they help create,</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
