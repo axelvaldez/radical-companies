@@ -90,56 +90,44 @@ image:    "icon-rmedia.svg"
 
 <h1>What's in It for &hellip;?</h1>
  <p>Besides company co-ownership and participation in the wealth they help create, this is what different people will get,</p>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td>
-    <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Hatchers</p>
-   </td>
-   <td>
-    <ul>
-     <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, <span style="font-size:smaller; ">Radical</span> world one company at a time.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Companies</p>
-   </td>
-   <td>
-    <ul>
-     <li>Learning from the ability to experiment with various media, different messages.</li>
-     <li>Spreading the <span style="font-size:smaller; ">Radical</span> story, by example, as a <span style="font-size:smaller; ">Radical</span> farm, as evangelists.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
-  <tr>
-   <td>
-    <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">People</p>
-   </td>
-   <td>
-    <ul>
-     <li>Learning to let go of fear.</li>
-     <li>Learning <span style="font-size:smaller; ">Radical</span> habits.</li>
-     <li>Practicing these new habits at home and in their communities.</li>
-     <li>Learning from the <span style="font-size:smaller; ">Radical</span> farms.</li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td></td>
-   <td></td>
-  </tr>
- <tbody>
- <table>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <td>
+      <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Hatchers</p>
+     </td>
+     <td>
+      <ul>
+       <li>Promotion of their ideas, of themselves, of their content.  The satisfaction of creating a new, <span style="font-size:smaller; ">Radical</span> world one company at a time.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Companies</p>
+     </td>
+     <td>
+      <ul>
+       <li>Learning from the ability to experiment with various media, different messages.</li>
+       <li>Spreading the <span style="font-size:smaller; ">Radical</span> story, by example, as a <span style="font-size:smaller; ">Radical</span> farm, as evangelists.</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <p style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">People</p>
+     </td>
+     <td>
+      <ul>
+       <li>Learning to let go of fear.</li>
+       <li>Learning <span style="font-size:smaller; ">Radical</span> habits.</li>
+       <li>Practicing these new habits at home and in their communities.</li>
+       <li>Learning from the <span style="font-size:smaller; ">Radical</span> farms.</li>
+      </ul>
+     </td>
+    </tr>
+   </table>
+  </div>
 
 <h1 class='_section'>How It Works</h1>
 
@@ -231,7 +219,7 @@ image:    "icon-rmedia.svg"
    <li>Hatcher triads? Mentored and learning to mentor.</li>
   </ul>
 
-<h1 style="font-size:30px; font-family:Courier New, monospace; ">Hatchlings</h1>
+<h1>Hatchlings</h1>
   <p>Birds go through several stages on their way to adulthood: nestling, fledgling, juvenile, and, finally, adulthood. Our job is to help these people move towards adulthood.</p>
   <ul>
    <li>Once a business signs an Agreement with us they are <span style="font-size:smaller; ">Radical</span>S.</li>
@@ -258,7 +246,10 @@ image:    "icon-rmedia.svg"
   <li id="en02">
    <p class="_list-item">
     Kenneth Blanchard, Spencer Johnson.
-    <a href="https://www.goodreads.com/quotes/580671-secret-2-one-minute-praising-help-people-to-reach">The One Minute Manager</a>. Berkley Trade, February 15, 1986.</a>
+    <em>The One Minute Manager.</em>
+    Berkeley Trade.
+    February 15, 1986.
+    &lt;<a href="https://radicals.world/kKIG4J">https://radicals.world/kKIG4J.</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -267,7 +258,7 @@ image:    "icon-rmedia.svg"
     Dave Logan, John King, Halee Fischer-Wright.
     <em>Tribal Leadership: Leveraging Natural Groups to Build a Thriving Organization</em>.
     2008.
-    <a href="https://a.co/1953Gkh" target="_blank">https://a.co/1953Gkh</a>
+    &lt;<a href="https://a.co/1953Gkh" target="_blank">https://a.co/1953Gkh</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
