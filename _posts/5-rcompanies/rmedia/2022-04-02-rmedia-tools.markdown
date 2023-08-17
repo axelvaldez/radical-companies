@@ -12,15 +12,20 @@ image:    "icon-rmedia.svg"
 
 <h1>rReader</h1>
  <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
-
-<h1>Features</h1>
-  <p>While on or near a PRADERA SHELF, the READER app can be used to,</p>
-   <ul>
-    <li>Download, listen to, or watch content.</li>
-    <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
-    <li>Read a book.</li>
-    <li>Download the digital book at a discount or get a discount coupon (<em>e.g.</em>, QR code) to buy a paper copy of the book at the hosting store.</li>
-   </ul>
+  <div class='_center'>
+   <table>
+    <tr>
+     <td>
+      <h1>Features</h1>
+       <p>While on or near a PRADERA SHELF, the READER app can be used to,</p>
+        <ul>
+         <li>Download, listen to, or watch content.</li>
+         <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
+         <li>Read a book.</li>
+         <li>Download the digital book at a discount or get a discount coupon (<em>e.g.</em>, QR code) to buy a paper copy of the book at the hosting store.</li>
+        </ul>
+     </td>
+    </tr>
 
 <h1>Highlights</h1>
   <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
@@ -46,7 +51,7 @@ image:    "icon-rmedia.svg"
     <li>The SHELF is different and becomes a conversation piece (<em>i.e.</em>, love or hate it, it gets mentioned online).</li>
     <li>The store gets increased foot traffic.</li>
     <li>More book copies are sold.</li>
-    <li>PRADERA MEDIA gets all contact info (opt-in) collected at the SHELF.</li>
+    <li>PRADERA MEDIA gets all (opt-in) contact info (opt-in) collected at the SHELF.</li>
    </ul>
   <p>Footprints could span from a single-user booth, to a platform with several chairs in it, or even a counter where people could sit and read.</p>
   <div>
@@ -55,16 +60,6 @@ image:    "icon-rmedia.svg"
     alt="Three possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs."
     title="PRADERA Reader configurations."
    >
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Not the perfect name, but MBA is more accessible. For now.
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
 
 <div class="_next">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/01/rmedia">&lt; Previous</a></span>
