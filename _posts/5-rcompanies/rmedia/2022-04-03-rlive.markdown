@@ -257,25 +257,21 @@ image:    "icon-rmedia.svg"
     </tr>
    </table>
   </div>
-  aaa
   <div class='_center'>
    <table class='_h2table'>
     <tr>
      <th>Recruiting</th>
      <td>
-<!--
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">Iconoclast</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
        <li>Following up with non-respondents.</li>
        <li>Nurturing respondents.</li>
        <li>Get a firm commitment from each <span style="font-size:smaller; ">Iconoclast</span>s.</li>
       </ul>
--->
      </td>
     </tr>
    </table>
   </div>
-  bbb
   <div class='_center'>
    <table clas='_h2table'>
     <tr>
@@ -295,7 +291,6 @@ image:    "icon-rmedia.svg"
     </tr>
    </table>
   </div>
-  ddd
  <h2>Marketing & Sales</h2>
   <div class='_center'>
    <table class='_h2table'>
@@ -322,7 +317,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
   </table>
- </div>f
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
