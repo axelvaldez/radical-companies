@@ -184,7 +184,7 @@ image:    "icon-rmedia.svg"
     <tr>
      <th>Highlights</th>
      <td>
-      <p>30-45 sec</p>
+      <p>30-45&nbsp;sec</p>
       <p>1 min</p>
       <p>5-min</p>
      </td>
