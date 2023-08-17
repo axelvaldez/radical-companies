@@ -279,12 +279,14 @@ image:    "icon-rmedia.svg"
     <tr>
      <th>Production</th>
      <td>Involves everything during the process of recording,
+<!--
       <ul>
        <li>Set Prep &mdash; Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
        <li>Video and Audio Production &mdash; Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
        <li>Producing &mdash; A producer off screen will be necessary to quickly research any topics guests’ are discussing so as to be a reference point when needed.</li>
        <li>Media Archival &mdash; Making sure all media is archived and backed up once recorded is complete.</li>
       </ul>
+-->
      </td>
     </tr>
     <tr>
