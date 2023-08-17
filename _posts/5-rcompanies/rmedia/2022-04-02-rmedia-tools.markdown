@@ -43,16 +43,28 @@ image:    "icon-rmedia.svg"
     <tr>
      <td>
       <h2>Features</h2>
-       <p>Retailers would have an area, called the Shelf, dedicated to PRADERA MEDIA content.</p>
+       <p>Retailers would have an area, called the Shelf, dedicated to PRADERA Media content.</p>
        <p>Later, retailers could include other publishers, but they would have to pay a fee to the store for the privilege (at that point the store would probably have to buy the Shelf).</p>
        <p>Mobile phones and pads will readily connect to the Shelf to,</p>
         <ul>
          <li>Download/listen/watch content.</li>
-         <li>Upload reviews and other content, such as text, audio, or video (see PRADERA MAKE).</li>
+         <li>Upload reviews and other content, such as text, audio, or video (see PRADERA Make).</li>
          <li>Download the first few chapters of a book for free or the whole book at a discount.</li>
          <li>Get a discount coupon to buy a paper copy of the book at the hosting store.</li>
-         <li>See PRADERA READER.</li>
+         <li>See PRADERA Reader.</li>
         </ul>
+     </td>
+     <td>
+      <img
+       src="/assets/img/pic-pradera-shelf.svg"
+       alt="A nice, noticeable, and comfortable chair."
+       Width
+      >
+     </td>
+    </tr>
+    <tr>
+     <td>
+      <h2>Highlights</h2>
        <p>The Shelf is designed to be noticeable. A couple of elevated chairs could serve as a Shelf or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (<em>i.e.</em>, instant book clubs). </p>
        <p>What’s disruptive about this is that the Shelf is different and becomes a conversation piece (<em>i.e.</em>, love or hate it, it gets mentioned online). Also,</p>
         <ul>
@@ -61,13 +73,6 @@ image:    "icon-rmedia.svg"
          <li>PRADERA MEDIA gets all (opt-in) contact info (opt-in) collected at the Shelf.</li>
         </ul>
        <p>Footprints could span from a single-user booth, to a platform with several chairs in it, or even a counter where people could sit and read.</p>
-     </td>
-     <td>
-      <img
-       src="/assets/img/pic-pradera-shelf.svg"
-       alt="A nice, noticeable, and comfortable chair."
-       Width
-      >
      </td>
     </tr>
    </table>
