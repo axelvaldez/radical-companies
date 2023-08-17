@@ -310,11 +310,6 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-   </table>
-  </div>e
-  <div class='_center'>
-   <table clas='_h2table'>
-    <tr>
      <th>Syndication</th>
      <td style="padding-left:1em; ">Share the distribution package with,
       <ul>
