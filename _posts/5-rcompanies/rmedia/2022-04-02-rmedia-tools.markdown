@@ -16,7 +16,7 @@ image:    "icon-rmedia.svg"
    <table>
     <tr>
      <td>
-      <h1>Features</h1>
+      <h2>Features</h2>
        <p>While on or near a PRADERA Shelf, the Reader app can be used to,</p>
         <ul>
          <li>Download, listen to, or watch content.</li>
@@ -28,7 +28,7 @@ image:    "icon-rmedia.svg"
     </tr>
     <tr>
      <td>
-      <h1>Highlights</h1>
+      <h2>Highlights</h2>
        <p>The Reader allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
        <p>In addition to highlighting, the READER can support underlines, boxes, and other forms of emphasis alone or in combination.</p>
      </td>
@@ -42,7 +42,7 @@ image:    "icon-rmedia.svg"
    <table>
     <tr>
      <td>
-      <h1>Features</h1>
+      <h2>Features</h2>
        <p>Retailers would have an area, called the Shelf, dedicated to PRADERA MEDIA content.</p>
        <p>Later, retailers could include other publishers, but they would have to pay a fee to the store for the privilege (at that point the store would probably have to buy the Shelf).</p>
        <p>Mobile phones and pads will readily connect to the Shelf to,</p>
