@@ -11,13 +11,13 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>rReader</h1>
- <p>A reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
+ <p>A Reader app that works with ebooks and platforms (<em>e.g.</em>, Kindle).</p>
   <div class='_center'>
    <table>
     <tr>
      <td>
       <h1>Features</h1>
-       <p>While on or near a PRADERA SHELF, the READER app can be used to,</p>
+       <p>While on or near a PRADERA Shelf, the Reader app can be used to,</p>
         <ul>
          <li>Download, listen to, or watch content.</li>
          <li>Upload reviews and other content (i.e., as text, audio, or video).</li>
@@ -25,9 +25,11 @@ image:    "icon-rmedia.svg"
          <li>Download the digital book at a discount or get a discount coupon (<em>e.g.</em>, QR code) to buy a paper copy of the book at the hosting store.</li>
         </ul>
      </td>
+    </tr>
+    <tr>
      <td>
       <h1>Highlights</h1>
-       <p>The READER allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
+       <p>The Reader allows readers to highlight from one word to a whole fragment. As opposed to the Kindle, a &ldquo;word&rdquo; does not include adjacent punctuation (<em>e.g</em>, single and double quotes, commas, periods, colons, semicolons, ellipses, dashes, parentheses, brackets, and exclamation and question marks) although the user may include it manually by adjusting the selection one character at a time.</p>
        <p>In addition to highlighting, the READER can support underlines, boxes, and other forms of emphasis alone or in combination.</p>
      </td>
     </tr>
@@ -35,15 +37,15 @@ image:    "icon-rmedia.svg"
   </div>
 
 <h1>rShelf</h1>
- <p>The PRADERA SHELF could bring new life to small booksellers and make their business more profitable.</p>
+ <p>The PRADERA Shelf could bring new life to small booksellers and make their business more profitable.</p>
   <div class='_center'>
    <table>
     <tr>
      <td>
       <h1>Features</h1>
-       <p>Retailers would have an area, called the SHELF, dedicated to PRADERA MEDIA content.</p>
-       <p>Later, retailers could include other publishers, but they would have to pay a fee to the store for the privilege (at that point the store would probably have to buy the SHELF).</p>
-       <p>Mobile phones and pads will readily connect to the SHELF to,</p>
+       <p>Retailers would have an area, called the Shelf, dedicated to PRADERA MEDIA content.</p>
+       <p>Later, retailers could include other publishers, but they would have to pay a fee to the store for the privilege (at that point the store would probably have to buy the Shelf).</p>
+       <p>Mobile phones and pads will readily connect to the Shelf to,</p>
         <ul>
          <li>Download/listen/watch content.</li>
          <li>Upload reviews and other content, such as text, audio, or video (see PRADERA MAKE).</li>
@@ -62,9 +64,9 @@ image:    "icon-rmedia.svg"
      </td>
      <td>
       <img
-       src="/assets/img/pic-pradera-reader.svg"
+       src="/assets/img/pic-pradera-shelf.svg"
        alt="A nice, noticeable, and comfortable chair. Other configuratiopns are possible."
-       title="PRADERA Shelf configurations."
+       Width
       >
      </td>
     </tr>
