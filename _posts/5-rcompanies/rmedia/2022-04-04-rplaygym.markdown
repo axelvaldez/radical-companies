@@ -107,7 +107,7 @@ image:    "icon-rmedia.svg"
    <tr>
     <th>Team High\2011End Talent</th>
     <td>
-     <p>That being said, there is a difference between a prospect who could make an impact at the big league level and a prospect who could be a star. High\2011end talent served as a tiebreaker of sorts when two teams were close in the rankings.</p>
+     <p>That being said, there is a difference between a prospect who could make an impact at the big league level and a prospect who could be a star. Perceived talent served as a tiebreaker of sorts when two teams were close in the rankings.</p>
     </td>
    </tr>
   </table>
