@@ -53,7 +53,7 @@ image:    "icon-rmedia.svg"
          <li>Get a discount coupon to buy a paper copy of the book at the hosting store.</li>
          <li>See PRADERA Reader.</li>
         </ul>
-       <div class+_center"> 
+       <div class='_center'> 
         <img
          src="/assets/img/pic-pradera-shelf.svg"
          alt="A nice, noticeable, and comfortable chair."
