@@ -256,7 +256,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
    </table>
-  </div>
+  </div>a
   <div class='_center'>
    <table clas='_h2table'>
     <tr>
@@ -270,6 +270,10 @@ image:    "icon-rmedia.svg"
       </ul>
      </td>
     </tr>
+   </table>
+  </div>b
+  <div class='_center'>
+   <table clas='_h2table'>
     <tr>
      <th>Production</th>
      <td>Involves everything during the process of recording,
@@ -281,7 +285,7 @@ image:    "icon-rmedia.svg"
       </ul>
      </td>
     </tr>
-  </div>
+  </div>c
   <div class='_center'>
    <table clas='_h2table'>
     <tr>
@@ -289,7 +293,7 @@ image:    "icon-rmedia.svg"
      <td>All video and audio editing from source recording.</td>
     </tr>
    </table>
-  </div>
+  </div>d
  <h2>Marketing & Sales</h2>
   <div class='_center'>
    <table clas='_h2table'>
@@ -305,7 +309,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-  </div>
+  </div>e
   <div class='_center'>
    <table clas='_h2table'>
      <th>Syndication</th>
@@ -319,7 +323,7 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
   </table>
- </div>
+ </div>f
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
