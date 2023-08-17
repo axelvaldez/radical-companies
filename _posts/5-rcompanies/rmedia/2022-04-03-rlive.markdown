@@ -80,7 +80,7 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Format</h1>
- <p>The format is inspired by the HBO series <span style="font-size:smaller; ">ICONOCLAST</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were successful in their efforts.</p>
+ <p>The format is inspired by the HBO series <span style="font-size:smaller; ">Iconoclast</span>s which featured &ldquo;an hour of personal conversation and storytelling.&rdquo;<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> There are no &ldquo;hosts&rdquo; or &ldquo;guests,&rdquo; it is simply people talking about their journeys, going against the grain of traditional beliefs and institutions, projecting what the world would be like if they were successful in their efforts.</p>
 
 <h1>Modality</h1>
  <div class='_center'>
@@ -89,7 +89,7 @@ image:    "icon-rmedia.svg"
     <th>Simple</th>
     <td>
      <ul>
-      <li>The <span class='_paradigm'>Radical</span>S.LIVE! episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
+      <li>The <span class='_paradigm'>rLive!</span> episodes are online (<em>e.g.</em>,  Zoom, Riff) or in person</li>
       <li>Each speaker must appear to be looking at the other most of the time, not the camera. Their camera is the third party in the room and they could speak to it, too.</li>
      </ul>
     </td>
@@ -98,8 +98,8 @@ image:    "icon-rmedia.svg"
     <th>In Person</th>
     <td>
      <ul>
-      <li>Having the conversation in person. If need be, one <span style="font-size:smaller; ">ICONOCLAST</span>s would travel to the other.</li>
-      <li>It can be recorded at the <span style="font-size:smaller; ">ICONOCLAST</span>s home or office or some iconic nearby place (i.e., with no background noise). Segments for the episode could be recorded in different locations.</li>
+      <li>Having the conversation in person. If need be, one <span style="font-size:smaller; ">Iconoclast</span>s would travel to the other.</li>
+      <li>It can be recorded at the <span style="font-size:smaller; ">Iconoclast</span>s home or office or some iconic nearby place (i.e., with no background noise). Segments for the episode could be recorded in different locations.</li>
       <li>We can record with a (phone) camera on a tripod and a fixed/directional audio setup. If there’s local help, that person could be recording with a roving (phone) camera.</li>
      </ul>
     </td>
@@ -108,7 +108,7 @@ image:    "icon-rmedia.svg"
     <th>Full Production</th>
     <td>
      <ul>
-      <li>Hire a local videographer to give the <span style="font-size:smaller; ">ICONOCLAST</span>s the ability to walk and move around.</li>
+      <li>Hire a local videographer to give the <span style="font-size:smaller; ">Iconoclast</span>s the ability to walk and move around.</li>
       <li>Multiple cameras.</li>
       <li>Record in public places, with people mulling about, ambient hum, etc.</li>
      </ul>
@@ -124,8 +124,8 @@ image:    "icon-rmedia.svg"
     <th>Simple</th>
     <td>
      <ul>
-      <li>Green screen.<sup><a href="#bookmark=id.vqnuy2hbs882">3</a></sup></li>
-      <li>Local recording.<sup><a href="#bookmark=id.fxqsjig0hepn">4</a></sup></li>
+      <li>Green screen.</li>
+      <li>Local recording.</li>
       <li>The time and tools to record and edit.</li>
       <li>Distribution platforms.</li>
      </ul>
@@ -135,8 +135,8 @@ image:    "icon-rmedia.svg"
     <th>In Person</th>
     <td>
      <ul>
-      <li>Travel for one <span style="font-size:smaller; ">ICONOCLAST</span>s and local videographer.</li>
-      <li>For lodging, stay with the local <span style="font-size:smaller; ">ICONOCLAST</span>s, or Airbnb, or hotel.</li>
+      <li>Travel for one <span style="font-size:smaller; ">Iconoclast</span>s and local videographer.</li>
+      <li>For lodging, stay with the local <span style="font-size:smaller; ">Iconoclast</span>s, or Airbnb, or hotel.</li>
       <li>Equipment rental.</li>
      </ul>
     </td>
@@ -155,65 +155,45 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1>Launch</h1>
- <p>We will start by pairing up with the first few guests. These will be people we know, like Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side (see <span style="font-size:smaller; ">ICONOCLAST</span>s Candidates).</p>
- <p>We want diverse <span style="font-size:smaller; ">ICONOCLAST</span>ss. It could be an experienced co-management practitioner with a traditional boss. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
- <p>Later, these <span style="font-size:smaller; ">ICONOCLAST</span>ss can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the <span class='_paradigm'>Radical</span> message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the <span class='_paradigm'>Radical</span> message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
+ <p>We will start by pairing up with the first few guests. For example, Doug Kirkpatrick and Chuck Blakeman on the co-management side and Nathan Schneider on the co-ownership side.</p>
+ <p>We want diverse <span style="font-size:smaller; ">Iconoclast</span>s. It could be an experienced co-management practitioner on one hand, and a traditional boss on the other. Other things to consider are age, gender, and ethnicity. The point is to create a high contrast that screams &ldquo;this works for everybody, including you, the audience.&rdquo;</p>
+ <p>Later, these <span style="font-size:smaller; ">Iconoclast</span>s can recruit other people to record an episode with. We need to make this as frictionless as possible while insisting that the <span class='_paradigm'>Radical</span> message not be diluted. The whole episode could be all about how &ldquo;it won’t work,&rdquo; but the <span class='_paradigm'>Radical</span> message has to be central. Otherwise, the show won’t be published under the brand, although the participants will get the raw material to use as they see fit.</p>
 
 <h1>Distribution Package</h1>
  <p>The  resulting distribution package will include,</p>
   <div class='_center'>
-   <table style="width:80%; ">
+   <table class='h2table'>
     <tr>
-     <th style="width:30en; "></th>
-     <th style="width:30en; ">Duration</th>
-     <th style="width:30en; ">What</th>
-     <th style="width:30en; ">Target Audience</th>
+     <th style="width:1.1in; "></th>
+     <th style="width:1.0in; ">Duration</th>
+     <th style="width:1.0in; ">What</th>
+     <th style="width:3.4in; ">Target Audience</th>
     </tr>
-    <colgroup>
-     <!--                 --> <col style="">
-     <!-- Duration        --> <col style="background-color:#eee; ">
-     <!-- What            --> <col style="">
-     <!-- Target Audience --> <col style="background-color:#eee;">
-    </colgroup>
     <tr>
-     <th style="width:30en; ">Episode</th>
-     <td style="width:30en; ">
-      <ul>
-       <li>90 min</li>
-      </ul>
-     </td>
-     <td style="width:30en; ">Live streamed and recorded</td>
-     <td style="width:30en; ">For co-owner-wanna-bes</td>
+     <th>Episode</th>
+     <td>90 min</td>
+     <td>Live streamed and recorded</td>
+     <td>For wannabe co-owners</td>
     </tr>
     <tr>
      <th>Hour</th>
-     <td>
-      <ul>
-       <li>50 min</li>
-      </ul>
-     </td>
+     <td>50 min</td>
      <td>Edited</td>
      <td>For general distribution</td>
     </tr>
     <tr>
      <th>Highlights</th>
      <td>
-      <ul>
-       <li>30-45 sec</li>
-       <li>1 min</li>
-       <li>5-min</li>
-      </ul>
+      <p>30-45 sec</p>
+      <p>1 min</p>
+      <p>5-min</p>
      </td>
-      <td>Dramatic, explosive moments</td>
+     <td>Dramatic, explosive moments</td>
      <td>For promotion on social media platforms, podcasters, blogs, etc</td>
     </tr>
     <tr>
      <th>Brief</th>
-     <td>
-      <ul>
-       <li>25 min</li>
-      </ul>
-     </td>
+     <td>25 min</td>
      <td>A short version of the show</td>
      <td>For blogs, news articles, etc</td>
     </tr>
@@ -235,7 +215,7 @@ image:    "icon-rmedia.svg"
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
   <p><em>Recording</em> will take two to four hours.</p>
-  <div class='_center' style='width:80%; '>
+   <div class='_center' style='width:80%; '>
     <table class='_h2table'>
      <colgroup>
       <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
@@ -245,8 +225,8 @@ image:    "icon-rmedia.svg"
       <th>Onboarding</th>
       <td>
        <ul>
-        <li>Practice recording: Lets the <span style="font-size:smaller; ">ICONOCLAST</span>s get his “pitch” out of his system.</li>
-        <li>Reminding each <span style="font-size:smaller; ">ICONOCLAST</span>s of the primary topic.</li>
+        <li>Practice recording: Lets the <span style="font-size:smaller; ">Iconoclast</span>s get his “pitch” out of his system.</li>
+        <li>Reminding each <span style="font-size:smaller; ">Iconoclast</span>s of the primary topic.</li>
         <li>Hints of how to get started.</li>
         <li>How to watch out for direction to get back on topic.</li>
        </ul>
@@ -256,21 +236,17 @@ image:    "icon-rmedia.svg"
       <th>Direction</th>
       <td>
        <ul>
-        <li>Pausing when the <span style="font-size:smaller; ">ICONOCLAST</span>s way goes off subject and helping them get back on track.</li>
+        <li>Pausing when the <span style="font-size:smaller; ">Iconoclast</span>s way goes off subject and helping them get back on track.</li>
         <li>Handling bathroom breaks and other unavoidable interruptions.</li>
-        <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">ICONOCLAST</span>s pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
+        <li>Moving from one location to another. Ideally, the <span style="font-size:smaller; ">Iconoclast</span>s pairs should move to different locations (<em>e.g.</em>, inside/outside, sitting/standing, walking) every 20-30 minutes or so.</li>
        </ul>
       </td>
      </tr>
     </table>
    </div>
  <h2>Production</h2>
-  <div class='_center' style='width:80%; '>
+  <div class='_center'>
    <table clas='_h2table'>
-    <colgroup>
-     <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
-     <col>
-    </colgroup>
     <tr>
      <th>Planning</th>
      <td>Includes all preparations before a show for optimal experience,
@@ -286,10 +262,10 @@ image:    "icon-rmedia.svg"
      <th>Recruiting</th>
      <td>
       <ul>
-       <li>Send intro emails. If possible, the <span style="font-size:smaller; ">ICONOCLAST</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
+       <li>Send intro emails. If possible, the <span style="font-size:smaller; ">Iconoclast</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
        <li>Following up with non-respondents.</li>
        <li>Nurturing respondents.</li>
-       <li>Get a firm commitment from each <span style="font-size:smaller; ">ICONOCLAST</span>s.</li>
+       <li>Get a firm commitment from each <span style="font-size:smaller; ">Iconoclast</span>s.</li>
       </ul>
      </td>
     </tr>
@@ -297,10 +273,10 @@ image:    "icon-rmedia.svg"
      <th>Production</th>
      <td>Involves everything during the process of recording,
       <ul>
-       <li>Set Prep – Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
-       <li>Video and Audio Production - Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
-       <li>Producing – A producer off screen will be necessary to quickly research any topics guests’ are discussing so as to be a reference point when needed.</li>
-       <li>Media Archival – Making sure all media is archived and backed up once recorded is complete.</li>
+       <li>Set Prep &mdash; Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
+       <li>Video and Audio Production &mdash; Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
+       <li>Producing &mdash; A producer off screen will be necessary to quickly research any topics guests’ are discussing so as to be a reference point when needed.</li>
+       <li>Media Archival &mdash; Making sure all media is archived and backed up once recorded is complete.</li>
       </ul>
      </td>
     </tr>
@@ -311,15 +287,11 @@ image:    "icon-rmedia.svg"
    </table>
   </div>
  <h2>Marketing & Sales</h2>
-  <div class='_center' style='width:80%; '>
+  <div class='_center'>
    <table clas='_h2table'>
-    <colgroup>
-     <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
-     <col>
-    </colgroup>
     <tr>
-     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Promotion</td>
-     <td style="padding-left:1em; ">It involves everything from posting the content to promoting the content for audience growth.
+     <th>Promotion</th>
+     <td>It involves everything from posting the content to promoting the content for audience growth.
       <ul>
        <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
        <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
@@ -329,29 +301,18 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
-      <td colspan="4" style="font-size:2px; ">&nbsp;</td>
-    </tr>
-    <tr>
-     <td style="font-weight:bold; text-align:right; padding-right:1em; ">Syndication</td>
+     <th>Syndication</th>
      <td style="padding-left:1em; ">Share the distribution package with,
       <ul>
        <li>Bloggers.</li>
        <li>Podcasters.</li>
-       <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">ICONOCLAST</span>s&lsquo; connections whenever possible.</li>
+       <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">Iconoclast</span>s&lsquo; connections whenever possible.</li>
        <li>Radio and TV producers and hosts.</li>
       </ul> 
      </td>
     </tr>
-    <tr>
-     <td colspan="2">&nbsp;</td>
-    </tr>
   </table>
  </div>
-
-<div class="_next">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/02/rmedia-tools">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/04/04/rplaygym">        Next &gt;</a></span>
-</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul style="font-size:smaller; ">
@@ -366,5 +327,10 @@ image:    "icon-rmedia.svg"
    </p>
   </li>
  </ul>
+
+<div class="_next">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/02/rmedia-tools">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/04/04/rplaygym">        Next &gt;</a></span>
+</div>
 
 {% include related.html %}
