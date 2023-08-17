@@ -164,16 +164,10 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table class='_h2table'>
     <tr>
-     <th></th>
-     <th>Duration</th>
-     <th>What</th>
-     <th>Target Audience</th>
-    <!--
-     <th style="width:1.1in; "></th>
-     <th style="width:1.0in; ">Duration</th>
-     <th style="width:1.0in; ">What</th>
-     <th style="width:3.4in; ">Target Audience</th>
-    -->
+     <th style='text-align:center; '></th>
+     <th style='text-align:center; '>Duration</th>
+     <th style='text-align:center; '>What</th>
+     <th style='text-align:center; '>Target Audience</th>
     </tr>
     <tr>
      <th>Episode</th>
