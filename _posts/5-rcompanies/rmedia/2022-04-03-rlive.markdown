@@ -242,39 +242,24 @@ image:    "icon-rmedia.svg"
    </div>
  <h2>Production</h2>
   <div class='_center'>
-   <table clas='_h2table'>
-    <tr>
-     <th>a</th>
-     <td>b</td>
-    </tr>
-    <tr>
-     <th>c</th>
-     <td>d</td>
-    </tr>
-   </table>
-  </div>
-
-  <div class='_center'>
-   <table clas='_h2table'>
+   <table class='_h2table'>
     <tr>
      <th>Planning</th>
      <td>
       <p>Includes all preparations before a show for optimal experience,</p>
-<!--
       <ul>
        <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
        <li>Location Scouting – Figuring out where the episode will be shot and recorded</li>
        <li>Guest Prepping – Identifying topics and discussing with guests’ to select the most appropriate topics per episode.</li>
        <li>Guest Communication – Ensuring all players involved are up to date on all information</li>
       </ul>
--->
      </td>
     </tr>
    </table>
   </div>
   aaa
   <div class='_center'>
-   <table clas='_h2table'>
+   <table class='_h2table'>
     <tr>
      <th>Recruiting</th>
      <td>
@@ -296,14 +281,12 @@ image:    "icon-rmedia.svg"
     <tr>
      <th>Production</th>
      <td>Involves everything during the process of recording,
-<!--
       <ul>
        <li>Set Prep &mdash; Ensuring the set looks professional and well dressed as well as ensuring all equipment is set up and functioning optimally.</li>
        <li>Video and Audio Production &mdash; Ensuring an audio engineer and videographer and present and recording all that needs to be shot.</li>
        <li>Producing &mdash; A producer off screen will be necessary to quickly research any topics guests’ are discussing so as to be a reference point when needed.</li>
        <li>Media Archival &mdash; Making sure all media is archived and backed up once recorded is complete.</li>
       </ul>
--->
      </td>
     </tr>
     <tr>
@@ -315,30 +298,27 @@ image:    "icon-rmedia.svg"
   ddd
  <h2>Marketing & Sales</h2>
   <div class='_center'>
-   <table clas='_h2table'>
+   <table class='_h2table'>
     <tr>
      <th>Promotion</th>
      <td>It involves everything from posting the content to promoting the content for audience growth.
-<!--
       <ul>
        <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
        <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
        <li>Live Promotion – Attend events to promote the show and spread the word.</li>
        <li>Feed our podcast and blogger circuit.</li>
       </ul>
--->
      </td>
     </tr>
     <tr>
      <th>Syndication</th>
      <td>Share the distribution package with,
-<!--  <ul>
+      <ul>
        <li>Bloggers.</li>
        <li>Podcasters.</li>
        <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">Iconoclast</span>s&lsquo; connections whenever possible.</li>
        <li>Radio and TV producers and hosts.</li>
       </ul>
--->
      </td>
     </tr>
   </table>
