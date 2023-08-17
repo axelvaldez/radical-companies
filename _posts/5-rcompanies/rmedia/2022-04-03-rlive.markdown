@@ -183,8 +183,8 @@ image:    "icon-rmedia.svg"
     </tr>
     <tr>
      <th>Highlights</th>
-     <td>
-      <p style='text-align:right; '>30-45&nbsp;sec</p>
+     <td style='text-align:right; '>
+      <p>30-45&nbsp;sec</p>
       <p>1 min</p>
       <p>5-min</p>
      </td>
