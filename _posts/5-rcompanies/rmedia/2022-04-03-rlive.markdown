@@ -245,7 +245,8 @@ image:    "icon-rmedia.svg"
    <table clas='_h2table'>
     <tr>
      <th>Planning</th>
-     <td>Includes all preparations before a show for optimal experience,
+     <td>
+      Includes all preparations before a show for optimal experience,
       <ul>
        <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
        <li>Location Scouting – Figuring out where the episode will be shot and recorded</li>
