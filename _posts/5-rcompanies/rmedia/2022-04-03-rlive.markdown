@@ -247,12 +247,14 @@ image:    "icon-rmedia.svg"
      <th>Planning</th>
      <td>
       <p>Includes all preparations before a show for optimal experience,</p>
+<!--
       <ul>
        <li>Schedule Guests – Making sure everyone is aware of the time, date and location of recording.</li>
        <li>Location Scouting – Figuring out where the episode will be shot and recorded</li>
        <li>Guest Prepping – Identifying topics and discussing with guests’ to select the most appropriate topics per episode.</li>
        <li>Guest Communication – Ensuring all players involved are up to date on all information</li>
       </ul>
+-->
      </td>
     </tr>
    </table>
@@ -263,12 +265,14 @@ image:    "icon-rmedia.svg"
     <tr>
      <th>Recruiting</th>
      <td>
+<!--
       <ul>
        <li>Send intro emails. If possible, the <span style="font-size:smaller; ">Iconoclast</span>s can help make these intros emails a bit &ldquo;warmer.&rdquo;</li>
        <li>Following up with non-respondents.</li>
        <li>Nurturing respondents.</li>
        <li>Get a firm commitment from each <span style="font-size:smaller; ">Iconoclast</span>s.</li>
       </ul>
+-->
      </td>
     </tr>
    </table>
