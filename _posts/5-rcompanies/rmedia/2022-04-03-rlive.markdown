@@ -162,7 +162,7 @@ image:    "icon-rmedia.svg"
 <h1>Distribution Package</h1>
  <p>The  resulting distribution package will include,</p>
   <div class='_center'>
-   <table class='h2table'>
+   <table class='_h2table'>
     <tr>
      <th style="width:1.1in; "></th>
      <th style="width:1.0in; ">Duration</th>
@@ -311,14 +311,14 @@ image:    "icon-rmedia.svg"
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
- <ul style="font-size:smaller; ">
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Iconoclasts” would be the perfect name for this show, wouldn&rsquo;t it?
     HBO/Grey Goose
-    &lt;<a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3">https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3</a>&gt;
+    &lt;<a href="https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3" target='_blank'>https://www.youtube.com/watch?v=IdaHRoxNMZQ&feature=youtu.be&t=3</a>&gt;
     Can we talk?
-    &lt;<a href="https://radicals.world/d8ykRz">https://radicals.world/d8ykRz</a>&gt;
+    &lt;<a href="https://radicals.world/d8ykRz" target='_blank'>https://radicals.world/d8ykRz</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
