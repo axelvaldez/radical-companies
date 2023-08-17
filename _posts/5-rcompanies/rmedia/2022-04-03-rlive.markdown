@@ -244,6 +244,19 @@ image:    "icon-rmedia.svg"
   <div class='_center'>
    <table clas='_h2table'>
     <tr>
+     <th>a</th>
+     <td>b</td>
+    </tr>
+    <tr>
+     <th>c</th>
+     <td>d</td>
+    </tr>
+   </table>
+  </div>
+
+  <div class='_center'>
+   <table clas='_h2table'>
+    <tr>
      <th>Planning</th>
      <td>
       <p>Includes all preparations before a show for optimal experience,</p>
