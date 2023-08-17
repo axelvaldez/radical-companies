@@ -171,20 +171,20 @@ image:    "icon-rmedia.svg"
     </tr>
     <tr>
      <th>Episode</th>
-     <td>90 min</td>
+     <td style='text-align:right; '>90 min</td>
      <td>Live streamed and recorded</td>
      <td>For wannabe co-owners</td>
     </tr>
     <tr>
      <th>Hour</th>
-     <td>50 min</td>
+     <td style='text-align:right; '>50 min</td>
      <td>Edited</td>
      <td>For general distribution</td>
     </tr>
     <tr>
      <th>Highlights</th>
      <td>
-      <p>30-45&nbsp;sec</p>
+      <p style='text-align:right; '>30-45&nbsp;sec</p>
       <p>1 min</p>
       <p>5-min</p>
      </td>
@@ -193,7 +193,7 @@ image:    "icon-rmedia.svg"
     </tr>
     <tr>
      <th>Brief</th>
-     <td>25 min</td>
+     <td style='text-align:right; '>25 min</td>
      <td>A short version of the show</td>
      <td>For blogs, news articles, etc</td>
     </tr>
