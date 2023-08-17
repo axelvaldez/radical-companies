@@ -215,12 +215,8 @@ image:    "icon-rmedia.svg"
 <h1>Roles and Activities</h1>
  <h2>Direction</h2>
   <p><em>Recording</em> will take two to four hours.</p>
-   <div class='_center' style='width:80%; '>
+   <div class='_center'>
     <table class='_h2table'>
-     <colgroup>
-      <col style="padding-right:1em; border-right:1px solid black; width:25en; ">
-      <col>
-     </colgroup>
      <tr>
       <th>Onboarding</th>
       <td>
