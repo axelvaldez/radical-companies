@@ -287,11 +287,6 @@ image:    "icon-rmedia.svg"
       </ul>
      </td>
     </tr>
-   </table>
-  </div>
-  ccc
-  <div class='_center'>
-   <table clas='_h2table'>
     <tr>
      <th>Post Production</th>
      <td>All video and audio editing from source recording.</td>
@@ -304,24 +299,27 @@ image:    "icon-rmedia.svg"
    <table clas='_h2table'>
     <tr>
      <th>Promotion</th>
-     <td><!--It involves everything from posting the content to promoting the content for audience growth.
+     <td>It involves everything from posting the content to promoting the content for audience growth.
+<!--
       <ul>
        <li>Posting – Post all content to all necessary platforms. This includes video and audio podcast channels.</li>
        <li>Online Promotion – Actively promote content online by spreading through forums and sending to relevant key  players in the field.</li>
        <li>Live Promotion – Attend events to promote the show and spread the word.</li>
        <li>Feed our podcast and blogger circuit.</li>
-      </ul>-->
+      </ul>
+-->
      </td>
     </tr>
     <tr>
      <th>Syndication</th>
-     <td><!--Share the distribution package with,
-      <ul>
+     <td>Share the distribution package with,
+<!--  <ul>
        <li>Bloggers.</li>
        <li>Podcasters.</li>
        <li>Writers, editors, and publishers. Leverage the <span style="font-size:smaller; ">Iconoclast</span>s&lsquo; connections whenever possible.</li>
        <li>Radio and TV producers and hosts.</li>
-      </ul>-->
+      </ul>
+-->
      </td>
     </tr>
   </table>
