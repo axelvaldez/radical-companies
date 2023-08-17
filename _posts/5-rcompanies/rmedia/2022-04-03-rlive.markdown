@@ -255,6 +255,10 @@ image:    "icon-rmedia.svg"
       </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table clas='_h2table'>
     <tr>
      <th>Recruiting</th>
      <td>
@@ -277,6 +281,9 @@ image:    "icon-rmedia.svg"
       </ul>
      </td>
     </tr>
+  </div>
+  <div class='_center'>
+   <table clas='_h2table'>
     <tr>
      <th>Post Production</th>
      <td>All video and audio editing from source recording.</td>
@@ -298,6 +305,9 @@ image:    "icon-rmedia.svg"
      </td>
     </tr>
     <tr>
+  </div>
+  <div class='_center'>
+   <table clas='_h2table'>
      <th>Syndication</th>
      <td style="padding-left:1em; ">Share the distribution package with,
       <ul>
