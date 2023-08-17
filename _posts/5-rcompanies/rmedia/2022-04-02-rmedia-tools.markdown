@@ -65,7 +65,7 @@ image:    "icon-rmedia.svg"
      <td>
       <img
        src="/assets/img/pic-pradera-shelf.svg"
-       alt="A nice, noticeable, and comfortable chair. Other configuratiopns are possible."
+       alt="A nice, noticeable, and comfortable chair."
        Width
       >
      </td>
