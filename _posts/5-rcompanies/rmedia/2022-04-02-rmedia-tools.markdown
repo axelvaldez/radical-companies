@@ -45,10 +45,9 @@ image:    "icon-rmedia.svg"
     <li>Get a discount coupon to buy a paper copy of the book at the hosting store.</li>
     <li>See PRADERA READER.</li>
    </ul>
-  <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (<em>i.e.</em>, instant book clubs).</p>
-  <p>What’s disruptive about this is that,</p>
+  <p>The SHELF is designed to be noticeable. A couple of elevated chairs could serve as a SHELF or maybe a single booth. This would be a space for quiet reading and also for readers to meet and talk (<em>i.e.</em>, instant book clubs). </p>
+  <p>What’s disruptive about this is that the SHELF is different and becomes a conversation piece (<em>i.e.</em>, love or hate it, it gets mentioned online). Also,</p>
    <ul>
-    <li>The SHELF is different and becomes a conversation piece (<em>i.e.</em>, love or hate it, it gets mentioned online).</li>
     <li>The store gets increased foot traffic.</li>
     <li>More book copies are sold.</li>
     <li>PRADERA MEDIA gets all (opt-in) contact info (opt-in) collected at the SHELF.</li>
@@ -57,8 +56,8 @@ image:    "icon-rmedia.svg"
   <div>
    <img
     src="/assets/img/pic-pradera-reader.svg"
-    alt="Three possible configurations for PRADERA READERs. One configuration is a comfortable padded chair within an enclosure. Another would be a cushioned love seath with a thin wall at one end of it. Yet another configuration would be a counter with high chairs."
-    title="PRADERA Reader configurations."
+    alt="A nice, noticeable, and comfortable chair. Other configuratiopns are possible."
+    title="PRADERA Shelf configurations."
    >
 
 <div class="_next">
