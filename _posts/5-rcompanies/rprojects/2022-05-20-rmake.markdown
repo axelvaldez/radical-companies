@@ -18,16 +18,16 @@ image:    "icon-rmedia.svg"
 
 <h1>Why <span class="_paradigm">rMAKE</span>?</h1>
  <p>Writing a book is mostly a one-person writing exercise and that&rsquo;s a problem. Using today&rsquo;s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
- <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get <em>equal</em> co-ownership of the work. Others who have contributed significantly to the book may end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. In academic circles, the latest is to list everybody in a lab, sometimes, hundreds of them. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
+ <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get <em>equal</em> co-ownership of the work. Others who have contributed significantly to the book may end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. In academic circles, the latest is to list everybody in a lab, sometimes hundreds of them. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
  <p>The intent of <span class="_paradigm">rMAKE</span> is to make it possible for many people to contribute to a book and get consistent authorship and ownership. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can, Can&rsquo;t You?</h1>
  <p>My first thought was that any of the various <em>Git</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
  <div class="_center">
-  <table class="_explicitalignment">
-   <tr id="_background">
+  <table class="_h2table">
+   <tr>
     <td></td>
-    <th><em>Git</em></th>
+    <th>Git</th>
    </tr>
    <tr>
     <th>PROs</th>
@@ -50,9 +50,9 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <td></td>
-    <th><em>MediaWiki</em></th>
+    <th>MediaWiki</th>
    </tr>
    <tr>
     <th>PROs</th>
@@ -75,9 +75,9 @@ image:    "icon-rmedia.svg"
      </ul>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <td></td>
-    <th><em>Google Docs</em></th>
+    <th>Google Docs</th>
    </tr>
    <tr>
     <th>PROs</th>
@@ -105,7 +105,7 @@ image:    "icon-rmedia.svg"
 <h1><span class="_paradigm">rMAKE</span> Is Born</h1>
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
 
-<h1>No Trunk</h1>
+<h1>No Trunk (Decentralized)</h1>
  <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
  <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
 
@@ -389,78 +389,76 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1 class="_section">ENDNOTES</h1>
- <div>
-  <ul>
-   <li id="en01">
+ <ul>
+  <li id="en01">
     <p class="_list-item">
-     AEON.
-     <em>How Aztecs Told History</em>.
-     &lt;<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>&gt; (alt, &lt;<a href="https://diigo.com/0salwc" target="_blank">https://diigo.com/0salwc</a>&gt;)
-     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
-   </li>
-   <li id="en02">
-    <p class="_list-item">
-     <em>Git</em>.
-     <<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>>
-     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-    </p>
+    AEON.
+    <em>How Aztecs Told History</em>.
+    &lt;<a href="https://radicals.world/pWo2WK" target="_blank">https://radicals.world/pWo2WK</a>&gt; (alt, &lt;<a href="https://diigo.com/0salwc" target="_blank">https://diigo.com/0salwc</a>&gt;)
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    <em>Git</em>.
+    &lt;<a href="https://git-scm.com/" target="_blank">https://git-scm.com/</a>&gt;
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
    </li>
    <li id="en03">
     <p class="_list-item">
      <em>MediaWiki</em>.
-     <<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>>
+     &lt;<a href="https://www.mediawiki.org/wiki/MediaWiki" target="_blank">https://www.mediawiki.org/wiki/MediaWiki</a>&gt;
      <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en04">
     <p class="_list-item">
      <em>Source Control System</em>.
-     <<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>>
+     &lt;<a href="https://en.wikipedia.org/wiki/Source_Code_Control_System" target="_blank">https://en.wikipedia.org/wiki/Source_Code_Control_System</a>&gt;
      <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en05">
     <p class="_list-item">
-     For more information, see <em>Markup</em> <<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>> (aka, Markdown <<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>>).
+     For more information, see <em>Markup</em> &lt;<a href="https://radicals.world/59k36j" target="_blank">https://radicals.world/59k36j</a>&gt; (aka, Markdown &lt;<a href="https://radicals.world/Dbg4hm" target="_blank">https://radicals.world/Dbg4hm</a>&gt;).
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en06">
     <p class="_list-item">
      <em>Wikimedia</em> documentation for developers.
-     <<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>>
+     &lt;<a href="https://www.mediawiki.org/wiki/How_to_become_a_MediaWiki_hacker" target="_blank">https://mediawiki.org/$hellip/How_to_become_a_MediaWiki_hacker</a>&gt;
      <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en07">
     <p class="_list-item">
-     An homage to <em>Unix <span style="font-weight:bold;">make</span></em>.
+     An homage to <em>Unix make</em>.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en08">
     <p class="_list-item">
      <em>How to Lie with Statistics</em>.
-     <<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD"  target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>>
+     &lt;<a href="https://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=FKW6Y0VTHKGY7C3EM3YD"  target="_blank">https://www.amazon.com/How-Lie-Statistics&hellip;</a>&gt;
      <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en10">
     <p class="_list-item">
      Definition of &ldquo;excursus&rdquo;.
-     <<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">https://www.google.com/search?q=excursus&oq=excursus</a>>
+     &lt;<a href="https://www.google.com/search?q=excursus&oq=excursus" target="_blank">https://www.google.com/search?q=excursus&oq=excursus</a>&gt;
      <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
    <li id="en11">
     <p class="_list-item">
      Definition of &ldquo;Pull Request&rdquo;.
-     <<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">https://en.wikipedia.org/wiki/Fork_and_pull_model</a>>
+     &lt;<a href="https://en.wikipedia.org/wiki/Fork_and_pull_model" target="_blank">https://en.wikipedia.org/wiki/Fork_and_pull_model</a>&gt;
      <a class="_uparrow" href="#bm11"><img src="/assets/img/arrow-up-icon.png"></a>
     </p>
    </li>
   </ul>
- </div>
 
 {% include related.html %}
