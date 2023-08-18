@@ -44,7 +44,7 @@ image:    "icon-rmedia.svg"
     <th>Impact</th>
    </tr>
    <tr>
-    <td>What for?</td>
+    <th>What for?</th>
     <td>
      <ul>
       <li>Readers give, and writers get, more specific feedback for their content.</li>
@@ -57,7 +57,7 @@ image:    "icon-rmedia.svg"
     <th>Purpose</th>
    </tr>
    <tr>
-    <td>Why?</td>
+    <th>Why?</th>
     <td>
      <ul>
       <li>Introduce people to <span class="_paradigm">RAD</span> Distributions.</li>
@@ -71,11 +71,11 @@ image:    "icon-rmedia.svg"
     <th>Mission</th>
    </tr>
    <tr>
-    <td>
+    <th>
      What?<br>
      When?<br>
      How?
-    </td>
+    </th>
     <td>
      <ul>
       <li>Release app&rsquo;s MVP to Apple/Android stores.</li>
