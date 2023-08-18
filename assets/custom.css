@@ -79,12 +79,13 @@ nav a:hover svg {
 body {
   font-family: "Lora", sans-serif;
 }
-h1, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6 {
   font-family:Courier New, monospace;
 }
 h1 {
   font-weight: 900;
   font-size: 4rem;
+  font-size: 6rem;
   line-height: 1;
   margin: 0;
 }
