@@ -1,7 +1,7 @@
 ---
 layout:   post
-title:    "rMAKE"
-subtitle: "Making Books Like We Make Software"
+title:    "rMake"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rmake.svg"
 ---
@@ -16,10 +16,10 @@ image:    "icon-rmake.svg"
  <p id="_signature">Dr Marysol Ortega<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
-<h1>Why <span class="_paradigm">rMAKE</span>?</h1>
+<h1>Why rMake?</h1>
  <p>Writing a book is mostly a one-person writing exercise and that&rsquo;s a problem. Using today&rsquo;s tools, if the book has more than one author, they may have discussions, critiques, suggestions, etc., but, after all is said and done, the actual writing is done by one of them.</p>
  <p>Another problem is assigning authorship and ownership. A handful of people get listed as co-authors and they also get <em>equal</em> co-ownership of the work. Others who have contributed significantly to the book may end up as &ldquo;advisors&rdquo; or &ldquo;my good friend&rdquo; but not considered a co-author. Still others may get mentioned in the acknowledgements section or in footnotes. In academic circles, the latest is to list everybody in a lab, sometimes hundreds of them. Unfortunately, none of this really comes close to creating a book as a team, similarly to the way we make software.</p>
- <p>The intent of <span class="_paradigm">rMAKE</span> is to make it possible for many people to contribute to a book and get consistent authorship and ownership. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
+ <p>The intent of <span class="_paradigm">rMake</span> is to make it possible for many people to contribute to a book and get consistent authorship and ownership. What would have been a laborious process for books written with a quill pen or a typewriter, it is a piece of cake using basic modern technology.</p>
 
 <h1>But You Already Can, Can&rsquo;t You?</h1>
  <p>My first thought was that any of the various <em>Git</em><a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> platforms, MediaWiki,<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or even Google Docs could be it.</p>
@@ -103,10 +103,10 @@ image:    "icon-rmake.svg"
  </div>
 
 <h1>rMake Is Born</h1>
- <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
+ <p>In the end, we opted to create a new app we call <span class="_paradigm">rMake</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMake</span> (<em>e.g.</em>, diff).</p>
 
 <h1>No Trunk (Decentralized)</h1>
- <p>In <span class="_paradigm">rMAKE</span> <em>there is no trunk</em>. Instead of trunk and branches, MAKE has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
+ <p>In <span class="_paradigm">rMake</span> <em>there is no trunk</em>. Instead of trunk and branches, <span class="_paradigm">rMake</span> has flows and every flow is persistent (<em>e.g.</em>, fully rendered). Even if the co-authors agree to merge all their flows into one, the result is just a co-equal flow.</p>
  <p>These flows are fully rendered and at any point in time, a reader would be able to see any. Perhaps one flow is recommended by readers more than the others, but all flows will still be around for readers to explore.</p>
 
 <h1>Authorship &amp; Ownership</h1>
@@ -209,12 +209,12 @@ image:    "icon-rmake.svg"
     <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
     <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
     <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be.</p>
-    <p id='_signature'><em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></p>
+    <p id='_signature'>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Publishing</h1>
  <p>The mythical &ldquo;book deal&rdquo; includes an advance that a publisher pays an author when the book is just an outline. For well-known authors and brand names (<em>e.g.</em>, ex-President Obama), that is still the case. The rest of us get, at best, a percent of sales minus all expenses, including returns,</p>
- <p style="margin-bottom:0; ">In the <span class="_paradigm">rMAKE</span> model, a Publisher could,</p>
+ <p style="margin-bottom:0; ">In the <span class="_paradigm">rMake</span> model, a Publisher could,</p>
   <ul>
    <li>Negotiates a deal around a particular flow.</li>
    <li>Make a deal around all existing flows.</li>
@@ -330,6 +330,7 @@ image:    "icon-rmake.svg"
 <h1 class="_section">Other Potential Features</h1>
 
 <h1>Comments and Suggestions</h1>
+ <p>(Inspired by Google Docs.)</p>
  <p>Comments and suggested edits enrich a document, particularly when it generates a dialog among co-authors. The end result of a discussion may be that co-authors go off to create their own flows. And that&rsquo;s good.</p>
  <p>When that happens, the new flows will carry a copy of all comments and edits with it. If one author decides to remove some or all comments or reject the edits, then they still exist in the original flows.</p>
 
@@ -343,11 +344,11 @@ image:    "icon-rmake.svg"
    alt="">
  </div>
 <h1>References</h1>
- <p>An <span class="_paradigm">rMAKE</span> reference can include text, URLs, or both, a la Kindle.</p>
+ <p>An <span class="_paradigm">rMake</span> reference can include text, URLs, or both, a la Kindle.</p>
  <p>URLs can point to internal targets (<em>e.g.</em>, titles, headers).</p>
 
 <h1>Paper</h1>
- <p>The <span class="_paradigm">rMAKE</span> platform can prepare a flow for traditional paper publication. In particular, the platform will make it easy to convert references and URLs to footnotes or endnotes.</p>
+ <p>The <span class="_paradigm">rMake</span> platform can prepare a flow for traditional paper publication. In particular, the platform will make it easy to convert references and URLs to footnotes or endnotes.</p>
 
 <h1>Advanced Readers</h1>
  <p>Support for Advance Readers, by creating a copy of the text whenever the Advanced Reader makes a comment or a change.</p>
