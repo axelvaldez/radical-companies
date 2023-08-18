@@ -256,8 +256,8 @@ image:    "icon-rmake.svg"
 
 <h1>Roles</h1>
  <div class="_center">
-  <table class="_h2table, _ninety">
-   <tr id="_background">
+  <table class='_h2table'>
+   <tr>
     <th>Reader</th>
     <td>
      <p>Needs to,</p>
@@ -280,7 +280,7 @@ image:    "icon-rmake.svg"
       </ul>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <th>Writer</th>
     <td>
      <p style="margin-bottom:0; ">Needs to,</p>
@@ -290,7 +290,7 @@ image:    "icon-rmake.svg"
       </ul>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <th>Co-Writers</th>
     <td>
      <p style="margin-bottom:0; ">Same as a single writer, but in addition they need to,</p>
@@ -314,7 +314,7 @@ image:    "icon-rmake.svg"
       </ul>
     </td>
    </tr>
-   <tr id="_background">
+   <tr>
     <th>Editor</th>
     <td>
      <ul>
