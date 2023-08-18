@@ -238,8 +238,6 @@ table._explicitalignment tr:nth-child(6) th {
 table._explicitalignment tr:nth-child(2) td,
 table._explicitalignment tr:nth-child(4) td,
 table._explicitalignment tr:nth-child(6) td {
-  border:0;
-  border-left:black dotted 1px;
   text-align:left;
 }
 
