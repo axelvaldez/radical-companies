@@ -81,7 +81,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>PROs</th>
-     <td>
+    <td>
      <ul>
       <li>It has a good WYSIWYG interface. Very intuitive, plenty of undos, etc.</li>
       <li>It supports a very impressive version of collaboration, where different people can work on a document together in real time.</li>
