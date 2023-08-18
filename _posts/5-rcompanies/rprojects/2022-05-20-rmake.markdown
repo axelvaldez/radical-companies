@@ -338,7 +338,6 @@ image:    "icon-rmake.svg"
 <h1 class="_section">Other Potential Features</h1>
 
 <h1>Comments and Suggestions</h1>
- <p>(Inspired by Google Docs.)</p>
  <p>Comments and suggested edits enrich a document, particularly when it generates a dialog among co-authors. The end result of a discussion may be that co-authors go off to create their own flows. And that&rsquo;s good.</p>
  <p>When that happens, the new flows will carry a copy of all comments and edits with it. If one author decides to remove some or all comments or reject the edits, then they still exist in the original flows.</p>
 
