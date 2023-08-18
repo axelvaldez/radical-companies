@@ -102,7 +102,7 @@ image:    "icon-rmedia.svg"
   </table>
  </div>
 
-<h1><span class="_paradigm">rMAKE</span> Is Born</h1>
+<h1>rMake Is Born</h1>
  <p>In the end, we opted to create a new app we call <span class="_paradigm">rMAKE</span><a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a> as an OSS platform that others can extend. There are several OSS editors that we can leverage for our UI and many OSS components and libraries that we can use in the making of <span class="_paradigm">rMAKE</span> (<em>e.g.</em>, diff).</p>
 
 <h1>No Trunk (Decentralized)</h1>
