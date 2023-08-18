@@ -27,7 +27,7 @@ image:    "icon-rmake.svg"
   <table class="_h2table">
    <tr>
     <th></th>
-    <td>Git</td>
+    <td><span style='font-weight:bold; font-size:larger; '>Git</span></td>
    </tr>
    <tr>
     <th>PROs</th>
@@ -50,9 +50,13 @@ image:    "icon-rmake.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <th></th>
-    <td>MediaWiki</td>
+    <td><span style='font-weight:bold; font-size:larger; '>MediaWiki</span></td>
    </tr>
    <tr>
     <th>PROs</th>
@@ -75,9 +79,13 @@ image:    "icon-rmake.svg"
      </ul>
     </td>
    </tr>
+  </table>
+ </div
+ <div class="_center">
+  <table class="_h2table">
    <tr>
     <th></th>
-    <td>Google Docs</td>
+    <td><span style='font-weight:bold; font-size:larger; '>Google Docs</span></td>
    </tr>
    <tr>
     <th>PROs</th>
