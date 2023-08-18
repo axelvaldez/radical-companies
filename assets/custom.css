@@ -630,6 +630,7 @@ table._h2table tr:nth-child(odd) {
 }
 table._h2table p:first-child {
   text-indent:0;
+  text-align:left;
 }
 table._h2table tr th,
 table._h2table tr th p {
