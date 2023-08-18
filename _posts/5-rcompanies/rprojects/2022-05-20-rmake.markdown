@@ -26,8 +26,8 @@ image:    "icon-rmedia.svg"
  <div class="_center">
   <table class="_h2table">
    <tr>
-    <td></td>
-    <th>Git</th>
+    <th></th>
+    <td>Git</td>
    </tr>
    <tr>
     <th>PROs</th>
@@ -51,8 +51,8 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td></td>
-    <th>MediaWiki</th>
+    <th></th>
+    <td>MediaWiki</td>
    </tr>
    <tr>
     <th>PROs</th>
@@ -76,8 +76,8 @@ image:    "icon-rmedia.svg"
     </td>
    </tr>
    <tr>
-    <td></td>
-    <th>Google Docs</th>
+    <th></th>
+    <td>Google Docs</td>
    </tr>
    <tr>
     <th>PROs</th>
