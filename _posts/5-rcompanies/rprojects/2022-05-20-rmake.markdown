@@ -205,10 +205,11 @@ image:    "icon-rmake.svg"
   <p>Either way, authorship stays with each fragment, whether Linked or Copied. Content is owned by those who author it.</p>
   <p>These flows are first-class objects. They are addressable, persistent, and each can be publishable separately. For example, I could post a URL to one flow (<em>e.g.</em>, 1, 2, 3, 4) and you could publish another flow (<em>e.g.</em>, 1, 2, modified 3, 4). Readers can choose to read one flow or another. Or they can jump from one to another, regardless of the flow they started from.</p>
   <p>Of note, this could cause weird situations. For example, I create a flow about responsible gun ownership. Somebody else may fork it and use the statistics chapter to support reckless gun ownership. In this case, I could end up getting paid from sales of the &ldquo;irresponsible&rdquo; book. At first, I found the thought a bit distressing, but as Doug Kirkpatrick points out,</p>
-   <div class="_quotation">
+   <div class="_citation">
     <p>That might actually be a good thing because it would further empower the responsible writers to keep writing responsibly! And OPEN is kind of a binary thing – something is either open or closed.</p>
     <p>If a statistics book chapter is OPEN, therefore, it is subject to being applied by individuals to arguments with which we may disagree.</p>
-    <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be (see <em>How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a>)</p>
+    <p>I also think that books aren&rsquo;t just about the writers, they&rsquo;re also about the readers, who have some responsibility to filter the information (including statistics) they read and make self-informed (self-managed!) judgments about the veracity of that information. Statistics aren&rsquo;t always the lovely, objective things we assume them to be.
+    <p id='_signature'>\How to Lie with Statistics</em>.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Publishing</h1>
