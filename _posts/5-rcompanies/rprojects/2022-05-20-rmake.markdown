@@ -270,7 +270,7 @@ image:    "icon-rmake.svg"
        <li>Share content,
         <div style="text-align:center; ">
          <img
-          src="/assets/img/rmedia-citation-copy-paste.svg"
+          src="/assets/img/pic-rmake-citation-copy-paste.svg"
           width="70%"
           alt="">
         </div>
@@ -339,7 +339,7 @@ image:    "icon-rmake.svg"
  <p>Also, text can be selected and sent to other Social platforms, including a URL that points back to the text (<em>i.e.</em>, a la Diigo).</p>
  <div style="text-align:center; ">
   <img
-   src="/assets/img/rmedia-diff.svg"
+   src="/assets/img/pic-rmake-instructions.svg"
    width="70%"
    alt="">
  </div>
