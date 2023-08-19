@@ -638,10 +638,10 @@ image:    "icon-rbuddyneighbor.svg"
   <li id="en01">
    <p class="_list-item">
     <div class="_p">
-     For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span>
+     For example, this could be a This is kind of creepy factor <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span>
     </div>
     <div class="_p">
-     This is kind of creep factor that a Buddie need to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor claims</span> and let her decide.
+     This is kind of creepy factor that a Buddie needs to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the Buddy know that <span class="_quotespan">this is what the Neighbor claims</span> and let her decide.
     </div>
     <div class="_p">
      The Neighbor may say he&rsquo;s alone, but we can hear a party going on in the background, or some strange, creepy noises. We feed this back to the Neighbor but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the Neighbor. We communicate all this to the Buddy and she can make an informed decision. It may be that when she finds out the Neighbor&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.
@@ -728,7 +728,7 @@ image:    "icon-rbuddyneighbor.svg"
       In the example below, we'd load up Margot&rsquo;s card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
     </div>
     <div class="_p">
-     We take the risk that or Margot may not deliver or Jose may not accept it.
+     We take the risk that Margot may not deliver or Jose may not accept it.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
