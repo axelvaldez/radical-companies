@@ -95,7 +95,7 @@ image:    "icon-rbuddyneighbor.svg"
  <p>As a Social Network, there might be people who know John M.</p>
 
 <h1>Baby Sitting, Elder Sitting</h1>
- <p>This brings up is the importance of reputation for members.</p>
+ <p>This brings up the importance of reputation for members.</p>
 
 <h1>Fun Buddy</h1>
  <p>As Jose says,</p>
