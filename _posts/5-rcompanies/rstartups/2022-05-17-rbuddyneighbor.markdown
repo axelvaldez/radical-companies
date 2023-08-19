@@ -79,12 +79,11 @@ image:    "icon-rbuddyneighbor.svg"
 <h1>Payment</h1>
  <ul>
   <li>All <span class="_paradigm">rBuddyNeighbors</span> are subscribers and when members sign up, they include the details of how to pay and get paid.</li>
-  <li>The Neighbor transfer method is debited to pay for the milk.</li>
+  <li>The Neighbor is debited to pay for the milk.</li>
   <li>If the buddy had to pay, say, in cash for the milk, then that amount will be credited to her transfer account.</li>
  </ul>
 
-<h1>Use Cases</h1>
- <p>Community Services</p>
+<h1 class='_section'>Use Cases</h1>
 
 <h1>Interventions</h1>
  <p>Groups of <span class="_paradigm">rBuddyNeighbors</span> can organize to deal with emergency situations nearby,<a href="#en05"><sup id="bm05">&hairsp;&nabla;&hairsp;</sup></a> from drug usage interventions to potential suicides.</p>
@@ -92,8 +91,8 @@ image:    "icon-rbuddyneighbor.svg"
  <p>They&rsquo;d be alerted when the system detects a pattern that fits their target.</p>
 
 <h1>Reuniting Friends and Family</h1>
- <p>&ldquo;Looking for John Martinez. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago."</p>
- <p>Not clear how this kind of request can leverage the platform.</p>
+ <p><span class='_quotespan'>Looking for John Martinez. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
+ <p>As a Social Network, there might be people who know John M.</p>
 
 <h1>Baby Sitting, Elder Sitting</h1>
  <p>Seems obvious.</p>
