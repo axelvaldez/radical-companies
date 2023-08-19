@@ -169,7 +169,7 @@ image:    "icon-rbuddyneighbor.svg"
 
 <h1>International</h1>
  <p>Has to work anywhere in the world, and across borders. See <em>Pickups</em>, below, under <em>Terminology</em>.</p>
- <p>For example, I can put in a request for Coyotas del Parque, Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my Buddy let&rsquo;s me know when I can pick them up at his place.</p>
+ <p>For example, I can put in a request for <em>Coyotas del Parque,</em> Hermosillo. Somebody from my neighborhood who happens to be in Hermosillo, picks up my order and brings it. Since we live nearby, my Buddy lets me know when I can pick them up at his place.</p>
 
 <h1>Group Invitations (Community Organizing)</h1>
  <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their multi-location event. I ask for the details and the system sends my request to the organizer(s). They contact me with the details and I make arrangements to go.</p>
