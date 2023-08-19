@@ -130,7 +130,7 @@ image:    "icon-rbuddyneighbor.svg"
   <div class="_center">
    <table class="_h2table">
     <tr>
-     <th>Scenario 1</th>
+     <th>Scenario&nbsp;1</th>
      <td>
       <ul>
        <li>You&rsquo;d like to eat anything.</li>
@@ -139,7 +139,7 @@ image:    "icon-rbuddyneighbor.svg"
      </td>
     </tr>
     <tr>
-     <th>Scenario 2</th>
+     <th>Scenario&nbsp;2</th>
      <td>
       <ul>
        <li>You&rsquo;d like to eat a dish that your aunt made.</li>
@@ -151,7 +151,7 @@ image:    "icon-rbuddyneighbor.svg"
      </td>
     </tr>
     <tr>
-     <th>Scenario 3</th>
+     <th>Scenario&nbsp;3</th>
      <td>
       <ul>
        <li><span class="_quotespan">Can I get my aunt&rsquo;s dish? For three, this time. It turned out that it was as good as I remember her food and I want my friends to get a taste it.</span></li>
