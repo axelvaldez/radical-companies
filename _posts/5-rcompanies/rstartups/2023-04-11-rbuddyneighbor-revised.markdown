@@ -65,8 +65,8 @@ image:    "icon-rbuddyneighbor.svg"
      <ul>
       <li>The <span class="_paradigm">Buddy</span>, Nam, goes to Safeway at around 11 pm.</li>
       <li>A few minutes before, a <span class="_paradigm">Neighbor</span>, Kim, put in a request for a, <span class="_quotespan">A gallon of 2% milk, Organic Valley preferred, by midnight. Otherwise, bring me a half gallon of whatever they have. If it&rsquo;s going to take you more than one hour, ignore this, please (I need to go to sleep—got early meetings tomorrow).</span></li>
-      <li>When Name gets to Safeway, the system alerts him of this request and adds, <span class="_quotespan">This will take you an extra five to ten minutes and approximate three blocks out of your route.</span></li>
-      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is a kind information that this Nam needs to know before he can safely accept a request.</li>
+      <li>When Nam gets to Safeway, the system alerts him of this request and adds, <span class="_quotespan">This will take you an extra five to ten minutes and approximately three blocks out of your route.</span></li>
+      <li>Nam reviews the request and gets to see Kim&rsquo;s <span class="_quotespan">vitals&rdquo; (<em>e.g.</em>, &ldquo;single male, currently alone, thinks stabbing dolls is LOLZ</span> or <span class="_quotespan">mom of three</span><a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>). This is the kind of information that this Nam needs to know before he can safely accept a request.</li>
       <li>Nam accepts the request.</li>
       <li>The system summarizes, and displays something like, <span class="_quotespan">You are promising to deliver one gallon of Organic Valley 2% milk to Kim at&hellip;</span></li>
      </ul>
@@ -88,10 +88,10 @@ image:    "icon-rbuddyneighbor.svg"
     <th>Not-so-Happy Example</th>
     <td>
      <ul>
-      <li>Name, the <span class="_paradigm">Buddy</span>, never shows up and Kim tells us that she is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
+      <li>Nam, the <span class="_paradigm">Buddy</span>, never shows up and Kim tells us that she is closing his request because, <span class="_quotespan">the <span class="_paradigm">Buddy</span> never got here.</span></li>
       <li>Then we&rsquo;ll tell the <span class="_paradigm">Neighbor</span> something like, <span class="_quotespan">Sorry about what happened. Obviously, we won&rsquo;t be charging anything to your account. We are donating the yield of <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'>Banner</span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Nam has to say about breaking his promise. Please, let us know if you&rsquo;re interested.</span></li>
       <li>We&rsquo;ll ask Nam, <span class="_quotespan">What happened, you broke your promise to Kim!</span></li>
-      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or he could say, <span class="_quotespan">Halfway there that my girlfriend was pretty freaked out, so I didn&rsquo;t show up. I should have said something.</span></li>
+      <li>His response might be, <span class="_quotespan">I had to go straight home right away because my neighbor found my dog in her backyard. I was all flustered and forgot to let Kim know. Later, I was just embarrassed.</span> Or he could say, <span class="_quotespan">Halfway there my girlfriend was pretty freaked out, so I didn&rsquo;t show up. I should have said something.</span></li>
      </ul>
     </td>
    </tr>
@@ -228,10 +228,10 @@ image:    "icon-rbuddyneighbor.svg"
   <li id="en01">
    <p class="_list-item">
     <div class="_p">
-     For example, this could be <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span>
+     For example, this could be a <span class="_quotespan">single male, currently alone, thinks stabbing dolls is LOLZ.</span>
     </div>
     <div class="_p">
-     This is kind of creep factor that a Buddie need to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the <span class="_paradigm">Buddy</span> know that <span class="_quotespan">this is what the <span class="_paradigm">Neighbor</span> claims</span> and let her decide.
+     This is the kind of creepy factor that a Buddy needs to know before she can safely accept a request. We need to verify this info. Otherwise, we need to let the <span class="_paradigm">Buddy</span> know that <span class="_quotespan">this is what the <span class="_paradigm">Neighbor</span> claims</span> and let her decide.
     </div>
     <div class="_p">
      The <span class="_paradigm">Neighbor</span> may say he&rsquo;s alone, but we can hear a party going on in the background, or some strange, creepy noises. We feed this back to the <span class="_paradigm">Neighbor</span> but he claims <span class="_quotespan">it&rsquo;s just YouTube, sorry.</span> But we can tell the difference and, again, feed that back to the <span class="_paradigm">Neighbor</span>. We communicate all this to the <span class="_paradigm">Buddy</span> and she can make an informed decision. It may be that when she finds out the <span class="_paradigm">Neighbor</span>&rsquo;s name and address, she figures that that is the very party she was going to. Or she may decline the goods request right then and there.
@@ -283,7 +283,7 @@ image:    "icon-rbuddyneighbor.svg"
   <li id="en05">
    <p class="_list-item">
     <div class="_p">
-     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the the <span class="_paradigm">Neighbor</span> requested.
+     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the <span class="_paradigm">Neighbor</span> requested.
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
@@ -318,7 +318,7 @@ image:    "icon-rbuddyneighbor.svg"
       In the example below, we'd load up Margot&rsquo;s card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
     </div>
     <div class="_p">
-     We take the risk that or Margot may not deliver or Nam may not accept it.
+     We take the risk that Margot may not deliver or Nam may not accept it.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
@@ -340,7 +340,7 @@ image:    "icon-rbuddyneighbor.svg"
      Or money donated to a charity of her choice?
     </div>
     <div class="_p">
-     Or goods discount? (this is that goods outlets would "pay" in exchange to being part of the network).
+     Or goods discount? (this is that goods outlets would "pay" in exchange for being part of the network).
     </div>
     <div class="_p">
      Or points that they can use anywhere (a Nearsoft client, Points, does exactly this).
@@ -356,7 +356,7 @@ image:    "icon-rbuddyneighbor.svg"
   </li>
   <li id="en10">
    <p class="_list-item">
-    We will have to figure out the most friction-less to manage payments for the <span class="_paradigm">Buddy</span>. On the other hand, what if the <span class="_paradigm">Buddy</span> doesn&rsquo;t show up with the goods? On the other hand, we could reimburse them <em>after</em> the <span class='_paradigm'>Neighbor</span> gets the goods. In that case, they won't get reimbursed for the goods they didn&rsquo;t deliver.
+    We will have to figure out the most friction-less ways to manage payments for the <span class="_paradigm">Buddy</span>. On the other hand, what if the <span class="_paradigm">Buddy</span> doesn&rsquo;t show up with the goods? On the other hand, we could reimburse them <em>after</em> the <span class='_paradigm'>Neighbor</span> gets the goods. In that case, they won't get reimbursed for the goods they didn&rsquo;t deliver.
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
