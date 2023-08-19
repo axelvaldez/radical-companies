@@ -409,7 +409,7 @@ image:    "icon-rbuddyneighbor.svg"
   </div>
  <h2>Neighbor Gets It</h2>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>Sign Up</th>
      <td>Bring back goods for a Neighbor on your way back from an outlet? ()</td>
@@ -457,7 +457,7 @@ image:    "icon-rbuddyneighbor.svg"
  </div>
  <p>The Buddy hears a ping or senses a vibration and opens the app. If there&rsquo;s only one request waiting for this Buddy,</p>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>Create Request</th>
      <td>Requests good(s).</td>
@@ -477,7 +477,7 @@ image:    "icon-rbuddyneighbor.svg"
   </div>
  <p>If the Buddy says yes to <em>considering</em> the request,</p>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>More Info</th>
      <td></td>
@@ -570,7 +570,7 @@ image:    "icon-rbuddyneighbor.svg"
  <ul>
   <li><span class="_paradigm">rBuddyNeighbors</span> pay a membership fee to become <span class="_paradigm">rBuddyNeighbors</span>.com members. That&rsquo;s (mostly) it. This will be a very small fee and the top-line growth for <span class="_paradigm">rBuddyNeighbors</span>.com is based on that. Our financial success is based on volume with lots (and lots) of people signing up.</li>
   <li>We will also pay and collect for the goods, but there won&rsquo;t be any markup.</li>
-  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable reward for their community.</li>
+  <li>Buddies may get rewards for their service. The trick is not to let these <span class="_quotespan">rewards</span> become the goal for members. The goal is for Neighbors to get to know other Neighbors. For example, they may get valuable rewards for their community.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> are our only paying customers. They and their neighborhoods must be the primary beneficiaries. I believe that our democracy will be the ultimate beneficiary.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span>&rsquo;s purpose is to make it easy to have Neighbors meet each other in real life, being serviceable to one another, bonding over a good deed done, a good deed received.</li>
   <li><span class="_paradigm">rBuddyNeighbors</span> does not depend on goods outlets or any other revenue. Members are customers. Clear and simple.</li>
