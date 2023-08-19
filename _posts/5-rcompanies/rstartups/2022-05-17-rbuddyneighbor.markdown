@@ -672,7 +672,7 @@ image:    "icon-rbuddyneighbor.svg"
   <li id="en21">
    <p class="_list-item">
     <div class="_p">
-     <em>The simple way this Japanese town has become nearly zero-waste</em>.
+     <em>This Japanese town has become nearly zero-waste</em>.
      <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a>
     </div>
     <div class="_p">
