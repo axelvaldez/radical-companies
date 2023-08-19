@@ -579,7 +579,7 @@ image:    "icon-rbuddyneighbor.svg"
 
 <h1>Jose Contreras&rsquo;s Vision</h1>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Elevator Pitch</th>
     <td>When you are somewhere but don&rsquo;t have time to get up and go&hellip;don&rsquo;t go hungry or thirsty but leverage your friends and family who are nearby already out  and about to bring you back anything from a Starbucks, pizza to even groceries.</td>
@@ -594,13 +594,13 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th>Where and why</th>
-    <td>Ideally you can provide services within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
+    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
    </tr>
   </table>
  </div>
  <h2>FAQ</h2>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>How do we make money?</th>
      <td colspan="2">
@@ -747,19 +747,7 @@ image:    "icon-rbuddyneighbor.svg"
   <li id="en09">
    <p class="_list-item">
     <div class="_p">
-     Or money donated to a charity of her choice?
-    </div>
-    <div class="_p">
-     Or goods discount? (this is that goods outlets would "pay" in exchange to being part of the network).
-    </div>
-    <div class="_p">
-     Or points that they can use anywhere (a Nearsoft client, Points, does exactly this).
-    </div>
-    <div class="_p">
-     Or a fund to improve their local school?
-    </div>
-    <div class="_p">
-     Or … all of the above?
+     Or money donated to a charity of her choice? Or goods discount? (this is that goods outlets would "pay" in exchange for being part of the network). Or points that they can use anywhere (a Nearsoft client, Points, does exactly this). Or a fund to improve their local school? Or … all of the above?
      <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
