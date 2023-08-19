@@ -698,41 +698,6 @@ image:    "icon-rbuddyneighbor.svg"
     </div>
    </p>
   </li>
-  <li id="en023">
-   <p class="_list-item">
-    <div class="_p">
-     This is conceptually OK with bringing goods to a Neighbor so long as it doesn't take her too far off her route.
-     The "too long" here is too vague at this point. It will become more concrete when a specific request shows up. Then, each Buddy can make up her mind to accept or not.
-     The point is that the system learns from actual behavior.
-     <a class="_uparrow" href="#bm23"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    <div class="_p">
-     It remains at all times, even when you accept a request.
-     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    <div class="_p">
-     This is an account for getting reimbursed. The ideal is for RBuddyneighbor.com to pay for the goods.
-    </div>
-    <div class="_p">
-     Later, we should figure a way for Buddies not to have to pay up front for anything. Maybe we issue cards where changes are only accepted after a request is committed.
-    </div>
-    <div class="_p">
-      In the example below, we'd load up Margot&rsquo;s card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
-    </div>
-    <div class="_p">
-     We take the risk that Margot may not deliver or Jose may not accept it.
-     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
   <li id="en08">
    <p class="_list-item">
     <div class="_p">
