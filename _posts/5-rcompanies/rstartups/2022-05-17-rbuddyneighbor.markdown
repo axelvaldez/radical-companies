@@ -698,25 +698,6 @@ image:    "icon-rbuddyneighbor.svg"
     </div>
    </p>
   </li>
-  <li id="en08">
-   <p class="_list-item">
-    <div class="_p">
-    What happens if the Neighbor says that he doesn't want the goods anymore? We can take care of the finances, but what is the Buddy going to do with them?
-    </div>
-    <div class="_p">
-     BTW, one way to game the system is for the Buddy to get something for herself instead, then make it so that the Neighbor will say not to deliver, and keep the goods.
-     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    <div class="_p">
-     Or money donated to a charity of her choice? Or goods discount? (this is that goods outlets would "pay" in exchange for being part of the network). Or points that they can use anywhere (a Nearsoft client, Points, does exactly this). Or a fund to improve their local school? Or … all of the above?
-     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
  </ul>
 
 {% include related.html %}
