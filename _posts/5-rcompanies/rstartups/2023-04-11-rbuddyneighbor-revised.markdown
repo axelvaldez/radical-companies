@@ -23,7 +23,7 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>Build strong, face-to-face community of neighbors.</td>
+    <td>Build a strong, face-to-face community of neighbors.</td>
    </tr>
    <tr id="_background">
     <td></td>
