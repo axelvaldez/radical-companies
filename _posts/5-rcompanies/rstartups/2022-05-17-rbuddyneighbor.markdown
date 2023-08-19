@@ -95,8 +95,7 @@ image:    "icon-rbuddyneighbor.svg"
  <p>As a Social Network, there might be people who know John M.</p>
 
 <h1>Baby Sitting, Elder Sitting</h1>
- <p>Seems obvious.</p>
- <p>BTW, what this brings up is the importance of reputation for members.</p>
+ <p>This brings up is the importance of reputation for members.</p>
 
 <h1>Fun Buddy</h1>
  <p>As Jose says,</p>
@@ -108,7 +107,7 @@ image:    "icon-rbuddyneighbor.svg"
   </ul>
 
 <h1>Vendors Will Know</h1>
- <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a rBuddyNeighbors request, maybe one of them will deliver.</p>
+ <p>We can train retailers to tell people who call in an order that there are two people near you coming to pick up soon. If you put in a rBuddyNeighbors request, maybe one of them will deliver.</p>
  <p>This means that we need a UI for vendors to see rBuddyNeighbors activity that impacts them,</p>
   <ul>
    <li>Requests that mention them</li>
@@ -118,7 +117,7 @@ image:    "icon-rbuddyneighbor.svg"
 <h1>Mom-and-Pops (1/26/2019)</h1>
  <p>During a conversation, Minesh Patel brought up the use case of a local mom-and-pop store who may deliver a request themselves. It could be that they know the requester as a Neighbor or as a regular customer. Or the requestor lives within their back route and the local grocers can easily deliver it on the way home. This would fit within the model.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>The Neighbor-owner cannot charge or add a surcharge for the delivery itself. Tips are not allowed, because it is not about making a living, it is about connecting and &rsquo;s simply being a Buddy to a Neighbor.</p>
- <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery</span> person would not make the kind of connection we are aiming for between Neighbors. This can easily be detected by the Neighbor and reported to the platform. It would end up in a conversation, probably between the grocer anb the affected Neighbor. Again, connection.</p>
+ <p>This could be <span class="_quotespan">gamed&rdquo; if the Neighbor-owner hires one or more people to deliver these requests. This would go against the principle of connecting people IRL. A &ldquo;delivery&ldquo; person would not make the kind of connection we are aiming for between Neighbors. This can easily be detected by the Neighbor and reported to the platform. It would end up in a conversation, probably between the grocer and the affected Neighbor. Again, connection.</p>
 
 <h1>Together IRL</h1>
  <p>The town of Kamikatsu, Japan, recycles 81% of its waste. You can read read more about it<a href="#en21"><sup id="bm21">&hairsp;&nabla;&hairsp;</sup></a>.</p>
@@ -126,10 +125,10 @@ image:    "icon-rbuddyneighbor.svg"
 
 <h1>Food</h1>
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
- <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to cook. No matter, you still have to eat.</p>
+ <p>Even the people who like to cook, sometimes feel like not cooking.. You crave a dish, but you don&rsquo;t want to cook it. No matter, you still have to eat.</p>
  <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>Scenario 1</th>
      <td>
