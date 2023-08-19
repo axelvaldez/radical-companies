@@ -11,7 +11,7 @@ image:    "icon-rhintersoft.svg"
 </div>
 
 <h1>Intro</h1>
- <p>Hintersoft helps its clients grow their product development teams, enhance their innovation, and end up with committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
+ <p>Hintersoft helps its clients grow their product development teams, enhance their innovation, and end up with a committed team. The company is co-owned and co-managed by the people who embody it and contribute to it.</p>
 
 <h1>Alignment</h1>
  <div class="_center">
@@ -68,7 +68,7 @@ image:    "icon-rhintersoft.svg"
     <td>
      <ul>
       <li>Its culture and ownership structure are rHintersoft's brand.</li>
-      <li>Attestation are via video and blog content.</li>
+      <li>Attestations are via video and blog content.</li>
      </ul>
     </td>
    </tr>
@@ -104,7 +104,7 @@ image:    "icon-rhintersoft.svg"
      <th>Leaving a Client</th>
      <td>
       <ul>
-       <li>You could leave because you found something better aligned with what you want to do (see Joining a Client). Or you may want to leave because your current client is not working for you. Maybe your work is not meaningful any more, or maybe you no longer get a good feeling out of being part of their team.</li>
+       <li>You could leave because you found something better aligned with what you want to do (see Joining a Client, above). Or you may want to leave because your current client is not working for you. Maybe your work is not meaningful any more, or maybe you no longer get a good feeling out of being part of their team.</li>
        <li>In either case, you have to have that conversation with your client first and work out a transition plan.</li>
       </ul>
      </td>
@@ -139,7 +139,7 @@ image:    "icon-rhintersoft.svg"
       <ul>
        <li>You decide how much wealth to extract from the company to take care of your recurring expenses.</li>
        <li>We still have to make the company work financially. This is not a magic wand to fend off hard situations or avoid difficult decisions.</li>
-       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends as given to co-owner (<em>i.e.</em>, as it is given to owners in businesses).</li>
+       <li>The PRI fund pays the PRI when the company is bringing in less than the total PRI. Once the revenue goes up above expenses, dividends are given to co-owners (<em>i.e.</em>, as it is given to owners in businesses).</li>
        <li>Unless other agreements have been made, the PRI fund gets paid first. The PRI fund is fed by <span class='_paradigm'>Radical</span> investments which has to be paid back and the PRI policy has to take that into consideration. OK, it doesn&rsquo;t have to, but it is highly advised that it does so.</li>
       </ul>
      </td>
