@@ -594,7 +594,7 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th>Where and why</th>
-    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
+    <td>Ideally you can provide services within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
    </tr>
   </table>
  </div>
@@ -621,7 +621,7 @@ image:    "icon-rbuddyneighbor.svg"
     </tr>
     <tr>
      <th>What do you have to accomplish to get there?</th>
-     <td>Create energy and buzz around the concept of social commerce and a better more Neighborly way to shop while optimizing time.</td>
+     <td>Create energy and buzz around the concept of social commerce and a better, more Neighborly way to shop while optimizing time.</td>
      <td>
       <ul>
        <li>Create a following and enlist support from food and drink establishments</li>
