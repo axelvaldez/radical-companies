@@ -1,4 +1,4 @@
----
+-
 layout:   post
 title:    "rBuddyNeighbor"
 subtitle: "Connecting neighbors, building community."
@@ -181,7 +181,7 @@ image:    "icon-rbuddyneighbor.svg"
 <h1>Them Deviants</h1>
  <p>You just know that people will try to use this for prostitution, distribution of illegal drugs, and other less desirable activities.</p>
  <p>Regardless of everything else, this would go against our impact, our purpose, and corrupt our mission. So, we&rsquo;d probably have to do something about it, but &hellip; TBD.</p>
- <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike. I want to return his $300.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
+ <p>Scanning requests will not work after a short while, and people will go crypto on us (<em>e.g.</em>, <span class="_quotespan">Looking for a one-night-stand. I&rsquo;ll pay $300&rdquo; will become <span class="_quotespan">Looking for my friend, Mike M. I want to return something I have of his.</span> Maybe we can spot patterns (<em>e.g.</em>, the same person always responds to the &ldquo;Mike</span> requests).</p>
  <p>When we detect any of this, we can kick out John and Mike (and return their membership fees). But would we also alert law enforcement? We would not have to because we are looking for and finding behavior that goes against the platform&rsquo;s terms of use. Whether that is also illegal or not, it is not necessarily for us to judge.</p>
  <p>What about the case where a kid gets illegal drugs this way and overdoses?</p>
  <p>Do we alert the nearby Neighbors for potential intervention?</p>
@@ -195,7 +195,7 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th>Neighbor</th>
-    <td>Members who 1) lives along the way, between the store and the Buddy home, and 2) asked for the goods.</td>
+    <td>Members who 1) live along the way, between the store and the Buddy home, and 2) asked for the goods.</td>
    </tr>
    <tr>
     <th>Near</th>
@@ -225,10 +225,10 @@ image:    "icon-rbuddyneighbor.svg"
 <h1>Interaction Interface</h1>
  <h2>Buddy Brings It</h2>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
     <tr>
      <th>Sign Up</th>
-     <td>Bring back goods for a Neighbor on your way back from an outlet? (<a href="#en23"><sup id="bm23">&hairsp;?&hairsp;</sup></a>)</td>
+     <td>Bring back goods for a Neighbor on your way back from an outlet? (?)</td>
      <td>
       <ul>
        <li>Yes</li>
@@ -255,7 +255,7 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>Address. (<a href="#en06"><sup id="bm06">&hairsp;?&hairsp;</sup></a>)</td>
+    <td>Address. (?)</td>
    </tr>
    <tr>
     <th></th>
@@ -331,14 +331,14 @@ image:    "icon-rbuddyneighbor.svg"
  <p>The Buddy goes about her shopping, including the requested goods. She pays for her stuff and separately for the Neighbor&rsquo;s goods.</p>
  <p>Once the Buddy is on her way, she lets the Neighbor know via the app.</p>
   <div class="_center">
-   <table class="_background">
+   <table class="_h2table">
    <tr>
     <th>On My Way</th>
     <td>Tell the Neighbor what to expect.</td>
     <td>
      <ul>
       <li>On my way, see you soon.</li>
-      <li>Will be a bit late.<a href="#en08"><sup id="bm08">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Will be a bit late.</li>
       <li>Will be there after requested time.</li>
       <li>Got the goods but can&rsquo;t deliver now, sorry.</li>
      </ul>
@@ -346,7 +346,7 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th></th>
-    <td>If getting there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.<a href="#en09"><sup id="bm09">&hairsp;&nabla;&hairsp;</sup></a></td>
+    <td>If we get there <span class="_quotespan">after the requested time,</span> we ask the Neighbor and the Buddy sees his response.</td>
     <td></td>
    </tr>
    <tr>
@@ -401,7 +401,7 @@ image:    "icon-rbuddyneighbor.svg"
      <ul>
       <li>Comments</li>
       <li>Impressions</li>
-      <li>Corcerns</li>
+      <li>Concerns</li>
      </ul>
     </td>
    </tr>
