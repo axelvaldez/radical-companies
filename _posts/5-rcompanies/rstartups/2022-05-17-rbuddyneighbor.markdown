@@ -693,7 +693,7 @@ image:    "icon-rbuddyneighbor.svg"
   <li id="en05">
    <p class="_list-item">
     <div class="_p">
-     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the the Neighbor requested.
+     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the Neighbor requested.
      <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
