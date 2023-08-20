@@ -11,9 +11,9 @@ image:    "icon-small-bites-building-community.svg"
 </div>
 
 <h1>Building Communities</h1>
- <p><span class="_paradigm">RAD</span>s could also be as a way to implement ways of easing into co-ownership <em>by building communities</em>.</p>
+ <p><span class="_paradigm">RAD</span>s could also be a way to implement ways of easing into co-ownership <em>by building communities</em>.</p>
  <h2>Software Community</h2>
-  <p>A young friend of mine is working a very different approach to programming that will make it easier to build sophisticated programs (<em>i.e.</em>, and, no, it is not the typical approach of tying together specialized modules). He already has seeded other projects that have been embraced by developers, so this is bound to make a similar impact. But this kind of work is pretty lonely. There&rsquo;s never a ready-made community, but there is other work going on that is adjacent to it. That is where <span class="_paradigm">RAD</span>s can make a difference: they can help <em>create a community</em>.</p>
+  <p>A young friend of mine is working on a very different approach to programming that will make it easier to build sophisticated programs (<em>i.e.</em>, and, no, it is not the typical approach of tying together specialized modules). He already has seeded other projects that have been embraced by developers, so this is bound to make a similar impact. Adrian Perez, a co-author of the <em>RADICAL COMPANIES: Without Bosses or Employees</em> is using chatGPT to help to help him program. But this kind of work is pretty lonely. There&rsquo;s never a ready-made community, but there is other work going on that is adjacent to it. That is where <span class="_paradigm">RAD</span>s can make a difference: they can help <em>create a community</em>.</p>
   <p>My friend could seed a community with people who understands and believe in what he is doing, and also with people who are working on technology that may turn out to be relevant to his work (<em>i.e.</em>, not immediately adjacent, but close enough). He could invite these people to his <span class="_paradigm">RAD</span> community and they could help each other with feedback, critique, code, financial support, and whatever else comes up. This software community could end up transforming prototypes into products.</p>
   <p>In the software space, there are,
    <ul>
