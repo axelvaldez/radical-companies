@@ -206,7 +206,7 @@ image:    "icon-rbuddyneighbor.svg"
     <th>Group Invitations (Community Organizing)</th>
     <td>
      <p>The scenario is like this, I hear that there&rsquo;s going to be a demonstration outside the office of a local politician. The organizers went to <span class="_paradigm">rBuddyNeighbor</span>s and announced their event. I ask for the details and the system sends my request to the organizers. They contact me with the details and I go.</p>
-     <p>The system may mentioned people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
+     <p>The system may mention people that you&rsquo;ve interacted with before who are also going to the demonstration.</p>
      <p>Group Invitations opens the door to Nazi rallies, or white supremacist groups. Tread carefully.</p>
     </td>
    </tr>
