@@ -77,20 +77,20 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
  <p>This is how <em>take home</em> is determined,</p>
   <ul>
    <li>Each co-owner states what she needs to take home.</li>
-   <li>If this figure is would, co-owners decide how to handle, say, the PRI Fund too drying too quickly.</li>
+   <li>If this figure is would, co-owners decide how to handle, say, the PRI Fund drying too quickly.</li>
    <li>In the happy path, the stated figure is acceptable and doesn&rsquo;t cause any commotions.</li>
   </ul>
- <p>This is the important, and probably most contentious, thing of all: a withdrawal from the PRI Fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most reasonable. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">Fiat</span> land and the people drawing from the PRI Fund are co-owners. Each need to realize that they are responsible for what they take out of fund.</p>
- <p>This means that co-owners need to decide what to with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
+ <p>This is the important, and probably most contentious, thing of all: a withdrawal from the PRI Fund is <em>a personal debt</em> that a co-owner is responsible for. Other policies are plausible, but this seems to be the most reasonable. Co-owners are not exchanging their time for just a salary as is the case in <span class="_paradigm">Fiat</span> land and the people drawing from the PRI Fund are co-owners. Each needs to realize that they are responsible for what they take out of the fund.</p>
+ <p>This means that co-owners need to decide what to do with people who exit while still having PRI debt. For example, you may decide to put limits on time (<span class="_quotespan">We have agreed to do this for six months&hellip;</span>) or amount (<span class="_quotespan">We have agreed to do this for as long as the $500,000 in the PRI Fund lasts</span>), or you want to have a discussion with the PRI debt to <span class="_paradigm">RAD</span>s falls too low. The point is that it is up to you, the co-owners.</p>
 
 <h1>The RADs! Mobile App</h1>
  <p>Co-owners use the <em><span class="_paradigm">RAD</span>s! mobile app</em> to recognize the contributions of other co-owners. The <em><span class="_paradigm">RAD</span>s!</em> app later converts these contributions into <span class="_paradigm">RAD</span>s at the end of each, say, monthly cycle.</p>
- <p>Co-owners can recognize anything as a contributions. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandise for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
+ <p>Co-owners can recognize anything as a contribution. These can range from a tangible benefit to the company (<em>e.g.</em>, <span class="_quotespan">&hellip; found us a place to store return merchandise for free.</span>) to something more intangible (<em>e.g.</em>, <span class="_quotespan">&hellip; took the time to talk to him and to help him get his mental health taken care of.</span> or even <span class="_quotespan">&hellip; it gave me a lot of joy when he did that.</span>)</p>
  <p><span class="_paradigm">RAD</span>s can factor anything through them. For example, if I have 10% of the <span class="_paradigm">RAD</span>s distributed and you have 20%, you get twice as much as I do of whatever is being filtered through the <span class="_paradigm">RAD</span>s this time (<em>e.g.</em>, earned dividends).</p>
 
 <h1>Explicit Alignment</h1>
  <p>Since you have co-owners, and no boss, you still to somehow align on what needs to get done, etc., and that is what the Explicit Alignment tool is about,</p>
- <p>Co-owners should get together to figure what they'd like to put down in the <em>Explicit Alignment</em>. This is extremely key.</p>
+ <p>Co-owners should get together to figure out what they&rsquo;d like to put down in the <em>Explicit Alignment</em>. This is extremely key.</p>
  <div class="_center">
   <table class="_explicitalignment">
    <tr>
@@ -99,7 +99,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
    </tr>
    <tr>
     <th>What for?</th>
-    <td>What impact they want to make? (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
+    <td>What impact do they want to make? (<em>i.e.</em>, be remembered by). For example, <span class="_quotespan">Improve people&rsquo;s health.</span></td>
    </tr>
    <tr>
     <td></td>
@@ -119,7 +119,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
      When?<br>
      How?
     </th>
-    <td>What are doing, when, and how? For example, <span class="_quotespan">We already have a partner farm that will harvest by end the of April. We mean to sign up the first 100 customers by the end of March.</span></td>
+    <td>What are doing, when, and how? For example, <span class="_quotespan">We already have a partner farm that will harvest by the end of April. We mean to sign up the first 100 customers by the end of March.</span></td>
    </tr>
   </table>
  </div>
@@ -200,7 +200,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
     <tr>
      <th>Borrowing Capital</th>
      <td>
-      <p>Borrowing capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">Fiat</span> concept. And don't fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
+      <p>Borrowing capital is an option, but do not trade capital for &ldquo;control&rdquo; or any such <span class="_paradigm">Fiat</span> concept. And do&rsquo;t fool yourself with what you hope to do &ldquo;later.&rdquo;</p>
       <p>Likely, you will need for the PRI fund. If that is the case, make it a <span class="_paradigm">Radical</span> investment.</p>
      </td>
     </tr>
