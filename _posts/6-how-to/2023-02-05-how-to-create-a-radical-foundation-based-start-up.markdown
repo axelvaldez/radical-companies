@@ -12,7 +12,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
 
 <h1>Good News, Bad News</h1>
  <p>You have a great idea and the idea is good for our life-support system, Earth. On the other hand, you don&rsquo;t have capital and your friends are busy with their own jobs and can&rsquo;t join your project.</p>
- <p>You need capital</p>
+ <p>You need capital!</p>
 
 <h1>The Foundation</h1>
  <div class="_center">
