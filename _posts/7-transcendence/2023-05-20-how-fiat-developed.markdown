@@ -11,7 +11,7 @@ image:    "icon-how-fiat-developed.svg"
 </div>
 
 <h1>&nbsp;</h1>
- <p>This should be called <em>How <span class='_paradigm'>Fiat</span> Developed</em> according to me. I don&rsquo;t even claim that this true, just that it is plausible.</p>
+ <p>This should be called <em>How <span class='_paradigm'>Fiat</span> Developed</em> according to me. I don&rsquo;t even claim that this is true, just that it is plausible.</p>
 
 <h1>The Ys</h1>
  <p>I will use <em>the Ys</em> to refer to the character of Jesus (Yesu, Yehushua, Yeshua, Yasoo) in the Christian Bible. We really don&rsquo;t know if there was such a person, or a number of people, or if it was the prevailing feeling at the time that was being featured.</p>
@@ -23,7 +23,7 @@ image:    "icon-how-fiat-developed.svg"
   <li>Romans soldiers provided the  muscle, from threats to pain,</li>
   <li>Hebrew collaborators (<em>aka</em>, the merchants) took advantage of the structure to become wealthier.</li>
  </ul>
-     <p>The collaborator Hebrews complained about the Ys and eventually the Romans put them down. However, the story of an individual crucifiction is more dramatic and easier to pass along, so much so that it has carried to this day.
+  <p>The collaborator Hebrews complained about the Ys and eventually the Romans put them down. However, the story of an individual crucifiction is more dramatic and easier to pass along, so much so that it has carried to this day.</p>
 
 <h1>Long Time Coming</h1>
  <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
