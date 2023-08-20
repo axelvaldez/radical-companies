@@ -15,7 +15,7 @@ image:    "icon-explicit-relationships.svg"
  <p>We came up with many different ways of doing this and a few tools.</p>
 
 <h1>Explicit Relationships</h1>
- <p>Jose came up with a tool we call a <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on these topics,</p>
+ <p>Jose came up with a tool we call an <em>Explicit Relationship</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> Each would-be co-owner answers these questions for herself while everybody takes note. Then, they come up with a narrative that touches on these topics,</p>
  <p>It&rsquo;s pretty simple,</p>
   <ol>
    <li>You</li>
@@ -23,8 +23,8 @@ image:    "icon-explicit-relationships.svg"
    <li>Your explicit commitments</li>
    <li>My support commitments</li>
   </ol>
- <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other. Also, the would-be co-owner has to option to do it as a discussion or do it as a written, silent process.</p>
- <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves, they are not afraid of making themselves vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
+ <p>Note that when doing this with a group, &ldquo;me&rdquo; stands for each person in the group and &ldquo;my commitment&rdquo; becomes a list of each co-owner&rsquo;s commitments to each other. Also, the would-be co-owner has the option to do it as a discussion or do it as a written, silent process.</p>
+ <p>We were surprised by how well this worked to bring out the concerns of the people involved. People felt safe enough to let out all kinds of things about themselves, they are not afraid of making themselves vulnerable. So far, we&rsquo;ve done it with early adopters, so we don&rsquo;t have the full picture, yet, but what we do have is very reassuring. One of the comments we heard is that many organizations never get to this level of trust, even after several years of operations.</p>
 
 <h1>Foundation Agreements [DRAFT]</h1>
  <p>The <em>Trust Framework</em> works for people, but not for communities. Here is a DRAFT <em>Foundation Agreement</em>,</p>
@@ -47,7 +47,7 @@ image:    "icon-explicit-relationships.svg"
       <td>
        <ul>
         <li>Is this the most decentralized way we can do this? Are we making things more or less centralized? If we end up with a few centralized areas,  are they open to decentralization later?</li>
-        <li>What are we not disclosing? Why are we hesitate to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
+        <li>What are we not disclosing? Why are we hesitant to disclose? Is it cultural fear that is holding us back? If this information is important to keep secret, who would know about it? Will everybody know who the chosen people are?</li>
        </ul>
       </td>
      </tr>
@@ -64,9 +64,6 @@ image:    "icon-explicit-relationships.svg"
      </tr>
    </table>
   </div>
-
-<h1>More Tools</h1>
- <p>Other tools include <a href="https://radicalcompanies.com/2022/09/20/rtools-rads-app" target="_blank">the RADs! app</a> and <a href="https://radicalcompanies.com/2022/09/21/rtools-rcommuniy-and-core" target="_blank">rCommunities</a>.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
