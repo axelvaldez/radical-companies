@@ -36,7 +36,7 @@ image:    "icon-small-bites-building-community.svg"
     Shimshon Bichler and Jonathan Nitzan.
     <em>Growing Through Sabotage: Energizing Hierarchical Power</em>.
     &lt;<a href="https://capitalaspower.com/2020/09/growing-through-sabotage/" target="blank">https://capitalaspower.com/2020/09/growing-through-sabotage/</a>&gt;
-    (alt. &lt;<a href="https://diigo.com/0prmqb">here</a>)&gt;
+    (alt. &lt;<a href="https://diigo.com/0prmqb" target="blank">https://diigo.com/0prmqb</a>&gt;)
     <a href="#bm01"><img src="/assets/img/arrow-up-icon.png" style="height:20px; "></a>
    </p>
   </li>
