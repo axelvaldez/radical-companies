@@ -40,7 +40,7 @@ image:    "icon-small-bites-money.svg"
  <p>If anything, what I&rsquo;ve called &ldquo;the boss&rsquo; whim is closer to recognizing <em>the value of contributions</em> and that is what <span class="_paradigm">RAD</span>s do.</p>
 
 <h1>RADs</h1>
- <p><span class="_paradigm">RAD</span>s<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> are all about recognizing contributions <em>and assigning them a value</em>. What the boss is doing when he assigns bonuses does it but in the privacy of his mind&mdash;nobody else knows if he is recognizing a financial contribution to the business&rsquo; bottom line or to his ego.</p>
+ <p><span class="_paradigm">RAD</span>s<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> are all about recognizing contributions <em>and assigning them a value</em>. What the boss is doing when he assigns bonuses does it but in the privacy of his mind&mdash;nobody else knows if he is recognizing a financial contribution to the business&rsquo; bottom line or to his ego.</p>
  <p><span class="_paradigm">RAD</span>s are a tool for decentralizing the recognition of contributions. It is similar to what the boss does in his head, but, instead, lets everybody do it. These distributions are fully transparent, too, including the reason why each contribution is being recognized. Finally, <span class="_paradigm">RAD</span>s make contributions <em>tangible</em>. Instead of vague attaboy, <span class="_paradigm">RAD</span>s can be translated to a percentage of, say, profits (<em>i.e.</em>, earned dividends).</p>
 
 <h1>Building Communities</h1>
