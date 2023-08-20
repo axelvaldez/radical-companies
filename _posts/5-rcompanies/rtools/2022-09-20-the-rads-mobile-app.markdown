@@ -10,7 +10,7 @@ image:    "icon-the-rads-mobile-app.svg"
  <p>I think we know what the rHatchery is: We want to help <span class="_paradigm">Fiat</span> businesses transform into healthy companies. And we are developing tools: the <em><span class="_paradigm">RAD</span>s!</em> mobile app.</p>
 </div>
 
-<h1>RADs! Mobile App</h1>
+<h1>The App</h1>
  <p>In collaboration with Xipe Technology,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> we are about to launch a mobile app called <em>RADs!</em>.</p>
  <p>We talked about <span class="_paradigm">RAD</span>s in our book.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> This app makes painless to recognize contributions. It allows co-owners to recognize contributions that other co-owners make by pressing a button. They can press this button as many times as they feel like it and the app figures out the amount of <span class="_paradigm">RAD</span>s to give.</p>
  <p><em><span class="_paradigm">RAD</span>s!</em> app calculates the number of <span class="_paradigm">RAD</span>s each gets at the end of, say, the monthly cycle.</p>
