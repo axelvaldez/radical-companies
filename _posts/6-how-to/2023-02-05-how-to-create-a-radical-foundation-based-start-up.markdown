@@ -33,7 +33,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
  </div>
  <ul>
   <li>
-    <p>Transparency: Secrecy is your enemy. Talk about your idea to as many people as you can <em>anywhere in the wold</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it. Transparency is your friend.</p>
+    <p>Transparency: Secrecy is your enemy. Talk about your idea to as many people as you can <em>anywhere in the world</em>. This will help you mold your idea. If felt great when you first thought of it, but it now has to be shaped, so lean on your social circle to help you do it. Transparency is your friend.</p>
   </li>
   <li>
    <p>Decentralization: With all the talk about <em>teal</em> and the like, people will likely welcome decentralizing decision making, co-management; they may even be enthusiastic about it. On the other hand, when you talk about co-ownership you may get a neutral stare or curiosity, but be ready for disgust or ever-so-polite ridicule. They are not attacking you as much as they are trying to push away the thought you just put in their head. This is suddenly seeing the invisible monstrous ghost, so don&rsquo;t be surprised when people run away.</p>
@@ -47,7 +47,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
  </ul>
 
 <h1>Cash Infusion</h1>
- <p>If you want to, and can, then take in capital. For starting companies seed capital, as it is called, comes from friends, family, and &ldquo;fools&rdquo;. Friends and family know you and trust you; &ldquo;fools&rdquo; believe in you. The thing they have in common is that they all want you to succeed.</p>
+ <p>If you want to, and can, then take in capital. For starting companies seed capital, as it is called, comes from friends, family, and &ldquo;fools&rdquo;. Friends and family know you and trust you, and believe in you, &lsquo;fools&rsquo; that they are. The thing they have in common is that they all want you to succeed.</p>
  <p>Seed capital is formalized and made legal as a Note that promises them, 1) their money back plus some upside, or 2) future shares of the new company. Note that you startup company <em>won&rsquo;t have shares</em> (but hopes to, one day).</p>
 
 <h1>Result</h1>
