@@ -57,12 +57,12 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
  <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power over forever&rsquo; setup of today.</p>
 
 <h1>Predictable Recurring Income (PRI)</h1>
- <p>Once you have the capital it will go into whatever you have to buy up front. It may also go into a <em>the Predictable Recurring Income (PRI) fund</em>, used to pay all co-owners until revenue comes in.</p>
+ <p>Once you have the capital it will go into whatever you have to buy up front. It may also go into a <em>the Predictable Recurring Income</em> (PRI) fund, used to pay all co-owners until revenue comes in.</p>
  <p>You may be able to take in less capital if co-owners can afford to wait for revenue. In that case you won&rsquo;t need a PRI fund.</p>
 
 <h1>Hiring</h1>
  <p>You are not going to do any hiring, you are finding co-owners. You should repeat this, out loud, many times. Like a mantra.</p>
- <p>Since you are not hiring, you are not going to interview people. One way to not fall down the interview habit hole is to tell the person you are talking to that 1) you are looking for co-owners, not employees, 2) this is not an interview, and to 3) please, let me know when this starts to feel like one.</p>
+ <p>Since you are not hiring, you are not going to interview people. One way to not fall down the interview habit hole is to tell the person you are talking to that 1) you are looking for co-owners, not employees, 2) this is not an interview, and 3) please, let me know when this starts to feel like one.</p>
  <p>What you are going to do next is to explain what PRI fund is and how it works.</p>
 
 <h1>The PRI Fund</h1>
@@ -71,7 +71,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
    <li>Until revenue starts to come in, the PRI Fund pays co-owners.</li>
    <li>Well, actually, it is not the revenue, but the earned dividends that pays the PRI Fund. Earned dividends is what is left of the review after paying off all expenses, etc.</li>
    <li>Even after earned dividends start to materialize, the PRI Fund may supplement a co-owners&rsquo;s take home.</li>
-   <li>Eventually, the earned dividends a co-owner gets starts to pay off co-owner&rsquo;s debt to the PRI fund. How much of it goes into paying PRI Fund depends on what co-owners agreed to.</li>
+   <li>Eventually, the earned dividends a co-owner gets starts to pay off the co-owner&rsquo;s debt to the PRI fund. How much of it goes into paying PRI Fund depends on what co-owners agreed to.</li>
    <li>Finally, after the PRI debt is all paid up, co-owners take earned dividends home, in addition to their home pay.</li>
   </ul>
  <p>This is how <em>take home</em> is determined,</p>
