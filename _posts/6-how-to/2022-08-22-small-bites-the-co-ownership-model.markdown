@@ -50,7 +50,7 @@ image:    "icon-small-bites-money.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    <p>A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction of the value everybody, including you, helped create.
+    A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction of the value everybody, including you, helped create.
     &lt;<a href="https://www.etymonline.com/word/bonus">https://www.etymonline.com/word/bonus</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
