@@ -20,7 +20,7 @@ image:    "icon-small-bites-money.svg"
   src="/assets/img/pic-co-ownership-the-smaller-bites.svg"
   alt="The heading reads Co-Ownership. Below it there are three circles, each labeled 'All of It.' Each show a bite mark that take up more of each individual circle."
   style="margin-left:10px; float:left; width:30%; ">
- <p>This post is about a few smaller bites that, we hope, people may find be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
+ <p>This post is about a few smaller bites that, we hope, people may find to be less threatening and signal &ldquo;progressiveness.&rdquo; Rather than attempting to change the ownership structure of the whole business, we are talking about starting with a co-owned repayment fund and a co-owned bonus fund.</p>
  
 <h1>Cash Infusions</h1>
  <p>We have gotten used to taking cash infusions from Angels and VCs. Angel investors get a note that promises them a future take. Then VCs show up and make a bigger investment. The Angels get their money back <em>and</em> their promised take, and the VC gets a piece of the business. More often than not, a lead VC brings other VCs along and together they end up with <em>majority control</em> of the business.</p>
@@ -50,15 +50,15 @@ image:    "icon-small-bites-money.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-   <p>A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction of the value everybody, including you, helped create.
-   &lt;<a href="https://www.etymonline.com/word/bonus">https://www.etymonline.com/word/bonus</a>&lt;
+    <p>A &ldquo;bonus&rdquo; is not a gift. What is normally called &ldquo;bonuses&rdquo; really are <em>earned dividends</em>, &ldquo;&hellip; paid to shareholders from surplus profits.&rdquo;. This is a form of wealth extraction of the value everybody, including you, helped create.
+    &lt;<a href="https://www.etymonline.com/word/bonus">https://www.etymonline.com/word/bonus</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
     <em>Giving RADs</em>.
-    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&lt;
+    &lt;<a href="https://radicalcompanies.com/2022/07/17/giving-rads.html" target="blank">https://radicalcompanies.com/2022/07/17/giving-rads.html</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -67,7 +67,7 @@ image:    "icon-small-bites-money.svg"
     Matt Perez.
     <em>Small Bite: The Co-Ownership Model</em>.
     August 2022.
-    &lt;<a href="https://radicalcompanies.com/2022/08/22/small-bites-the-co-ownership-model" target="blank">https://radicalcompanies.com/2022/08/22/small-bites-the-co-ownership-model</a>&lt;
+    &lt;<a href="https://radicalcompanies.com/2022/08/22/small-bites-the-co-ownership-model" target="blank">https://radicalcompanies.com/2022/08/22/small-bites-the-co-ownership-model</a>&gt;
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
