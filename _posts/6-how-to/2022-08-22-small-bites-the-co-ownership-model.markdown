@@ -44,7 +44,7 @@ image:    "icon-small-bites-money.svg"
  <p><span class="_paradigm">RAD</span>s are a tool for decentralizing the recognition of contributions. It is similar to what the boss does in his head, but, instead, lets everybody do it. These distributions are fully transparent, too, including the reason why each contribution is being recognized. Finally, <span class="_paradigm">RAD</span>s make contributions <em>tangible</em>. Instead of vague attaboy, <span class="_paradigm">RAD</span>s can be translated to a percentage of, say, profits (<em>i.e.</em>, earned dividends).</p>
 
 <h1>Building Communities</h1>
- <p><span class="_paradigm">RAD</span>s could also be as a way to implement ways of easing into co-ownership by building communities.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p><span class="_paradigm">RAD</span>s could also be as a way to ease into co-ownership by building communities.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
