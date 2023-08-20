@@ -17,7 +17,7 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
  <p>I would likely get <span class='_paradigm'>RAD</span>s for that and the satisfaction of making their work shine.</p>
  <p>I could basically be a co-owner who helps other co-owners.</p>
 
-<h1>The <span class='_paradigm'>Fiat</spam> Model</h1>
+<h1>The Fiat Model</h1>
  <p>In  organizations, this is supposed to be done by your manager, or Human Resources (HR). If you are high-level enough, they can even send you to a training course. Your boss may be pretty bad at communications himself or he may not mentor you well for fear that you&rsquo;ll leap over him. Be that as it may, the HR course may turn out to be ineffective or even counterproductive.</p>
  <p>In many cases, you might instead get punished for &ldquo;not doing enough.&rdquo;</p>
 
