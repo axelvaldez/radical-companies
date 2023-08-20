@@ -17,7 +17,7 @@ image:    "icon-who-am-i-if-not-a-manager.svg"
 <h1>Climbing the Hierarchy</h1>
  <p>So if you are a senior software engineer and you want to get paid more, it’s better to get away from the programmer metrics and become a manager. You are going to go to a lot more meetings instead and you are going to be spending your time defending your team from the rest of the organization. As a senior engineer, you were helping your team do better and become better. You were operating as a role model. But now, as a manager, you have been essentially neutralized.</p>
 
-<h1>Going RADICAL</h1>
+<h1>Going Radical</h1>
  <p>Now imagine, your company goes <span class="_paradigm">Radical</span> and you are no longer a manager. If you had embraced this as part of your identity, it’s going to be difficult to let go. How do I make more money? What do I tell my friends? I am just one of the grunts!</p>
  <p class="_mb0">Instead, you are now a co-owner and co-manager of <em>your</em> <span class="_paradigm">Radical</span> company,</p>
  <ul>
@@ -30,7 +30,7 @@ image:    "icon-who-am-i-if-not-a-manager.svg"
   <li>Finally, the rewards are direct. You get <span class="_paradigm">RAD</span>s from your coworkers when you help them, be it with code or a difficult personal issue.</li>
   <li><span class="_paradigm">RAD</span>s transform into your share of earned dividends (<em>aka.</em>, profits) and ownership.</li>
  </ul>
- <p>You are part of a more decentralized and transparent organization. This translates to your being able to do more of the work you actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
+ <p>You are part of a more decentralized and transparent organization. This translates to you being able to do more of the work you actually enjoy doing because you are not restrained by superiors and competing managers, and you are buoyed up by your co-workers. There are still conflicts and difficulties; success is not guaranteed. But you are part of a more responsive organization that now has the tools to do meaningful work.</p>
  <p>Who can I be if I am not a manager? I can be: A co-owner. A force-multiplier. A person connected to the people around me.</p>
 
 {% include related.html %}
