@@ -288,16 +288,6 @@ image:    "icon-rbuddyneighbor.svg"
     </div>
    </p>
   </li>
-  <li id="en023">
-   <p class="_list-item">
-    <div class="_p">
-     This is conceptually OK with bringing goods to a <span class="_paradigm">Neighbor</span> so long as it doesn't take her too far off her route.
-     The "too long" here is too vague at this point. It will become more concrete when a specific request shows up. Then, each <span class="_paradigm">Buddy</span> can make up her mind to accept or not.
-     The point is that the system learns from actual behavior.
-     <a class="_uparrow" href="#bm23"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
   <li id="en06">
    <p class="_list-item">
     <div class="_p">
@@ -320,17 +310,6 @@ image:    "icon-rbuddyneighbor.svg"
     <div class="_p">
      We take the risk that Margot may not deliver or Nam may not accept it.
      <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en08">
-   <p class="_list-item">
-    <div class="_p">
-    What happens if the <span class="_paradigm">Neighbor</span> says that he doesn't want the goods anymore? We can take care of the finances, but what is the <span class="_paradigm">Buddy</span> going to do with them?
-    </div>
-    <div class="_p">
-     BTW, one way to game the system is for the <span class="_paradigm">Buddy</span> to get something for herself instead, then make it so that the <span class="_paradigm">Neighbor</span> will say not to deliver, and keep the goods.
-     <a class="_uparrow" href="#bm08"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
    </p>
   </li>
