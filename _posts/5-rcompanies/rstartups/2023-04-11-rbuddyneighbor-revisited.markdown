@@ -251,6 +251,28 @@ image:    "icon-rbuddyneighbor.svg"
     </div>
    </p>
   </li>
+  <li id="en03">
+   <p class="_list-item">
+    <div class="_p">
+     Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?
+     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    <div class="_p">
+     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the <span class="_paradigm">Neighbor</span> requested.
+     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
+   </p>
+  </li>
+  <li id="en10">
+   <p class="_list-item">
+    We will have to figure out the most friction-less ways to manage payments for the <span class="_paradigm">Buddy</span>. On the other hand, what if the <span class="_paradigm">Buddy</span> doesn&rsquo;t show up with the goods? On the other hand, we could reimburse them <em>after</em> the <span class='_paradigm'>Neighbor</span> gets the goods. In that case, they won't get reimbursed for the goods they didn&rsquo;t deliver.
+    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
   <li id="en20">
    <p class="_list-item">
     <div class="_p">
@@ -270,73 +292,6 @@ image:    "icon-rbuddyneighbor.svg"
      <a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
      <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
     </div>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    <div class="_p">
-     Local Commerce and small business owner opportunities&hellip; create a presence with people that are near the areas you serve: dry cleaners/ restaurants, maybe even mobile food trucks?
-     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
-    <div class="_p">
-     We should be able to figure out who is 1) nearby an outlet and 2) can get the goods the <span class="_paradigm">Neighbor</span> requested.
-     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    <div class="_p">
-     It remains at all times, even when you accept a request.
-     <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en07">
-   <p class="_list-item">
-    <div class="_p">
-     This is an account for getting reimbursed. The ideal is for RBuddyneighbor.com to pay for the goods.
-    </div>
-    <div class="_p">
-     Later, we should figure a way for Buddies not to have to pay up front for anything. Maybe we issue cards where changes are only accepted after a request is committed.
-    </div>
-    <div class="_p">
-      In the example below, we'd load up Margot&rsquo;s card with $2 which is the approximate price of an Organic Valley 2% Milk gallon.
-    </div>
-    <div class="_p">
-     We take the risk that Margot may not deliver or Nam may not accept it.
-     <a class="_uparrow" href="#bm07"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en09">
-   <p class="_list-item">
-    <div class="_p">
-     Or money donated to a charity of her choice?
-    </div>
-    <div class="_p">
-     Or goods discount? (this is that goods outlets would "pay" in exchange for being part of the network).
-    </div>
-    <div class="_p">
-     Or points that they can use anywhere (a Nearsoft client, Points, does exactly this).
-    </div>
-    <div class="_p">
-     Or a fund to improve their local school?
-    </div>
-    <div class="_p">
-     Or … all of the above?
-     <a class="_uparrow" href="#bm09"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en10">
-   <p class="_list-item">
-    We will have to figure out the most friction-less ways to manage payments for the <span class="_paradigm">Buddy</span>. On the other hand, what if the <span class="_paradigm">Buddy</span> doesn&rsquo;t show up with the goods? On the other hand, we could reimburse them <em>after</em> the <span class='_paradigm'>Neighbor</span> gets the goods. In that case, they won't get reimbursed for the goods they didn&rsquo;t deliver.
-    <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
