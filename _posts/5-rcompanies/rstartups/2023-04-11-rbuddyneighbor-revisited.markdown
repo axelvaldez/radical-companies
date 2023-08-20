@@ -251,6 +251,27 @@ image:    "icon-rbuddyneighbor.svg"
     </div>
    </p>
   </li>
+  <li id="en20">
+   <p class="_list-item">
+    <div class="_p">
+     Getting people physically connected with each other.
+     <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
+   </p>
+  </li>
+  <li id="en21">
+   <p class="_list-item">
+    <div class="_p">
+     <em>The simple way this Japanese town has become nearly zero-waste</em>.
+     <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a>
+    </div>
+    <div class="_p">
+     <em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
+     <a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
+     <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
+    </div>
+   </p>
+  </li>
   <li id="en03">
    <p class="_list-item">
     <div class="_p">
@@ -271,27 +292,6 @@ image:    "icon-rbuddyneighbor.svg"
    <p class="_list-item">
     We will have to figure out the most friction-less ways to manage payments for the <span class="_paradigm">Buddy</span>. On the other hand, what if the <span class="_paradigm">Buddy</span> doesn&rsquo;t show up with the goods? On the other hand, we could reimburse them <em>after</em> the <span class='_paradigm'>Neighbor</span> gets the goods. In that case, they won't get reimbursed for the goods they didn&rsquo;t deliver.
     <a class="_uparrow" href="#bm10"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en20">
-   <p class="_list-item">
-    <div class="_p">
-     Getting people physically connected with each other.
-     <a class="_uparrow" href="#bm20"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
-   </p>
-  </li>
-  <li id="en21">
-   <p class="_list-item">
-    <div class="_p">
-     <em>The simple way this Japanese town has become nearly zero-waste</em>.
-     <a href="https://radicals.world/RFSMZi">https://radicals.world/RFSMZi</a>
-    </div>
-    <div class="_p">
-     <em>Japan&rsquo;s &lsquo;Zero Waste&rsquo; Village Is a Model for Small-Town Sustainability</em>.
-     <a href="https://radicals.world/qRtlWM">https://radicals.world/qRtlWM</a>.
-     <a class="_uparrow" href="#bm21"><img src="/assets/img/arrow-up-icon.png"></a>
-    </div>
    </p>
   </li>
  </ul>
