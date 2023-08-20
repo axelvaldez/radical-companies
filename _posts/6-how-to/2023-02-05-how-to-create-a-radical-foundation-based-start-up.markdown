@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "How to Create a  Radical  Startup"
+title:    "How to Create a  Radical Foundation-Based Startup"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-how-to-create-a-radical-start-up.svg"
+image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
 ---
 
 <div style="display:none;">
