@@ -145,7 +145,7 @@ image:    "icon-rbuddyneighbor.svg"
    <tr>
     <th>Vendors Will Know</th>
     <td>
-     <p>We can train retailers to tell people who call in an order that, there are two people near you coming to pick up soon. If you put in a <span class='_paradigm'>rBuddyNeighbors</span> request, maybe one of them will deliver.</p>
+     <p>We can train retailers to tell people who call in an order that there are two people near you coming to pick up soon. If you put in a <span class='_paradigm'>rBuddyNeighbors</span> request, maybe one of them will deliver.</p>
      <p>This means that we need a UI for vendors to see <span class='_paradigm'>rBuddyNeighbors</span> activity that impacts them,</p>
      <ul>
       <li>Requests that mention them</li>
@@ -173,7 +173,7 @@ image:    "icon-rbuddyneighbor.svg"
     <th>Cooking for Others</th>
     <td>
      <p>Some people love to cook. Others, like myself, can appreciate a good dish, but that&rsquo;s it: no cooking. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good.</span></p>
-     <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how cook it.</p>
+     <p>Even the people who like to cook, sometimes feel like not cooking. It&rsquo;s like harking for a special dish, but you don&rsquo;t want to make it or don&rsquo;t know how to cook it.</p>
     </td>
    </tr>
    <tr>
@@ -185,7 +185,7 @@ image:    "icon-rbuddyneighbor.svg"
        <li>You connect your aunt with the <span class="_paradigm">rBuddyNeighbors</span> cook on a video call.</li>
        <li>They figure out how to reproduce the dish. They may have to figure out alternative ingredients to use if your aunt&rsquo;s can&rsquo;t be found locally.</li>
       </ul>
-     <p>You can pick up the food yourself (it&rsquo;s nearby), or, if you are invited, you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is in the cooking together.</p>
+     <p>You can pick up the food yourself (it&rsquo;s nearby), or, if you are invited, you can walk over and eat it at the <span class="_paradigm">Buddy</span>&rsquo;s place. The emphasis is on the <em>cooking together.</em></p>
     </td>
    </tr>
    <tr>
