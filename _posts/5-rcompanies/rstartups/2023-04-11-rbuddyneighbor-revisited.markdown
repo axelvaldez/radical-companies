@@ -129,7 +129,7 @@ image:    "icon-rbuddyneighbor.svg"
    <tr>
     <th>Baby Sitting, Elder Sitting</th>
     <td>
-     <p>This brings up is the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
+     <p>This brings up the importance of reputation for members. A recommendation from a well know <span class="_paradigm">Neighbor</span> will count for a lot.</p>
     </td>
    </tr>
    <tr>
@@ -138,7 +138,7 @@ image:    "icon-rbuddyneighbor.svg"
      <ul>
       <li>Pub crawls</li>
       <li>Movie Nights</li>
-      <li>Going to the movie or to the theater.<a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a></li>
+      <li>Going to the movies or to the theater.<a href="#en20"><sup id="bm20">&hairsp;&nabla;&hairsp;</sup></a></li>
      </ul>
     </td>
    </tr>
