@@ -16,7 +16,7 @@ image:    "icon-the-rads-mobile-app.svg"
  <p><em><span class="_paradigm">RAD</span>s!</em> app calculates the number of <span class="_paradigm">RAD</span>s each gets at the end of, say, the monthly cycle.</p>
 
 <h1>Communities</h1>
- <p>It also makes it very easy to create and join as many communities as a co-owner wants.</p>
+ <p>It also makes it very easy to create and join as many communities as a co-owner needs to.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ol>
