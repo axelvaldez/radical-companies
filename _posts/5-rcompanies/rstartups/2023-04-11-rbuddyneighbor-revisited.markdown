@@ -123,7 +123,7 @@ image:    "icon-rbuddyneighbor.svg"
    <tr>
     <th>Reuniting Friends and Family</th>
     <td>
-     <p>Like other &ldquo;social network,&rdquo; <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
+     <p>Like other networks of people, <span class="_paradigm">rBuddyNeighbor</span> could be used to find people you want to reconnect with. <span class="_quotespan">Looking for John M. Graduated in 1972 from Schurz HS in Chicago. Last time we were in touch he still lived in Chicago.</span></p>
     </td>
    </tr>
    <tr>
