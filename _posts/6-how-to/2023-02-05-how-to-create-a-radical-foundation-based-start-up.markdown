@@ -54,7 +54,7 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
  <p>What we are proposing here is you treat capital infusions as a <em><span class="_paradigm">Radical</span> investment</em>.</p>
  <p><span class="_paradigm">Radical</span> investments include paying back the principal and an upside over a certain time. It could be 120% over two years, or double after five, or whatever you think is realistic and reasonable. Very important: <span class="_paradigm">Radical</span> investments do not include <em>any</em> other powers. This won&rsquo;t be a surprise for the friends/family/fools crowd. It will most likely be a surprise to traditional <span class="_paradigm">Fiat</span> capital investors; even unacceptable. However, a few &ldquo;traditional&rdquo; investors may be inspired enough to go along with a <span class="_paradigm">Radical</span>-investment.</p>
  <p>The guaranteed return may do the trick.</p>
- <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power forever&rsquo; setup of today.</p>
+ <p>Instead of promising wild returns, you may structure it as a reasonable, even low, guaranteed return plus a percentage of dividends for a fixed period of time. This avoids the &ldquo;power over forever&rsquo; setup of today.</p>
 
 <h1>Predictable Recurring Income (PRI)</h1>
  <p>Once you have the capital it will go into whatever you have to buy up front. It may also go into a <em>the Predictable Recurring Income (PRI) fund</em>, used to pay all co-owners until revenue comes in.</p>
