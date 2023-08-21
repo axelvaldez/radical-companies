@@ -162,7 +162,7 @@ image:    "icon-rcoins-decentralized-minting.svg"
 
 <h1>rCoin Qualities</h1>
  <p>These are, in no particular order, a few of the qualities that a <span class="_paradigm">rCoin</span> must have,</p>
- <h3>Decentralized Minting of<span class="_paradigm">Coin</span>s</h3>
+ <h1>Decentralized Minting of<span class="_paradigm">Coin</span>s</h1>
   <p><span class="_paradigm">rCoin</span>s are minted by companies, not a national government.</p>
   <div class="_center">
    <img
