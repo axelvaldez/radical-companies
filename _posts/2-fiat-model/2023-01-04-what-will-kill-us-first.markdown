@@ -35,12 +35,12 @@ image:    "icon-what-will-kill-us-first.svg"
   <p>Data from millions of manuscripts show that, compared with the mid-twentieth century, research done in the 2000s was much more likely to incrementally push science into incremental improvements rather than to veer off in a new direction and render previous work obsolete. Analysis of patents from 1976 to 2010 showed the same trend.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>This is happening in social science, technology, physical sciences, life sciences, and biomedicine.</p>
- <div class="_center">
-  <img
-   src="/assets/img/disruptive-science-dwindles.svg"
-   width="100%"
-   alt="">
- </div>
+  <div class="_center">
+   <img
+    src="/assets/img/disruptive-science-dwindles.svg"
+    width="100%"
+    alt="">
+  </div>
  <p>In sheer numbers, there is more research, but it is towards  provements (<span class='_quotespan'>Wow, that is going to make us my skin smoother!</span>), and mot towards discoveries (<span class='_quotespan'>WHAT? We can generate energy like the Sun does?</span>).</p>
 
 <h1>Fragile Food</h1>
@@ -72,22 +72,22 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>The RADICAL model consists of the RADICAL foundation, its tools, and new skills.</p>
 
  <h1>The RADICAL Foundation</h1>
- <div class="_center">
-  <table class="_h2table">
-   <tr>
-    <th>people</th>
-    <td>Meaning & Belonging</td>
-   </tr>
-   <tr>
-    <th>commitments</th>
-    <td>Decentralization & Transparency</td>
-   </tr>
-   <tr>
-    <th>practices</th>
-    <td>Experimentation</td>
-   </tr>
-  </table>
- </div>
+  <div class="_center">
+   <table class="_h2table">
+    <tr>
+     <th>people</th>
+     <td>Meaning & Belonging</td>
+    </tr>
+    <tr>
+     <th>commitments</th>
+     <td>Decentralization & Transparency</td>
+    </tr>
+    <tr>
+     <th>practices</th>
+     <td>Experimentation</td>
+    </tr>
+   </table>
+  </div>
  
  <h1>The Tools</h1>
   <p>These are the tools that we have come with so far,</p>
@@ -130,11 +130,11 @@ image:    "icon-what-will-kill-us-first.svg"
 
  <h1>The Skills</h1>
   <p>Skills include the capacity to,</p>
-  <ul>
-   <li>Be inquisitive over being accusative</li>
-   <li>Be playful over being rigid</li>
-   <li>Speaking from love over a dominating lecture.</li>
-  </ul>
+   <ul>
+    <li>Be inquisitive over being accusative</li>
+    <li>Be playful over being rigid</li>
+    <li>Speaking from love over a dominating lecture.</li>
+   </ul>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
