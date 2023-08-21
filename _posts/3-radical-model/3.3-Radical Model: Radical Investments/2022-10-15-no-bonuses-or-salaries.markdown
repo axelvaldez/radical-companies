@@ -101,8 +101,6 @@ image:    "icon-no-bonuses-or-salaries.svg"
  <p>In other than a very small group, sharing a debt would make everybody responsible for the debt accumulated by people they don&rsquo;t know and they probably don&rsquo;t trust. People would either be quietly bothered by it, or want to know things like, &ldquo;<em>Who is this Julio person and why is his PRI so high?</em>&rdquo; Think of what it would be like with hundreds or even thousands of people.</p>
  <p>As a personal debt, on the other hand, everyone can figure out what works for them and decide accordingly. Maybe Julio starts high but then he brings his PRI down once he realizes that he had jacked it up out of unexamined fears. Or maybe he keeps it high because he is paying for his sister&rsquo;s school and is willing to bear the debt for a while longer. No matter, he knows and he is responsible for his choices.</p>
  <p>There are many other set ups that you can experiment with.</p>
- <p>---</p>
- <p>For more details, see <em>RADICAL COMPANIES for the Impatient</em>.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a> or, if y0u have the time, <em>RADICAL COMPANIES: Without Bosses or Employees</em>.<a href="#en04"><sup id="bm04">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
   <ul>
@@ -117,24 +115,6 @@ image:    "icon-no-bonuses-or-salaries.svg"
     <span class="_paradigm">Fiat</span> means &ldquo;a decree, command, order.&rdquo; See,
     &lt;<a href="https://www.etymonline.com/search?q=fiat">https://www.etymonline.com/search?q=fiat</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en03">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES for the Impatient</em>.
-    2021.
-    &lt;<a href="https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html">https://radicalcompanies.com/2022/05/03/radical-companies-for-the-impatient.html</a>&gt;
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en04">
-   <p class="_list-item">
-    Matt Perez, Adrian Perez, Jose Leal.
-    <em>RADICAL COMPANIES for the Impatient</em>.
-    2021.
-    &lt;<a href="https://radicalcompanies.com">https://radicalcompanies.com</a>&gt;
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
