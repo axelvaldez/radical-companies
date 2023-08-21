@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The  Radical  Seed"
+title:    "The Radical Seed"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-the-radical-seed.svg"
