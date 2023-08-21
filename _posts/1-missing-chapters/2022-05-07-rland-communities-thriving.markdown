@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "rLand: Local Communities Thriving"
+title:    "rLand: Communities Thriving"
 subtitle: "A tip of the hat to Henry George"
 authors:  "Matt Perez"
-image:    "icon-rland.svg"
+image:    "icon-rland-communities-thriving.svg"
 ---
 
 <div style="display: none;">
