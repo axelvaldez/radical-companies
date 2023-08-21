@@ -10,7 +10,7 @@ image:    "icon-radical-coops.svg"
  <p>Co-ops people could easily switch to be based on the <span class="_paradigm">Radical</span> model.</p>
 </div>
 
-<h1>&nbsp;</h1>
+<h1>Radical Co-Ops</h1>
  <p>Co-ops people could easily switch to be based on the <span class="_paradigm">Radical</span> model.</p>
  <p>It&rsquo;d be fairly straightforward to do by breaking the &ldquo;one person, one vote&rdquo; rule. They could then switch to a <span class="_paradigm">RAD</span>s-based to a system based on contributions, not equality.</p>
  <p>Ideally, the whole co-op makes the switch, but most likely it will be be up to individual co-op members,</p> 
@@ -21,7 +21,7 @@ image:    "icon-radical-coops.svg"
   <li>Another impediment would be not wanting to change. But this evolves over time, so we are not worried about it.</li>
  </ul>
 
-<h1>Radical Co-Ops</h1>
+<h1>Radical Co-Ops, the other Way</h1>
  <p>On the other hand, Radical-based companies could operate as co-ops. The &ldquo;excess&rdquo; <span class='_paradigm'>RAD</span> yields could be put in an account, so that everybody would get the same take-home pay.</p>
  <p>Not sure what you would do with the excess amount. It might even lead people to not contribute.</p>
  <p>On second thought, I don&rsquo;t think this would last long, but it might be worth the experiment for some people.</p>
