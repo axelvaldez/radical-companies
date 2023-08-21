@@ -11,7 +11,7 @@ image:    "icon-even-more-questions.svg"
 </div>
 
 <h1></h1>
- <p>The questions were about hiring. I tried to explain that my preference is that they&rsquo;d be no hiring, per se. The <span class="_paradigm">Radical</span> system is set up for that. But to no avail,</p>
+ <p>The questions were about hiring. I tried to explain that my preference is that there&rsquo;d be no hiring, per se. The <span class="_paradigm">Radical</span> system is set up for that. But to no avail,</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
