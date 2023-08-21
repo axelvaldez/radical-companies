@@ -15,9 +15,9 @@ image:    "icon-fiat-dictatorships.svg"
   <tr style="padding-left:10em; ">
    <td class="_citation">
     <div style="padding-left:5em; "><span class="_paradigm">Fiat</span> businesses are dictatorships.</div>
-    <div style="padding-left:10em; ">&amp;</div>
+    <div style="padding-left:10em; ">AND</div>
     <div style="padding-left:5em; ">Dictatorships are bad for the economy.</div>
-    <div style="padding-left:10em; ">&there4;</div>
+    <div style="padding-left:10em; ">THEREFORE</div>
     <div style="padding-left:5em; "><span class="_paradigm">Fiat</span> businesses are bad for the economy.</div>
    </td>
   </tr>
