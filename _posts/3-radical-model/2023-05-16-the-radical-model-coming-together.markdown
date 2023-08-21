@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The RADICAL Model, Coming Together"
+title:    "The Radical Model, Coming Together"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-the-radical-model-coming-together.svg"
