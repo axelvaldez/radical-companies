@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    " Radical  Co-ops?"
+title:    "Radical and Co-ops?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-radical-coops.svg"
