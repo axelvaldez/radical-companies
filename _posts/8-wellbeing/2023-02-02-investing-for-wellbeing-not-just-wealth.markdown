@@ -11,8 +11,8 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
 </div>
 
 <h1>Left and Right</h1>
- <p>The two people walking in front of me were talking about what they wished existed. They seem to have some money to invest, but they didn&rsquo;t dare do so. The person on my left suggested to the one my right to invest in &ldquo;somebody you know, maybe someone in your family?&rdquo;</p>
- <p>&ldquo;But,&rdquo; responded right person, &ldquo;I don&rsquo;t have anybody like that!&rdquo;</p>
+ <p>The two people walking in front of me were talking about what they wished existed. They seem to have some money to invest, but they didn&rsquo;t dare do so. The person on my left suggested to the one on my right to invest in &ldquo;somebody you know, maybe someone in your family?&rdquo;</p>
+ <p>&ldquo;But,&rdquo; responded the right person, &ldquo;I don&rsquo;t have anybody like that!&rdquo;</p>
  <p>Left person laughed and said, &ldquo;Well, neither do I. And I don&rsquo;t have that much to invest, either.&rdquo;</p>
  <p>A bit later, left person brought up &ldquo;community&rdquo; and right person said, &ldquo;yes, right, I wish I knew where my money went. The big funds end up investing in things I don&rsquo;t like. They invest in a clean business, but it owns another business and it owns another business that sells some crap like vaporizers.&rdquo; And, oh, the irony: she said this just as they were walking in front of a store that sold <em>CBT vapes</em>.</p>
  <p>A bit later they walked ahead as I got to my where I was going.</p>

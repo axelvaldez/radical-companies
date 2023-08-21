@@ -28,7 +28,7 @@ image:    "icon-how-fiat-developed.svg"
 <h1>Long Time Coming</h1>
  <p>Assuming that the stories in the Hebrew Bible was more or less copied from similar stories in the area, resistance to being exploited had been raging for a long time.</p>
   <div class="_central, _citation">
-   <p>In our ancestral state, humans were probably organized in small troups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually troups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
+   <p>In our ancestral state, humans were probably organized in small groups of related individuals. We shared resources within this group, and battled other groups for food and territory. Gradually groups gave way to organizing in tribes. After many millennia, these tribes began to merge into larger chiefdoms. Chiefdoms eventually merged into states. And states merged into empires. At every stage, competition raged between groups and was suppressed within groups.</p>
    <p id="_signature">Blair Fix, An Evolutionary Theory of Resource Distribution<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p>By the time Thomas Hobbes writes <em>Leviathan</em> the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;&rdquo;war of all against all.&ldquo;</p>
