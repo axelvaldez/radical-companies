@@ -7,7 +7,7 @@ image:    "icon-is-co-ownership-a-give-away.svg"
 ---
 
 <div style="display:none;">
- <p>Co-ownership is not a give away, it&rsquo;s selling to employees.</p>
+ <p>Co-ownership is not a &ldquo;give away.&rdquo;</p>
 </div>
 
 <h1>&nbsp;</h1>
