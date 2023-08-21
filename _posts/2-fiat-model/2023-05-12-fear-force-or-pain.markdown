@@ -26,7 +26,7 @@ image:    "icon-fear-force-or-pain.svg"
     style="width:50%;">
   </div>
  <p>Paty, Patricia Preciado, told the story of when she got so beaten down by her job that she hit bottom. She decided to quit. Instead, she wanted to build a platform to make it easy for people to do things for the sake of their wellbeing. It&rsquo;s been a while, but we are building that platform, not with technology, but as a different way of living and thriving.</p>
- <p>Chabeli Atahuaman told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned that others might react and was scared of the conversation that would follow. Finally, she came out and said, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it. As it turned out, the people that she was working with took her seriously and they even enjoyed the process.</p>
+ <p>Chabeli Atahuaman told us about her transformation by a simple act: getting over the fear of bringing up what she really felt. She was concerned that others might react. Finally, she came out and said, <span class="_quotespan">Make it for people, not just to make money.</span> It took courage to do, but it was the right thing for her and she felt really good after she said it. As it turned out, the people that she was working with took her seriously and they even enjoyed the process.</p>
  <p>These stories resonated with me and they spoke to the power of having a named alternative like <span class="_paradigm">Radical</span>.</p>
 
 <h1>Wellbeing</h1>
