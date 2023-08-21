@@ -33,7 +33,7 @@ image:    "icon-disentangling-management.svg"
     <li>If a Board member wants to fully cash out, the euphemism is that he is &ldquo;leaving his Board seat to pursue other projects.&rdquo;. The business may or may not get any cash out of these types of transactions.</li>
    </ul>
  <h2>Hiring</h2>
-  <p>Putting together the Executive team is way up there in the Big Boss&rsquo; job description; it goes right under <em>make money for the board and the stockholder.</em></p>
+  <p>Putting together the Executive team is way up there in the Big Boss&rsquo; job description; it goes right under &rdquo;make money&rdquo; for the Board and the stockholder.</p>
   <p>If you are within striking distance of an IPO or some other &ldquo;liquidity event,&rdquo; you hire a bunch of people with <em>bona fide</em> credentials from well known companies. You name them CxOs because a big part of your IPO story is having &ldquo;a strong team.&rdquo;</p>
   <p>If you are far from IPO, or past it, you want to hire an &ldquo;effective&rdquo; team, no matter how they go about it, even if they go about it ruthlessly. And when it comes to finances they will get you what you need one way or the other.</p>
   <p>In a smaller company, the Big Boss&rsquo; main job is to raise money and set strategy. So, he hires an executive team who can take care of everything else. These folks are mostly competent and even nice (but they are their way of being neither).</p>
@@ -44,7 +44,7 @@ image:    "icon-disentangling-management.svg"
 
 <h1>The Lesser Bosses</h1>
  <h2>Hiring</h2>
-  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After wasting a lot of time and effort accommodating the boss, and the delays that introduces, he does a very short &ldquo;interview&rdquo; and renders a final decision to hire or not. This happens after extensive interviewing by the team, people who know the subject matter well and are going to work with the candidate. Many Lesser Bosses go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; attitude&hellip; tatoos&hellip; questions.&rdquo;</p>
+  <p>Except for their direct staff, the Lesser Bosses get involved in hiring just in case their boss asks. They really add no value to the process. In fact, they slow it down. After wasting a lot of time and effort accommodating the boss, and the delays that introduces, he does a very short &ldquo;interview&rdquo; and renders a final decision to hire or not. This happens after extensive interviewing by the team, people who know the subject matter well and are going to work with the candidate. Many Lesser Bosses go with the team&rsquo;s decision, but others don&rsquo;t, because &ldquo;I didn&rsquo;t like her&hellip; attitude&hellip; tattoos&hellip; questions.&rdquo;</p>
   <p>In a co-managed company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> the people who are going to team up with the candidate make the final decision to hire or not. They may even do away with the interview altogether because the candidate is not just a vessel of cognitive skills, the rest of her comes along with it, and her contributions come from her whole person.</p>
  <h2>Firing</h2>
   <p>Firing is usually left to the Lesser Boss. Many of them dislike doing it, so they ignore it or postpone doing it until things come to a head. In a co-managed company, the team can eject a person and tell him the reasons why directly. No boss needed.</p>
@@ -52,7 +52,7 @@ image:    "icon-disentangling-management.svg"
   <p>The Lesser Bosses are often called to play referee. If there&rsquo;s a conflict between people, he gets in the middle of it and does his best to arrive at a clean break. This general does not resolve the issue, not really, but everybody can go to their own corners to work.</p>
   <p>In a co-managed company, either people resolve the issue themselves by bringing it up and talking through it, or they involve a third person (<em>i.e.</em>, a tried) and the three of them resolve it. Additionally, they all learn new skills for how to resolve this type of issue and, more importantly, new language to keep it from becoming a problem.</p>
  <h2>Defending You from Other Bosses</h2>
-  <p>Each department in a business is like a feudal dominion, with a castle in the middle surrounded by fields under its protection. It has a moat around it and you work the fields in exchange for protection (plus a paycheck in modern times). The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor &ldquo;defending&rdquo; you is your boss. As you can imagine, this becomes an obstacle to collaboration and it has major, negative impact on the business.</p>
+  <p>Each department in a business is like a feudal dominion, with a castle in the middle surrounded by fields under its protection. It has a moat around it and you work the fields in exchange for protection (plus a paycheck in modern times). The would-be attackers are the other bosses, and sometimes the people, in the other castles&hellip; er&hellip; departments. The knight in white armor &ldquo;defending&rdquo; you is your boss. As you can imagine, this becomes an obstacle to collaboration and it has a major, negative impact on the business.</p>
  <h2>Implementing Tactics</h2>
   <p>Technically, the Lesser Bosses set the tactics to implement the Big Boss strategy.</p>
   <p>In reality, the thing that counts the most is the financial goals. The grander strategy may or may not align with the profit-making goals, but when in doubt, make sure to meet the profit goals.</p>
@@ -64,7 +64,7 @@ image:    "icon-disentangling-management.svg"
 
 <h1>Disentangling Management</h1>
  <p>Other than creating an illusion of control, the <span class="_paradigm">Fiat</span> hierarchy is hostile business. It makes innovation nearly impossible and a tremendous amount of money and effort is wasted on the hierarchy and &ldquo;control theater.&rdquo;</p>
- <p><span class="_paradigm">Radical</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. As the next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
+ <p><span class="_paradigm">Radical</span>-hierarchical companies are more efficient because they let go of the illusion of control and let people co-manage themselves. In any case, this and co-ownership is where all businesses are headed. The next stage of evolution is for businesses to transform to co-owned and co-managed companies.</p>
  <div class="_center">
   <table class="_h2table">
    <tr>
@@ -76,8 +76,8 @@ image:    "icon-disentangling-management.svg"
    <tr>
     <th>Firing</th>
     <td>
-     <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come natural, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
-     <p>For a whole society, this is going to be a long process. But each company can do it more quickly by the process of aculturation. Among other things, this helps build trust more quickly.</p>
+     <p>Firing can be done by the team as well. Learning to give feedback doesn&rsquo;t come naturally, even to bosses. Today, we practice a language of competition and dominance and we need to learn a language of love, empathy, and support. And not just for &ldquo;firing&rdquo;, but in general.</p>
+     <p>For a whole society, this is going to be a long process. But each company can do it more quickly by the process of acculturation. Among other things, this helps build trust more quickly.</p>
     </td>
    </tr>
    <tr>
@@ -90,14 +90,14 @@ image:    "icon-disentangling-management.svg"
    <tr>
     <th>Defending You from Other Bosses</th>
     <td>
-     <p>Without a hierarchy, there are no bosses competing for power, on the attach, or to be defended from. That particular source of stress is no more.</p>
+     <p>Without a hierarchy, there are no bosses competing for power, on the attack, or to be defended from. That particular source of stress is no more.</p>
      <p>Besides, without a hierarchy you don&rsquo;t need to be &ldquo;defended&rdquo;. We all need to learn to take in what others say as feedback, something to learn from. Feedback is about us and about them. And, yes, this is different and will feel strange at first, but it is our chance to evolve.</p>
     </td>
    </tr>
    <tr>
     <th>Task assignments</th>
     <td>
-     <p>Without bosses, and with transparency, people can get together and figure things to do out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
+     <p>Without bosses, and with transparency, people can get together and figure things out on their own. As an added bonus, they can take into consideration what is more meaningful to them.</p>
      <p>People working together already have an Explicit Alignment to use as a guide.</p>
     </td>
    </tr>
@@ -105,7 +105,7 @@ image:    "icon-disentangling-management.svg"
     <th>One-on-ones</th>
     <td>
      <p>Today, part of this ritual is to get a sense, through our boss, of how the hierarchy perceives you, what are your chances for promotion or a raise.</p>
-     <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. You chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributions.</p></td>
+     <p>In a co-managed company, anybody in your team can give you feedback on your way of relating to others or your work. Your chances of &ldquo;getting a raise&rdquo; is not up one person, your boss, but by your contributions.</p></td>
    </tr>
    <tr>
     <th>Career development</th>
