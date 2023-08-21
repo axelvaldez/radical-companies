@@ -12,7 +12,7 @@ image:    "icon-meaningless-means-of-production.svg"
 
 <h1>&nbsp;</h1>
  <p>For Karl Marx, the bad guys were the owners of <em>the means of production</em>. &ldquo;The means of production&rdquo; has not ever been the deep problem and it certainly is not today.</p>
- <p>There were bad guys and they did a lot of obvious harm, but beneath it all this bad stuff, there was a system that rewarded their <em>competitive and dominant</em> behavior. It is still going on today, but with a nicer face.</p>
+ <p>There were bad guys and they did a lot of obvious harm, but beneath all this bad stuff, there was a system that rewarded their <em>competitive and dominant</em> behavior. It is still going on today, but with a nicer face.</p>
  <p>In fact, it has been nameless, but we now call it the <span class="_paradigm">Fiat</span> system. Capitalism is a child of <span class="_paradigm">Fiat</span>.</p>
  <p>What went out with the bathwater is <em>dignity</em>. We confuse status for dignity and attaboys for <em>recognition</em>.</p>
  <p>In the <span class="_paradigm">Radical</span>-based model,</p>
