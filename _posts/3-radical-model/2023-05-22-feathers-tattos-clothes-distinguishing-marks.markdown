@@ -17,7 +17,7 @@ image:    "icon-feathers-tattoos-clothes-distinguishing-marks.svg"
  <p>People want to be heard. They feel they have something important to say that would impact their wellbeing (selfish) and maybe the wellbeing of the community (selfless). <span class="_quotespan">I (<span class="_me">me!</span>) have a contribution to make!</span></p>
  <p>It is not cognitive&mdash; it&rsquo;s an emotional impulse. And I have a hunch that it is fundamental to all communications,</p>
   <ul>
-   <li>Assume that people want to say something important, even if doesn&rsquo;t come out that way at first.</li>
+   <li>Assume that people want to say something important, even if it doesn&rsquo;t come out that way at first.</li>
    <li>Take into account that people may not have the skills to make it intelligible. But they can learn.</li>
    <li>Help them by asking questions.</li>
    <li>Don&rsquo;t look for fault and don&rsquo;t look to ridicule. Help them learn to say it in a way their community can understand.</li>
