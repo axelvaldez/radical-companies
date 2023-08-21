@@ -13,8 +13,9 @@ image:    "icon-a-radical-investment-agreement-template.svg"
 <h1>&nbsp;</h1>
  <p>Pay particular attention to Section IV. The rest of it is  boilerplate.</p>
 
-<h1 class="_sectionn">RADICAL INVESTMENT</h1>
- <div style='border-color:gray; border-width:1px; border-style:dotted; padding:10px; width:70%; '>
+
+<div style='border-color:gray; border-width:1px; border-style:dotted; padding:10px; width:70%; '>
+ <h1 class="_sectionn">RADICAL INVESTMENT</h1>
   <table>
    <tr>
     <td style="text-align:right; ">Loan Amount:</td>
