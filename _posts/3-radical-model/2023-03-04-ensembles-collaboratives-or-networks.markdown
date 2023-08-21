@@ -17,7 +17,7 @@ image:    "icon-ensembles-collabortives-or-networks.svg"
  <p>Maybe it is an electric car and one company can do the basic motor while other works on the mechanical engineering involved in putting together a chassis with synchronized motors, etc. Each company can see how the technology they are passionate about could be applied to projects in the future. They want to remain independent and ready to go their own way.</p>
 
 <h1>Networks</h1>
- <p>One suggestion is that we call this kind of association a network. Seems fine, except that there is a whole body of <em>network mathematics</em> already in existence. Also, a network has node connected to nodes, not exactly what we have in mind.</p>
+ <p>One suggestion is that we call this kind of association a network. Seems fine, except that there is a whole body of <em>network mathematics</em> already in existence. Also, a network has nodes connected to nodes, not exactly what we have in mind.</p>
  <p>Calling them &ldquo;networks&ldquo; would be confusing, to say the least.</p>
 
 <h1>Collaboratives</h1>
