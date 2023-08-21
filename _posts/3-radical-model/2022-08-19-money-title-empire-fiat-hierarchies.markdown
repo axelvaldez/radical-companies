@@ -14,7 +14,7 @@ image:    "icon-fiat-hierarchy.svg"
  <p>I used to think that people pick from three different categories when they are trying to pick a job: money, title, or empire. Depending on the person, they may order them differently. I thought of them as distinct, but it is simply your level in a <span class='_paradigm'>Fiat</span> hierarchy.</p>
 
 <h1>MONEY</h1>
- <p>Money is the most obvious <span class='_paradigm'>Fiat</span> benefit, but it also force.</p>
+ <p>Money is the most obvious <span class='_paradigm'>Fiat</span> benefit, but it is also force.</p>
  <p>You get,</p>
   <ul>
    <li>More buying power.</li>
