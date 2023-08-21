@@ -2,7 +2,6 @@
 layout:   post
 title:    "Captured Love"
 authors:  "Matt Perez"
-image:    "icon-the-dissimilarity-line.svg"
 image:    "icon-captured-love.svg"
 ---
 
