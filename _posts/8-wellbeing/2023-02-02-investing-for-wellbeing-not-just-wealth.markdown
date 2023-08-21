@@ -14,7 +14,7 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
  <p>The two people walking in front of me were talking about what they wished existed. They seem to have some money to invest, but they didn&rsquo;t dare do so. The person on my left suggested to the one on my right to invest in <span class='_quotespan'>somebody you know, maybe someone in your family?</span</p>
  <p><span class='_quotespan'>But,</span> responded the right person, <span class='_quotespan'>I don&rsquo;t have anybody like that!</span</p>
  <p>Person on the left laughed and said, <span class='_quotespan'>Well, neither do I. And I don&rsquo;t have that much to invest, either.</span></p>
- <p>A bit later, the person on the left brought up “community” and the person on the right said, <span class='_quotespan'>yes, right, I wish I knew where my money went. The big funds end up investing in things I don&rsquo;t like. They invest in a clean business, but it owns another business and it owns another business that sells some crap like vaporizers.</span. And, oh, the irony: she said this just as they were walking in front of a store that sold <em>CBT vapes</em>.</p>
+ <p>A bit later, the person on the left brought up “community” and the person on the right said, <span class='_quotespan'>yes, right, I wish I knew where my money went. The big funds end up investing in things I don&rsquo;t like. They invest in a clean business, but it owns another business and it owns another business that sells some crap like vaporizers.</span>. And, oh, the irony: she said this just as they were walking in front of a store that sold <em>CBT vapes</em>.</p>
  <p>A bit later they walked ahead as I got to where I was going.</p>
 
 <h1>Radical Investments</h1>
