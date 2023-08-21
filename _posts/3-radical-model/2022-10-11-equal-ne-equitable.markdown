@@ -38,7 +38,7 @@ image:    "icon-equal-ne-equitable.svg"
    <table class='_h2table'>
     <tr>
      <th>Equal</th>
-     <td>It assumes that everybody must be treated equaly. It seems to work for a while, but then it stops working.</td>
+     <td>Everybody must be treated equally. It seems to work for a while, but then it stops working. Because everybody is <em>not</em> equal.</td>
     </tr>
     <tr>
      <th>Equitable</th>
