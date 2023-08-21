@@ -14,14 +14,14 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>Which will destroy the Anthropocene<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> first, climate change or more of the same?</p>
 
 <h1>Climate Change</h1>
- <p>First, take climate change,</p>
- <ul> 
-  <li>Changes to temperature patterns change weather patterns.</li>
-  <li>Changes to weather patterns change agricultural and wild species habitats.</li>
-  <li>Changes to agriculture and wild species habitats are a threat to our life support system and infrastructure will be disrupted.</li>
-  <li>As our life support system declines and infrastructure is disrupted, our population will decline.</li>
-  <li>Given our <span class="_paradigm">Fiat</span> mindset, there is a good chance that competition will increase and our cultural accomplishments will be forgotten.</li>
- </ul>
+ <p>First, the symptoms,</p>
+  <ul> 
+   <li>Changes to temperature patterns change weather patterns.</li>
+   <li>Changes to weather patterns change agricultural and wild species habitats.</li>
+   <li>Changes to agriculture and wild species habitats are a threat to our life support system and infrastructure will be disrupted.</li>
+   <li>As our life support system declines and infrastructure is disrupted, our population will decline.</li>
+   <li>Given our <span class="_paradigm">Fiat</span> mindset, there is a good chance that competition will increase and our cultural accomplishments will be forgotten.</li>
+  </ul>
  <p>The other thing that has been happening for a while is the trend towards homogeneity in many fields.</p>
 
 <h1>Homogeneity in Politics</h1>
