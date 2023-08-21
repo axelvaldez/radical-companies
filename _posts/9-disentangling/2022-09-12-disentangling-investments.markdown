@@ -16,8 +16,8 @@ image:    "icon-disentangling-investments.svg"
  <p>So, yes, you need capital. But what does that even mean? You need to learn more about it and what it entails.</p>
 
 <h1>The Money Folks</h1>
- <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They are play it safe, but you get the capital in one big lump. Unfortunately, you don&rsquo;t have any safe assets to offer. If you were an established business you&rsquo;d have a revenue stream to offer, but you don&rsquo;t have that, either. So, scratch banks.</p>
- <p>Next on the list is Angels. Essentially, wealthy people who have been through a similar experience and feel some sympathy for you. They can put up some of the money you need and, if convince enough of them, you can get your new business going you.</p>
+ <p>You went to a bank but it turned out that they loan money against assets that are worth as much as the loan. They play it safe, but you get the capital in one big lump. Unfortunately, you don&rsquo;t have any safe assets to offer. If you were an established business you&rsquo;d have a revenue stream to offer, but you don&rsquo;t have that, either. So, scratch banks.</p>
+ <p>Next on the list is Angels. Essentially, wealthy people who have been through a similar experience and feel some sympathy for you. They can put up some of the money you need and, if you convince enough of them, you can get your new business going.</p>
  <p>Right below them are the VCs, so you talk to a few of them to see if you can skip the Angels altogether. They are very nice, but essentially they tell you that you need “market fit” before  we can make an investment. “We are responsible, y’know, to our Limited Partners. So, you&rsquo;d better off going the Angel route for now.”</p>
 
 <h1>Disentangling Investments</h1>
@@ -42,7 +42,7 @@ image:    "icon-disentangling-investments.svg"
  <p>The risk is that the developer fails to finish the asset and you lose the money you invested. The Return on that Investment (ROI) is usually a percent of the profits. Kind of like a forever annuity.</p>
 
 <h1>Radical Investments</h1>
- <p>These are a combination of Angel investments and real estate investment. They return the principle investment plus,</p>
+ <p>These are a combination of Angel investments and real estate investment. They return the principal investment plus,</p>
   <ul>
    <li>a percentage or multiple of it</li>
    <li>a single-digit percent of profit (<em>i.e.</em>, an annuity).</li>
@@ -51,7 +51,7 @@ image:    "icon-disentangling-investments.svg"
 
 <h1>An Experiment</h1>
  <p>You can experiment with a small investment or even money that you are putting up out of your own pocket. This will serve to get everybody comfortable with how it works. Keep in mind that every co-owner will be part of honoring the terms of the investment.</p>
- <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> that money is gone. When things to well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
+ <p>The first thing to keep present is that this is an investment and if things go belly up with the company,<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> that money is gone. When things go well, the investment money and profits are paid according to the terms. Let&rsquo;s say the agreement is to pay back twice the principle, say, $100,000 within 48 months. In that case you need to accumulate $200K in the next 48 months.</p>
  <p>There are at least two ways to treat debt repayment: as an company obligation or as an obligation of the present co-owners. As a company obligation it applies to present <em>and future</em> co-owners; otherwise, it is treated as an obligation to current co-owners via a <span class="_paradigm">Banner</span>. An investment can only be treated as a company obligation because the result (<em>i.e.</em>, company growth) benefits all co-owner, current and future.</p>
  <p>As a company obligation, the repayment is taken out of revenue (<em>i.e.</em>, it is not included in the earned dividends).<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> You may decide to put away $8,334 (<em>i.e.</em>, 1/24<sup>th</sup> of $200K) every month into a repayment fund; alternatively, you could put away a percentage of revenue every month and as revenue grows, the amount put away will grow as well. In any case, by the end of the 48 months all present and future co-owners would have sacrificed a portion of their earned dividends to repay the investment.</p>
 
