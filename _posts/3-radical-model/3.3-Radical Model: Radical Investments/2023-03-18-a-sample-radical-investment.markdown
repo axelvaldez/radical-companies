@@ -76,5 +76,6 @@ image:    "icon-a-radical-investment-agreement-template.svg"
  <h1>XII. SUCCESSORS</h1>
   <p style="text-indent:2em; "> All the foregoing is the promise of Borrower and shall bind Borrower and Borrower&rsquo;s successors, heirs, and assigns; provided, however, that Lender may not assign any of its rights or delegate any of its obligations hereunder without the prior written consent of the holder of this Note.</p>
 </div>
+<p>Keep in mind that this was written by me and not a lawyer. Then again, the intent is that this is not going to be abjudicated in a court of law.</p>
 
 {% include related.html %}
