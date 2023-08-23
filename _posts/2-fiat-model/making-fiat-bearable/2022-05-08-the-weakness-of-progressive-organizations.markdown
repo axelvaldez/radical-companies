@@ -1,11 +1,11 @@
 ---
 layout:   post
 title:    "The Weakness of “Progressive” Organizations"
-subtitle: "Co-Ownership Is a Must"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-10-progressive-org-structures.svg"
 ---
-
+ belongin
 <div style="display:none;">
  <p>Co-management is a move away from the <span class="_paradigm">Fiat</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have decentralized ownership, which we call co-ownership, for robust and stable governance.</p>
 </div>
@@ -18,7 +18,7 @@ image:    "icon-10-progressive-org-structures.svg"
 <h1>Co-Ownership Brings Robustness</h1>
  <p>It is great, in fact, that these companies have experimented with co-management. They have shown that it works and that we don&rsquo;t need the <span class="_paradigm">Fiat</span> hierarchical system we live under. Unfortunately, co-management is not enough because it doesn&rsquo;t last.</p>
  <p>Most of these &ldquo;progressive&rdquo; companies have fallen back to the <span class="_paradigm">Fiat</span> hierarchical model once the benevolent owner-boss.is out of the picture.</p>
- <p>For governance to be decentralized in robust and long-term way, decentralized management must be accompanied by decentralized ownership or co-ownership, as we call it.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>For governance to be decentralized in a robust and long-term way, decentralized management must be accompanied by decentralized ownership or co-ownership, as we call it.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Robustness Emerges from a Simple Foundation</h1>
  <p>Rather than specific practices or strict methodologies, this foundation allows you to discover out what works for you, while helping you to keep grounded on what&rsquo;s important,</p>
@@ -44,13 +44,13 @@ image:    "icon-10-progressive-org-structures.svg"
     <tr>
      <th>Meaning and Belonging</th>
      <td>
-      <p>These are important things to people, finding meaning in what they do and belongin to a community that helps them.</p>
+      <p>These are important things to people, finding meaning in what they do and belonging to a community that helps them.</p>
      </td>
     </tr>
     <tr>
      <th>Decentralization & Transparency</th>
      <td>
-      <p>I tried, but I didn't find a way to reduce it to one word. You need both. Decntralization and transparency specify a range, they are vectors. You can be mvoe towards more or less decentralizationh and more or less transparent dependind on choices you make, decision you take.</p>
+      <p>I tried, but I didn't find a way to reduce it to one word. You need both. Decentralization and transparency specify a range, they are vectors. You can be mvoe towards more or less decentralization and more or less transparent depending on choices you make, decision you take.</p>
      </td>
     </tr>
     <tr>
