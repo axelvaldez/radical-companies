@@ -12,7 +12,7 @@ image:    "icon-better-tasting-poison.svg"
 
 <h1>&nbsp;</h1>
  <p>Free lunches and massages at your chair are ineffective tweaks trying to make the <span class='_paradigm'>Fiat</span> system more palatable. They make the current business paradigm more palatable for a little bit.</p>
- <p>The article<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; that it &ldquo;has shown itself to be resilient.&rdquo; On the way, it also illustrate that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs while the <span class="_paradigm">Fiat</span> system continues unabated,</p>
+ <p>The article<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a> really is a shill post on how Apple&rsquo;s &ldquo;core business&rdquo; that it &ldquo;has shown itself to be resilient.&rdquo; On the way, it also illustrates that free lunches and other frills are business hostile. They are the equivalent of twiddling your thumbs while the <span class="_paradigm">Fiat</span> system continues unabated,</p>
   <ul>
    <li>Competition</li>
    <li>Dominance</li>
