@@ -2,7 +2,7 @@
 layout:   post
 title:    "FIAT"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez"
+authors:  "Mateo Perez"
 image:    "icon-template.svg"
 ---
 
