@@ -305,3 +305,7 @@ The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, al
 </p>
    </td>
   </tr>
+
+
+
+{% include related.html %}

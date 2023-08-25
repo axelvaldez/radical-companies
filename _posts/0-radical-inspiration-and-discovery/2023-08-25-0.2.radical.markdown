@@ -117,3 +117,7 @@ Nobody knows how to live my life better than myself. Nobody, besides me, knows w
 
    </td>
   </tr>
+
+
+
+{% include related.html %}
