@@ -1,0 +1,119 @@
+---
+layout:   post
+title:    "TEMPLATE"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-template.svg"
+---
+
+<div style='display:none;'>
+ <p></p>
+</div>
+
+<h2>RADICAL</h2>
+
+
+<h1>Pain vs Wellbeing</h1>
+
+
+
+<table>
+  <tr>
+   <td>
+<p style="text-align: right">
+<strong>Fiat</strong></p>
+
+   </td>
+   <td>The Fiat model is based on Pain and people have gotten used to avoiding pain and surviving.
+<p>
+In the Fiat system, a Threat is usually enough,
+<p>
+
+
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
+
+   </td>
+  </tr>
+  <tr>
+   <td>
+<p style="text-align: right">
+<strong>Radical</strong></p>
+
+   </td>
+   <td>The Radical foundation is all about wellbeing for you and your community to live your lives.
+<p>
+
+
+<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+
+
+<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
+ 
+   </td>
+  </tr>
+</table>
+
+
+<h1>Transcendence</h1>
+
+
+<p>
+How do you go from Fiat to Radical?
+</p>
+  <tr>
+   <td><strong>Who Am I If Not a Manager?</strong>
+</p>
+   </td>
+   <td>
+
+
+
+<pre class="prettyprint">When we talk to people about going Radical at their company, many perceive an existential threat to managers. "If you are getting rid of my job type, then you are getting rid of me."
+Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going Radical because they are currently boxed up by the Fiat hierarchy.
+— Adrian Perez</pre>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>Hpw Fiat Developed (according to me)</strong></p>
+
+</p>
+   </td>
+   <td>By the time Thomas Hobbes writes Leviathan the idea that people were a warring species was already completely normalized. Hobbes argued that humanity’s natural state was a “war of all against all.”
+</p>
+
+
+
+<pre class="prettyprint">If there is hierarchy, … access to resources will grow with hierarchical power.
+—	Blair Fix,
+An Evolutionary Theory of
+Resource Distribution</pre>
+
+
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong>Surviving Is Not Living</strong></p>
+
+</p>
+   </td>
+   <td>
+
+
+
+<pre class="prettyprint">First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of life. It was a blind jump, but I discovered the light in my life.
+I am not split between my &ldquo;personal&rdquo; live and my "work" life. I am one and the same no matter what I am doing.
+I was surviving, not living. But now I can recognize the fears that held me in survival mode. I can go around them, lovingly, and go on with my life, guiding me, not my fears.
+I am still afraid, but I am living my life. The more I do it, the easier it gets. I am not afraid of dying, so I am not afraid of living.
+Nobody knows how to live my life better than myself. Nobody, besides me, knows what's best for me.
+— Chabeli Atahuaman</pre>
+
+
+   </td>
+  </tr>
