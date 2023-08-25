@@ -1,328 +1,158 @@
 ---
 layout:   post
-title:    "FAT"
+title:    "FIAT"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"
 ---
 
 <div style='display:none;'>
- <p></p>
+ <p>Intro to the <span classs='_paradigm'>Fiat System</span> and to the <span classs='_paradigm'>Radical Foundation.</span.</p>
 </div>
 
-<p>
-You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.
-</p>
-<p>
-In the world of Radical it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.
-</p>
-<p>
-Together, we will challenge the status quo and propel humanity towards new horizons. We embrace calculated risks, harnessing the power of playfulness and innovation to paths untraveled. We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.
-</p>
-<p>
-Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.
-</p>
-<p>
-Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.
-</p>
-<h1>What the Fiat System Does</h1>
-
-
-<p>
-If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence, acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call Fiat. The Fiat system is designed to create more wealth for the owners and investors of the business you work for.
-</p>
-<p>
-The thing is that we created it, and we can create an alternative system, an alternative way of living.
-</p>
-<p>
-“Fixing” the Fiat system would be never-ending because the system is too easy to game, particularly by powerful people. The Fiat system adapts to fixes very fast.
-</p>
-<p>
-Beware that alternatives to Fiat are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.
-</p>
-
-
-
-<pre class="prettyprint">Creativity takes courage
-— Henri Matisse</pre>
-
-
-<p>
-If you are not open to this and are just being polite (“<em>Sounds interesting… tell me more about it</em>”), you can return the book now. Sorry for any inconvenience.
-</p>
-<h1>What Does Fiat Even Mean?</h1>
-
-
-<p>
-You may not even know what the heck Fiat means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days’ worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.
-</p>
-<p>
-Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not “our destiny,” it is not living. It is the Fiat system that we live in.
-</p>
-<p>
-We want to help you see Fiat and how it is causing you the way you feel.
-</p>
-<h1>Fiat, the Word</h1>
-
-
-<p>
-“<em>But Fiat it’s a car.</em>” And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.
-</p>
-<p>
-But what does <em>the word</em> Fiat mean?
-</p>
-<p>
-Fiat is an honest-to-goodness word that means because I say so. Fiat money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy)..
-</p>
-<p>
-In the context of giving orders, the phrase additionally carries an implied threat: or else. "<em>Move those boxes from there to over there…  because I say so… or else).</em>”
-</p>
 <h1>The Fiat System</h1>
+ <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
+ <p>In the world of Radical it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
+ <p>Together, we will challenge the status quo and propel humanity towards new horizons. We embrace calculated risks, harnessing the power of playfulness and innovation to paths untraveled. We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
+ <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.</p>
+ <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
+<h1>What the Fiat System Does</h1>
+ <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence, acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call Fiat. The Fiat system is designed to create more wealth for the owners and investors of the business you work for.</p>
+ <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
+ <p>&ldquo;Fixing&rdquo; the Fiat system would be never-ending because the system is too easy to game, particularly by powerful people. The Fiat system adapts to fixes very fast.</p>
+ <p>Beware that alternatives to Fiat are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
+ <div class='_center'>
+  <div class='_citation'>
+   <p>Creativity takes courage</p>
+   <p id='_signature'>Henri Matisse</p>
+  </div>
+ </div>
+ <p>If you are not open to this and are just being polite (&ldquo;<em>Sounds interesting&hellip; tell me more about it</em>&rdquo;), you can return the book now. Sorry for any inconvenience.</p>
 
-<p>
-We live in a Fiat environment, or more accurately, a Fiat system. Some people do not like the word system associated with their lives, and that is understandable. “<em>My life is not limited by any system, I shape it however I want to</em>.” Maybe “ecology” is more your thing, but an ecology is a system, too.
-</p>
-<p>
-We created the Fiat system and we uphold it. You have a boss, within the Fiat system. And within the Fiat system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the Fiat system that we created, we live in, and we uphold.
-</p>
-<p>
-Worse, the Fiat system is based on,
-</p>
-<ul>
+<h1>What Does Fiat Even Mean?</h1>
+ <p>You may not even know what the heck Fiat means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
+ <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny,&rdquo; it is not living. It is the Fiat system that we live in.</p>
+ <p>We want to help you see Fiat and how it is causing you the way you feel.</p>
 
-<li>Competition, not collaboration.
+<h1>Fiat, the Word</h1>
+ <p><span class='_quotespan'>But Fiat it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
+ <p>But what does <em>the word</em> Fiat mean?</p>
+ <p>Fiat is an honest-to-goodness word that means because I say so. Fiat money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy)..</p>
+ <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. "<em>Move those boxes from there to over there&hellip;  because I say so&hellip; or else).</em>&rdquo;</p>
 
-<li>Dividing people, not bringing us together
+<h1>The Fiat System</h1>
+ <p>We live in a Fiat environment, or more accurately, a Fiat system. Some people do not like the word system associated with their lives, and that is understandable. &ldquo;<em>My life is not limited by any system, I shape it however I want to</em>.&rdquo; Maybe &ldquo;ecology&rdquo; is more your thing, but an ecology is a system, too.</p>
+ <p>We created the Fiat system and we uphold it. You have a boss, within the Fiat system. And within the Fiat system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the Fiat system that we created, we live in, and we uphold.</p>
+ <p>Worse, the Fiat system is based on,</p>
+  <ul>
+   <li>Competition, not collaboration.</li>
+   <li>Dividing people, not bringing us together.</li>
+   <li>Threats, fear, force, and pain. Not wellbeing.</li>
+  </ul>
+ <p>Luckily, there are <em>alternatives</em> to the Fiat system.</p>
 
-<li>Threats, fear, force, and pain. Not wellbeing.
-</li>
-</ul>
-<p>
-Luckily, there are <em>alternatives</em> to the Fiat system.
-</p>
 <h1>It Starts with Rules</h1>
+ <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Anybody with an addiction or a tick were at the edge as well.</p>
+ <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (did you hit him back harder?) and learn new ones (keep your hands to yourself).</p>
+ <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. &ldquo;<em>That will be on the test!</em>&rdquo;</p>
+ <p>Also, in primary school is when we start to put on the Fiat glasses.</p>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
+    width='70%'
+    alt=''>
+  </div>
+ <p>If we happen to live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simply fiddling with them and learning to make them more comfortable. No matter, we make sure that the Fiat lenses are never, ever off. We want to stay away from the people who don't know how to wear their glasses correctly.</p>
+ <p>Finally, we go to work, with our Fiat glasses firmly on. We ask what the rules are and how to be a good worker. We are happy to be a resource and happier that we are getting a steady wage (until—surprise—we are not).</p>
+ <p>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. We do our best for these people, but they just don&rsquo;t want to learn the rules. They want to live on the edge.</p>
 
+<h1>The Fiat System Is&hellip;</h1>
+ <p>That is what Fiat system is,</p>
+  <ul>
+   <li>Learning the rules,</li>
+   <li>Following the rules,</li>
+   <li>Enforcing the rules.</li>
+  </ul>
+ <p>Think of what happens when you get caught not following the rules. Think of how many decisions you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, I am pretty sure that Bob is not going to like it! You can&rsquo;t make a decision without considering Bob, your boss.</p>
+ <p>You may be thinking, &ldquo;<em>How else would the system work? Things would not work without Bob.</em>&rdquo; That&rsquo;s part of what we learn as we grow up in the Fiat system. It is Bob or chaos. You do what you do because of Bob, your boss. And it is absolutely bad logic encouraged by the Fiat system.</p>
 
-<p>
-As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don’t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the “edge” included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Anybody with an addiction or a tick were at the edge as well.
-</p>
-<p>
-Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (did you hit him back harder?) and learn new ones (keep your hands to yourself).
-</p>
-<p>
-Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. “<em>That will be on the test!</em>”
-</p>
-<p>
-Also, in primary school is when we start to put on the Fiat glasses.
-</p>
-<p>
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-</p>
-<p>
-If we happen to live in an “advanced” country, we go to secondary school. By then the glasses are on all the time, we are simply fiddling with them and learning to make them more comfortable. No matter, we make sure that the Fiat lenses are never, ever off. We want to stay away from the people who don't know how to wear their glasses correctly.
-</p>
-<p>
-Finally, we go to work, with our Fiat glasses firmly on. We ask what the rules are and how to be a good worker. We are happy to be a resource and happier that we are getting a steady wage (until—surprise—we are not).
-</p>
-<p>
-We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. We do our best for these people, but they just don’t want to learn the rules. They want to live on the edge.
-</p>
-<h1>The Fiat System Is…</h1>
-
-
-<p>
-That is what Fiat system is,
-</p>
-<ul>
-
-<li>Learning the rules,
-
-<li>Following the rules,
-
-<li>Enforcing the rules.
-</li>
-</ul>
-<p>
-Think of what happens when you get caught not following the rules. Think of how many decisions you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, I am pretty sure that Bob is not going to like it! You can’t make a decision without considering Bob, your boss.
-</p>
-<p>
-You may be thinking, “<em>How else would the system work? Things would not work without Bob.</em>” That’s part of what we learn as we grow up in the Fiat system. It is Bob or chaos. You do what you do because of Bob, your boss. And it is absolutely bad logic encouraged by the Fiat system.
-</p>
 <h1>Rules, Laws, and Force</h1>
+ <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless Fiat laws that leave us no choice but to comply. Fiat is a relentless force, bearing down on us with an iron grip.</p>
+ <p>Picture this,</p>
+  <ul>
+   <li>You get a traffic ticket. A very minor form of force.
+   <li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.
+   <li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).
+   <li>Either you win or you lose,</li>
+    <ul>
+     <li>Victory brings celebration, the force is with you.</li>
+     <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
+    </ul>
+   <li>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
+   <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a force majeure.</li>
+  </ul>
+ <p>Force is ever present in our Fiat system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
+ <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force, from threats to actual pain.</p>
+ <p>Motivation is another form of force. Do this and you&rsquo;ll get the reward. We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
+ <p>In the Fiat-base alternative to the Fiat system there is no do-it-or-else force. The Fiat myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
+ <p>But I ask you to consider this: humanity evolved and has survived and thrived as a species for a long time. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.</p>
+ <p>Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the Fiat system took shape around us.</p>
+ <p>Alongside, there came the stories that supported the Fiat system as it evolved,</p>
+  <ul>
+   <li>An all powerful supernatural being at the top</li>
+   <li>Paradise</li>
+   <li>Eve as the bad apple</li>
+   <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
+   <li>&ldquo;<em>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</em>&rdquo;<a href="#bookmark=id.ysooerb3kmpx">∇</a></li>
+  </ul>
+ <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
+  <ul>
+   <li>A god, an omnipotent being at the top</li>
+   <li>A boss, an omnipotent being at the top.</li>
+  </ul>
+ <p>And that we get paid what the boss says is reasonable.</p>
+ <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars that were made to carry whatever the winners didn&rsquo;t want to carry, including the winners dead. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
+ <p>Fiat tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the Fiat system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.</p>
+ <p>Anybody talking about alternatives (you and I) must be crazy. Ignore them.</p>
+ <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
-
-<p>
-Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless Fiat laws that leave us no choice but to comply. Fiat is a relentless force, bearing down on us with an iron grip.
-</p>
-<p>
-Picture this,
-</p>
-<ul>
-
-<li>You get a traffic ticket. A very minor form of force.
-
-<li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don’t.
-
-<li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).
-
-<li>Either you win or you lose, 
-<ul>
- 
-<li>Victory brings celebration, the force is with you.
- 
-<li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.
-</li> 
-</ul>
-
-<li>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.
-
-<li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a force majeure.
-</li>
-</ul>
-<p>
-Force is ever present in our Fiat system. It goes from merely a frown to the ghastly specter of the electric chair.
-</p>
-<p>
-Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force, from threats to actual pain.
-</p>
-<p>
-Motivation is another form of force. Do this and you’ll get the reward. We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being “motivated” to do what somebody else wants, regardless of what you may want to do. That is force.
-</p>
-<p>
-In the Fiat-base alternative to the Fiat system there is no do-it-or-else force. The Fiat myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.
-</p>
-<p>
-But I ask you to consider this: humanity evolved and has survived and thrived as a species for a long time. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.
-</p>
-<p>
-Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the Fiat system took shape around us.
-</p>
-<p>
-Alongside, there came the stories that supported the Fiat system as it evolved,
-</p>
-<ul>
-
-<li>An all powerful supernatural being at the top
-
-<li>Paradise
-
-<li>Eve as the bad apple
-
-<li>Homosexuality and shellfish as abominations, pushed to the edge.
-
-<li>“<em>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</em>”<a href="#bookmark=id.ysooerb3kmpx">∇</a>
-</li>
-</ul>
-<p>
-Most insidious of all, we learn to expect that the fruit of our work should go to someone else,
-</p>
-<ul>
-
-<li>A god, an omnipotent being at the top
-
-<li>A boss, an omnipotent being at the top.
-</li>
-</ul>
-<p>
-And that we get paid what the boss says is reasonable.
-</p>
-<p>
-It didn’t start this way, but it evolved. First came prisoners of minor wars that were made to carry whatever the winners didn’t want to carry, including the winners dead. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.
-</p>
-<p>
-Fiat tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, “being a good worker” is a sign of pride today within the Fiat system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.
-</p>
-<p>
-Anybody talking about alternatives (you and I) must be crazy. Ignore them.
-</p>
-<p>
-Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.
-</p>
 <h1>Countries and Other Divisions</h1>
-
-
-<h2>Fiat</h2>
-
-
-<p>
-Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.
-</p>
-<p>
-For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.
-</p>
-<p>
-By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,
-</p>
-  <tr>
-   <td>
-<h3>
-<p style="text-align: right">
-Divide and Conquer</p>
-</h3>
-
-
-   </td>
-   <td>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man’s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive English (<em>i.e.</em>, Pedro’s) to indicate that it “belongs to” to the men. Men were the kings of their castle and women were reduced to chattel. Sounds comical, but there is an intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.
-</p>
-<p>
-It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. Eve was the instigator of sin, and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.
-</p>
-
-
-
-<pre class="prettyprint">The tyrant grinds down his slaves and they don't turn against him, they crush those beneath them.
-— Emily Brontë</pre>
-
-
-<p>
-As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.
-</p>
-<p>
-We are still struggling with that attitude today, thousands of years later. We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us. We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as powerful people cling to the past.
-</p>
-   </td>
-  </tr>
-  <tr>
-   <td>
-<h3>
-<p style="text-align: right">
-Lording</p>
-</h3>
-
-
-   </td>
-   <td>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.
-</p>
-<p>
-The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, all powerful, at the top. You would not dare to even think of yourself as equal to such power, you can only submit to God.
-</p>
-   </td>
-  </tr>
-
+ <h2>Fiat</h2>
+  <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
+  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
+  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>Divide and Conquer</th>
+      <td>
+       <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive English (<em>i.e.</em>, Pedro&rsquo;s) to indicate that it &ldquo;belongs to&rdquo; to the men. Men were the kings of their castle and women were reduced to chattel. Sounds comical, but there is an intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
+       <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. Eve was the instigator of sin, and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
+        <div class='_center'>
+         <div class='_citation'>
+          <p>The tyrant grinds down his slaves and they don't turn against him, they crush those beneath them.</p>
+          <p id='_signature'>Emily Bront&euml;</p>
+         </div>
+        </div>
+       <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
+       <p>We are still struggling with that attitude today, thousands of years later. We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us. We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as powerful people cling to the past.</p>
+      </td>
+     </tr>
+     <tr>
+      <th>Lording</th>
+      <td>
+       <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
+       <p>The Jewish tradition, Christianity, and Islam have an eternal, almighty boss, all powerful, at the top. You would not dare to even think of yourself as equal to such power, you can only submit to God.</p>
+      </td>
+     </tr>
 
 <h2>Radical</h2>
-
-
-<p>
-  This is probably the most shocking thing about Radical alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain’t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.
-</p>
-<p>
-Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.
-</p>
-
-<table>
+ <p>This is probably the most shocking thing about Radical alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
+ <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
+  <table>
   <tr>
-   <td><p style="text-align: right">
-<strong>The Calculations</strong></p>
-
-   </td>
+   <th>The Calculations</th>
    <td>RADs make contributions tangible.
 <p>
 You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,
@@ -333,264 +163,156 @@ The mobile app does all the calculations.
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>But…</strong></p>
-
-   </td>
-   <td>At this point you may be coming up with objections, “<em>Yeah, but it can be easily gamed: </em>“<em>I</em>’<em>ll give you all my RADs and you give me all of yours</em>.” And yes, it could, but only if the other co-owners do not say anything about. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.
-<p>
-Another objection might be that people won’t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won’t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won’t go perfect or smoothly. There will be plenty of bumps along the way. The “fix,” in my opinion, is not to elect a boss to tell us what to do; the “fix” is to deal with what you consider a problem—you are all co-owners.
-<p>
-An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community or society. “Homo economicus” is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.
+   <th>But&hellip;</p>
+   <td>
+    <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs and you give me all of yours</span> And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.<p>
+    <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &ldquo;fix,&rdquo; in my opinion, is not to elect a boss to tell us what to do; the &ldquo;fix&rdquo; is to deal with what you consider a problem—you are all co-owners.</p>
+    <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community or society. &ldquo;Homo economicus&rdquo; is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.</p>
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>Capital</strong></p>
-
-   </td>
-   <td>Capital does have a place in a non-Fiat company, but it doesn’t acquire power. A Radical Investment is more like an investment in that it carries the risk of non-payment and it is a loan in that the return is negotiated.
-<p>
-Usually that capital goes to pay for,
-<ul>
-
-<li>Things needed by the company
-
-<li>To fund a Predictable Recurring Income (PRI) fund.
-</li>
-</ul>
+   <th>Capital</th>
+   <td>
+    <p>Capital does have a place in a non-Fiat company, but it doesn&rsquo;t acquire power. A Radical Investment is more like an investment in that it carries the risk of non-payment and it is a loan in that the return is negotiated.</p>
+    <p>Usually that capital goes to pay for,</p>
+     <ul>
+      <li>Things needed by the company.</li>
+      <li>To fund a Predictable Recurring Income (PRI) fund.</li>
+     </ul>
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>The PRI</strong></p>
-
-   </td>
-   <td>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.
+   <th>The PRI</strong></th>
+   <td>
+    <p>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.</p>
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>But…</strong></p>
-
-   </td>
-   <td>“<em>But what about investing in the future? Owners don’t put all the profits in their pocket, they invest it!</em>”
-<p>
-Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a Banner to accumulate that amount. They could decide to commit enough into the Banner to build up to $5M in three years. That amount is not to be included in the dividends.
+   <th>But&hellip;</th>
+   <td>
+    <span class='_quotespan'>But what about investing in the future? Owners don&rsquo;t put all the profits in their pocket, they invest it!</span>
+    <p>Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a Banner to accumulate that amount. They could decide to commit enough into the Banner to build up to $5M in three years. That amount is not to be included in the dividends.</p>
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>Banners</strong></p>
-
-   </td>
-   <td>Banners represent non-people things like projects and investments. With the RADs! mobile app you can, at minimum, create a Banner, change your contribution to it, see who is contributing, and the beneficiaries.
-<p>
-For the case where all co-owners agree, the Banner could look like this,
-
-<table>
-  <tr>
-   <td><strong>Banner:</strong>
-   </td>
-   <td><strong>Contributions:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Goal: $1M
-<p>
-Time: 3 years
-<p>
-Reason: To buy and furnish a building
-<p>
-Beneficiaries: Building Fund
-   </td>
-   <td>All: $100.00
-   </td>
-  </tr>
-</table>
-
-
-Alternatively, all co-owners may not agree to commit any particular amount. In that case, the Banner would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.
-
-
-<table>
-  <tr>
-   <td><strong>Banner:</strong>
-   </td>
-   <td><strong>Contributions:</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><em>Goal</em>: $1M
-<p>
-<em>Time</em>: 3 years
-<p>
-<em>Reason</em>: To buy and furnish a building
-<p>
-<em>Beneficiaries</em>: Building Fund
-   </td>
-   <td>Mary O: $100.00
-<p>
-Anita P: 0.25% de $1M
-<p>
-Salim Q: 5.% of RADs yield
-<p>
-…
-   </td>
-  </tr>
-</table>
-
-
-   </td>
-  </tr>
-</table>
-
+   <th>Banners</th>
+   <td>
+    <p>Banners represent non-people things like projects and investments. With the RADs! mobile app you can, at minimum, create a Banner, change your contribution to it, see who is contributing, and the beneficiaries.</p>
+    <p>For the case where all co-owners agree, the Banner could look like this,</p>
+     <table>
+      <tr>
+       <th style='background-color:yellow; width:50%;  '>Banner:</th>
+       <th style='background-color:#22FFFF; width:50%;  '>Contributions:</th>
+      </tr>
+      <tr>
+       <td style='background-color:yellow; width:50%;  '>
+        Goal: $1M<br>
+        Time: 3 years<br>
+        Reason: To buy and furnish a building<br>
+        Beneficiaries: Building Fund
+       </td>
+       <td style='background-color:#22FFFF; width:50%;  '>All: $100.00</td>
+      </tr>
+     </table>
+    <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the Banner would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
+     <table>
+      <tr>
+       <th style='background-color:yellow; width:50%; '>Banner:</th>
+       <th style='background-color:#22FFFF; width:50%; '>Contributions:</th>
+      </tr>
+      <tr>
+       <td style='background-color:yellow; width:50%;  '>
+        Goal: $1M<br>
+        Time: 3 years<br>
+        Reason: To buy and furnish a building<br>
+        Beneficiaries</em>: Building Fund
+       </td>
+       <td style='background-color:#22FFFF; width:50%;  '>
+        Mary O: $100.00<br>
+        Anita P: 0.25% de $1M<br>
+        Salim Q: 5.% of RADs yield<br>
+       </td>
+      </tr>
+     </table>
 
 <h1>Fiat and Radical</h1>
-
-
-
-<table>
-  <tr>
-   <td>
-<p style="text-align: right">
-<strong>Fiat</strong></p>
-
-   </td>
-   <td>I have already said a lot about Fiat. One thing I mentioned in passing is that Fiat evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to “obey your earthly masters.” However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).
-<p>
-The thing that has remained constant in the Fiat system is Force.
-<p>
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can’t, either, because it doesn’t exist.
-   </td>
-  </tr>
-  <tr>
-   <td>
-<p style="text-align: right">
-<strong>Radical</strong></p>
-
-   </td>
-   <td>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system, not an evolved system (<em>i.e.</em>, in yellow, below). Radical does not have embedded rules and it is not dogmatic in any way,
-<p>
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-<p>
- When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and point to the first obvious thing. We never get beyond this point and we end up never discovering what’s really at the root of the problem. The Radical Foundation helps us remain clear,
-<ul>
-
-<li>Will this decision make us more or less decentralized? Either choice is up to you and your community, but the Foundation helps you know which direction the decision is taking you.
-
-<li>Will this decision make it easier to help people find meaning in what they are doing or not? Again, either choice is up to you and your community, but the Foundation helps you know where you are headed.
-
-<p>
-You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, “<em>Oh, I didn’t know!</em>”
-<p>
-Radical doesn’t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners  and none of you have the right to Force to others.
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
+ <p>The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
+ <div class='_center'>
+ <table class='_h2table'>
+   <tr>
+    <th>Fiat</th>
+    <td>
+     <p>I have already said a lot about Fiat. One thing I mentioned in passing is that Fiat evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
+     <p>The thing that has remained constant in the Fiat system is Force.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Radical</th>
+    <td>
+     <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system, not an evolved system (<em>i.e.</em>, in yellow, below). Radical does not have embedded rules and it is not dogmatic in any way,</p>
+      <div class='_center'>
+      <img
+       src='/assets/img/pic-the-radical-model-coming-together.svg'
+       width='70%'
+       alt=''>
+     </div>
+     <p> When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and point to the first obvious thing. We never get beyond this point and we end up never discovering what&rsquo;s really at the root of the problem. The Radical Foundation helps us remain clear,</p>
+      <ul>
+       <li>Will this decision make us more or less decentralized? Either choice is up to you and your community, but the Foundation helps you know which direction the decision is taking you.</li>
+       <li>Will this decision make it easier to help people find meaning in what they are doing or not? Again, either choice is up to you and your community, but the Foundation helps you know where you are headed.</li>
+       <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, &ldquo;<em>Oh, I didn&rsquo;t know!</em>&rdquo;</p>
+       <p>Radical doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners  and none of you have the right to Force to others.</p>
+      </ul>
+    </td>
+   </tr>
+  </table>
 
 <h1>Competition and Collaboration</h1>
-
-
-
-<table>
+ <div class='_center'>
+ <table class='_h2table'>
   <tr>
+   <th>Fiat</strong></th>
    <td>
-<p style="text-align: right">
-<strong>Fiat</strong></p>
-
-   </td>
-   <td>Competition is another constant feature of the Fiat model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the Fiat system. There are even debate clubs where we can practice our competitive skills.
-<p>
-And, “so?” you ask, “<em>what is wrong with that? We need to compete to survive</em>.” But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.
-<p>
-Democracy-by-voting probably was the best system in the 18th century, but here we are, 300 hundred years later in the 21<sup>st</sup> century. Things have changed and we can do better now.
+    <p>Competition is another constant feature of the Fiat model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the Fiat system. There are even debate clubs where we can practice our competitive skills.</p>
+    <p>And, &ldquo;so?&rdquo; you ask, &ldquo;<em>what is wrong with that? We need to compete to survive</em>.&rdquo; But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
+    <p>Democracy-by-voting probably was the best system in the 18th century, but here we are, 300 hundred years later in the 21<sup>st</sup> century. Things have changed and we can do better now.</p>
    </td>
   </tr>
   <tr>
+   <th>Radical</th>
    <td>
-<p style="text-align: right">
-<strong>Radical</strong></p>
-
-   </td>
-   <td>
-    Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can’t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.
-<p>
-
-    We don’t need to compete to survive. We need to compete to survive within the Fiat system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.
+    <p>Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
+    <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the Fiat system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
    </td>
   </tr>
-</table>
-
+ </table>
 
 <h1>Scarcity and Abundance</h1>
-
-
-
-<table>
+ <div class='_center'>
+ <table class='_h2table'>
   <tr>
+   <th>Fiat</th>
    <td>
-<p style="text-align: right">
-<strong>Fiat</strong></p>
-
-   </td>
-   <td>
-    Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that’s how the story goes.
-<p>
-
-    Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.
-<p>
-
-    Abundance for a few, scarcity for everybody else.
-<p>
-
-    Abundance brings out the forces to enclose, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.
-<p>
-
-    Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.
+    <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that&rsquo;s how the story goes.</p>
+    <p>Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</p>
+    <p>Abundance for a few, scarcity for everybody else.</p>
+    <p>Abundance brings out the forces to enclose, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.</p>
+    <p>Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
    </td>
   </tr>
   <tr>
+   <th>Radical</th>
    <td>
-<p style="text-align: right">
-<strong>Radical</strong></p>
-
-   </td>
-   <td>
-    Enclosures do come out of Force and Force is a no-no in Radical-based alternatives.
-<p>
-
-    We can’t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.
-<p>
-
-    We must lead the way to such a future. It won’t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-Fiat that we are.But we need to make it happen.
+    <p>Enclosures do come out of Force and Force is a no-no in Radical-based alternatives.</p>
+    <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
+    <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-Fiat that we are.But we need to make it happen.</p>
    </td>
   </tr>
-</table>
-
+ </table>
 
 <h1>rTools</h1>
-
-
-
-<table>
+ <div class='_center'>
+ <table class='_h2table'>
   <tr>
    <td>
 <p style="text-align: right">
@@ -598,7 +320,7 @@ Democracy-by-voting probably was the best system in the 18th century, but here w
 
    </td>
    <td>
-    The only consistent “tool” in the Fiat model is Force.
+    The only consistent &ldquo;tool&rdquo; in the Fiat model is Force.
    </td>
   </tr>
   <tr>
@@ -615,15 +337,9 @@ Democracy-by-voting probably was the best system in the 18th century, but here w
 
 
 <h1>Explicit Relationships</h1>
-
-
-
 <table>
   <tr>
-   <td><p style="text-align: right">
-<strong>The world as experienced by you</strong></p>
-
-   </td>
+   <t>The world as experienced by you</th>
    <td>
 <ul>
 
@@ -653,10 +369,7 @@ Democracy-by-voting probably was the best system in the 18th century, but here w
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>Vulnerability</strong></p>
-
-   </td>
+   <t>Vulnerability</th>
    <td>
 <ul>
 
@@ -664,7 +377,7 @@ Democracy-by-voting probably was the best system in the 18th century, but here w
 
 <li>Do you speak up? How?
 
-<li>Do you need to be given permission to speak? “<em>You didn’t ask me!?</em>”
+<li>Do you need to be given permission to speak? &ldquo;<em>You didn&rsquo;t ask me!?</em>&rdquo;
 
 <li>Anything else?
 </li>
@@ -672,10 +385,7 @@ Democracy-by-voting probably was the best system in the 18th century, but here w
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>Collaboration</strong></p>
-
-   </td>
+   <t>Collaboration</th>
    <td>
 <ul>
 
@@ -699,16 +409,12 @@ Democracy-by-voting probably was the best system in the 18th century, but here w
 </table>
 
 
-<p>
-For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.
-</p>
+<p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
+
 <h1>Explicit Alignment</h1>
-
-
-
 <table>
   <tr>
-   <td colspan="2" >This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn’t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.
+   <td colspan="2" >This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.
    </td>
   </tr>
   <tr>
@@ -718,11 +424,8 @@ For subsequent co-owner candidates, any co-owner can go through the Explicit Rel
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>What for?</strong></p>
-
-   </td>
-   <td>This is the Impact that the community wants to make. It could be “<em>To reduce poverty</em>” or “<em>Happy children</em>.” It doesn’t have to be world shattering, but it has to be explicit.
+   <t>What for?</th>
+   <td>This is the Impact that the community wants to make. It could be &ldquo;<em>To reduce poverty</em>&rdquo; or &ldquo;<em>Happy children</em>.&rdquo; It doesn&rsquo;t have to be world shattering, but it has to be explicit.
    </td>
   </tr>
   <tr>
@@ -736,7 +439,7 @@ For subsequent co-owner candidates, any co-owner can go through the Explicit Rel
 <strong>Why</strong>?</p>
 
    </td>
-   <td>This is the reason the community is doing this. It could be anything as long as it starts with something like “<em>because…</em>”
+   <td>This is the reason the community is doing this. It could be anything as long as it starts with something like &ldquo;<em>because&hellip;</em>&rdquo;
    </td>
   </tr>
   <tr>
@@ -765,22 +468,17 @@ For subsequent co-owner candidates, any co-owner can go through the Explicit Rel
 
 
 <h1>Explicit Profile</h1>
-
-
-
 <table>
   <tr>
    <td colspan="2" >Your explicit profile is something that you maintain to let others know about you, what gives you joy, what bothers you, etc. There are no right or wrong answers. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel.
 <p>
-Our Fiat training goes against being vulnerable, “<em>because people can use it against you</em>.” But others can’t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.
+Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.
    </td>
   </tr>
 </table>
 
 
-<p>
-The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.
-</p>
+<p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
 
 <table>
   <tr>
@@ -790,9 +488,7 @@ The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App
 </table>
 
 
-<p>
-The other rTool, and to me the most fundamental one, is the RADs! Mobile App.
-</p>
+<p>The other rTool, and to me the most fundamental one, is the RADs! Mobile App.</p>
 
 
 
@@ -802,9 +498,6 @@ On the other hand, if they think they are going in the right direction, then the
 
 
 <h1>RADs</h1>
-
-
-
 <table>
   <tr>
    <td>
@@ -812,7 +505,7 @@ On the other hand, if they think they are going in the right direction, then the
 <strong>Fiat</strong></p>
 
    </td>
-   <td>In a Fiat business, things are static. “<em>You give me so much cash, and I’ll give you a percentage of the company</em>.” That percentage of the business remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.
+   <td>In a Fiat business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.
    </td>
   </tr>
   <tr>
@@ -821,14 +514,11 @@ On the other hand, if they think they are going in the right direction, then the
 <strong>Radical</strong></p>
 
    </td>
-   <td>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don’t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.
+   <td>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.
 
 <table>
   <tr>
-   <td><p style="text-align: right">
-<strong>What Are RADs?</strong></p>
-
-   </td>
+   <t>What Are RADs?</th>
    <td>RADs are like tokens. Not crypto tokens or anything like themy. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in Radical companies it goes to people who create the wealth, people like you, the co-owners.
 <p>
 The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.
@@ -854,21 +544,15 @@ The reason I think that the RADs! Mobile App is fundamental is because it is lik
 
 <table>
   <tr>
-   <td><p style="text-align: right">
-<strong>People need to learn how to be owners</strong></p>
-
-   </td>
-   <td>In the Fiat world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner… well, we don’t talk about that. “<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>” And if the business fails to make you “<em>a bare living</em>,” that mark’s on you forever. “<em>Get a good job instead. I hear the Post Office is hiring!</em>”
+   <t>People need to learn how to be owners</th>
+   <td>In the Fiat world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;
 <p>
-People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others’ contributions without being afraid of “making them look good.” People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain’t bragging if you’ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.
+People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>People need to learn to <em>notice</em> and <em>recognize</em> contributions</strong></p>
-
-   </td>
-   <td>Recognizing contributions is not as simple as it sounds. The usual “contribution” is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.
+   <t>People need to learn to <em>notice</em> and <em>recognize</em> contributions</th>
+   <td>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.
 
 
 
@@ -890,16 +574,13 @@ That was a major contribution,
 <p>
 It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.
 <p>
-If I were in the grip of my Fiat cage I might have thought, “<em>that was fantastic, but no, it doesn’t equate to the amount of code I checked in yesterday</em>.” In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.
+If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.
 </li>
 </ul>
    </td>
   </tr>
   <tr>
-   <td><p style="text-align: right">
-<strong>People need to learn to distribute pieces of the company to their peers</strong></p>
-
-   </td>
+   <t>People need to learn to distribute pieces of the company to their peers</th>
    <td>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.
 <p>
 In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.
@@ -916,9 +597,6 @@ The _RADs! Mobile App_ is deceptively simple to use, but it might just change th
 
 
 <h1>Pain vs Wellbeing</h1>
-
-
-
 <table>
   <tr>
    <td>
@@ -962,9 +640,7 @@ In the Fiat system, a Threat is usually enough,
 <h1>Transcendence</h1>
 
 
-<p>
-How do you go from Fiat to Radical?
-</p>
+<p>How do you go from Fiat to Radical?</p>
   <tr>
    <td><strong>Who Am I If Not a Manager?</strong>
 </p>
@@ -986,12 +662,12 @@ Ironically, managers can be the happiest abandoning their titles and becoming co
 
 </p>
    </td>
-   <td>By the time Thomas Hobbes writes Leviathan the idea that people were a warring species was already completely normalized. Hobbes argued that humanity’s natural state was a “war of all against all.”
+   <td>By the time Thomas Hobbes writes Leviathan the idea that people were a warring species was already completely normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;
 </p>
 
 
 
-<pre class="prettyprint">If there is hierarchy, … access to resources will grow with hierarchical power.
+<pre class="prettyprint">If there is hierarchy, &hellip; access to resources will grow with hierarchical power.
 —	Blair Fix,
 An Evolutionary Theory of
 Resource Distribution</pre>
