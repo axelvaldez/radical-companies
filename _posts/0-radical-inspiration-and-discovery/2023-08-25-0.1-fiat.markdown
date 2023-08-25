@@ -153,13 +153,11 @@ image:    "icon-template.svg"
   <table>
   <tr>
    <th>The Calculations</th>
-   <td>RADs make contributions tangible.
-<p>
-You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,
-<p>
-As you give those RADs away, you are giving other people ownership in the company. No boss needed.
-<p>
-The mobile app does all the calculations.
+   <td>
+    <p>RADs make contributions tangible.</p>
+    <p>You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</p>
+    <p>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</p>
+    <p>The mobile app does all the calculations.</p>
    </td>
   </tr>
   <tr>
@@ -182,7 +180,7 @@ The mobile app does all the calculations.
    </td>
   </tr>
   <tr>
-   <th>The PRI</strong></th>
+   <th>The PRI</th>
    <td>
     <p>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.</p>
    </td>
@@ -190,7 +188,7 @@ The mobile app does all the calculations.
   <tr>
    <th>But&hellip;</th>
    <td>
-    <span class='_quotespan'>But what about investing in the future? Owners don&rsquo;t put all the profits in their pocket, they invest it!</span>
+    <p><span class='_quotespan'>But what about investing in the future? Owners don&rsquo;t put all the profits in their pocket, they invest it!</span></p>
     <p>Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a Banner to accumulate that amount. They could decide to commit enough into the Banner to build up to $5M in three years. That amount is not to be included in the dividends.</p>
    </td>
   </tr>
@@ -312,355 +310,264 @@ The mobile app does all the calculations.
 
 <h1>rTools</h1>
  <div class='_center'>
- <table class='_h2table'>
+  <table class='_h2table'>
+   <tr>
+    <th>Fiat</strong></th>
+    <td>
+     The only consistent &ldquo;tool&rdquo; in the Fiat model is Force.
+    </td>
+   </tr>
+   <tr>
+    <th>Radical</th>
+    <td>
+     <p>These are some of the tools that have worked for us in our work with companies who are based on the Radical model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.</p>
+    </td>
+   </tr>
+  </table>
+ </div>
+
+<h1>Explicit Relationships</h1>
+ <div class='_center'>
+  <table class='_h2table'>
+   <tr>
+    <th>The world as experienced by you</th>
+    <td>
+     <ul>
+      <li>How do you show up? Who are you?</li>
+      <li>Why do you need others?</li>
+      <li>What do you feel we need to agree on?</li>
+      <li>What are your red lines?</li>
+      <li>Anything else?</li>
+      <li>What gets you angry?</li>
+      <li>What shuts you up?</li>
+      <li>What makes you excited?</li>
+      <li>What we really need to know is what does each of the above look like?</li>
+      <li>How would we know if you are angry, feel shut up, or excited?</li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <th>Vulnerability</th>
+    <td>
+     <ul>
+      <li>What are your biggest fears?</li>
+      <li>Do you speak up? How?</li>
+      <li>Do you need to be given permission to speak? &ldquo;<em>You didn&rsquo;t ask me!?</em>&rdquo;</li>
+      <li>Anything else?</li>
+     </ul>
+    </td>
+   </tr>
+   <tr>
+    <t>Collaboration</th>
+    <td>
+     <ul>
+      <li>What is meaningful to you?</li>
+      <li>What gives you joy?</li>
+      <li>How can we help you collaborate with us?</li>
+      <li>What stops you on your tracks?</li>
+      <li>How can we avoid doing that?</li>
+      <li>How do we know when you are collaborating? How do you show up?</li>
+      <li>What impact do you have to have?</li>
+     </ul>
+    </td>
+   </tr>
+  </table>
+ <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
+
+<h1>Explicit Alignment</h1>
+ <div class='_center'>
+  <table class='_h2table'>
+   <tr>
+    <td colspan="2" >This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we  are hoping to give these words a context for a community to define what it is all about.</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Impact</th>
+   </tr>
+   <tr>
+    <t>What for?</th>
+    <td>
+     <p>This is the Impact that the community wants to make. It could be &ldquo;<em>To reduce poverty</em>&rdquo; or &ldquo;<em>Happy children</em>.&rdquo; It doesn&rsquo;t have to be world shattering, but it has to be explicit.</p>
+    </td>
+   </tr>
+   <tr>
+    <td></td>
+    <td>Purpose</td>
+   </tr>
+   <tr>
+    <th>Why?</th>
+    <td>This is the reason the community is doing this. It could be anything as long as it starts with something like &ldquo;<em>because&hellip;</em>&rdquo;</td>
+   </tr>
+   <tr>
+    <td></td>
+    <th>Mission</th>
+   </tr>
+   <tr>
+    <th>
+     What?<br>
+     When?<br>
+     How?
+    </th>
+    <td>Here is where the projects are listed. There may be a single Mission or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the how so others can help you.</td>
+   </tr>
+  </table>
+ </div>
+
+<h1>Explicit Profile</h1>
+ <p>Your explicit profile is something that you maintain to let others know about you, what gives you joy, what bothers you, etc. There are no right or wrong answers. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel.</p>
+ <p>Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</p>
+ <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
+ <p></p>
+  <table>
+   <tr>
+    <td>
+     <p>BTW, the little r in rTool and other r-labels stand for &ldquo;Radical.&rdquo;</p>
+     <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the Radical model or not. If they are afraid to tell you "because I may lose my job" or anything like it, then they are not co-0wners and they are not really based on the Radical Foundation.</p>
+     <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
+    </td>
+   </tr>
+  </table>
+ <p></p>
+
+<h1>RADs</h1>
+ <div class='_center'>
+  <table class='_h2table'>
+   <tr>
+    <td></td>
+    <th>Fiat</th>
+    <td>
+     <p>In a Fiat business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Radical</strong></th>
+    <td>
+     <p>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
+    </td>
+   </tr>
+    <div class='_center'>
+     <table class='_h2table'>
+      <tr>
+       <th>What Are RADs?</th>
+       <td>
+        <p>RADs are like tokens—not crypto tokens or anything like them. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in Radical companies it goes to people who create the wealth, people like you, the co-owners.</p>
+        <p>The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
+        <div class='_center'>
+         <img
+          src='/assets/img/pic-recognitions-to-rads-equation.svg'
+          width='70%'
+          alt=''>
+        </div>
+       </td>
+      </tr>
+     </table>
+    </div>
+ <p>The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the Radical spear. By using it,</p>
+  <table>
+   <tr>
+    <th>People need to learn how to be owners</th>
+    <td>
+     <p>In the Fiat world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
+     <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>People need to learn to <em>notice</em> and <em>recognize</em> contributions</th>
+    <td>
+     <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
+      <div class='_citation'>
+       <p>R, the cleaning woman, went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
+       <p>When R came back around she started talking to the young woman. It was easy to listen in, so I did.</p>
+       <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span></p>
+      <p>Now she was looking more like her usual self.</p>
+      <p id='_signature'>Matt Perez</p>
+       </div>
+      <p>That was a major contribution,</p>
+       <ul>
+        <li>R noticed that somebody was not her usual self, and</li>
+        <li>R engaged her in conversations.</li>
+       </ul>
+      <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
+     <p>If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>People need to learn to distribute pieces of the company to their peers</th>
+     <td>
+      <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
+     <p>In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.</p>
+     </td>
+    </tr>
+   </table>
+  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
+  </td>
+ </tr>
+</table>
+
+<h1>Pain vs Wellbeing</h1>
+<table>
   <tr>
-   <th>Fiat</strong></th>
+   <th>Fiat</th>
    <td>
-    The only consistent &ldquo;tool&rdquo; in the Fiat model is Force.
+    <p>The Fiat model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
+    <p>In the Fiat system, a Threat is usually enough,</p>
+     <div class='_center'>
+      <img
+       src='/assets/img/pic-fiat-pain.svg'
+       width='70%'
+       alt=''>
+     </div>
    </td>
   </tr>
   <tr>
    <th>Radical</th>
    <td>
-    These are some of the tools that have worked for us in our work with companies who are based on the Radical model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.
+    <p>The Radical foundation is all about wellbeing for you and your community to live your lives.</p>
    </td>
   </tr>
  </table>
-
-<h1>Explicit Relationships</h1>
-<table>
-  <tr>
-   <th>The world as experienced by you</th>
-   <td>
-<ul>
-
-<li>How do you show up? Who are you?
-
-<li>Why do you need others?
-
-<li>What do you feel we need to agree on?
-
-<li>What are your red lines?
-
-<li>Anything else?
-
-<li>What gets you angry?
-
-<li>What shuts you up?
-
-<li>What makes you excited?
-
-<li>What we really need to know is what does each of the above look like?
-
-<li>How would we know if you are angry, feel shut up, or excited?
-
-<li>Anything else?
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <t>Vulnerability</th>
-   <td>
-<ul>
-
-<li>What are your biggest fears?
-
-<li>Do you speak up? How?
-
-<li>Do you need to be given permission to speak? &ldquo;<em>You didn&rsquo;t ask me!?</em>&rdquo;
-
-<li>Anything else?
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <t>Collaboration</th>
-   <td>
-<ul>
-
-<li>What is meaningful to you?
-
-<li>What gives you joy?
-
-<li>How can we help you collaborate with us?
-
-<li>What stops you on your tracks?
-
-<li>How can we avoid doing that?
-
-<li>How do we know when you are collaborating? How do you show up?
-
-<li>What impact do you have to have?
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-<p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
-
-<h1>Explicit Alignment</h1>
-<table>
-  <tr>
-   <td colspan="2" >This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we are hoping to give these words a context for a community to define what it is all about.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><strong>Impact</strong>
-   </td>
-  </tr>
-  <tr>
-   <t>What for?</th>
-   <td>This is the Impact that the community wants to make. It could be &ldquo;<em>To reduce poverty</em>&rdquo; or &ldquo;<em>Happy children</em>.&rdquo; It doesn&rsquo;t have to be world shattering, but it has to be explicit.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><strong>Purpose</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>Why</strong>?</p>
-
-   </td>
-   <td>This is the reason the community is doing this. It could be anything as long as it starts with something like &ldquo;<em>because&hellip;</em>&rdquo;
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td><strong>Mission</strong>
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>What?</strong></p>
-
-<p>
-<p style="text-align: right">
-<strong>When?</strong></p>
-
-<p>
-<p style="text-align: right">
-<strong>How?</strong></p>
-
-   </td>
-   <td>Here is where the projects are listed. There may be a single Mission or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the how so others can help you.
-   </td>
-  </tr>
-</table>
-
-
-<h1>Explicit Profile</h1>
-<table>
-  <tr>
-   <td colspan="2" >Your explicit profile is something that you maintain to let others know about you, what gives you joy, what bothers you, etc. There are no right or wrong answers. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel.
-<p>
-Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.
-   </td>
-  </tr>
-</table>
-
-
-<p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
-
-<table>
-  <tr>
-   <td colspan="2" >
-   </td>
-  </tr>
-</table>
-
-
-<p>The other rTool, and to me the most fundamental one, is the RADs! Mobile App.</p>
-
-
-
-<pre class="prettyprint">BTW, the little r in rTool and other r-labels stand for "Radical."
-This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the Radical model or not. If they are afraid to tell you "because I may lose my job" or anything like it, then they are not co-0wners and they are not really based on the Radical Foundation.
-On the other hand, if they think they are going in the right direction, then they are going in the right direction.</pre>
-
-
-<h1>RADs</h1>
-<table>
-  <tr>
-   <td>
-<p style="text-align: right">
-<strong>Fiat</strong></p>
-
-   </td>
-   <td>In a Fiat business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.
-   </td>
-  </tr>
-  <tr>
-   <td>
-<p style="text-align: right">
-<strong>Radical</strong></p>
-
-   </td>
-   <td>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.
-
-<table>
-  <tr>
-   <t>What Are RADs?</th>
-   <td>RADs are like tokens. Not crypto tokens or anything like themy. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in Radical companies it goes to people who create the wealth, people like you, the co-owners.
-<p>
-The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><p style="text-align: right">
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image3.png" width="" alt="alt_text" title="image_tooltip">
-</p>
-
-   </td>
-  </tr>
-</table>
-
-
-The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the Radical spear. By using it,
-
-
-<table>
-  <tr>
-   <t>People need to learn how to be owners</th>
-   <td>In the Fiat world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;
-<p>
-People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.
-   </td>
-  </tr>
-  <tr>
-   <t>People need to learn to <em>notice</em> and <em>recognize</em> contributions</th>
-   <td>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.
-
-
-
-<pre class="prettyprint">R, the cleaning woman, went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.
-When R came back around she started talking to the young woman. It was easy to listen in, so I did.
-It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said "Screw him. His loss.".
-Now she was looking more like her usual self.
-— Matt Perez</pre>
-
-
-<p>
-That was a major contribution,
-<ul>
-
-<li>R noticed that somebody was not her usual self, and
-
-<li>R engaged her in conversations.
-
-<p>
-It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.
-<p>
-If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <t>People need to learn to distribute pieces of the company to their peers</th>
-   <td>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.
-<p>
-In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.
-   </td>
-  </tr>
-</table>
-
-
-The _RADs! Mobile App_ is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.
-
-   </td>
-  </tr>
-</table>
-
-
-<h1>Pain vs Wellbeing</h1>
-<table>
-  <tr>
-   <td>
-<p style="text-align: right">
-<strong>Fiat</strong></p>
-
-   </td>
-   <td>The Fiat model is based on Pain and people have gotten used to avoiding pain and surviving.
-<p>
-In the Fiat system, a Threat is usually enough,
-<p>
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image4.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-<p style="text-align: right">
-<strong>Radical</strong></p>
-
-   </td>
-   <td>The Radical foundation is all about wellbeing for you and your community to live your lives.
-<p>
-
-   </td>
-  </tr>
-</table>
-
 
 <h1>Transcendence</h1>
  <p>How do you go from Fiat to Radical?</p>
   <div class='_center'>
    <table class='_h2table'>
-    <th>Who Am I If Not a Manager?</th>
-    <td>
-     <div class='_citation'>
-      <p>When we talk to people about going Radical at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
-      <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going Radical because they are currently boxed up by the Fiat hierarchy.</p>
-      <p id='_signature'>Adrian Perez</p>
-     </div>
-    </td>
-   </tr>
-   <tr>
-    <th>How Fiat Developed (according to me)</th>
-    <td>
-     <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
+    <tr>
+     <th>Who Am I If Not a Manager?</th>
+     <td>
       <div class='_citation'>
-       <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
-       <p is='_signature'>
-        Blair Fix,<br>
-        An Evolutionary Theory of<br>
-        Resource Distribution<br>
-       </p>
+       <p>When we talk to people about going Radical at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
+       <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going Radical because they are currently boxed up by the Fiat hierarchy.</p>
+       <p id='_signature'>Adrian Perez</p>
       </div>
-    </td>
-   </tr>
-   <tr>
-    <th>Surviving Is Not Living</th>
-    <td>
-     <div class='_citation'>
-      <p>First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of life. It was a blind jump, but I discovered the light in my life.</p>
-      <p>I am not split between my &ldquo;personal&rdquo; live and my "work" life. I am one and the same no matter what I am doing.</p>
-      <p>I was surviving, not living. But now I can recognize the fears that held me in survival mode. I can go around them, lovingly, and go on with my life, guiding me, not my fears. I am still afraid, but I am living my life. The more I do it, the easier it gets. I am not afraid of dying, so I am not afraid of living.</p>
-      <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what's best for me.</p>
-      <p id='_signature'>Chabeli Atahuaman</p>
-     </div>
-    </td>
-   </tr>
-  </table>
+     </td>
+    </tr>
+    <tr>
+     <th>How Fiat Developed (according to me)</th>
+     <td>
+      <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
+       <div class='_citation'>
+        <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
+        <p is='_signature'>
+         Blair Fix,<br>
+         An Evolutionary Theory of<br>
+         Resource Distribution<br>
+        </p>
+       </div>
+     </td>
+    </tr>
+    <tr>
+     <th>Surviving Is Not Living</th>
+     <td>
+      <div class='_citation'>
+       <p>First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of life. It was a blind jump, but I discovered the light in my life.</p>
+       <p>I am not split between my &ldquo;personal&rdquo; live and my "work" life. I am one and the same no matter what I am doing.</p>
+       <p>I was surviving, not living. But now I can recognize the fears that held me in survival mode. I can go around them, lovingly, and go on with my life, guiding me, not my fears. I am still afraid, but I am living my life. The more I do it, the easier it gets. I am not afraid of dying, so I am not afraid of living.</p>
+       <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what's best for me.</p>
+       <p id='_signature'>Chabeli Atahuaman</p>
+      </div>
+     </td>
+    </tr>
+   </table>
 
 {% include related.html %}
