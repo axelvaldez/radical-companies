@@ -314,32 +314,23 @@ The mobile app does all the calculations.
  <div class='_center'>
  <table class='_h2table'>
   <tr>
-   <td>
-<p style="text-align: right">
-<strong>Fiat</strong></p>
-
-   </td>
+   <th>Fiat</strong></th>
    <td>
     The only consistent &ldquo;tool&rdquo; in the Fiat model is Force.
    </td>
   </tr>
   <tr>
-   <td>
-<p style="text-align: right">
-<strong>Radical</strong></p>
-
-   </td>
+   <th>Radical</th>
    <td>
     These are some of the tools that have worked for us in our work with companies who are based on the Radical model. Some of these may go away, others will evolve, and others will come up in the future. I am presenting them here to inspire ideas, not dogma.
    </td>
   </tr>
-</table>
-
+ </table>
 
 <h1>Explicit Relationships</h1>
 <table>
   <tr>
-   <t>The world as experienced by you</th>
+   <th>The world as experienced by you</th>
    <td>
 <ul>
 
