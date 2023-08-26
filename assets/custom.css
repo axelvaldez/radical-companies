@@ -241,9 +241,6 @@ table._explicitalignment tr:nth-child(6) th {
 table._explicitalignment tr:nth-child(2) td,
 table._explicitalignment tr:nth-child(4) td,
 table._explicitalignment tr:nth-child(6) td {
-  /*
-  border-left:black dotted 1px;
-   */
   text-align:left;
 }
 
@@ -339,12 +336,6 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   margin-bottom:0;
   font-size:smaller;
 }
-/*
-span._paradigm {
-  font-weight:500;
-  background-color:#e9e9e9;
-}
- */
 ._underDev {
   font-weight:bold;
   font-family:sans-serif;
