@@ -609,7 +609,6 @@ table._ninety {
 table#_ninety tr::nth-child(-n + 3),
 table._ninety tr::nth-child(-n + 3) {
   column-span:all;
-   */
 }
 
 /*
@@ -617,6 +616,9 @@ table._ninety tr::nth-child(-n + 3) {
  */
  table._h2table {
   width:85%;
+}
+table._h2table tr th {
+  min-width:2in;
 }
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
@@ -639,7 +641,6 @@ table._h2table tr td p {
   text-align:left;
   vertical-align:text-top;
   padding-left:0.5em;
-  /**/
   padding-right:0;
   column-width:75%;
 }
