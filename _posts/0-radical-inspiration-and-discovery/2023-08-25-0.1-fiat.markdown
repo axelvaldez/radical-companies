@@ -437,7 +437,7 @@ image:    "icon-template.svg"
     </td>
    </tr>
    <tr>
-    <t>Collaboration</th>
+    <th>Collaboration</th>
     <td>
      <ul>
       <li>What is meaningful to you?</li>
