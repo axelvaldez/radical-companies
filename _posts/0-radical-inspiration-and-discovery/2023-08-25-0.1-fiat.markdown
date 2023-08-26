@@ -7,7 +7,9 @@ image:    "icon-template.svg"
 ---
 
 <div style='display:none; '>
+<!--
  <p>Intro to the <span class='_paradigm'>Fiat System</span> and to the <span class='_paradigm'>Radical Foundation.</span.</p>
+-->
 </div>
 
 <h1>The Fiat System</h1>
