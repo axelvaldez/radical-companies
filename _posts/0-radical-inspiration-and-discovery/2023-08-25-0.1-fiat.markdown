@@ -629,7 +629,7 @@ image:    "icon-template.svg"
       <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
        <div class='_citation'>
         <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
-        <p is='_signature'>
+        <p id='_signature'>
          Blair Fix,<br>
          An Evolutionary Theory of<br>
          Resource Distribution<br>
