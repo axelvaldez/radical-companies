@@ -31,7 +31,7 @@ image:    "icon-template.svg"
 <h1>What Does Fiat Even Mean?</h1>
  <p>You may not even know what the heck Fiat means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
  <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny.&rdquo; It is not even living. It is the way the Fiat system limits us.</p>
- <p>We want to help you see Fiat and how it is causing you the way you feel.</p>
+ <p>We want to help make Fiat visible, palpable, and how it is causing us the way we feel.</p>
 
 <h1>Fiat, the Word</h1>
  <p><span class='_quotespan'>But Fiat it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
