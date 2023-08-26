@@ -619,7 +619,7 @@ table._ninety tr::nth-child(-n + 3) {
  table._h2table {
   width:85%;
 }
-table._h2table tr th {
+table._h2table tr + th {
   min-width:15rem;
   max-width:15rem;
 }
