@@ -169,7 +169,7 @@ image:    "icon-template.svg"
          </tr>
         <tr>
          <th>Foundation</th>
-         <td>This is the Foundation of a community,</td>
+         <td>This is the Foundation of a community,
           <ul>
            <li>A community must help me find Meaning. This is a community that I want to Belong to.</li>
            <li>To work for every member, the community must be fully decentralized and transparent.</li>
