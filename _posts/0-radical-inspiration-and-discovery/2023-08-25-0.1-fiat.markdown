@@ -147,11 +147,12 @@ image:    "icon-template.svg"
       </td>
      </tr>
     </table>
+   </div>
  <h2>Radical</h2>
       <p>In a Radical-based alternative to the Fiat system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
       <p>The alternative is <em>not chaos</em>, but it is certainly different,</p>
        <div class='_center'>
-        <table class='_h2table'">
+        <table class='_h2table'>
          <tr>
           <th>Community</th>
           <td>
