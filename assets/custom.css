@@ -620,8 +620,8 @@ table._ninety tr::nth-child(-n + 3) {
   width:85%;
 }
 table._h2table tr th {
-  min-width:2in;
-  max-width:2in;
+  min-width:15rem;
+  max-width:15rem;
 }
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
