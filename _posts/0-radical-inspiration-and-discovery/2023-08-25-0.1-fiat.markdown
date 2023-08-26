@@ -306,10 +306,6 @@ image:    "icon-template.svg"
         </td>
        </tr>
       </table>
-     </td>
-    </tr>
-   </table>
-  </div>
 
 <h1>Fiat and Radical</h1>
  <p>The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
