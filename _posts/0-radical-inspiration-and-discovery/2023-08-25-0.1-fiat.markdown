@@ -215,7 +215,6 @@ image:    "icon-template.svg"
           <td style='background-color:#22FFFF; width:50%;  '>All: $100.00</td>
          </tr>
         </table>
-       </div>
      <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the Banner would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
       <table>
        <tr>
