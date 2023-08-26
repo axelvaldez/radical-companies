@@ -81,9 +81,9 @@ image:    "icon-template.svg"
  <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless Fiat laws that leave us no choice but to comply. Fiat is a relentless force, bearing down on us with an iron grip.</p>
  <p>Picture this,</p>
   <ul>
-   <li>You get a traffic ticket. A very minor form of force.
-   <li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.
-   <li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).
+   <li>You get a traffic ticket. A very minor form of force.</li>
+   <li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
+   <li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
    <li>Either you win or you lose,
     <ul>
      <li>Victory brings celebration, the force is with you.</li>
