@@ -499,7 +499,7 @@ image:    "icon-template.svg"
  <p>Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</p>
  <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
  <p></p>
-  <table style='font-size:x-small; font-family:Architects Daughter, cursive; '>
+  <table style='font-size:smaller; font-family:Architects Daughter, cursive; '>
    <tr>
     <td>
      <p>BTW, the little r in rTool and other r-labels stand for &ldquo;Radical.&rdquo;</p>
