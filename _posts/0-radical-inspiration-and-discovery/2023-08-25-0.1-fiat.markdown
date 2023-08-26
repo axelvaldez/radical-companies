@@ -119,6 +119,8 @@ image:    "icon-template.svg"
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1>Countries and Other Divisions</h1>
+
+<h1>Fiat</h1>
   <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church rules.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
@@ -148,8 +150,6 @@ image:    "icon-template.svg"
      </tr>
     </table>
    </div>
-
-<h1 class='_section'>Capital vs Contributions</h1>
 
 <h1>Radical</h1>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
