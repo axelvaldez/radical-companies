@@ -255,7 +255,7 @@ xxx xxx
     <tr>
      <th>Radical</th>
      <td>
-      <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system, not an evolved system (<em>i.e.</em>, in yellow, below). Radical does not have embedded rules and it is not dogmatic in any way,</p>
+      <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system (<em>i.e.</em>, in yellow, below), not a system that has evolved to be a big, hairy ball of hair. Radical does not have embedded rules and it is not dogmatic in any way,</p>
        <div class='_center'>
        <img
         src='/assets/img/pic-the-radical-model-coming-together.svg'
