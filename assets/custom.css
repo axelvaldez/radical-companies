@@ -363,7 +363,7 @@ span._paradigm {
 /*
  * _citation
  */
-._citation {
+._citation p {
   text-align:center;
   width:100%
   background:azure;
