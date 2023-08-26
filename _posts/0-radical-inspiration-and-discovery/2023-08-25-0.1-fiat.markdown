@@ -151,11 +151,6 @@ image:    "icon-template.svg"
     </table>
    </div>
 
-<h1>Radical</h1>
- <p>For example, before Fernando and Isabel set out to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
- <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
- <p>In a Radical-based alternative to the Fiat system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
-
 <h1 class='_section'>Capital vs Contributions</h1>
 
 <h1>Radical</h1>
