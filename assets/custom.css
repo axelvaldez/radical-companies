@@ -375,6 +375,7 @@ span._paradigm {
 }
 ._citation p {
   margin-bottom:0;
+  text-align:center;
 }
 ._citation p#_signature {
   font-size:smaller;
