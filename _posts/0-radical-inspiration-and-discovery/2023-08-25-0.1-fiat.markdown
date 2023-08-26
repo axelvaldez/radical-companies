@@ -513,7 +513,6 @@ image:    "icon-template.svg"
  <div class='_center'>
   <table class='_h2table'>
    <tr>
-    <td></td>
     <th>Fiat</th>
     <td>
      <p>In a Fiat business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
