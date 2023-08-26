@@ -6,8 +6,10 @@ authors:  "Matt Perez"
 image:    "icon-template.svg"
 ---
 
-<div style='display:none;'>
+<div style='display:none; '>
+<!--
  <p>Intro to the <span classs='_paradigm'>Fiat System</span> and to the <span classs='_paradigm'>Radical Foundation.</span.</p>
+-->
 </div>
 
 xxx
