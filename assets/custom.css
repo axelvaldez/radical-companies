@@ -372,16 +372,20 @@ span._paradigm {
   padding:0.5em 10px;
   quotes:initial;
   font-family:Architects Daughter, cursive;
-}  
+  width:70%
+}
+/*
 ._citation:before {
   color:#aaa;
   font-size:4em;
   line-height:0.7em;
   vertical-align:-0.5em;
 }
+ */
 ._citation p {
   text-indent:0;
 }
+/*
 ._citation::before {
   font-family:Georgia, serif;
   font-size:36pt;
@@ -389,6 +393,7 @@ span._paradigm {
   white-space: pre;
   content:"“”\a";
 }
+ */
 ._citation p#_signature {
   font-family:Architects Daughter, cursive;
   font-size:smaller;
