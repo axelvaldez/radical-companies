@@ -202,8 +202,8 @@ image:    "icon-template.svg"
        <p>For the case where all co-owners agree, the Banner could look like this,</p>
         <table>
          <tr>
-          <th style='background-color:yellow; width:50%; '>Banner:</th>
-          <th style='background-color:#22FFFF; width:50%; '>Contributions:</th>
+          <th style='background-color:yellow; width:50%; text-align:left; '>Banner:</th>
+          <th style='background-color:#22FFFF; width:50%; text-align:left; '>Contributions:</th>
          </tr>
          <tr>
           <td style='background-color:yellow; width:50%;  '>
@@ -219,8 +219,8 @@ image:    "icon-template.svg"
      <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the Banner would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
       <table>
        <tr>
-        <th style='background-color:yellow; width:50%; '>Banner:</th>
-        <th style='background-color:#22FFFF; width:50%; '>Contributions:</th>
+        <th style='background-color:yellow; width:50%; text-align:left; '>Banner:</th>
+        <th style='background-color:#22FFFF; width:50%; text-align:left; '>Contributions:</th>
        </tr>
        <tr>
         <td style='background-color:yellow; width:50%;  '>
