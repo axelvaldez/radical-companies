@@ -374,7 +374,9 @@ span._paradigm {
 ._citation p#_signature {
   font-family:Architects Daughter, cursive;
   font-size:smaller;
+  /*
   margin-left:50px;
+   */
 }
 ._citation p#_signature::before {
   content:"— ";
