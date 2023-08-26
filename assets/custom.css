@@ -364,8 +364,8 @@ span._paradigm {
  * _citation
  */
 ._citation p {
-  text-align:center;
   width:100%;
+  padding:inherit 50%;
   background-color:azure;
   border:1px solid #999999;
   border-left:10px solid #ccc;
