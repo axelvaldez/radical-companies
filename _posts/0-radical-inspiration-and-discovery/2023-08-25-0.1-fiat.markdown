@@ -145,10 +145,8 @@ image:    "icon-template.svg"
      <tr>
       <th>Lording</th>
       <td>
-<!--
        <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
        <p>The Jewish tradition, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
--->
       </td>
      </tr>
     </table>
