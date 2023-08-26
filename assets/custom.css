@@ -365,8 +365,8 @@ span._paradigm {
  */
 ._citation p {
   text-align:center;
-  width:100%
-  background:azure;
+  width:100%;
+  background-color:azure;
   border:1px solid #999999;
   border-left:10px solid #ccc;
   font-family:Architects Daughter, cursive;
