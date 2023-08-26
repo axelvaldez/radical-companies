@@ -381,6 +381,7 @@ span._paradigm {
 }
 ._citation p#_signature {
   font-size:smaller;
+  text-align:center;
 }
 ._citation p#_signature::before {
   content:"— ";
