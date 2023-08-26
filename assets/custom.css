@@ -364,21 +364,16 @@ span._paradigm {
  * _citation
  */
 ._citation p {
-  width:100%;
+  width:80%;
   padding-left:10%;
   padding-right:10%;
   background-color:azure;
   border-left:10px solid #ccc;
   font-family:Architects Daughter, cursive;
+  text-align:center;
 }
 ._citation p#_signature {
-  /*
-  font-family:Architects Daughter, cursive;
-   */
   font-size:smaller;
-  /*
-  margin-left:50px;
-   */
 }
 ._citation p#_signature::before {
   content:"— ";
