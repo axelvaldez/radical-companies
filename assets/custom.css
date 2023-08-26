@@ -368,30 +368,17 @@ span._paradigm {
   background:azure;
   border:1px solid #999999;
   border-left:10px solid #ccc;
-  margin:1.5em 6rem;
+  margin:1.5em 10rem;
   padding:0.5em 10px;
+  /*
   quotes:initial;
+   */
   font-family:Architects Daughter, cursive;
   width:70%
 }
 /*
-._citation:before {
-  color:#aaa;
-  font-size:4em;
-  line-height:0.7em;
-  vertical-align:-0.5em;
-}
- */
 ._citation p {
   text-indent:0;
-}
-/*
-._citation::before {
-  font-family:Georgia, serif;
-  font-size:36pt;
-  color:black;
-  white-space: pre;
-  content:"“”\a";
 }
  */
 ._citation p#_signature {
