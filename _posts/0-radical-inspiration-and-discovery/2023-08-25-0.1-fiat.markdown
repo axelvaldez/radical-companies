@@ -147,11 +147,7 @@ image:    "icon-template.svg"
       </td>
      </tr>
     </table>
-   </div>
-   <table>
-    <tr>
-     <td>
-     <h2>Radical</h2>
+ <h2>Radical</h2>
       <p>In a Radical-based alternative to the Fiat system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
       <p>The alternative is <em>not chaos</em>, but it is certainly different,</p>
        <div class='_center'>
@@ -180,39 +176,36 @@ image:    "icon-template.svg"
         <tr>
          <th>Alignment</th>
          <td>But the Foundation is not enough, it needs an Explicit Alignment,</td>
-            <ul>
-            <li>To hold us together a community must define the <em>what for</em>, the Impact it wants to have on the world.</li>
-            <li>It must be explicit about the <em>why</em>, its Purpose that made it come together as a community.</li>
-            <li>The community can then define the <em>what, when,</em> and <em>how</em>, of each Mission of the work it needs to do.</li>
-           </ul>
-           <p>It is explicit in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
-           <p>It is alignment in the sense that it ties people together into a community with something in common.</p>
-           <p>To be clear,</p>
-          </ul>
-         </td>
-        </tr>
           <ul>
-           <li>If the <em>what for</em>, the Impact, is not your thing, then you don’t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business it is because it is very, very difficult.</li>
-           <li>If the why, the Purpose, doesn’t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don’t join the community.</li>
-           <li>The what, when, and how, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
+           <li>To hold us together a community must define the <em>what for</em>, the Impact it wants to have on the world.</li>
+           <li>It must be explicit about the <em>why</em>, its Purpose that made it come together as a community.</li>
+           <li>The community can then define the <em>what, when,</em> and <em>how</em>, of each Mission of the work it needs to do.</li>
           </ul>
-         </td>
-        </tr>
-        <tr>
-         <th>No Divisions</th>
-         <td>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a <em>company</em>,</td>
+          <p>It is explicit in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view.</p>
+          <p>It is alignment in the sense that it ties people together into a community with something in common.</p>
+          <p>To be clear,</p>
            <ul>
-            <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
-            <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
-            <li>BTW, the word company comes from the Latin prefix “<em>co-</em>,” meaning <em>together</em>, and the Latin word “<em>-pan</em>,” meaning <em>bread</em>: <em>breaking bread together</em>.</li>
-            <li>The level of co-ownership is determined by contributions, not capital.</li>
-            <li>These contributions are recognized by other co-owners.</li>
+            <li>If the <em>what for</em>, the Impact, is not your thing, then you don’t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business it is because it is very, very difficult.</li>
+            <li>If the why, the Purpose, doesn’t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don’t join the community.</li>
+            <li>The what, when, and how, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
            </ul>
-          <p>And, yes, there is an app for that.</p>
-         </td>
-        </tr>
-       </table>
-      </div>
+          </td>
+         </tr>
+         <tr>
+          <th>No Divisions</th>
+          <td>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a <em>company</em>,</td>
+            <ul>
+             <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
+             <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
+             <li>BTW, the word company comes from the Latin prefix “<em>co-</em>,” meaning <em>together</em>, and the Latin word “<em>-pan</em>,” meaning <em>bread</em>: <em>breaking bread together</em>.</li>
+             <li>The level of co-ownership is determined by contributions, not capital.</li>
+             <li>These contributions are recognized by other co-owners.</li>
+            </ul>
+           <p>And, yes, there is an app for that.</p>
+          </td>
+         </tr>
+        </table>
+       </div>
 
 <h1 class='_section'>Capital vs Contributions</h1>
 
