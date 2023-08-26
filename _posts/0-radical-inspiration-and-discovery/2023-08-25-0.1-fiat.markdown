@@ -121,7 +121,7 @@ image:    "icon-template.svg"
 <h1>Countries and Other Divisions</h1>
  <h2>Fiat</h2>
   <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
-<!--  
+<!--
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
 -->
@@ -130,6 +130,7 @@ image:    "icon-template.svg"
      <tr>
       <th>Divide and Conquer</th>
       <td>
+<!--
        <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive English (<em>i.e.</em>, Pedro&rsquo;s) to indicate that it &ldquo;belongs to&rdquo; to the men. Men were the kings of their castle and women were reduced to chattel. Sounds comical, but there is an intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
        <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. Eve was the instigator of sin, and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
         <div class='_center'>
@@ -140,13 +141,16 @@ image:    "icon-template.svg"
         </div>
        <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
        <p>We are still struggling with that attitude today, thousands of years later. We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us. We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as powerful people cling to the past.</p>
+-->xxx
       </td>
      </tr>
      <tr>
       <th>Lording</th>
       <td>
+<!--
        <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
        <p>The Jewish tradition, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
+-->yyy
       </td>
      </tr>
     </table>
