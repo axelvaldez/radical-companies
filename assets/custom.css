@@ -473,7 +473,8 @@ p._list-item {
 div._center table._explicitalignment p {
   text-indent:0;
 }
-h1+p, h2+p {
+h1+p,
+h2+p {
   text-indent:0;
 }
 ._float {
@@ -486,7 +487,8 @@ h1+p, h2+p {
 ._float td {
   column-width:80%;
 }
-div table._background, div table._foundation {
+div table._background,
+div table._foundation {
   border:black 1px solid;
   max-width:90%;
 }
@@ -612,13 +614,14 @@ table._ninety tr::nth-child(-n + 3) {
 }
 
 /*
- Table2col
+ _h2table > _2colTable
  */
  table._h2table {
   width:85%;
 }
 table._h2table tr th {
   min-width:2in;
+  max-width:2in;
 }
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
@@ -632,7 +635,6 @@ table._h2table tr th p {
   text-align:right;
   vertical-align:text-top;
   padding-right:0.5em;
-  /**/
   font-weight:bold;
   column-width:25%;
 }
