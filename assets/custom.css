@@ -365,11 +365,11 @@ span._paradigm {
  */
 ._citation {
   text-align:center;
+  width:100%
   background:azure;
   border:1px solid #999999;
   border-left:10px solid #ccc;
-  font-family:Architects Daughter, cursive;
-  width:70%
+  font-family:'Architects Daughter', cursive;
 }
 ._citation p#_signature {
   font-family:Architects Daughter, cursive;
