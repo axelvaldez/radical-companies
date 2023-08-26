@@ -152,44 +152,40 @@ image:    "icon-template.svg"
    </div>
 
 <h1>Radical</h1>
+ <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
+
+<h1>Radical</h1>
       <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act as Catholics and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
-<!--
       <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
       <p>In a Radical-based alternative to the Fiat system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
       <p>The alternative is <em>not chaos</em>, but it is certainly different,</p>
--->
        <div class='_center'>
         <table class='_h2table'>
          <tr>
           <th>Community</th>
           <td>
-<!--
            <ul>
             <li>I trust my decentralized and fully transparent community.</li>
             <li>What is going to keep my community growing is what’s good for us.</li>
             <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
             <li>And if that is not the case, I leave.</li>
            </ul>
--->
           </td>
          </tr>
         <tr>
          <th>Foundation</th>
          <td>
-<!--
            <p>This is the Foundation of a community,</p>
            <ul>
             <li>A community must help me find Meaning. This is a community that I want to Belong to.</li>
             <li>To work for every member, the community must be fully decentralized and transparent.</li>
             <li>Members are free to experiment. Not meeting the expected result, means that we learn how not to do it.</li>
            </ul>
--->
          </td>
         </tr>
         <tr>
          <th>Alignment</th>
          <td>
-<!--
           <p>But the Foundation is not enough, it needs an Explicit Alignment,</p>
            <ul>
             <li>To hold us together a community must define the <em>what for</em>, the Impact it wants to have on the world.</li>
@@ -204,13 +200,11 @@ image:    "icon-template.svg"
             <li>If the why, the Purpose, doesn’t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don’t join the community.</li>
             <li>The what, when, and how, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
            </ul>
--->
           </td>
          </tr>
          <tr>
           <th>No Divisions</th>
           <td>
-<!--
             <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a <em>company</em>,</p>
             <ul>
              <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
@@ -220,12 +214,10 @@ image:    "icon-template.svg"
              <li>These contributions are recognized by other co-owners.</li>
             </ul>
            <p>And, yes, there is an app for that.</p>
--->
           </td>
          </tr>
         </table>
        </div>
--->
 
 <h1 class='_section'>Capital vs Contributions</h1>
 
