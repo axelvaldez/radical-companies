@@ -84,11 +84,12 @@ image:    "icon-template.svg"
    <li>You get a traffic ticket. A very minor form of force.
    <li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.
    <li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).
-   <li>Either you win or you lose,</li>
+   <li>Either you win or you lose,
     <ul>
      <li>Victory brings celebration, the force is with you.</li>
      <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
     </ul>
+   </li>
    <li>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a force majeure.</li>
   </ul>
