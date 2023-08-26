@@ -520,7 +520,7 @@ image:    "icon-template.svg"
     </td>
    </tr>
    <tr>
-    <th>Radical</strong></th>
+    <th>Radical</th>
     <td>
      <p>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
     </td>
@@ -604,6 +604,12 @@ image:    "icon-template.svg"
     <th>Radical</th>
     <td>
      <p>The Radical foundation is all about wellbeing for you and your community to live your lives.</p>
+      <div class='_center'>
+       <img
+        src='/assets/img/pic-radical-wellbeing.svg'
+        width='30%'
+        alt=''>
+      </div>
     </td>
    </tr>
   </table>
