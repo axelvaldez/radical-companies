@@ -311,7 +311,7 @@ image:    "icon-template.svg"
        </table>
       </div>
 
-<h1>Fiat and Radical</h1>
+<h1>Democracies to Dictatorships</h1>
  <p>The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
   <div class='_center'>
    <table class='_h2table'>
@@ -452,7 +452,8 @@ image:    "icon-template.svg"
     </td>
    </tr>
   </table>
- <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
+ </div>
+<p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
 
 <h1>Explicit Alignment</h1>
  <div class='_center'>
@@ -507,7 +508,6 @@ image:    "icon-template.svg"
     </td>
    </tr>
   </table>
- <p></p>
 
 <h1>RADs</h1>
  <div class='_center'>
@@ -559,53 +559,55 @@ image:    "icon-template.svg"
        <p>R, the cleaning woman, went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
        <p>When R came back around she started talking to the young woman. It was easy to listen in, so I did.</p>
        <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span></p>
-      <p>Now she was looking more like her usual self.</p>
-      <p id='_signature'>Matt Perez</p>
-       </div>
-      <p>That was a major contribution,</p>
+       <p>Now she was looking more like her usual self.</p>
+       <p id='_signature'>Matt Perez</p>
+      </div>
+     <p>That was a major contribution,</p>
        <ul>
         <li>R noticed that somebody was not her usual self, and</li>
         <li>R engaged her in conversations.</li>
        </ul>
-      <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
+     <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
      <p>If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
-     </td>
-    </tr>
-    <tr>
-     <th>People need to learn to distribute pieces of the company to their peers</th>
-     <td>
-      <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>People need to learn to distribute pieces of the company to their peers</th>
+    <td>
+     <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
      <p>In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.</p>
-     </td>
-    </tr>
-   </table>
-  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
-  </td>
- </tr>
+    </td>
+   </tr>
+  </table>
+ <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
+</td>
+</tr>
 </table>
 
 <h1>Pain vs Wellbeing</h1>
-<table>
-  <tr>
-   <th>Fiat</th>
-   <td>
-    <p>The Fiat model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
-    <p>In the Fiat system, a Threat is usually enough,</p>
-     <div class='_center'>
-      <img
-       src='/assets/img/pic-fiat-pain.svg'
-       width='70%'
-       alt=''>
-     </div>
-   </td>
-  </tr>
-  <tr>
-   <th>Radical</th>
-   <td>
-    <p>The Radical foundation is all about wellbeing for you and your community to live your lives.</p>
-   </td>
-  </tr>
- </table>
+ <div class='_center'>
+  <table class='_h2table'>
+   <tr>
+    <th>Fiat</th>
+    <td>
+     <p>The Fiat model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
+     <p>In the Fiat system, a Threat is usually enough,</p>
+      <div class='_center'>
+       <img
+        src='/assets/img/pic-fiat-pain.svg'
+        width='30%'
+        alt=''>
+      </div>
+    </td>
+   </tr>
+   <tr>
+    <th>Radical</th>
+    <td>
+     <p>The Radical foundation is all about wellbeing for you and your community to live your lives.</p>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Transcendence</h1>
  <p>How do you go from Fiat to Radical?</p>
