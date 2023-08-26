@@ -227,7 +227,6 @@ image:    "icon-template.svg"
        </div>
 -->
 
-
 <h1 class='_section'>Capital vs Contributions</h1>
 
 <h1>Fiat</h1>
