@@ -164,7 +164,7 @@ image:    "icon-template.svg"
       </td>
      </tr>
      <tr>
-      <th>But&hellip;</p>
+      <th>But&hellip;</th>
       <td>
        <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs and you give me all of yours</span> And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.<p>
        <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &ldquo;fix,&rdquo; in my opinion, is not to elect a boss to tell us what to do; the &ldquo;fix&rdquo; is to deal with what you consider a problem—you are all co-owners.</p>
