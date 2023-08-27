@@ -412,7 +412,7 @@ image:    "icon-template.svg"
   </table>
  </div>
 
-<h1>Explicit Relationships</h1>
+<h1 class='_section'>Explicit Relationships</h1>
  <div class='_center'>
   <table class='_h2table'>
    <tr>
@@ -462,50 +462,48 @@ image:    "icon-template.svg"
  </div>
 <p>For subsequent co-owner candidates, any co-owner can go through the Explicit Relationship with them and consistently communicate what the community is about.</p>
 
-<h1>Explicit Alignment</h1>
- <div class='_center'>
-  <table class='_h2table'>
-   <tr>
-    <td colspan="2" >This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we  are hoping to give these words a context for a community to define what it is all about.</td>
-   </tr>
-   <tr>
-    <td></td>
-    <th>Impact</th>
-   </tr>
-   <tr>
-    <t>What for?</th>
-    <td>
-     <p>This is the Impact that the community wants to make. It could be &ldquo;<em>To reduce poverty</em>&rdquo; or &ldquo;<em>Happy children</em>.&rdquo; It doesn&rsquo;t have to be world shattering, but it has to be explicit.</p>
-    </td>
-   </tr>
-   <tr>
-    <td></td>
-    <td>Purpose</td>
-   </tr>
-   <tr>
-    <th>Why?</th>
-    <td>This is the reason the community is doing this. It could be anything as long as it starts with something like &ldquo;<em>because&hellip;</em>&rdquo;</td>
-   </tr>
-   <tr>
-    <td></td>
-    <th>Mission</th>
-   </tr>
-   <tr>
-    <th>
-     What?<br>
-     When?<br>
-     How?
-    </th>
-    <td>Here is where the projects are listed. There may be a single Mission or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the how so others can help you.</td>
+<h1 class='_section'>Explicit Alignment</h1>
+ <p>
+  <p>This is for the community to express what they are about and what they are trying to do. It consists of three elements: Impact, Purpose, and Mission. These words have been used before and it has lead to confusion. In particular Purpose has been used in oftentimes contradictory ways to the point that it doesn&rsquo;t mean anything. Here we  are hoping to give these words a context for a community to define what it is all about.</p>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <td></td>
+      <th>Impact</th>
+     </tr>
+     <tr>
+      <th>What for?</th>
+      <td>
+       <p>This is the Impact that the community wants to make. It could be &ldquo;<em>To reduce poverty</em>&rdquo; or &ldquo;<em>Happy children</em>.&rdquo; It doesn&rsquo;t have to be world shattering, but it has to be explicit.</p>
+      </td>
+     </tr>
+     <tr>
+      <td></td>
+      <td>Purpose</td>
+     </tr>
+     <tr>
+      <th>Why?</th>
+      <td>This is the reason the community is doing this. It could be anything as long as it starts with something like &ldquo;<em>because&hellip;</em>&rdquo;</td>
+     </tr>
+     <tr>
+      <td></td>
+      <th>Mission</th>
+     </tr>
+     <tr>
+      <th>
+       What?<br>
+       When?<br>
+       How?
+      </th>
+      <td>Here is where the projects are listed. There may be a single Mission or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the how so others can help you.</td>
    </tr>
   </table>
  </div>
 
-<h1>Explicit Profile</h1>
+<h1 class='_section'>Explicit Profile</h1>
  <p>Your explicit profile is something that you maintain to let others know about you, what gives you joy, what bothers you, etc. There are no right or wrong answers. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel.</p>
  <p>Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</p>
  <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
- <p></p>
   <table style='font-size:smaller; font-family:Architects Daughter, cursive; '>
    <tr>
     <td>
