@@ -629,10 +629,8 @@ table._h2table tr th p {
   font-weight:bold;
 
   column-width:10rem;
-  /*
-  min-width:15rem;
-  max-width:15rem;
-   */
+  min-width:10rem;
+  max-width:10rem;
 }
 table._h2table tr td,
 table._h2table tr td p {
