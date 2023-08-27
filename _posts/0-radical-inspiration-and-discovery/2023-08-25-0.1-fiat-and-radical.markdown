@@ -473,7 +473,9 @@ image:    "icon-template.svg"
      </tr>
      <tr>
       <th style='width:20%; '>What for?</th>
-      <td>&nbsp;</td>
+      <td>
+       <p>This is the Impact that the community wants to make. It could be &ldquo;<em>To reduce poverty</em>&rdquo; or &ldquo;<em>Happy children</em>.&rdquo; It doesn&rsquo;t have to be world shattering, but it has to be explicit.</p>
+      </td>
      </tr>
      <tr id='_background'>
       <td></td>
@@ -481,7 +483,7 @@ image:    "icon-template.svg"
      </tr>
      <tr>
       <th>Why?</th>
-      <td>&nbsp;</td>
+      <td>This is the reason the community is doing this. It could be anything as long as it starts with something like &ldquo;<em>because&hellip;</em>&rdquo;</td>
      </tr>
      <tr id='_background'>
       <td></td>
@@ -493,7 +495,7 @@ image:    "icon-template.svg"
        When?<br>
        How?
       </th>
-      <td>&nbsp;</td>
+      <td>Here is where the projects are listed. There may be a single Mission or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the how so others can help you.</td>
      </tr>
     </table>
    </div>
