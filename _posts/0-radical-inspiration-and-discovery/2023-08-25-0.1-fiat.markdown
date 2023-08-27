@@ -309,6 +309,8 @@ image:    "icon-template.svg"
          </td>
         </tr>
        </table>
+      </table>
+     </div>
 
 <h1>Democracies to Dictatorships</h1>
  <p>The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
