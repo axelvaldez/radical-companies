@@ -168,5 +168,3 @@ image:    "icon-escape-velocity-radical-style.svg"
    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
   </li>
  </ul>
-
-{% include related.html %}

@@ -89,5 +89,3 @@ image:    "icon-removing-a-huge-pain-salaries.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

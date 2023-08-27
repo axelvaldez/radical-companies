@@ -52,5 +52,3 @@ image:    "icon-radical-companies-solve-problems-faster-than-fiat-businesses.svg
  <p>Interminable meetings are avoided. People who are not close to the problem will likely not participate at all (unless they are curious). There is no &ldquo;covering your ass&rdquo; actions needed. Instantaneous and lossless communication will forever be elusive, but <span class="_paradigm">Radical</span> supports a shorter and more efficient form of communication.</p>
  <p>Power is decentralized as well. There&rsquo;s no one &ldquo;above&rdquo; or &ldquo;below&rdquo; you, but power comes as a function of decentralized decision-making and resources.</p>
  <p>People in <span class="_paradigm">Radical</span> organizations are more effective.</p>
-
-{% include related.html %}

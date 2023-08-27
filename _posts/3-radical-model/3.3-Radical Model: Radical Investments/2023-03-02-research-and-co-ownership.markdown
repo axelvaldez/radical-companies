@@ -27,5 +27,3 @@ image:    "icon-research-and-co-ownership.svg"
   <li>Consent means that you are not sure you fully agree, but you can live with it. Alternatively, the disagreeing people have to explain their reason. It is an opportunity for all to learn.</li>
   <li>For internal investments, the &ldquo;consent&rdquo; <span class="_paradigm">RAD</span>s get taken out of the <span class="_paradigm">RAD</span>s given in this cycle and contributed to the <span class="_paradigm">Banner</span>s. They get ownership according to the <span class="_paradigm">RAD</span>s each co-owner has at the time of the investment.</li>
  </ul>
-
-{% include related.html %}

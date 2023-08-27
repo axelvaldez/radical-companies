@@ -25,5 +25,3 @@ image:    "icon-mandarins-and-butterflies.svg"
  <p>I am making small changes, one step at a time and I feel I am on my way to live my own life. It is a bit ironic that it was this easy to do, that it was so difficult to realize how toxic conventional [Fiat] organizations are. Most of all, I was surprised that I could not see how it was affecting me.</p>
  <p>Now my larva is on its way to becoming a butterfly :)</p>
 </div>
-
-{% include related.html %}

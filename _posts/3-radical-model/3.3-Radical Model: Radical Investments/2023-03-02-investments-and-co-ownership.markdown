@@ -38,5 +38,3 @@ image:    "icon-investments-and-co-ownership.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
