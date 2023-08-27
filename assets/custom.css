@@ -607,19 +607,23 @@ table._ninety tr::nth-child(-n + 3) {
 /*
  _h2table > _2colTable
  */
+ /*
  table._h2table {
   width:85%;
 }
-table._h2table tr + th {
-  min-width:15rem;
-  max-width:15rem;
-}
+ */
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
 }
 table._h2table p:first-child {
+/*
   text-indent:0;
+ */
   text-align:left;
+}
+table._h2table tr + th {
+  min-width:15rem;
+  max-width:15rem;
 }
 table._h2table tr th,
 table._h2table tr th p {
