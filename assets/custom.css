@@ -310,7 +310,9 @@ table td._spacer {
 }
 table tr {
   vertical-align:top;
+  /*
   font-size:smaller;
+   */
 }
 table._background ul {
   font-size:larger;
