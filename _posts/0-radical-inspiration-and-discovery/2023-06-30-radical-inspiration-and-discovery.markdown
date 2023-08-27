@@ -18,7 +18,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
 
 <h1 class="_section">SEEING FIAT</h1>
-
 <h1>What the Fiat System Does</h1>
  <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence,  acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
