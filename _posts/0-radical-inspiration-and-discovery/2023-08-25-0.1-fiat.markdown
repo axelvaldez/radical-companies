@@ -237,7 +237,10 @@ image:    "icon-template.svg"
       <p>The mobile app does all the calculations.</p>
      </td>
     </tr>
-<!--
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -246,6 +249,10 @@ image:    "icon-template.svg"
       <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community or society. &ldquo;Homo economicus&rdquo; is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.</p>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>Capital</th>
      <td>
@@ -257,12 +264,20 @@ image:    "icon-template.svg"
        </ul>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>The PRI</th>
      <td>
       <p>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.</p>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -270,6 +285,10 @@ image:    "icon-template.svg"
       <p>Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, <em>including any investments</em>. For example, if the co-owners want to buy a $5M building, they would put up a Banner to accumulate that amount. They could decide to commit enough into the Banner to build up to $5M in three years. That amount is not to be included in the dividends.</p>
      </td>
     </tr>
+   </table>
+  </div>
+  <div class='_center'>
+   <table class='_h2table'>
     <tr>
      <th>Banners</th>
      <td>
@@ -312,9 +331,8 @@ image:    "icon-template.svg"
        </table>
       </td>
      </tr>
--->
-    </table>
-   </div>
+   </table>
+  </div>
 
 <h1>Democracies to Dictatorships</h1>
  <p>The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
