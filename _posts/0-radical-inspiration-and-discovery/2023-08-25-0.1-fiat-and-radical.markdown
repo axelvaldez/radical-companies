@@ -496,23 +496,23 @@ image:    "icon-template.svg"
        How?
       </th>
       <td>Here is where the projects are listed. There may be a single Mission or many of these going on at one time. This is not your traditional Gantt chart, rather each is an experiment. The <em>what</em> is the expected results (<em>i.e.</em>, the hypotheses), the <em>when</em> is an estimate, and the <em>how</em> is optional. If you are not really sure of your approach, you should state the how so others can help you.</td>
-   </tr>
-  </table>
- </div>
+     </tr>
+    </table>
+   </div>
 
 <h1 class='_section'>Explicit Profile</h1>
  <p>Your explicit profile is something that you maintain to let others know about you, what gives you joy, what bothers you, etc. There are no right or wrong answers. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel.</p>
  <p>Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</p>
+
+<h1>&nbsp;</h1>
  <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
-  <table style='font-size:smaller; font-family:Architects Daughter, cursive; '>
-   <tr>
-    <td>
-     <p>BTW, the little r in rTool and other r-labels stand for &ldquo;Radical.&rdquo;</p>
-     <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the Radical model or not. If they are afraid to tell you "because I may lose my job" or anything like it, then they are not co-0wners and they are not really based on the Radical Foundation.</p>
-     <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
-    </td>
-   </tr>
-  </table>
+  <div class='_center'>
+   <div class='_citation'>
+    <p>BTW, the little r in rTool and other r-labels stand for &ldquo;Radical.&rdquo;</p>
+    <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the Radical model or not. If they are afraid to tell you "because I may lose my job" or anything like it, then they are not co-0wners and they are not really based on the Radical Foundation.</p>
+    <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
+   </div>
+  </div>
 
 <h1>RADs</h1>
   <div class='_center'>
