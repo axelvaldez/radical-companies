@@ -237,6 +237,7 @@ image:    "icon-template.svg"
       <p>The mobile app does all the calculations.</p>
      </td>
     </tr>
+<!--
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -296,13 +297,13 @@ image:    "icon-template.svg"
          <th style='background-color:#22FFFF; width:60%; text-align:left; '>Contributions:</th>
         </tr>
         <tr>
-         <td style='background-color:yellow; width:60%; padding:inherit; width:2rem; '>
+         <td style='background-color:yellow; width:60%; padding:inherit, 2rem; '>
           Goal: $1M<br>
           Time: 3 years<br>
           Reason: To buy a building<br>
           Beneficiaries: Building Fund
          </td>
-         <td style='background-color:#22FFFF; width:60%; padding:inherit; width:2rem; '>
+         <td style='background-color:#22FFFF; width:60%; padding:inherit, 2rem; '>
           Mary O: $100.00<br>
           Anita P: 0.25% de $1M<br>
           Salim Q: 5.% of RADs yield<br>
@@ -311,9 +312,10 @@ image:    "icon-template.svg"
        </table>
       </td>
      </tr>
+-->
     </table>
    </div>
-xxx
+yyy
 
 <h1>Democracies to Dictatorships</h1>
  <p>The Fiat model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
