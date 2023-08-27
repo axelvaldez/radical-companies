@@ -49,5 +49,3 @@ image:    "icon-how-fiat-developed.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
