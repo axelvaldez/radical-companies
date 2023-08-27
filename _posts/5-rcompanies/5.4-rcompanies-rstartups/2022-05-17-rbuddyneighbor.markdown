@@ -699,5 +699,3 @@ image:    "icon-rbuddyneighbor.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
