@@ -72,5 +72,3 @@ image:    "icon-small-bites-money.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
