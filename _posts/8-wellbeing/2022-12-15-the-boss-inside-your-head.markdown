@@ -35,5 +35,3 @@ image:    "icon-the-boss-inside-your-head.svg"
  <p>It turns out that when you give yourself freedom, you are kinder to yourself and then kinder to others. And the stress comes off.</p>
  <p>And guess what, those adulting things you were delaying on are now easier to do. You find a locus of calm and strength to operate from. The &ldquo;boss&rdquo; voice may at times serve you, especially if there is an emergency and action is demanded. If the building is burning then by all means demand of yourself to put out the fire. But the rest of the time—the vast majority of time—the &ldquo;boss&rdquo; inside you is actually a hindrance, not just to happiness, but your best self.</p>
  <p>Choose to be free, not just in your organization, but  inside yourself as well. In fact, you can’t do one without the other.</p>
-
-{% include related.html %}
