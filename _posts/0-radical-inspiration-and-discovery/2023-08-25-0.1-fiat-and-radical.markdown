@@ -351,23 +351,24 @@ image:    "icon-template.svg"
 
 <h1>Competition and Collaboration</h1>
  <div class='_center'>
- <table class='_h2table'>
-  <tr>
-   <th>Fiat</th>
-   <td>
-    <p>Competition is another constant feature of the Fiat model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the Fiat system. There are even debate clubs where we can practice our competitive skills.</p>
-    <p>And, &ldquo;so?&rdquo; you ask, &ldquo;<em>what is wrong with that? We need to compete to survive</em>.&rdquo; But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
+  <table class='_h2table'>
+   <tr>
+    <th>Fiat</th>
+    <td>
+     <p>Competition is another constant feature of the Fiat model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the Fiat system. There are even debate clubs where we can practice our competitive skills.</p>
+     <p>And, &ldquo;so?&rdquo; you ask, &ldquo;<em>what is wrong with that? We need to compete to survive</em>.&rdquo; But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
     <p>Democracy-by-voting probably was the best system in the 18th century, but here we are, 300 hundred years later in the 21<sup>st</sup> century. Things have changed and we can do better now.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>Radical</th>
-   <td>
-    <p>Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
+    </td>
+   </tr>
+   <tr>
+    <th>Radical</th>
+    <td>
+     <p>Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
     <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the Fiat system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
-   </td>
-  </tr>
- </table>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>Scarcity and Abundance</h1>
  <div class='_center'>
@@ -384,13 +385,14 @@ image:    "icon-template.svg"
   </tr>
   <tr>
    <th>Radical</th>
-   <td>
-    <p>Enclosures do come out of Force and Force is a no-no in Radical-based alternatives.</p>
-    <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
-    <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-Fiat that we are.But we need to make it happen.</p>
-   </td>
-  </tr>
- </table>
+    <td>
+     <p>Enclosures do come out of Force and Force is a no-no in Radical-based alternatives.</p>
+     <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
+     <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-Fiat that we are.But we need to make it happen.</p>
+    </td>
+   </tr>
+  </table>
+ </div>
 
 <h1>rTools</h1>
  <div class='_center'>
@@ -564,30 +566,28 @@ image:    "icon-template.svg"
          <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span></p>
          <p>Now she was looking more like her usual self.</p>
          <p id='_signature'>Matt Perez</p>
-        </td>
-       </tr>
-     </div>
+        </div>
+      </td>
+     </tr>
      <p>That was a major contribution,</p>
-       <ul>
-        <li>R noticed that somebody was not her usual self, and</li>
-        <li>R engaged her in conversations.</li>
-       </ul>
-     <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
-     <p>If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>People need to learn to distribute pieces of the company to their peers</th>
-    <td>
-     <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
-     <p>In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.</p>
-    </td>
-   </tr>
-  </table>
+      <ul>
+       <li>R noticed that somebody was not her usual self, and</li>
+       <li>R engaged her in conversations.</li>
+      </ul>
+      <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
+      <p>If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>People need to learn to distribute pieces of the company to their peers</th>
+     <td>
+      <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
+      <p>In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.</p>
+     </td>
+    </tr>
+   </table>
+  </div>
  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
-</td>
-</tr>
-</table>
 
 <h1>Pain vs Wellbeing</h1>
  <div class='_center'>
