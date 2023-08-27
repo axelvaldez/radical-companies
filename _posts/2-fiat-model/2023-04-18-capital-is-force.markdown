@@ -24,5 +24,3 @@ image:    "icon-capital-is-force.svg"
  <p>Karl Marx was blind to the <span class='_paradigm'>Fiat</span> system. He just switched the owners, from capitalist to &rdquo;the new man.&rdquo; Unfortunately, he kept the <span class='_paradigm'>Fiat</span> system itself but he could not see it.</p>
  <p>The important thing is to make the <span class='_paradigm'>Fiat</span> system <em>visible</em> and how it hurts all of us.</p>
  <p>Having alternatives is a very high priority for our existence.</p>
-
-{% include related.html %}

@@ -50,5 +50,3 @@ image:    "icon-the-serpent-is-sensuality.svg"
  <p>On the other hand, we are well connected now with all corners of the world. This means that our ability to make or join communities is higher than ever.</p>
  <p>We don&rsquo;t need to submit our essence to an arbitrary say so. We can join with others anywhere in the world.</p>
  <p>We can take it from here.</p>
-
-{% include related.html %}

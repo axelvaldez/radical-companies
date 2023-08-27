@@ -71,7 +71,7 @@ image:    "icon-what-will-kill-us-first.svg"
  <p>One way to protect us against this is a mindset of co-management and co-ownership. If we manage to spread it widely, then we will have a chance to not end up in the same place we are today, with competition rampant, and domination as the only humanity-wide <em>Umwelt</em>.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></p>
  <p>The RADICAL model consists of the RADICAL foundation, its tools, and new skills.</p>
 
- <h1>The RADICAL Foundation</h1>
+<h1>The RADICAL Foundation</h1>
   <div class="_center">
    <table class="_h2table">
     <tr>
@@ -89,7 +89,7 @@ image:    "icon-what-will-kill-us-first.svg"
    </table>
   </div>
  
- <h1>The Tools</h1>
+<h1>The Tools</h1>
   <p>These are the tools that we have come with so far,</p>
    <div class="_center">
     <table class="_h2table">
@@ -128,7 +128,7 @@ image:    "icon-what-will-kill-us-first.svg"
     </table>
    </div>
 
- <h1>The Skills</h1>
+<h1>The Skills</h1>
   <p>Skills include the capacity to,</p>
    <ul>
     <li>Be inquisitive over being accusative</li>
@@ -187,5 +187,3 @@ image:    "icon-what-will-kill-us-first.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

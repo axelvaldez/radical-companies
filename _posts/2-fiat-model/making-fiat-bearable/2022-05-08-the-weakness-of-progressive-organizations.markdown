@@ -5,7 +5,7 @@ subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-10-progressive-org-structures.svg"
 ---
- belongin
+
 <div style="display:none;">
  <p>Co-management is a move away from the <span class="_paradigm">Fiat</span> hierarchy, and that&rsquo;s good. But it doesn&rsquo;t last: we must have decentralized ownership, which we call co-ownership, for robust and stable governance.</p>
 </div>
@@ -83,5 +83,3 @@ image:    "icon-10-progressive-org-structures.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

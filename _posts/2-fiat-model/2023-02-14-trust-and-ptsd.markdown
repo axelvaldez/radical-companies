@@ -82,5 +82,3 @@ image:    "icon-trust-and-ptsd.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

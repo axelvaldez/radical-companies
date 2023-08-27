@@ -51,5 +51,3 @@ image:    "icon-pain-anxiety=and-depression.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

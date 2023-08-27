@@ -50,5 +50,3 @@ image:    "icon-the-good-boss.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

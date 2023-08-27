@@ -59,5 +59,3 @@ image:    "icon-chasing-wealth-and-status-the-illusion-of-happiness.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

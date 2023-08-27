@@ -134,5 +134,3 @@ image:    "icon-lazy-greedy-cowardly.svg"
   <li>Everything is fully transparent. No exceptions.</li>
   <li>We consider all we do as an experiment. It either works as expected, or we learn.</li>
  </ul>
-
-{% include related.html %}

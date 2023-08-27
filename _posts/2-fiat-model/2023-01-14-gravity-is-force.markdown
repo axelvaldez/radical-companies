@@ -61,5 +61,3 @@ image:    "icon-gravity-is-force.svg"
    </table>
   </div>
  <p>A child of slavery, the <span class="_paradigm">Fiat</span> system forces non-owners to labor for sustenance and safety. Interestingly, in <span class="_paradigm">Fiat</span> land it is celebrated the world over on Labor Day!</p>
-
-{% include related.html %}

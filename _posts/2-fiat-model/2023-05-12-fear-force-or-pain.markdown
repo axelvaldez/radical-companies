@@ -31,5 +31,3 @@ image:    "icon-fear-force-or-pain.svg"
 
 <h1>Wellbeing</h1>
  <p>The opposite of <span class="_paradigm">Pain</span> is not <em>not</em> hedonic pleasure, it is <span class="_paradigm">Wellbeing</span>. We need an alternative to the <span class="_paradigm">Fiat</span> system we live in today and a <span class="_paradigm">Radical</span>-based environment supports and promotes <span class="_paradigm">Wellbeing</span>.</p>
-
-{% include related.html %}

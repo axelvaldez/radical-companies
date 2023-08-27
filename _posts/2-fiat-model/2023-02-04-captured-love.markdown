@@ -39,5 +39,3 @@ image:    "icon-captured-love.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

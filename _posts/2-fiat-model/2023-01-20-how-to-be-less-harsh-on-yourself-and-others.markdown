@@ -37,5 +37,3 @@ image:    "icon-how-to-be-less-harsh-on-yourself-and-others.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

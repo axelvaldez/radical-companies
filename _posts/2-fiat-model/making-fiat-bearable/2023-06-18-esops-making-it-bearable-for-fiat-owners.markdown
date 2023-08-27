@@ -45,5 +45,3 @@ image:    "icon-esops-making-it-bearable-for-fiat-owners.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

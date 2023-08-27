@@ -79,5 +79,3 @@ image:    "icon-yes-capital-is-good.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

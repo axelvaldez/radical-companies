@@ -34,5 +34,3 @@ image:    "icon-better-tasting-poison.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
