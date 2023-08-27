@@ -58,7 +58,7 @@ image:    "icon-template.svg"
  <p>Capital still has a role to play, but it just doesn’t get power over the company.</p>
   <div class='_center'>
    <div class='_citation'>
-    <p>>A business corporation is organized and carried on primarily for the profit of the stockholders.</p>
+    <p>A business corporation is organized and carried on primarily for the profit of the stockholders.</p>
     <p id='_signature'>1918 Supreme Court, Dodge v Ford</p>
    </div>
   <div>
@@ -82,5 +82,3 @@ image:    "icon-template.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

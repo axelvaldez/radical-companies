@@ -244,5 +244,3 @@ image:    "icon-rland-communities-thriving.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

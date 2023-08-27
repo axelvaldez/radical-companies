@@ -43,5 +43,3 @@ image:    "icon-not-about-government-but-about-governance.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

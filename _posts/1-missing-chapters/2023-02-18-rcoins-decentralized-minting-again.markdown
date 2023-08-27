@@ -100,5 +100,3 @@ image:    "icon-rcoins-decentralized-minting-again.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

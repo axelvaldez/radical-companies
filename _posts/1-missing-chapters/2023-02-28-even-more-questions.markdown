@@ -73,5 +73,3 @@ image:    "icon-even-more-questions.svg"
     </tr>
    </table>
   <div>
-
-{% include related.html %}
