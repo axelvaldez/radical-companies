@@ -51,5 +51,3 @@ image:    "icon-rmedia.svg"
 
 <h1>What's in It for &hellip;?</h1>
  <p>TBD</p>
-
-{% include related.html %}
