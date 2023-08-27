@@ -45,5 +45,3 @@ image:    "icon-i-am-giving-it-all-to-my-dreams.svg"
  <p>You very well might work at a <span class="_paradigm">Radical</span> company where everyone decides they prefer to work on the weekends or at odd hours. Or maybe your team decides to work this way. People can do any of these because everyone is a co-owner.</p>
  <p>If during the discussion, somebody brings up that the odd hours may cause burnout, &ldquo;and that will cost us,&rdquo; you all, as co-owners, have to consider that, discuss it, and make a decision. If you decide on an odd-hour work schedule, then you&rsquo;ll have to bring it upfront to potential new co-owners and only people that find that energizing will join. That may be a price you&rsquo;re willing to pay.</p>
  <p>The point is that there are many paths to pursuing your dreams and co-owners can set their own course through explicit conversations. You can choose your path without having to pay the personal cost of not finding a partner, neglecting your dog, or eating your stress.</p>
-
-{% include related.html %}
