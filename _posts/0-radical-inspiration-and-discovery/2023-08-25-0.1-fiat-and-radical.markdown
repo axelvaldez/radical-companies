@@ -505,15 +505,6 @@ image:    "icon-template.svg"
  <p>Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</p>
  <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
 
-<h1>&nbsp;</h1>
-  <div class='_center'>
-   <div class='_citation' style='font-size:smaller; text-align:justify; '>
-    <p>BTW, the little r in rTool and other r-labels stand for &ldquo;Radical.&rdquo;</p>
-    <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the Radical model or not. If they are afraid to tell you "because I may lose my job" or anything like it, then they are not co-0wners and they are not really based on the Radical Foundation.</p>
-    <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
-   </div>
-  </div>
-
 <h1>RADs</h1>
   <div class='_center'>
    <table class='_h2table'>
@@ -544,7 +535,7 @@ image:    "icon-template.svg"
      </tr>
     </table>
    </div>
- <p>The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the Radical spear. By using it,</p>
+ <p>The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the Radical spear,</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
@@ -565,27 +556,25 @@ image:    "icon-template.svg"
          <p>Now she was looking more like her usual self.</p>
          <p id='_signature'>Matt Perez</p>
         </div>
+       <p>That was a major contribution,</p>
+        <ul>
+         <li>R noticed that somebody was not her usual self, and</li>
+         <li>R engaged her in conversations.</li>
+        </ul>
+       <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
+       <p>If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
       </td>
      </tr>
-     <p>That was a major contribution,</p>
-      <ul>
-       <li>R noticed that somebody was not her usual self, and</li>
-       <li>R engaged her in conversations.</li>
-      </ul>
-      <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
-      <p>If I were in the grip of my Fiat cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the Fiat cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
-     </td>
-    </tr>
-    <tr>
-     <th>People need to learn to distribute pieces of the company to their peers</th>
-     <td>
-      <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
-      <p>In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.</p>
-     </td>
-    </tr>
-   </table>
-  </div>
- <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
+     <tr>
+      <th>People need to learn to distribute pieces of the company to their peers</th>
+      <td>
+       <p>In the Fiat world we live in, getting ownership in a business is a big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
+       <p>In a company based on the Radical foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of Fiat, have to learn to be leaders of Radical-base alternatives.</p>
+      </td>
+     </tr>
+    </table>
+   </div>
+  <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
 
 <h1>Pain vs Wellbeing</h1>
  <div class='_center'>
