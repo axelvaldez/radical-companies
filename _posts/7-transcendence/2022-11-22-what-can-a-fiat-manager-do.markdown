@@ -48,5 +48,3 @@ image:    "icon-what-can-a-fiat-manager-do.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}
