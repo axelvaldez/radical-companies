@@ -42,5 +42,3 @@ image:    "icon-we-remember-therefore-we-are.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
