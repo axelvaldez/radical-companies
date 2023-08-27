@@ -503,11 +503,11 @@ image:    "icon-template.svg"
 <h1 class='_section'>Explicit Profile</h1>
  <p>Your explicit profile is something that you maintain to let others know about you, what gives you joy, what bothers you, etc. There are no right or wrong answers. It is not a resume or a LinkedIn profile. It is as close as possible to what you really feel.</p>
  <p>Our Fiat training goes against being vulnerable, &ldquo;<em>because people can use it against you</em>.&rdquo; But others can&rsquo;t help you without knowing you. For the Radical model to work, you have to lead with trust and the Explicit Profile is a tool you can use to trust others so they can trust you.</p>
+ <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
 
 <h1>&nbsp;</h1>
- <p>The other rTool, and to me the most fundamental one, is the <em>RADs! Mobile App</em>.</p>
   <div class='_center'>
-   <div class='_citation'>
+   <div class='_citation' style='font-size:smaller; text-align:justify; '>
     <p>BTW, the little r in rTool and other r-labels stand for &ldquo;Radical.&rdquo;</p>
     <p>This is not a certificate program or any such thing. The people who are part of it will tell you if the company is firmly based on the Radical model or not. If they are afraid to tell you "because I may lose my job" or anything like it, then they are not co-0wners and they are not really based on the Radical Foundation.</p>
     <p>On the other hand, if they think they are going in the right direction, then they are going in the right direction.</p>
