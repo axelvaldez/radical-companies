@@ -53,5 +53,3 @@ image:    "icon-simple-fear-or-love.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

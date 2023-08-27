@@ -25,5 +25,3 @@ image:    "icon-radical-hiring-no-such-thing.svg"
    <li>Later, we then can go through the Explicit Relationship and, if everything goes well, you are part of the company.</li>
   </ul>
  <p>Piece of cake!</p>
-
-{% include related.html %}

@@ -22,5 +22,3 @@ image:    "icon-business-vs-firm-vs-company.svg"
 
 <h1>A Story</h1>
  <p>The word &ldquo;company&rdquo; comes from the Latin prefix <em>con-</em> (together) and <em>pan</em> (bread). It means people who break bread together. We could have made up a word, but we did not want to sound too alien. The word &ldquo;company,&rdquo; on the other hand, is familiar and it has this lovely origin.</p>
-
-{% include related.html %}

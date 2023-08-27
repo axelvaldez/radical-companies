@@ -68,5 +68,3 @@ image:    "icon-from-agreements-to-relationships.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

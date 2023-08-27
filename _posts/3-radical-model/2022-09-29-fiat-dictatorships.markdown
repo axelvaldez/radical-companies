@@ -63,5 +63,3 @@ image:    "icon-fiat-dictatorships.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

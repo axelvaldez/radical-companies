@@ -36,5 +36,3 @@ image:    "icon-the-radical-seed.svg"
 
 <h1>A Baby Tree</h1>
  <p>Like the tree that grows from the seed, you hope for the best, but each will grow up differently depending on the co-owners.</p>
-
-{% include related.html %}

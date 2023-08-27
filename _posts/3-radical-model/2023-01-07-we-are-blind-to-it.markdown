@@ -59,5 +59,3 @@ image:    "icon-we-are-blind-to-it.svg"
    <li>the <em><span class='_paradigm'>RAD</span>s! Mobile App</em> converts recognized contributions to <span class='_paradigm'>RAD</span></span>s</li>
    <li><span class='_paradigm'>RAD</span>s make contributions tangible.</li>
   </ul>
-
-{% include related.html %}

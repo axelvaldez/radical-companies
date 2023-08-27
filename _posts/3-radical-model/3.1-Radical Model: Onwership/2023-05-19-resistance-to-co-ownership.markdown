@@ -34,5 +34,3 @@ image:    "icon-resistance-to-co-ownership.svg"
     alt="A three-level pyramid with WORSE OFF at the bottom, BETTER OFF in the middle, and OWNERS at the top. The WORSE and BETTER OFF levels are labeled NOn-OWNERS."
     width="70%">
   </div>
-
-{% include related.html %}

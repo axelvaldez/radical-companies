@@ -83,5 +83,3 @@ image:    "icon-get-rid-of-ownership.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

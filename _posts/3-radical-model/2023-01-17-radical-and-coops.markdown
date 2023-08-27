@@ -25,5 +25,3 @@ image:    "icon-radical-coops.svg"
  <p>On the other hand, Radical-based companies could operate as co-ops. The &ldquo;excess&rdquo; <span class='_paradigm'>RAD</span> yields could be put in an account, so that everybody would get the same take-home pay.</p>
  <p>Not sure what you would do with the excess amount. It might even lead people to not contribute.</p>
  <p>On second thought, I don&rsquo;t think this would last long, but it might be worth the experiment for some people.</p>
-
-{% include related.html %}

@@ -132,5 +132,3 @@ image:    "icon-dont-screw-with-my-benefits.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

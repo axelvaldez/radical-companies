@@ -55,5 +55,3 @@ image:    "icon-what-about-leftover-violence.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

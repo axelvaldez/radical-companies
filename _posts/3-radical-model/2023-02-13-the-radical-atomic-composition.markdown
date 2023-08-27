@@ -125,5 +125,3 @@ image:    "icon-the-radical-atomic-composition.svg"
 
 <h1>The Molecule</h1>
  <p><span class="_paradigm">Radicalium</span>, the <span class="_paradigm">Radical Molecule</span>, and it elements have potential beyond our wildest dreams. Our Lab will continue to work on it.</p>
-
-{% include related.html %}

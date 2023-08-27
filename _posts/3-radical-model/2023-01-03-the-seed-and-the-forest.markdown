@@ -20,5 +20,3 @@ image:    "icon-the-seed-and-the-forest.svg"
    </ul>
   </p>
  </div>
-
-{% include related.html %}

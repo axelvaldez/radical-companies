@@ -236,5 +236,3 @@ image:    "icon-google-goes-radical.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

@@ -45,5 +45,3 @@ image:    "icon-meaning-and-belonging-are-not-enough.svg"
  <span style="float:left;  ">                                                                          Previous</span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/17/feelings-are-not-enough">Next</a></span>
 </div>
-
-{% include related.html %}

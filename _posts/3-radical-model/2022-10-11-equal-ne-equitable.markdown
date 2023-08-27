@@ -158,5 +158,3 @@ image:    "icon-equal-ne-equitable.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

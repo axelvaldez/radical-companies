@@ -41,5 +41,3 @@ image:    "icon-meaningless-means-of-production.svg"
     </tr>
    </table>
   </div>
-
-{% include related.html %}

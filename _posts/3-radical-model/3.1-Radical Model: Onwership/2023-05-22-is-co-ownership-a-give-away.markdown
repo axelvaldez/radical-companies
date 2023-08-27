@@ -43,5 +43,3 @@ image:    "icon-is-co-ownership-a-give-away.svg"
  <p>You want them to succeed and they want to succeed. Nevertheless, keep in mind that we are trained from an early age to <em>compete</em>.</p>
  <p>You were the boss and everybody submitted to you (more or less). Now all of you will have to learn to collaborate and deal with each other as equally well-intentioned and wanting your common work to succeed.</p>
  <p>It is going to be strenuous for a while, but at the end of the tunnel you all get what you want.</p>
-
-{% include related.html %}

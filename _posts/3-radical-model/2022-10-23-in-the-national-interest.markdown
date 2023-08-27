@@ -179,5 +179,3 @@ image:    "icon-in-the-national-interest.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

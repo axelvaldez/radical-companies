@@ -29,5 +29,3 @@ image:    "icon-roundabouts.svg"
 
  <h1>The Important Point</h1>
   <p>The point, of course, is not the money saving for the local government or the time savings for drivers. The important thing is that with Roundabouts people don&rsquo;t need an &ldquo;authority&rdquo; to tell them how to proceed. As adults they can figure out how to deal with what they see in the place, at the moment.</p>
-
-{% include related.html %}

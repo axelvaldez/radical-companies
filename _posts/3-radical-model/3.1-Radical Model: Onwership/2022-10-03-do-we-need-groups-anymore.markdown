@@ -57,5 +57,3 @@ image:    "icon-do-we-need-groups-anymore.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

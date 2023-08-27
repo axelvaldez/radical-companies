@@ -71,5 +71,3 @@ image:    "icon-what-about-people-who-dont-care.svg"
    </tr>
   </table>
  </div>
-
-{% include related.html %}

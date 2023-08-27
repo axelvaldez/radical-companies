@@ -116,5 +116,3 @@ image:    "icon-ownership-is.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

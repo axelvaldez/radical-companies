@@ -104,5 +104,3 @@ image:    "icon-the-radical-foundation-revised.svg"
    </tr>
   </table>
  </div>
-
-{% include related.html %}

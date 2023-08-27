@@ -54,5 +54,3 @@ image:    "icon-let-them-eat-title.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

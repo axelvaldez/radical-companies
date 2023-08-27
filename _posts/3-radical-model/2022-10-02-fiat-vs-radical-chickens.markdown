@@ -25,5 +25,3 @@ image:    "icon-super-chicken-coop.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

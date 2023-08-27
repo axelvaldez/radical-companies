@@ -116,5 +116,3 @@ image:    "icon-how-to-talk-about-radical-foundations.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

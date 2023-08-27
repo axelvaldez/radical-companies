@@ -24,5 +24,3 @@ image:    "icon-feathers-tattoos-clothes-distinguishing-marks.svg"
    <li>You are not their mother, or their sibling, but you are a member of their community.</li>
    <li>Lead with love.</li>
   </ul>
-
-{% include related.html %}
