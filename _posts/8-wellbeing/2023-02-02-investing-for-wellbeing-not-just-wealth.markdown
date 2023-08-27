@@ -38,5 +38,3 @@ image:    "icon-investing-for-wellbeing-not-just-wealth.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
