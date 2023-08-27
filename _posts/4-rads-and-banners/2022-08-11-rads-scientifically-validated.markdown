@@ -133,5 +133,3 @@ image:    "icon-giving-rads-validated.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

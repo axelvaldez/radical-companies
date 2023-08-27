@@ -47,5 +47,3 @@ image:    "icon-radical-units-of-measure.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

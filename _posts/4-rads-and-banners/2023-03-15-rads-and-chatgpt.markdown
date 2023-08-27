@@ -128,5 +128,3 @@ image:    "icon-rads-and-chatgpt.svg"
    </tr>
   </table>
  </div>
-
-{% include related.html %}

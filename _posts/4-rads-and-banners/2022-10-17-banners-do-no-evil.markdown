@@ -29,5 +29,3 @@ image:    "icon-banners-do-no-evil.svg"
    src="/assets/img/pic-banners-do-no-evil.svg"
    alt=""
    width="50%">
-
-{% include related.html %}

@@ -22,5 +22,3 @@ image:    "icon-let-them-live-it.svg"
    <li><span class='_paradigm'>RAD</span>s give co-owners ownership of the wealth they create.</li>
    <li>Revenue is factored through the <span class='_paradigm'>RAD</span>s and makes those contributions tangible.</li>
   </ul>
-
-{% include related.html %}

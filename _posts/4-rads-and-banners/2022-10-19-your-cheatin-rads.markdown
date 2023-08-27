@@ -19,5 +19,3 @@ image:    "icon-your-cheatin-rads.svg"
  <p><span class='_quotespan'>Hey, how come you have been giving each other 100% of your <span class='_paradigm'>RAD</span>s?</span></p>
  <p><span class='_quotespan'>Don&rsquo;t you know what&rsquo;s happening outside your team? Aren&rsquo;t you curious?</span></p>
  <p><span class='_quotespan'>It is good to take time to observe all the life that&rsquo;s going on around you. Maybe you&rsquo;ll find contributions there.</span></p>
-
-{% include related.html %}

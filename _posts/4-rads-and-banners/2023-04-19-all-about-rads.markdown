@@ -78,5 +78,3 @@ image:    "icon-all-about-rads.svg"
     </ul>
    <p>In these cases, co-owners can see what happens and, I hope, challenge the toxicity.</p>
   </div>
-
-{% include related.html %}

@@ -58,5 +58,3 @@ image:    "icon-capital-versus-contributions.svg"
    <li>They give you <span class='_paradigm'>RAD</span>s in recognition.</li>
    <li>Your percentage of <span class='_paradigm'>RAD</span>s determines your percentage of ownership, this month (<em>i.e.</em>, it is dynamic).</li>
   </ul>
-
-{% include related.html %}

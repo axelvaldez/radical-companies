@@ -28,5 +28,3 @@ image:    "icon-exit-to-community.svg"
    <li>There is no voting. Decisions are made by consent, not consensus.</li>
    <li>If it ever comes to pass, the person with the most <span class='_paradigm'>RAD</span>s is the tie breaker.</li>
   </ul>
-
-{% include related.html %}

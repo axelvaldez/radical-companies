@@ -180,5 +180,3 @@ image:    "icon-small-bites-how-lockheed-martin-could-ease-into-using-rads.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

@@ -37,5 +37,3 @@ image:    "icon-the-rads-mobile-app.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}
