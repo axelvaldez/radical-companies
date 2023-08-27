@@ -240,7 +240,7 @@ image:    "icon-template.svg"
     <tr>
      <th>But&hellip;</th>
      <td>
-      <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs and you give me all of yours</span> And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.<p>
+      <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs and you give me all of yours</span> And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. They can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.</p>
       <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won&rsquo;t go perfect or smoothly. There will be plenty of bumps along the way. The &ldquo;fix,&rdquo; in my opinion, is not to elect a boss to tell us what to do; the &ldquo;fix&rdquo; is to deal with what you consider a problem—you are all co-owners.</p>
       <p>An objection that I heard more than once is that <em>other</em> people are coin operated. They do not want to do anything for a community or society. &ldquo;Homo economicus&rdquo; is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.</p>
      </td>
@@ -347,7 +347,7 @@ image:    "icon-template.svg"
  <div class='_center'>
  <table class='_h2table'>
   <tr>
-   <th>Fiat</strong></th>
+   <th>Fiat</th>
    <td>
     <p>Competition is another constant feature of the Fiat model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the Fiat system. There are even debate clubs where we can practice our competitive skills.</p>
     <p>And, &ldquo;so?&rdquo; you ask, &ldquo;<em>what is wrong with that? We need to compete to survive</em>.&rdquo; But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
@@ -390,7 +390,7 @@ image:    "icon-template.svg"
  <div class='_center'>
   <table class='_h2table'>
    <tr>
-    <th>Fiat</strong></th>
+    <th>Fiat</th>
     <td>
      The only consistent &ldquo;tool&rdquo; in the Fiat model is Force.
     </td>
@@ -509,57 +509,58 @@ image:    "icon-template.svg"
   </table>
 
 <h1>RADs</h1>
- <div class='_center'>
-  <table class='_h2table'>
-   <tr>
-    <th>Fiat</th>
-    <td>
-     <p>In a Fiat business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>Radical</th>
-    <td>
-     <p>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
-    </td>
-   </tr>
-    <div class='_center'>
-     <table class='_h2table'>
-      <tr>
-       <th>What Are RADs?</th>
-       <td>
-        <p>RADs are like tokens—not crypto tokens or anything like them. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in Radical companies it goes to people who create the wealth, people like you, the co-owners.</p>
-        <p>The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
-        <div class='_center'>
-         <img
-          src='/assets/img/pic-recognitions-to-rads-equation.svg'
-          width='70%'
-          alt=''>
-        </div>
-       </td>
-      </tr>
-     </table>
-    </div>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>Fiat</th>
+     <td>
+      <p>In a Fiat business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Radical</th>
+     <td>
+      <p>In a company based on Radical, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>What Are RADs?</th>
+     <td>
+      <p>RADs are like tokens—not crypto tokens or anything like them. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in Radical companies it goes to people who create the wealth, people like you, the co-owners.</p>
+      <p>The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
+       <div class='_center'>
+        <img
+         src='/assets/img/pic-recognitions-to-rads-equation.svg'
+         width='70%'
+         alt=''>
+       </div>
+      </td>
+     </tr>
+    </table>
+   </div>
  <p>The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the Radical spear. By using it,</p>
-  <table>
-   <tr>
-    <th>People need to learn how to be owners</th>
-    <td>
-     <p>In the Fiat world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
-     <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
-    </td>
-   </tr>
-   <tr>
-    <th>People need to learn to <em>notice</em> and <em>recognize</em> contributions</th>
-    <td>
-     <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
-      <div class='_citation'>
-       <p>R, the cleaning woman, went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
-       <p>When R came back around she started talking to the young woman. It was easy to listen in, so I did.</p>
-       <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span></p>
-       <p>Now she was looking more like her usual self.</p>
-       <p id='_signature'>Matt Perez</p>
-      </div>
+   <div class='_center'>
+    <table class='_h2table'>
+     <tr>
+      <th>People need to learn how to be owners</th>
+      <td>
+       <p>In the Fiat world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
+       <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
+      </td>
+     </tr>
+     <tr>
+      <th>People need to learn to <em>notice</em> and <em>recognize</em> contributions</th>
+      <td>
+       <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
+        <div class='_citation'>
+         <p>R, the cleaning woman, went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
+         <p>When R came back around she started talking to the young woman. It was easy to listen in, so I did.</p>
+         <p>It turned out that the young woman had a traumatic experience the night before. She had not slept much and decided to come to the office early instead of facing her walls. But here she was, facing the office walls. The conversation continued and went on for a while, but by the end the young woman said <span class='_quotespan'>Screw him. His loss.</span></p>
+         <p>Now she was looking more like her usual self.</p>
+         <p id='_signature'>Matt Perez</p>
+        </td>
+       </tr>
+     </div>
      <p>That was a major contribution,</p>
        <ul>
         <li>R noticed that somebody was not her usual self, and</li>
