@@ -292,17 +292,17 @@ image:    "icon-template.svg"
       <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the Banner would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
        <table>
         <tr>
-         <th style='background-color:yellow; width:50%; text-align:left; '>Banner:</th>
-         <th style='background-color:#22FFFF; width:50%; text-align:left; '>Contributions:</th>
+         <th style='background-color:yellow; width:60%; text-align:left; '>Banner:</th>
+         <th style='background-color:#22FFFF; width:60%; text-align:left; '>Contributions:</th>
         </tr>
         <tr>
-         <td style='background-color:yellow; width:50%; padding:inherit; width:2rem; '>
+         <td style='background-color:yellow; width:60%; padding:inherit; width:2rem; '>
           Goal: $1M<br>
           Time: 3 years<br>
           Reason: To buy a building<br>
           Beneficiaries: Building Fund
          </td>
-         <td style='background-color:#22FFFF; width:50%; padding:inherit; width:2rem; '>
+         <td style='background-color:#22FFFF; width:60%; padding:inherit; width:2rem; '>
           Mary O: $100.00<br>
           Anita P: 0.25% de $1M<br>
           Salim Q: 5.% of RADs yield<br>
