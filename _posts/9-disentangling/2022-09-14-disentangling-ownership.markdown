@@ -57,5 +57,3 @@ image:    "icon-disentangling-ownership.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

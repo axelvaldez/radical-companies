@@ -148,5 +148,3 @@ image:    "icon-disentangling-management.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

@@ -76,5 +76,3 @@ image:    "icon-disentangling-investments.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
