@@ -237,6 +237,7 @@ image:    "icon-template.svg"
       <p>The mobile app does all the calculations.</p>
      </td>
     </tr>
+<!--
     <tr>
      <th>But&hellip;</th>
      <td>
@@ -262,7 +263,6 @@ image:    "icon-template.svg"
       <p>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.</p>
      </td>
     </tr>
-<!--
     <tr>
      <th>But&hellip;</th>
      <td>
