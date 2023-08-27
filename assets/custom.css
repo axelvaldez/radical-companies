@@ -621,17 +621,16 @@ table._h2table p:first-child {
  */
   text-align:left;
 }
-table._h2table tr + th {
-  min-width:15rem;
-  max-width:15rem;
-}
 table._h2table tr th,
 table._h2table tr th p {
   text-align:right;
   vertical-align:text-top;
   padding-right:0.5em;
   font-weight:bold;
-  column-width:25%;
+
+  column-width:15rem;
+  min-width:15rem;
+  max-width:15rem;
 }
 table._h2table tr td,
 table._h2table tr td p {
