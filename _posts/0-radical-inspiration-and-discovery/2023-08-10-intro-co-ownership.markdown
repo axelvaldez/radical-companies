@@ -71,14 +71,3 @@ image:    "icon-template.svg"
  <p>You are expected to speak up if you think somebody is trying to game the RAD system. You are expected to care. And you are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit the community.</p>
  <p>You are expected to speak up when you see opportunities that others may not see. It is a safe space because you are a co-owner and you can technology people how to migrate out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
  <p>That is the catch. And like in the Matrix movies, you need to get out of your pod.</p>
-
-<h1 class='_section'>ENDNOTES</h1>
- <ul>
-  <li id='en01'>
-   <p class='_list-item'>
-    <em>Ephesians 6:5.</em>
-    &lt;<a href="https://biblehub.com/ephesians/6-5.htm">https://biblehub.com/ephesians/6-5.htm</a>&gt;
-    <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
-   </p>
-  </li>
- </ul>

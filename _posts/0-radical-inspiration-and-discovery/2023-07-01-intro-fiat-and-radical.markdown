@@ -78,3 +78,14 @@ image:    "icon-template.svg"
   </ul>
  <p>Think of what happens when you get caught not following the rules. Think of how many decisions you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, I am pretty sure that Bob is not going to like it! You can&rsquo;t make a decision without considering Bob, your boss.</p>
  <p>You may be thinking, &ldquo;<em>How else would the system work? Things would not work without Bob.</em>&rdquo; That&rsquo;s part of what we learn as we grow up in the Fiat system. It is Bob or chaos. You do what you do, without thinking, because of Bob, your boss. This is encouraged by the Fiat system.</p>
+
+<h1 class='_section'>ENDNOTES</h1>
+ <ul>
+  <li id='en01'>
+   <p class='_list-item'>
+    <em>Ephesians 6:5.</em>
+    &lt;<a href="https://biblehub.com/ephesians/6-5.htm">https://biblehub.com/ephesians/6-5.htm</a>&gt;
+    <a class='_uparrow' href='#bm01'><img src='/assets/img/arrow-up-icon.png'></a>
+   </p>
+  </li>
+ </ul>
