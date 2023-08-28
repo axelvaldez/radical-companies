@@ -50,4 +50,3 @@ image:    "icon-template.svg"
  <p>Fiat tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the Fiat system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.</p>
  <p>Anybody talking about alternatives (you and I) must be crazy. Ignore them.</p>
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
-xxx
