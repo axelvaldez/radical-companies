@@ -14,7 +14,7 @@ image:    "icon-template.svg"
  <div class='_center'>
  <table class='_h2table'>
   <tr>
-   <th>Fiat</th>
+   <th><span class='_paradigm'>Fiat</span></th>
    <td>
     <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that&rsquo;s how the story goes.</p>
     <p>Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</p>
@@ -24,11 +24,11 @@ image:    "icon-template.svg"
    </td>
   </tr>
   <tr>
-   <th>Radical</th>
+   <th><span class='_paradigm'>Radical</span></th>
     <td>
-     <p>Enclosures do come out of Force and Force is a no-no in Radical-based alternatives.</p>
+     <p>Enclosures do come out of Force and Force is a no-no in <span class='_paradigm'>Radical</span>-based alternatives.</p>
      <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
-     <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-Fiat that we are.But we need to make it happen.</p>
+     <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-<span class='_paradigm'>Fiat</span> that we are.But we need to make it happen.</p>
     </td>
    </tr>
   </table>
