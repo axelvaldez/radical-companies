@@ -80,30 +80,6 @@ image:    "icon-template.svg"
  <p>You may be thinking, &ldquo;<em>How else would the system work? Things would not work without Bob.</em>&rdquo; That&rsquo;s part of what we learn as we grow up in the Fiat system. It is Bob or chaos. You do what you do, without thinking, because of Bob, your boss. This is encouraged by the Fiat system.</p>
 
 
-<h1>Scarcity and Abundance</h1>
- <div class='_center'>
- <table class='_h2table'>
-  <tr>
-   <th>Fiat</th>
-   <td>
-    <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that&rsquo;s how the story goes.</p>
-    <p>Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</p>
-    <p>Abundance for a few, scarcity for everybody else.</p>
-    <p>Abundance brings out the forces to enclose, and that is going on today. For example, the newest abundant good is the so-called AI computing. It is abundant because it has evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.</p>
-    <p>Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>Radical</th>
-    <td>
-     <p>Enclosures do come out of Force and Force is a no-no in Radical-based alternatives.</p>
-     <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
-     <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, as we have learned as the children-of-Fiat that we are.But we need to make it happen.</p>
-    </td>
-   </tr>
-  </table>
- </div>
-
 <h1>rTools</h1>
  <div class='_center'>
   <table class='_h2table'>
