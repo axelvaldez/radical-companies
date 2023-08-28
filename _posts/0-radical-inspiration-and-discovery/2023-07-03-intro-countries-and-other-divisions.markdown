@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Countries and Other Divisions"
+title:    "Intro: Countries and Other Divisions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"

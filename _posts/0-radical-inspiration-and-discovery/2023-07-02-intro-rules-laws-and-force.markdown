@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Rules, Laws, and Force"
+title:    "Intro: Rules, Laws, and Force"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"
