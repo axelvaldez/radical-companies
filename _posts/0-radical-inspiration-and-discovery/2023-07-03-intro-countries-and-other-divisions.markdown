@@ -83,9 +83,9 @@ image:    "icon-template.svg"
     <p>It is alignment in the sense that it ties people together into a community with something in common.</p>
     <p>To be clear,</p>
      <ul>
-      <li>If the <em>what for</em>, the Impact, is not your thing, then you don’t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business it is because it is very, very difficult.</li>
+      <li>If the <em>what for</em>, the Impact, is not your thing, then you don’t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business because it is very, very difficult.</li>
       <li>If the why, the Purpose, doesn’t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don’t join the community.</li>
-      <li>The what, when, and how, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create you own with the support of the community.</li>
+      <li>The what, when, and how, the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li>
      </ul>
     </td>
    </tr>
@@ -94,7 +94,7 @@ image:    "icon-template.svg"
     <td>
      <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a <em>company</em>,</p>
       <ul>
-       <li>Businesses is what we are used to. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
+       <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
        <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
        <li>BTW, the word company comes from the Latin prefix “<em>co-</em>,” meaning <em>together</em>, and the Latin word “<em>-pan</em>,” meaning <em>bread</em>: <em>breaking bread together</em>.</li>
        <li>The level of co-ownership is determined by contributions, not capital.</li>
