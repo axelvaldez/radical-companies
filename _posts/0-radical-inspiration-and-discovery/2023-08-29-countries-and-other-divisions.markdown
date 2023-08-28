@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "FIAT & RADICAL"
+title:    "Countries and Other Divisions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"
@@ -9,8 +9,6 @@ image:    "icon-template.svg"
 <div style='display:none; '>
  <p>Intro to the <span class='_paradigm'>Fiat System</span> and to the <span class='_paradigm'>Radical Foundation.</span>.</p>
 </div>
-
-<h1 class='_section'>Countries and Other Divisions</h1>
 
 <h1>Fiat</h1>
   <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
