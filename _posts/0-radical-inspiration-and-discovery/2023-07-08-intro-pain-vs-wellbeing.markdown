@@ -14,10 +14,10 @@ image:    "icon-template.svg"
  <div class='_center'>
   <table class='_h2table'>
    <tr>
-    <th>Fiat</th>
+    <th><span class='_paradigm'>Fiat</span></th>
     <td>
-     <p>The Fiat model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
-     <p>In the Fiat system, a Threat is usually enough,</p>
+     <p>The <span class='_paradigm'>Fiat</span> model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
+     <p>In the <span class='_paradigm'>Fiat</span> system, a Threat is usually enough,</p>
       <div class='_center'>
        <img
         src='/assets/img/pic-fiat-pain.svg'
@@ -27,9 +27,9 @@ image:    "icon-template.svg"
     </td>
    </tr>
    <tr>
-    <th>Radical</th>
+    <th><span class='_paradigm'>Radical</span></th>
     <td>
-     <p>The Radical foundation is all about wellbeing for you and your community to live your lives.</p>
+     <p>The <span class='_paradigm'>Radical</span> foundation is all about wellbeing for you and your community to live your lives.</p>
       <div class='_center'>
        <img
         src='/assets/img/pic-radical-wellbeing.svg'
@@ -42,21 +42,21 @@ image:    "icon-template.svg"
  </div>
 
 <h1>Transcendence</h1>
- <p>How do you go from Fiat to Radical?</p>
+ <p>How do you go from <span class='_paradigm'>Fiat</span> to <span class='_paradigm'>Radical</span>?</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
      <th>Who Am I If Not a Manager?</th>
      <td>
       <div class='_citation'>
-       <p>When we talk to people about going Radical at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
-       <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going Radical because they are currently boxed up by the Fiat hierarchy.</p>
+       <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
+       <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
        <p id='_signature'>Adrian Perez</p>
       </div>
      </td>
     </tr>
     <tr>
-     <th>How Fiat Developed (according to me)</th>
+     <th>How <span class='_paradigm'>Fiat</span> Developed (according to me)</th>
      <td>
       <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
        <div class='_citation'>
