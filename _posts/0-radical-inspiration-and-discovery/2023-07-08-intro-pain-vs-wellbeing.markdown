@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Pain and Trascendance"
+title:    "Intro: Pain and Trascendance"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"

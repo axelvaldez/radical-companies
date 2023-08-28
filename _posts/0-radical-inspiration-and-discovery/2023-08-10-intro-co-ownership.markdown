@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "CO-OWNERSHIP"
+title:    "Intro: Co-Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Competition and Collaboration"
+title:    "Intro: Competition and Collaboration"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"

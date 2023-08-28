@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Scarcity and Abundance"
+title:    "Intro: Scarcity and Abundance"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"
