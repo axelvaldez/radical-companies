@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Scarcity and Abundance"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-scarcity-and-abundance.svg"
 ---
 
 <div style='display:none; '>

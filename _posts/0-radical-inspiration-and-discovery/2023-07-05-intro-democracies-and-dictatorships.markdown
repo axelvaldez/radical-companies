@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Democracies and Dictatorships"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-democracies-and-dictatorships.svg"
 ---
 
 <div style='display:none; '>

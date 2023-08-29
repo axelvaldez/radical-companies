@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: RADs"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-rads.svg"
 ---
 
 <div style='display:none; '>

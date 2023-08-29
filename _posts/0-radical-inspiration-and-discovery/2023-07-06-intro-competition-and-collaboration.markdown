@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Competition and Collaboration"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-competition-and-collaboration.svg"
 ---
 
 <div style='display:none; '>

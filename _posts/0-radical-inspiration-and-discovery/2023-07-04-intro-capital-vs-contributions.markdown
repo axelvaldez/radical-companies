@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Capital vs Contributions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-capital-vs-contributions.svg"
 ---
 
 <div style='display:none; '>
