@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Intro: Transcendence"
+title:    "Intro: Pain vs Wellbeing"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-intro-pain-vs-wellbeing.svg"
