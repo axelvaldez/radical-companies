@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Intro: FIAT & RADICAL"
+title:    "Intro: Fiat & Radical"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-template.svg"
