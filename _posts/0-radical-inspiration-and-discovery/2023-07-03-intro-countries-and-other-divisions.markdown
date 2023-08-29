@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Countries and Other Divisions"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-countries-and-other-divisions.svg"
 ---
 
 <div style='display:none; '>

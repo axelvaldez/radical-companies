@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Rules, Laws, and Force"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-intro-rules-laws-and-force.svg"
 ---
 
 <div style='display:none; '>
