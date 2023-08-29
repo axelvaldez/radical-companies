@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Fiat & Radical"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-intro-fiat-and-radical.svg"
+image:    "icon-template.svg"
 ---
 
 <div style='display:none; '>
