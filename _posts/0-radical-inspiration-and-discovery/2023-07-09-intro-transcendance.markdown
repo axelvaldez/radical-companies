@@ -3,7 +3,7 @@ layout:   post
 title:    "Intro: Transcendence"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-intro-transcendance.svg"
+image:    "icon-intro-transcendence.svg"
 ---
 
 <div style='display:none; '>
