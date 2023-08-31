@@ -44,7 +44,7 @@ image:    "icon-intro-fiat-and-radical.svg"
  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. "<em>Move those boxes from there to over there&hellip;  because I say so&hellip; or else).</em>&rdquo;</p>
 
 <h1>The Fiat System</h1>
- <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. &ldquo;<em>My life is not limited by any system, I shape it however I want to</em>.&rdquo; Maybe &ldquo;ecology&rdquo; is more your thing, but an ecology is a system, too.</p>
+ <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. &ldquo;<em>My life is not limited by any system, I shape it however I want to.</em>&rdquo; Maybe &ldquo;ecology&rdquo; is more your thing, but an ecology is a system, too.</p>
  <p>We created the <span class='_paradigm'>Fiat</span> system and we uphold it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
  <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on,</p>
   <ul>
@@ -56,7 +56,7 @@ image:    "icon-intro-fiat-and-radical.svg"
 
 <h1>It Starts with Rules</h1>
  <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Anybody with an addiction or a tick were at the edge as well.</p>
- <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (did you hit him back harder?) and learn new ones (keep your hands to yourself).</p>
+ <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder?</span>) and learn new ones (keep your hands to yourself).</p>
  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. &ldquo;<em>That will be on the test!</em>&rdquo;</p>
  <p>Also, in primary school is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
   <div class='_center'>
