@@ -125,7 +125,7 @@ image:    "icon-rbuddyneighbor.svg"
 
 <h1>Food</h1>
  <p>Some people love to cook. Others, like myself, just eat. I can appreciate when I like a dish, but that&rsquo;s it. If anybody asks, I&rsquo;ll say, <span class="_quotespan">it&rsquo;s good;&rdquo; sometimes I&rsquo;ll even say, &ldquo;it&rsquo;s really good.</span></p>
- <p>Even the people who like to cook, sometimes feel like not cooking.. You crave a dish, but you don&rsquo;t want to cook it. No matter, you still have to eat.</p>
+ <p>Even the people who like to cook, sometimes feel like not cooking. You crave a dish, but you don&rsquo;t want to cook it. No matter, you still have to eat.</p>
  <p>So, here&rsquo;s other potential <span class="_paradigm">rBuddyNeighbors</span> scenarios,</p>
   <div class="_center">
    <table class="_h2table">

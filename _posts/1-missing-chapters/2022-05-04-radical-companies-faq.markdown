@@ -53,7 +53,7 @@ image:    "icon-radical-companies-faq.svg"
 
 <h1 class='_q'>And strategy?</h1>
  <div class='_a'>
-  <p>As far as the company&rsquo;s strategy, in a small company maybe everybody gets involved and comes up with one. In a larger company, a few people may prove better at strategy and they can lead it. No matter, other co-owners can always bring their opinions or data to bear..</p>
+  <p>As far as the company&rsquo;s strategy, in a small company maybe everybody gets involved and comes up with one. In a larger company, a few people may prove better at strategy and they can lead it. No matter, other co-owners can always bring their opinions or data to bear.</p>
  </div>
 
 <h1 class='_q'>Stock shares don&rsquo;t count? Really?</h1>
