@@ -13,7 +13,7 @@ image:    "icon-intro-countries-and-other-divisions.svg"
 <h1>Fiat</h1>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that had been cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church rules.</p>
-  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
+  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse out whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
    <div class='_center'>
     <table class='_h2table'>
      <tr>
