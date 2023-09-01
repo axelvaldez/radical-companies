@@ -38,7 +38,7 @@ image:    "icon-intro-rules-laws-and-force.svg"
    <li>Paradise</li>
    <li>Eve as the bad apple</li>
    <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
-   <li>&ldquo;<em>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ.</em>&rdquo;<a href="#bookmark=id.ysooerb3kmpx">∇</a></li>
+   <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
   </ul>
  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
   <ul>
