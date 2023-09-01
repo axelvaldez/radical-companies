@@ -43,7 +43,7 @@ image:    "icon-intro-fiat-and-radical.svg"
  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means because I say so. <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).</p>
  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. "<em>Move those boxes from there to over there&hellip;  because I say so&hellip; or else).</em>&rdquo;</p>
 
-<h1>The Fiat System</h1>
+<h1>The System</h1>
  <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. &ldquo;<em>My life is not limited by any system, I shape it however I want to.</em>&rdquo; Maybe &ldquo;ecology&rdquo; is more your thing, but an ecology is a system, too.</p>
  <p>We created the <span class='_paradigm'>Fiat</span> system and we uphold it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
  <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on,</p>
@@ -69,8 +69,7 @@ image:    "icon-intro-fiat-and-radical.svg"
  <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker. We are happy to be a resource and happier that we are getting a steady wage (until—surprise—we are not).</p>
  <p><span class='_quotespan'>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. We do our best for these people, but they just don&rsquo;t want to learn the rules. They want to live on the edge.</span></p>
 
-<h1>The Fiat System Is&hellip;</h1>
- <p>That is what <span class='_paradigm'>Fiat</span> system is,</p>
+<h1>Fiat Is&hellip;</h1>
   <ul>
    <li>Learning the rules,</li>
    <li>Following the rules,</li>
