@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Intro: Fiat & Radical"
+title:    "Intro: Fiat"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-intro-fiat-and-radical.svg"
@@ -9,8 +9,6 @@ image:    "icon-intro-fiat-and-radical.svg"
 <div style='display:none; '>
  <p>Intro to the <span class='_paradigm'>Fiat System</span> and to the <span class='_paradigm'>Radical Foundation.</span>.</p>
 </div>
-
-<h1 class="_section">SEEING FIAT</h1>
 
 <h1>The Fiat System</h1>
  <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
