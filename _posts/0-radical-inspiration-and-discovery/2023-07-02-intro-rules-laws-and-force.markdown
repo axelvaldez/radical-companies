@@ -24,7 +24,7 @@ image:    "icon-intro-rules-laws-and-force.svg"
     </ul>
    </li>
    <li>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
-   <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a force majeure.</li>
+   <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure.</em></li>
   </ul>
  <p>Force is ever present in our <span class='_paradigm'>Fiat</span> system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
  <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force, from threats to actual pain.</p>
