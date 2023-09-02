@@ -80,7 +80,7 @@ image:    "icon-intro-countries-and-other-divisions.svg"
   <ul>
    <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You work at a business for a wage agreed upon by the owner or his delegate.</li>
    <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
-   <li>BTW, the word company comes from the Latin prefix “<em>co-</em>,” meaning <em>together</em>, and the Latin word “<em>-pan</em>,” meaning <em>bread</em>: <em>breaking bread together</em>.</li>
+   <li>BTW, the word company comes from the Latin prefix <span class='_quotespan''>co-,<span> meaning <em>together</em>, and the Latin word <span class='_quotespan''>-pan,</span> meaning <em>bread.</em> <em>Breaking bread together</em>.</li>
    <li>The level of co-ownership is determined by contributions, not capital.</li>
    <li>These contributions are recognized by other co-owners.</li>
   </ul>
