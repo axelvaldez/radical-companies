@@ -16,7 +16,8 @@ image:    "icon-intro-countries-and-other-divisions.svg"
   <p>By the time they got to what would be known as the Americas, Fernando de Aragon and Isabel de Castilla,</p>
    <ul>
     <li>Had power over most of the peninsula and were extracting its wealth accordingly</li>
-    <li>Had developed a methodology to cleanse out whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way.</li>
+    <li>Had developed a methodology to cleanse out whatever other cultures they encountered
+    <li>They had what it took to subjugate, control, and obliterate anything that stood in their way.</li>
    </ul>
 
 <h1>Divide and Conquer</h1>
