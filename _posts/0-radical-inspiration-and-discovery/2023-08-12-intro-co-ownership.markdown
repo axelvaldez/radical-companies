@@ -77,4 +77,4 @@ image:    "icon-intro-co-ownership.svg"
    <li>You can help people to migrate out of violent language and into language that helps to learn and grow.</li>
    <li>To do all that and more because it is <em>your</em> company.</li>
   </ul>
- <p style='font-size:large; '>That is the catch!</p>
+ <p style='font-size:larger; '>That is the catch!</p>
