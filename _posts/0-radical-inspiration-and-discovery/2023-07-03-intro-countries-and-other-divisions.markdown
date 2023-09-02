@@ -13,7 +13,11 @@ image:    "icon-intro-countries-and-other-divisions.svg"
 <h1>Fiat</h1>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that had been cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church rules.</p>
-  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse out whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way.</p>
+  <p>By the time they got to what would be known as the Americas, Fernando de Aragon and Isabel de Castilla,</p>
+   <ul>
+    <li>Had power over most of the peninsula</li>
+    <li>Had developed a methodology to cleanse out whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way.</li>
+   </ul>
 
 <h1>Divide and Conquer</h1>
  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The <em>ez</em> at the end of Spanish family names is the equivalent to the possessive English (<em>i.e.</em>, Pedro&rsquo;s) to indicate that it &ldquo;belongs to&rdquo; to the men. Men were the kings of their castle and women were reduced to chattel. Sounds comical, but there is an intuitive logic to it: men now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
