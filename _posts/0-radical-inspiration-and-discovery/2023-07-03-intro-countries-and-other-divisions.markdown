@@ -10,7 +10,7 @@ image:    "icon-intro-countries-and-other-divisions.svg"
  <p>Intro to the <span class='_paradigm'>Fiat System</span> and to the <span class='_paradigm'>Radical Foundation.</span>.</p>
 </div>
 
-<h1>Fiat</h1>
+<h1 clas='_section'>Fiat</h1>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms that had been cleansed by force.</p>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church rules.</p>
   <p>By the time they got to what would be known as the Americas, Fernando de Aragon and Isabel de Castilla,</p>
@@ -36,11 +36,11 @@ image:    "icon-intro-countries-and-other-divisions.svg"
  <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
  <p>The Jewish tradition, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
 
-<div class='_center' style='font-size:400; '>
+<div class='_center' style='font-size:large; '>
  &sim; &sim; &sim;
 </div>
 
-<h1>Radical</h1>
+<h1 clas='_section'>Radical</h1>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
  <p>In a <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
@@ -88,5 +88,5 @@ image:    "icon-intro-countries-and-other-divisions.svg"
    <li>These contributions are recognized by other co-owners.</li>
   </ul>
 
-<h1>And&hellip;</h1>
+<h1 clas='_section'>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
