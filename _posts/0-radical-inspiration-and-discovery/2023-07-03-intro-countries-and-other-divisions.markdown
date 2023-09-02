@@ -15,7 +15,7 @@ image:    "icon-intro-countries-and-other-divisions.svg"
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church rules.</p>
   <p>By the time they got to what would be known as the Americas, Fernando de Aragon and Isabel de Castilla,</p>
    <ul>
-    <li>Had power over most of the peninsula and were extracting its wealth accordingly</li>
+    <li>Had power over most of the Iberian peninsula and were extracting its wealth accordingly</li>
     <li>Had developed a methodology to cleanse out whatever other cultures they encountered</li>
     <li>They had what it took to subjugate, control, and obliterate anything that stood in their way.</li>
    </ul>
