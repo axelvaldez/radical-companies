@@ -465,10 +465,12 @@ p._list-item {
 div._center table._explicitalignment p {
   text-indent:0;
 }
+/*
 h1+p,
 h2+p {
   text-indent:0;
 }
+ */
 ._float {
   float:right;
 }
