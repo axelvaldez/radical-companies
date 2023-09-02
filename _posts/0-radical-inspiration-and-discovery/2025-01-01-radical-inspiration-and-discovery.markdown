@@ -554,24 +554,24 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change world by giving people a chance to live an alternative.</p>
 
-<h1>Pain vs Wellbeing</h1>
- <h2>Fiat</h2>
-  <p>The <span class='_paradigm'>Fiat</span> model is based on <span class='_paradigm'>Pain</span> and people have gotten used to avoiding pain and surviving.</p>
-  <p>In the <span class='_paradigm'>Fiat</span> system, a threat is usually enough,</p>
-   <div class='_center'>
-    <img
-     src='/assets/img/pic-fiat-pain.svg'
-     width='25%'
-     alt=''>
-   </div>
- <h2>Radical</h2>
-  <p>The <span class='_paradigm'>Radical</span> foundation is all about <span class='_paradigm'>wellbeing</span> for you and your community to live your lives.</p>
-   <div class='_center'>
-    <img
-     src='/assets/img/pic-radical-wellbeing.svg'
-     width='25%'
-     alt=''>
-   </div>
+<h1>Pain vs Wellbeing: Fiat</h1>
+ <p>The <span class='_paradigm'>Fiat</span> model is based on <span class='_paradigm'>Pain</span> and people have gotten used to avoiding pain and surviving.</p>
+ <p>In the <span class='_paradigm'>Fiat</span> system, a threat is usually enough,</p>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-fiat-pain.svg'
+    width='25%'
+    alt=''>
+  </div>
+
+<h1>Pain vs Wellbeing: Radical</h1>
+ <p>The <span class='_paradigm'>Radical</span> foundation is all about <span class='_paradigm'>wellbeing</span> for you and your community to live your lives.</p>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-radical-wellbeing.svg'
+    width='25%'
+    alt=''>
+  </div>
 
 <h1>Transcendence</h1>
  <p>How do you go from <span class='_paradigm'>Fiat</span> to <span class='_paradigm'>Radical</span>?</p>
