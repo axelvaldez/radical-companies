@@ -37,7 +37,7 @@ image:    "icon-intro-rules-laws-and-force.svg"
    <li>An all powerful supernatural being at the top</li>
    <li>Paradise</li>
    <li>Eve as the bad apple</li>
-   <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
+   <li>Homosexuals as abominations, pushed to the edge.</li>
    <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
   </ul>
 
