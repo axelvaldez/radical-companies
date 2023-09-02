@@ -17,7 +17,7 @@ image:    "icon-intro-pain-vs-wellbeing.svg"
     <th><span class='_paradigm'>Fiat</span></th>
     <td>
      <p>The <span class='_paradigm'>Fiat</span> model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
-     <p>In the <span class='_paradigm'>Fiat</span> system, a Threat is usually enough,</p>
+     <p>In the <span class='_paradigm'>Fiat</span> system a Threat is usually enough to get compliance. If not, Force and Pain will rear their ugly heads.</p>
       <div class='_center'>
        <img
         src='/assets/img/pic-fiat-pain.svg'
