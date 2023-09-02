@@ -10,7 +10,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>Intro to the <span class='_paradigm'>Fiat System</span> and <span class='_paradigm'>Co-Ownership.</span>.</p>
 </div>
 
-<div class='_h2heading' id='The Fiat System'>
+<div class='_h2heading'>
  <h1>The Fiat System</h1>
   <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
   <p>In the world of <span class='_paradigm'>Radical</span> it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>

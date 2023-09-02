@@ -662,9 +662,6 @@ ul th, ul td, ul th p, ul td p, td p {
 /*
  */
  ._h2heading {
-  text-indent:1rem;
- }
- ._h2heading h1 {
-  font-size:smaller;
-  font-color:red;
+  text-indent:2rem;
+  color:red;
  }
