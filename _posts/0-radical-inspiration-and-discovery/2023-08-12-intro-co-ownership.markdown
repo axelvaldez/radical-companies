@@ -67,7 +67,15 @@ image:    "icon-intro-co-ownership.svg"
 
 <h1>What’s the Catch?</h1>
  <p><span class='_quotespan'>Sounds like people are not guaranteed a salary!</span></p>
- <p>And, yes, people are not “guaranteed” a salary, but if you choose, the PRI Fund can provide a Predictable and Recurring Income. If “more” means more than just being a cog in the money making machine, then, yes, you are expected to do more “owner stuff.”</p>
- <p>You are expected to speak up if you think somebody is trying to game the  <span class='_paradigm'>RAD</span> system. You are expected to care. And you are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit the community.</p>
- <p>You are expected to speak up when you see opportunities that others may not see. It is a safe space because you are a co-owner and you can technology people how to migrate out of violent language and into language that would help learn and grow. You are expected to do all that and more because it is your company.</p>
- <p>That is the catch. And like in the Matrix movies, you need to get out of your pod.</p>
+ <p>And, yes, people are not guaranteed a <span class='_paradigm'>Fiat</span> salary. However, if you choose, the <span class='_paradigm'>PRI Fund</span> can provide a <em>Predictable, Recurring Income.</em></p>
+ <p>If &ldquo;more&rdquo; means more than just being a replaceable resource in the money-making machine, then, yes, you are expected to do more &ldquo;owner stuff,&rdquo;</p>
+  <ul>
+   <li>You are expected to speak up if you think another co-owner is trying to game the system.</li>
+   <li>You are expected to care.</li>
+   <li>You are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit them and the community.</li>
+   <li>You are expected to speak up when you see opportunities that others may not see.</li>
+   <li>You can help people to migrate out of violent language and into language that helps to learn and grow.</li>
+   <li>To do all that and more because it is <em>your</em> company.</li>
+  </ul>
+ <p>That is the catch.</p>
+ <p>Like in the Matrix movies, you need to get out of the pod you were put into.</p>
