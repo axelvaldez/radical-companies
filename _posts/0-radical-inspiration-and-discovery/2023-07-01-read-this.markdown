@@ -1,0 +1,8 @@
+---
+layout:   post
+title:    "Radical Inspiration and Discovery"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-template.svg"
+---
+
