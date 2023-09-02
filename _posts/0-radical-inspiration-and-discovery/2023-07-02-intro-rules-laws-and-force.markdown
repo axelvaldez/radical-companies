@@ -40,6 +40,8 @@ image:    "icon-intro-rules-laws-and-force.svg"
    <li>Homosexuality and shellfish as abominations, pushed to the edge.</li>
    <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
   </ul>
+
+<h1>Most Insidious</h1>
  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
   <ul>
    <li>A god, an omnipotent being at the top</li>
