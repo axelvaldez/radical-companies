@@ -36,6 +36,10 @@ image:    "icon-intro-countries-and-other-divisions.svg"
  <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
  <p>The Jewish tradition, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
 
+<div class='_center' style='font-size:large; '>
+ &sim;
+</div>
+
 <h1>Radical</h1>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
