@@ -55,5 +55,7 @@ image:    "icon-intro-rads.svg"
      </tr>
     </table>
    </div>
+
+<h1><em>The RAD! Mobile App</em></h1>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
 
