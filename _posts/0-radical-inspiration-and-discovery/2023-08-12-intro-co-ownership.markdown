@@ -68,7 +68,7 @@ image:    "icon-intro-co-ownership.svg"
 <h1>What’s the Catch?</h1>
  <p><span class='_quotespan'>Sounds like people are not guaranteed a salary!</span></p>
  <p>And, yes, people are not guaranteed a <span class='_paradigm'>Fiat</span> salary. However, if you choose, the <span class='_paradigm'>PRI Fund</span> can provide a <em>Predictable, Recurring Income.</em></p>
- <p>If &ldquo;more&rdquo; means more than just being a replaceable resource in the money-making machine, then, yes, you are expected to do more &ldquo;owner stuff,&rdquo;</p>
+ <p>If &ldquo;more&rdquo; means more than just being a replaceable resource in the money-making machine, then, yes, you are expected to do more,</p>
   <ul>
    <li>You are expected to speak up if you think another co-owner is trying to game the system.</li>
    <li>You are expected to care.</li>
