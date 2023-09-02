@@ -662,10 +662,13 @@ ul th, ul td, ul th p, ul td p, td p {
 /*
  */
  ._h2heading {
-  text-indent:2rem;
   color:green;
  }
  ._h2heading h1 {
   text-indent:0;
   color:blue;
+ }
+ ._h2heading h2 {
+  text-indent:2rem;
+  color:#36B3C7;
  }
