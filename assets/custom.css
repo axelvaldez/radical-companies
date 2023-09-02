@@ -678,3 +678,7 @@ ul th, ul td, ul th p, ul td p, td p {
   text-indent:4rem;
   color:#ED8849;
  }
+ ._h2heading h2 p {
+  text-indent:4rem;
+  color:#ED8849;
+ }
