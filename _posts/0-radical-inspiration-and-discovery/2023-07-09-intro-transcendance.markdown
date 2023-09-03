@@ -36,3 +36,4 @@ image:    "icon-intro-transcendence.svg"
   <p>Nobody knows how to live my life better than myself. Nobody, besides me, knows what's best for me.</p>
   <p id='_signature'>Chabeli Atahuaman</p>
  </div>
+ 

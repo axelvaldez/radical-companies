@@ -338,3 +338,40 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Radical</h1>
  <p>Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
  <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
+
+<h1 class='_section'>Scarcity and Abundance<h1>
+
+<h1>Fiat</h1>
+ <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that&rsquo;s how the story goes.</p>
+ <p>Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</p>
+ <p>Abundance for a few, scarcity for everybody else.</p>
+ <p>In the Fiat system, abundance creates scarcity. Abundance brings out the forces to enclose and creates scarcity for the rest of us. For example, the newest abundant good is the so-called AI computing. It is abundant because it evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.</p>
+ <p>Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
+
+<h1>Radical</h1>
+ <p>Enclosures do come out of Force and Force is a no-no in <span class='_paradigm'>Radical</span>-based alternatives.</p>
+ <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
+ <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, children-of-<span class='_paradigm'>Fiat</span> that we are. Nevertheless, we need to make it happen.</p>
+
+<h1 class='_section'>Pain vs Wellbeing</h1>
+
+<h1>>Fiat</h1>
+ <p>The <span class='_paradigm'>Fiat</span> model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
+ <p>In the <span class='_paradigm'>Fiat</span> system a Threat is usually enough to get compliance. If not, Force and Pain will rear their ugly heads.</p>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-fiat-pain.svg'
+    width='30%'
+    alt=''>
+  </div>
+
+<h1>Radical</h1>
+ <p>The <span class='_paradigm'>Radical</span> foundation is all about wellbeing for you and your community to live your lives.</p>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-radical-wellbeing.svg'
+    width='30%'
+    alt=''>
+  </div>
+
+<h1 class='_section'><h1>
