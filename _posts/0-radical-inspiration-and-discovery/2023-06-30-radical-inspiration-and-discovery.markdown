@@ -245,7 +245,5 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      </td>
     </tr>
    </table>
-  </td>
- </tr>
 
 </div>
