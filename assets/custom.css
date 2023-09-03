@@ -669,8 +669,7 @@ td p {
  _h2heading
  */
 ._h2heading h2 *,
-._h2heading h2,
-._h2heading {
+._h2heading h2 {
   margin-left:2rem;
   color:green;
 }
