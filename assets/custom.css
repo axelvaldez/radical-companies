@@ -668,17 +668,8 @@ td p {
 /*
  _h2heading
  */
-div._h2heading{
+div._h2heading h2,
+div._h2heading h2 * {
   margin-left:2rem;
-  color:red;
+  color:green;
 }
-div._h2heading h2 p {
-  margin-left:2rem;
-  color:brown;
- }
-h2 > p,
-h2 > ul,
-h2 > div {
-  margin-left:2rem;
-  color:blue;
- }
