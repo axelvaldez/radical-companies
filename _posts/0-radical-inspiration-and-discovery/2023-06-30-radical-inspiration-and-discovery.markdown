@@ -177,13 +177,14 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Radical</h1>
   <p>This is probably the most shocking thing about <span class='_paradigm'>Radical</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
   <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
-   <h2>The Calculations</h2>
-    <p>RADs make contributions tangible.</p>
-    <p>You get a <span class='_paradigm'>RAD</span> every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</p>
-    <p>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</p>
-    <p>The mobile app does all the calculations.</p>
 
 <div class='_h2heading'>
+
+ <h2>The Calculations</h2>
+  <p>RADs make contributions tangible.</p>
+  <p>You get a <span class='_paradigm'>RAD</span> every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</p>
+  <p>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</p>
+  <p>The mobile app does all the calculations.</p>
 
  <h2>But&hellip;</h2>
   <p>At this point you may be coming up with objections, <span class='_quotespan'>Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs</span> and you give me all of yours.</span></p>
