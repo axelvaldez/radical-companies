@@ -213,7 +213,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <table>
     <tr>
      <th style='background-color:yellow; width:25rem; text-align:left; '><span class='_paradigm'>Banner</span>:</th>
-     <th style='background-color:yellow; width:25rem; text-align:left; '>Contributions:</th>
+     <th style='background-color:#22FFFF; width:25rem; text-align:left; '>Contributions:</th>
     </tr>
     <tr>
      <td style='background-color:yellow; width:25rem; '>
