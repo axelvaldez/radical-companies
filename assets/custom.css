@@ -670,7 +670,7 @@ td p {
  */
 ._h2heading ul,
 ._h2heading h2,
-._h2heading h2 ~ p {
+._h2heading h2 ~ * {
   margin-left:2rem;
   color:green;
 }
