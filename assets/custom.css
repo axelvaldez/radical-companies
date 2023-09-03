@@ -668,7 +668,7 @@ td p {
 /*
  _h2heading
  */
-div._h2heading h2,
+div._h2heading,
 div._h2heading h2 * {
   margin-left:2rem;
   color:green;
