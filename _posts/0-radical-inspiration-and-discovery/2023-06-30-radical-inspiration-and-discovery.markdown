@@ -304,8 +304,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1 class='_section'>From Democracies to Dictatorships</h1>
  <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
 
-<div class='_h2heading'>
-
  <h2>Fiat</h2>
   <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
   <p>The thing that has remained constant in the <span class='_paradigm'>Fiat</span> system is Force.</p>
@@ -325,8 +323,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, <span class='_quotespan'>Oh, I didn&rsquo;t know!</span></p>
      <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners  and none of you have the right to Force to others.</p>
     </ul>
-
-</div>
 
 <h1 class='_section'>Competition and Collaboration</h1>
 
