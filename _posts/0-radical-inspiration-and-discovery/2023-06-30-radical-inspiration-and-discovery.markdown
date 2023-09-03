@@ -235,7 +235,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
       <th style='background-color:#22FFFF; text-align:left; width:50%; '>Contributions:</th>
      </tr>
      <tr>
-      <td style='background-color:yellow; width:60%; padding:inherit, 2rem; '>
+      <td style='background-color:yellow; width:50%; padding:inherit, 2rem; '>
        Goal: $1M<br>
        Time: 3 years<br>
        Reason: To buy a building<br>
