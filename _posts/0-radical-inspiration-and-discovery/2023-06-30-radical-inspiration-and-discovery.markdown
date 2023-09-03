@@ -40,10 +40,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
    <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
    <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for  example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).</p>
-   <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. "<em>Move those boxes from there to over there&hellip;  because I say so&hellip; or else).</em>&rdquo;</p>
+   <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. <span class='_quotespan'>Move those boxes from there to over there&hellip;  because I say so&hellip; or else).</span></p>
 
   <h2>The System</h2>
-   <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. &ldquo;<em>My life is not limited by any system, I shape it however I want to.</em>&rdquo; Maybe &ldquo;ecology&rdquo; is more your thing, but an ecology is a system, too.</p>
+   <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by any system, I shape it however I want to.</span> Maybe &ldquo;ecology&rdquo; is more your thing, but, alas, an ecology is a system, too.</p>
    <p>We created the <span class='_paradigm'>Fiat</span> system and we uphold it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
    <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on,</p>
     <ul>
@@ -56,7 +56,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <h2>It Starts with Rules</h2>
    <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Anybody with an addiction or a tick were at the edge as well.</p>
    <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder?</span>) and learn new ones (keep your hands to yourself).</p>
-   <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. &ldquo;<em>That will be on the test!</em>&rdquo;</p>
+   <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span></p>
    <p>Also, in primary school is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
     <div class='_center'>
      <img
@@ -75,7 +75,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
      <li>Enforcing the rules.</li>
     </ul>
    <p>Think of what happens when you get caught not following the rules. Think of how many decisions you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going to like this.</span> You can&rsquo;t make a decision without considering Bob, your boss.</p>
-   <p>You may be thinking, &ldquo;<em>How else would the system work? Think of decisions and how they have been influenced by what your boss would think of them. It is Bob or chaos. You do what you do, without thinking, because of Bob, your boss. This is encouraged by the <span class='_paradigm'>Fiat</span> system.</p>
+   <p>You may be thinking, <span class='_quotespan'>How else would the system work?</span> Think of decisions and how they have been influenced by what your boss would think of them. It is Bob or chaos. You do what you do, without thinking, because of Bob, your boss. This is encouraged by the <span class='_paradigm'>Fiat</span> system.</p>
 
  </div>
 
@@ -94,7 +94,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <div class='_h2heading'>
 
  <h2>Divide and Conquer</h2>
-  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. For exaple, the &ldquo;<em>ez</em>&rdquo; at the end of Spanish family names (<em>e.g.</em>, Per<em>ez</em>) is the equivalent to the English possessive (<em>e.g</em>, Pedro&rsquo;s). It indicated that people with that last name &ldquo;belonged to&rdquo; the man called Pedro. Men were the kings of their castle and everybody, including women, were reduced to chattel.</p>
+  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. For exaple, the <span class='_quotespan'>ez</span> at the end of Spanish family names (<em>e.g.</em>, Per<em>ez</em>) is the equivalent to the English possessive (<em>e.g</em>, Pedro&rsquo;s). It indicated that people with that last name &ldquo;belonged to&rdquo; the man called Pedro. Men were the kings of their castle and everybody, including women, were reduced to chattel.</p>
   <p>Sounds comical now, but there is an intuitive logic to it: men, half the population, now had to worry about staying <em>in control</em> of what belonged to them, and not about the injustices from the powerful men above.</p>
   <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. Eve was the instigator of sin, and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
    <div class='_center'>
@@ -157,7 +157,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <ul>
     <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You get paid whatever the boss feels is reasonable.</li>
     <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not <em>equal</em>, as in co-ops, but it is equitable based on contributions.</li>
-    <li>BTW, the word company comes from the Latin prefix <span class='_quotespan''>co-,<span> meaning <em>together</em>, and the Latin word <span class='_quotespan''>-pan,</span> meaning <em>bread.</em> <em>Breaking bread together</em>.</li>
+    <li>BTW, the word company comes from the Latin prefix <span class='_quotespan''>co-,<span> meaning <em>together</em>, and the Latin word <span class='_quotespan''>-pan,</span> meaning <em>bread.</em> <span class='_quotespan'>Breaking bread together</span>.</li>
     <li>The level of co-ownership is determined by contributions, not capital.</li>
     <li>These contributions are recognized by other co-owners.</li>
    </ul>
@@ -170,7 +170,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1 class='_section'>Capital vs Contributions</h1>
 
 <h1>Fiat</h1>
-  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
+  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. This only one of the side-effects of seeing capital as the only way to contribute.</p>
   <p>For one, power is force. So investors have power over the business.</p>
   <p>On the other hand, you have no ownership in the business. You are happy to get your salary, but that’s that. Owners have power over you.</p>
 
