@@ -212,8 +212,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>For the case where all co-owners agree, the <span class='_paradigm'>Banner</span> could look like this,</p>
    <table style='width:80%; border:1px dotted #808080; '>
     <tr>
-     <th style='background-color:yellow; width:25rem; text-align:left; ;'><span class='_paradigm'>Banner</span>:</th>
-     <th style='background-color:#22FFFF; width:25rem; text-align:left; '>Contributions:</th>
+     <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
+     <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
     </tr>
     <tr>
      <td style='background-color:yellow; width:25rem; '>
@@ -228,8 +228,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
    <table style='width:80%; border:1px dotted #808080; '>
     <tr>
-     <th style='background-color:yellow; width:25rem; text-align:left; '><span class='_paradigm'>Banner</span>:</th>
-     <th style='background-color:#22FFFF; width:25rem; text-align:left; '>Contributions:</th>
+     <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
+     <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
     </tr>
     <tr>
      <td style='background-color:yellow; width:60%; padding:inherit, 2rem; '>
