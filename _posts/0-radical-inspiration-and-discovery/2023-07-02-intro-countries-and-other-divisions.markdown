@@ -21,7 +21,6 @@ image:    "icon-intro-countries-and-other-divisions.svg"
    </ul>
 
 <h1>Divide and Conquer</h1>
-
  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. For exaple, the &ldquo;<em>ez</em>&rdquo; at the end of Spanish family names (<em>e.g.</em>, Per<em>ez</em>) is the equivalent to the English possessive (<em>e.g</em>, Pedro&rsquo;s). It indicated that people with that last name &ldquo;belonged to&rdquo; the man called Pedro. Men were the kings of their castle and everybody, including women, were reduced to chattel.</p>
  <p>Sounds comical now, but there is an intuitive logic to it: men, half the population, now had to worry about staying <em>in control</em> of what belonged to them, and not about the injustices from the powerful men above.</p>
  <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. Eve was the instigator of sin, and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
