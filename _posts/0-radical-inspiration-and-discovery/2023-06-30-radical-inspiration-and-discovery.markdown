@@ -211,43 +211,43 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   <p>Banners represent non-people things like projects and investments. With the RADs! mobile app you can, at minimum, create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
   <p>For the case where all co-owners agree, the <span class='_paradigm'>Banner</span> could look like this,</p>
    <div class='_center'>
-   <table style='width:80%; border:1px dotted #808080; '>
-    <tr>
-     <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
-     <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
-    </tr>
-    <tr>
-     <td style='background-color:yellow; width:25rem; '>
-      Goal: $1M<br>
-      Time: 3 years<br>
-      Reason: To buy a building<br>
-      Beneficiaries: Building Fund
-     </td>
-     <td style='background-color:#22FFFF; width:25rem; '>All: $100.00</td>
-    </tr>
-   </table>
+    <table style='width:80%; border:1px dotted #808080; '>
+     <tr>
+      <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
+      <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
+     </tr>
+     <tr>
+      <td style='background-color:yellow; width:25rem; '>
+       Goal: $1M<br>
+       Time: 3 years<br>
+       Reason: To buy a building<br>
+       Beneficiaries: Building Fund
+      </td>
+      <td style='background-color:#22FFFF; width:25rem; '>All: $100.00</td>
+     </tr>
+    </table>
    </div>
   <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
    <div class='_center'>
-   <table style='width:80%; border:1px dotted #808080; '>
-    <tr>
-     <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
-     <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
-    </tr>
-    <tr>
-     <td style='background-color:yellow; width:60%; padding:inherit, 2rem; '>
-      Goal: $1M<br>
-      Time: 3 years<br>
-      Reason: To buy a building<br>
-      Beneficiaries: Building Fund
-     </td>
-     <td style='background-color:#22FFFF; width:60%; padding:inherit, 2rem; '>
-      Mary O: $100.00<br>
-      Anita P: 0.25% de $1M<br>
-      Salim Q: 5.% of RADs yield<br>
-     </td>
-    </tr>
-   </table>
+    <table style='width:80%; border:1px dotted #808080; '>
+     <tr>
+      <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
+      <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
+     </tr>
+     <tr>
+      <td style='background-color:yellow; width:60%; padding:inherit, 2rem; '>
+       Goal: $1M<br>
+       Time: 3 years<br>
+       Reason: To buy a building<br>
+       Beneficiaries: Building Fund
+      </td>
+      <td style='background-color:#22FFFF; width:60%; padding:inherit, 2rem; '>
+       Mary O: $100.00<br>
+       Anita P: 0.25% de $1M<br>
+       Salim Q: 5.% of RADs yield<br>
+      </td>
+     </tr>
+    </table>
    </div>
 
 </div>
