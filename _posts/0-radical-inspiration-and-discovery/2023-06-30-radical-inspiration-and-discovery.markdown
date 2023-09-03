@@ -171,8 +171,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <h1>Fiat</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. This only one of the side-effects of seeing capital as the only way to contribute.</p>
-  <p>For one, power is force. So investors have power over the business.</p>
-  <p>On the other hand, you have no ownership in the business. You are happy to get your salary, but that’s that. Owners have power over you.</p>
+  <p>For one, power is force. So given their capital contribution, investors have power over the business. On the other hand, you have no ownership in the business and you are happy to get your salary, but that’s that. Owners have power over you.</p>
 
 <h1>Radical</h1>
   <p>This is probably the most shocking thing about <span class='_paradigm'>Radical</span> alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain&rsquo;t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
