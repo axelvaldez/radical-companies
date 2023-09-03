@@ -241,7 +241,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
        Reason: To buy a building<br>
        Beneficiaries: Building Fund
       </td>
-      <td style='background-color:#22FFFF; width:60%; padding:inherit, 2rem; '>
+      <td style='background-color:#22FFFF; width:50%; padding:inherit, 2rem; '>
        Mary O: $100.00<br>
        Anita P: 0.25% de $1M<br>
        Salim Q: 5.% of RADs yield<br>
