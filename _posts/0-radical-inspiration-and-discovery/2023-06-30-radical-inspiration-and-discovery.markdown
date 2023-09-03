@@ -210,9 +210,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <h2>Banners</h2>
   <p>Banners represent non-people things like projects and investments. With the RADs! mobile app you can, at minimum, create a <span class='_paradigm'>Banner</span>, change your contribution to it, see who is contributing, and the beneficiaries.</p>
   <p>For the case where all co-owners agree, the <span class='_paradigm'>Banner</span> could look like this,</p>
-   <table>
+   <table style='width:80%; border:1px dotted #808080; '>
     <tr>
-     <th style='background-color:yellow; width:25rem; text-align:left; '><span class='_paradigm'>Banner</span>:</th>
+     <th style='background-color:yellow; width:25rem; text-align:left; ;'><span class='_paradigm'>Banner</span>:</th>
      <th style='background-color:#22FFFF; width:25rem; text-align:left; '>Contributions:</th>
     </tr>
     <tr>
@@ -226,7 +226,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     </tr>
    </table>
   <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the <span class='_paradigm'>Banner</span> would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
-   <table>
+   <table style='width:80%; border:1px dotted #808080; '>
     <tr>
      <th style='background-color:yellow; width:25rem; text-align:left; '><span class='_paradigm'>Banner</span>:</th>
      <th style='background-color:#22FFFF; width:25rem; text-align:left; '>Contributions:</th>
