@@ -213,8 +213,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table style='width:80%; border:1px dotted #808080; '>
      <tr>
-      <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
-      <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
+      <th style='background-color:yellow; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
+      <th style='background-color:#22FFFF; text-align:left; width:50%; '>Contributions:</th>
      </tr>
      <tr>
       <td style='background-color:yellow; width:25rem; '>
@@ -231,8 +231,8 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <div class='_center'>
     <table style='width:80%; border:1px dotted #808080; '>
      <tr>
-      <th style='background-color:yellow; width:25rem; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
-      <th style='background-color:#22FFFF; width:25rem; text-align:left; width:50%; '>Contributions:</th>
+      <th style='background-color:yellow; text-align:left; width:50%; '><span class='_paradigm'>Banner</span>:</th>
+      <th style='background-color:#22FFFF; text-align:left; width:50%; '>Contributions:</th>
      </tr>
      <tr>
       <td style='background-color:yellow; width:60%; padding:inherit, 2rem; '>
