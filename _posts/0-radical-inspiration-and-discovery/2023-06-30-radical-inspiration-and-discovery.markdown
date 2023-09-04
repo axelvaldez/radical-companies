@@ -512,7 +512,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <p id='_signature'>1918 Supreme Court, Dodge v Ford</p>
    </div>
   </div>
- <p>A  <span class='_paradigm'>Radical</span> Investment is more like a loan, but with negotiated returns. More below.</p>
+ <p>A  <span class='_paradigm'>Radical</span> Investment is more like a loan, but with negotiated returns.</p>
  <p>The point being that mere capital doesn’t get of the powers that investors get in the  <span class='_paradigm'>Fiat</span> world.</p>
 
 <h1>What’s the Catch?</h1>
