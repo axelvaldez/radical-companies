@@ -17,7 +17,7 @@ image:    "icon-intro-transcendence.svg"
   <p id='_signature'>Adrian Perez</p>
  </div>
 
-<h1>How <span class='_paradigm'>Fiat</span> Developed (according to me)</h1>
+<h1>How Fiat Developed (according to me)</h1>
  <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
   <div class='_citation'>
    <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
