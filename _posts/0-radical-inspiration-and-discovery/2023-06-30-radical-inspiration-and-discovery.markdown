@@ -400,8 +400,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  </div>
  
 <h1 class='_section'>We Remember, Therefore We Are<h1>
-
-<h1>&nbsp;</h1>
  <p>We remember what makes us feel something, anything: the horrific, the joyful.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> We dont&rsquo;t remember specific words or actions, but we dont&rsquo;t forget what was so hurtful or what was lovingly said.</p>
  <p>This is what came up after reading <em>Consciousness as a Memory System</em>. It describes the authors&rsquo; theory of &ldquo;conciousness as memory,&rdquo;</p>
  <div class="_citation">
