@@ -414,7 +414,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1>Fiat</h1>
  <p>In a <span class='_paradigm'>Fiat</span> business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
  
-<h1>>Radical</span></h1>
+<h1>Radical</h1>
  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
 
 <h1>What Are RADs?</h1>
