@@ -525,7 +525,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p>And, yes, people are not guaranteed a <span class='_paradigm'>Fiat</span> salary. However, if you choose, the <span class='_paradigm'>PRI Fund</span> can provide a <em>Predictable, Recurring Income.</em> You are not expected to get paid less than in a Fiat business. However, you are not a replaceable resource in a machine that makes wealth for others, <em>you are a co-owner.</em> You have to learn to do different,</p>
   <ul>
    <li>You are expected to speak up if you think another co-owner is trying to game the system.</li>
-   <li>You are expected to care.</li>
+   <li>You are expected to  for what goes on with the company..</li>
    <li>You are expected to talk to your peer co-owners so they understand what you are working on and how it will benefit them and the community.</li>
    <li>You are expected to speak up when you see opportunities that others may not see.</li>
    <li>You can help people to migrate out of violent language and into language that helps to learn and grow.</li>
