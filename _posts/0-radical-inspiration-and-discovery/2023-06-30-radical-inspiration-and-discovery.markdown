@@ -423,7 +423,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <p class="_list-item">
     Andrew Budson, Kenneth Richman, Elizabeth Kensinger.
     <em>Consciousness as a Memory System</em>.
-    &lt;*<a href="https://radicals.world/yPwC12" target="_blank">https://radicals.world/yPwC12</a>&gt;
+    &lt;<a href="https://radicals.world/yPwC12" target="_blank">https://radicals.world/yPwC12</a>&gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
