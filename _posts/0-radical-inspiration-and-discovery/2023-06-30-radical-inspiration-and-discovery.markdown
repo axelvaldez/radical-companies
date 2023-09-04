@@ -291,7 +291,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
    </ul>
 
- <h2>Most Insidious</h2>
+ <h2>Insidious</h2>
   <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
    <ul>
     <li>A god, an omnipotent being at the top</li>
