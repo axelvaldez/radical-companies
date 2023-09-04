@@ -426,7 +426,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
  <p>The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear,</p>
 
-<h1>But Why RADs?<h1>
+<h1>But Why RADs?</h1>
 
 <div class='_h2heading'>
 
