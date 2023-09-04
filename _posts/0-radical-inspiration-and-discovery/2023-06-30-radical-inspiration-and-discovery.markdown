@@ -527,3 +527,16 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    <li>To do all that and more because it is <em>your</em> company.</li>
   </ul>
  <p style='font-size:larger; '>That is the catch!</p>
+
+<h1>Afterthoughts&hellip;</h1>
+ <p>In a world where the relentless grip of Fiat-based systems has long dictated the rules of ownership, a beacon of change emerges. RADs shatter the chains of static, archaic ownership models. In this epoch-defining transformation, we are ready to move from the unyielding Fiat fortress to the dynamic Radical frontier.</p>
+ <p>RADs are a declaration of liberation. They represent a tangible share in the wealth generated through collective effort. Ownership, once an immutable concept, now dances to the rhythm of Recognized Contributions, rising and falling with each heartbeat of innovation.</p>
+ <p>This Radical paradigm casts aside the shadowy figures of oligarchic wealth. No longer shall the fruits of labor be hoarded by distant overlords; they shall flow to those who contribute and recognize each other's worth. Decentralized ownership is the future.</p>
+ <p>But make no mistake, this revolution comes with its own catch—a catch that demands active participation, open dialogue, and the relentless pursuit of innovation. In the Radical realm, co-owners are not passive bystanders; they are the architects of their destiny.</p>
+ <p>So, as we stand on the precipice of this new era, one must choose: the stagnant past or the dynamic future. The time for decisions is now. Will you be a mere spectator, or will you seize your Radical destiny</p>
+ <p>In a world where the Fiat system has long reigned, where force, scarcity, and fear have held sway, there emerges a beacon of hope and transformation. This alternative is not merely a theoretical concept; it is a profound shift towards abundance, wellbeing, and co-ownership.</p>
+ <p>As we've journeyed through the stark differences between Fiat and Radical, we've seen how to revolutionize ownership, how decentralized power can empower individuals, and how to be more than just replaceable cogs in a machine.</p>
+ <p>The Radical alternative offers us a chance—a chance to step into the light, to break free from the shackles of old paradigms, and to reclaim what it means to be truly alive.</p>
+ <p>It. Will. Not. Be. Easy.</p>
+ <p>Change seldom is. The journey towards Radical co-ownership will be fraught with obstacles, resistance, and moments of doubt. But remember this: every seismic shift in human history began with a daring vision and the courage to challenge the status quo. Let us choose a path that leads us towards abundance, well-being, and co-ownership. Let us choose a path where force and fear no longer hold dominion. Let us choose a path that enables us not just to survive but to truly live.</p>
+
