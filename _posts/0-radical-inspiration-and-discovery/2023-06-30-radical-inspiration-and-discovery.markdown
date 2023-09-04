@@ -382,7 +382,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1 class='_section'>Transcendence<h1>
 
 <h1>Who Am I If Not a Manager?</h1>
-zzz
  <div class='_citation'>
   <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
   <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
@@ -394,8 +393,7 @@ zzz
   <div class='_citation'>
    <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
    <p id='_signature'>
-    Blair Fix,<br>
-    An Evolutionary Theory of Resource Distribution<br>
+    Blair Fix, An Evolutionary Theory of Resource Distribution<br>
    </p>
   </div>
 
