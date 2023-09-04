@@ -85,5 +85,5 @@ image:    "icon-intro-countries-and-other-divisions.svg"
    <li>These contributions are recognized by other co-owners.</li>
   </ul>
 
-<h1 class='_section'>And&hellip;</h1>
+<h1>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
