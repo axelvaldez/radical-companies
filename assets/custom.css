@@ -365,7 +365,9 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   background-color:azure;
   border-left:10px solid #ccc;
   font-family:Architects Daughter, cursive;
+  /*
   text-align:center;
+   */
 }
 ._citation p {
   margin-bottom:0;
