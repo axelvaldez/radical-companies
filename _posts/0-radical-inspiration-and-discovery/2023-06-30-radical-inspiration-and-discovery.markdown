@@ -516,7 +516,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <p>A business corporation is organized and carried on primarily for the profit of the stockholders.</p>
     <p id='_signature'>1918 Supreme Court, Dodge v Ford</p>
    </div>
-  <div>
+  </div>
  <p>A  <span class='_paradigm'>Radical</span> Investment is more like a loan, but with negotiated returns. More below.</p>
  <p>The point being that mere capital doesn’t get of the powers that investors get in the  <span class='_paradigm'>Fiat</span> world.</p>
 
