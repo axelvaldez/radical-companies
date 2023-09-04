@@ -528,6 +528,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </ul>
  <p style='font-size:larger; '>That is the catch!</p>
 
+<!-- -->
 <h1>Afterthoughts&hellip;</h1>
  <p>In a world where the relentless grip of Fiat-based systems has long dictated the rules of ownership, a beacon of change emerges. RADs shatter the chains of static, archaic ownership models. In this epoch-defining transformation, we are ready to move from the unyielding Fiat fortress to the dynamic Radical frontier.</p>
  <p>RADs are a declaration of liberation. They represent a tangible share in the wealth generated through collective effort. Ownership, once an immutable concept, now dances to the rhythm of Recognized Contributions, rising and falling with each heartbeat of innovation.</p>
