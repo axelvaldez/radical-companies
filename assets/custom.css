@@ -672,3 +672,9 @@ td p {
 ._h2heading h2 ~ * {
   margin-left:2rem;
 }
+
+h4 {
+  color:#011616;
+  font-size:smaller;
+  margin-bottom:2rem;
+}
