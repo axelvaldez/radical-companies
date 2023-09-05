@@ -7,7 +7,7 @@ image:    "icon-template.svg"
 ---
 
 <div style='display:none;'>
- <p></p>
+ <p>When they are running at top speed, wolves touch to ground to accelerate and keep on track with the pack. They don&rsquo;t stop to report, that would slow down.</p>
 </div>
 
 <h1>&nbsp;</h1>
