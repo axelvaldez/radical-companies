@@ -1,4 +1,4 @@
--
+---
 layout:   post
 title:    "rBuddyNeighbor"
 subtitle: "Connecting neighbors, building community."
@@ -22,7 +22,7 @@ image:    "icon-rbuddyneighbor.svg"
 
 <h1>Explicit Alignment</h1>
  <div class="_center">
-  <table class="_background">
+  <table class="_h2table">
    <tr>
     <th>Impact<br><span class="_alignquestions">What for?</span></th>
     <td>Help create communities ready for action.</td>
@@ -66,14 +66,14 @@ image:    "icon-rbuddyneighbor.svg"
    <li>Margot realizes his concern and says, <span class="_quotespan">Oh, yes, I&rsquo;ll come up, too. Sorry about that.</span></li>
    <li>She comes up and Jose opens the door and they talk. Margot points to their place down the street, Jose tells them about getting the kids fed in the morning, Margot tells him about a Neighborhood event scheduled for the weekend, they talk about the Farmer Markets in the area, &hellip;</li>
    <li>Jose lets us know accepts the delivery and maybe adds a note to it, <span class="_quotespan">Got the milk and got to meet a very nice buddy named Margot. I got to meet her boyfriend, too. They make a nice couple.</span></li>
-</ul>
-<h2>Not-so-Happy Path Example</h2>
- <ul>
-  <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li>
-  <li>Then we&rsquo;ll tell the Neighbor something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'><span class='_paradigm'>Banner</span></span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
-  <li>We&rsquo;ll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
-  <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my Neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.&rdquo; Or she could say, &ldquo;I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
- </ul>
+  </ul>
+ <h2>Not-so-Happy Path Example</h2>
+  <ul>
+   <li>The buddy never shows up and Jose tells us that he is closing his request because, <span class="_quotespan">the buddy never got here.</span></li>
+   <li>Then we&rsquo;ll tell the Neighbor something like, <span class="_quotespan">Sorry. We won&rsquo;t be charging anything to your account. We are donating <span class='_paradigm'>RAD</span>s to the <span class='_paradigm'><span class='_paradigm'>Banner</span></span> to build a Neighborhood gym. In any case, if you&rsquo;d like, we can let you know what Margot has to say about breaking her promise. Please, let us know if you&rsquo;re interested.</span></li>
+   <li>We&rsquo;ll ask the buddy, <span class="_quotespan">What happened, you broke your promise to Jose!</span></li>
+   <li>Her response might be, <span class="_quotespan">I had to go straight home right away because my Neighbor found my dog in her backyard. I was all flustered and forgot to let Jose know. Later, I was just embarrassed.&rdquo; Or she could say, &ldquo;I realized halfway there that it was too risky to show up there, even with my boyfriend. He was more freaked out than I was.</span></li>
+  </ul>
  <p>Either way, the buddy and the Neighbor get to note their level of satisfaction with <span class="_paradigm">rBuddyNeighbors</span>.com.</p>
 
 <h1>Payment</h1>
@@ -594,7 +594,7 @@ image:    "icon-rbuddyneighbor.svg"
    </tr>
    <tr>
     <th>Where and why</th>
-    <td>Ideally you can provide services to within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
+    <td>Ideally you can provide services within a 30 minute delivery time window or locate someone within a specified geo range of 5, 10 or 15 miles . this can be determined by the need of the item and anything as random as an item from Costco</td>
    </tr>
   </table>
  </div>
