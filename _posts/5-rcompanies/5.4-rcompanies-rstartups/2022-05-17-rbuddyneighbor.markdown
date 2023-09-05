@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rBuddyNeighbor"
-subtitle: "Connecting neighbors, building community."
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rbuddyneighbor.svg"
 ---
