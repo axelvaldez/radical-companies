@@ -307,7 +307,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <!-- -->
 <h1 class='_section'>Pain vs Wellbeing</h1>
-
 <h1>Fiat</h1>
  <p>The <span class='_paradigm'>Fiat</span> model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
  <p>In the <span class='_paradigm'>Fiat</span> system a Threat is usually enough to get compliance. If not, Force and Pain will rear their ugly heads.</p>
@@ -317,7 +316,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     width='30%'
     alt=''>
   </div>
-
 <h1>Radical</h1>
  <p>The <span class='_paradigm'>Radical</span> foundation is all about wellbeing for you and your community to live your lives.</p>
   <div class='_center'>
@@ -329,14 +327,12 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <!-- -->
 <h1 class='_section'>Transcendence<h1>
-
 <h1>Who Am I If Not a Manager?</h1>
  <div class='_citation'>
   <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
   <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
   <p id='_signature'>Adrian Perez</p>
  </div>
-
 <h1>How Fiat Developed (according to me)</h1>
  <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
   <div class='_citation'>
@@ -345,7 +341,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     Blair Fix, An Evolutionary Theory of Resource Distribution<br>
    </p>
   </div>
-
 <h1>Surviving Is Not Living</h1>
  <div class='_citation'>
   <p>First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of life. It was a blind jump, but I discovered the light in my life.</p>
@@ -357,13 +352,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 
 <!-- -->
 <h1 class='_section'>RADs<h1>
-
 <h1>Fiat</h1>
  <p>In a <span class='_paradigm'>Fiat</span> business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
- 
 <h1>Radical</h1>
  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
-
 <h1>What Are RADs?</h1>
  <p>RADs are like tokens—not crypto tokens or anything like them. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
  <p>The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peer co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
@@ -374,15 +366,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     alt=''>
    </div>
  <p>The reason I think that the RADs! Mobile App is fundamental is because it is likely the sharp end of the <span class='_paradigm'>Radical</span> spear,</p>
-
 <h1>But Why RADs?</h1>
-
-<div class='_h2heading'>
-
  <h2>People Need to Learn How to Be Owners</h2>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever in most of the world. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
   <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
-
  <h2>People Need to Learn to Notice and Recognize Contributions</h2>
   <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
    <div class='_citation'>
@@ -398,13 +385,9 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </ul>
   <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
   <p>If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
-
  <h2>People Need to Learn to Give Pieces of the Company to Their Peers</h2>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big, big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
   <p>In a company based on the <span class='_paradigm'>Radical</span> foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of <span class='_paradigm'>Fiat</span>, have to learn to be leaders of <span class='_paradigm'>Radical</span>-base alternatives.</p>
-
-</div>
-
 <h1><em>The RAD! Mobile App</em></h1>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
 
@@ -412,46 +395,37 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <h1 class='_section'>Co-Ownership</h1>
  <p>As opposed to centralized <span class='_paradigm'>Fiat</span> ownership, which is what we live with now, co-ownership is profoundly transformative. It evokes hope and possibility. This revolutionary concept marks the demise of oligarchic wealth and decentralized power. Gone are the days of toiling for a mere wage; instead, you will be rewarded based on the contributions you make as recognized by your peer. No longer will a traditional  <span class='_paradigm'>Fiat</span> owner hoard the wealth generated by your efforts. Instead, you will reap the wealth you helped create, enjoying an empowering and fulfilling experience.</p>
  <p>Co-ownership is the least understood thing about the <span class='_paradigm'>Radical</span> paradigm. It is not a co-op and it is not revenue sharing. It is powerfully different. We&rsquo;ll get into the details of it below.</p>
-
 <h1>RADs Instead of Shares</h1>
  <p>Before I go on, I need to explain what <span class='_paradigm'>RAD</span>s are.</p>
  <p>The name, RADs, is meaningless. It is the first name I could think of. But they are the key to decentralized ownership.</p>
  <p>We are used to ”somebody else,” the boss, owning the business. <span class='_paradigm'>RAD</span>s make it possible to have decentralized ownership, where you and your peers own the company. You are part of creating value and wealth, and with <span class='_paradigm'>RAD</span>s you are a co-owner of it.</p>
  <p>The value that you help create shows up as revenue, money paid for your goods or services. With decentralized ownership, you are a co-owner of that revenue. Now &ldquo;somebody else&rdquo; owns it.</p>
-
 <h1>Not Revenue Sharing</h1>
  <p>Revenue sharing is done according to what the boss says people are going to get. In the  <span class='_paradigm'>Radical</span>-based model, the system is decentralized and there is no boss to decide what you are going to get. Instead, your peers decide how many <span class='_paradigm'>RAD</span>s you get and you decide how many they get.</p>
  <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determines what percentage of the revenue you get.</p>
-
 <h1>Not a Co-op</h1>
  <p>Co-operatives make everybody financially equal. But people&rsquo;s contributions are not equal. The same person can contribute a lot one month, but less the next.</p>
  <p><span class='_paradigm'>RAD</span>s are used to keep a tally of contributions.</p>
-
 <h1>How RADs Work</h1>
  <p>Now we can talk about how RADs work.</p>
  <p>The whole thing starts with recognized contributions. As you do your work, other co-owners will recognize some of it as contributions that resonate with them and they will record those using the <em>RADs! mobile app</em> by simply pressing a button. The more significant you find the contribution, the more button presses.</p>
  <p>At the end of the cycle (<em>e.g.</em>, a week, a month), the app calculates how many <span class='_paradigm'>RAD</span>s those recognized contributions translate to. That many RADs are given to each of the contributing co-owners.</p>
  <p><span class='_paradigm'>RAD</span>s accumulate, so each cycle adds to existing RADs.</p>
-
 <h1>Shares Tired, RADs Wired</h1>
  <p>As I mentioned,  <span class='_paradigm'>Radical</span>-based companies don&rsquo;t have shares. Ownership is based on recognized contributions, not capital</p>
  <p>Shares are a 16<sup>th</sup> century invention that worked pretty much as <span class='_paradigm'>RAD</span>s, with one significant difference: shares are based on capital while RA<span class='_paradigm'>RAD</span>sDs are based on recognized contributions. But they are both ways to create something bigger than one person could.</p>
  <p>Business shares must have sounded crazy, like <span class='_paradigm'>RAD</span>s sound today. The clientele for shares back then already were risk takers and it was a smaller audience. The audience for RADs is everybody who has been trained since birth to work for a wage and leave everything else to the oligarchic owners. We are counting on them being more educated and who sense that the current system is not working for them.</p>
-
 <h1>Decentralized Ownership</h1>
  <p>Decentralized ownership is sustainable. The company is not dependent on a top boss. It is forever flexible.</p>
  <p>Decentralized ownership lasts&hellip; forever. For one, there is no issue of inheritance.</p>
-
 <h1>Co-ownership is dynamic</h1>
  <p>Say in January you make a lot of contributions that are recognized by your peers. Your <span class='_paradigm'>RAD</span>s go up quite a bit. But in February you are down to routine things. You get a few recognized contributions, but not many. Your <span class='_paradigm'>RAD</span>s go up a bit, but not much.</p>
  <p>In March you and your team give talks about the projects you just finished and how it is going to reduce costs significantly. Your recognized contributions go up and so do your <span class='_paradigm'>RAD</span>s. Then you go on vacation in April. Your <span class='_paradigm'>RAD</span>s stay the same but the total <span class='_paradigm'>RAD</span>s go up (<em>e.g.</em>, more people) so your percentage of revenue goes down.</p>
  <p>Your level of revenue ownership bobs up and down depending on 1) the contributions you make, and 2) how many of those are recognized by your peers.</p>
  <p>The same is going on for every co-owner and their level of revenue ownership changes.</p>
-
 <h1>No Get-Rich-Quick Scheme</h1>
  <p>In our  <span class='_paradigm'>Fiat</span> world, owning a business is the way to accumulate a lot of money. You pay yourself well and keep the dividends. If you are lucky, somebody buys your company and you make a big lump sum. In the  <span class='_paradigm'>Radical</span>-based approach, this is not it.</p>
  <p>You accumulate  <span class='_paradigm'>Fiat</span> money by keeping the wealth that other people created. Yes, you pay them good wages to do so, but you keep the bulk of the value they create. In the  <span class='_paradigm'>Radical</span>-based space you get paid according to the contributions that your peer co-owners recognize. Because you are getting a portion of what a  <span class='_paradigm'>Fiat</span> owner keeps, you have the potential of making much more than a mere wage.</p>
-
 <h1>Capital</h1>
  <p><span class='_quotespan'>But, I need capital. That is the normal way to get started!</span></p>
  <p>Capital still has a role to play, but it just doesn&rsquo;t get power over the company.</p>
@@ -463,7 +437,6 @@ image:    "icon-radical-inspiration-and-discovery.svg"
   </div>
  <p>A  <span class='_paradigm'>Radical</span> Investment is more like a loan, but with negotiated returns.</p>
  <p>The point being that mere capital doesn’t get of the powers that investors get in the  <span class='_paradigm'>Fiat</span> world.</p>
-
 <h1>What’s the Catch?</h1>
  <p><span class='_quotespan'>Sounds like people are not guaranteed a salary!</span></p>
  <p>And, yes, people are not guaranteed a <span class='_paradigm'>Fiat</span> salary. However, if you choose, the <span class='_paradigm'>PRI Fund</span> can provide a <em>Predictable, Recurring Income.</em> You are not expected to get paid less than in a Fiat business. However, you are not a replaceable resource in a machine that makes wealth for others, <em>you are a co-owner.</em> You have to learn to do different,</p>
@@ -478,7 +451,7 @@ image:    "icon-radical-inspiration-and-discovery.svg"
  <p style='font-size:larger; '>That is the catch!</p>
 
 <!-- -->
-<h1>Afterthoughts&hellip;</h1>
+<h1 class='_section'>Afterthoughts&hellip;</h1>
  <p>In a world where the relentless grip of Fiat-based systems has long dictated the rules of ownership, a beacon of change emerges. RADs shatter the chains of static, archaic ownership models. In this epoch-defining transformation, we are ready to move from the unyielding Fiat fortress to the dynamic Radical frontier.</p>
  <p>RADs are a declaration of liberation. They represent a tangible share in the wealth generated through collective effort. Ownership, once an immutable concept, now dances to the rhythm of Recognized Contributions, rising and falling with each heartbeat of innovation.</p>
  <p>This Radical paradigm casts aside the shadowy figures of oligarchic wealth. No longer shall the fruits of labor be hoarded by distant overlords; they shall flow to those who contribute and recognize each other's worth. Decentralized ownership is the future.</p>
