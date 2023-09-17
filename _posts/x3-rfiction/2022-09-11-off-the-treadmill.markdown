@@ -1,8 +1,9 @@
 ---
 layout:   post
-title:    "The Many Benefits of Being the Boss"
+title:    "Off the Treadmill"
 subtitle: "TEMPLATE"
 authors:  "Adrian Perez"
+image:    "icon-off-the-treadmill.svg"
 image:    "icon-the-many-benefits-of-being-the-boss.svg"
 ---
 
