@@ -240,7 +240,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
     <li>BTW, the word company comes from the Latin prefix &ldquo;co-,&rdquo; meaning together, and the Latin word &ldquo;-pan,&rdquo; meaning bread. <span class='_quotespan'>Breaking bread together.</span></li>
     <li>The level of co-ownership is determined by contributions, not capital.</li>
     <li>These contributions are recognized by other co-owners.</li>
-   </ul>>
+   </ul>
 <h1>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
 
