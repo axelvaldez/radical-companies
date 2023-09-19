@@ -259,11 +259,68 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <li>You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</li>
    <li>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</li>
   </ul>
-  But…
-At this point you may be coming up with objections, Yeah, but it can be easily gamed: I’ll give you all my RADs and you give me all of yours. And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. Co-owners can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.
-Another objection might be that people won’t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won’t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won’t go perfect or smoothly. There will be plenty of bumps along the way. The “fix,” in my opinion, is not to elect a boss to tell us what to do; the fix is to deal with what you consider a problem—you are all co-owners.
-An objection that I heard more than once is that other people are coin operated. They do not want to do anything for a community or society. “Homo Economicus” is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.
-
+  <h2>But&hellip;</h2>
+   <p>At this point you may be coming up with objections, Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs</span> and you give me all of yours. And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. Co-owners can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.</p>
+   <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won’t go perfect or smoothly. There will be plenty of bumps along the way. The &ldquo;fix,&rdquo; in my opinion, is not to elect a boss to tell us what to do; the fix is to deal with what you consider a problem—you are all co-owners.</p>
+   <p>An objection that I heard more than once is that other people are &ldquo;coin operated.&rdquo; They do not want to do anything for a community or society. &ldquo;Homo Economicus&rdquo; is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.</p>
+ <h2>Capital</h2>
+  <p>Capital does have a place in a non-Fiat company, but it doesn’t acquire power. A Radical Investment is more like an investment in that it carries the risk of non-payment and it is a loan in that the return is negotiated.</p>
+  <p>Usually that capital goes to pay for,</p>
+   <ul>
+    <li>Things needed by the company.</li>
+    <li>To fund a Predictable Recurring Income (PRI) fund.</li>
+   </ul>
+ <h2>The PRI</h2>
+  <p>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.</p>
+ <h2>But&hellip;</h2>
+  <p>But what about investing in the future? Owners don’t put all the profits in their pocket, they invest it!</p>
+  <p>Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, including any investments. For example, if the co-owners want to buy a $5M building, they would put up a Banner to accumulate that amount. They could decide to commit enough into the Banner to build up to $5M in three years. That amount is not to be included in the dividends.</p>
+ <h2>Banners</h2>
+  <p>Banners represent non-people things like projects and investments. With the RADs! Mobile App you can, at minimum, create a Banner, change your contribution to it, see who is contributing, and the beneficiaries.</p>
+  <p>For the case where all co-owners agree, the Banner could look like this,</p>
+   <div class='_center'>
+    <table>
+     <tr>
+      <td>
+       Banner:<br>
+       Goal: $1M<br>
+       Time: 3 years<br>
+       Reason:<br>
+        To buy a building<br>
+       Beneficiaries:<br>
+        Building Fund
+      </td>
+      <td>
+       Contributions:<br>
+        Mary O: $100.00
+      </td>
+     </tr>
+    </table>
+   </div>
+  <p>Alternatively, all co-owners may not agree to commit any particular amount. In that case, the Banner would be funded by a subset of co-owners and when the building is bought the monthly rent would go to them according to their investment.</p>
+   <div class='_center'>
+    <table>
+     <tr>
+      <td>
+       Banner:<br>
+       Goal: $1M<br>
+       Time: 3 years<br>
+       Reason:<br>
+        To buy a building<br>
+       Beneficiaries:<br>
+        Building Fund
+      </td>
+      <td>
+       Contributions:<br>
+        Mary O: $100.00<br>
+        Anita P:<br>
+         0.25% of $M<br>
+        Salim Q:<br>
+         5% of RADs yield
+      </td>
+     </tr>
+    </table>
+   </div>
 
 
  <h2>Foundation</h2 >
