@@ -246,6 +246,25 @@ In the context of giving orders, the phrase additionally carries an implied thre
 <h1 calls='_section'>Capital and Contributions</span>
 
 <h1>Fiat</h1>
+ <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
+ <p>For one, power is force-waiting-happen. So given their capital contribution, investors have power over the business. On the other hand, you have no ownership in the business and you are happy to get your salary, but that’s that. Owners have power over you.</p>
+
+<h1>Radical</h1>
+ <p>This is probably the most shocking thing about Radical alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain’t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
+ <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
+
+ <h2>The Calculations</h2>
+  <ul>
+   <li>RADs make contributions tangible.</li>
+   <li>You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</li>
+   <li>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</li>
+  </ul>
+  But…
+At this point you may be coming up with objections, Yeah, but it can be easily gamed: I’ll give you all my RADs and you give me all of yours. And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. Co-owners can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.
+Another objection might be that people won’t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won’t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won’t go perfect or smoothly. There will be plenty of bumps along the way. The “fix,” in my opinion, is not to elect a boss to tell us what to do; the fix is to deal with what you consider a problem—you are all co-owners.
+An objection that I heard more than once is that other people are coin operated. They do not want to do anything for a community or society. “Homo Economicus” is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.
+
+
 
  <h2>Foundation</h2 >
   <p>This is the Foundation of a community,</p>
