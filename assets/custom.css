@@ -259,6 +259,9 @@ h1 {
 }
 h2 {
   font-size:30px;
+  margin-top:20px;
+  margin-bottom:10px;
+}
 }
 h1 {
   margin-top:40px;
@@ -469,12 +472,6 @@ p._list-item {
 div._center table._explicitalignment p {
   text-indent:0;
 }
-/*
-h1+p,
-h2+p {
-  text-indent:0;
-}
- */
 ._float {
   float:right;
 }
@@ -612,14 +609,6 @@ table._ninety tr::nth-child(-n + 3) {
   column-span:all;
 }
 
-/*
- _h2table > _2colTable
- */
- /*
- table._h2table {
-  width:85%;
-}
- */
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
 }
