@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Radical Inspiration and Discovery"
+title:    "Radical in Depth"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
-image:    "icon-radical-inspiration-and-discovery.svg"
+image:    "icon-radical-in-depth.svg"
 ---
 
 <div style='display:none; '>
