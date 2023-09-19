@@ -244,7 +244,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
 <h1>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
 
-<h1 calls='_section'>Capital and Contributions</span>
+<h1 class='_section'>Capital and Contributions</h1>
 
 <h1>Fiat</h1>
  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
