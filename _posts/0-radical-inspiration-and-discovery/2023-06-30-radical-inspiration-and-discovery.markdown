@@ -13,32 +13,130 @@ image:    "icon-radical-inspiration-and-discovery.svg"
 <!-- -->
 <h1 class='_section'>Seeing Fiat</h1>
  <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
- <p>In the world of <span class='_paradigm'>Radical</span> it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
+ <p>In the world of Radical it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
  <p>Together, we will challenge the status quo and propel humanity towards new horizons. We embrace calculated risks, harnessing the power of playfulness and innovation to paths untraveled. We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
  <p>Join our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital. We aim to leave an indelible mark on the world.</p>
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
  <h2>What the Fiat System Does</h2>
-  <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence, acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call <span class='_paradigm'>Fiat</span>. The <span class='_paradigm'>Fiat</span> system is designed to create more wealth for the owners and investors of the business you work for.</p>
-  <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
-  <p>&ldquo;Fixing&rdquo; the <span class='_paradigm'>Fiat</span> system would be never-ending because the system is too easy to game, particularly by powerful people. The <span class='_paradigm'>Fiat</span> system adapts to fixes very fast.</p>
-  <p>Beware that alternatives to  <span class='_paradigm'>Fiat</span> are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.</p>
+ <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence, acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call Fiat. The Fiat system is designed to create more wealth for the owners and investors of the business you work for.</p>
+ <p>The thing is that we created it, and we can create an alternative system, an alternative way of living.</p>
+ <p>&ldquo;Fixing&rdquo; the Fiat system would be never-ending because the system is too easy to game, particularly by powerful people. The Fiat system adapts to fixes very fast.</p>
+ <p>Beware that alternatives to Fiat are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.
    <div class='_center'>
     <div class='_citation'>
      <p>Creativity takes courage</p>
      <p id='_signature'>Henri Matisse</p>
     </div>
    </div>
-  <p>If you are not open to this and are just being polite (&ldquo;<em>Sounds interesting, tell me more about it</em>&rdquo;), you are better off returning the book now. Sorry for any inconvenience.</p>
+ <p>If you are not open to this and are just being polite (“Sounds interesting… tell me more about it”), you can return the book now. Sorry for any inconvenience.</p>
+
  <h2>What Does Fiat Even Mean?</h2>
-  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but there is something, a feeling you have, that tells you that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
+  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
   <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny.&rdquo; It is not even living. It is the way the <span class='_paradigm'>Fiat</span> system limits us.</p>
-  <p>We want to help make <span class='_paradigm'>Fiat</span> visible, palpable, and how it is causing us the way we feel.</p>
+  <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
+
  <h2>Fiat, the Word</h2>
   <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
-  <p>But what does <em>the word</em> <span class='_paradigm'>Fiat</span> mean?</p>
-  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for  example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).</p>
-  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. <span class='_quotespan'>Move those boxes from there to over there&hellip;  because I say so&hellip; or else).</span></p>
- <h2>The System</h2>
+  <p>But what does the word Fiat mean?</p>
+  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).
+In the context of giving orders, the phrase additionally carries an implied threat: or else. “Move those boxes from there to over there  because I say so… or else.”
+  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. <span class='_quotespan'>Move those boxes from there to over there because I say so&hellip; or else).</span></p>
+
+<h1 class='_section'>Rules, Laws, and Force</h1>
+ <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
+
+<h1>Force</h1>
+ <p>Picture this,</p>
+  <ul>
+   <li>
+    <p>You get a traffic ticket. A very minor form of force.</p>
+    <p>You have to give up money (i.e., coined force) to be spared the pain that would follow if you don&rsquo;t.</p>
+    <p>If you strongly feel that is an injustice, you let it go to court (i.e., another type of force).</p>
+    <p>Either you win or you lose,</p>
+     <ul>
+      <li>
+       <p>Victory brings celebration, the force is with you.</p>
+       <p>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</p>
+      </li>
+     </ul>
+    <p>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.</p>
+    <p>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a force majeure.</p>
+   </li>
+  </ul>
+ <p>Force is ever present in our Fiat system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
+ <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force, from threats to actual pain.</p>
+ <p>&ldquo;Motivation&rdquo; is another form of force. Do this and you&rsquo;ll get the reward. We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
+ <p>In the <span class='_paradigm'>Radical</span>-based alternative to the <span class='_paradigm'>Fiat</span> system there is no force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
+ <p>But I ask you to consider this: humanity evolved and has survived and thrived as a species for a long time. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.</p>
+ <p>Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the Fiat system took shape around us.</p>
+ <p>Alongside, there came the stories that supported the Fiat system as it evolved,</p>
+  <ul>
+   <li>An all powerful supernatural being at the top</li>
+   <li>Paradise</li>
+   <li>Eve as the bad apple</li>
+   <li>Homosexuality as abominations, pushed to the edge.</li>
+   <li><span class='_qotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament.
+  </ul>
+<h1>Most Insidious</h1>
+ <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
+  <ul>
+   <li>A god, an omnipotent being at the top</li>
+   <li>A boss, an omnipotent being at the top.</li>
+  </ul>
+ <p>And that we get paid what the boss says is reasonable.</p>
+ <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars that were made to carry whatever the winners didn’t want to carry, including the winners dead. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
+ <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the Fiat system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.</p>
+ <p>Anybody talking about alternatives (you and I) must be crazy, ready for the edge. &ldquo;Ignore them!&rdquo;</p>
+ <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about &ldquo;divide-and-conquer.&rdquo;</p>
+ <p>
+
+<h1 class='_section'>Countries and Other Divisions</h1>
+
+<h1>Fiat</h1>
+ <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
+ <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the rules.</p>
+ <p>By the time they got to what would become the Americas, Fernando de Aragon and Isabel de Castilla,</p>
+  <ul>
+   <li>Had power over most of the Iberian peninsula and were extracting its wealth accordingly</li>
+   <li>Had developed a methodology to cleanse out whatever other cultures they encountered</li>
+   <li>They had what it took to subjugate, control, and obliterate anything that stood in their way.</li>
+  </ul>
+
+<h1>Divide and Conquer</h1>
+ <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish family names (<em>e.g.</em>, Per<em>ez</em>) is the equivalent to the English possessive (<em>e.g.</em>, Pedro&rsquo;s). It indicated that people with that last name &ldquo;belonged to&rdquo; the man called Pedro in the village. Men were the kings of their castle and everybody, including women, were reduced to chattel.</p>
+ <p>Sounds comical now, but there is an intuitive logic to it: men, half the population, now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
+ <p>It all was bundled with a strong ideology that created an institution and, surprisingly enough, women became pillars of it. Eve was the instigator of sin, and must submit for salvation. Women covered their hair, wore burkas, and relinquished their autonomy in the name of duty and survival.</p>
+  <div class='_centered'>
+   <div class='_citation'>
+    <p>The tyrant grinds down his slaves and they don&rsquo;t turn against him, they crush those beneath them.</p>
+    <p class='_signature'>Emily Bront&euml;</p>
+   </div>
+  </div>
+ <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
+<p>We are still struggling with that attitude today, thousands of years later,</p>
+ <ul>
+  <li>We could be in paradise, but Eve, the woman, poisoned us out of it.</li>
+  <li>We are still struggling with the leftovers of colonization, domestic and foreign.</li>
+  <li>We are on our way to heal the wounds, but it is a struggle as powerful people cling to the past.</li>
+ <h2>Lording as Division Mechanism</h2>
+  <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
+  <p>Judaism, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
+
+<h1>Radical</h1>
+ <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
+ <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
+ <p>In a Radical-based alternative to the Fiat system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
+ <p>The alternative is not chaos, but it is certainly different.</p>
+ <h2>Community</h2>
+  <ul>
+   <li>I trust my decentralized and fully transparent community.</li>
+   <li>What is going to keep my community growing is what’s good for us.</li>
+   <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
+  </ul>
+
+
+
+
   <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by any system, I shape it however I want to.</span> Maybe &ldquo;ecology&rdquo; is more your thing, but, alas, an ecology is a system, too.</p>
   <p>We created the <span class='_paradigm'>Fiat</span> system and we uphold it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
   <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on,</p>
@@ -94,9 +192,10 @@ image:    "icon-radical-inspiration-and-discovery.svg"
    </div>
   <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
   <p>We are still struggling with that attitude today, thousands of years later. We could be in paradise, but the woman enticed us to bite the apple of knowledge and poisoned us. We are still struggling with the leftovers of colonization, domestic and foreign. We are on our way to bring it all out in the open and heal the wounds, but it is a struggle as powerful people cling to the past.</p>
- <h2>Lording</h2>
+ <h2>Lording as Division Mechanism</h2>
   <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
   <p>Judaism, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
+
 <h1>Radical</h1>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
@@ -109,6 +208,45 @@ image:    "icon-radical-inspiration-and-discovery.svg"
     <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
     <li>And if that is not the case, I leave.</li>
    </ul>
+
+ <h2>Foundation</h2>
+  <p>This is the Foundation of a community,</p>
+   <ul>
+    <li>A community must help me find Meaning. This is a community that I want to Belong to.</li>
+    <li>To work for every member, the community must be fully decentralized and transparent.</li>
+    <li>Members are free to experiment. Not meeting the expected result, means that we learn how not to do it.</li>
+   </ul>
+
+ <h2>Alignment</h2>
+  <p>But the Foundation is not enough, it needs an Explicit Alignment,</p>
+   <ul>
+    <li>To hold us together a community must define the what for, the Impact it wants to have on the world.</li>
+    <li>It must be explicit about the “why,” its Purpose that made it come together as a community.</li>
+    <li>The community can then define the what, when, and how, of each Mission of the work it needs to do.</li>
+   </ul>
+ <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view. It is alignment in the sense that it ties people together into a community with something in common.</p>
+ <p>To be clear,</p>
+  <ul>
+   <li>If the &ldquo;what for,&lrdquo; the Impact, is not your thing, then you don’t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business because it is very, very difficult.</li>
+   <li>If the &ldquo;why,&rdquo; the Purpose, doesn’t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don’t join the community.</li>
+   <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&rdquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li>
+  </ul>
+ <h2>No Divisions</h2>
+  <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p>
+   <ul>
+    <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You get paid whatever the boss feels is reasonable.</li>
+    <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not equal, as in co-ops, but it is equitable based on contributions.</li>
+    <li>BTW, the word company comes from the Latin prefix &ldquo;co-,&rdquo; meaning together, and the Latin word &ldquo;-pan,&rdquo; meaning bread. <span class='_quotespan'>Breaking bread together.</span></li>
+    <li>The level of co-ownership is determined by contributions, not capital.</li>
+    <li>These contributions are recognized by other co-owners.</li>
+   </ul>>
+<h1>And&hellip;</h1>
+ <p>And, yes, there is an app for that.</p>
+
+<h1 calls='_section'>Capital and Contributions</span>
+
+<h1>Fiat</h1>
+
  <h2>Foundation</h2 >
   <p>This is the Foundation of a community,</p>
    <ul>
