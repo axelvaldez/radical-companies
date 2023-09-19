@@ -113,11 +113,11 @@ In the context of giving orders, the phrase additionally carries an implied thre
    </div>
   </div>
  <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
-<p>We are still struggling with that attitude today, thousands of years later,</p>
- <ul>
-  <li>We could be in paradise, but Eve, the woman, poisoned us out of it.</li>
-  <li>We are still struggling with the leftovers of colonization, domestic and foreign.</li>
-  <li>We are on our way to heal the wounds, but it is a struggle as powerful people cling to the past.</li>
+ <p>We are still struggling with that attitude today, thousands of years later,</p>
+  <ul>
+   <li>We could be in paradise, but Eve, the woman, poisoned us out of it.</li>
+   <li>We are still struggling with the leftovers of colonization, domestic and foreign.</li>
+   <li>We are on our way to heal the wounds, but it is a struggle as powerful people cling to the past.</li>
  <h2>Lording as Division Mechanism</h2>
   <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
   <p>Judaism, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
