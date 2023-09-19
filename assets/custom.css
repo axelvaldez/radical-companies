@@ -253,6 +253,7 @@ table._explicitalignment tr:nth-child(6) td {
 }
 h1, h2 {
   font-family:Courier New, monospace;
+  color:red;
 }
 h1 {
   font-size:40px;
