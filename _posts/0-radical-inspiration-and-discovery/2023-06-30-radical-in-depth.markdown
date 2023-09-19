@@ -77,7 +77,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <li>Homosexuality as abominations, pushed to the edge.</li>
    <li><span class='_qotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament.
   </ul>
-<h1>Most Insidious</h1>
+<h2>Most Insidious</h2>
  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
   <ul>
    <li>A god, an omnipotent being at the top</li>
