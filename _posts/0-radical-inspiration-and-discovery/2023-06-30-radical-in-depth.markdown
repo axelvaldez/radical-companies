@@ -142,7 +142,7 @@ image:    "icon-radical-in-depth.svg"
     <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li>
    </ul> 
  <h2>No Divisions</h2>
-  <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p.>
+  <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p>
    <ul>
     <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You get paid whatever the boss feels is reasonable.</li>
     <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not equal, as in co-ops, but it is equitable based on contributions.</li>
