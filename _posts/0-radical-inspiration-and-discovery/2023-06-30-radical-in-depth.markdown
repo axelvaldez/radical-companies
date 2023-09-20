@@ -302,7 +302,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <div class='_center'>
     <table>
      <tr>
-      <td>
       <td style='background-color:yellow; '>
        Banner:<br>
        Goal: $1M<br>
