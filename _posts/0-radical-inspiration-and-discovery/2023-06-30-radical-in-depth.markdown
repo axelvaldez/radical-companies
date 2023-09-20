@@ -287,14 +287,14 @@ In the context of giving orders, the phrase additionally carries an implied thre
        Goal: $1M<br>
        Time: 3 years<br>
        Reason:<br>
-        <p style='text-indent:1rem; '>To buy a building</p>
+        <p style='text-indent:1rem; margin-bottom:0; '>To buy a building</p>
        Beneficiaries:<br>
-        <p style='text-indent:1rem; '>Building Fund</p>
+        <p style='text-indent:1rem; margin-bottom:0; '>Building Fund</p>
       </td>
       <td style='background-color:#00FFFF; '>
        Contributions:<br>
        Mary O:
-        <p style='text-indent:1rem; '>$100.00</p>
+        <p style='text-indent:1rem; margin-bottom:0; '>$100.00</p>
       </td>
      </tr>
     </table>
