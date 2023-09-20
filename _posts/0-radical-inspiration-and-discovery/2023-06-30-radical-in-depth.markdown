@@ -282,7 +282,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <div class='_center'>
     <table>
      <tr>
-      <td>
+      <td style='background-color:yellow; '>
        Banner:<br>
        Goal: $1M<br>
        Time: 3 years<br>
@@ -291,7 +291,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
        Beneficiaries:<br>
         Building Fund
       </td>
-      <td>
+      <td style='background-color:#0080FF; '.
        Contributions:<br>
         Mary O: $100.00
       </td>
