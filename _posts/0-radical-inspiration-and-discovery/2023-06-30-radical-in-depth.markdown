@@ -282,8 +282,8 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <div class='_center'>
     <table>
      <tr>
-      <td style='background-color:yellow; '>
-       Banner:<br>
+      <td style='background-color:yellow; width:40%;  margin-bottom:20px; '>
+       <strong>Banner:</strong><br>
        Goal: $1M<br>
        Time: 3 years<br>
        Reason:<br>
@@ -291,8 +291,8 @@ In the context of giving orders, the phrase additionally carries an implied thre
        Beneficiaries:<br>
         <p style='text-indent:1rem; margin-bottom:0; '>Building Fund</p>
       </td>
-      <td style='background-color:#00FFFF; '>
-       Contributions:<br>
+      <td style='background-color:#00FFFF;  width:40%; margin-bottom:20px; '>
+       <strong>Contributions:</strong><br>
        Mary O:
         <p style='text-indent:1rem; margin-bottom:0; '>$100.00</p>
       </td>
@@ -304,7 +304,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
     <table>
      <tr>
       <td style='background-color:yellow; width:40%; '>
-       Banner:<br>
+       <strong>Banner:</strong><br>
        Goal: $1M<br>
        Time: 3 years<br>
        Reason:<br>
@@ -313,7 +313,7 @@ In the context of giving orders, the phrase additionally carries an implied thre
         <p style='text-indent:1rem; margin-bottom:0; '>Building Fund</p>
       </td>
       <td style='background-color:#00FFFF; width:40%; '>
-       Contributions:<br>
+       <strong>Contributions:</strong><br>
        Mary O:
         <p style='text-indent:1rem; margin-bottom:0; '>$100.00</p>
        Anita P:<br>
