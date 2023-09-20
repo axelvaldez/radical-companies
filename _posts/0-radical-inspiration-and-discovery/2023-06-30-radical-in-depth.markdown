@@ -10,7 +10,6 @@ image:    "icon-radical-in-depth.svg"
  <p>Intro to the <span class='_paradigm'>Fiat System</span> and <span class='_paradigm'>Co-Ownership.</span>.</p>
 </div>
 
-<!-- -->
 <h1 class='_section'>Seeing Fiat</h1>
  <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreams, where pioneers emerge to lead the way into uncharted territories, groundbreaking ideas that invite you to be part of a movement that shapes the future.</p>
  <p>In the world of Radical it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
@@ -152,7 +151,6 @@ image:    "icon-radical-in-depth.svg"
    </ul>
 <h1>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
-
 
 <h1 class='_section'>Capital and Contributions</h1>
 <h1>Fiat</h1>
