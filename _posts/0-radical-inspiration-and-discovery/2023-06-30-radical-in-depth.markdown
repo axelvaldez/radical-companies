@@ -154,7 +154,6 @@ image:    "icon-radical-in-depth.svg"
  <p>And, yes, there is an app for that.</p>
 
 
-
 <h1 class='_section'>Countries and Other Divisions</h1>
 <h1>Fiat</h1>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms, cleansed by force.</p>
