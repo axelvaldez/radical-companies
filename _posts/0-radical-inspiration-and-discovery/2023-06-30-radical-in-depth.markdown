@@ -139,10 +139,9 @@ image:    "icon-radical-in-depth.svg"
    <ul>
     <li>If the &ldquo;what for,&rdquo; the Impact, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business because it is very, very difficult.</li>
     <li>If the &ldquo;why,&rdquo; the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don&rsquo;t join the community.</li>
-    <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li>
-   </ul> 
+    <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li> 
  <h2>No Divisions</h2>
-  <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p>
+  <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p.>
    <ul>
     <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You get paid whatever the boss feels is reasonable.</li>
     <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not equal, as in co-ops, but it is equitable based on contributions.</li>
@@ -230,6 +229,27 @@ image:    "icon-radical-in-depth.svg"
      </tr>
     </table>
    </div>
+
+<h1 class='_section'>From Democracies and Dictatorships</h1>
+ <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can’t, either, because it doesn’t exist.</p>
+<h1>Fiat</h1>
+ <p>I have already said a lot about Fiat. One thing I mentioned in passing is that Fiat evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to “obey your earthly masters.” However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
+ <p>The thing that has remained constant in the Fiat system is Force.</p>
+<h1>Radical</h1>
+ <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system (i.e., in yellow, below), not a system that has evolved to be a big, hairy ball of hair. Radical does not have embedded rules and it is not dogmatic in any way,</p>
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-the-radical-model-coming-together.svg'
+    width='70%'
+    alt=''>
+  </div>
+ <p>When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and point to the first obvious thing. We never get beyond this point and we end up never discovering what’s really at the root of the problem. The Radical Foundation helps us remain clear,</p>
+  <ul>
+   <li>Will this decision make us more or less decentralized? Either choice is up to you and your community, but the Foundation helps you know which direction the decision is taking you.</li>
+   <li>Will this decision make it easier to help people find meaning in what they are doing or not? Again, either choice is up to you and your community, but the Foundation helps you know where you are headed.</li>
+  </ul>
+ <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, “Oh, I didn’t know!” Radical doesn’t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners and none of you have the right to Force to others.</p>
+
 
 <!-- -->
 <h1 class='_section'>Rules, Laws, and Force</h1>
