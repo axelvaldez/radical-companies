@@ -126,7 +126,7 @@ image:    "icon-radical-in-depth.svg"
    <li>What is going to keep my community growing is what’s good for us.</li>
    <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
    <li>And if that is not the case, I leave.</li>
-  <ul>
+  </ul>
  <h2>Alignment</h2>
   <p>But the Foundation is not enough, it needs an Explicit Alignment,</p>
    <ul>
