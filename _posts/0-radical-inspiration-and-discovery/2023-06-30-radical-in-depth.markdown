@@ -139,7 +139,8 @@ image:    "icon-radical-in-depth.svg"
    <ul>
     <li>If the &ldquo;what for,&rdquo; the Impact, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business because it is very, very difficult.</li>
     <li>If the &ldquo;why,&rdquo; the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don&rsquo;t join the community.</li>
-    <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.
+    <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li>
+   </ul> 
  <h2>No Divisions</h2>
   <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p.>
    <ul>
