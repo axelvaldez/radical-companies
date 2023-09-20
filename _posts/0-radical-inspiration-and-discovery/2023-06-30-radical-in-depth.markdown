@@ -311,7 +311,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
        Beneficiaries:<br>
         Building Fund
       </td>
-      <td>
       <td style='background-color:#00FFFF; '>
         Controbutions:<br>
         Mary O: $100.00<br>
