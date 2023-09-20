@@ -29,22 +29,18 @@ image:    "icon-radical-in-depth.svg"
     </div>
    </div>
  <p>If you are not open to this and are just being polite (“Sounds interesting… tell me more about it”), you can return the book now. Sorry for any inconvenience.</p>
-
  <h2>What Does Fiat Even Mean?</h2>
   <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
   <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny.&rdquo; It is not even living. It is the way the <span class='_paradigm'>Fiat</span> system limits us.</p>
   <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
-
  <h2>Fiat, the Word</h2>
   <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
   <p>But what does the word Fiat mean?</p>
-  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).
-In the context of giving orders, the phrase additionally carries an implied threat: or else. “Move those boxes from there to over there  because I say so… or else.”
-  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. <span class='_quotespan'>Move those boxes from there to over there because I say so&hellip; or else).</span></p>
-
+  <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).</p>
+  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. “Move those boxes from there to over there  because I say so… or else.”</p>
+  <p>In the context of giving orders, the phrase additionally carries an implied threat: or else. <span class='_quotespan'>Move those boxes from there to over there because I say so&hellip; or else).</span>
 <h1 class='_section'>Rules, Laws, and Force</h1>
  <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
-
 <h1>Force</h1>
  <p>Picture this,</p>
   <ul>
@@ -91,7 +87,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
  <p>
 
 <h1 class='_section'>Countries and Other Divisions</h1>
-
 <h1>Fiat</h1>
  <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the rules.</p>
@@ -101,7 +96,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <li>Had developed a methodology to cleanse out whatever other cultures they encountered</li>
    <li>They had what it took to subjugate, control, and obliterate anything that stood in their way.</li>
   </ul>
-
 <h1>Divide and Conquer</h1>
  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish family names (<em>e.g.</em>, Per<em>ez</em>) is the equivalent to the English possessive (<em>e.g.</em>, Pedro&rsquo;s). It indicated that people with that last name &ldquo;belonged to&rdquo; the man called Pedro in the village. Men were the kings of their castle and everybody, including women, were reduced to chattel.</p>
  <p>Sounds comical now, but there is an intuitive logic to it: men, half the population, now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
@@ -122,7 +116,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
  <h2>Lording as Division Mechanism</h2>
   <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
   <p>Judaism, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
-
 <h1>Radical</h1>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
@@ -133,44 +126,35 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <li>I trust my decentralized and fully transparent community.</li>
    <li>What is going to keep my community growing is what’s good for us.</li>
    <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
-  </ul>
-
-
-
-
-  <p>We live in a <span class='_paradigm'>Fiat</span> environment, or more accurately, a <span class='_paradigm'>Fiat</span> system. Some people do not like the word system associated with their lives, and that is understandable. <span class='_quotespan'>My life is not limited by any system, I shape it however I want to.</span> Maybe &ldquo;ecology&rdquo; is more your thing, but, alas, an ecology is a system, too.</p>
-  <p>We created the <span class='_paradigm'>Fiat</span> system and we uphold it. You have a boss, within the <span class='_paradigm'>Fiat</span> system. And within the <span class='_paradigm'>Fiat</span> system, you work for a wage, but the wealth that you help create goes to the owner of the business you work for, not yourself. These are elements of the <span class='_paradigm'>Fiat</span> system that we created, we live in, and we uphold.</p>
-  <p>Worse, the <span class='_paradigm'>Fiat</span> system is based on,</p>
+   </li>And if that is not the case, I leave.</li>
+  <ul>
+ <h2>Alignment</h2>
+  <p>But the Foundation is not enough, it needs an Explicit Alignment,</p>
    <ul>
-    <li>Competition, not collaboration.</li>
-    <li>Dividing people, not bringing us together.</li>
-    <li>Threats, fear, force, and pain. Not wellbeing.</li>
+    <li>To hold us together a community must define the &ldquo;what for,&rdquo; the Impact it wants to have on the world.</li>
+    <li>It must be explicit about the &ldquo;why,&rdquo; its Purpose that made it come together as a community.</li>
+    <li>The community can then define the &ldquo;what, when,&rdquo; and &ldquo;how,&rdquo; of each Mission of the work it needs to do.</li>
    </ul>
-  <p>Luckily, there are <em>alternatives</em> to the <span class='_paradigm'>Fiat</span> system.</p>
- <h2>It Starts with Rules</h2>
-  <p>As we grow up, our parents teach us simple rules and they teach us how to follow them. They do that for our own good, because if you don&rsquo;t fit in society, you are going to be pushed to the edge. You are going to be an outcast relegated to the edge with other maladapted undesirables. When I was a kid, the &ldquo;edge&rdquo; included people with Down Syndrome, men who left their hair long and women who cut it too short (unless it was a church thing). Anybody with an addiction or a tick were at the edge as well.</p>
-  <p>Then, if we are lucky, we go to a pre-school. We have to unlearn some rules (<span class='_quotespan'>did you hit him back harder?</span>) and learn new ones (keep your hands to yourself).</p>
-  <p>Lucky that we are, we go to primary school, where we learn more rules. We also start to learn the sanctioned view of the world. <span class='_quotespan'>That will be on the test!</span></p>
-  <p>Also, in primary school is when we start to put on the <span class='_paradigm'>Fiat</span> glasses.</p>
-   <div class='_center'>
-    <img
-     src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
-     width='70%'
-     alt=''>
-   </div>
-  <p>If we happen to live in an &ldquo;advanced&rdquo; country, we go to secondary school. By then the glasses are on all the time, we are simply fiddling with them and learning to make them more comfortable. No matter, we make sure that the <span class='_paradigm'>Fiat</span> lenses are never, ever off. We want to stay away from the people who don't know how to wear their glasses correctly.</p>
-  <p>Finally, we go to work, with our <span class='_paradigm'>Fiat</span> glasses firmly on. We ask what the rules are and how to be a good worker. We are happy to be a resource and happier that we are getting a steady wage (until—surprise—we are not).</p>
-  <p><span class='_quotespan'>We learn to be kind and condescending to the ones whose glasses are skewed and not fitting correctly. We do our best for these people, but they just don&rsquo;t want to learn the rules. They want to live on the edge.</span></p>
- <h2>Fiat Is&hellip;</h2>
+  <p>It is <em>explicit</em> in that it lays it all out for all to know; there are no dark corners where need-to-know information is kept away from view. It is alignment in the sense that it ties people together into a community with something in common.</p>
+  <p>To be clear,</p>
    <ul>
-    <li>Learning the rules,</li>
-    <li>Following the rules,</li>
-    <li>Enforcing the rules.</li>
+    <li>If the &ldquo;what for,&rdquo; the Impact, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business because it is very, very difficult.</li>
+    <li>If the &ldquo;why,&rdquo; the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don&rsquo;t join the community.</li>
+    <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.
+ <h2>No Divisions</h2>
+  <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p.>
+   <ul>
+    <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You get paid whatever the boss feels is reasonable.</li>
+    <li>A company is a group of people that comes together as a community to improve the wellbeing of their members. We call these members co-owners. They own everything about the company, including its revenue. The level of co-ownership is not equal, as in co-ops, but it is equitable based on contributions.</li>
+    <li>BTW, the word company comes from the Latin prefix “co-,” meaning together, and the Latin word “-pan,” meaning bread. “Breaking bread together.”</li>
+    <li>The level of co-ownership is determined by contributions, not capital.</li>
+    <li>These contributions are recognized by other co-owners.</li>
    </ul>
-  <p>Think of what happens when you get caught not following the rules. Think of how many decisions you have made, now think of how you considered in the back of your head what your boss would think of them. Think of how many times you have said, <span class='_quotespan'>I am pretty sure that Bob is not going to like this.</span> You can&rsquo;t make a decision without considering Bob, your boss.</p>
-  <p>You may be thinking, <span class='_quotespan'>How else would the system work?</span> Think of decisions and how they have been influenced by what your boss would think of them. It is Bob or chaos. You do what you do, without thinking, because of Bob, your boss. This is encouraged by the <span class='_paradigm'>Fiat</span> system.</p>
+<h1>And&hellip;</h1>
+ <p>And, yes, there is an app for that.</p>
 
-<!-- -->
+
+
 <h1 class='_section'>Countries and Other Divisions</h1>
 <h1>Fiat</h1>
   <p>Countries are <span class='_paradigm'>Fiat</span> creations, straight out of kingdoms, cleansed by force.</p>
@@ -196,7 +180,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
  <h2>Lording as Division Mechanism</h2>
   <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
   <p>Judaism, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
-
 <h1>Radical</h1>
   <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
   <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
@@ -209,7 +192,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
     <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
     <li>And if that is not the case, I leave.</li>
    </ul>
-
  <h2>Foundation</h2>
   <p>This is the Foundation of a community,</p>
    <ul>
@@ -217,7 +199,6 @@ In the context of giving orders, the phrase additionally carries an implied thre
     <li>To work for every member, the community must be fully decentralized and transparent.</li>
     <li>Members are free to experiment. Not meeting the expected result, means that we learn how not to do it.</li>
    </ul>
-
  <h2>Alignment</h2>
   <p>But the Foundation is not enough, it needs an Explicit Alignment,</p>
    <ul>
@@ -245,22 +226,19 @@ In the context of giving orders, the phrase additionally carries an implied thre
  <p>And, yes, there is an app for that.</p>
 
 <h1 class='_section'>Capital and Contributions</h1>
-
 <h1>Fiat</h1>
  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
  <p>For one, power is force-waiting-happen. So given their capital contribution, investors have power over the business. On the other hand, you have no ownership in the business and you are happy to get your salary, but that’s that. Owners have power over you.</p>
-
 <h1>Radical</h1>
  <p>This is probably the most shocking thing about Radical alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain’t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
-
  <h2>The Calculations</h2>
   <ul>
    <li>RADs make contributions tangible.</li>
    <li>You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</li>
    <li>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</li>
   </ul>
-  <h2>But&hellip;</h2>
+ <h2>But&hellip;</h2>
    <p>At this point you may be coming up with objections, Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs</span> and you give me all of yours. And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. Co-owners can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.</p>
    <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won’t go perfect or smoothly. There will be plenty of bumps along the way. The &ldquo;fix,&rdquo; in my opinion, is not to elect a boss to tell us what to do; the fix is to deal with what you consider a problem—you are all co-owners.</p>
    <p>An objection that I heard more than once is that other people are &ldquo;coin operated.&rdquo; They do not want to do anything for a community or society. &ldquo;Homo Economicus&rdquo; is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.</p>
