@@ -85,6 +85,49 @@ image:    "icon-radical-in-depth.svg"
  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about &ldquo;divide-and-conquer.&rdquo;</p>
  <p>
 
+<h1 class='_section'>Rules, Laws, and Force</h1>
+ <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
+ <h2>Force</h2>
+  <p>Picture this,</p>
+   <ul>
+    <li>You get a traffic ticket. A very minor form of force.</li>
+    <li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
+    <li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
+    <li>Either you win or you lose,
+     <ul>
+      <li>Victory brings celebration, the force is with you.</li>
+      <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
+     </ul>
+    </li>
+    <li>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
+    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure.</em></li>
+   </ul>
+  <p>Force is ever present in our <span class='_paradigm'>Fiat</span> system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
+  <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force, from threats to actual pain.</p>
+  <p>&ldquo;Motivation&rdquo; is another form of force. Do this and you&rsquo;ll get the reward. We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
+  <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
+  <p>But I ask you to consider this: humanity evolved and has survived and thrived as a species for a long time. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.</p>
+  <p>Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the <span class='_paradigm'>Fiat</span> system took shape around us.</p>
+  <p>Alongside, there came the stories that supported the <span class='_paradigm'>Fiat</span> system as it evolved,</p>
+   <ul>
+    <li>An all powerful supernatural being at the top</li>
+    <li>Paradise</li>
+    <li>Eve as the bad apple</li>
+    <li>Homosexuals as abominations, pushed to the edge.</li>
+    <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
+   </ul>
+ <h2>Insidious</h2>
+  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
+   <ul>
+    <li>A god, an omnipotent being at the top</li>
+    <li>A boss, an omnipotent being at the top.</li>
+   </ul>
+  <p>And that we get paid what the boss says is reasonable.</p>
+  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars that were made to carry whatever the winners didn&rsquo;t want to carry, including the winners dead. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
+  <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.</p>
+  <p>Anybody talking about alternatives (you and I) must be crazy. Ignore them.</p>
+  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
+
 <h1 class='_section'>Countries and Other Divisions</h1>
 <h1>Fiat</h1>
  <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
@@ -250,74 +293,6 @@ image:    "icon-radical-in-depth.svg"
   </ul>
  <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, “Oh, I didn’t know!” Radical doesn’t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners and none of you have the right to Force to others.</p>
 
-
-<!-- -->
-<h1 class='_section'>Rules, Laws, and Force</h1>
- <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
- <h2>Force</h2>
-  <p>Picture this,</p>
-   <ul>
-    <li>You get a traffic ticket. A very minor form of force.</li>
-    <li>You have to give up money (<em>i.e.</em>, coined force) to be spared the pain that would follow if you don&rsquo;t.</li>
-    <li>If you strongly feel that is an injustice, you let it go to court (<em>i.e.</em>, another type of force).</li>
-    <li>Either you win or you lose,
-     <ul>
-      <li>Victory brings celebration, the force is with you.</li>
-      <li>If you are defeated, you are angry, but you have to pay the ticket. Still a minor force.</li>
-     </ul>
-    </li>
-    <li>On the other hand, if you happen to be from the edge, any sort of protest or disobedience may send you to prison. This is no longer a minor force.</li>
-    <li>Behind those cold, unforgiving walls a fight may break out and blood is spilled and lives are maimed or lost. Either way, it is definitely a <em>force majeure.</em></li>
-   </ul>
-  <p>Force is ever present in our <span class='_paradigm'>Fiat</span> system. It goes from merely a frown to the ghastly specter of the electric chair.</p>
-  <p>Withholding a reward because you did not say or did what was expected of you is a form of force. Getting passed over for a raise or promotion is a form of force. Firing you or laying you off is a form of force. Raising your rent so your only option is to leave is a form of force. We are surrounded by a system that runs on force, from threats to actual pain.</p>
-  <p>&ldquo;Motivation&rdquo; is another form of force. Do this and you&rsquo;ll get the reward. We often fail to see it for what it truly is—an external force, driving us toward someone else's desires. But you are being &ldquo;motivated&rdquo; to do what somebody else wants, regardless of what you may want to do. That is force.</p>
-  <p>In the <span class='_paradigm'>Fiat</span>-base alternative to the <span class='_paradigm'>Fiat</span> system there is no do-it-or-else force. The <span class='_paradigm'>Fiat</span> myth is that without force we would never do anything of significance, we would never do anything bigger than ourselves. They try to shatter our belief in our own capabilities, in our power of our collective potential.</p>
-  <p>But I ask you to consider this: humanity evolved and has survived and thrived as a species for a long time. We birthed agriculture, spreading its roots across every corner of the planet. We managed to do all that and more without anybody dictating our path, without anyone wielding force to mold us.</p>
-  <p>Then came the people who took things by force, because they had nothing to trade. And then came money, coinage which allowed them to trade the wealth that they extracted from you by force. And slowly by surely the <span class='_paradigm'>Fiat</span> system took shape around us.</p>
-  <p>Alongside, there came the stories that supported the <span class='_paradigm'>Fiat</span> system as it evolved,</p>
-   <ul>
-    <li>An all powerful supernatural being at the top</li>
-    <li>Paradise</li>
-    <li>Eve as the bad apple</li>
-    <li>Homosexuals as abominations, pushed to the edge.</li>
-    <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
-   </ul>
- <h2>Insidious</h2>
-  <p>Most insidious of all, we learn to expect that the fruit of our work should go to someone else,</p>
-   <ul>
-    <li>A god, an omnipotent being at the top</li>
-    <li>A boss, an omnipotent being at the top.</li>
-   </ul>
-  <p>And that we get paid what the boss says is reasonable.</p>
-  <p>It didn&rsquo;t start this way, but it evolved. First came prisoners of minor wars that were made to carry whatever the winners didn&rsquo;t want to carry, including the winners dead. At the end they either joined the winners (after all, they were related) or they went back to their village. Then came slavery, they kept you as a worthless worker because they had the force (and you were not related). Finally came wage work. From forced labor by sheer force to forced labor by coin. Different forms of force, but force throughout.</p>
-  <p><span class='_paradigm'>Fiat</span> tendrils extend deep into every aspect of our lives, particularly in the realms of economics and politics. For example, &ldquo;being a good worker&rdquo; is a sign of pride today within the <span class='_paradigm'>Fiat</span> system you and I live in. Unwavering loyalty to their chosen politicians, no matter the cost. There is nothing strange about it, it is totally normal. The alternative, they say, is chaos to be avoided at all costs.</p>
-  <p>Anybody talking about alternatives (you and I) must be crazy. Ignore them.</p>
-  <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
-
-<!-- -->
-<h1 class='_section'>From Democracies to Dictatorships</h1>
- <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can&rsquo;t, either, because it doesn&rsquo;t exist.</p>
-<h1>Fiat</h1>
- <p>I have already said a lot about <span class='_paradigm'>Fiat</span>. One thing I mentioned in passing is that <span class='_paradigm'>Fiat</span> evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to &ldquo;obey your earthly masters.&rdquo; However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
-  <p>The thing that has remained constant in the <span class='_paradigm'>Fiat</span> system is Force.</p>
-<h1>Radical</h1>
- <p>As opposed to <span class='_paradigm'>Fiat</span>, <span class='_paradigm'>Radical</span> is a Foundation of what we need at the root of the system (<em>i.e.</em>, in yellow, below), not a system that has evolved to be a big, hairy ball of hair. <span class='_paradigm'>Radical</span> does not have embedded rules and it is not dogmatic in any way,</p>
-  <div class='_center'>
-   <img
-    src='/assets/img/pic-the-radical-model-coming-together.svg'
-    width='70%'
-    alt=''>
-  </div>
- <p> When looking for solutions to what we feel is wrong, we often get lost in the intellectual weeds and point to the first obvious thing. We never get beyond this point and we end up never discovering what&rsquo;s really at the root of the problem. The <span class='_paradigm'>Radical</span> Foundation helps us remain clear,</p>
-  <ul>
-   <li>Will this decision make us more or less decentralized? Either choice is up to you and your community, but the Foundation helps you know which direction the decision is  taking you.</li>
-   <li>Will this decision make it easier to help people find meaning in what they are doing or not? Again, either choice is up to you and your community, but the Foundation helps you know where you are headed.</li>
-    <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, <span class='_quotespan'>Oh, I didn&rsquo;t know!</span></p>
-    <p><span class='_paradigm'>Radical</span> doesn&rsquo;t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners  and none of you have the right to Force to others.</p>
-  </ul>
-
-<!-- -->
 <h1 class='_section'>Competition and Collaboration</h1>
 <h1>Fiat</h1>
  <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practice our competitive skills.</p>
@@ -327,20 +302,18 @@ image:    "icon-radical-in-depth.svg"
  <p>Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
  <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
 
-<!-- -->
 <h1 class='_section'>Scarcity and Abundance<h1>
 <h1>Fiat</h1>
  <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that&rsquo;s how the story goes.</p>
  <p>Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</p>
  <p>Abundance for a few, scarcity for everybody else.</p>
- <p>In the Fiat system, abundance creates scarcity. Abundance brings out the forces to enclose and creates scarcity for the rest of us. For example, the newest abundant good is the so-called AI computing. It is abundant because it evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.</p>
+ <p>In the <span class='_paradigm'>Fiat</span> system, abundance creates scarcity. Abundance brings out the forces to enclose and creates scarcity for the rest of us. For example, the newest abundant good is the so-called AI computing. It is abundant because it evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.</p>
  <p>Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
 <h1>Radical</h1>
  <p>Enclosures do come out of Force and Force is a no-no in <span class='_paradigm'>Radical</span>-based alternatives.</p>
  <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
  <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, children-of-<span class='_paradigm'>Fiat</span> that we are. Nevertheless, we need to make it happen.</p>
 
-<!-- -->
 <h1 class='_section'>Pain vs Wellbeing</h1>
 <h1>Fiat</h1>
  <p>The <span class='_paradigm'>Fiat</span> model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
@@ -360,7 +333,6 @@ image:    "icon-radical-in-depth.svg"
     alt=''>
   </div>
 
-<!-- -->
 <h1 class='_section'>Transcendence<h1>
 <h1>Who Am I If Not a Manager?</h1>
  <div class='_citation'>
@@ -385,10 +357,9 @@ image:    "icon-radical-in-depth.svg"
   <p id='_signature'>Chabeli Atahuaman</p>
  </div>
 
-<!-- -->
 <h1 class='_section'>RADs<h1>
 <h1>Fiat</h1>
- <p>In a <span class='_paradigm'>Fiat</span> business, things are static. &ldquo;<em>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.&rdquo; That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
+ <p>In a <span class='_paradigm'>Fiat</span> business, things are static. <span class='_paradigm'>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.</span> That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
 <h1>Radical</h1>
  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
 <h1>What Are RADs?</h1>
@@ -426,7 +397,6 @@ image:    "icon-radical-in-depth.svg"
 <h1><em>The RAD! Mobile App</em></h1>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
 
-<!-- -->
 <h1 class='_section'>Co-Ownership</h1>
  <p>As opposed to centralized <span class='_paradigm'>Fiat</span> ownership, which is what we live with now, co-ownership is profoundly transformative. It evokes hope and possibility. This revolutionary concept marks the demise of oligarchic wealth and decentralized power. Gone are the days of toiling for a mere wage; instead, you will be rewarded based on the contributions you make as recognized by your peer. No longer will a traditional  <span class='_paradigm'>Fiat</span> owner hoard the wealth generated by your efforts. Instead, you will reap the wealth you helped create, enjoying an empowering and fulfilling experience.</p>
  <p>Co-ownership is the least understood thing about the <span class='_paradigm'>Radical</span> paradigm. It is not a co-op and it is not revenue sharing. It is powerfully different. We&rsquo;ll get into the details of it below.</p>
@@ -485,7 +455,6 @@ image:    "icon-radical-in-depth.svg"
   </ul>
  <p style='font-size:larger; '>That is the catch!</p>
 
-<!-- -->
 <h1 class='_section'>Afterthoughts&hellip;</h1>
  <p>In a world where the relentless grip of Fiat-based systems has long dictated the rules of ownership, a beacon of change emerges. RADs shatter the chains of static, archaic ownership models. In this epoch-defining transformation, we are ready to move from the unyielding Fiat fortress to the dynamic Radical frontier.</p>
  <p>RADs are a declaration of liberation. They represent a tangible share in the wealth generated through collective effort. Ownership, once an immutable concept, now dances to the rhythm of Recognized Contributions, rising and falling with each heartbeat of innovation.</p>
