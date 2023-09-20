@@ -307,17 +307,17 @@ In the context of giving orders, the phrase additionally carries an implied thre
        Goal: $1M<br>
        Time: 3 years<br>
        Reason:<br>
-       \s\sTo buy a building<br>
+       '  'To buy a building<br>
        Beneficiaries:<br>
-       \s\sBuilding Fund
+       '  'Building Fund
       </td>
       <td style='background-color:#00FFFF; '>
        Controbutions:<br>
        Mary O: $100.00<br>
        Anita P:<br>
-       \s\s0.25% of $M<br>
+       '  '0.25% of $M<br>
        Salim Q:<br>
-       \s\s5% of RADs yield
+       '  '5% of RADs yield
       </td>
      </tr>
     </table>
