@@ -287,13 +287,13 @@ In the context of giving orders, the phrase additionally carries an implied thre
        Goal: $1M<br>
        Time: 3 years<br>
        Reason:<br>
-        To buy a building<br>
+        <p style='text-indent:1rem; '>To buy a building</p>
        Beneficiaries:<br>
-        Building Fund
+        <p style='text-indent:1rem; '>Building Fund</p>
       </td>
       <td style='background-color:#00FFFF; '>
        Contributions:<br>
-        Mary O: $100.00
+        <p style='text-indent:1rem; '>Mary O: $100.00</p>
       </td>
      </tr>
     </table>
@@ -302,22 +302,23 @@ In the context of giving orders, the phrase additionally carries an implied thre
    <div class='_center'>
     <table>
      <tr>
-      <td style='background-color:yellow; '>
+      <td style='background-color:yellow; width:40%; '>
        Banner:<br>
        Goal: $1M<br>
        Time: 3 years<br>
        Reason:<br>
-       '  'To buy a building<br>
+        <p style='text-indent:1rem; '>To buy a building</p>
        Beneficiaries:<br>
-       '  'Building Fund
+        <p style='text-indent:1rem; '>Building Fund</p>
       </td>
-      <td style='background-color:#00FFFF; '>
+      <td style='background-color:#00FFFF; width:40%; '>
        Controbutions:<br>
-       Mary O: $100.00<br>
+       Mary:
+        <p style='text-indent:1rem; '>$100.00</p>
        Anita P:<br>
-       '  '0.25% of $M<br>
+        <p style='text-indent:1rem; '>0.25% of $M</p>
        Salim Q:<br>
-       '  '5% of RADs yield
+        <p style='text-indent:1rem; '>5% of RADs yield</p>
       </td>
      </tr>
     </table>
