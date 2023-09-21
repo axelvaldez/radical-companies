@@ -66,7 +66,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
   </div>
 
 <h1>Like Water to Fish</h1>
-  <p> hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Hierarchy is not only <span class="_quotespan">a ubiquitous feature of human organization,</span> it is the only system we can <em>think</em> of. All &ldquo;revolutions&rdquo; have been but variations of it.<a href="#en03"><sup id="bm03">&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>The <span class="_paradigm">Radical</span> system is an alternative,</p>
    <ul>
     <li>Meaning and belonging (people) are at the root of it.</li>
