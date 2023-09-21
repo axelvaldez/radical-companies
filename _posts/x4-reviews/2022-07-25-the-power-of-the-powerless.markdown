@@ -48,13 +48,10 @@ image:    "icon-the-power-of-the-powerless.svg"
      <p>This type of dictatorship is &ldquo;another form of the consumer and industrial society, with all its concomitant social, intellectual, and psychological consequences.&rdquo;<a href="#en07"><sup id="bm07">&hairsp;&nabla;&hairsp;</sup></a></p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
   </table>
  </div>
 
-<h1>Dictatorships are FIAT Hierarchies</h1>
+<h1>Dictatorships Are Fiat Hierarchies</h1>
  <p>As I read the essay, I got more and more excited as I realized how well the <span class="_paradigm">Radical</span> model aligned with each of these points,</p>
  <div class="_center">
   <table class="_h2table">
