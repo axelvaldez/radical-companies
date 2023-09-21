@@ -36,7 +36,7 @@ image:    "icon-abed-baidas-talents-of-endearment.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
-    I am half arab (maternal) in case anybody is wondering. And no, I don&rsquo;t any self-hate eating at me.
+    I am half arab on my maternal side, in case anybody is wondering. And no, I don&rsquo;t any self-hate eating at me.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
