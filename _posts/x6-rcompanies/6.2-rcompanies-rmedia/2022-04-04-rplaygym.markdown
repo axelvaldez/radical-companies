@@ -336,3 +336,5 @@ image:    "icon-rmedia.svg"
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/03/rlive">&lt; Previous</a></span>
  <span style="float:right; ">                                                                Next &gt;</span>
 </div>
+
+{% include related.html %}

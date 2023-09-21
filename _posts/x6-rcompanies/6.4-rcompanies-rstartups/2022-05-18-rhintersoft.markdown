@@ -191,3 +191,5 @@ image:    "icon-rhintersoft.svg"
    </tr>
   </table>
  </div>
+
+{% include related.html %}

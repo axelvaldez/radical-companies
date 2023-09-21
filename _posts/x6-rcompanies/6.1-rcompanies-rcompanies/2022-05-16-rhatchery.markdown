@@ -250,3 +250,5 @@ image:    "icon-rmedia.svg"
    </p>
   </li>
  </ul>
+
+{% include related.html %}

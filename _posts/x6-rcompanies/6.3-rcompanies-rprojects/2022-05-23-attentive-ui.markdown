@@ -60,3 +60,5 @@ image:    "icon-rmedia.svg"
    </tr>
   </table>
  </div>
+
+{% include related.html %}

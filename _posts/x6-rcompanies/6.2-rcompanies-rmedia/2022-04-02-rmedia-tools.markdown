@@ -81,3 +81,5 @@ image:    "icon-rmedia.svg"
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/01/rmedia">&lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/04/03/rlive">     Next &gt;</a></span>
 </div>
+
+{% include related.html %}

@@ -112,3 +112,5 @@ image:    "icon-rmedia.svg"
 <h1>How It Works</h1>
 
 <h1>What's in It for &hellip;?</h1>
+
+{% include related.html %}
