@@ -16,10 +16,12 @@ image:    "icon-joy-instea-of-will.svg"
   <p>That is what Beethoven imagined, and invited humanity to imagine, the choral finale of his ninth and final symphony, known as “Ode to Joy” — an epochal hymn of the possible&hellip;</p>
  </div>
  <p>According to this, Ludwig van Beethoven was a proto-<span class='_paradigm'>Radical</span>.</p>
- <hr>
+ 
+<h1>Video</h1>
  <p>BTW, Maria&rsquo;s post includes a video of the choral finale performed in a square in Sabadell, a catalonian town, in Spain.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>It really moved me to tears.</p>
- <p></p>
+ 
+<h1>Community</h1>
  <p>We are all people, we are all family.</p>
 
 <h1 class="_section">ENDNOTES</h1>
