@@ -144,7 +144,7 @@ image:    "icon-the-power-of-the-powerless.svg"
  <p>If you believe, as I do, that decentralized ownership and decision-making (<em>i.e.</em>, democracy) is better than centralized State control (<em>i.e.</em>, dictatorship),<a href="#en15"><sup id="bm15">&hairsp;&nabla;&hairsp;</sup></a> then it follows that we should insist on moving <em>towards decentralization</em>. Our lives depend on it. Unfortunately, this will require a change in mindset that goes against everything we &ldquo;know,&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ol>
+ <ul>
   <li id="en01">
    <p class="_list-item">
     Andy Kopsa.
@@ -262,6 +262,6 @@ image:    "icon-the-power-of-the-powerless.svg"
     <a class="_uparrow" href="#bm15"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ol>
+ </ul>
 
 {% include related.html %}
