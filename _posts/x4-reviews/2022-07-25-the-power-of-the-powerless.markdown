@@ -143,9 +143,6 @@ image:    "icon-the-power-of-the-powerless.svg"
      <p>Most of us learn to see this centralization of power as a positive thing, &rdquo;<em>thank goodness, because if it weren&rsquo;t for the State/businesses/military would not have nice things like bridges, roads, and schools.</em>&rdquo; Sadly, even though this system is literally unsustainable, this mindset stops us from doing anything about it. We need to decentralize decision-making. Centralization is not good for us. It is hostile to innovation and even hostile to commerce. What innovation there is, (<em>e,g,</em>, in medicine) is accidental and it overwhelmingly ends up as private goods.</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
   </table>
  </div>
 
