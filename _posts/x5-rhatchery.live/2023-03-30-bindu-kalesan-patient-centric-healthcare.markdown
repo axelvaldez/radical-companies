@@ -69,7 +69,7 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
   <table class="_background">
    <tr>
     <th>Losing Weight</th>
-    <td>This is not about body shaming, but weight is a known co-morbidity. In other words, it makes other illnesses worse.</td>
+    <td>This is not about body shaming, but carrying extra weight is a known co-morbidity. In other words, it makes other illnesses worse.</td>
    </tr>
    <tr>
     <th>Sharing</th>
