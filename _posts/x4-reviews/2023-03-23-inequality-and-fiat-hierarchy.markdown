@@ -54,7 +54,7 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
     <li>Modern governments are  hierarchies.</li>
    </ul>
 
-<h1>() Hierarchy</h1>
+<h1>Hierarchy</h1>
   <div class="_citation">
    <span class="_quotespan">The reason top incomes follow a uniform pattern&hellip; is not because income has an ultimately simple cause. Instead, it is because the complex forces that shape income pass through a ubiquitous feature of human organization: hierarchy.</span>
   </div>
