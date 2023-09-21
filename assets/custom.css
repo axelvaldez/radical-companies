@@ -614,12 +614,6 @@ table._ninety tr::nth-child(-n + 3) {
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
 }
-table._h2table p:first-child {
-/*
-  text-indent:0;
- */
-  text-align:left;
-}
 table._h2table tr th,
 table._h2table tr th p {
   text-align:right;
@@ -641,6 +635,10 @@ table._h2table tr td p {
 }
 table._h2table tr td {
   border-left:black 1px dotted;
+}
+table._h2table tr td:first-child,
+table._h2table tr td p:first-child {
+  text-align:left;
 }
 
 /*
