@@ -611,6 +611,12 @@ table._ninety tr::nth-child(-n + 3) {
   column-span:all;
 }
 
+/*
+ * _h2table
+ */
+table._h2table {
+  font-size:smaller;
+}
 table._h2table tr:nth-child(odd) {
   background-color:#eeeeee;
 }
