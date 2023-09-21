@@ -67,7 +67,7 @@ image:    "icon-the-power-of-the-powerless.svg"
     <td>
      <p>Although there is not a <em>Left</em> and <em>Right</em> ideology when it comes to businesses, there is a cultural ideology that supports them. Among others, Roy S Jacques writes that &ldquo;<em>Beginning in the Western Europe of the fourteenth to sixteenth century one find a growth of a mode of consciousness&hellip; [that] has a &lsquo;mechanical&rsquo; orientation to it, emphasizing instrumentality, emotionlessness, accumulation, skepticism, individual consciousness, standardization, and objectification. It is also from this mode of consciousness that the particular form of production and exchange currently dominant worldwide has emerged.</em>&rdquo;</p>
      <p>He continues to say that between the 17th and 19th century, &ldquo;<em>Liberty no longer meant the freedom to perfect an enclosed city protected from the world. It was redirected as the freedom to conquer and order that outer world. Progress no longer meant movement toward a finite goal, but infinite expansion into a limitless universe</em>.&rdquo; Conquering and infinite expansion is the ideology that sustains businesses to this day.</p>
-     <p>In other words, businesses have a <em>historical root</em>, one that is embedded in today&rsquo;s culture.</p>
+     <p>In other words, businesses have a <em>historical root</em>, one that is embedded in today&rsquo;s <span class='_paradigm'>Fiat</span> culture.</p>
     </td>
    </tr>
    <tr>
