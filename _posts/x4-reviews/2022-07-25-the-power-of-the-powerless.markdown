@@ -94,9 +94,6 @@ image:    "icon-the-power-of-the-powerless.svg"
      <p>In other words, if we can agree that extremely centralized ownership (<em>i.e.</em> Soviet-style dictatorships) doesn't work as well as more decentralized ownership, then we must move towards an <em>even more</em> decentralized ownership model (<em>i.e.</em> co-owned companies)</p>
     </td>
    </tr>
-   <tr>
-    <td class="_spacer">&nbsp;</td>
-   </tr>
   </table>
  </div>>
 <p>Businesses fit <em>every one</em> of theses observations,</p>
