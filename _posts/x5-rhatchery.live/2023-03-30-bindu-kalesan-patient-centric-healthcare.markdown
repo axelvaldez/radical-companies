@@ -65,18 +65,10 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
  <p>Note that this will involved people who want to know about a particular procedure (<em>e.g.</em>, knee surgery), or whatever other stuff people worry about and usually don&rsquo;t ask because they have always been told that they are <em>ignorant</em> and <em>don&rsquo;t ask stupid questions</em>.</p>
 
 <h1 id="rads-for-other-activities"><span class="_paradigm">RAD</span>s for Other Activities</h1>
- <div class="_center">
-  <table class="_background">
-   <tr>
-    <th>Losing Weight</th>
-    <td>This is not about body shaming, but carrying extra weight is a known co-morbidity. In other words, it makes other illnesses worse.</td>
-   </tr>
-   <tr>
-    <th>Sharing</th>
-    <td>For example, going to schools and workplaces to talk about what you have learned or spreading the word about the healthcare company and talking about how it has helped them.</td>
-   </tr>
-  </table>
- </div>
+ <h2>Losing Weight</h2>
+  <p>This is not about body shaming, but carrying extra weight is a known co-morbidity. In other words, it makes other illnesses worse.</p>
+ <h2>Sharing</h2>
+  <p>For example, going to schools and workplaces to talk about what you have learned or spreading the word about the healthcare company and talking about how it has helped them.</p>
 
 <h1>RADs?</h1>
  <p>First, let&rsquo;s explain what <span class="_paradigm">RAD</span>s are,</p>
