@@ -13,7 +13,7 @@ image:    "icon-rbuddyneighbor.svg"
 <h1>Origin Story</h1>
  <p>On Mon Oct 1, 2018, my good friend Jose Contreras sent me a text out of the blue,</p>
  <div class="_center">
-  <img
+  <img style='border:1px solid black; '>
    src="/assets/img/pic-rbuddyneighbor.svg"
    width="90%"
    alt="">
@@ -699,5 +699,4 @@ image:    "icon-rbuddyneighbor.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
+ 
