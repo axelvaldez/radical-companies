@@ -11,12 +11,15 @@ image:    "icon-e11-and-then.svg"
 </div>
 
 <div clas='_citation'>
- First they ignore you.
- Then they ridicule you.
- Then they want to burn you.
- And then they build monuments to you.
+ <p>
+  First they ignore you.<br>
+  Then they ridicule you.<br>
+  Then they want to burn you.<br>
+  And then they build monuments to you.
+ </p>
 </div>
 
+<!--
 <h1>Still Crazy&hellip;</h1>
  <p>Not long after Ping&rsquo;s death, the world moved quickly from under the <span class='_paradigm'>Fiat</spam> choke. Some national governments resurfaced, but that didn&rsquo;t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.</p>
  <p>A few communities had stuck to <span class='_paradigm'>Fiat</spam> ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one <span class='_paradigm'>Fiat</spam> region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
@@ -133,3 +136,4 @@ image:    "icon-e11-and-then.svg"
 </div>
 
 {% include related.html %}
+-->
