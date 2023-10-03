@@ -11,10 +11,14 @@ image:    "icon-e11-and-then.svg"
 </div>
 
 <div clas='_citation'>
- First they ignore you.<br>
- Then they ridicule you.<br>
- Then they want to burn you.<br>
- And then they build monuments to you.
+ <p>
+  First they ignore you.
+  Then they ridicule you.<br>
+  Then they want to burn you.<br>
+  And then they build monuments to you.
+ </p>
+ <p class='_signature'>
+ </p>
 </div>
 
 <h1>Still Crazy</h1>
