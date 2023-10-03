@@ -6,8 +6,8 @@ authors:  "Matt Perez"
 image:    "icon-e11-and-then.svg"
 ---
 
-<div style="display: none;">
- <p>In a world that got away from the strictly <span class='_paradigm'>Fiat</spam> system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
+<div style="display: none; ">
+ <p>In a world that got away from the strictly <span class='_paradigm'>Fiat</span> system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
 </div>
 
 <div clas='_citation'>
@@ -20,7 +20,7 @@ image:    "icon-e11-and-then.svg"
 </div>
 
 <!--
-<h1>Still Crazy&hellip;</h1>
+<h1>Still Crazy</h1>
  <p>Not long after Ping&rsquo;s death, the world moved quickly from under the <span class='_paradigm'>Fiat</spam> choke. Some national governments resurfaced, but that didn&rsquo;t last long. Communities had come into being and this time they took on different shapes as needed, like musical ensembles that changed as new players came in and out.</p>
  <p>A few communities had stuck to <span class='_paradigm'>Fiat</spam> ways, but most were slowly evolving. People could see what was going on with their neighbors and broke away from communities that didn&rsquo;t evolve fast enough for them. Then, starting early in 2065, one <span class='_paradigm'>Fiat</spam> region started to make it hard to break away and by the end of the year it had declared borders and completely closed them. In many ways, they were reminiscent of the old North Korean and Cuban dictatorships.</p>
  <p>The few of us who had lived through these regimes in the late and early 21<sup>th</sup> century were mildly concerned at first. By the time these regions had declared borders more people had become worried and were now paying attention. People became very alarmed when the region called The Bracia completely closed its borders. The Off Earth Surface (FES) people who had lived under the Earth Authority&rsquo;s rule were more than alarmed and began to prepare for the worst.</p>
