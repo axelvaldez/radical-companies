@@ -12,11 +12,11 @@ hidden:   true
 </div>
 
 <h1 style="font-size:40px; font-family:Courier New, monospace; ">The Queen Is Dead</h1>
- <p>&ldquo;What the f&hellip;?&rdquo;</p>
- <p>&ldquo;What is it?&rdquo;</p>
- <p>&ldquo;Ping DIED!&rdquo;</p>
- <p>&ldquo;Really? What hap&hellip;&rdquo;</p>
- <p>&ldquo;PING FELL DOWN A PRECIPICE!&rdquo;</p>
+ <p class="_speakera">What the f&hellip;?</p>
+ <p class="_speakerb">What is it?</p>
+ <p class="_speakera">&ldquo;Ping DIED!</p>
+ <p class="_speakerb">&ldquo;Really? What hap&hellip;</p>
+ <p class="_speakera">&ldquo;PING FELL DOWN A PRECIPICE!</p>
  <p>Humanity held its breath for a moment.</p>
  <p>And then the infighting began.</p>
 

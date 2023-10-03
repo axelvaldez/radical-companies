@@ -11,8 +11,8 @@ hidden:   true
  <p>Sammie discovers her grandmother, Hanne Nader, with the help of the Wormholes. And that technology can also wreck havoc with Vic&rsquo;s plans.</p>
 </div>
 
+<h1>&nbsp;</h1>
  <p><span class='_quotespan'>Munjez is in the ICU. He&rsquo;s stable but he had to be moved quickly.</span> Evidently an alarm had come off in the room.</p>
-
  <p>Now she was sure that she had a whole habitat to contend with and the people who were not fully onboard with this were too scared to do anything about it. That&rsquo;s why Vic had to plot in secret, to be able to deploy the kind of violence that these people had only read about in the history books.</p>
  <p>But they had taken her baby and that was a mistake.</p>
  <p>She got to the ICU and she tried displaying some violence of her own. She was learning, but not fast enough. The people there didn&rsquo;t seem too concerned and kept her at bay.</p>
