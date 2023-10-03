@@ -10,14 +10,12 @@ image:    "icon-e11-and-then.svg"
  <p>In a world that got away from the strictly <span class='_paradigm'>Fiat</span> system quickly, there are still communities that cling to it. Is it fear of "different?" Or it is force and ego?</p>
 </div>
 
-<div clas='_citation'>
+<div class='_citation'>
  <p>
-  First they ignore you.
+  First they ignore you.<br>
   Then they ridicule you.<br>
   Then they want to burn you.<br>
   And then they build monuments to you.
- </p>
- <p class='_signature'>
  </p>
 </div>
 
