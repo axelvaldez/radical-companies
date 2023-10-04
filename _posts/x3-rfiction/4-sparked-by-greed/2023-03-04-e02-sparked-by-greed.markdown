@@ -38,7 +38,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">I hope you won&rsquo;t raised your voice at me like when you worked here.</div>
  <div class="_speakera">I hope I won&rsquo;t.</div>
 
-<h1>A Real Curnocopia for Health</h1>
+<h1>A Real Cornucopia for Health</h1>
  <div>Because the all-sacred-margin was not as high priority as in  regime.</div>
  <div>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</div>
 
