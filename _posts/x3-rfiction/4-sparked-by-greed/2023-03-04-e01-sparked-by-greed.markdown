@@ -79,7 +79,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the people who contribute to it.</div>
  <div class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</div>
  <div class="_speakerb">Well, no, if we take time off&hellip; OK, time out, I&rsquo;ll tell you all I know about co-owned and co-managed companies. They are called <span class="_paradigm">RADIcAL</span> companies, by the way.</div>
- <div class="_speakera">So, that&rsquo;s what the little r stands for.</div>
+ <div class="_speakera">So, that&rsquo;s what the little-r stands for.</div>
  <div class="_speakerb">Yes, that. And the fact that <span class="_me">rhealth.com</span> was available and <span class="_me">health.com</span> was not.</div>
  <div class="_speakera">Yes.</div>
  <div class="_speakerb">Co-management is similar to self-management but it is renamed to better reflect the fact that <span class="_me">people</span> do the management and not the company itself. There is no self when it comes to something like a company; people co-manage the company.</div>
