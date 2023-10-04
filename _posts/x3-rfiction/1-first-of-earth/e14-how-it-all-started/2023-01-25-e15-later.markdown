@@ -22,7 +22,7 @@ image:    "icon-later.svg"
 
 <h1>World-Wide rCoins</h1>
  <p>Nevertheless we needed money. Well, not pre-cliff fiat money, but we needed &ldquo;a medium of exchange&rdquo; that would work anywhere in the world. We didn&rsquo;t want centralized, pre-cliff banks. We needed a different model, and <span class="_paradigm">rCOIN</span>s were <em>it</em>.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>The old fiat money could be accumulated, with all the problems that arose from it. <span class="_paradigm">rCOIN</span>s avoided all those problems and it supported decentralized world-wide exchange. We did&rsquo;t think of it at first, but it accelerated the next wave of innovations.</p>
+ <p>The old fiat money could be accumulated, with all the problems that arose from it. <span class="_paradigm">rCOIN</span>s avoided all those problems and it supported decentralized world-wide exchange. We didn&rsquo;t think of it at first, but it accelerated the next wave of innovations.</p>
  <p><span class="_paradigm">rCOIN</span>s were transparent, too and each came with a log that detailed who minted them, when, and what, if anything, is backing them. People could decide to accept them or not. Communities accepted <span class="_paradigm">rCOIN</span>s at whatever value they could afford because they usually knew the people minting them, or people who knew them, or &hellip; you get my point. Most importantly, communities wanted these folks to succeed on the chance that they could move their world forward.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
