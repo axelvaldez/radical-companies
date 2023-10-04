@@ -23,7 +23,7 @@ image:    "icon-the-co-owned-pastry-shop-my-favorite-store-in-town-e02.svg"
  <p>She sat down with a nervous smile on her face and glanced at her husband.</p>
  <p class="_speakera">We have not decided to sell, yet. We haven&rsquo;t even gone out to look for buyers.</p>
  <p class="_speakerb">But you prefer to sell it to your employees.</p>
- <p><span class="_speakerc">Yes!</span>&mdash;She said right away, looking excited.</p>
+ <p><span class="_speakerc">Yes!</span> She said right away, looking excited.</p>
  <p class="_speakerb">That&rsquo;s OK, because I don&rsquo;t want to buy it. I am here to find out the financial terms and, if need be, to loan them money.</p>
  <p class="_speakera">Oh.</p>
  <p class="_speakerb">M&rsquo;dieu!</p>
