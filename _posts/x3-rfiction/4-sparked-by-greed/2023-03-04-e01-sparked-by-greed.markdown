@@ -74,7 +74,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">That <em>statement</em> screams &rsquo;boss&lsquo; to me. We cannot afford to create obstacles for people to join the team and creating a &rsquo;solid Mission&lsquo; is creating an obstacle. Many people will ignore it because they want to work with you, they want to learn from you. But it is an obstacle that get bigger and bigger over time, until they quit to get away from it or submit to it and we all lose.</div>
 
 <h1>Open Relationships</h1>
- <div>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modifiy as needed.</div>
+ <div>They had talked about what Th&uacute;y knew about Trust Relationship, and they were now working through one they found online. They would then be ready to ask future potential <span class="_paradigm">rHEALTH</span> to go through it, add their piece, and modify as needed.</div>
  <div class="_speakera">I am still not clear on what co-owned company is.</div>
  <div class="_speakerb">It is a company that is not owned by anybody in particular. It is owned by the people who contribute to it.</div>
  <div class="_speakera">So, if we take time off, we are owners anymore? That doesn&rsquo;t seem right!</div>
