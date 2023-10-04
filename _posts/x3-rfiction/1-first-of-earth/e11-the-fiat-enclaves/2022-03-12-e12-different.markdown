@@ -40,7 +40,7 @@ hidden:   true
  <p>But Becket interrupted with, <span class='_quotespan'>Oh, OK.</span> Then while smiling, he said, <span class='_quotespan'>You are aliens after all.</span></p>
 
 <h1>Perradero</h1>
- <p><span class='_quotespan'>We wanted to start a company and call it COCO. Coconut&hellip; CO Company, get it? In any case, Rod thought it would be more fun to not do anything and just mint <span class="_paradigm">COIN</span>s.</span> <span class='_quotespan'>He,</span> she said a bit louder, <span class='_quotespan'>was about to explain how we&rsquo;d do it.</span> Kalisha had a smile on her face.</p>
+ <p><span class='_quotespan'>We wanted to start a company and call it COCO. CO, Company, get it? In any case, Rod thought it would be more fun to not do anything and just mint <span class="_paradigm">COIN</span>s.</span> <span class='_quotespan'>He,</span> she said a bit louder, <span class='_quotespan'>was about to explain how we&rsquo;d do it.</span> Kalisha had a smile on her face.</p>
  <p><span class='_quotespan'>All we have to do,</span> Rodrigo explained enthusiastically, <span class='_quotespan'>is falsify our <span class="_paradigm">COIN</span>s records so they appear to be low risk. That&rsquo;s all.</span></p>
  <p><span class='_quotespan'>Can&rsquo;t be done.</span> It was the first time that Mike had spoken. <span class='_quotespan'>Can&rsquo;t do. No.</span></p>
  <p><span class='_quotespan'>Why? Why can&rsquo;t it be done?</span> Rodrigo said as if he knew the answer already.</p>
