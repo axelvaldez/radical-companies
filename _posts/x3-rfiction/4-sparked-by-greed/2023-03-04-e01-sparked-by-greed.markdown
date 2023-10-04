@@ -50,7 +50,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakera">OK, I&rsquo;ll ask: what is a co-owned business?</div>
  <div class="_speakerb">Company. A co-owned <span class="_me">company</span>.</div>
  <div class="_speakera">Company, business, whatever.</div>
- <div class="_speakerb">No, no, no. Don&rsquo;t &lsquo;whatever.&rsquo; A business is meant to &lsquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. In any case, leave that to me. Trust me and don&rsquo;t have to worry about that, for now</div>
+ <div class="_speakerb">No, no, no. Not &lsquo;whatever.&rsquo; A business is meant to &lsquo;do business,&rsquo; do transactions, make money, be hyper-competitive like every other business. In any case, leave that to me. Trust me and don&rsquo;t have to worry about that, for now</div>
  <div class="_speakera">Yes, ma&lsquo;am. As you say.</div>
  <div class="_speakerb">You are so dramatic sometimes&hellip; But, you are right. I said that with my boss hat on. The point is to get away from that and learn from each other.</div>
  <div class="_speakerbc">Let&rsquo;s start with why I insisted on calling it a &lsquo;company&rsquo; instead of &lsquo;business.&rsquo;</div>
