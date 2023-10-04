@@ -43,7 +43,7 @@ image:    "icon-sparked-by-greed.svg"
  <div>Not having to maintain a veil secrecy, took a huge weight off our shoulders. There was no way to prove it, but transparency made everybody more productive. And happier.</div>
 
 <h1>Fear Has Us</h1>
- <div class="_quotespan">I am tired of being afraid, seeing how the <span class='_paradigm'>Fiat</spam> model works has exposed the fears and has made all the difference.</div>
+ <div class="_quotespan">I am tired of being afraid, seeing how the <span class='_paradigm'>Fiat</span> model works has exposed the fears and has made all the difference.</div>
  <div class="_commentary">Well, that may be the beginning, but it is not the end of the hold that fear has on us. That became obvious over time as people expressed many of their fears, including toxic colleagues&hellip;</div>
  <div class="_speakerb">How are we going to deal with bullies, underminders, and slackers. What about gossip mongers and the over-controlling colleagues. Are they going to be co-owners, too?</div>
  <div class="_speakera">Well, if they contribute and somebody acknowledges their contribution, then they get <span class="_paradigm">RAD</span>s and they are co-owners.</div>
@@ -69,7 +69,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Well, you are the main inventor here and we were hoping you spilled some of your secret sauce on us.</div>
  <div class="_speakera">You don't have any secret sauce of your own?</div>
  <div class="_speakerb">Well, maybe, but not really. Not compared to yours.</div>
- <div class="_speakera">Then I think you should go to the sea or the mountain or whereever it is that makes <span class="_quotespan">secret sauce</span> space for you.</div>
+ <div class="_speakera">Then I think you should go to the sea or the mountain or wherever it is that makes <span class="_quotespan">secret sauce</span> space for you.</div>
  <div class="_speakerb">You don&rsquo;t have to take it so seriously&hellip;</div>
  <div class="_speakera">Why, you weren&rsquo;t serious when you categorized yourself as a second-class co-owner? Or maybe it was when you surrendered responsibility for what to do next? Which of those were not serious?</div>
  <div class="_speakerb">I didn&rsquo;t say any of that.</div>
@@ -79,7 +79,7 @@ image:    "icon-sparked-by-greed.svg"
  <div class="_speakerb">Here we can, but we keep on going back to our&hellip; our&hellip;</div>
  <div class="_speakera">Fears?</div>
  <div class="_speakerb">Yes. I don&rsquo;t want to say that they have an inviolable hold over us, but they kind of do.</div>
- <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be open to the receive love from people you dont know.</div>
+ <div class="_speakera">Look at your fears. Rather than saying that you are not afraid of anything, look for the fear that is hiding behind that. If you can&rsquo;t do it by yourself, get other people to help you. Don&rsquo;t give in to the <span class="_quotespan">I can do it by myself</span> fear. Seek others to learn from and to help you. Be open to the receive love from people you don&rsquo;t know.</div>
  <div class="_speakerb">Got it. Sorry I pushed your buttons once too many time.</div>
  <div class="_speakera">Actually, I am the one who is sorry. I need to be more Socratic and not give in to what Th&uacute;y calls &lsquo;the boss&rsquo; in me. You have helped me.</div>
 
