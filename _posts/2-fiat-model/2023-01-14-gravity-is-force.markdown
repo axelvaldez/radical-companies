@@ -5,6 +5,7 @@ subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-gravity-is-force.svg"
 ---
+
 <div style="display:none;">
  <p>Gravy is a force. Dark Energy is a force. Gravity is good, Dark Energy seems to be good. But force is bad.</p>
 </div>
