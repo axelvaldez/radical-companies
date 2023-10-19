@@ -12,3 +12,5 @@ image:    "icon-template.svg"
 
 <h1></h1>
  <p>Rijon is a musician. Rijon plays BetaCodex.</p>
+
+{% include related.html %}
