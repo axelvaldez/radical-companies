@@ -24,3 +24,5 @@ image:    "icon-template.svg"
 
 <h1>Consultant</h1>
  <p>Patrick left active duty and now acts as a consultant to the military. See his <a href="https://www.linkedin.com/in/patrick-hill-dsl-phr-5a631041/">LinkedIn page</a>.</p>
+
+{% include related.html %}
