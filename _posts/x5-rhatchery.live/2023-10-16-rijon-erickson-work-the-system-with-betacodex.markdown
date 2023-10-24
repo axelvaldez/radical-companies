@@ -16,7 +16,7 @@ image:    "icon-rijon-erickson-work-the-system-with-betacodex.svg"
 <h1>Co-Owned</h1>
  <p>We really enjoyed this podcast.</p>
  <p>Rijon is very enthusiastic. He co-owned the conversation, and really got into it. He is very much aligned with the Radical Foundation-based model and kinda spoke the language.</p>
- <p>He assumed that there has to be bosses, but that is a universal view. Nevertheless, he bemoaned that &ldquo;fact of life.&rdquo;</p>
+ <p>He assumed that there has to be bosses and bemoaned it as a &ldquo;fact of life.&rdquo; That is a universal view.\</p>
 
 <h1>Bosses?</h1>
  <p>BTW, when you ask “<em>why?</em>” it is not so ‘obvious’ that there has to be ranked bosses, with the titles and all that. (see our second book, <em>Radical in Detail</em>).</p>
