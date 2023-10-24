@@ -3,7 +3,7 @@ layout:   post
 title:    "Timothy Kaczynski: Facing Ourselves"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-timothu]y-kaczynski-facing-ourselves.svg"
+image:    "icon-timothy-kaczynski-facing-ourselves.svg"
 ---
 
 <div style='display:none;'>
