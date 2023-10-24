@@ -3,7 +3,7 @@ layout:   post
 title:    "Patrick Hill: Uncovering the Alchemy of Trust"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-patrick-hill-uncovering-the-alchemy-of-trust.svg"
 ---
 
 <div style='display:none;'>

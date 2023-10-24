@@ -3,7 +3,7 @@ layout:    post
 title:    "Rijon Erickson: Work the System with BetaCodex"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-template.svg"
+image:    "icon-rijon-erickson-work-the-system-with-betacodex.svg"
 ---
 
 <div style='display:none;'>
