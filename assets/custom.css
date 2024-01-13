@@ -676,3 +676,11 @@ h4 {
   font-size:smaller;
   margin-bottom:2rem;
 }
+
+._iquo { }
+._iquo::before {
+  content:"&ldquo;<i>"
+}
+._iquo::after {
+  content:"</i>&rdquo;"
+}
