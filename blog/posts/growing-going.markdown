@@ -30,7 +30,7 @@ image:    "icon-xxx.svg"
  <p>Big companies do all of this in-house, smaller companies contract for each piece for each piece. But there is still no process. Jose&rsquo; idea was to unify all of that into a single process.</p>
 
 <h1>But…</h1>
- <p class="iquo">There must be somebody doing that already.</p>
+ <p class="iquo">There must be somebody doing that already!</p>
  <p>That my first reaction. I did some research, I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies, there is no process. Sales is a sink or swim and what goes is whatever the sales people learned in their previous job, so long as they make their financial quotas.</p>
  <p></p>
  <p></p>
