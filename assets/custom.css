@@ -359,6 +359,16 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 
 /*
+ _iquo
+ */
+ ._iquo { }
+ ._iquo::before {
+  content:"&ldquo;<i><strong>"
+}
+._iquo::after {
+  content:"</strong></i>&rdquo;"
+}
+/*
  * _citation
  */
 ._citation {
@@ -672,15 +682,4 @@ h4 {
   color:#011616;
   font-size:smaller;
   margin-bottom:2rem;
-}
-
-/*
- _iquo
- */
- ._iquo { }
- ._iquo::before {
-  content:"&ldquo;<i><strong>"
-}
-._iquo::after {
-  content:"</strong></i>&rdquo;"
 }
