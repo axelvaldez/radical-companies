@@ -679,7 +679,7 @@ h4 {
 
 ._citation { }
 ._citation::before {
-  content:"&ldquo;<strong><i>"
+  content:"&ldquo;<i><strong>"
 }
 ._citation::after {
   content:"</strong></i>&rdquo;"
