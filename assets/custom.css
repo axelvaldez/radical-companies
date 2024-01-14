@@ -380,9 +380,6 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 ._citation p#_signature {
   font-size:smaller;
-  /*
-  text-align:center;
-   */
 }
 ._citation p#_signature::before {
   content:"— ";
@@ -677,10 +674,13 @@ h4 {
   margin-bottom:2rem;
 }
 
-._citation { }
-._citation::before {
+/*
+ _iquo
+ */
+ _iquo { }
+ _iquo::before {
   content:"&ldquo;<i><strong>"
 }
-._citation::after {
+_iquo::after {
   content:"</strong></i>&rdquo;"
 }
