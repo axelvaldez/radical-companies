@@ -2,45 +2,49 @@
 layout: blog
 title: Blog
 pagination:
-    enabled: true
+enabled: true
 ---
 
-{% include page-heading.html title="RADICAL Blog" subtitle="<span class='iquo'><em>See</em></span> <span class='_paragdigm'>Fiat</span>. <span class='iquo'><em>Embrace</em></span> Co-Ownership!" %}
+{% include page-heading.html title="RADICAL Blog" subtitle="<span class='iquo'><em>See</em></span> <span
+    class='_paragdigm'>Fiat</span>. <span class='iquo'><em>Embrace</em></span> Co-Ownership!" %}
 <section>
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
                 {% for post in paginator.posts %}
-                    <div class="row align-items-lg-center mb-5">
-                        <div class="col-2 col-lg-4">
-                            <a href="{{ post.url }}" target="_blank">
-                                <img src="/assets/img/{{ post.image }}" class="img-fluid" style="height:2.25in; align-self:right; " alt="">
-                            </a>
-                        </div>
-                        <div class="col-10 col-lg-8">
-                            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
-                            <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}</p>
-                            <a href="{{ post.url }}" target="_blank">Read more&hellip;</a>
-                        </div>
+                <div class="row align-items-lg-center mb-5">
+                    <div class="col-2 col-lg-4">
+                        <a href="{{ post.url }}" target="_blank">
+                            <img src="/assets/img/{{ post.image }}" class="img-fluid"
+                                style="height:2.25in; align-self:right; " alt="">
+                        </a>
                     </div>
+                    <div class="col-10 col-lg-8">
+                        <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+                        <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}</p>
+                        <a href="{{ post.url }}" target="_blank">Read more&hellip;</a>
+                    </div>
+                </div>
                 {% endfor %}
-                
+
                 {% if paginator.total_pages > 1 %}
                 <div class="row">
                     <div class="col-6">
                         {% if paginator.previous_page %}
-                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-tertiary text-orange">&larr; Newer Posts</a>
+                        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+                            class="btn btn-tertiary text-orange">&larr; Newer Posts</a>
                         {% endif %}
                     </div>
                     <div class="col-6 text-end">
                         {% if paginator.next_page %}
-                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"  class="btn btn-tertiary text-orange">Older Posts &rarr;</a>
+                        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+                            class="btn btn-tertiary text-orange">Older Posts &rarr;</a>
                         {% endif %}
                     </div>
                 </div>
                 {% endif %}
-                
-                
+
+
             </div>
             <div class="col-lg-3 offset-lg-1 d-none d-lg-block">
                 {% include post-sidebar.html %}

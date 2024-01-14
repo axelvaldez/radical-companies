@@ -679,8 +679,8 @@ h4 {
 
 ._iquo { }
 ._iquo::before {
-  content:"&ldquo;<i>"
+  content:"&ldquo;<strong><i>"
 }
 ._iquo::after {
-  content:"</i>&rdquo;"
+  content:"</strong></i>&rdquo;"
 }
