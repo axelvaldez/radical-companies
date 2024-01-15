@@ -359,13 +359,6 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 
 /*
- * _iquo
- */
-._iquo { }
-._iquo::before { content:"&ldquo;" } /* <i><strong> */
-._iquo::after  { content:"&rdquo;" } /* </strong></i> */
-
-/*
  * _citation
  */
 ._citation {
