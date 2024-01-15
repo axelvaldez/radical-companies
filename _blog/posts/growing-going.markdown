@@ -7,12 +7,14 @@ image:    "icon-xxx.svg"
 ---
 
 <div style='display:none; '>
- <p>It is not "breaking out" or "growing free." It is about growing and going.</p>
+ <p>It is not &lsquo;breaking out&rsquo; or &lsquo;growing free.&rsquo; It is about growing and going.</p>
 </div>
 
 <h1></h1>
- <p>Ownership is freeing. Fiat ownership applies to the people who own the business. Co-ownership lets lose everybody who embodies a company.</p>
- 
+ <p>Ownership is freeing,
+  <ul>
+   <td>Fiat ownership applies to the people who own the business.</td> <td>Co-ownership lets lose everybody who embodies a company.</td>
+  </ul> 
 <h1>Jose Contreras</h1>
  <p>A case in point is Jose Contreras, a dear friend and my partner at rEnchilada,
   <ul>
@@ -45,31 +47,31 @@ image:    "icon-xxx.svg"
     <th>Impact</th>
    </tr>
    <tr>
-     <th style='width:20%; '>What for?</th>
-     <td>A place where underrepresented people can learn how they can partake Silicon Valley&rsquo;s wealth.</td>
+    <th style='width:20%; '>What for?</th>
+    <td>A place where underrepresented people can learn how they can partake Silicon Valley&rsquo;s wealth.</td>
    </tr>
    <tr id='_background'>
-     <td></td>
-     <th>Purpose</th>
+    <td></td>
+    <th>Purpose</th>
    </tr>
    <tr>
-     <th>Why?</th>
-     <td>
-       <p>People can enjoy wealth and contribute to society.</p>
-       <p>People learn to partake the wealth of Silico n Valley without resorting force.</p>
-     </td>
+    <th>Why?</th>
+    <td>
+     <p>People can enjoy wealth and contribute to society.</p>
+     <p>People learn to partake the wealth of Silico n Valley without resorting force.</p>
+    </td>
    </tr>
    <tr id='_background'>
-     <td></td>
-     <th>Mission</th>
+    <td></td>
+    <th>Mission</th>
    </tr>
    <tr>
-     <th>What?</th>
-     <td>Train co-owners.</td>
+    <th>What?</th>
+    <td>Train co-owners.</td>
    </tr>
    <tr>
-     <th>How?</th>
-     <td>By working in all stages of the rEnchilada Sales process.</td>
+    <th>How?</th>
+    <td>By working in all stages of the rEnchilada Sales process.</td>
    </tr>
   </table>
  </div>
