@@ -13,7 +13,8 @@ image:    "icon-xxx.svg"
 <h1></h1>
  <p>Ownership is freeing,
   <ul>
-   <td>Fiat ownership applies to the people who own the business.</td> <td>Co-ownership lets lose everybody who embodies a company.</td>
+   <li>Fiat ownership applies to the people who own the business.</li>
+   <li>Co-ownership lets lose everybody who embodies a company.</li>
   </ul> 
 <h1>Jose Contreras</h1>
  <p>A case in point is Jose Contreras, a dear friend and my partner at rEnchilada,
@@ -39,7 +40,6 @@ image:    "icon-xxx.svg"
 
 <h1>Alignment</h1>
  <p>As we define it, rEnchilada's Explicit Alignment is as follows,</p>
-
  <div class='_center'>
   <table class='_explicitalignment'>
    <tr id='_background'>
