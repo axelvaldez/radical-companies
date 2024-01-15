@@ -10,22 +10,22 @@ image:    "icon-xxx.svg"
  <p>It is not &lsquo;breaking out&rsquo; or &lsquo;growing free.&rsquo; It is about growing and going.</p>
 </div>
 
-<h1></h1>
- <p>Ownership is freeing,
+<h1>Ownership is freeing</h1>
   <ul>
    <li>Fiat ownership applies to the people who own the business.</li>
-   <li>Co-ownership lets lose everybody who embodies a company.</li>
-  </ul> 
+   <li>Co-ownership aappplies to everyone who embodies a company.</li>
+  </ul>
+
 <h1>Jose Contreras</h1>
- <p>A case in point is Jose Contreras, a dear friend and my partner at rEnchilada,
+ <p>A case in point is Jose Contreras, a dear friend and co-owner of rEnchilada.</p>
+ <p>He has an interesting background,</p>
   <ul>
-   <li>He spent a bit over a year in prison</li>
+   <li>He spent time in prison</li>
    <li>He was the first employee of Nearsoft, a business that I had founded.</li>
-   <li>He went on to work for well-know companies.</li>
-   <li>He writes poetry.</li>
-   <li>He has a facility with words.</li>
-   <li>He came up with the <em>rEnchilada</em> concepts to help others.</li>
-   <li>Internally, rEnchila is going to staff with co-onwers (the r stands for Radical) of underrepresented people. Single mothers, people of color,  
+   <li>Fromnearsoft, he went on to work for well-know big companies.</li>
+   <li>He writes poetry and has a facility with words.</li>
+   <li>He came up with what became the <em>rEnchilada</em> concept to help people.</li>
+   <li>rEnchila is going to staff with co-onwers (the r stands for Radical) of underrepresented people (<em>e.g.</em>, brown and black people, single mothers, ex-felons).</li>
   </ul>
  
 <h1>rEnchilada</h1>
