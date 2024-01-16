@@ -80,7 +80,7 @@ image:    "icon-template.svg"
      <td></td>
     </tr>
    </table>
-  </div> 
+  </div>
 
 <!-- CITATION Table> -->
 <div class='_citation'>
@@ -175,14 +175,6 @@ image:    "icon-template.svg"
    </tr>
   </table>
  </div>
-
-<!-- EXPLICIT ALIGNMENT img -->
-   <div class='_center'>
-    <img
-     src='/assets/img/pic-explicit-alignment-en.svg'
-     width='70%'
-     alt=''>
-   </div>
 
 <!-- Explicit Relationship  Table -->
   <table class='_h2table'>
