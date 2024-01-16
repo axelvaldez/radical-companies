@@ -39,7 +39,7 @@ image:    "icon-xxx.svg"
  <p>Salesles people have to make their financial quotas, and tnat is what tey are measured by.</p>
 
 <h1>Alignment</h1>
- <p>As we define it, rEnchilada's Explicit Alignment is as follows,</p>
+ <p>rEnchilada&rsquo;s Explicit Alignment is as follows,</p>
  <div class='_center'>
   <table class='_explicitalignment'>
    <tr id='_background'>
