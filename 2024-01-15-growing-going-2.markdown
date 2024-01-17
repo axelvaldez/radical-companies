@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Growing, Going"
+title:    "Growing, Going 2"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-xxx.svg"
