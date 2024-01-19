@@ -3,7 +3,7 @@ layout:   post
 title:    "Growing, Going"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-xxx.svg"
+image:    ""
 ---
 
 <div style='display:none; '>
