@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Growing, Going"
+title:    "Growing with rEnchilada"
 subtitle: ""
 authors:  "Matt Perez"
 image:    ""
@@ -10,7 +10,7 @@ image:    ""
  <p>It is not &lsquo;breaking out&rsquo; or &lsquo;growing free.&rsquo; It is about growing and going.</p>
 </div>
 
-<h1>Ownership is freeing</h1>
+<h1>Ownership is Freeing</h1>
   <ul>
    <li>Fiat ownership applies to the people who own the business.</li>
    <li>Co-ownership aappplies to everyone who embodies a company.</li>
@@ -35,8 +35,8 @@ image:    ""
 
 <h1>But…</h1>
  <p class="iquo">Somebody must be doing it already!</p>
- <p>That my first reaction. Then I did some research and I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies, there is no process. Sales is a sink or swim and what goes is whatever the sales people learned in their previous job.</p>
- <p>Salesles people have to make their financial quotas, and tnat is what tey are measured by.</p>
+ <p>That my first reaction. I did some research and I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job.</p>
+ <p>Salesles people have to make their financial quotas, and tnat is the only thing that is measured.</p>
 
 <h1>Alignment</h1>
  <p>rEnchilada&rsquo;s Explicit Alignment is as follows,</p>
