@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "Growing, Going"
-subtitle: "TEMPLATE"
+subtitle: ""
 authors:  "Matt Perez"
 image:    ""
 ---
