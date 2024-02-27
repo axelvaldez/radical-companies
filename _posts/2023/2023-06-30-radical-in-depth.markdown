@@ -233,7 +233,7 @@ image:    "icon-radical-in-depth.svg"
  <p>I have already said a lot about Fiat. One thing I mentioned in passing is that Fiat evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to “obey your earthly masters.” However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
  <p>The thing that has remained constant in the Fiat system is Force.</p>
 <h1>Radical</h1>
- <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system (i.e., in yellow, below), not a system that has evolved to be a big, hairy ball of hair. Radical does not have embedded rules and it is not dogmatic in any way,</p>
+ <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system (i.e., in yellow, below), not a system that has evolved to be a big, hairy ball. Radical does not have include rules and it is not intended to be dogmatic in any way,</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-model-coming-together.svg'
