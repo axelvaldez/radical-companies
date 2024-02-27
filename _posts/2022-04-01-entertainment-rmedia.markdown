@@ -3,7 +3,7 @@ layout:   post
 title:    "Entertaiment rMedia"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-rmedia.svg"
+image:    "icon-entertainment-rmedia.svg"
 ---
 
 <div style="display: none;">
