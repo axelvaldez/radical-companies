@@ -245,7 +245,7 @@ image:    "icon-radical-in-depth.svg"
    <li>Will this decision make us more or less decentralized? Either choice is up to you and your community, but the Foundation helps you know which direction the decision is taking you.</li>
    <li>Will this decision make it easier to help people find meaning in what they are doing or not? Again, either choice is up to you and your community, but the Foundation helps you know where you are headed.</li>
   </ul>
- <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, “Oh, I didn’t know!” Radical doesn’t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners and none of you have the right to Force to others.</p>
+ <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, “Oh, I didn’t know!”Radical doesn’t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners and none of you have the right to Force to others.</p>
 
 <h1 class='_section'>Competition and Collaboration</h1>
 <h1>Fiat</h1>
