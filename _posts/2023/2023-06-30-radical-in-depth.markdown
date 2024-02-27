@@ -99,7 +99,7 @@ image:    "icon-radical-in-depth.svg"
   <div class='_centered'>
    <div class='_citation'>
     <p>The tyrant grinds down his slaves and they don&rsquo;t turn against him, they crush those beneath them.</p>
-    <p class='_signature'>&mdash; Emily Bront&euml;</p>
+    <p id='_signature'>Emily Bront&euml;</p>
    </div>
   </div>
  <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
@@ -298,9 +298,7 @@ image:    "icon-radical-in-depth.svg"
  <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
   <div class='_citation'>
    <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
-   <p id='_signature'>
-    Blair Fix, An Evolutionary Theory of Resource Distribution<br>
-   </p>
+   <p id='_signature'>Blair Fix, An Evolutionary Theory of Resource Distribution</p>
   </div>
 <h1>Surviving Is Not Living</h1>
  <div class='_citation'>
