@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Radical in Depth"
+title:    "Radical in Detail"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez"
 image:    "icon-radical-in-depth.svg"
