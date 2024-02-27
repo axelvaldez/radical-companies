@@ -99,7 +99,7 @@ image:    "icon-radical-in-depth.svg"
   <div class='_centered'>
    <div class='_citation'>
     <p>The tyrant grinds down his slaves and they don&rsquo;t turn against him, they crush those beneath them.</p>
-    <p class='_signature'>Emily Bront&euml;</p>
+    <p class='_signature'>&mdash; Emily Bront&euml;</p>
    </div>
   </div>
  <p>As Christianity spread by force of colonization, non-Europeans were made subservient to Europeans. Of course, there were wealthy non-Europeans, close to their colonial masters, and poor non-Europeans. The wealthier were even put in charge.</p>
