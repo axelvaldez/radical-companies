@@ -353,7 +353,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
  * _quotation
  */
  ._quotation {
-  font-family:'Courier New', Courier, monospace;
+  font-family:palatino;
   padding-right:40px;
   padding-left:40px;
 }
@@ -369,7 +369,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   padding-right:15%;
   background-color:azure;
   border-left:10px solid #ccc;
-  font-family:Palatino;
+
+  font-family:palatino;
   font-size:30px;
   background-color:cyan;
 }
