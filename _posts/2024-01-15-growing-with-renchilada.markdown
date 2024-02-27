@@ -7,7 +7,7 @@ image:    "icon-renchilada.svg"
 ---
 
 <div style='display:none; '>
- <p>It is not &lsquo;breaking out&rsquo; or &lsquo;freedom.&rsquo; It is about growing the people and the community (<em>aka.</em>, the company).</p>
+ <p>It is not &lsquo;breaking out&rsquo; or &lsquo;freedom.&rsquo; It is about helping people and their communities grow.</p>
 </div>
 
 <h1>Ownership is Freeing</h1>
