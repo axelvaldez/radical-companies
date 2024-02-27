@@ -369,7 +369,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   padding-right:15%;
   background-color:azure;
   border-left:10px solid #ccc;
-  font-family:Architects Daughter, cursive;
+  font-family:Palatino, cursive;
+  font-size:14px;
 }
 ._citation p {
   margin-bottom:0;
