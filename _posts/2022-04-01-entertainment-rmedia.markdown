@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "rMedia"
+title:    "Entertaiment rMedia"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rmedia.svg"
