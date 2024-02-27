@@ -3,7 +3,7 @@ layout:   post
 title:    "Growing with rEnchilada"
 subtitle: ""
 authors:  "Matt Perez"
-image:    ""
+image:    "icon-renchilada.svg"
 ---
 
 <div style='display:none; '>
