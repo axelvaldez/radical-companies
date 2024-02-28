@@ -27,7 +27,7 @@ image:    "icon-radical-in-detail.svg"
      <p id='_signature'>Henri Matisse</p>
     </div>
    </div>
- <p>If you are not open to this and are just being nice (<span class='_quotespan'>Sounds interesting&hellip; say more about it</span>), you can return the book now. Sorry for any inconvenience.</p>
+ <p>If you are <strong><em>not</em></strong> open to this and are just being nice (<span class='_quotespan'>Sounds interesting&hellip; say more about it</span>), you can return the book now. Sorry for any inconvenience.</p>
  <h2>What Does Fiat Even Mean?</h2>
   <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct, it is not right at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one. <span>I am hoping for an attaboy and maybe a reward</span>. I will get a chance to rest when I get back</span>. But the pile of work is bigger when you get back.</p>
   <p>Maybe you are fully aware of this or maybe you think that this is your destiny. But it is not &ldquo;your destiny.&rdquo; It is not even living. It is the way the <span class='_paradigm'>Fiat</span> system limits us, what it wants us to think.</p>
