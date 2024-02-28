@@ -28,9 +28,9 @@ image:    "icon-radical-in-detail.svg"
      <p id='_signature'>Henri Matisse</p>
     </div>
    </div>
- <p>If you are not open to this and are just being polite (“<em>Sounds interesting… tell me more about it</em>”), you can return the book now. Sorry for any inconvenience.</p>
+ <p>If you are not open to this and are just being nice (<span class="_paradigm">Sounds interesting&hellip; say more about it</span>), you can return the book now. Sorry for any inconvenience.</p>
  <h2>What Does Fiat Even Mean?</h2>
-  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct in that it is not right, at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
+  <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct. It is not right at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one, hoping for an attaboy and maybe a reward. Don't worry, you will get a chance to rest when you get back, but the pile of work is bigger when you get back.</p>
   <p>Maybe you are fully aware of this or maybe you think that this is our destiny. But it is not &ldquo;our destiny.&rdquo; It is not even living. It is the way the <span class='_paradigm'>Fiat</span> system limits us.</p>
   <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
  <h2>Fiat, the Word</h2>
