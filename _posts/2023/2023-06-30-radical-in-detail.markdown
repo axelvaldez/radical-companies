@@ -23,7 +23,7 @@ image:    "icon-radical-in-detail.svg"
  <p>Beware that alternatives to Fiat are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.
    <div class='_center'>
     <div class='_citation'>
-     <p style="alignment:center;">Creativity takes courage XX</p>
+     <p style="text-alignment:center;">Creativity takes courage.</p>
      <p id='_signature'>Henri Matisse</p>
     </div>
    </div>
