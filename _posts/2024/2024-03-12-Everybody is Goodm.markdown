@@ -11,4 +11,4 @@ image:    "icon-renchilada.svg"
 </div>
 
 <h1></h1>
- <p>Assume that from a very early age, everyboby wants to contribute. Let's go with Jean Piaget's Fourth Stage, <span class="quotespan">The Coördination of Secondary Schemata and Teir Appliciation to New Situations</span><>
+ <p>Assume that from a very early age, everyboby wants to contribute. Let's go with Jean Piaget's Fourth Stage, <span class="quotespan">The Coördination of Secondary Schemata and Teir Appliciation to New Situations.</span>
