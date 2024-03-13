@@ -15,7 +15,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>Piaget lays out the book in Stages and in its Sixth Stage, &ldquo;<em>The Invention of New Means Through Mental Combinations</em>,&rdquo; that is when intelligence appears. This happens somewhere between two and five.</p>
  <p>But pay attention because it is at this stage that the child needs to also start to learn how to communicate with their coomunity. Some parents do this brilliantly, but most do not do it at all.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <h1></h1>
- <p>People who learn this, learn to communicate via stories. And stories are at the core of communities. And, my guess, is that they are at the core of our humanity.</p>
+ <p>People who learn this, learn to communicate via stories that are at the core of communities. And, my guess, is that they are at the root of our humanity.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
