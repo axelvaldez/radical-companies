@@ -16,3 +16,7 @@ image:    "icon-renchilada.svg"
  <p>Its Sixth Stage, <span class="quotespan">The Invention of New Means Through Mental Combinations,</span> is significant, that is when as intelligence appears. This happens at about the age of 2. It is still childish reinvention.</p>
  <p>It is at this stage that the child needs to also learn how communicate it to their coomunity. Some parents do this brilliantly and most do it badly or not at all. class="footnote"><a href="">1</a></span>
  <span class="quotespan">Linda DiProperzio quotes Rahil Briggs, a child psychologist at The Children&rsquo;s Hospital at Montefiore in New York City. <im>All About Child Speech and Language Milestones</im>. August 16, 2023.</span>
+
+ <h1></h1>
+ <p>People who learn this learn to communicate via stories.k And stories are the core of communities.
+ </p>
