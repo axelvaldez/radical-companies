@@ -18,5 +18,5 @@ image:    "icon-renchilada.svg"
  <div class="quotespan">Linda DiProperzio quotes Rahil Briggs, a child psychologist at The Children&rsquo;s Hospital at Montefiore in New York City. <im>All About Child Speech and Language Milestones</im>. August 16, 2023.</div>
 
  <h1></h1>
- <p>People who learn this learn to communicate via stories.k And stories are the core of communities.
+ <p>People who learn this learn, learn to communicate via stories. And stories are the core of communities.
  </p>
