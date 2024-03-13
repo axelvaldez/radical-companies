@@ -20,7 +20,6 @@ image:    "icon-renchilada.svg"
  <p>People who learn this learn, learn to communicate via stories. And stories are the core of communities.
  </p>
 
-
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en05">
