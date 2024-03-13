@@ -7,7 +7,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 ---
 
 <div style='display:none; '>
- <p>Everybody is trying to contribute (except maybe the mentally sick). For some, the mean is violence, for others, the mean is conversations. We must learn to teach comnversations.</p>
+ <p>Everybody is trying to contribute (except maybe the mentally sick). For some, the mean is violence, for others, the mean is conversations. We must learn to teach conversations.</p>
 </div>
 
 <h1></h1>
