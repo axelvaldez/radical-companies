@@ -11,4 +11,5 @@ image:    "icon-renchilada.svg"
 </div>
 
 <h1></h1>
- <p>Assume that from a very early age, everyboby wants to contribute. Let's go with Jean Piaget's Fourth Stage, <span class="quotespan">The Coördination of Secondary Schemata and Teir Appliciation to New Situations.</span>
+ <p>Assume that from a very early age, everyboby wants to contribute. Let's look at Jean Piaget&rsquo;s <span class="quotespan">The Origins of Intellignce in Children<span>. It is an old book (I was five when he first published it)</p>
+ <p>Its Sixth Stage, <span class="quotespan">The Invention of New Means Through Mental Combinations.</span> is very significant, because that&rsquo;s when what we recognize as intelligence appears.
