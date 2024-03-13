@@ -11,7 +11,7 @@ image:    "icon-renchilada.svg"
 </div>
 
 <h1></h1>
- <p>I assume that from a very early age, everyboby wants to contribute. That is a radical assumption. For reassjurance, I looked at Jean Piaget&rsquo;s &ldquo;<em>The Origins of Intellignce in Children.</em>&rdquo; It is a pretty old book (<em>i.e.</em>, 1956, 68 years ago).</p>
+ <p>I assume that from a very early age, everyboby wants to contribute. That is a radical assumption. For reassjurance, I looked at Jean Piaget&rsquo;s &ldquo;<em>The Origins of Intellignce in Children.</em>&rdquo; It is a pretty old book (<em>i.e.</em>, first publised in 1956, 68 years ago).</p>
  <p>Piaget lays out the book in Stages and in its Sixth Stage, &ldquo;<em>The Invention of New Means Through Mental Combinations</em>,&rdquo; that is when intelligence appears. This happens somewhere between two and five.</p>
  <p>But pay attention because it is at this stage that the child needs to also start to learn how to communicate with their coomunity. Some parents do this brilliantly, but most do not do it at all.<span id="em01" style="font-size:smaller; text-align: justify; font-family:helvetica, sans-serif; font-style:italic; margin-bottom:3px; "><sup><a href="">upside down triangle</a></sup></span></p>
 
