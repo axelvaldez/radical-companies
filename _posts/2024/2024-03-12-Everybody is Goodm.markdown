@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Growing with rEnchilada"
+title:    "Everybody is Good"
 subtitle: ""
 authors:  "Matt Perez"
 image:    "icon-renchilada.svg"
 ---
 
 <div style='display:none; '>
- <p>Everybody is trying to contribute (not sure about the mentally sick). For some, the mean is violence, for others, the mean is conversations.</p>
+ <p>Everybody is trying to contribute (except maybe the mentally sick). For some, the mean is violence, for others, the mean is conversations. We must learn to teach comnversations.</p>
 </div>
 
 <h1></h1>
