@@ -24,7 +24,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
     Linda DiProperzio.
     <em>All About Child Speech and Language Milestones</em>.
     August 16, 2023.
-    &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
+    &lt;<a href="https://radicals.world/icon-the-origins-of-integlligence-in-children" target="_blank">https://radicals.world/icon-the-origins-of-integlligence-in-children</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
