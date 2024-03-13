@@ -3,7 +3,7 @@ layout:   post
 title:    "Everybody is Good"
 subtitle: ""
 authors:  "Matt Perez"
-image:    "icon-renchilada.svg"
+image:    "icon-the-origins-of-integlligence-in-children.svg"
 ---
 
 <div style='display:none; '>
