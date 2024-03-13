@@ -11,14 +11,12 @@ image:    "icon-renchilada.svg"
 </div>
 
 <h1></h1>
- <p>I assume that from a very early age, everyboby wants to contribute. That is a radical assumption.</p>
- <p>I looked at Jean Piaget&rsquo;s &ldquo;<im>The Origins of Intellignce in Children</im>&rdquo;. It is a pretty old book, I was five when it was first published (I am 72 now).</div></p>
- <p>Its Sixth Stage, <div>The Invention of New Means Through Mental Combinations,</span> is significant, that is when as intelligence appears. This happens at about the age of 2. It is still childish reinvention, but you must pay attention./p>
- <p>It is at this stage that the child needs to also learn how to communicate it to their coomunity. Some parents do this brilliantly and most do it badly or not at all.  <span id="em01" style="font-size:smaller; text-align: justify; font-family:helvetica, sans-serif; font-style:italic; margin-bottom:3px; "><span name="bm01"><a href="">1</a></span></p>
+ <p>I assume that from a very early age, everyboby wants to contribute. That is a radical assumption. For reassjurance, I looked at Jean Piaget&rsquo;s &ldquo;<im>The Origins of Intellignce in Children</im>&rdquo;. It is a pretty old book (1956)</p>
+ <p>Piaget lays out the book in Stages and in its Sixth Stage, <span>The Invention of New Means Through Mental Combinations,</span> that is when intelligence appears. This happens at about the age of 2 and five. It is still childish reinvention./p>
+ <p>But ]pay attention because it is at this stage that the child needs to also learn how to communicate to their coomunity. Some parents do this brilliantly and most do it badly or not at all.<span id="em01" style="font-size:smaller; text-align: justify; font-family:helvetica, sans-serif; font-style:italic; margin-bottom:3px; "><a href="">1</a></span></p>
 
  <h1></h1>
- <p>People who learn this learn, learn to communicate via stories. And stories are the core of communities.
- </p>
+ <p>People who learn this learn, learn to communicate via stories. And stories are at the core of communities. And, my guess, is that they are at the core of our humanity.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
