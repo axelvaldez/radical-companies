@@ -24,7 +24,6 @@ image:    "icon-renchilada.svg"
    <p class="_list-item">
     Linda DiProperzio.
     <em>All About Child Speech and Language Milestones</em>.
-    February 12, 1861.
     August 16, 2023.
     &lt;<a href="https://radicalcompanies.com" target="_blank">https://radicalcompanies.com</a>&gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
