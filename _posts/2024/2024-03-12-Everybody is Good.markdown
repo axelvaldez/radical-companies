@@ -14,7 +14,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>From a very early age, everyboby wants to contribute. That is a radical assumption. For reassurance, I looked at Jean Piaget&rsquo;s &ldquo;<em>The Origins of Intellignce in Children.</em>&rdquo; It is a pretty old book (<em>i.e.</em>, first publised in 1956, 68 years ago).</p>
  <p>Piaget lays out the book in Stages and in its Sixth Stage, &ldquo;<em>The Invention of New Means Through Mental Combinations</em>,&rdquo; intelligence appears.</p>
  <p>It is at this stage that the child needs to also start to learn how to communicate with their coomunity. Some parents do this brilliantly, but most do not do it at all.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> They simply go by the Fiat playbook, &ldquo;be quiet.&rdquo;</p>
- <p>I spite of all that, a few people learn communicate. Adn they communicate via stories that are at the root of our humanity.</p>
+ <p>I spite of it all, some people learn communicate via stories that are at the root of our humanity.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
