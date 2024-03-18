@@ -28,7 +28,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 <h1>All of Us</h1>
  <p>So, why claim that all people have good intentions?</p>
  <p>Because we have!</p>
- <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us. Oftentimes is just a childish intent, &lsquo;</em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rsquo;</p>
+ <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us. Oftentimes is just a childish intent, &lsquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rsquo;</p>
  <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, and useful. The childish instentions are good, but not useful. We are social animals and as such our lives depends on the wellbeing of the eople around us, our community. To declare that sugar is so good that we should have it all the time is childish. Dentists, another good thing to come out of Fiat, and it is no just our teeth; beyond teeth, anybody who knows about our biochemistry would disagree. But childish as it may be, it is an attempt to contribute to the community.</p>
 
 <h1>Learning</h1>
