@@ -32,7 +32,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, and useful. The childish instentions are good, but not useful. We are social animals and as such our lives depends on the wellbeing of the eople around us, our community. To declare that sugar is so good that we should have it all the time is childish. Dentists, another good thing to come out of Fiat, and it is no just our teeth; beyond teeth, anybody who knows about our biochemistry would disagree. But childish as it may be, it is an attempt to contribute to the community.</p>
 
 <h1>Learning</h1>
- <p>Sugar tastes good. That sugar is so good that we should have it all the time is childish. But it is a chance for adults to teach and children to learn. &lsquo;<em>You like sugar! I like sugar too. But, y&rlquo;know, eating sugary things all the time is bad for your teeth and they hurst. <_em>No, I do not want my teeth to hurt!</em>.</_em>&rsquo;</p>
+ <p>Sugar tastes good. That sugar is so good that we should have it all the time is childish. But it is a chance for adults to teach and children to learn. &lsquo;<em>You like sugar! I like sugar too. But, y&lsquo;<em>know, eating sugary things all the time is bad for your teeth and they hurst. <_em>&rlNo, I do not want my teeth to hurt! And I don&lsquo;t want their teeth to hurt, either.</_em></em>&rsquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
