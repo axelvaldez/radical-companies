@@ -21,9 +21,15 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>That will grow up happy and will others live a happier live.</p>
 
 <h1>Bad People, Good People</h1>
- <p>The difference with &ldquo;<em>bad people<?em>&rdquo; is that they <em>contribute</em> by way of violence. They impose their version of <em>good</em> on you. Feedback is at best ignored and at worst it become a capital offense. This leaves their version of <em>good</em> weak, but everything they say is law.</p>
+ <p>The difference with &ldquo;<em>bad people</em>&rdquo; is that they <em>contribute</em> by way of violence. They impose their version of <em>good</em> on you. Feedback is at best ignored and at worst it become a capital offense. This leaves their version of <em>good</em> weak, but everything they say is law.</p>
  <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: I want them to <em>fear</em> me and celebrate with my contribution. Fear me, <em>resistance is futile</em>.</p>
  <p>They started with good intentions, but then the noticed that the threat of violence was enough to control people.</p>
+
+<h1>All of Us</h1>
+ <p>So, why claim that all people have good intentions?</p>
+ <p>Because we have!</p>
+ <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us. Oftentimes is just a childish intenting. &lsquo;<?>em>That tates good. We should eat it at breakfast, lunch, and dinner.</em>&rsquo;</p>
+ <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, but the childish instentions are not. We are social animals and as such our lives depends on the wellbeing of the community. To declare that sugar is so good that we should have it all the time is childish. Dentists, another good thing to come out of Fiat, and it is no just our teeth; beyond teeth, anybody who knows about our biochemistry would disagree. But childish as it may be, it is an attempt to contribute to the community.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
