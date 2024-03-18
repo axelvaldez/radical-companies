@@ -23,7 +23,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 <h1>Bad People, Good People</h1>
  <p>The difference with &ldquo;<em>bad people</em>&rdquo; is that they <em>contribute</em> by way of violence. They impose their version of <em>good</em> on you. Feedback is at best ignored and at worst it become a capital offense. This leaves their version of <em>good</em> weak, but everything they say is law.</p>
  <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: I want them to <em>fear</em> me and celebrate with my contribution. Fear me, <em>resistance is futile</em>.</p>
- <p>They started with good intentions, but then the noticed that the threat of violence was enough to control people.</p>
+ <p>They started with good intentions, but then the noticed that the threat of violence was enough to control people. And that is addictive.</p>
 
 <h1>All of Us</h1>
  <p>So, why claim that all people have good intentions?</p>
