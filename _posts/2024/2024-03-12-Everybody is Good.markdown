@@ -28,12 +28,12 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 <h1>All of Us</h1>
  <p>So, why claim that all people have good intentions?</p>
  <p>Because we have!</p>
- <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us. Oftentimes is just a childish intent, &lsquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rsquo;</p>
+ <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us. Oftentimes is just a childish intent, &ldquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rdquo;</p>
  <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, and useful. The childish instentions are good, but not useful. We are social animals and as such our lives depends on the wellbeing of the eople around us, our community. To declare that sugar is so good that we should have it all the time is childish. Dentists, another good thing to come out of Fiat, and it is no just our teeth; beyond teeth, anybody who knows about our biochemistry would disagree.</p>
  <p>Childish as it may be, it is a contribution to her community.</p>
 
 <h1>A Learning Moment</h1>
- <p>Sugar is so good that we should have it all the time is childish (<em>i.e.</em>, it comes from a limited context). But this is a chance for the child expand her horizons. &lsquo;<em>You like sugar? I like sugary things too! But, y&lsquo;know, eating things like all that the time makes your teeth hurt.</em>&rdquo; &ldquo;<em>No, I don&lsquo;t want my teeth to hurt! And I don&lsquo;t want their teeth to hurt, either.</em>&rdquo;</p>
+ <p>Sugar is so good that we should have it all the time is childish (<em>i.e.</em>, it comes from a limited context). But this is a chance for the child expand her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&lsquo;know, eating things like all that the time makes your teeth hurt.</em>&rdquo; &ldquo;<em>No, I don&rsquo;t want my teeth to hurt! And I don&rsquo;t want their teeth to hurt, either.</em>&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
