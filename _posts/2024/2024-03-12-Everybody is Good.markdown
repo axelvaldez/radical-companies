@@ -33,7 +33,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>Childish as it may be, it is an attempt to contribute to her community.</p>
 
 <h1>A Learning Moment</h1>
- <p>Sugar tastes good. That sugar is so good that we should have it all the time is childish. And by that I mean that it comes from a limited context. This is a chance for children to learn and help the child expand her horizons. &lsquo;<em>You like sugar? I like sugary things too! But, y&lsquo;know, eating sugary things all the time is bad for your teeth and they hurt.</em>&rsquo; &lsquo;<em>No, I do not want my teeth to hurt! And I don&lsquo;t want their teeth to hurt.</em>&rsquo;</p>
+ <p>Sugar tastes good. That sugar is so good that we should have it all the time is childish. And by that I mean that it comes from a limited context. This is a chance for children to learn and help the child expand her horizons. &lsquo;<em>You like sugar? I like sugary things too! But, y&lsquo;know, eating things like that all the time make your teeth hurt.</em>&rdquo; &lsquo;<em>No, I do not want my teeth to hurt! And I don&lsquo;t want their teeth to hurt, either.</em>&rsquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
