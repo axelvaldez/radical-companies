@@ -11,7 +11,6 @@ image:    "icon-worse-than-al-capone.svg"
 </div>
 
 <h1></h1>
- <p>Worse than Al Capone,</p>
  <div class="citation">Do you know what I love about the British aristocracy? They're the original gangsters. The reason they own 75% of this country is because they stole it. William the Conqueror was worse than Al Capone. When he came over from France, he grabbed hold of everything he could get his hands onto, and then he set up a system so that he and his friends got to hold onto it forever. Taxation. Education. The judiciary. It's all designed to help the aristocracy hold on to their land and their money.]</div>
 
  <p>And it holds until these days,</p>
