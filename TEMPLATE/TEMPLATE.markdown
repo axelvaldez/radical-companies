@@ -24,10 +24,6 @@ image:    "icon-template.svg"
  <a href=[\"\']#en(\d\d)[\"\']><[^>]*>\d&nbsp;<.*/a>
  <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>
 
-<!-- Opposite of <me> -->
-<h1></h1>
- <span class='_em'>xxx</span>
-
 <!-- RADICAL | FIAT | RAD | rCOIN |  -->
 <h1></h1>
  (RADICAL|FIAT|RAD|BANNER|rCOIN)
