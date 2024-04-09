@@ -28,8 +28,6 @@ image:    "icon-worse-than-al-capone.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
- </ul>
- <ul>
   <li id="en02">
    <p class="_list-item">
     <em>Deborah Hartmann Preuss, pcc 🇨🇦</em>.
