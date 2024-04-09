@@ -3,7 +3,7 @@ layout:   post
 title:    "Worse than Al Capone"
 subtitle: ""
 authors:  "Matt Perez"
-image:    "icon-worse-than-al-capone.svg"
+image:    "icon-william-the-conqueror.svg"
 ---
 
 <div style='display:none; '>
