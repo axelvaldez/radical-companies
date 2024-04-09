@@ -17,7 +17,7 @@ image:    "icon-worse-than-al-capone.svg"
  <p>And it holds until these days,</p>
  <div class="_citation">&hellip; 160,000 families who own two-thirds of Great Britain largely descend from the army of William the Conqueror — the first Norman King of England who conquered the country in 1066.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></div>
 
- <p>That is the system we all Fiat.</p>
+ <p>That is the system we call Fiat.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
