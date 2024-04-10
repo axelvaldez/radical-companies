@@ -11,10 +11,10 @@ image:    "icon-about-daos.svg"
 </div>
 
 <h1>The DAO Story</h1>
- <p>In spite of their name, there&rsquo;s nothing decentralized or autonomous about DAOs. I don&rsquo;t mean that as a criticism, but simply as an observation.
+ <p>In spite of their name, there&rsquo;s nothing decentralized or autonomous about DAOs. So far, I don&rsquo;t mean that as a criticism, but simply as an observation.
 
 <h1>The Criticism</h1>
- <p>As a criticism I would point out that the DAO technology is an <em>automated investment</em> platform meant to make creating money-first organizations more efficient. As such, it is a technology that would do nothing but expand <span class="_paradigm">Fiat</span> investment options.</p>
+ <p>As a criticism I would point out that the DAO technology is an <em>automated investment</em> platform meant to creating money-first organizations more efficient. As such, it is a technology that would do nothing but expand <span class="_paradigm">Fiat</span> investment options.</p>
 
 <h1>Financial Investments</h1>
  <p>Financial investment has progressed from royalty, to wealthy patrons, to banks, to VCs: DAO is simply the next step in that progression. But the technology promises to do nothing towards making ourselves and the world we live in a healthier place for us. It is still grounded on the same principles of force and fear, <span class='_quotespan'>I have the capital, I am the boss.</span> What it brings into the picture is a frictionless way for what VCs call <em>limited partners</em> (LPs): more of them can enter at any capital amount. Great, more capitalists which should give way to more entrepreneurs.</p>
