@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "RADICAL COMPANIES Frequently Asked Questions (FAQ)"
-subtitle: ""
+subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
 image:    "icon-radical-companies-faq.svg"
 ---

@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    "rLand: Communities Thriving"
-subtitle: "A tip of the hat to Henry George"
+subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-rland-communities-thriving.svg"
 ---
