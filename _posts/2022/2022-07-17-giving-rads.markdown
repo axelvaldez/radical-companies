@@ -85,3 +85,5 @@ image:    "icon-giving-rads.svg"
    </p>
   </li>
  </ul>
+
+{% include related.html %}
