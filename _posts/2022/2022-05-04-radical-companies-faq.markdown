@@ -320,3 +320,5 @@ image:    "icon-radical-companies-faq.svg"
    </p>
   </li>
  </ul>
+
+{% include related.html %}
