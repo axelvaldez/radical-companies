@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Collaboration Takes Practice"
+title:    "Another form of Investment"
 subtitle: ""
 authors:  "Matt Perez"
-image:    "icon-collaboration-takes-practice.svg"
+image:    "icon-another-form-of-investment.svg"
 ---
 
 <div style='display:none; '>
