@@ -22,7 +22,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 
 <h1>Bad People, Good People</h1>
  <p>The difference with <em>bad people</em> is that they almost always opt for violence. They impose their version of their reality on you. Feedback is at best ignored and at worst it become a capital offense. Everything they say is law.</p>
- <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: &ldquo;<em>I want them to <em>fear</em> me and celebrate my contribution. <em>Resistance is futile</em>&rdquo;.</p>
+ <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: &ldquo;<em>I want them to <em>fear</em> me and celebrate my contribution</em>. <em>Resistance is futile</em>&rdquo;.</p>
  <p>They started with good intentions, but then they noticed that the threat of violence was enough to control people. That is addictive.</p>
 
 <h1>All of Us</h1>
