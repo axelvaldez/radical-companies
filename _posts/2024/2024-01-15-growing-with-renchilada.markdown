@@ -26,7 +26,7 @@ image:    "icon-renchilada.svg"
    <li>He writes poetry and has a facility with words.</li>
    <li>He is very creative and very quick on his feet.</li>
    <li>He came up with what became the <em>rEnchilada</em> to help people.</li>
-  <ul>
+  </ul>
 
 <h1>Staffing</h1>
   <p>rEnchila is going to staff up with underrepresented people as co-owners (<em>e.g.</em>, brown people, black people, single mothers, ex-felons, etc).</p>
