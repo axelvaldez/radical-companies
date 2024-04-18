@@ -21,30 +21,31 @@ image:    "icon-renchilada.svg"
  <p>He has an interesting background,</p>
   <ul>
    <li>He spent time in prison</li>
-   <li>He was the first employee of Nearsoft, a business that I had co-founded.</li>
-   <li>From Nearsoft he went on to work for well-known, big companies.</li>
+   <li>He was the first employee of the original Nearsoft, a business that I had co-founded.</li>
+   <li>From Nearsoft he went on to work for well-known companies.</li>
    <li>He writes poetry and has a facility with words.</li>
-   <li>He is very creative and very qick on his feet.</li>
+   <li>He is very creative and very quick on his feet.</li>
    <li>He came up with what became the <em>rEnchilada</em> to help people.</li>
   <ul>
 
 <h1>Staffing</h1>
-  <p>rEnchila is going to staff up with underrepresented people as co-owners (<em>e.g.</em>, brown and black people, single mothers, ex-felons, etc).</p>
+  <p>rEnchila is going to staff up with underrepresented people as co-owners (<em>e.g.</em>, brown people, black people, single mothers, ex-felons, etc).</p>
  
 <h1>rEnchilada</h1>
- <p>Jose&rsquo;s idea was to unify the sales evidence-based process into a Sales Stac. That leads to revenue growth with minimal fuzz and less expensive than hiring a Sales team.</p>
+ <p>Jose&rsquo;s idea was to unify the sales evidence-based process into a Sales Stack. That leads to revenue growth with minimal fuzz and less expensive than doing it piecemeal which is the way that is offered now or hiring a Sales team.</p>
  <p>Our teaam,</p>
  <ul>
   <li>Gets leads</li>
-  <li>Our Sales Development Reps (SDRs) calls these leads or emails them.</li>
-  <li>We qualify a few as <span class="iquo">ready to buy now.</span></li>
+  <li>Our Sales Development Reps (SDRs) builds a relatuionship with these leads
+  <li>It calls these leads or emailing them</li?
+  <li>They qualify them as <span class="iquo">ready to buy now.</span></li>
  </ul>
- <p>Big companies may do all of this in-house without a process. Smaller companies contract for each piece. But there is still no process problem. Jose&rsquo;s idea is to unify all of that into a single flow process. We work this process and then we work with our cstomers so they canlearn it.</p>
+ <p>Big companies may do all of this in-house without a process. Smaller companies contract for each piece. But there is still the <em>no process</em>> problem. Jose&rsquo;s came with the idea is to unify all of that into a single process that flows. We work this process and then we work with our cstomers so they can learn it.</p>
 
 <h1>But…</h1>
- <p class="iquo">… somebody must be doing it already!</p>
- <p>That my first reaction, but I did some research and I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job.</p>
- <p>Sales people have to make their financial quotas, and tnat is the only thing that is measured.</p>
+ <div class="_citation_">… somebody must be doing it already!</div>
+ <p>That my first reaction. So I did look around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job.</p>
+ <p>Sales people have to make their financial quotas, and that is the only thing that what&rsquo;s measured.</p>
 
 <h1>Alignment</h1>
  <p>rEnchilada&rsquo;s Explicit Alignment is as follows,</p>
@@ -66,7 +67,7 @@ image:    "icon-renchilada.svg"
     <th>Why?</th>
     <td>
      <p>People can enjoy wealth and contribute to society.</p>
-     <p>People learn to partake the wealth of Silico n Valley without resorting force.</p>
+     <p>People learn to partake the wealth of Silico n Valley without resorting to force and illegal trade.</p>
     </td>
    </tr>
    <tr id='_background'>
@@ -79,11 +80,7 @@ image:    "icon-renchilada.svg"
    </tr>
    <tr>
     <th>How?</th>
-    <td>By working in all stages of the rEnchilada Sales process.</td>
+    <td>Have them work in all stages of the rEnchilada Sales process.</td>
    </tr>
   </table>
  </div>
-
- <p></p>
- <p></p>
- <p></p>
