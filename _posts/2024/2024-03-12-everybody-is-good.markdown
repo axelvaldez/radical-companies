@@ -14,23 +14,23 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>From a very early age, everyboby wants to contribute. Everybody.</p>
  <p>For reassurance, I looked at Jean Piaget&rsquo;s &ldquo;<em>The Origins of Intelligence in Children.</em>&rdquo; (<em>i.e.</em>, 1956). Piaget lays out the book in Stages. At its Sixth Stage, &ldquo;<em>The Invention of New Means Through Mental Combinations</em>,&rdquo; what we call intelligence appears.</p>
  <p>It is at this stage that the child needs to also start to learn how to communicate with their coomunity. Some parents do this brilliantly for te child to ex;ress himself. Most do not do it at all<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a> and simply go by the Fiat playbook, &ldquo;<em>be quiet.</em>&rdquo;</p>
- <p>I spite of it all, some people learn communicate via stories that are at the root of our humanity.</p>
+ <p>I spite of it all, some people learn communicate via stories. They are at the root of our humanity.</p>
 
 <h1>All Good</h1>
- <p>No matter, from a very early age everyboby wants to contribute. This means that, amont other things, we need to learn to communicate from a very early age. When things come out in <em>childish</em> way, it is up to adults around the child to teach them how to say it in a more comprehensible ways. What we do mostly is to tell the child to <em>shut up</em>. Don&rsquo;t. Keep the children talking and teach them to speak in a way that make sense to the community, in a way that engages their humanity.</p>
- <p>That will grow up happy and will others live a happier live.</p>
+ <p>From a very early age everyboby wants to contribute. This means that, among other things, we need to learn to communicate intelligibly from a very early age. When things come out in <em>childish</em> way, it is up to adults around the child to teach them how to say it in a more comprehensible ways, preferably without being confrontatonal.</p>
+ <p>What we do mostly is to tell the child to <em>shut up</em>. Don&rsquo;t. Keep the children talking and teach them to speak in a way that make sense to the community, in a way that engages their humanity. The child will grow up happy and will jelp others live a happier live.</p>
 
 <h1>Bad People, Good People</h1>
- <p>The difference with &ldquo;<em>bad people</em>&rdquo; is that they <em>contribute</em> by way of violence. They impose their version of <em>good</em> on you. Feedback is at best ignored and at worst it become a capital offense. This leaves their version of <em>good</em> weak, but everything they say is law.</p>
- <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: I want them to <em>fear</em> me and celebrate with my contribution. Fear me, <em>resistance is futile</em>.</p>
- <p>They started with good intentions, but then the noticed that the threat of violence was enough to control people. And that is addictive.</p>
+ <p>The difference with <em>bad people</em> is that they almost always opt for violence. They impose their version of their reality on you. Feedback is at best ignored and at worst it become a capital offense. Everything they say is law.</p>
+ <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: I want them to <em>fear</em> me and celebrate my contribution. <em>Resistance is futile</em>.</p>
+ <p>They started with good intentions, but then they noticed that the threat of violence was enough to control people. That is addictive.</p>
 
 <h1>All of Us</h1>
- <p>So, why claim that all people have good intentions?</p>
- <p>Because we have!</p>
- <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us. Oftentimes is just a childish intent, &ldquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rdquo;</p>
- <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, and useful. The childish instentions are good, but not useful. We are social animals and as such our lives depends on the wellbeing of the eople around us, our community. To declare that sugar is so good that we should have it all the time is childish. Dentists, another good thing to come out of Fiat, and it is no just our teeth; beyond teeth, anybody who knows about our biochemistry would disagree.</p>
- <p>Childish as it may be, it is a contribution to her community.</p>
+ <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us.</p>
+ <p>Oftentimes is just a childish intent, &ldquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rdquo;</p>
+ <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, and useful. The childish instentions are good, but not a benefit to the community. We are social animals and as such our lives depends on the wellbeing of the people that make up the communitu around us. To declare that sugar is so good that we should have it all the time is childish.</p>
+ <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth hurt.</em>&rdquo; &ldquo;<em>I don&rsquo;t want my teeth to hurt! And I don&rsquo;t want their teeth to hurt, either.</em>&rdquo;</p>
+ <p>Childish as it may be, it is a contribution.</p>
 
 <h1>A Learning Moment</h1>
  <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth hurt.</em>&rdquo; &ldquo;<em>I don&rsquo;t want my teeth to hurt! And I don&rsquo;t want their teeth to hurt, either.</em>&rdquo;</p>
