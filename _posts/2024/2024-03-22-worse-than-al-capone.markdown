@@ -11,7 +11,7 @@ image:    "icon-worse-than-al-capone.svg"
 </div>
 
 <h1></h1>
- <div class="_citation">&hellip; British aristocracy are the original gangsters. The reason they own 75% of the British Island is because &ldquo;<em>they stole it by force.</em>&rdquot.</p>
+ <div class="_citation">&hellip; British aristocracy are the original gangsters. The reason they own 75% of the British Island is because &ldquo;<em>they stole it by force.</em>&rdquot.</div>
  <p>William the Conqueror was worse than Al Capone.</p>
  <div class="_citation">When he went to England from France, he grabbed hold of everything he could get his hands onto, and then he set up a system so that he and his friends got to hold onto it forever. Taxation. Education. The judiciary. It's all designed to help the aristocracy hold on to their land and their money.<href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></href></div>
 
