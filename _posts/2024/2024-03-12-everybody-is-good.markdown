@@ -22,18 +22,14 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 
 <h1>Bad People, Good People</h1>
  <p>The difference with <em>bad people</em> is that they almost always opt for violence. They impose their version of their reality on you. Feedback is at best ignored and at worst it become a capital offense. Everything they say is law.</p>
- <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: I want them to <em>fear</em> me and celebrate my contribution. <em>Resistance is futile</em>.</p>
+ <p>The thing is that when it goes the route of violence, it becomes power over everything, including people. Violence begets more violence and it goes downhill from there. Hitler, in Geermany, and Putin, in Russia, are good examples of that: &ldquo;<em>I want them to <em>fear</em> me and celebrate my contribution. <em>Resistance is futile</em>&rdquo;.</p>
  <p>They started with good intentions, but then they noticed that the threat of violence was enough to control people. That is addictive.</p>
 
 <h1>All of Us</h1>
- <p>The Fiat ststem does eventually warp our intentions, but we start with intentions that benefit our communities. We start with wanting to contribute to those around us.</p>
- <p>Oftentimes is just a childish intent, &ldquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rdquo;</p>
- <p>Breakfast, lunch, and dinner are good, like many good things that have come out of the Fiat system, and useful. The childish instentions are good, but not a benefit to the community. We are social animals and as such our lives depends on the wellbeing of the people that make up the communitu around us. To declare that sugar is so good that we should have it all the time is childish.</p>
- <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth hurt.</em>&rdquo; &ldquo;<em>I don&rsquo;t want my teeth to hurt! And I don&rsquo;t want their teeth to hurt, either.</em>&rdquo;</p>
+ <p>We start with intentions that benefit our communities, but the Fiat system eventually warp our intentions which is to contribute to those around us. Oftentimes is just a childish intent, &ldquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rdquo;</p>
+ <p>Breakfast, lunch, and dinner are good, the childish intentions are good, but like many good things that have come out of the Fiat system, but not of benefit to the community.</p>
+ <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand to her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth and your stomach hurt.&ldquo;<em></p>
  <p>Childish as it may be, it is a contribution.</p>
-
-<h1>A Learning Moment</h1>
- <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth hurt.</em>&rdquo; &ldquo;<em>I don&rsquo;t want my teeth to hurt! And I don&rsquo;t want their teeth to hurt, either.</em>&rdquo;</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
