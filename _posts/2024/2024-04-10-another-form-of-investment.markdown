@@ -11,7 +11,7 @@ image:    "icon-another-form-of-investment.svg"
 </div>
 
 <h1></h1>
-<p>Instead of one-on-one, investments could be done with one person representing others, not as an intermediary, but as a point of contact. We think that a maximum of 10 Radical Investors is enough, but experiment. The number 10 makes it possible for a Radical Investee to still have direct discussions with the Radical Investorsl, as agroup or one-on-one.</p>
+<p>Instead of one-on-one, investments could be done with one person representing others, not as an intermediary, but as a point of contact. We think that a maximum of 10 Radical Investors is enough, but experiment. The number 10 makes it possible for a Radical Investee to still have direct discussions with the Radical Investors, as agroup or one-on-one.</p>
 <p>Ten is just a number. If you do not like it, experiment and come up with a number that works for you and your community. If you notice that the Radical Investee is talking only to the intermediary, that may be a form of Fiat behavior; all Radical Investors must be on the lookout for that.</p>
 
 {% include related.html %}
