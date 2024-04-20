@@ -3,7 +3,7 @@ layout:   post
 title:    "Another form of Investment"
 subtitle: ""
 authors:  "Matt Perez"
-image:    "icon-another-form-of-investment.svg"
+image:    "icon-automatic-investments.svg"
 ---
 
 <div style='display:none; '>
