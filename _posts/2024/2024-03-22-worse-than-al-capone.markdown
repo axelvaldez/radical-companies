@@ -32,8 +32,9 @@ image:    "icon-worse-than-al-capone.svg"
   </li>
   <li id="en02">
    <p class="_list-item">
-    <em>Deborah Hartmann Preuss, pcc 🇨🇦</em>.
-    &lt;<a href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">https://calendar.google.com/calendar/u/0/r/week/</a> &gt;
+    <em>Mihal Andrei</em>.
+    <>Norman descendants are still doing very fine in today's Britain<>.
+    &lt;<a href="https://www.zmescience.com/other/shorties/70-percent-britain-land-owned-by-the-rich/" target="_blank">https://www.zmescience.com/other/shorties/70-percent-britain-land-owned-by-the-rich/</a> &gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
