@@ -16,7 +16,7 @@ image:    "icon-worse-than-al-capone.svg"
  <div class="_citation">When he went to England from France, he grabbed hold of everything he could get his hands onto, and then he set up a system so that he and his friends got to hold onto it forever. Taxation. Education. The judiciary. It's all designed to help the aristocracy hold on to their land and their money.<a href="#en01"><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></div>
 
  <p>And it holds until these days,</p>
- <div class="_citation">&hellip; 160,000 families who own two-thirds of Great Britain and Ireland largely descend from the army of William the Conqueror &mdash; the first Norman King of England who conquered the country in 1066.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></div>
+ <div class="_citation">&hellip; 160,000 families who own two-thirds of Great Britain and Ireland largely descend from the army of William the Conqueror &mdash; [since] 1066.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></div>
  <br>
  <br>
  <p>That is the system we call Fiat.</p>
