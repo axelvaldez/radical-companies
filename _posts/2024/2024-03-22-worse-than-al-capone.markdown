@@ -33,7 +33,8 @@ image:    "icon-worse-than-al-capone.svg"
   <li id="en02">
    <p class="_list-item">
     <em>Mihal Andrei</em>.
-    <>Norman descendants are still doing very fine in today's Britain<>.
+    <em>Norman descendants are still doing very fine in today's Britain</em>.
+    
     &lt;<a href="https://www.zmescience.com/other/shorties/70-percent-britain-land-owned-by-the-rich/" target="_blank">https://www.zmescience.com/other/shorties/70-percent-britain-land-owned-by-the-rich/</a> &gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
