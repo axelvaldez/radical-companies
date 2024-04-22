@@ -26,14 +26,14 @@ image:    "icon-worse-than-al-capone.svg"
   <li id="en01">
    <p class="_list-item">
     <em>Character in British series</em>.
-    &lt;<a href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">https://calendar.google.com/calendar/u/0/r/week/</a>>&gt;
+    &lt;<a href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">https://calendar.google.com/calendar/u/0/r/week/</a> &gt;
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
     <em>Deborah Hartmann Preuss, pcc 🇨🇦</em>.
-    &lt;<a href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">https://calendar.google.com/calendar/u/0/r/week/</a>>&gt;
+    &lt;<a href="https://calendar.google.com/calendar/u/0/r/week" target="_blank">https://calendar.google.com/calendar/u/0/r/week/</a> &gt;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
