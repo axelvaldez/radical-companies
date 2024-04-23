@@ -7,7 +7,7 @@ image:    "icon-rmedia.svg"
 ---
 
 <div style="display: none; ">
- <p>Taking care of children with or without the parents' help, while their parents are at busy with something else (<em>e.g.</em> their <span class='_paradigm'>Fiat</span> work).</p>
+ <p>Baby-sitting, but under safer settings. The</p>
 </div>
 
 <h1>Explicit Alignment</h1>
@@ -19,7 +19,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th style='column-width:20px; col-width:30px; '>What for?</th>
-    <td>TBD</td>
+    <td>A safer and more convenient way to have children baby-sat.</td>
    </tr>
    <tr>
     <td></td>
@@ -27,7 +27,9 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>TBD</td>
+     <td>To place these businesses into an ensemble that can help.</td>
+    <th></th>
+     <td>To give busy parents, particularly the Fiat ones, a safe way to have their child baby-sat.</td>
    </tr>
    <tr>
     <td></td>
@@ -44,12 +46,23 @@ image:    "icon-rmedia.svg"
  <p>Taking care of children while their parents are busy with their <span class='_paradigm'>Fiat</span> jobs.</p>
 
 <h1>Origin Story</h1>
- <p>TBD</p>
+ <p>There are people who like to do this, young people i particular. The intent is to provide them with an ensemble that can train them and show it what to expect, as well as provifde help.</p>
 
 <h1>How It Works</h1>
- <p>TBD</p>
+ <ul>
+  <li>Train, if needed</li>
+  <li>Train, if needed</li>
+  <li>Train, if needed</li>
+  <li>Train, if needed</li>
+ </ul>
 
-<h1>What's in It for &hellip;?</h1>
- <p>TBD</p>
+<h1>What's in It for babysitter?</h1>
+ <p>She is not on their own. She is part of an ensemblek that is there to support her.</p>
+
+<h1>What's in It for the Parents?</h1>
+ <p>Not having to hunt for somebody in the neiborhood and noy hsbinh to risk it.</p>
+
+<h1>What's in It for the baby?</h1>
+ <p>A more nourishing envoronment.</p>
 
 {% include related.html %}
