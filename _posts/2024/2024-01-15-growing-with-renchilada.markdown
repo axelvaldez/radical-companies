@@ -21,7 +21,7 @@ image:    "icon-renchilada.svg"
  <p>He has an interesting background,</p>
   <ul>
    <li>He spent time in prison</li>
-   <li>He was the first employee of the original Nearsoft, a business that I had co-founded.</li>
+   <li>He was the first employee of the original Nearsoft, a business that I had founded.</li>
    <li>From Nearsoft he went on to work for well-known companies.</li>
    <li>He writes poetry and has a facility with words.</li>
    <li>He is very creative and very quick on his feet.</li>
