@@ -19,7 +19,7 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th style='column-width:20px; col-width:30px; '>What for?</th>
-    <td>TBD</td>
+    <td>To give low skill people a way to have a better life and gain new skills.</td>
    </tr>
    <tr>
     <td></td>
@@ -27,90 +27,36 @@ image:    "icon-rmedia.svg"
    </tr>
    <tr>
     <th>Why?</th>
-    <td>TBD</td>
+    <td>To give people access to a better live.</td>
    </tr>
    <tr>
     <td></td>
     <th>Mission</th>
    </tr>
    <tr>
-    <th>What<br>When?<br>How?</th>
+    <th>What<br>When?<br>How?</td>
     <td>TBD</td>
    </tr>
   </table>
  </div>
-<!--
-<h1>Alignment</h1>
- <table>
- <tbody style="font-size:smaller; vertical-align:top; ">
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Impact</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What for?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Purpose</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">Why?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2">&nbsp;</td>
-  </tr>
-  <tr>
-   <td colspan="2" style="font-weight:bold; font-size:larger; text-align:right; ">Mission</td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">What?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">When?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
-  <tr>
-   <td style="text-align:right; width:10em; font-style:italic; padding-right:1em; border-right:1px solid black; ">How?</td>
-   <td>
-    <ul>
-     <li></li>
-    </ul>
-   </td>
-  </tr>
- </tbody>
-</table>
--->
 
 <h1>Intro</h1>
- <p>Help people with,</p>
+ <p>Help people,</p>
  <ul>
-  <li>Cleaning living spaces (<em>e.g.</em>, homes, offices).</li>
+  <li>To clean for living (<em>e.g.</em>, homes, offices).</li>
   <li>Declutter and free up space.</li>
-  <li>Interior design suggestions.</li>
  </ul>
 
 <h1>Origin Story</h1>
+ <p>Make them part of an esemble that can help themk with time off and new skills.</p>
 
 <h1>How It Works</h1>
+ <p>TBD</p>
 
-<h1>What's in It for &hellip;?</h1>
+<h1>What's in It for the Cleaners?</h1>
+ <p>Help with time off, new skills.</p>
+
+<h1>What's in It for the their Customers?</h1>
+ <p>Not having to hunt/risk the service.</p>
 
 {% include related.html %}
