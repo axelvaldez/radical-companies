@@ -12,8 +12,8 @@ image:    "icon-renchilada.svg"
 
 <h1>Ownership is Freeing</h1>
   <ul>
-   <li>Fiat ownership applies to the <em><strong>a handful of people who put up capital</strong> to own the business.</em></li>
-   <li>Co-ownership aappplies to <em><strong>everyone who contributes</strong> to a company.</em></li>
+   <li>Fiat ownership applies to the a handful of people who put up <em><strong>capital</strong></em> to own the business.</li>
+   <li>Co-ownership aappplies to everyone who <em><strong>contributes</strong> to a company.</em></li>
   </ul>
 
 <h1>Jose Contreras</h1>
