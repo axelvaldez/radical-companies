@@ -29,16 +29,16 @@ image:    "icon-renchilada.svg"
   </ul>
 
 <h1>Staffing</h1>
-  <p>rEnchila is going to staff up with underrepresented people as co-owners (<em>e.g.</em>, brown people, black people, single mothers, ex-felons, etc).</p>
+  <p>rEnchila is going to staff up with underrepresented people (<em>e.g.</em>, brown people, black people, single mothers, ex-felons, etc) as co-owners.</p>
  
 <h1>rEnchilada</h1>
- <p>Jose&rsquo;s idea was to unify the sales evidence-based process into a Sales Stack. That leads to revenue growth with minimal fuzz and less expensive than doing it piecemeal which is the way that is offered now or hiring a Sales team.</p>
+ <p>Jose&rsquo;s idea was to unify the sales process into a Sales Stack, an evidence-based process, revenue growth with minimal fuzz and less expensive than doing it pieceme as it is done today</p>
  <p>Our teaam,</p>
  <ul>
   <li>Gets leads</li>
-  <li>Our Sales Development Reps (SDRs) builds a relatuionship with these leads
-  <li>It calls these leads or emailing them</li?
-  <li>They qualify them as <span class="iquo">ready to buy now.</span></li>
+  <li>Builds a relationship with these leads</li>
+  <li>Calls these leads or emailing them</li>
+  <li>Qualifies them as &ldquo;ready to buy&rdquo;, schedule them for future contact,  &ldquo;wrong target.&rdquo;</span></li>
  </ul>
  <p>Big companies may do all of this in-house without a process. Smaller companies contract for each piece. But there is still the <em>no process</em>> problem. Jose&rsquo;s came with the idea is to unify all of that into a single process that flows. We work this process and then we work with our cstomers so they can learn it.</p>
 
