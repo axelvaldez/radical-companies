@@ -81,7 +81,7 @@ image:    "icon-renchilada.svg"
     <td>Train co-owners.</td>
    </tr>
    <tr>
-    <th style="text-align:end;">How?</th>
+    <th style="text-align:end; text-size:smaller;">How?</th>
     <td>Have them work in all stages of the rEnchilada Sales process.</td>
    </tr>
   </table>
