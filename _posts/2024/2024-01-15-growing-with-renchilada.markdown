@@ -17,7 +17,7 @@ image:    "icon-renchilada.svg"
   </ul>
 
 <h1>Jose Contreras</h1>
- <p>An example of contributin is Jose Contreras, a friend and co-owner of rEnchilada.</p>
+ <p>An example of contribution is Jose Contreras, a friend and co-owner of rEnchilada.</p>
  <p>He has an interesting background,</p>
   <ul>
    <li>He spent time in prison</li>
@@ -46,7 +46,7 @@ image:    "icon-renchilada.svg"
  <p>But there is still the <em>no process</em> problem. Jose&rsquo;s came with the idea to unify all of it into a single process that flows. We work this process and then we partner with our customers so they can learn it.</p>
 
 <h1>But…</h1>
- <div class="_citation_">&hellip; somebody must be doing it already!</div>
+ <div class="_citation">&hellip; somebody must be doing it already!</div>
  <p>That my first reaction. I even looked around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is beaurocracy, but there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job. They have to make their financial quotas, and that is the thing that what&rsquo;s measured.</p>
 
 <h1>Alignment</h1>
