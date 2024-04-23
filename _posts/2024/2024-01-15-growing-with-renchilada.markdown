@@ -40,12 +40,14 @@ image:    "icon-renchilada.svg"
   <li>Calls these leads or emailing them</li>
   <li>Qualifies them as &ldquo;ready to buy&rdquo;, schedule them for future contact,  &ldquo;wrong target.&rdquo;</span></li>
  </ul>
- <p>Big companies may do all of this in-house without a process. Smaller companies contract for each piece. But there is still the <em>no process</em>> problem. Jose&rsquo;s came with the idea is to unify all of that into a single process that flows. We work this process and then we work with our cstomers so they can learn it.</p>
+
+<h1>Process?</h1>
+ <p>Big companies may this in-house. Smaller companies outsource each or most of these pieces.</p>
+ <p>But there is still the <em>no process</em>> problem. Jose&rsquo;s came with the idea to unify all of that into a single process that flows. We work this process and then we partner with our customers so they can learn it.</p>
 
 <h1>But…</h1>
- <div class="_citation_">… somebody must be doing it already!</div>
- <p>That my first reaction. So I did look around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job.</p>
- <p>Sales people have to make their financial quotas, and that is the only thing that what&rsquo;s measured.</p>
+ <div class="_citation_">&hellip; somebody must be doing it already!</div>
+ <p>That my first reaction. I even looked around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is beaurocracy, but there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job. They have to make their financial quotas, and that is the thing that what&rsquo;s measured.</p>
 
 <h1>Alignment</h1>
  <p>rEnchilada&rsquo;s Explicit Alignment is as follows,</p>
