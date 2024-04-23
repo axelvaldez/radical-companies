@@ -13,9 +13,9 @@ image:    "icon-organizing-radical-comapanies.svg"
 <h1>Motivation?</h1>
  <p>Once upon a time we described several Radical companies,
   <ul>
-   <li><a href="">rStayHomeK/a></li>
-   <li><a href="">rKareK/a></li>
-   <li><a href="">rCleanK/a>K/a></li>
+   <li><a href="">rStayHome</a></li>
+   <li><a href="">rKare</a></li>
+   <li><a href="">rCleanK/a></a></li>
   </ul>
  <p>We hope that this acts as motivation.</p>
  <p>The idea is to make them franchises. As opposed to the Fiat Franchise, the model we are used to, the Radical franchise would have the franchisor be the franchisees.</p>
