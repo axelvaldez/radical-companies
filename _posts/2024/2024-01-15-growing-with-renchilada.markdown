@@ -69,7 +69,7 @@ image:    "icon-renchilada.svg"
     <th>Why?</th>
     <td>
      <p>People can enjoy wealth and contribute to society.</p>
-     <p>People learn to partake the wealth of Silico n Valley without resorting to force and illegal trade.</p>
+     <p>People learn to partake the wealth of Silicon Valley without resorting to force and illegal trade.</p>
     </td>
    </tr>
    <tr id='_background'>
