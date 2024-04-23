@@ -37,8 +37,8 @@ image:    "icon-renchilada.svg"
  <ul>
   <li>Gets leads</li>
   <li>Builds a relationship with these leads</li>
-  <li>Calls these leads or emailing them</li>
-  <li>Qualifies them as &ldquo;ready to buy&rdquo;, schedule them for future contact,  &ldquo;wrong target.&rdquo;</span></li>
+  <li>Calls/Email these leads</li>
+  <li>Qualifies them</li>
  </ul>
 
 <h1>Process?</h1>
