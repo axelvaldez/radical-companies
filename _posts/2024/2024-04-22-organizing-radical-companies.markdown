@@ -11,14 +11,13 @@ image:    "icon-organizing-radical-companies.svg"
 </div>
 
 <h1>Motivation?</h1>
- <p>Once upon a time we described several Radical companies,
+ <p>Once upon a time we described several Radical companies,</p>
   <ul>
    <li><a href="">rStayHome</a></li>
    <li><a href="">rKare</a></li>
    <li><a href="">rClean</a></li>
   </ul>
- <p>We hope that this acts as motivation.</p>
- <p>The idea is to make them franchises. As opposed to the Fiat Franchise, the model we are used to, the Radical franchise would have no single owner: the franchisor and the franchisees will be the same.</p>
+ <p>The idea is to make them franchises, we hope that this acts as motivation. As opposed to the Fiat Franchise, the model we are used to, the Radical franchise would have no single owner: the franchisor and the franchisees will be the same.</p>
 
 <h1>The Franchise</h1>
 <ul>
