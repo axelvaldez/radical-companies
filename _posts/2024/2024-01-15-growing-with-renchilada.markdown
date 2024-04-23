@@ -79,6 +79,7 @@ image:    "icon-renchilada.svg"
    <tr>
     <th>What?</th>
     <td>Train co-owners.</td>
+    <td>Pay attention and celebrate to their contributions.</td>
    </tr>
    <tr>
     <th style="text-align:right; font-size:smaller;">How?</th>
