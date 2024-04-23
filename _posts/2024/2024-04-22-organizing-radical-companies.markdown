@@ -13,9 +13,9 @@ image:    "icon-organizing-radical-companies.svg"
 <h1>Motivation?</h1>
  <p>Once upon a time we described several Radical companies,</p>
   <ul>
-   <li><a href="">rStayHome</a></li>
-   <li><a href="">rKare</a></li>
-   <li><a href="">rClean</a></li>
+   <li><a href="https://radicalcompanies.com/2022/05/12/rstayhome">rStayHome</a></li>
+   <li><a href="https://radicalcompanies.com/2022/05/13/rkare">rKare</a></li>
+   <li><a href="https://radicalcompanies.com/2022/05/14/rclean">rClean</a></li>
   </ul>
  <p>The idea is to make them franchises, we hope that this acts as motivation. As opposed to the Fiat Franchise, the model we are used to, the Radical franchise would have no single owner: the franchisor and the franchisees will be the same.</p>
 
