@@ -60,8 +60,8 @@ image:    "icon-rmedia.svg"
   <ul>
    <li>Help with medications</li>
    <li>Help with higiene</li>
-   <li>Help moving</li>
-   <li>Company</li>
+   <li>Help moving about</li>
+   <li>Havinbg company</li>
   </ul>
 
 <h1>Benefits for the Caretaker</h1>
