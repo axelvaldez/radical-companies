@@ -27,7 +27,7 @@ image:    "icon-rmedia.svg"
      </tr>
      <tr>
       <th>Why?</th>
-      <td>To make people more independent</td>
+      <td>To people the opportunity to be more independent</td>
      </tr>
      <tr>
       <td></td>
