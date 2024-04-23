@@ -18,7 +18,7 @@ image:    "icon-organizing-radical-comapanies.svg"
    <li><a href="">rCleanK/a></a></li>
   </ul>
  <p>We hope that this acts as motivation.</p>
- <p>The idea is to make them franchises. As opposed to the Fiat Franchise, the model we are used to, the Radical franchise would have the franchisor be the franchisees.</p>
+ <p>The idea is to make them franchises. As opposed to the Fiat Franchise, the model we are used to, the Radical franchise would have no single owner: the franchisor and the franchisees will be the same.</p>
 
 <h1>The Franchise</h1>
 <ul>
