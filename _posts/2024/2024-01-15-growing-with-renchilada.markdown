@@ -33,7 +33,7 @@ image:    "icon-renchilada.svg"
  
 <h1>rEnchilada</h1>
  <p>Jose&rsquo;s idea was to unify the sales process into a Sales Stack, an evidence-based process, revenue growth with minimal fuzz and less expensive than doing it pieceme as it is done today</p>
- <p>Our teaam,</p>
+ <p>Our team,</p>
  <ul>
   <li>Gets leads</li>
   <li>Builds a relationship with these leads</li>
