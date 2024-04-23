@@ -43,7 +43,7 @@ image:    "icon-renchilada.svg"
 
 <h1>Process?</h1>
  <p>Big companies may do this in-house. Smaller companies outsource some or all of these pieces.</p>
- <p>But there is still the <em>no process</em>> problem. Jose&rsquo;s came with the idea to unify all of that into a single process that flows. We work this process and then we partner with our customers so they can learn it.</p>
+ <p>But there is still the <em>no process</em> problem. Jose&rsquo;s came with the idea to unify all of that into a single process that flows. We work this process and then we partner with our customers so they can learn it.</p>
 
 <h1>But…</h1>
  <div class="_citation_">&hellip; somebody must be doing it already!</div>
