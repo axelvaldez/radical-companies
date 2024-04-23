@@ -65,12 +65,12 @@ image:    "icon-rmedia.svg"
   </ul>
 
 <h1>Benefits for the Caretaker</h1>
- <p>The main benefit is that there are other companies in the ensemble that can help. For example,
+ <p>The main benefit is that there are other companies in the ensemble that can help. For example, the ensemble can provide help with,
   <ul>
-   <li>They can provide help with days off.</li>
-   <li>They can provide help wit extenbded vacations</li>
-   <li>They can bring in special games they have found effective for learning</li>
-   <li>They can cook special meals that kids like</li>
+   <li>Help with days off.</li>
+   <li>Help wit extenbded vacations</li>
+   <li>Bring in special games they have found effective for learning</li>
+   <li>Cook special meals that kids like</li>
   </ul> 
 
 {% include related.html %}
