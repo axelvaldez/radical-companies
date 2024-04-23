@@ -59,7 +59,7 @@ image:    "icon-renchilada.svg"
    </tr>
    <tr>
     <th style='width:20%; '>What for?</th>
-    <td>A place where underrepresented people can learn how they can partake Silicon Valley&rsquo;s wealth.</td>
+    <td>A place where underrepresented people can learn how they can partake of Silicon Valley&rsquo;s wealth.</td>
    </tr>
    <tr id='_background'>
     <td></td>
