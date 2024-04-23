@@ -44,7 +44,7 @@ image:    "icon-rmedia.svg"
  <p>Taking care of people in their home.</p>
 
 <h1>Origin Story</h1>
- <p>Peope who take care of kids or the elderly do not have a model to start from. Usually,they are anchored to the job. The idea is to have an ensemble of these businesses to woek together</p>
+ <p>People who take care of kids or the elderly do not have a model to start from. Usually,they are anchored to the job. The idea is to have an ensemble of these businesses to woek together</p>
 
 <h1>Activities for Kids</h1>
  <p>Activities include,</p>
