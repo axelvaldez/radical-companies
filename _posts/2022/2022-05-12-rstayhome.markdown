@@ -19,7 +19,7 @@ image:    "icon-rmedia.svg"
      </tr>
      <tr>
       <th style='column-width:20px; col-width:30px; '>What for?</th>
-      <td>TBD</td>
+      <td>To give people who want to do this a way to make a living.</td>
      </tr>
      <tr>
       <td></td>
@@ -27,7 +27,7 @@ image:    "icon-rmedia.svg"
      </tr>
      <tr>
       <th>Why?</th>
-      <td>TBD</td>
+      <td>To make people more independent</td>
      </tr>
      <tr>
       <td></td>
@@ -44,12 +44,33 @@ image:    "icon-rmedia.svg"
  <p>Taking care of people at their home.</p>
 
 <h1>Origin Story</h1>
- <p>TBD</p>
+ <p>Peope who take care of kids or the elderly do not have a model to start from. Usually,they are anchored to the job. The idea is to have an ensemble of these businesses to woek together</p>
 
-<h1>How It Works</h1>
- <p>TBD</p>
+<h1>Activities for Kids</h1>
+ <p>Activities include,</p>
+  <ul>
+   <li>Preparing food</li>
+   <li>Feeding the kids</li>
+   <li>Learning activities and playing</li>
+   <li>Free playing</li>
+  </ul>
 
-<h1>What's in It for &hellip;?</h1>
- <p>TBD</p>
+<h1>Activities for the Elderly</h1>
+ <p>Include,</p>
+  <ul>
+   <li>Help with medications</li>
+   <li>Help with higiene</li>
+   <li>Help moving</li>
+   <li>Company</li>
+  </ul>
+
+<h1>Benefits for the Caretaker</h1>
+ <p>The main benefit is that there are other companies in the ensemble that can help. For example,
+  <ul>
+   <li>They can provide help with days off.</li>
+   <li>They can provide help wit extenbded vacations</li>
+   <li>They can bring in special games they have found effective for learning</li>
+   <li>They can cook special meals that kids like</li>
+  </ul> 
 
 {% include related.html %}
