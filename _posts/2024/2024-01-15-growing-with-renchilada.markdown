@@ -47,7 +47,7 @@ image:    "icon-renchilada.svg"
 
 <h1>But…</h1>
  <div class="_citation">But &hellip; somebody must be doing it already!</div>
- <p>That my first reaction. I even looked around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there is beaurocracy, but there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job. They have to make their financial quotas, and that is the thing that what&rsquo;s measured.</p>
+ <p>That my first reaction. I even looked around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies there may be bureaucracy, but there is no process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job. They have to make their financial quotas, and that is the thing that what&rsquo;s measured.</p>
 
 <h1>Alignment</h1>
  <p>rEnchilada&rsquo;s Explicit Alignment is as follows,</p>
