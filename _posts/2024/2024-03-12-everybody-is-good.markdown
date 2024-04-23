@@ -28,7 +28,7 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
 <h1>All of Us</h1>
  <p>We start with intentions that benefit our communities, but the Fiat system eventually warp our intentions which is to contribute to those around us. Oftentimes is just a childish intent, &ldquo;<em>That tastes so good, we should eat it at breakfast, lunch, and dinner.</em>&rdquo;</p>
  <p>Breakfast, lunch, and dinner are good, the childish intentions are good, but like many good things that have come out of the Fiat system, but not of benefit to the community.</p>
- <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand to her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth and your stomach hurt.&ldquo;<em></p>
+ <p>&ldquo;<em>Sugar is so good that we should have it all the time</em>&rdquo; is childish because it comes from the limited context of the child. This is a chance for the child expand to her horizons. &ldquo;<em>You like sugar? I like sugary things too! But, y&rsquo;know, eating sugary things all the time will make your teeth rot and your stomach hurt.&ldquo;</em></p>
  <p>Childish as it may be, it is a contribution.</p>
 
 <h1 class="_section">ENDNOTES</h1>
