@@ -3,7 +3,7 @@ layout:   post
 title:    "Organizing Radical Companies"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-organizing-radical-comapanies.svg"
+image:    "icon-organizing-radical-companies.svg"
 ---
 
 <div style='display:none; '>
