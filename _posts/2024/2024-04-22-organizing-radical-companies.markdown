@@ -24,8 +24,7 @@ image:    "icon-organizing-radical-companies.svg"
   <p>A small business does mot start wth a lot of money, but it would be helped with a loan. Let's try an example,</p>
    <ul>
     <li>The samll business needs a web site and the help of a lawyer</li>
-    <li>The web site normally costs $1,000</li>
-    <li>At cost it costs %750 and $250 is the &ldquo;<em>profit</em>&rdquo;</li>
+    <li>The web site normally costs $1,000: %750 f9r the website and $250 in &ldquo;<em>profit</em>&rdquo;</li>
     <li>The cost is paid immediately, the $250 becomes a loan.</li>
     <li>The lawyeer has to set things up legally and for that his costs is $750, but his &ldquo;<em>profit</em>&rdquo;r is $1,000</li>
     <li>The $500 is paid immediately, the $1,000 beomes a loan</li>
