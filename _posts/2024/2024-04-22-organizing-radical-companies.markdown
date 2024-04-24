@@ -19,6 +19,23 @@ image:    "icon-organizing-radical-companies.svg"
   </ul>
  <p>The new idea, suggested by Jose, is to make them franchises, but not Fiat Franchises. The Radical franchise would have no capital owners, instead the franchisor and the franchisees will be the same, and will be co-owners.</p>
 
+ <h1>How It Starts</h1>
+  <p>It all starts with loans.</p>
+  <p>A small business does mot start wth a lot of money, but it would be helped with a loan. Let's try an example,</p>
+   <ul>
+    <li>The samll business needs a web site and the help of a lawyer4</li>
+    <li>The web site normally costs $1,000</li>
+    <li>At cost it costs %750 and $250 is the &ldquo;<em>profit</em>&rdquo;</li>
+    <li>The cost is paid immediately, the $250 becomes a loan.</li>
+    <li>The lawyeer has to set things up legally and for that his costs is $750, but his &ldquo;<em>profit</em>&rdquo;r is $1,000</li>
+    <li>The $500 is paid immediately, the $1,000 beomes a loan</li>
+    <li>The new franchisee pays $200 every month into the loan fund</li>
+    <li>The $200 get distributed according to the terms of the loan</li>
+    <li>Akternatively, the loan gets paid relative to what is owed</li>
+    <li>In this case, $50 (20%), would go to the web page maker and $150 (80%), would go to the lawyer</li>
+    <li>The loan may come directly from the new franchisee or from a fund created for that purpuse. This fund would be used also in case the small bussness fails financially and fainls to pay his loans</li>
+   </ul>
+
 <h1>The Franchise</h1>
 <ul>
  <li>The franchise itself will be an Ensemble of companies providing whatever services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, etc).</li>
