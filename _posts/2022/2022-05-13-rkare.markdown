@@ -50,7 +50,7 @@ image:    "icon-rmedia.svg"
 <h1>How It Works</h1>
  <ul>
   <li>Train as needed</li>
-  <li>Consult with co-owners of Ensemble</li>
+  <li>Consult with Ensemble co-owners</li>
  </ul>
 
 <h1>What's in It for the Babysitter?</h1>
@@ -60,6 +60,6 @@ image:    "icon-rmedia.svg"
  <p>Not having to hunt for somebody in the neiborhood and not having to risk it.</p>
 
 <h1>What's in It for the Baby?</h1>
- <p>A more nourishing environment managed by a wellptrained adult.</p>
+ <p>A more nourishing environment managed by a well trained adult.</p>
 
 {% include related.html %}
