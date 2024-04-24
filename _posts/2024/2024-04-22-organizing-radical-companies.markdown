@@ -11,7 +11,7 @@ image:    "icon-organizing-radical-companies.svg"
 </div>
 
 <h1>Motivation?</h1>
- <p>Once upon a time we described several imaginary Radical companies,</p>
+ <p>Once upon a time we imagined several Radical companies,</p>
   <ul>
    <li><a href="https://radicalcompanies.com/2022/05/12/rstayhome" target="_blank">rStayHome</a></li>
    <li><a href="https://radicalcompanies.com/2022/05/13/rkare" target="_blank">rKare</a></li>
