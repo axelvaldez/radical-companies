@@ -28,7 +28,7 @@ image:    "icon-rmedia.svg"
    <tr>
     <th>Why?</th>
      <td>To place these businesses into an Ensemble that can help.<br>
-         To give parents, particularly the ones working at a Fiat business, a safe way to have their child baby-sat.</td>
+         To give parents a safe way to have their child baby-sat.</td>
    </tr>
    <tr>
     <td></td>
