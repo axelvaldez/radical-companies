@@ -57,7 +57,7 @@ image:    "icon-rmedia.svg"
  <p>She is not on their own. She is part of an Ensemble that is there to support her.</p>
 
 <h1>What's in It for the Parents?</h1>
- <p>Not having to hunt for somebody in the neiborhood and noy hsbinh to risk it.</p>
+ <p>Not having to hunt for somebody in the neiborhood and not having to risk it.</p>
 
 <h1>What's in It for the Baby?</h1>
  <p>A more nourishing environment managed by a wellptrained adult.</p>
