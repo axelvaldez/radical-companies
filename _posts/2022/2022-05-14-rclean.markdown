@@ -43,7 +43,7 @@ image:    "icon-rmedia.svg"
 <h1>Intro</h1>
  <p>Help people,</p>
  <ul>
-  <li>To clean for living (<em>e.g.</em>, homes, offices).</li>
+  <li>Who clean for living (<em>e.g.</em>, homes, offices).</li>
   <li>Declutter and free up space.</li>
  </ul>
 
