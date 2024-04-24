@@ -17,7 +17,7 @@ image:    "icon-organizing-radical-companies.svg"
    <li><a href="https://radicalcompanies.com/2022/05/13/rkare" target="_blank">rKare</a></li>
    <li><a href="https://radicalcompanies.com/2022/05/14/rclean" target="_blank">rClean</a></li>
   </ul>
- <p>The new idea, comcoted by Jose, is to make them franchises. But not Fiat Franchises; the Radical franchise would have no single owner, instead the franchisor and the franchisees will be the same, and will be co-owners.</p>
+ <p>The new idea, suggested by Jose, is to make them franchises. But not Fiat Franchises; the Radical franchise would have no single owner, instead the franchisor and the franchisees will be the same, and will be co-owners.</p>
 
 <h1>The Franchise</h1>
 <ul>
