@@ -65,7 +65,7 @@ image:    "icon-rmedia.svg"
   </ul>
 
 <h1>Benefits for the Caretaker</h1>
- <p>The main benefit is that there are other companies in the ensemble that can help. For example, the ensemble can provide help with,
+ <p>The main benefit is that there are other companies in the Ensemble that can help. For example, the Ensemble can provide help with,
   <ul>
    <li>Help with days off.</li>
    <li>Help wit extenbded vacations</li>
