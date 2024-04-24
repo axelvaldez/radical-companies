@@ -23,7 +23,7 @@ image:    "icon-organizing-radical-companies.svg"
   <p>It all starts with loans.</p>
   <p>A small business does mot start wth a lot of money, but it would be helped with a loan. Let's try an example,</p>
    <ul>
-    <li>The samll business needs a web site and the help of a lawyer</li>
+    <li>The small business needs a web site and the help of a lawyer</li>
     <li>The web site normally costs $1,000: %750 for the website and $250 in profit</li>
     <li>The cost is paid immediately, the $250 becomes a loan.</li>
     <li>The lawyeer has to set things up legally and for that his costs is $750, but his profit is $1,000: the $500 is paid immediately, the $1,000 beomes a loan</li>
