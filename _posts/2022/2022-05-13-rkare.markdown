@@ -53,7 +53,7 @@ image:    "icon-rmedia.svg"
   <li>Consult with co-owners of Ensemble</li>
  </ul>
 
-<h1>What's in It for babysitter?</h1>
+<h1>What's in It for the babysitter?</h1>
  <p>She is not on their own. She is part of an Ensemble that is there to support her.</p>
 
 <h1>What's in It for the Parents?</h1>
