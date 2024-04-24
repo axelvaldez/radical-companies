@@ -49,10 +49,8 @@ image:    "icon-rmedia.svg"
 
 <h1>How It Works</h1>
  <ul>
-  <li>Train, if needed</li>
-  <li>Train, if needed</li>
-  <li>Train, if needed</li>
-  <li>Train, if needed</li>
+  <li>Train as needed</li>
+  <li>Consult with co-owners of Ensemble</li>
  </ul>
 
 <h1>What's in It for babysitter?</h1>
