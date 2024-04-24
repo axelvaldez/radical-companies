@@ -46,7 +46,7 @@ image:    "icon-rmedia.svg"
  </ul>
 
 <h1>Origin Story</h1>
- <p>Make them part of an Ensemble that can help themk with time off and new skills.</p>
+ <p>Make them part of an Ensemble that can help them with time off and new skills.</p>
 
 <h1>How It Works</h1>
  <p>TBD</p>
