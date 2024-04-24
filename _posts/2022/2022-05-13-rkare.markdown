@@ -60,6 +60,6 @@ image:    "icon-rmedia.svg"
  <p>Not having to hunt for somebody in the neiborhood and noy hsbinh to risk it.</p>
 
 <h1>What's in It for the baby?</h1>
- <p>A more nourishing envoronment.</p>
+ <p>A more nourishing environment managed by a wellptrained adult.</p>
 
 {% include related.html %}
