@@ -11,34 +11,32 @@ image:    "icon-rmedia.svg"
 </div>
 
 <h1>Explicit Alignment</h1>
- <div class='_center'>
-  <table class='_explicitalignment'>
-   <tr>
-    <td></td>
-    <th>Impact</th>
-   </tr>
-   <tr>
-    <th style='column-width:20px; col-width:30px; '>What for?</th>
-    <td>To give low skill people a way to have a better life and gain new skills.</td>
-   </tr>
-   <tr>
-    <td></td>
-    <th>Purpose</th>
-   </tr>
-   <tr>
-    <th>Why?</th>
-    <td>To give people access to wealth and a better live.</td>
-   </tr>
-   <tr>
-    <td></td>
-    <th>Mission</th>
-   </tr>
-   <tr>
-    <th>What<br>When?<br>How?</td>
-    <td>TBD</td>
-   </tr>
-  </table>
- </div>
+ <table class='_explicitalignment'>
+  <tr>
+   <td></td>
+   <th>Impact</th>
+  </tr>
+  <tr>
+   <th style='column-width:20px; col-width:30px; '>What for?</th>
+   <td>To give low skill people a way to have a better life and gain new skills.</td>
+  </tr>
+  <tr>
+   <td></td>
+   <th>Purpose</th>
+  </tr>
+  <tr>
+   <th>Why?</th>
+   <td>To give people access to wealth and a better live.</td>
+  </tr>
+  <tr>
+   <td></td>
+   <th>Mission</th>
+  </tr>
+  <tr>
+   <th>What<br>When?<br>How?</td>
+   <td>TBD</td>
+  </tr>
+ </table>
 
 <h1>Intro</h1>
  <p>Help people,</p>
