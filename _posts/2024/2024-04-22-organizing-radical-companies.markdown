@@ -24,7 +24,7 @@ image:    "icon-organizing-radical-companies.svg"
   <p>A small company does not start wth a lot of cash as capital. A loan would help,</p>
    <ul>
     <li>The small company needs a web site and the help of a lawyer</li>
-    <li>The web site normally costs $1,000, %750 for the website and $250 in profit: the $750 gets paid immediately, the $250 becomes a loan to the small company owners</li>
+    <li>The web site normally costs $1,000, %750 for the website and $250 in profit: the $750 gets paid immediately, the $250 becomes a loan to the small company owner</li>
     <li>The lawyeer has to set things up legally and for that his costs is $750, his profit is $1,000: the $500 is paid immediately, the $1,000 beomes a loan</li>
     <ll>The new franchisee pays $200 every month into the loan fund</li>
      <ul>
