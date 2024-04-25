@@ -20,8 +20,7 @@ image:    "icon-organizing-radical-companies.svg"
  <p>The new idea, suggested by Jose, is to make them franchises, but not Fiat Franchises. The Radical franchise would have no capital owners, instead the franchisor and the franchisees will be the same, and will be co-owners.</p>
 
  <h1>How It Starts</h1>
-  <p>It all starts with loans.</p>
-  <p>A small company does not start wth a lot of cash as capital. A loan would help,</p>
+  <p>It all starts with loans. A small company does not start wth a lot of cash as capital, a loan is needed.</p>
    <ul>
     <li>The small company needs a web site and the help of a lawyer</li>
     <li>The web site normally costs $1,000, %750 for the website and $250 in profit: the $750 gets paid immediately, the $250 becomes a loan to the small company owner</li>
