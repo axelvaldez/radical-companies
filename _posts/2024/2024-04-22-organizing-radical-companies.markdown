@@ -21,7 +21,8 @@ image:    "icon-organizing-radical-companies.svg"
 
  <h1>How It Starts</h1>
   <p>It all starts with loans.</p>
-  <p>A small business does mot start wth a lot of money, but it would be helped with a loan. Let's try an example,</p>
+  <p>A small business does not start wth a lot of cash as capital. It would be helped with a loan.</p>
+  <p>Let&rsquo;s try an example,</p>
    <ul>
     <li>The small business needs a web site and the help of a lawyer</li>
     <li>The web site normally costs $1,000: %750 for the website and $250 in profit</li>
