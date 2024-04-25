@@ -20,7 +20,7 @@ image:    "icon-organizing-radical-companies.svg"
  <p>The new idea, suggested by Jose, is to make them franchises, but not Fiat Franchises. The Radical franchise would have no capital owners, instead the franchisor and the franchisees will be the same, and will be co-owners.</p>
 
 <h1>The Franchise</h1>
- <p>The franchise itself will be an Ensemble of companies providing services the franchisees require (e.g., purchasing, recycling, accounting, legal, etc).</p>
+ <p>The franchise itself will be an Ensemble of companies providing services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</p>
 
 <h1>How It Starts</h1>
  <p>It all starts with loans. A small company does not start wth a lot of cash as capital, a loan is needed.</p>
