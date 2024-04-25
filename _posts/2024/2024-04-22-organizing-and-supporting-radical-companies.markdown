@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Organizing Radical Companies"
+title:    "Organizin and Supporting Radical Companies"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-organizing-radical-companies.svg"
