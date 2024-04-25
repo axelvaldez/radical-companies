@@ -41,8 +41,8 @@ image:    "icon-organizing-radical-companies.svg"
    <li>Would be used in case the small bussiness fails to pay his loans</li>
    <li>May be created by the service providers, by a grant, or by pledged RADs.</li>
    <li>The franchise itself will be an Ensemble of companies providing services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</li>
-   <li>The fund itself could be a percentage of revenue (<em>i.e.</em>, it applies to everybody in the company).</li>
-   <li>The most likely scenario is a Banner fund (<em>i.e.</em>, it applies to people who commit the yield of their pledged RADs).</li>
+   <li>The fund itself could be a percentage of revenue, that means that it applies to everybody in the company.</li>
+   <li>The most likely scenario is a Banner fund, it applies individually to people who commit the yield of their pledged RADs.</li>
    <li>If a frachisee company is not generating enough of a fund, it may switched to a to default terms.</li>
   </ul>
 
