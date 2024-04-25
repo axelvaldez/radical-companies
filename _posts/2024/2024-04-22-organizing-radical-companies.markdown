@@ -28,15 +28,15 @@ image:    "icon-organizing-radical-companies.svg"
     <li>The lawyer has to set things up legally and for that his costs is $750, his profit is $750: the $750 is paid immediately, the other $750 becomes a loan</li>
    </ul> 
   <p>The new franchisee pays $200 every month into the loan fund</p>
-     <ul>
-      <li>The $200 get distributed according to the terms of the loan</li>
-      <li>Alternatively, the loan gets paid relative to what is owed: $40 (20%) would go to the web page maker and $160 (80%) would go to the lawyer</li>
-     </ul>
-    <li>A fund would be used in case the small bussiness fails to pay his loans</li>
-    <li>The loan fund may be created by the service providers, by a grant, or by pledged RADs</li>
-   </ul>
-
-    <!-- <li>The loan may come directly from the service provider or from a fund created for that purpuse.</li> -->
+   <ul>
+     <li>The $200 get distributed according to the terms of the loan</li>
+     <li>Alternatively, the loan gets paid relative to what is owed: $40 (20%) would go to the web page maker and $160 (80%) would go to the lawyer</li>
+    </ul>
+  <p>The loan fund,</p>  
+    <ul>
+     <li>Would be used in case the small bussiness fails to pay his loans</li>
+     <li>The loan fund may be created by the service providers, by a grant, or by pledged RADs</li>
+    </ul>
 
 <h1>The Franchise</h1>
  <ul>
