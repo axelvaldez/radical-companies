@@ -32,10 +32,11 @@ image:    "icon-organizing-radical-companies.svg"
       <li>Alternatively, the loan gets paid relative to what is owed: $40 (20%) would go to the web page maker and $160 (80%) would go to the lawyer</li>
      </ul>
     </li>
-    <!-- <li>The loan may come directly from the service provider or from a fund created for that purpuse.</li> -->
     <ll>A fund would be used in case the small bussiness fails to pay his loans</li>
     <li>The loan fund may be created by the service providers, by a grant, or by pledged RADs</li>
    </ul>
+
+    <!-- <li>The loan may come directly from the service provider or from a fund created for that purpuse.</li> -->
 
 <h1>The Franchise</h1>
  <ul>
