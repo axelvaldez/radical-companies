@@ -35,11 +35,11 @@ image:    "icon-organizing-radical-companies.svg"
    </ul>
 
 <h1>The Franchise</h1>
-<ul>
- <li>The franchise itself will be an Ensemble of companies providing services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</li>
- <li>These services could have a transparent pricing or a paid for by a fund that would be distributed according to RADs.</li>
- <li>The fund itself would be a percentage of revenue (<em>i.e.</em>, it applies to everybody) or a Banner fund (<em>i.e.</em>, it applies to people who commit the yield of their pledged RADs).</li>
- <li>If a frachisee company is not generating enough of a fund, it may swtiched to a fund that the franchisees have to fund.</li>
-</ul>
+ <ul>
+  <li>The franchise itself will be an Ensemble of companies providing services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</li>
+  <li>These services could have a transparent pricing or a paid for by a fund that would be distributed according to RADs.</li>
+  <li>The fund itself would be a percentage of revenue (<em>i.e.</em>, it applies to everybody) or a Banner fund (<em>i.e.</em>, it applies to people who commit the yield of their pledged RADs).</li>
+  <li>If a frachisee company is not generating enough of a fund, it may swtiched to a fund that the franchisees have to fund.</li>
+ </ul>
 
 {% include related.html %}
