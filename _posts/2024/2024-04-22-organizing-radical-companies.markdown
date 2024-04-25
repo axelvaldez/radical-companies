@@ -32,7 +32,7 @@ image:    "icon-organizing-radical-companies.svg"
  <p>The new franchisee pays $200 every month into the loan fund,</p>
   <ul>
    <li>The $200 could get distributed according to the terms of the loan</li>
-   <li>Alternatively, the loans gets paid relative to what is owed: 20% ($40) would go to the web page maker and 80% ($160) would go to the lawyer</li>
+   <li>Most likely the loan will get paid relative to what is owed: 20% ($40) would go to the web page maker and 80% ($160) would go to the lawyer</li>
    <li>A new loan could be folded into the loan fund or a new fund could be created.</li>
   </ul>
 
