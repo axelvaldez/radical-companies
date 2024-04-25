@@ -41,7 +41,7 @@ image:    "icon-organizing-radical-companies.svg"
  <ul>
   <li>The franchise itself will be an Ensemble of companies providing services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</li>
   <li>The fund itself would be a percentage of revenue (<em>i.e.</em>, it applies to everybody), The most likely scenario is a Banner fund (<em>i.e.</em>, it applies to people who commit the yield of their pledged RADs).</li>
-  <li>If a frachisee company is not generating enough of a fund, it may switched to a fund that the franchisees have to fund.</li>
+  <li>If a frachisee company is not generating enough of a fund, it may switched to a to default terms.</li>
  </ul>
 
 {% include related.html %}
