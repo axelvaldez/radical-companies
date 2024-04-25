@@ -33,10 +33,10 @@ image:    "icon-organizing-radical-companies.svg"
     <li>Alternatively, the loans gets paid relative to what is owed: $20 ($40) would go to the web page maker and 80% ($160) would go to the lawyer</li>
    </ul>
   <p>The loan fund,</p>  
-    <ul>
-     <li>Would be used in case the small bussiness fails to pay his loans</li>
-     <li>May be created by the service providers, by a grant, or by pledged RADs</li>
-    </ul>
+   <ul>
+    <li>Would be used in case the small bussiness fails to pay his loans</li>
+    <li>May be created by the service providers, by a grant, or by pledged RADs</li>
+   </ul>
 
 <h1>The Franchise</h1>
  <ul>
