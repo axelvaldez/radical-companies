@@ -21,8 +21,7 @@ image:    "icon-organizing-radical-companies.svg"
 
  <h1>How It Starts</h1>
   <p>It all starts with loans.</p>
-  <p>A small company does not start wth a lot of cash as capital. It would be helped with a loan.</p>
-  <p>Let&rsquo;s try an example,</p>
+  <p>A small company does not start wth a lot of cash as capital. A koan would help,</p>
    <ul>
     <li>The small company needs a web site and the help of a lawyer</li>
     <li>The web site normally costs $1,000: %750 for the website and $250 in profit: the $750 getsz paid immediately, the $250 becomes a loan to the small company owners</li>
