@@ -28,7 +28,9 @@ image:    "icon-organizing-radical-companies.svg"
    <li>The small company needs a web site and the help of a lawyer</li>
    <li>The web site normally costs $1,000, %750 for the website and $250 in profit: the $750 gets paid immediately, the $250 becomes a loan to the small company owner</li>
    <li>The lawyer has to set things up legally and for that his costs is $750, his profit is $750: the $750 is paid immediately, the other $750 becomes a loan.</li>
-  </ul> 
+  </ul>
+
+<h1>Loan Payments</h1>
  <p>The new franchisee pays $200 every month into the loan fund,</p>
   <ul>
    <li>The $200 could get distributed according to the terms of the loan</li>
