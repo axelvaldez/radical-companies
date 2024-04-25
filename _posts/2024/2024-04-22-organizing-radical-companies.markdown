@@ -35,7 +35,7 @@ image:    "icon-organizing-radical-companies.svg"
   <p>The loan fund,</p>  
     <ul>
      <li>Would be used in case the small bussiness fails to pay his loans</li>
-     <li>The loan fund may be created by the service providers, by a grant, or by pledged RADs</li>
+     <li>May be created by the service providers, by a grant, or by pledged RADs</li>
     </ul>
 
 <h1>The Franchise</h1>
