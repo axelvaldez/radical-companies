@@ -51,7 +51,8 @@ image:    "icon-radical-in-detail.svg"
 
 <h1 class='_section'>Rules, Laws, and Force</h1>
  <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
- <h2>Force</h2>
+
+ <h1>Force</h1>
   <p>Picture this,</p>
    <ul>
     <li>You get a traffic ticket. A very minor form of force.</li>
@@ -80,7 +81,8 @@ image:    "icon-radical-in-detail.svg"
     <li>Homosexuals as abominations, pushed to the edge.</li>
     <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
    </ul>
- <h2>Most insidious of All</h2>
+  
+ <h1>Most insidious of All</h1>
   <p>We learn to expect that the fruit of our work should go to someone else,</p>
    <ul>
     <li>A god, an omnipotent being at the top</li>
@@ -119,22 +121,26 @@ image:    "icon-radical-in-detail.svg"
    <li>We are still struggling with the leftovers of colonization, domestic and foreign.</li>
    <li>We are on our way to heal the wounds, but it is a struggle as powerful people cling to the past.</li>
   </ul>
- <h2>Lording as Division Mechanism</h2>
+
+<h1>Lording as Division Mechanism</h1>
   <p>With men lording over half of the population, it was easier for a few men to lord over them. And they did. They could appeal to the stories and imagined history to support this convenient ideology that happened to support the making of kingdoms and empires.</p>
   <p>Judaism, Christianity, and Islam have an eternal, almighty, all powerful boss at the top. You would not dare to even think of yourself as equal to such power, you can only submit to it.</p>
+
 <h1>Radical</h1>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the Church.</p>
  <p>By the time they got to the Americas, Fernando de Aragon and Isabel de Castilla had developed a methodology to cleanse whatever other cultures they encountered—a tool to subjugate, control, and obliterate anything that stood in their way,</p>
  <p>In a Radical-based alternative to the Fiat system, there is no imposed hierarchy or divisions. If you believe in a supernatural world and supernatural beings, so be it, but the story of the omnipotent boss at the top doesn’t work for people anymore; in fact, that particular belief works against our survival as a species.</p>
  <p>The alternative is not chaos, but it is certainly different.</p>
- <h2>Community</h2>
+
+<h1>Community</h1>
   <ul>
    <li>I trust my decentralized and fully transparent community.</li>
    <li>What is going to keep my community growing is what’s good for us.</li>
    <li>People in my community listen to me. They help make my ideas easier to understand. They help me find meaning.</li>
    <li>And if that is not the case, I leave.</li>
   </ul>
- <h2>Alignment</h2>
+
+<h1>Alignment</h1>
   <p>But the Foundation is not enough, it needs an Explicit Alignment,</p>
    <ul>
     <li>To hold us together a community must define the &ldquo;what for,&rdquo; the Impact it wants to have on the world.</li>
@@ -147,7 +153,8 @@ image:    "icon-radical-in-detail.svg"
     <li>If the &ldquo;what for,&rdquo; the Impact, is not your thing, then you don&rsquo;t join the community. In theory it could be changed, but in practice it would make it a different community. It would be like transforming a hardware company into a software company. Sun Microsystems failed to continue as an independent business because it is very, very difficult.</li>
     <li>If the &ldquo;why,&rdquo; the Purpose, doesn&rsquo;t work for you it is somewhat easier to change. Not a walk in the park, but easier to change. And if that doesn’t work, you don&rsquo;t join the community.</li>
     <li>The &ldquo;what, when,&rdquo; and &ldquo;how,&ldquo; the Mission, changes all the time. People may be pursuing different Missions in parallel and you may join one of them. Or you may create your own with the support of the community.</li> 
- <h2>No Divisions</h2>
+ 
+<h1>No Divisions</h1>
   <p>All members are co-owners of the result of the community’s work. If their goal is to build products or services it would be called a company,</p.>
    <ul>
     <li>We are used to having businesses around. Their one and only goal is to create wealth for the owner. It may start with different ideals, but in the end it has got to make wealth for the owner. You get paid whatever the boss feels is reasonable.</li>
@@ -166,29 +173,35 @@ image:    "icon-radical-in-detail.svg"
 <h1>Radical</h1>
  <p>This is probably the most shocking thing about Radical alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain’t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
- <h2>The Calculations</h2>
+
+<h1>The Calculations<h1>
   <ul>
    <li>RADs make contributions tangible.</li>
    <li>You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</li>
    <li>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</li>
   </ul>
- <h2>But&hellip;</h2>
+
+<h1>But&hellip;</h1>
    <p>At this point you may be coming up with objections, Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs</span> and you give me all of yours. And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. Co-owners can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.</p>
    <p>Another objection might be that people won&rsquo;t want to take the time to recognize contributions. They may do it at first, but then they will stop. Again, the data is there for all to see and if all co-owners stop recognizing contributions, then they won&rsquo;t get any more co-ownership, including the take of the revenue. They may slow down until they see the result and then, I hope, they will go back to doing it. If not, the company will fall apart. On the way to a non-Fiat alternative things won’t go perfect or smoothly. There will be plenty of bumps along the way. The &ldquo;fix,&rdquo; in my opinion, is not to elect a boss to tell us what to do; the fix is to deal with what you consider a problem—you are all co-owners.</p>
    <p>An objection that I heard more than once is that other people are &ldquo;coin operated.&rdquo; They do not want to do anything for a community or society. &ldquo;Homo Economicus&rdquo; is one of those convenient stories that popped up to support the Fiat system. People are not coin operated, but people have to survive and will go to kinds of lengths to do it. The thing to observe is that survival, though necessary, is not living.</p>
- <h2>Capital</h2>
+
+<h1>Capital</h1>
   <p>Capital does have a place in a non-Fiat company, but it doesn’t acquire power. A Radical Investment is more like an investment in that it carries the risk of non-payment and it is a loan in that the return is negotiated.</p>
   <p>Usually that capital goes to pay for,</p>
    <ul>
     <li>Things needed by the company.</li>
     <li>To fund a Predictable Recurring Income (PRI) fund.</li>
    </ul>
- <h2>The PRI</h2>
+
+<h1>The PRI</h1>
   <p>The PRI is used to pay co-owners a predictable, recurring income (like a salary) when there is little or no revenue. The PRI is paid back by the revenue each co-owner gets given their RADs. Until it is paid in full, what a co-owner takes out of the PRI fund is a personal debt. Once the PRI fund is paid, the upside (dividends) that would normally go to the owners and investors goes to the co-owners according to their RADs.</p>
- <h2>But&hellip;</h2>
+
+<h1>But&hellip;</h1>
   <p>But what about investing in the future? Owners don’t put all the profits in their pocket, they invest it!</p>
   <p>Indeed many do, and co-owners can do the same. I make a distinction between profits and dividends, and the latter is what is left after paying all expenses, including any investments. For example, if the co-owners want to buy a $5M building, they would put up a Banner to accumulate that amount. They could decide to commit enough into the Banner to build up to $5M in three years. That amount is not to be included in the dividends.</p>
- <h2>Banners</h2>
+
+<h1>Banners</h1>
   <p>Banners represent non-people things like projects and investments. With the RADs! Mobile App you can, at minimum, create a Banner, change your contribution to it, see who is contributing, and the beneficiaries.</p>
   <p>For the case where all co-owners agree, the Banner could look like this,</p>
    <div class='_center'>
@@ -336,10 +349,13 @@ image:    "icon-radical-in-detail.svg"
  <p>The RADs! Mobile App is fundamental is because it is likely to be the sharp end of the <span class='_paradigm'>Radical</span> spear,</p>
 
 <h1>But Why RADs?</h1>
- <h2>People Need to Learn How to Be Owners</h2>
+
+
+<h1>People Need to Learn How to Be Owners</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever in most of the world. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
   <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
- <h2>People Need to Learn to Notice and Recognize Contributions</h2>
+
+<h1>People Need to Learn to Notice and Recognize Contributions</h1>
   <p>Recognizing contributions is not as simple as it sounds. The usual &ldquo;contribution&rdquo; is work-related. The number of code check ins or the number of bags of concrete you brought in from the truck. All work-related. But talking to somebody who is down and lifting up her spirits is a major contribution.</p>
    <div class='_citation'>
     <p>R, the cleaning woman, went by picking up the stuff people had left behind on their desks the day before. There were only a handful of people in the office at the time, including a young woman who looked really down.</p>
@@ -354,7 +370,8 @@ image:    "icon-radical-in-detail.svg"
    </ul>
   <p>It was definitely a <em>major contribution</em> to the young woman and our community. If we had the <em>RADs! Mobile App</em> back then, I would have pressed the recognition button many times. Or perhaps not. That is why practice is necessary.</p>
   <p>If I were in the grip of my <span class='_paradigm'>Fiat</span> cage I might have thought, &ldquo;<em>that was fantastic, but no, it doesn&rsquo;t equate to the amount of code I checked in yesterday</em>.&rdquo; In order to recognize all forms of contributions, we have to train ourselves out of the <span class='_paradigm'>Fiat</span> cage and the <em>RADs! Mobile App</em> is the equipment for it.</p>
- <h2>People Need to Learn to Give Pieces of the Company to Their Peers</h2>
+
+<h1>People Need to Learn to Give Pieces of the Company to Their Peers</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big, big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
   <p>In a company based on the <span class='_paradigm'>Radical</span> foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of <span class='_paradigm'>Fiat</span>, have to learn to be leaders of <span class='_paradigm'>Radical</span>-base alternatives.</p>
 <h1><em>The RAD! Mobile App</em></h1>
