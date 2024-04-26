@@ -21,6 +21,7 @@ image:    "icon-collaboration-takes-practice.svg"
    <p class="_list-item">
     &lt;<a href="https://neurosciencenews.com/happiness-practice-25736/" target="_blank">https://neurosciencenews.com/happiness-practice-25736/</a>>&gt;
     <a class="_uparrow" href="#bm01"><img src="Neuroscience News.com">
+   </p>
   </li>
  </ul>
 
