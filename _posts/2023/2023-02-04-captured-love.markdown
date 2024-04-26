@@ -22,7 +22,7 @@ image:    "icon-captured-love.svg"
 <h1>Dissimilarity</h1>
  <p>Our ability to detect dissimilarity was the lever and all we had to do was find the rock to leverage it on. Once you are ready to distrust and fear the people on the other side of the line, <em>them people</em>, anything serves. Well dressed people, riding horses, wielding weapons were obviously on one side and the raggedy, bare foot, weaponless mob were on the other.</p>
  <p>This ability to make up stories about the dissimilar, older than this age, were the rock that we could leverage on. <em>This</em> was a very powerful innovation, heart-felt on both sides of the line.</p>
- <p>Worse, we can&rsquo;t fight it. The <em>dissimilarity line</em> story has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
+ <p>Worse, we cannot fight it. The <em>dissimilarity line</em> story has been in our minds for a long time and we would exhaust ourselves trying to fight it.</p>
 
 <h1>Co-Ownership</h1>
  <p>The dissimilarity line is a story for division and exploitation. Co-ownership is our story for going forward.</p>
