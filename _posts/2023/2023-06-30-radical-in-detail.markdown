@@ -348,8 +348,7 @@ image:    "icon-radical-in-detail.svg"
    </div>
  <p>The RADs! Mobile App is fundamental is because it is likely to be the sharp end of the <span class='_paradigm'>Radical</span> spear,</p>
 
-<h1>But Why RADs?</h1>
-
+<h1 class='_section'>But Why RADs?</h1>
 <h1>People Need to Learn How to Be Owners</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever in most of the world. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
   <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
