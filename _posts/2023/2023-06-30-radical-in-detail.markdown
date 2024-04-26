@@ -382,7 +382,7 @@ image:    "icon-radical-in-detail.svg"
 <h1>People Need to Learn to Give Pieces of the Company to Their Peers</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big, big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
   <p>In a company based on the <span class='_paradigm'>Radical</span> foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of <span class='_paradigm'>Fiat</span>, have to learn to be leaders of <span class='_paradigm'>Radical</span>-base alternatives.</p>
-<h1><em>The RAD! Mobile App</em></h1>
+<h1>The <em>RAD!</em> Mobile App</h1>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative.</p>
 
 <h1 class='_section'>Co-Ownership</h1>
