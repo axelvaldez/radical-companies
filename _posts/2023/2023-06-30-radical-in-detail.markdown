@@ -446,3 +446,4 @@ image:    "icon-radical-in-detail.svg"
  <p>It. Will. Not. Be. Easy.</p>
  <p>Change seldom is. The journey towards Radical co-ownership will be fraught with obstacles, resistance, and moments of doubt. But remember this: every seismic shift in human history began with a daring vision and the courage to challenge the status quo. Let us choose a path that leads us towards abundance, well-being, and co-ownership. Let us choose a path where force and fear no longer hold dominion. Let us choose a path that enables us not just to survive but to truly live.</p>
 
+{% include related.html %}
