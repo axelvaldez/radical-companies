@@ -23,23 +23,26 @@ image:    "icon-radical-in-detail.svg"
  <p>We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
  <p>Join our community of like-minded people, collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world where relationships are driven by contributions, not capital. We aim to leave an indelible mark on the world.</p>
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
- <h2>What the Fiat System Does</h2>
- <p>If you are feeling overwhelmed by work, it is not a matter of working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence, acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call <strong>Fiat</strong>, the system designed to create more wealth for the owners and capital investors of the business you work for.</p>
+
+<h1>What the Fiat System Does</h1>
+ <p>If you are feeling overwhelmed by work, you do not fix it by working harder. That is what your boss tells you, and even your well-meaning co-workers. That is what every business book says, to search for excellence, acquire new habits to move up, and do more with less effort. But it is not you, it is the system that we call <strong>Fiat</strong>, the system designed to create more wealth for the capital investors of the business you work for.</p>
  <p>A system that we created, and we can create an alternative system, an alternative way of living.</p>
  <p>&ldquo;Fixing&rdquo; the Fiat system would be never-ending because the system is too easy to game, particularly by powerful people. The Fiat system adapts to fixes very fast.</p>
  <p>Beware that alternatives to Fiat are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.
-   <div class='_center'>
-    <div class='_citation'>
-     <p style="text-alignment:center;">Creativity takes courage.</p>
-     <p id='_signature'>Henri Matisse</p>
-    </div>
+  </iv class='_center'>
+   <div class='_citation'>
+    <p style="text-alignment:center;">Creativity takes courage.</p>
+    <p id='_signature'>Henri Matisse</p>
    </div>
+  </div>
  <p>If you are <strong><em>not</em></strong> open to this and are just being nice (<span class='_quotespan'>Sounds interesting&hellip; say more about it</span>), you can return the book now. Sorry for any inconvenience.</p>
- <h2>What Does Fiat Even Mean?</h2>
+
+ <h1>What Does Fiat Even Mean?</h1>
   <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct, it is not right at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one. <span>I am hoping for an attaboy and maybe a reward</span>. I will get a chance to rest when I get back</span>. But the pile of work is bigger when you get back.</p>
   <p>Maybe you are fully aware of this or maybe you think that this is your destiny. But it is not &ldquo;your destiny.&rdquo; It is not even living. It is the way the <span class='_paradigm'>Fiat</span> system limits us, what it wants us to think.</p>
   <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
- <h2>Fiat, the Word</h2>
+
+ <h1>Fiat, the Word</h1>
   <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
   <p>But what does the word Fiat mean?</p>
   <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).</p>
