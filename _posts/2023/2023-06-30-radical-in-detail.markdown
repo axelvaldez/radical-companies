@@ -175,13 +175,13 @@ image:    "icon-radical-in-detail.svg"
  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
 
 <h1>The Calculations<h1>
- <ul>
+ <ol>
   <li>RADs make contributions tangible.</li>
   <li>You get a RAD every day, to give, not to keep.</li>
   <li>RADs are distributed based on what you recognize as contributions,</li>
   <li>A s you give those RADs away, you are giving other people ownership in the company.</li>
   <li>No boss needed.</li>
- </ul>
+ </Oul>
 
 <h1>But&hellip;</h1>
    <p>At this point you may be coming up with objections, Yeah, but it can be easily gamed: I&rsquo;ll give you all my <span class='_paradigm'>RADs</span> and you give me all of yours. And yes, it could, but only if the other co-owners do not say anything. Because of Transparency, they can see all the transactions and it is up to the co-owners to say or do something. Co-owners can have a conversation with people who seem to be trying to game the process. If they do not change their behavior, co-owners can decide to not recognize any of their contributions because they are doing something that makes co-ownership a joke.</p>
