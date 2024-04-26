@@ -37,12 +37,12 @@ image:    "icon-radical-in-detail.svg"
   </div>
  <p>If you are <strong><em>not</em></strong> open to this and are just being nice (<span class='_quotespan'>Sounds interesting&hellip; say more about it</span>), you can return the book now. Sorry for any inconvenience.</p>
 
- <h1>What Does Fiat Even Mean?</h1>
+<h1>What Does Fiat Even Mean?</h1>
   <p>You may not even know what the heck <span class='_paradigm'>Fiat</span> means, but you know that something is not quite right. And, you are correct, it is not right at all. Perhaps you are spending too much time at work. Or you are always ready to travel to a last-minute destination. Or maybe you have to do what would be three days&rsquo; worth of work in two, or one. <span>I am hoping for an attaboy and maybe a reward</span>. I will get a chance to rest when I get back</span>. But the pile of work is bigger when you get back.</p>
   <p>Maybe you are fully aware of this or maybe you think that this is your destiny. But it is not &ldquo;your destiny.&rdquo; It is not even living. It is the way the <span class='_paradigm'>Fiat</span> system limits us, what it wants us to think.</p>
   <p>We want to help you see <span class='_paradigm'>Fiat</span> and how it is causing you the way you feel.</p>
 
- <h1>Fiat, the Word</h1>
+<h1>Fiat, the Word</h1>
   <p><span class='_quotespan'>But <span class='_paradigm'>Fiat</span> it&rsquo;s a car.</span> And, indeed, FIAT as an acronym is the name of an Italian automobile car manufacturer that stands for <em>Fabbrica Italiana Automobili Torino</em>. Thus the acronym.</p>
   <p>But what does the word Fiat mean?</p>
   <p><span class='_paradigm'>Fiat</span> is an honest-to-goodness word that means <span class='_quotespan'>because I say so.</span> <span class='_paradigm'>Fiat</span> money, for example, is worth what each nation says it is (plus or minus what investors will pay for it). Money used to be an equivalent to gold, but that stopped in the 1970s. Now it is because the country says so (and nominally its economy).</p>
@@ -52,7 +52,7 @@ image:    "icon-radical-in-detail.svg"
 <h1 class='_section'>Rules, Laws, and Force</h1>
  <p>Imagine a world where rules, initially upheld through conventions, eventually morph into cold, heartless <span class='_paradigm'>Fiat</span> laws that leave us no choice but to comply. <span class='_paradigm'>Fiat</span> is a relentless force, bearing down on us with an iron grip.</p>
 
- <h1>Force</h1>
+<h1>Force</h1>
   <p>Picture this,</p>
    <ul>
     <li>You get a traffic ticket. A very minor form of force.</li>
@@ -82,7 +82,7 @@ image:    "icon-radical-in-detail.svg"
     <li><span class='_quotespan'>Slaves, obey your earthly masters with respect and fear, and with sincerity of heart, just as you would obey Christ,</span> from the Judeo-Christian Old Testament</li>
    </ul>
   
- <h1>Most insidious of All</h1>
+<h1>Most insidious of All</h1>
   <p>We learn to expect that the fruit of our work should go to someone else,</p>
    <ul>
     <li>A god, an omnipotent being at the top</li>
@@ -95,6 +95,7 @@ image:    "icon-radical-in-detail.svg"
   <p>Organized religion has been part of the support system as well, but before we talk about that, we have to talk about divide-and-conquer.</p>
 
 <h1 class='_section'>Countries and Other Divisions</h1>
+
 <h1>Fiat</h1>
  <p>Countries are Fiat creations, straight out of kingdoms that had been cleansed by force.</p>
  <p>For example, before Fernando and Isabel sent their minions to conquer the Americas, they waged their own cleansing campaign on their portion of the Iberian peninsula. Basques, Astures, Galicians, Catalonians, al-Andalucians, and others were forced to act Catholic and speak Castilian (or else). The Inquisition stood as a merciless enforcer, ensuring obedience to the rules.</p>
@@ -166,7 +167,8 @@ image:    "icon-radical-in-detail.svg"
 <h1>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
 
-<h1 class='_section'>Capital and Contributions</h1>
+<h1 class='_section'>Capital and Contributions</h1>\
+
 <h1>Fiat</h1>
  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
  <p>For one, power is force-waiting-happen. So given their capital contribution, investors have power over the business. On the other hand, you have no ownership in the business and you are happy to get your salary, but that’s that. Owners have power over you.</p>
@@ -273,6 +275,7 @@ image:    "icon-radical-in-detail.svg"
  <p>You may be leaning one way, but rethink it once you realize where it would take you. What you definitely will not be able to do is hide behind, “Oh, I didn’t know!”Radical doesn’t come with rules out of the box, but you and the community of people you work with can come up with any rules you want; without Force. You are all co-owners and none of you have the right to Force to others.</p>
 
 <h1 class='_section'>Competition and Collaboration</h1>
+
 <h1>Fiat</h1>
  <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practice our competitive skills.</p>
  <p>And, &ldquo;so?&rdquo; you ask, &ldquo;<em>what is wrong with that? We need to compete to survive</em>.&rdquo; But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
@@ -282,6 +285,7 @@ image:    "icon-radical-in-detail.svg"
  <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
 
 <h1 class='_section'>Scarcity and Abundance<h1>
+
 <h1>Fiat</h1>
  <p>Food scarcity ended centuries ago, as soon as agriculture started to mix in with hunting and gathering. But then, agriculture brought in land scarcity. At least, that&rsquo;s how the story goes.</p>
  <p>Actually, what agriculture brought about was land enclosures. An enclosure is when somebody takes, by force, over land that was previously communal and provided for all. After the enclosure, if you want to use the land, you have to render goods.</p>
@@ -294,6 +298,7 @@ image:    "icon-radical-in-detail.svg"
  <p>We must lead the way to such a future. It won&rsquo;t be easy and there will be many obstacles in the way. Many will come from inside us, children-of-<span class='_paradigm'>Fiat</span> that we are. Nevertheless, we need to make it happen.</p>
 
 <h1 class='_section'>Pain vs Wellbeing</h1>
+
 <h1>Fiat</h1>
  <p>The <span class='_paradigm'>Fiat</span> model is based on Pain and people have gotten used to avoiding pain and surviving.</p>
  <p>In the <span class='_paradigm'>Fiat</span> system a Threat is usually enough to get compliance. If not, Force and Pain will rear their ugly heads.</p>
@@ -313,6 +318,7 @@ image:    "icon-radical-in-detail.svg"
   </div>
 
 <h1 class='_section'>Transcendence<h1>
+
 <h1>Who Am I If Not a Manager?</h1>
  <div class='_citation'>
   <p>When we talk to people about going <span class='_paradigm'>Radical</span> at their company, many perceive an existential threat to managers. <span class='_quotespan'>If you are getting rid of my job type, then you are getting rid of me.</span></p>
@@ -335,8 +341,9 @@ image:    "icon-radical-in-detail.svg"
  </div>
 
 <h1 class='_section'>RADs<h1>
+
 <h1>Fiat</h1>
- <p>In a <span class='_paradigm'>Fiat</span> business, things are static. <span class='_paradigm'>You give me so much cash, and I&rsquo;ll give you a percentage of the company</em>.</span> That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
+ <p>In a <span class='_paradigm'>Fiat</span> business, things are static. <span class='_paradigm'>You give me so much cash, and I&rsquo;ll give you a percentage of the company</span>.</span> That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
 <h1>Radical</h1>
  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
 <h1>What Are RADs?</h1>
@@ -351,6 +358,7 @@ image:    "icon-radical-in-detail.svg"
  <p>The RADs! Mobile App is fundamental is because it is likely to be the sharp end of the <span class='_paradigm'>Radical</span> spear,</p>
 
 <h1 class='_section'>But Why RADs?</h1>
+
 <h1>People Need to Learn How to Be Owners</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, we are trained to look for a job. Preferably, a high status, high paying job. When we talk about being an owner&hellip; well, we don&rsquo;t talk about that. &ldquo;<em>Some people do that, but it is a lot of work and why would you want to work that hard for a bare living?</em>&rdquo; And if the business fails to make you &ldquo;<em>a bare living</em>,&rdquo; that mark&rsquo;s on you forever in most of the world. &ldquo;<em>Get a good job instead. I hear the Post Office is hiring!</em>&rdquo;</p>
   <p>People need to learn to be owners and all the fear that it brings up. They have to learn to recognize others&rsquo; contributions without being afraid of &ldquo;making them look good.&rdquo; People need to learn to collaborate, and get away from competing all the time. They have to be able to let others know what they are doing and why you think it is important to all co-owners, it ain&rsquo;t bragging if you&rsquo;ve done it. It is not a matter of learning to sell or any such, it is a matter of learning to be an owner.</p>
@@ -380,6 +388,7 @@ image:    "icon-radical-in-detail.svg"
 <h1 class='_section'>Co-Ownership</h1>
  <p>As opposed to centralized <span class='_paradigm'>Fiat</span> ownership, which is what we live with now, co-ownership is profoundly transformative. It evokes hope and possibility. This revolutionary concept marks the demise of oligarchic wealth and decentralized power. Gone are the days of toiling for a mere wage; instead, you will be rewarded based on the contributions you make as recognized by your peer. No longer will a traditional  <span class='_paradigm'>Fiat</span> owner hoard the wealth generated by your efforts. Instead, you will reap the wealth you helped create, enjoying an empowering and fulfilling experience.</p>
  <p>Co-ownership is the least understood thing about the <span class='_paradigm'>Radical</span> paradigm. It is not a co-op and it is not revenue sharing. It is powerfully different. We&rsquo;ll get into the details of it below.</p>
+
 <h1>RADs Instead of Shares</h1>
  <p>Before I go on, I need to explain what <span class='_paradigm'>RAD</span>s are.</p>
  <p>The name, RADs, is meaningless. It is the first name I could think of. But they are the key to decentralized ownership.</p>
