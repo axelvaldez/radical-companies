@@ -29,7 +29,7 @@ image:    "icon-radical-in-detail.svg"
  <p>A system that we created, and we can create an alternative system, an alternative way of living.</p>
  <p>&ldquo;Fixing&rdquo; the Fiat system would be never-ending because the system is too easy to game, particularly by powerful people. The Fiat system adapts to fixes very fast.</p>
  <p>Beware that alternatives to Fiat are fundamentally different and will feel alien, idealistic, and even crazy. It will take more courage than you can imagine.
-  </iv class='_center'>
+  <div class='_center'>
    <div class='_citation'>
     <p style="text-alignment:center;">Creativity takes courage.</p>
     <p id='_signature'>Henri Matisse</p>
