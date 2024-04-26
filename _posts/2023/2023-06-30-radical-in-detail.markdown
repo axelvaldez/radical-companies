@@ -14,7 +14,12 @@ image:    "icon-radical-in-detail.svg"
  <p>You are about to learn about an alternative way, where traditional boundaries crumble. Be ready for a journey that will challenge the status quo, spark your imagination, and leave an indelible mark on the world. Imagine a journey that encourages the audacity of dreaming of groundbreaking ideas, and invite you to be part of shaping the future.</p>
  <p>In the world of Radical it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking. Join us.</p>
  <p>Together, we will challenge the status quo and propel humanity towards new horizons. We will embrace calculated risks and harnessing the power of playfulness and innovation to paths untraveled.</p>
- <img "pic-innovation.svg">
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-innovation.svg.svg'
+    width='70%'
+    alt=''>
+  </div>
  <p>We redefine the very fabric of success. Together, we will embark on a journey of possibilities and drive change on an unprecedented scale.</p>
  <p>Join our community of like-minded people, collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world where relationships are driven by contributions, not capital. We aim to leave an indelible mark on the world.</p>
  <p>Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and transform ownership. Dare to challenge the boundaries.</p>
