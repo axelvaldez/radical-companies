@@ -176,9 +176,11 @@ image:    "icon-radical-in-detail.svg"
 
 <h1>The Calculations<h1>
  <ul>
-  <li>xRADs make contributions tangible.</li>
-  <li>You get a RAD every day to give, not to keep. RADs are distributed based on what you recognize as contributions,</li>
-  <li>As you give those RADs away, you are giving other people ownership in the company. No boss needed.</li>
+  <li>RADs make contributions tangible.</li>
+  <li>You get a RAD every day, to give, not to keep.</li>
+  <li>RADs are distributed based on what you recognize as contributions,</li>
+  <li>A s you give those RADs away, you are giving other people ownership in the company.</li>
+  <li>No boss needed.</li>
  </ul>
 
 <h1>But&hellip;</h1>
