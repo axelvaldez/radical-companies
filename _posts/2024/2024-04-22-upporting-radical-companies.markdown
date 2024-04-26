@@ -23,7 +23,7 @@ image:    "icon-supporting-radical-companies.svg"
  <p>The franchise itself will be an Ensemble of companies providing services the franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</p>
 
 <h1>How It Starts</h1>
- <p>It all starts with loans. A small company does not start wth a lot of cash as capital, a loan is needed.</p>
+ <p>It all starts with loans. But a small company does not start wth a lot of cash as capital, a loan is needed.</p>
   <ul>
    <li>The small company needs a web site and the help of a lawyer</li>
    <li>The web site normally costs $1,000, %750 for the website and $250 in profit: the $750 gets paid immediately by the new franchiseee, the $250 becomes a loan to the new franchisee</li>
