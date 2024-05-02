@@ -43,13 +43,4 @@ image:    "icon-supporting-radical-companies.svg"
    <li>A new loand may need a different account to represent different agreements.</li>
   </ul>
 
-<h1>The Loan account</h1>
-  <ul>
-   <li>Would be used in case the small bussiness fails to pay his loans.</li>
-   <li>May be created by the service providers, by a grant, or by pledged RADs.</li>
-   <li>The account itself could be a percentage of revenue, that means that it applies to everybody in the company.</li>
-   <li>The most likely scenario is a Banner account which applies individually to people who commit the yield of their pledged RADs. Thiansounds like the most Radical thing to do, but you will have to experiment.</li>
-   <li>If a frachisee company is not generating enough of a account, it may switched to a to default terms.</li>
-  </ul>
-
 {% include related.html %}
