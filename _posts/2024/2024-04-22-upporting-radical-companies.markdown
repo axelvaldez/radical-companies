@@ -29,14 +29,14 @@ image:    "icon-supporting-radical-companies.svg"
    <li>It may cost, for example, $1,000, $750 for the website and $250 in profit: the $750 gets paid immediately from the Radical Franchisee, the $250 becomes a loan</li>
    <li>The lawyer can set things up legally for $1,500 and for that his costs is $750, his profit is $750: the $750 is paid immediately, the other $750 becomes a loan.</li>
   </ul>
-  <p>The new franchisee may need a loan to cover the $1,500 that must be paid immediately.</p>
+  <p>The new Radical Franchisee may need a loan to cover the $1,500 that must be paid immediately.</p>
 
 <h1>The Account</h1>
  <p>The account embodies the agreement that has been worked out with each lender.</p>
  <p>More that one lender could be included in an account if the same terms apply. Alternatvely, a lender may require a differebt aggrement, with a different account.</p>
 
 <h1>Loan Payments</h1>
- <p>Let&rsquo;s assume that new franchisee can pay $200 every month into the loan account. These are terms that have been negotiat=ed with each lender,</p>
+ <p>Let&rsquo;s assume that new Radical Franchisee can pay $200 every month into the loan account. These are terms that have been negotiat=ed with each lender,</p>
   <ul>
    <li>Most likely the $200 will be distributed relative to what is owed: 20% ($40) would go to the web page maker and 80% ($160) would go to the lawyer. Other perxentages can be agreed to to change the length of the load. for example.</li>
    <li>A new loan could be folded into the loan account if it is willing to live with has been decided</li>
