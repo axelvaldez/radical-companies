@@ -32,7 +32,8 @@ image:    "icon-supporting-radical-companies.svg"
   <p>The new franchisee may need a loan to cover the $1,500 that must be paid immediately.</p>
 
 <h1>The Account</h1>
- <p>The account embodies the agreement that has been worked out with each lender. More that one lender could be included in the account if the same agreement applies. Alternatvely, a lender may require a differebt aggrement, in chich case a different account will be created.</p>
+ <p>The account embodies the agreement that has been worked out with each lender.</p>
+ <p>More that one lender could be included in an account if the same terms apply. Alternatvely, a lender may require a differebt aggrement, with a different account.</p>
 
 <h1>Loan Payments</h1>
  <p>Let&rsquo;s assume that new franchisee can pay $200 every month into the loan account. These are terms that have been negotiat=ed with each lender,</p>
