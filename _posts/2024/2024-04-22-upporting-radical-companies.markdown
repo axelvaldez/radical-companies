@@ -17,7 +17,7 @@ image:    "icon-supporting-radical-companies.svg"
    <li><a href="https://radicalcompanies.com/2022/05/13/rkare" target="_blank">rKare</a></li>
    <li><a href="https://radicalcompanies.com/2022/05/14/rclean" target="_blank">rClean</a></li>
   </ul>
- <p>The new idea, suggested by Jose, is to make them franchises, but not Fiat Franchises. The Radical Franchise would have no capital owners, instead the Radical Franchisor and the  Radical franchisees will be the same, co-owners of the Radical Franchise.</p>
+ <p>The new idea, suggested by Jose, is to make them franchises, but not Fiat Franchises. The Radical Franchise would have no capital owners, instead the Radical Franchisor and the  Radical franchisees will be the same as the others participants, co-owners of the Radical Franchise.</p>
 
 <h1>The Radical Franchise</h1>
  <p>The Radical Franchise itself will be an Ensemble of companies providing services the Radical Franchisees require (<em>e.g.</em>, purchasing, recycling, accounting, legal, etc).</p>
