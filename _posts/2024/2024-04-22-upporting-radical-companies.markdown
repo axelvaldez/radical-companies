@@ -26,8 +26,8 @@ image:    "icon-supporting-radical-companies.svg"
  <p>It all starts with loans. But a small company does not start wth a lot of cash as capital, a loan may be needed.</p>
   <ul>
    <li>The small company needs a web site and the help of a lawyer</li>
-   <li>It may cost, for example, $1,000, $750 for the website and $250 in profit: the $750 gets paid immediately from the Radical Franchisee, the $250 becomes a loan</li>
-   <li>The lawyer can set things up legally for $1,500 and for that his costs is $750, his profit is $750: the $750 is paid immediately, the other $750 becomes a loan.</li>
+   <li>The website may cost, for example, $1,000, $750 his cost and $250 in profit. The $750 gets paid immediately, the $250 becomes a loan</li>
+   <li>The lawyer can set things up legally for $1,500, her costs is $750, her profit is $750. The $750 is paid immediately, the other $750 becomes a loan.</li>
   </ul>
   <p>The new Radical Franchisee may need a loan to cover the $1,500 that must be paid immediately.</p>
 
@@ -38,7 +38,7 @@ image:    "icon-supporting-radical-companies.svg"
 <h1>Loan Payments</h1>
  <p>Let&rsquo;s assume that new Radical Franchisee can pay $200 every month into the loan account. These are terms that have been negotiat=ed with each lender,</p>
   <ul>
-   <li>Most likely the $200 will be distributed relative to what is owed: 20% ($40) would go to the web page maker and 80% ($160) would go to the lawyer. Other perxentages can be agreed to to change the length of the load. for example.</li>
+   <li>Most likely the $200 will be distributed relative to what is owed: 20% ($40) would go to the web page maker and 80% ($160) would go to the lawyer. Other perxentages can be agreed to change the length of the load. for example.</li>
    <li>A new loan could be folded into the loan account if it is willing to live with has been decided</li>
    <li>A new loand may need a different account to represent different agreements.</li>
   </ul>
