@@ -18,6 +18,6 @@ image:    "icon-co-ownership.svg"
  <p>But people like to learn. Within the Fiat system we learn to do what the boss says. But that is not <em>&rdquo;human nature&rdquo;</em> or any such, it is simply what we have been taught to do and to expect by the people we trust the most: our parents, our teachers. The Radical system offers an alternatives,</p>
   <ul>
    <li>To learn and keep learning</li>
-   <li>To not be surprised, but to learn from unexpected results</l>
+   <li>To not be surprised, but to learn from unexpected results</li>
    <li>To embrace our ignorance and ask questions.</li>
   </ul> 
