@@ -33,7 +33,7 @@ image:    "icon-supporting-radical-companies.svg"
 
 <h1>The Account</h1>
  <p>The account embodies the agreement that has been worked out with each lender.</p>
- <p>More that one lender could be included in an account if the same terms apply. Alternatvely, a lender may require a differebt aggrement, with a different account.</p>
+ <p>More that one lender could be included in an account if the same terms apply. Alternatvely, a lender may require a different aggrement, with a different account.</p>
 
 <h1>Loan Payments</h1>
  <p>Let&rsquo;s assume that new Radical Franchisee can pay $200 every month into the loan account. These are terms that have been negotiat=ed with each lender,</p>
