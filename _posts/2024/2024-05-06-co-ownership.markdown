@@ -3,7 +3,7 @@ layout:   post
 title:    "Co-Ownership"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-coownership.svg"
+image:    "icon-co-ownership.svg"
 ---
 
 <div style='display:none; '>
