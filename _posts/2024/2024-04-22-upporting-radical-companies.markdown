@@ -26,8 +26,8 @@ image:    "icon-supporting-radical-companies.svg"
  <p>It all starts with loans. But a small company does not start wth a lot of cash as capital, a loan may be needed.</p>
   <ul>
    <li>The small company needs a web site and the help of a lawyer</li>
-   <li>The website may cost, for example, $1,000, $750 his cost and $250 in profit. An amount. the $750 cost, gets paid immediately, the $250 becomes a loan</li>
-   <li>The lawyer can set things up legally for $1,500, her costs is $750, her profit is $750. The $750 ofcost, gets paid immediately, the other $750 becomes a loan.</li>
+   <li>The website may cost, for example, $1,000, $750 his cost and $250 in profit. An amount, say the $750 cost, gets paid immediately, the $250 becomes a loan</li>
+   <li>The lawyer can set things up legally for $1,500, her costs is $750, her profit is $750. The $750 cost, gets paid immediately, the other $750 becomes a loan.</li>
   </ul>
   <p>The new Radical Franchisee may need a loan to cover the $1,500 that must be paid immediately.</p>
 
