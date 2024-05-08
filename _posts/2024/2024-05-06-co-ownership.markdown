@@ -27,4 +27,4 @@ image:    "icon-co-ownership.svg"
  <p>And that is for a co-managed business, no co-ownership. He is giving away his shares to the workers over time, but the ownership is still centralized.</p>
 
 <h1>Idealistic?</h1>
- <p>Fiat businesses are bad for businesses; Radical companies are free to run circles around them, but that is not their main goal. Their main goal is to decentralize the wealth, not svvorfing to capital, but according to contributions.</p>
+ <p>Fiat businesses are businesses-hostile; Radical companies are free to run circles around them, but that is not their main goal. Their main goal is to decentralize the wealth, not svvorfing to capital, but according to contributions.</p>
