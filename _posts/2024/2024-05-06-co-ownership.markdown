@@ -30,7 +30,7 @@ image:    "icon-co-ownership.svg"
  <p>And that is for a co-managed business, without co-ownership. He is giving away his shares to the workers over time, but the ownership and the decision of who-gets-what is centralized and not transparent.</p>
 
 <h1>The Radical Foundation</h1>
- <p>As a reminder, this is the Radical Foundation, this is all you have to remember to arrive and stay in the Radical path,
+ <p>As a reminder, this defim]nes the Radical Foundation. It is all you have to remember,
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation.svg'
