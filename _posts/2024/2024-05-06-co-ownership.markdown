@@ -27,5 +27,5 @@ image:    "icon-co-ownership.svg"
  <p>And that is for a co-managed business, no co-ownership. He is giving away his shares to the workers over time, but the ownership is still centralized.</p>
 
 <h1>Idealistic?</h1>
- <p>Fiat businesses are businesses-hostile. Radical companies are free to run circles around them, but that is not their main goal. Their main goal is to decentralize wealth, not according to capital, but according to people&rsquo;s contributions. The goal of companies is not to compete but be the training ground for learning to collaborate.</p>
+ <p>Fiat businesses are businesses-hostile. Radical companies are free to run circles around them, but that is not their main goal. Their main goal is to decentralize wealth, not according to capital, but according to people&rsquo;s contributions. The goal of companies is not to compete but to be the training ground for learning to collaborate.</p>
  <p>The mindset of <em>being number one</em> and crushing the competition is business-hostile as well. The mindset of <em>individual wins</im> is business-hostile, too. We win when our society thrives, when all people thrive.</p>
