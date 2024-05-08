@@ -30,7 +30,7 @@ image:    "icon-co-ownership.svg"
  <p>And that is for a co-managed business, without co-ownership. He is giving away his shares to the workers over time, but the ownership and the decision of who-gets-what is centralized anbd not transparent.</p>
   <div class='_center'>
    <img
-    src='/assets/img/icon-the-revised-radical-foundation.svg'
+    src='/assets/img/pic-the-radical-foundation.svg'
     width='70%'
     alt=''>
   </div>
