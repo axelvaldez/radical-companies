@@ -39,5 +39,5 @@ image:    "icon-co-ownership.svg"
   </div>
 
 <h1>Idealistic?</h1>
- <p>Fiat businesses are businesses-hostile. Radical companies are free to run financial circles around them, but that is not their main goal. Their main goal is to decentralize wealth according to people&rsquo;s contributions, not capital. The goal of companies is not to compete but to be the training ground for collaboration.</p>
+ <p>Fiat businesses are businesses-hostile; Radical companies are free to run financial circles around them, but that is not their main goal. Their main goal is to decentralize wealth according to people&rsquo;s contributions, not capital. The goal of companies is not to compete but to be the training ground for collaboration.</p>
  <p>The mindset of <em>being number one</em> and crushing the competition is business-hostile as well. The mindset of <em>individual wins</em> is business-hostile, too. We win when our society thrives, when the world thrives, when people thrive.</p>
