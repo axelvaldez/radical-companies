@@ -23,7 +23,7 @@ image:    "icon-co-ownership.svg"
   </ul>
 
 <h1>Triple</h1>
- <p>Yesterday I spoke with <a href="https://www.linkedin.com/in/halukcanhur/" target="_blank">Haluk Can Hur</a>, a Turkish fellow who happens to own four businesses, all of them co-managed. He told me that <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A5148270&keywords=latro%20kimya&origin=RICH_QUERY_SUGGESTION&position=0&searchId=e92cfcd5-7f9b-4b3b-a0c0-aa4924019de7&sid=G1i&spellCorrectionEnabled=false" target="_blank">Latro Kimya</a>, one of his businesses, has tripled its revenue since he fired himself from the CEO job. This comes from people managing the business, knowing the ins and outs of it, and not having to ask for permission.</p>
+ <p>Yesterday I spoke with <a href="https://www.linkedin.com/in/halukcanhur/" target="_blank">Haluk Can Hur</a>, who happens to own four businesses, all of them co-managed. He told me that <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A5148270&keywords=latro%20kimya&origin=RICH_QUERY_SUGGESTION&position=0&searchId=e92cfcd5-7f9b-4b3b-a0c0-aa4924019de7&sid=G1i&spellCorrectionEnabled=false" target="_blank">Latro Kimya</a>, one of his businesses, has tripled its revenue since he fired himself from the CEO job. This comes from people managing the business, knowing the ins and outs of it, and not having to ask for permission.</p>
  <p>And that is for a co-managed business, no co-ownership. He is giving away his shares to the workers over time, but the ownership is still centralized.</p>
 
 <h1>Idealistic?</h1>
