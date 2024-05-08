@@ -27,7 +27,7 @@ image:    "icon-co-ownership.svg"
 <h1>Triple</h1>
  <p>People may see Radical as a way to make more money, but that is a secondary side effect. The main purpose of the Radical model is to make people the highest priority. Yes, you can make more money not having managers. And, yes, you can increase revenue by having everybody think in terms of making more revenuel, but, again, that is not the motivation for the radical model. People and their communties are the primary motivation.</p>
  <p>Yesterday I spoke with <a href="https://www.linkedin.com/in/halukcanhur/" target="_blank">Haluk Can Hur</a>, who happens to own four businesses, all of them co-managed. He told me that <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A5148270&keywords=latro%20kimya&origin=RICH_QUERY_SUGGESTION&position=0&searchId=e92cfcd5-7f9b-4b3b-a0c0-aa4924019de7&sid=G1i&spellCorrectionEnabled=false" target="_blank">Latro Kimya</a>, his first business, has tripled its revenue since he elimanted the CEO job and fired himself. This comes from people managing the business, knowing the ins and outs of it, and not having to ask for permission.</p>
- <p>And that is for a co-managed business, without co-ownership. He is giving away his shares to the workers over time, but the ownership and the decision of who-gets-what is centralized anbd not transparent.</p>
+ <p>And that is for a co-managed business, without co-ownership. He is giving away his shares to the workers over time, but the ownership and the decision of who-gets-what is centralized and not transparent.</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation.svg'
