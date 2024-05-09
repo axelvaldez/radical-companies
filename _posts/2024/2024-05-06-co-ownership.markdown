@@ -34,7 +34,7 @@ image:    "icon-co-ownership.svg"
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation.svg'
-    width='70%'
+    width='50%'
     alt=''>
   </div>
 
