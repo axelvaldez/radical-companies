@@ -14,7 +14,7 @@ image:    "icon-co-ownership.svg"
  <p>Co-ownership may be the most difficult thing to fully get. How would they know what to do? How would they set a strategy? It is going to be chaos or at best very ho-hum.</p>
 
 <h1>Ho-Hum?</h1>
- <p>Let&rsquo;s start with the last concern: It is going to be chaos or at best very ho-hum. That would be true if you assume that people cannot or will not <em>learn</em>, but that is wrong headed. People learn. It may take more time to arrive at a decision the first few tries until they, the people without a boss, start to figure out to trust. If never get to that point, they never became a team and will disband.</p>
+ <p>Let&rsquo;s start with the last concern: It is going to be chaos or at best very ho-hum. That would be true if you assume that people cannot or will not <em>learn</em>, but that is wrong headed. People learn. It may take more time to arrive at a decision the first few tries until they, the people without a boss, start to figure out to trust. If they never get to that point, they never became a team and will disband.</p>
  <p>But people like to learn. Within the Fiat system we learn to do what the boss says. But that is not <em>&rdquo;human nature&rdquo;</em> or any such, it is simply what we have been taught to do and to expect by the people we trust the most: our parents, our teachers. The Fiat systek is in our heads and simply pass on. We pride ourselves to be individuals, to beat the other guy and enjoy a crushing win. Those are all part of the Fiat system and we will even go to war over it.</p>
  <p>The Radical system offers alternatives,</p>
   <ul>
