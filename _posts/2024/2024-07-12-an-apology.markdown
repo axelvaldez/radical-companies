@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Am Apology"
+title:    "An Apology"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-an-apology.svg"
