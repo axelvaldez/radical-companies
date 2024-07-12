@@ -7,8 +7,8 @@ image:    "icon-an-apology.svg"
 ---
 
 <div style='display:none; '>
- <p>The Judeo-Christian religions weren't wrong, they jst idn't go deep enounugh.</p>
+ <p>The Judeo-Christian religions weren't wrong, they jst idn't go deep enough.</p>
 </div>
 
 <h1>Intro</h1>
- <p>The Judeo-Christian religions weren't wrong, they jst idn't go deep enounugh.</p>
+ <p>The Judeo-Christian religions weren't wrong, they jst idn't go deep enough.</p>
