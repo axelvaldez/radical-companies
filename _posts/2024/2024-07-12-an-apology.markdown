@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Co-Ownership"
+title:    "Am Apology"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-an-apology.svg"
