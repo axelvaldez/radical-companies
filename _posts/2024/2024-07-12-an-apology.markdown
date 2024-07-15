@@ -17,7 +17,7 @@ image:    "icon-an-apology.svg"
 
 <h1>Holy Moments</h1>
  <p>My wife and some friends formed a book club. The latest book is <em>Holy Moments</em> by Matthew Kelly. The subtitle, <em>A Handbook for the Rest of Your Life</em>, was the first hint tjat it was mostly mysticism and authoritarian. The author, Mr kelly, had his &ldquo;awakening&rdquo; when he was 15 years old and has been caught in this particular story ever since.</p>
- <p>However, as I browsed the pages, it reminded me of the Radical Systemn.</p>
+ <p>However, as I browsed the pages, it reminded me of the Radical Systemn.</p> 
 
 <h1>Radical Eyes</h1>
  <p>In the <em>Awakening</em> sectiom he starts with,
