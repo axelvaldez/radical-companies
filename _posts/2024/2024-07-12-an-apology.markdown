@@ -21,7 +21,7 @@ image:    "icon-an-apology.svg"
 
 <h1>Radical Eyes</h1>
  <p>In the <em>Awakening</em> sectiom he starts with,
-   &ldquo;You may find yourself thinking or saying&hellip;
+   &ldquo;You may find yourself thinking or saying,
   <ul>
    <li>Something is missigng&hellip;</li>
    <li>There must be more to life&hellip;</li>
