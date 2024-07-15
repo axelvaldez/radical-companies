@@ -18,9 +18,8 @@ image:    "icon-an-apology.svg"
 <h1>Holy Moments</h1>
  <p>My wife and some friends formed a book club. The latest book is <em>Holy Moments</em> by Matthew Kelly. At first we dismissed it as an &ldquo;I BELIEVE&rdquo; booklet, which indeed it is.</p>
  <p>The subtitle, <em>A Handbook for the Rest of Your Life</em>. was the first hint. The author, Mr kelly, had his &ldquo;awakening&rdquo; when he was 15 years old and has been caught in this particular story ever since.</p>
-
  <p>As I browsed the pages, it reminded me of the Radical Systemn. For example, in the <em>Awakening</em> sectiom he starts with,</p>
-  <ul>
+
 <h1>Radical Eyes</h1>
    You may find yourself thinking or saying&hellip;
   <ul>
@@ -36,4 +35,11 @@ image:    "icon-an-apology.svg"
   <p>What is missng is the ability to say no to tedium and yes to &ldquo;there is more to life&rdquo; and &ldquo;I have more to offer.&rdquo; If the boss says, &ldquo;move the box from ere to there&rdquo; you do it or else. What mkissing is the ability to try thins out and to accummulate wealth. To be buman to live your life without goping homeless or going hungry.</p>
 
 <h1>The Soul</h1>
-   <p>What the authors of the Bible, and Mr Kelly, meant by the soul is the sum of everything they didn't know about about the body and the mind. In 2024 we know more the body and the mind. We don&rsquo;t need te soul.</p>
+  <p>What the authors of the Bible, and Mr Kelly, meant by &ldquo;the soul&rdquo; is the sum of everything they did not know. In 2024 we know more about the body and the mind. There is no need for mysticism.</p>
+
+<h1>Progress</h1>
+ <p>&ldquo;What is progress? Improving the well-being of human beings&hellip;All progress involves change,but not all change is progress,&rdquo; says Mr Kelly and I agree with him wholehartedly. Again he understands the problem, and expresses it, well.</p>
+ <p>When it comes to the answers, the only time he mantions &ldquo;collaborate&rdquo; is to say &ldquo;collaborate with God,&rdquo; but never with fellow people. When it comes tp people he keeps repeating &ldquo;Holy Moments.&rdquo; He encourages the reader to obserbe and have Holy Moments. Lots of them. It is as if he continues to sell his book entitled Holly Moments. I have nothing against making money but &ldquo;decide to share t wisdon of Holy Moments a far and wide as possible&rdquo; is not it.</p>
+ <p>Mysticism in the iron age was unaoidable, in the 21<sup>th</sup> century is not an answer.</p>
+ 
+ &lt;/aplogy&gt;
