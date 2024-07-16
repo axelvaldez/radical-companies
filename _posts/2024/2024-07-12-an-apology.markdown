@@ -13,7 +13,7 @@ image:    "icon-an-apology.svg"
 <h1>Partners</h1>
  <p>The Judeo-Christian religions weren't wrong, but theymcan still be Partners to Radical model. They just didn't go deep enough. They stopped at the unknown and they called it the soul.</p>
  <p>These religions didn't pop out of nothing. My guess is that the Jewish religion came from Zoroastrian religion, founded by Zarathustra, a Persian priest turned profet.</p>
- <p>Zarathustra wanted toset straight polytheistic religions: he had a vision of one true god, Ahura Mazda, not mulitiple gods. The Hebrews added a written script and kicked off what we now know as Fiat.</p>
+ <p>Zarathustra wanted to set polytheistic religions straight with a single boss God at the top, Ahura Mazda, not mulitiple gods. His teachings were aural. The Hebrews later added a written script and kicked off what we know as Fiat.</p>
 
 <h1>Holy Moments</h1>
  <p>My wife and some friends formed a book club. The latest book is <em>Holy Moments</em> by Matthew Kelly. The subtitle, <em>A Handbook for the Rest of Your Life</em>, was the first hint tjat it was mostly mysticism and authoritarian. The author, Mr kelly, had his &ldquo;awakening&rdquo; when he was 15 years old and has been caught in this particular story ever since.</p>
@@ -44,7 +44,11 @@ image:    "icon-an-apology.svg"
  <p>When it comes to the answers, the only time he mentions &ldquo;collaborataion&rdquo; is to say &ldquo;collaborate with God.&rdquo; When it comes tp people he keeps repeating &ldquo;Holy Moments.&rdquo; as revelations from his God. Mysticism in the iron age was unavoidable.</p>
 
 <h1>New Partners</h1>
- <p>Sounds like Christians are looking for the same answers as the Radical model. They could be partners.</p>
- <p>Well, not all &ldquo;Christians.&ldquo; Gentle authotiarians, like Mr Kelly, want to tell you what really is important in the Christian Bible. They exploit the mysticism in the Christian Bible to convince the fearful of what they decode is the truth.</p>
+ <p>Sounds like Christians are looking for the same answers as the Radical model. They could be our partners.</p>
+ <p>Well, not all &ldquo;Christians.&ldquo; Gentle authotiarians, like Mr Kelly, want to tell you what really is important and true in the Christian Bible. They exploit the mysticism in the Christian Bible to convince you of what they decide is the truth.</p>
+
+ <h1>rRadical</h1>
+  <p>Radical and Christians want a more equitable world. We want to our world to be people-centric, not money-centric. To take care of each other. To make our own choices and to discover more of the world that makes us tik.</p>
+  <p>We could all do all that and more with today&lsquo;s technology.</p>
 
  &lt;/end of apology&gt;
