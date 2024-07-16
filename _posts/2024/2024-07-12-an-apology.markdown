@@ -10,9 +10,10 @@ image:    "icon-an-apology.svg"
  <p>The Judeo-Christian religions weren't wrong, they just didn't go deep enough.</p>
 </div>
 
-<p>The Judeo-Christian religions weren't wrong, they just didn't go deep enough. They stopped at the unknown and they called it the soul.</p>
-<p>These religions didn't pop out of nothing. My guess is that the Jewish religion came from Zoroastrian religion, founded by Zarathustra, a Persian priest turned profet.</p>
-<p>Zarathustra wanted toset straight polytheistic religions: he had a vision of one true god, Ahura Mazda, not mulitiple gods. The Hebrews added a written script and kicked off what we now know as Fiat.</p>
+<h1>Partners</h1>
+ <p>The Judeo-Christian religions weren't wrong, but theymcan still be Partners to Radical model. They just didn't go deep enough. They stopped at the unknown and they called it the soul.</p>
+ <p>These religions didn't pop out of nothing. My guess is that the Jewish religion came from Zoroastrian religion, founded by Zarathustra, a Persian priest turned profet.</p>
+ <p>Zarathustra wanted toset straight polytheistic religions: he had a vision of one true god, Ahura Mazda, not mulitiple gods. The Hebrews added a written script and kicked off what we now know as Fiat.</p>
 
 <h1>Holy Moments</h1>
  <p>My wife and some friends formed a book club. The latest book is <em>Holy Moments</em> by Matthew Kelly. The subtitle, <em>A Handbook for the Rest of Your Life</em>, was the first hint tjat it was mostly mysticism and authoritarian. The author, Mr kelly, had his &ldquo;awakening&rdquo; when he was 15 years old and has been caught in this particular story ever since.</p>
