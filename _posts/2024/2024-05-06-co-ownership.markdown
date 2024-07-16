@@ -7,11 +7,11 @@ image:    "icon-co-ownership.svg"
 ---
 
 <div style='display:none; '>
- <p>Co-ownership may be the most difficult thing to fully get. A company without a CEO? That is impossible.</p>
+ <p>Co-ownership may be the most difficult thing to fully get. A company without a CEO? That is impossible!</p>
 </div>
 
 <h1>Intro</h1>
- <p>Co-ownership may be the most difficult thing to fully get. How would they know what to do? How would they set a strategy? It is going to be chaos or at best very ho-hum.</p>
+ <p>Co-ownership may be the most difficult thing to fully get. How would the, the unwashed masses, know what to do? How would they set a strategy? It is going to be chaos or at best very ho-hum.</p>
 
 <h1>Ho-Hum?</h1>
  <p>Let&rsquo;s start with the last concern: It is going to be chaos or at best very ho-hum. That would be true if you assume that people cannot or will not <em>learn</em>, but that is wrong headed. People learn. It may take more time to arrive at a decision the first few tries until they, the people without a boss, start to figure out to trust. If they never get to that point, they never became a team and will disband.</p>
