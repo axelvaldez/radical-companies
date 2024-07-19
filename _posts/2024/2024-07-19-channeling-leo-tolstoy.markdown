@@ -11,4 +11,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
 </div>
 
 <h1></h1>
- <p>Leo Tolstoy was a Russion writer and as such I avoided him for along time. But he was not the tpical Russian writer. Reading his The Slavery of Our Times made me feel like I had been channeling him.</p>
+ <p>Leo Tolstoy was a Russion writer and as such I avoided him for along time. But he was not the tpical Russian writer. Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling him asI was wrting about the Radical model.</p>
