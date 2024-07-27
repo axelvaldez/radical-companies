@@ -20,12 +20,12 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Fiat Religions</h1>
  <ul>
-  <li>Judaism came from Zoroastrinism.</li>
-  <li>Christianity came from Judaism.</li>
-  <li>Islam came from Christianity and Judaism.</li>
+  <li>Zoroastrinism influenced Judaism.</li>
+  <li>Judaism influenced Christianity.</li>
+  <li>Christianity and Judaism influnced Islam.</li>
  </ul>
- <p>These systems installed an all powerful boss at the top and took us away from nature-based system, and declared all other religions (systems) heathen.</p>
+ <p>These systems, starting with Zoroastrinis, installed an all powerful boss at the top, took us away from nature-based system, and declared all other religions (systems) heathen.</p>
 
-<<h1>The Internet</h1>
+<h1>The Internet</h1>
  <p>By the way, the Internet has it wrong and so are the Large Language Models being trained on it.</p>
  <p>The Internet says that Tolstoy declared a Christian. You can read his book, but that is not it at all. That is wrong.</p>
