@@ -1,0 +1,31 @@
+---
+layout:   post
+title:    "Channeling Tolstoy"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-channeling-leo-tolstoy.svg"
+---
+
+<div style='display:none; '>
+ <p>Leo (Lev) Tolstoy was a Russion writer and as such I avoided him for along time. But it turned out that he was not the typical Russian writer.</p>
+</div>
+
+<h1><Intro/h1>
+ <p>Leo Tolstoy was a Russion writer and as such I avoided him for along time. I did not want anything to do with dark, pesimistic Russian novels, as I had read in Cuba. But it didn&rsquo;t turn out to be that way.</p>
+ <p> Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling Tolstoy as I was writing about about the Radical model.</p>
+
+<h1>Pacifist Lyof Nikolayevich</h1>
+ <p>Tolstoy was a pacifist. But he could have been a Radical.</p>
+ <p>Paficism emerges from a system as one of the many pointy things that stick out. In <em>Confession</em> he declared himself an Orthodox Christian system, butwith lots of caveats. 
+
+<h1>Fiat Religions</h1>
+ <ul>
+  <li>Judaism came from Zoroastrinism.</li>
+  <li>Christianity came from Judaism.</li>
+  <li>Islam came from Christianity and Judaism.</li>
+ </ul>
+ <p>These systems installed an all powerful boss at the top and took us away from nature-based system, and declared all other religions (systems) heathen.</p>
+
+<<h1>The Internet</h1>
+ <p>By the way, the Internet has it wrong and so are the Large Language Models being trained on it.</p>
+ <p>The Internet says that Tolstoy declared a Christian. You can read his book, but that is not it at all. That is wrong.</p>
