@@ -10,9 +10,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>Leo (Lev) Tolstoy was not the typical Russian writer.</p>
 </div>
 
-<h1><Intro/h1>
+<h1>Intro</h1>
  <p>Leo Tolstoy was a Russian writer and as such I avoided him for along time. I did not want anything to do with dark, pesimistic Russian novels, such as I had read growing up in Cuba. But Leo was different.</p>
- <p> Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling Tolstoy as I was writing about about the Radical model.</p>
+ <p> Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling Tolstoy as I was writing about about the Radical system.</p>
 
 <div class="citation">
  <p>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
