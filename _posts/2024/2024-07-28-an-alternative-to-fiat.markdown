@@ -20,7 +20,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 
 <h1>Collaboration</h1>
  <p>Collaboration is key to a radical company. It does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and our grandparents and all that came before them.</p>
- <p>We are driven by the desire to collaborate and make a impact. Just watch what happens after a tornado or an earthquake.</p>
+ <p>We are driven by the desire to collaborate; we want to make an impact. For example, watch how people collaborate and help each other after a tornado or an earthquake.</p>
  <p>The Fiat system blocks us from collaborating at work and only let us do whatever the boss thinks will grow the capital of the Fiat owner(s).</p>
 
 <h1>Impact</h1>
