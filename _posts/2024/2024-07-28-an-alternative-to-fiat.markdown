@@ -7,28 +7,33 @@ image:    "icon-an-alternative-to-fiat.svg"
 ---
 
 <div style='display:none; '>
- <p>Fiat is our name for the system we live in today, based on violence. Radical is an alternatibe to it.</p>
+ <p>Fiat is our name for the system we live in today, based on capital and competiton. Corp, LLC, LLP, etc., they are all owned by one or a few people.</p>
+ <p>Radical is an alternatibe to it.</p>
 </div>
 
-<h1>Intro</h1> 
- <p>Fiat is our name for the system we live in today, based on violence and on capital. Radical is an alternatibe to it, based on collaboration and contributions, not on capital.</p>
- <p>A Radical is the next stage of development for us. We believe that it will bring about an economic transformation and a significant improvement is mental health.</p>
-
- <h1>Impact</h1>
-  <p>The need for a Radical alternative is based on how we view ourselves and our impact.</p>
-  <p>We,people, want to collaborate but the Fiat system gets in the way as it pushes us towards violence, from the very minor to the most ferocious. For example, at our work we exchange our times and our autonomy for what the boss says to do. We have to follow the rules.We have stay in our silos, even if we know how to do it for less cost.
+<h1>Intro</h1>
+ <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLp, etc., they are all owned by one or a few people.</p>
+ <p>Radical is an alternatibe to it, based on contributions and collaboration, not on capital and competition.</p>
+ <p>The Radical systems is the next stage of development for business. It will bring about an economic transformation.</p>
   
 <h1>Competition Is Business Hostile</h1>
- <p>To make the transformation happen the teams must help people to trasform from competition to collaboration. From being an employee to being a co-owner.</p>
+ <p>To make the business transformation happen, first the people have to transform from competitors to collaborators.</p>
 
 <h1>Collaboration</h1>
-  <p>A Radical transformation id in line with how we view nature, driven by the desire to collaborate and make a significant impact.</p>
+ <p>Colaboration is key to a radical company. It does not come naturally because we have been born and grown up in the Fiat system. And so did our parents and our grandparents and all that came before them</p>
+ <p>We are driven by the desire to collaborate. Just watch little kids. We are also driven to make a significant impact. The Fiat system moves us away from what we want.</p>
 
- <h2>Transformatiom</h2>
-  <p>As I said above, tenfirst step is to being open to the transformatonto to a Radical system, and away from a fiat system.</p>
+<h1>Impact</h1>
+ <p>The Radical system allows to make an impact.</p>
+ <p>The Fiat system pushes us towards competition and secrecy.</p>
+ <p>At Fiat workplace we exchange our autonomy and do what the boss says to do and how to do it.</p>
+ <p>Follow the rules. Stay in your silo. And keep doing it the way the boss said to do it, even if we know how to do it for less cost and effort. This eliminates innovation and it makes people disengage. Jusatnkeep doing iuntil itismtimeto leave.<p>
 
- <h2>Companies</h2>
-  <p>We believe that Fiat <em>businesses</em> will be the incubators of Radical <em>companies</em>. Co-management is already in motion, but it needs co-ownership to be fully complete. The problem woth co-management by itself is that the minute the boss leaves the stage it is more that likely that the system will go back to Fiat. On the other hand when everybody is a co-owner it is very likely that the compoany will remain Radical.</p>
-  <p>Colaboration is key to a radical company. It does not come naturally because we have been born and grown up in the Fiat system. And so did our parents and our grandparents and all that came before them</p>
+<h1>Companies</h1>
+ <p>Co-management has momentum behind it. But it is not enough. It needs co-ownership.</p>
+ <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage it is more than likely that the system will go back to the Fiat system. On the other hand, when everybody is a co-owner, the company will remain Radical.</p>
 
-<h2>RADs</h2>
+<h1>RADs</h1>
+ <p>Maybe the Fiat system was what could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet. With groups or one-on-one.</p>
+ <p>With RADs we can recognize contributions and based on that give people RADs, unitless tokens that can factor anything, including money. If you have twice as many RADs as me you get twice what I get.</p>
+ <p>People can give these rewards directly, not through a boss. We can do that now.</p>
