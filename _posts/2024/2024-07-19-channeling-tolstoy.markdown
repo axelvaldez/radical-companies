@@ -15,9 +15,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>But Leo was different.</p>
  <p> Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling Tolstoy as I was writing about about the Radical system.</p>
 
-<div class="citation">
+<div class="_citation">
  <p>Once we see a system, we can change it.</p>
- <p id="signature">Seth Godin</p>
+ <p id="_signature">Seth Godin</p>
 <div>
 
 <h1>Pacifist Lyof Nikolayevich</h1>
