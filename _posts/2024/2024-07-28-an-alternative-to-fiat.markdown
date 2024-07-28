@@ -19,8 +19,9 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>To make the business transformation happen, first the people have to transform from competitors to collaborators and manage and own companies that way.</p>
 
 <h1>Collaboration</h1>
- <p>Collaboration is key to a radical company. It does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and our grandparents and all that came before them</p>
- <p>We are driven by the desire to collaborate and make a impact. The Fiat system blocks us from that and moves us away from what we want to do.</p>
+ <p>Collaboration is key to a radical company. It does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and our grandparents and all that came before them.</p>
+ <p>We are driven by the desire to collaborate and make a impact. Just watch what happens after a tornado or an earthquake.</p>
+ <p>The Fiat system blocks us from collaborating at work and only let us do whatever the boss thinks will grow the capital of the Fiat owner(s).</p>
 
 <h1>Impact</h1>
  <p>The Radical system allows you to make an impact based on collaboration and openess. The Fiat system pushes us towards competition and secrecy. It blocks us from maing an impact other than to make money.</p>
