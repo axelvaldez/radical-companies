@@ -12,7 +12,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 </div>
 
 <h1>Intro</h1>
- <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLp, etc., they are all owned by one or a few people. Radical is an alternative to it, based on contributions and collaboration, not on capital and competition.</p>
+ <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLp, etc., all Fiat, are all owned by one or a few people and teir job is to create profits. Radical is an alternative to it, based on contributions and collaboration, not on capital and competition.</p>
  <p>The Radical systems, we believe, is the next stage of development for businesses. It will bring about an economic transformation for companies through truly engaged people.</p>
   
 <h1>Competition Is Business Hostile</h1>
