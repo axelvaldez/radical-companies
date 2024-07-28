@@ -35,7 +35,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
    <p ID="_signature">Seth Godin</p>
   </div>
-
-<h1>The Internet</h1>
- <p>By the way, the Internet has it wrong (and so are the Large Language Models being trained on it).</p>
- <p>The Internet says that Tolstoy declared himself a Christian. You can read his book, but that is not it at all. That is wrong.</p>
+ <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read his book, but that is not it at all. That is wrong.</p>
