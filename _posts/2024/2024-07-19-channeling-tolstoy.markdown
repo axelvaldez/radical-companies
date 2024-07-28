@@ -11,12 +11,18 @@ image:    "icon-channeling-leo-tolstoy.svg"
 </div>
 
 <h1><Intro/h1>
- <p>Leo Tolstoy was a Russian writer and as such I avoided him for along time. I did not want anything to do with dark, pesimistic Russian novels, as I had read in Cuba. But Leo was different.</p>
+ <p>Leo Tolstoy was a Russian writer and as such I avoided him for along time. I did not want anything to do with dark, pesimistic Russian novels, such as I had read growing up in Cuba. But Leo was different.</p>
  <p> Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling Tolstoy as I was writing about about the Radical model.</p>
+
+<div class="citation">
+ <p>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
+ <p>Once we see a system, we can change it.</p>
+ <p id="citation-sig">Seth Godin</p>
+<div>
 
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist. But he could have been a Radical.</p>
- <p>Paficism emerges from a system as one of the many pointy things that stick out. In <em>Confession</em> he declared himself an Orthodox Christian system, but with lots of caveats.</p>
+ <p>Paficism emerges from a system as one of the many pointy things that stick out. In <em>Confession</em> he said the (Orthodox) Christian system was close enough, but he addedd a lots of caveats.</p>
 
 <h1>Fiat Religions</h1>
  <ul>
