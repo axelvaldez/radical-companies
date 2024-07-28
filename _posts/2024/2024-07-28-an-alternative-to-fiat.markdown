@@ -11,15 +11,17 @@ image:    "icon-an-alternative-to-fiat.svg"
 </div>
 
 <h1>Intro</h1> 
- <p>Fiat is our name for the system we live in today, based on violence and on capital. Radical is an alternatibe to it, based on collaboration and contributions.</p>
- <p>A Radical id the next stage of development formus and our society. We believe that it will bring about an economic transformation.</p>
+ <p>Fiat is our name for the system we live in today, based on violence and on capital. Radical is an alternatibe to it, based on collaboration and contributions, not on capital.</p>
+ <p>A Radical is the next stage of development for us. We believe that it will bring about an economic transformation and a significant improvement is mental health.</p>
 
- <h2>Purpose</h2>
-  <p>The need for a Radical alternative is based on hiow we view ourselves and our purpose, our impact,and our missions.</p>
-  <p>We,people, want to collaborate but the Fiat system gets in the way as it pushes us towards violence, from the very minor to the most ferocious. For example, at our work we exchange, our times. and our autonomy to do what the boss says. We have to follow the rules.We have stay in our silos, even if we know how to do it for less cost. competition ismbusiness hostile.</p>
-  <p>To make the transformation happen the teams must help people to trasform from competition to collaboration. From being an employee to being a co-owner.</p>
+ <h1>Impact</h1>
+  <p>The need for a Radical alternative is based on how we view ourselves and our impact.</p>
+  <p>We,people, want to collaborate but the Fiat system gets in the way as it pushes us towards violence, from the very minor to the most ferocious. For example, at our work we exchange our times and our autonomy for what the boss says to do. We have to follow the rules.We have stay in our silos, even if we know how to do it for less cost.
+  
+<h1>Competition Is Business Hostile</h1>
+ <p>To make the transformation happen the teams must help people to trasform from competition to collaboration. From being an employee to being a co-owner.</p>
 
- <h2>Collaboration</h2>
+<h1>Collaboration</h1>
   <p>A Radical transformation id in line with how we view nature, driven by the desire to collaborate and make a significant impact.</p>
 
  <h2>Transformatiom</h2>
