@@ -22,7 +22,8 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical.</p>
- <p>Paficism emerges from a system as one of the many pointy things that stick out. But that is not the root of it. In <em>Confession</em> he pretty much said the (Orthodox) Christian system was close enough, but he addedd a lots of caveats.</p>
+ <p>Paficism emerges from a system as one of the many pointy things that stick out. But that is not the root of it.</p>
+ <p>In <em>Confession</em> he pretty much said that the (Orthodox) Christian system of his youth was close enough, but he addedd a lots of caveats.</p>
 
 <h1>Fiat Religions</h1>
  <ul>
