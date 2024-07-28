@@ -18,7 +18,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 <div class="_citation">
  <p>Once we see a system, we can change it.</p>
  <p id="_signature">Seth Godin</p>
-<div>
+</div>
 
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical.</p>
