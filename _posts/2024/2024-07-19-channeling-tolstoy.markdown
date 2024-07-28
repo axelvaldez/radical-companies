@@ -30,7 +30,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <li>Judaism influenced Christianity.</li>
   <li>Christianity and Judaism influenced Islam.</li>
  </ul>
- <p>These systems, starting with Zoroastrianism, installed an all powerful boss god at the top and declared all other religions (systems) heathen. In other words they became a separate systen,</p>
+ <p>These systems, starting with Zoroastrianism, installed an all powerful boss god at the top and declared all other religions (systems) heathen. They became a separate systen,</p>
   <div class="_citation">
    <p>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
    <p ID="_signature">Seth Godin</p>
