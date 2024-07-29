@@ -30,10 +30,11 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>Co-management has momentum behind it. But co-management is not enough.</p>
  <p>It needs co-ownership.</p>
  <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage it is more than likely that the system will go back to the Fiat system. On the other hand, when everybody is a co-owner, the company will remain Radical.</p>
- <p>In any case, this ismgoing to be difficult and quite possibly take a long time, but it will happen.</p>
+ <p>In any case, this is going to be difficult and quite possibly take a long time, but it will happen.</p>
 
 <h1>RADs</h1>
  <p>RADs are the key to making this work.</p>
  <p>RADs are unitless tokens that can factor anything, including money. If you have twice as many RADs as me, you get twice as much money as me.</p>
- <p>Maybe the Fiat system, based on capital, was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
- <p>We can recognize contributions and give people RADs anywhere in the world through an phone app. Most importantly, we can do this directly and skip the boss.</p>
+ <p>Maybe a system, based on capital tokens (shares), was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
+ <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the world through an phone app. Most importantly, we can do this directly and skip the boss.</p>
+ <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the world. Most importantly, such an app (<em>RADs!</em>) will allow us to do this directly and skip the boss altogether.</p>
