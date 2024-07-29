@@ -34,5 +34,5 @@ image:    "icon-an-alternative-to-fiat.svg"
 <h1>RADs</h1>
  <p>RADs are the key to making this work.</p>
  <p>RADs are unitless tokens that can factor anything, including money. If you have twice as many RADs as me, you get twice as much money as me.</p>
- <p>Maybe the Fiat system, based on capital, was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet, as groups or one-on-one.</p>
- <p>We can recognize contributions and give people RADs anywhere in the world. And, most importantly, do it directly and not through a boss.</p>
+ <p>Maybe the Fiat system, based on capital, was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
+ <p>We can recognize contributions through an app and give people RADs anywhere in the world. Most importantly, we can do it directly and not through a boss.</p>
