@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "An Alternative to Fiat"
+title:    "An Alternative to Our Current System"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-an-alternative-to-fiat.svg"
@@ -30,6 +30,7 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>Co-management has momentum behind it. But co-management is not enough.</p>
  <p>It needs co-ownership.</p>
  <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage it is more than likely that the system will go back to the Fiat system. On the other hand, when everybody is a co-owner, the company will remain Radical.</p>
+ <p>In any case, this ismgoing to be difficult and quite possibly take a long time, but it will happen.</p>
 
 <h1>RADs</h1>
  <p>RADs are the key to making this work.</p>
