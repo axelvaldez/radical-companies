@@ -22,7 +22,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
- <p>In <em>Confession</em> he pretty much said that the (Orthodox) Christian system of his youth was close enough, but he addedd a lots of caveats.</p>
+ <p>In <em>Confession</em> he pretty much said that the (Orthodox) Christian system of his youth was close enough.</p>
 
 <h1>Fiat Religions</h1>
  <ul>
@@ -35,4 +35,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
    <p ID="_signature">Seth Godin</p>
   </div>
- <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read the <em>Confession</em> book to verify it, but that is wrong. He made it clear that he was a follower of a system: the Christian new testament.</p>
+ <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read the <em>Confession</em> book to verify it, but that is wrong. He did make it clear that he was a follower of the Christian new testament, but with a lot of caveats.</p>
