@@ -7,7 +7,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 ---
 
 <div style='display:none; '>
- <p>Fiat is our name for the system we live in today, based on capital and competiton. Corp, LLC, LLP, etc., they are all owned by one or a few people.</p>
+ <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLP, etc., they are all owned by one or a few people.</p>
  <p>Radical is an alternative to it.</p>
 </div>
 
