@@ -18,7 +18,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 <h1>Collaboration</h1>
  <p>To make the business transformation happen, first the people have to transform from competitors to collaborators and manage and own companies that way.</p>
  <p>Collaboration does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and grandparents.
- <p>Children learn what they live, whether is for the worse,</p>
+ <p>We all, and particular children, learn what we live, whether is for the worse,</p>
   <div class="_citation" style="font-size:20px; ">
    <p>If a child lives with criticism, he learns to condem</p>
    <p>If a child lives with hostility, he learns to fight</p>
