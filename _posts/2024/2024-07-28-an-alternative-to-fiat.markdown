@@ -19,31 +19,16 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>To make the business transformation happen, first the people have to transform from competitors to collaborators and manage and own companies that way.</p>
  <p>Collaboration does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and grandparents.
  <p>Children learn what they live. Whether is for the worse,</p>
-
-  <table>
-  </table>
   <div class="_citation" style="font-size:smaller; ">
-   <tr>
-    <td>If a child lives with criticism</td>
-    <td></td>
-    <td>he learns to condem</td>
-   </tr> 
-  </div>
-  <ul style="margin-left:1em;">
-   <li>If a child lives with criticism, he learns to condem</li>
-   <li>If a child lives with hostility, he learns to fight</li>
-   <li>If a child lives with ridicule, he learns to be shy</li>
-   <li>If a child lives with shame, he learns to feel guilty</li>
-  </ul>
-  <p>Or for the better,</p>
-   <table>
-    <tr>
-     <td>If a child lives with tolerance</td>
-     <th>he learns to be patient</th>
-    </tr>
-   </table>
-
-  <div class="_citation">
+   <ul style="margin-left:1em;">
+    <li>If a child lives with criticism, he learns to condem</li>
+    <li>If a child lives with hostility, he learns to fight</li>
+    <li>If a child lives with ridicule, he learns to be shy</li>
+    <li>If a child lives with shame, he learns to feel guilty</li>
+   </ul>
+  </div> 
+ <p>Or for the better,</p>
+  <div class="_citation" style="font-size:smaller; ">
    <ul style="margin-left:1em;">
     <li>If a child lives with tolerance, he learns to be patient</li>
     <li>If a child lives with encouragement, he learns to confidence</li>
