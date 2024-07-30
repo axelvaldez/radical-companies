@@ -24,8 +24,6 @@ image:    "icon-an-alternative-to-fiat.svg"
    <p>If a child lives with hostility, he learns to fight</p>
    <p>If a child lives with ridicule, he learns to be shy</p>
    <p>If a child lives with shame, he learns to feel guilty</p>
-   <p>If a child lives with criticism, he learns to condem</p>
-   <p>If a child lives with hostility, he learns to fight</p>
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
  <p>or for the better,</p>
