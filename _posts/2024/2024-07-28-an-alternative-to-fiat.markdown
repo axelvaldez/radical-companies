@@ -33,7 +33,7 @@ image:    "icon-an-alternative-to-fiat.svg"
    <li>If a child lives with fairness, he learns to justice</li>
    <li>If a child lives with security, he learns to have faith</li>
    <li>If a child lives with approval, he learns to like himself</li>
-   <li>If a child lives with accetance and frienship, he learns to love in the world</li>
+   <li>If a child lives with acceptance and frienship, he learns to love in the world</li>
   </ul>
  <p>We are driven by the desire to collaborate; we want to make an impact. For example, watch how people collaborate and help each other after a tornado or an earthquake.</p>
 
