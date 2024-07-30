@@ -40,7 +40,7 @@ image:    "icon-an-alternative-to-fiat.svg"
     <tr>
      <td>If a child lives with tolerance</td>
      <th>he learns to be patient</th>
-    <tr>
+    </tr>
    </table>
 
   <div class="_citation">
