@@ -22,7 +22,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 
   <table>
   </table>
-  <div class="_citation">
+  <div class="_citation" style="font-size:smaller; ">
    <tr>
     <td>If a child lives with criticism</td>
     <td>he learns to condem</td>
