@@ -44,7 +44,7 @@ image:    "icon-an-alternative-to-fiat.svg"
  <h1>Impact</h1>
  <p>The Fiat system blocks us from collaborating at work and only let us do whatever the boss thinks will grow the capital of the Fiat owner(s).</p>
  <p>The Radical system allows you to make an impact based on collaboration and openess. The Fiat system pushes us towards competition and secrecy. It blocks us from maing an impact other than to make money.</p>
- <p>At Fiat workplaces we give up our auonomy for money and instead do what the boss says to do and how to do it. Follow the rules. Stay in your silo. Keep doing it the way the boss said to do it, even if we know how to do it for less cost and effort.</p>
+ <p>At Fiat workplaces we give up our autonomy for money and instead do what the boss says to do and how to do it. Follow the rules. Stay in your silo. Keep doing it the way the boss said to do it, even if we know how to do it for less cost and effort.</p>
  <p>This makes innovation impossible and it makes people disengage. Just keep doing your work until it is time to leave.<p>
 
 <h1>Companies</h1>
