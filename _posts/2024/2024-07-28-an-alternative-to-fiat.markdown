@@ -27,7 +27,7 @@ image:    "icon-an-alternative-to-fiat.svg"
     <li>If a child lives with shame, he learns to feel guilty</li>
    </ul> 
    <p id="_signature">Dorothy Law Nolte</p>
-  </div> 
+  </div>
  <p>or for the better,</p>
   <div class="_citation" style="font-size:smaller; ">
    <ul style="margin-left:1em;">
