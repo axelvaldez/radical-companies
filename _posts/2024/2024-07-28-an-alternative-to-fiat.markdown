@@ -26,16 +26,22 @@ image:    "icon-an-alternative-to-fiat.svg"
    <li>If a child lives with shame, he learns to feel guilty</li>
   </ul>
   <p>Or for the better,</p>
+   <table>
+    <tr>
+     <td>If a child lives with tolerance</td>
+     <td>he learns to be patient</td>
+    <tr>
+   </table>
   <div class="_citation">
    <ul style="margin-left:1em;">
-    <li>If a child lives with tolerance, he learns to be patient</li>
     <li>If a child lives with encouragement, he learns to confidence</li>
     <li>If a child lives with praise, he learns to appreciate</li>
     <li>If a child lives with fairness, he learns to justice</li>
     <li>If a child lives with security, he learns to have faith</li>
     <li>If a child lives with approval, he learns to like himself</li>
     <li>If a child lives with acceptance and frienship, he learns to love in the world</li>
-  <div class="_citation">
+   </ul>
+  </div>
  <p>We are driven by the desire to collaborate; we want to make an impact. For example, watch how people collaborate and help each other after a tornado or an earthquake.</p>
 
  <h1>Impact</h1>
