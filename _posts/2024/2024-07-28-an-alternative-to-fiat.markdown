@@ -20,7 +20,7 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>Collaboration does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and grandparents.
  <p>Children learn what they live, whether is for the worse,</p>
   <div class="_citation">
-   <ul>
+   <ul style="">
     <li>If a child lives with criticism, he learns to condem</li>
     <li>If a child lives with hostility, he learns to fight</li>
     <li>If a child lives with ridicule, he learns to be shy</li>
@@ -30,7 +30,7 @@ image:    "icon-an-alternative-to-fiat.svg"
   </div>
  <p>or for the better,</p>
   <div class="_citation">
-   <ul>
+   <ul style="">
     <li>If a child lives with tolerance, he learnlearnss to be patient</li>
     <li>If a child lives with encouragement, he  to confidence</li>
     <li>If a child lives with praise, he learns to appreciate</li>
