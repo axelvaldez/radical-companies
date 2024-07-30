@@ -38,9 +38,10 @@ image:    "icon-an-alternative-to-fiat.svg"
    <table>
     <tr>
      <td>If a child lives with tolerance</td>
-     <td>he learns to be patient</td>
+     <th>he learns to be patient</th>
     <tr>
    </table>
+
   <div class="_citation">
    <ul style="margin-left:1em;">
     <li>If a child lives with tolerance, he learns to be patient</li>
