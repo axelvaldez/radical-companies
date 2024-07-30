@@ -28,8 +28,8 @@ image:    "icon-an-alternative-to-fiat.svg"
   </div>
  <p>or for the better,</p>
   <div class="_citation" style="font-size:20px; ">
-   <p>If a child lives with tolerance,<br>he learnss to be patient</p>
-   <p>If a child lives with encouragement,<br>he learns to confidence</p>
+   <p>If a child lives with tolerance, he learnss to be patient</p>
+   <p>If a child lives with encouragement, he learns to confidence</p>
    <p>If a child lives with praise, he learns to appreciate</p>
    <p>If a child lives with fairness, he learns to justice</p>
    <p>If a child lives with security, he learns to have faith</p>
