@@ -19,10 +19,14 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>To make the business transformation happen, first the people have to transform from competitors to collaborators and manage and own companies that way.</p>
  <p>Collaboration does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and our grandparents. Children learn what they live,</p>
   <ul style="margin-left:1em;">
+  Whether is for the worse.
    <li>If a child lives with criticism, he learns to condem</li>
    <li>If a child lives with hostility, he learns to fight</li>
    <li>If a child lives with ridicule, he learns to be shy</li>
    <li>If a child lives with shame, he learns to feel guilty</li>
+  </ul>
+  <ul style="margin-left:1em;">
+  Or for the better,
    <li>If a child lives with tolerance, he learns to be patient</li>
    <li>If a child lives with encouragement, he learns to confidence</li>
    <li>If a child lives with praise, he learns to appreciate</li>
