@@ -20,27 +20,23 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>Collaboration does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and grandparents.
  <p>Children learn what they live, whether is for the worse,</p>
   <div class="_citation">
-   <ul style="margin-left:0px; ">
-    <li>If a child lives with criticism, he learns to condem</li>
-    <li>If a child lives with hostility, he learns to fight</li>
-    <li>If a child lives with ridicule, he learns to be shy</li>
-    <li>If a child lives with shame, he learns to feel guilty</li>
-   </ul> 
+   <p>If a child lives with criticism, he learns to condem</p>
+   <p>If a child lives with hostility, he learns to fight</p>
+   <p>If a child lives with ridicule, he learns to be shy</p>
+   <p>If a child lives with shame, he learns to feel guilty</p>
+   <p>If a child lives with criticism, he learns to condem</p>
+   <p>If a child lives with hostility, he learns to fight</p>
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
  <p>or for the better,</p>
   <div class="_citation">
-   <ul style="margin-left:0px; ">
-    <li>If a child lives with criticism, he learns to condem</li>
-    <li>If a child lives with hostility, he learns to </li>
-    <li>If a child lives with tolerance, he learnlearnss to be patient</li>
-    <li>If a child lives with encouragement, he  to confidence</li>
-    <li>If a child lives with praise, he learns to appreciate</li>
-    <li>If a child lives with fairness, he learns to justice</li>
-    <li>If a child lives with security, he learns to have faith</li>
-    <li>If a child lives with approval, he learns to like himself</li>
-    <li>If a child lives with acceptance and frienship, he learns to love in the world</li>
-   </ul>
+   <p>If a child lives with tolerance, he learnlearnss to be patient</p>
+   <p>If a child lives with encouragement, he  to confidence</p>
+   <p>If a child lives with praise, he learns to appreciate</p>
+   <p>If a child lives with fairness, he learns to justice</p>
+   <p>If a child lives with security, he learns to have faith</p>
+   <p>If a child lives with approval, he learns to like himself</p>
+   <p>If a child lives with acceptance and frienship, he learns to love in the world</p>
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
  <p>We are driven by the desire to collaborate; we want to make an impact. For example, watch how people collaborate and help each other after a tornado or an earthquake.</p>
