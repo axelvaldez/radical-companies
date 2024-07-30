@@ -25,7 +25,8 @@ image:    "icon-an-alternative-to-fiat.svg"
     <li>If a child lives with hostility, he learns to fight</li>
     <li>If a child lives with ridicule, he learns to be shy</li>
     <li>If a child lives with shame, he learns to feel guilty</li>
-   </ul>
+   </ul> 
+   <p id="_signature"></p>
   </div> 
  <p>or for the better,</p>
   <div class="_citation" style="font-size:smaller; ">
@@ -38,6 +39,7 @@ image:    "icon-an-alternative-to-fiat.svg"
     <li>If a child lives with approval, he learns to like himself</li>
     <li>If a child lives with acceptance and frienship, he learns to love in the world</li>
    </ul>
+   <p id="_signature"></p>
   </div>
  <p>We are driven by the desire to collaborate; we want to make an impact. For example, watch how people collaborate and help each other after a tornado or an earthquake.</p>
 
