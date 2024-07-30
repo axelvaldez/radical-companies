@@ -32,7 +32,7 @@ image:    "icon-an-alternative-to-fiat.svg"
   <div class="_citation">
    <ul style="margin-left:20px; font-size:small; ">
     <li>If a child lives with criticism, he learns to condem</li>
-    <li>If a child lives with hostility, he learns to  "</li>
+    <li>If a child lives with hostility, he learns to </li>
     <li>If a child lives with tolerance, he learnlearnss to be patient</li>
     <li>If a child lives with encouragement, he  to confidence</li>
     <li>If a child lives with praise, he learns to appreciate</li>
