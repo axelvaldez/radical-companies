@@ -43,6 +43,7 @@ image:    "icon-an-alternative-to-fiat.svg"
    </table>
   <div class="_citation">
    <ul style="margin-left:1em;">
+    <li>If a child lives with tolerance, he learns to be patient</li>
     <li>If a child lives with encouragement, he learns to confidence</li>
     <li>If a child lives with praise, he learns to appreciate</li>
     <li>If a child lives with fairness, he learns to justice</li>
