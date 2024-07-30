@@ -34,7 +34,7 @@ image:    "icon-an-alternative-to-fiat.svg"
    <p>If a child lives with fairness, he learns to justice</p>
    <p>If a child lives with security, he learns to have faith</p>
    <p>If a child lives with approval, he learns to like himself</p>
-   <p>If a child lives with acceptance and frienship, he learns to love in the world</p>
+   <p>If a child lives with acceptance and frienship, he learns to find love in the world</p>
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
  <p>We are driven by the desire to collaborate; we want to make an impact. For example, watch how people collaborate and help each other after a tornado or an earthquake.</p>
