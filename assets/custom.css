@@ -381,7 +381,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-size:smaller;
   font-style:italic;
   text-align:center;
-  margin-bottom:3em;
+  margin-bottom:6px;
 }
 ._citation p#_signature::before {
   content:"— ";
