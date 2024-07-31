@@ -89,4 +89,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
 
-<h1></h1>
+<h1>Ownership</h1>
+ <div class="_citation">
+  <p>&hellip; these people are in this condition because the railway <em>belongs</em> to this company, the silk factory to that gentlemen, and all the foundries, factories, typographies, and laundries to capitalists.</p>
+ </div>
+ <p>This is Fiat ownership.</p>
+ <p>In the Radical system everybody who contributes to a company is a co-owner.</p>
