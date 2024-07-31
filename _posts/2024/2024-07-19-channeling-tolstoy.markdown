@@ -54,4 +54,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <h1>Centralization</h1>
    <p>Baddow says that Tolstoy &ldquo;<em>is dealing with the present problems on the plane of thoughts of the jurists and the economists</em>.&rdquo; &ldquo;</p>
    <p>&ldquo;<em>No one action,</em>&rdquo; says Baddow, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
-   <p>This is decentralization.</p>
+   <p>This is decentralization!</p>
