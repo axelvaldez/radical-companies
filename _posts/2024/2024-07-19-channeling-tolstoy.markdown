@@ -58,12 +58,27 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Meaning</h1>
  <div class="_citation">
-  <p>&ldquo;<em>It is not, truly speakimg, the labour that is divided, but the men&mdash;divided into mere segments of men&mdash;broken into smaill fragments and crumbs of life; so that all the little piece of intelligence that is eft in aman is nt enugh to amke a pic or a nail, but exhaust itself in making the point of a pin or the head of a nail</em>.&rdquo;</p>
+  <p>&ldquo;<em>It is not, truly speaking, the labour that is divided, but the men&mdash;divided into mere segments of men&mdash;broken into small fragments and crumbs of life; so that all the little piece of intelligence that is left in a man is not enugh to make a pin or a nail, but exhaust itself in making the <em>point of a pin</em> or <em>the head of a nail</em></em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
   </div>
   <p>Work loses all <em>meaning</em>.</p>
  <div class="_citation">
   <p>&ldquo;<em>It is not that men are ill-fed, but that they have no pleasure in the work by which they make their bread, and, therefore, look to wealth as the only means of pleasure.</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
-  </div>
-  <p>We could not agree more.</p>
+ </div>
+ <p>We could not agree more.</p>
+
+<h1>Convenient Explanations</h1>
+ <div class="_citation">
+  <p>&ldquo;<em>After the emancipation of the slaves, &hellip; wealth entrusted by God to some people in order that they may use part of it in [what they consider] good works, and so there is no harm in some people&rsquo;s being rich and otheres poor.</em>.&rdquo;</p>
+  <p>These explanations satisfied the rich and the poor (especially the rich) for a long time.</p>
+  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ </div>
+ <p>Later it was up to science,
+ <div class="_citation">
+  <p>&ldquo;<em>Political economy, which declared that it had discovered the laws which regulate division of labour and the dkistribution of the products of labour among men</em>.&rdquo;</p>
+  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ </div>
+ <p>These were presented as &ldquo;<em>unalterable laws& governing man&rsquo;s economic activities</em>.&rdquo;
+
+<h1></h1>
