@@ -40,7 +40,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <h1>Violence</h1>
   <div class="_citation">
    <p>&ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress for ever impossible</em>.&rdquo;</p>
-   <p id="_signature">Gkeat Baddow, Chelmsford, October 1900</p>
+   <p id="_signature">Gkeat Baddow, translator, Chelmsford, October 1900</p>
   </div>
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we agree. To us war, another form of violence, is wrong, too. In fact, any kind of man&rsquo;s violence whether to individuals, group, or nations is wrong.</p>
   <p>To Tolstoy is not that people should be restrained from violence, but that &ldquo;<em>violence should become abhorrent</em>,&rdquo;</p>
