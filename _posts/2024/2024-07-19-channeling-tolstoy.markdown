@@ -42,7 +42,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p>&ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress forever impossible</em>&rdquo;</p>
    &hellip;
    <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
-   <p ID="_signature">Fkeat Baddow, Chelmsford, October 1900</p>
+   <p ID="_signature">Gkeat Baddow, Chelmsford, October 1900</p>
   </div>
   </div>
   
