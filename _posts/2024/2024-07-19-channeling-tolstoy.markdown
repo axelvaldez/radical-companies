@@ -39,7 +39,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
  
  <h1>Violence</h1>
   <div class="_citation">
-   &ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress forever impossible</em>&rdquo;
+   <p>&ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress forever impossible</em>&rdquo;</p>
+   <p ID="_signature">Fkeat Baddow, Chelmsford, October 1900</p>
+  </div>
   </div>
   <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way; war, another form of violence, is wrong, too.</p>
