@@ -358,7 +358,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 
 /*
- * _citation
+ * Radical-companies/assets
  */
 ._citation {
   width:95%;
@@ -372,9 +372,11 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   font-family:palatino;
   font-size:30px;
   background-color:cyan;
+
+  font-size:smaller;
 }
 #_signature {
-  font-size:small;
+  font-size:smaller;
   font-style:italic;
   text-align:center;
   margin-bottom:6px;
