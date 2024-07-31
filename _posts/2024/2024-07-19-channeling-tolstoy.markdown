@@ -48,7 +48,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
     <li>You want to stop all wars?</li>
     <li>You want violence out of police action?</li>
    </ul>
-  <p style="margin-left:25px">SHOW ITS ABHORRANCE! So that the abhorrance comes directly from people.</p>
+  <p style="margin-left:3em">SHOW ITS ABHORRANCE! So that the abhorrance comes directly from people.</p>
   <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo;
 
   <h1>Centralization</h1>
