@@ -43,11 +43,12 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p id="_signature">Gkeat Baddow, Chelmsford, October 1900</p>
   </div>
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way. In fact, to us war, another form of violence, is wrong, too. In fact, any kind of man&rsquo;s violence whether to individuals, group, or nations is wrong.</p>
-  <p>To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that <em>violence should become abhorrent</em>,&rdquo;
+  <p>To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that <em>violence should become abhorrent</em>,&rdquo;</p>
    <ul>
-    <li>You want to stop all wars? teach its abhorrance!</li>
-    <li>You want violance out of the action? teach its abhorrance!</li>
+    <li>You want to stop all wars?</li>
+    <li>You want violence out of police action? teach its abhorrance!</li>
    </ul>
+  <p>Teach its abhorrance!</p>
   <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo;
 
   <h1>Centralization</h1>
