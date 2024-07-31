@@ -43,7 +43,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p id="_signature">Gkeat Baddow, Chelmsford, October 1900</p>
   </div>
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way. To us war, another form of violence, is wrong, too. In fact, any kind of man&rsquo;s violence whether to individuals, group, or nations is wrong.</p>
-  <p>To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that <em>violence should become abhorrent</em>,&rdquo;</p>
+  <p>To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that &ldquo;<em>violence should become abhorrent</em>,&rdquo;</p>
    <ul>
     <li>You want to stop all wars?</li>
     <li>You want violence out of police action? teach its abhorrance!</li>
