@@ -55,3 +55,15 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo; That is because laws are made by a few people. It is centralized in their land.</p>
    <p>Reason and conscience comes from each of us. It is decentralized. Each of us are owners of our reason and conciousness. We can change the 'laws' that we agreed on. &ldquo;<em>No one action,</em>&rdquo; he says, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
    <p>This is decentralization!</p>
+
+<h1>Meaning</h1>
+ <div class="_citation">
+  <p>&ldquo;<em>It is not, truly speakimg, the labour that is divided, but the men&mdash;divided into mere segments of men&mdash;broken into smaill fragments and crumbs of life; so that all the little piece of intelligence that is eft in aman is nt enugh to amke a pic or a nail, but exhaust itself in making the point of a pin or the head of a nail</em>.&rdquo;</p>
+  <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
+  </div>
+  <p>Work loses all meaning</p>
+ <div class="_citation">
+  <p>&ldquo;<em>It is not that men are ill-fed, but that they have no pleasure in the work by which they make their bread, and, therefore, look to wealth as the only means of pleasure.</em>.&rdquo;</p>
+  <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
+  </div>
+  <p>We could not agree more.</p>
