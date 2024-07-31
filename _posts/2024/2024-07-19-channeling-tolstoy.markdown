@@ -81,7 +81,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
  </div>
  <p>These were presented as &ldquo;<em>unalterable laws governing man&rsquo;s economic activities</em>.&rdquo; He also called them &ldquo;tranquilizing scientific explanations,&rdquo;</p>
  <div class="_citation">
-  <p>&ldquo;<em>Political economy, which declared that it had discovered the laws which regulate division of labour and the dkistribution of the products of labour among men</em>.&rdquo;</p>
+  <p>&ldquo;<em>Political economy, which declared that it had discovered the laws which regulate division of labour and the distribution of the products of labour among men</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <div class="_citation">
