@@ -91,7 +91,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Ownership</h1>
  <div class="_citation">
-  <p>&hellip; these people are in this condition because the railway <em>belongs</em> to this company, the silk factory to that gentlemen, and all the foundries, factories, typographies, and laundries to capitalists.</p>
+  <p>&hellip; these people are in this condition because the railway belongs to this company, the silk factory to that gentlemen, and all the foundries, factories, typographies, and laundries to capitalists.</p>
  </div>
  <p>This is Fiat ownership.</p>
  <p>In the Radical system everybody who contributes to a company is a co-owner of that company.</p>
