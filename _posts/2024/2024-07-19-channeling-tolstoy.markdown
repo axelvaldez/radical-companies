@@ -79,6 +79,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>Political economy, which declared that it had discovered the laws which regulate division of labour and the dkistribution of the products of labour among men</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>These were presented as &ldquo;<em>unalterable laws& governing man&rsquo;s economic activities</em>.&rdquo;
+ <p>These were presented as &ldquo;<em>unalterable laws governing man&rsquo;s economic activities</em>.&rdquo;
 
 <h1></h1>
