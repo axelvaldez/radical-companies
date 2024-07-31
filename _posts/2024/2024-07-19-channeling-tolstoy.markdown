@@ -94,4 +94,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&hellip; these people are in this condition because the railway <em>belongs</em> to this company, the silk factory to that gentlemen, and all the foundries, factories, typographies, and laundries to capitalists.</p>
  </div>
  <p>This is Fiat ownership.</p>
- <p>In the Radical system everybody who contributes to a company is a co-owner.</p>
+ <p>In the Radical system everybody who contributes to a company is a co-owner of that company.</p>
