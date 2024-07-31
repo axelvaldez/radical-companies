@@ -41,6 +41,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <div class="_citation">
    &ldquo;&hellip;we need not suppose aman&rsquo;s nature to be immutable, and all progress forever impossible&rdquo;
   </div>
-  <p>&ldquo;<em>Laws are made by goverment and efoced by physical violence</em>.&rdquo;</p>
+  <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way; war, another form of violence, is wrong, too.</p>
   <p>All kinds of violence whether to individuals, group, or nations is wrong. To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that violence shuld become abhorrent.</em>t&rdquo; You want to stop all wars? teach its ahorrance! You want to do something like defund the police? teach its adhorance!
