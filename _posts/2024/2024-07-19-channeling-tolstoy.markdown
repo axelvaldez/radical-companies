@@ -61,7 +61,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>It is not, truly speakimg, the labour that is divided, but the men&mdash;divided into mere segments of men&mdash;broken into smaill fragments and crumbs of life; so that all the little piece of intelligence that is eft in aman is nt enugh to amke a pic or a nail, but exhaust itself in making the point of a pin or the head of a nail</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
   </div>
-  <p>Work loses all meaning</p>
+  <p>Work loses all <em>meaning</em>.</p>
  <div class="_citation">
   <p>&ldquo;<em>It is not that men are ill-fed, but that they have no pleasure in the work by which they make their bread, and, therefore, look to wealth as the only means of pleasure.</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
