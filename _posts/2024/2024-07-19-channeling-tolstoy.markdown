@@ -49,11 +49,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
     <li>You want violence out of police action?</li>
     <li>SHOW ITS ABHORRANCE!</li>
    </ul>
-  <p>Abhorrance must come directly from each one of us.</p>
+  <p>Abhorrance comes directly from each one of us.</p>
 
   <h1>Centralization</h1>
    <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo; That is because laws are made by a few people. It is centralized in their land.</p>
-   <p>Reason and conscience comes from each of us. It is decentralized. Each of us are owners of our reason and conciousness. We can change the 'laws' that we agreed on.</p>
-   <p>Baddow opinion is that Tolstoy &ldquo;<em>is dealing with the present problems on the plane of thoughts of the jurists and the economists</em>.&rdquo; &ldquo;</p>
-   <p>&ldquo;<em>No one action,</em>&rdquo; says Baddow, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
+   <p>Reason and conscience comes from each of us. It is decentralized. Each of us are owners of our reason and conciousness. We can change the 'laws' that we agreed on. &ldquo;<em>No one action,</em>&rdquo; he says, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
    <p>This is decentralization!</p>
