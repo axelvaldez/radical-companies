@@ -40,9 +40,11 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <h1>Violence</h1>
   <div class="_citation">
    <p>&ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress forever impossible</em>&rdquo;</p>
+   &hellip;
+   <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
    <p ID="_signature">Fkeat Baddow, Chelmsford, October 1900</p>
   </div>
   </div>
-  <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
+  
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way; war, another form of violence, is wrong, too.</p>
   <p>All kinds of violence whether to individuals, group, or nations is wrong. To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that violence shuld become abhorrent.</em>t&rdquo; You want to stop all wars? teach its ahorrance! You want to do something like defund the police? teach its adhorance!
