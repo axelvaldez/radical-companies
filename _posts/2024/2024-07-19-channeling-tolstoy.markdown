@@ -44,7 +44,11 @@ image:    "icon-channeling-leo-tolstoy.svg"
   </div>
   <div>
    <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
-   <p ID="_signature">Gkeat Baddow, Chelmsford, October 1900</p>
+   <p ID="_signature">Gkeat Baddow, translator, Chelmsford, October 1900</p>
   </div>
-  
-  <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way. To us war, another form of violence, is wrong, too. All kinds of violence whether to individuals, group, or nations is wrong. To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that violence shuld become abhorrent.</em>t&rdquo; You want to stop all wars? teach its ahorrance! You want to do something like defund the police? teach its adhorance!
+  <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way. To us war, another form of violence, is wrong, too. In fact. all kinds of violence whether to individuals, group, or nations is wrong. To Tolstoy is not that &ldquo;<em>people should be restrained from violence, but that violence shuld become abhorrent.</em>t&rdquo; You want to stop all wars? teach its ahorrance! You want to violance out of the police action?</em>&rsquo; teach its adhorrance!</p>
+  <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo;
+
+  <h1>Centralization</h1>
+   <p>Baddow says that Tolstoy &ldquo;<em>is dealing with the present problems on the plane of thoughts of the jurists and the economists</em>,&rdquo; &ldquo;<em>no one action,</em>&rdquo; says Baddow, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;
+   </div>
