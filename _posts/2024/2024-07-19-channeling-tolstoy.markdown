@@ -39,7 +39,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
  
  <h1>Violence</h1>
   <div class="_citation">
-   &ldquo;&hellip;we need not suppose aman&rsquo;s nature to be immutable, and all progress forever impossible&rdquo;
+   &ldquo;&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress forever impossible&rdquo;
   </div>
   <p>&ldquo;<em>Laws are made by goverment and eforced by physical violence</em>.&rdquo;</p>
   <p>To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way; war, another form of violence, is wrong, too.</p>
