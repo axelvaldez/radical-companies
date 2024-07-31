@@ -49,7 +49,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
     <li>You want violence out of police action?</li>
     <li>SHOW ITS ABHORRANCE!</li>
    </ul>
-  <p>Abhorrance comes directly from each one of us.</p>
+  <p>Abhorrance must come directly from each one of us.</p>
   <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo;
 
   <h1>Centralization</h1>
