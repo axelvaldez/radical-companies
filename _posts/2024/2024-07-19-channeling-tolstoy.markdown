@@ -39,6 +39,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
  
  <h1>Violence</h1>
   <div class="_citation">
-   &ldquo;zz &hellip;we need not suppose aman's nature to be immutable, and all progress forever impossible&rdquo;
+   &ldquo;&hellip;we need not suppose aman&rsquo;s nature to be immutable, and all progress forever impossible&rdquo;
   </div>
   <p>&ldquo;<em>Laws are made by goverment and efoced by physical violence</em>.&rdquo; To Tolstoy, &ldquo;<em>violence done by man to man is wrong</em>&rdquo; and we feel the same way. War, violence, is wrong, too. All kinds of violence whether to individuals or group, or nations is wrong as well. To Tolsdtoy is not that &ldquo;<em>people should be restrained from violence, but that violence shuld become abhorren</em>t&rdquo;
