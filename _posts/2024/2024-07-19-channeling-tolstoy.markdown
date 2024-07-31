@@ -53,6 +53,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo;
 
   <h1>Centralization</h1>
-   <p>Baddow says that Tolstoy &ldquo;<em>is dealing with the present problems on the plane of thoughts of the jurists and the economists</em>.&rdquo; &ldquo;</p>
+   <p>Baddow opinion is that Tolstoy &ldquo;<em>is dealing with the present problems on the plane of thoughts of the jurists and the economists</em>.&rdquo; &ldquo;</p>
    <p>&ldquo;<em>No one action,</em>&rdquo; says Baddow, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
    <p>This is decentralization!</p>
