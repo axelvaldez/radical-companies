@@ -99,7 +99,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Slavery</h1>
  <div class="_citation">
-  <p>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [so that] one small part of the people has full power over the labouir and the life of a larger number.</p>
+  <p>&ldquo;<em>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [so that] one small part of the people has full power over the labouir and the life of a larger number. &hellip; the fundamental causeof slavery is legislation: the fact that there are people who have the poers to make laws.</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Unfortunately true.</p>
+
+<h1></h1>
