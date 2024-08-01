@@ -74,7 +74,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>These explanations satisfied the rich and the poor (especially the rich) for a long time.</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>Later it was up to science,
+ <p>Later it was up to &lsquo;science,&rsquo;
  <div class="_citation">
   <p>&ldquo;<em>Political economy&hellip; declared that it had discovered the laws which regulate division of labour and the dkistribution of the products of labour among men</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
