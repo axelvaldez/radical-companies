@@ -102,4 +102,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [so that] one small part of the people has full power over the labouir and the life of a larger number.</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>Unfortunately.</p>
+ <p>Unfortunately true.</p>
