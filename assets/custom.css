@@ -364,8 +364,8 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
   width:95%;
   margin-left:auto;
   margin-right:auto;
-  padding-left:10%;
-  padding-right:15%;
+  padding-left:0%;
+  padding-right:0%;
   background-color:azure;
   border-left:10px solid #ccc;
 
