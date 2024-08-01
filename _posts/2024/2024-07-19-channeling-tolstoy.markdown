@@ -104,5 +104,3 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Unfortunately true.</p>
-
-<h1></h1>
