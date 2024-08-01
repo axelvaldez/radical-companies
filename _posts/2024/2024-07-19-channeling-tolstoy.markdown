@@ -96,3 +96,10 @@ image:    "icon-channeling-leo-tolstoy.svg"
  </div>
  <p>This is Fiat ownership.</p>
  <p>In the Radical system everybody who contributes to a company is a co-owner of that company determined by their RADs.</p>
+
+<h1>Slavery<h1>
+ <div class="_citation">
+  <p>&hellip;the abolition of the former slavery because among them [the Northerners in America] the monetary slavery had already shown its power to shackle preople.</p>
+  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ </div>
+ <p>And we could not agree more.</p>
