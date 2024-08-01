@@ -68,7 +68,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
  </div>
  <p>We could not agree more.</p>
 
-<h1>Convenient Explanations</h1>
+<h1>Tranquilizing Explanations</h1>
  <div class="_citation">
   <p>&ldquo;<em>After the emancipation of the slaves, &hellip; wealth entrusted by God to some people in order that they may use part of it in [what they consider] good works, and so there is no harm in some people&rsquo;s being rich and otheres poor.</em>.&rdquo;</p>
   <p>These explanations satisfied the rich and the poor (especially the rich) for a long time.</p>
