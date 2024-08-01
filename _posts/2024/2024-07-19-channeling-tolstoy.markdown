@@ -99,7 +99,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Slavery</h1>
  <div class="_citation">
-  <p>&hellip;One form of slavery id not abolished until another has already replaced it.</p>
+  <p>&hellip;One form of slavery is not abolished until another has already replaced it.</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Unfortunately.</p>
