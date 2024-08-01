@@ -99,7 +99,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Slavery</h1>
  <div class="_citation">
-  <p>&hellip;the abolition of the former slavery because among them [the Northerners in America] the monetary slavery had already shown its power to shackle preople.</p>
+  <p>&hellip;the abolition of the former slavery because among them [the Northerners in America] the monetary slavery had already shown its power to shackle preople. &hellip; One form of slavery id not abolidhrd until another has already replaced it.</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>And we could not agree more.</p>
