@@ -95,4 +95,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>This is Fiat ownership.</p>
- <p>In the Radical system everybody who contributes to a company is a co-owner of that company.</p>
+ <p>In the Radical system everybody who contributes to a company is a co-owner of that company determined by their RADs.</p>
