@@ -98,7 +98,10 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Slavery</h1>
  <div class="_citation">
-  <p>&ldquo;<em>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [So that] one small part of the people has full power over the labour and the life of a larger number</em>. &hellip; <em>the fundamental cause of slavery is legislation: the fact that there are people who have the power to make laws [and] &hellip; the essence of legislation is organized violence.</em>&rdquo;</p>
+  <p>&ldquo;<em>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [So that] one small part of the people has full power over the labour and the life of a larger number</em>. 
+  <br> 
+  <br>
+  &hellip; <em>the fundamental cause of slavery is legislation: the fact that there are people who have the power to make laws [and] &hellip; the essence of legislation is organized violence.</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Unfortunately true.</p>
