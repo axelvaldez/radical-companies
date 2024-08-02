@@ -103,6 +103,8 @@ image:    "icon-channeling-leo-tolstoy.svg"
  </div>
  <p>This is unfortunately true <em style="font-weight:200; ">to this day</em>. The word &lsquo;slavery&rsquo; is hard to write, but we must recognize that the Fiat system is based on it.</p>
  <div class="_citation">
-  <p>&ldquo;<em>The cause of the miserable condition of the workers is slavery. The cause of slavery is legislaton. Legislation rests on organized violence.</p>
+  <p>
+   &ldquo;<em>The cause of the miserable condition of the workers is slavery. The cause of slavery is legislaton. Legislation rests on organized violence.</em>&rdquo;
+  </p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
