@@ -102,7 +102,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <div class="_citation">
-  <p>&ldquo;<em>&hellip; <em>the fundamental cause of slavery is legislation: the fact that there are people who have the power to make laws [and] &hellip; the essence of legislation is organized violence.</em>&rdquo;</p>
+  <p>&ldquo;<em>&hellip; <em>the fundamental cause of slavery &hellip; rules made by people who govern by means of organized violence &hellip;</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Unfortunately true.</p>
