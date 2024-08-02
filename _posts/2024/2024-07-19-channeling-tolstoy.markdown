@@ -102,5 +102,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>This is unfortunately true <_em>to this day</_em>. The word slavery is hard to even tk write, but we must recognized that the Fiat system is based on it.</p>
- <p>&ldquo;<em>The cause of the miserable condition of the workers is slavery. The cause of slavery is legislaton. Legislation rests on organized violence.</p>
- <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ <div class="_citation">
+  <p>&ldquo;<em>The cause of the miserable condition of the workers is slavery. The cause of slavery is legislaton. Legislation rests on organized violence.</p>
+  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ </div>
