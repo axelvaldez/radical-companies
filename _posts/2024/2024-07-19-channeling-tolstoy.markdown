@@ -85,7 +85,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>Only on this way can I explain the amazing blindness of good people in our society who sincerely desire the welfare of animals, but yet with quiet consciences devour the lives the lives of their brother men.</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>In other words. the welfare of animals have to be defended; te welfare of people, only if it does not affect my pocketbook.</p>
+ <p>In other words, the welfare of animals have to be defended. The welfare of people, on the other hand, only if it does not affect my pocketbook.</p>
 
 <h1>Ownership & Slavery</h1>
  <div class="_citation">
