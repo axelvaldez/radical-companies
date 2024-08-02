@@ -93,9 +93,12 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>The above is Fiat ownership. In the Radical system everybody who contributes to a company is a co-owner of that company determined by their RADs.</p>
+
+
+<h1>Ownership & Slavery</h1>
  <div class="_citation">
-  <p>&ldquo;<em>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [So that] one small part of the people has full power over the labour and the life of a larger number</em>&rdquo;</p>
-  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ <p>&ldquo;<em>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [So that] one small part of the people has full power over the labour and the life of a larger number</em>&rdquo;</p>
+ <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Unfortunately, this is true <em style="font-weight:300; ">to this day</em>. The word &lsquo;slavery&rsquo; is hard to write, but we must recognize that the Fiat system is based on it.</p>
  <div class="_citation">
