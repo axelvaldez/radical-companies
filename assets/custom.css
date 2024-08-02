@@ -221,9 +221,6 @@ table._explicitalignment tr:nth-child(5) th {
   font-weight:bold;
   text-align:left;
 }
-/*
-table._explicitalignment tr:nth-child(1) td,
- */
 table._explicitalignment tr:nth-child(3) td,
 table._explicitalignment tr:nth-child(5) td {
   border:0;
@@ -314,9 +311,6 @@ table td._spacer {
 }
 table tr {
   vertical-align:top;
-  /*
-  font-size:smaller;
-   */
 }
 table._background ul {
   font-size:larger;
@@ -683,4 +677,7 @@ h4 {
   color:#011616;
   font-size:smaller;
   margin-bottom:2rem;
+}
+._em {
+  font-style:normal;
 }
