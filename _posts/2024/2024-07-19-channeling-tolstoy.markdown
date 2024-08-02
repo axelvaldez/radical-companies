@@ -101,4 +101,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>&hellip;One form of slavery is not abolished until another has already replaced it. &hellip; [So that] one small part of the people has full power over the labour and the life of a larger number</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>Unfortunately true.</p>
+ <p>This is unfortunately true to this day.</p>
