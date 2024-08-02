@@ -107,3 +107,10 @@ image:    "icon-channeling-leo-tolstoy.svg"
   </p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
+
+<h1>Businesses are Unecessary</h1>
+ <div class="_citation">
+  <p>&ldquo;<em>&hellip; if once upon a time [a business as it is today] was necessary it isnow absolutely unnecessary, and is, therefore, harmful and dangerous.</em>&rdquo;</p>
+  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ </div>
+ 
