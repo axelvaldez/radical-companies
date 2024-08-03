@@ -19,7 +19,8 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
  <p>In <em>Confession</em> and <em>My Religion</em> he pretty much said that he was a follower of Jesus.</p>
  <div class="_citation">
-   <p>&ldquo;<em>It seemed to me that the only true way was for me to try to follow the doctrine of Jesus</em>.&rdquo;</p>
+  <p>&ldquo;<em>It seemed to me that the only true way was for me to try to follow the doctrine of Jesus</em>.&rdquo;</p>
+  <p id="_signature">Leo Tolstoy, <em>My Religion</em></p>
  </div>
 
 <h1>Fiat Religions</h1>
