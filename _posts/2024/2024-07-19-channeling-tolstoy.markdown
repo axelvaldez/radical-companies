@@ -115,6 +115,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Decentralizaton</h1>
  <div class="_citation">
-  <p>&ldquo;<em>&hellip; life flows onward, and the conditiions of life and people's view change</em>&rdquo;</p>
+  <p>&ldquo;<em>&hellip; life flows onward, and the conditiions of life and people&rsquo;s view change</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
+ <p>Tolstoy figured out that there could not be only one way of doing things. What you put on top of the Foundation is up to the many ways of doing things.
