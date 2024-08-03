@@ -118,3 +118,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Tolstoy figured out that there would be many ways of doing things. In the case of the Radical system, what you put on top of the Foundation is up to the many ways of doing things.</p>
+
+<h1>Conclusion</h1>
+ <p>The thing that this work is missing, and all the works on the subject is missing, is even an indication of how to go about undoing the many things that he identifies as evil and not good for people. Granted this was written over two hundred ear ago, so I am not critizing. Rather, I am pointing out why the Radical system exist: to point the way to what we can do about it.</p>
+ <p>In the books <em>Radical Companies</em> and <em>Radical in Detail</em> we get into specific detals.</em>
