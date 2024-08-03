@@ -55,4 +55,4 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>RADs are the key to making this work.</p>
  <p>RADs are unitless tokens that can factor anything, including money. If you have twice as many RADs as me, you get twice as much, say, money as me.</p>
  <p>Maybe a system, based on capital tokens (shares), was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
- <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the wold. Most importantly, such an app (<a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs!</a>) will allow us to do this directly and skip the boss altogether.</p>
+ <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the wold. Most importantly, such an app (<a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs!</a>) will allow us to do this directly and connect with one another and skip the boss altogether.</p>
