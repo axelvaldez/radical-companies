@@ -7,5 +7,12 @@ image:    "icon-meaning.svg"
 ---
 
 <div style='display:none; '>
- <p>Meaning is the shortest of five children who live in the Foundation house.</p>
+ <p>Meaning is the shortest of five children who live in the Foundation house. He is also the one to stand higher.</p>
 </div>
+
+<h1></h1>
+ <p>Meaning is the shortest of five children who live in the Foundation house. He is also the one to stand higher.</p>
+
+<h1>Higher</h1>
+ <p>Meaning lays hidden until he blossoms into the arms of a community.</p>
+ <p>He hides atop a mountain and sees all there is.</p>
