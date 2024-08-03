@@ -113,5 +113,5 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>&hellip; if once upon a time [a business as it is today] was necessary it is now absolutely unnecessary, and is, therefore, harmful and dangerous.</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>Radical companies are the alternative.</p>
+ <p>Radical <em>companies</em> are the alternative.</p>
  
