@@ -19,7 +19,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
  <p>In <em>Confession</em> and <em>My Religion</em> he pretty much said that he was a follower of Jesus.</p>
  <div class="_citation">
-  <p>&ldquo;<em>It seemed to me that the only true way was for me to try to follow the doctrine of Jesus</em>.&rdquo;</p>
+  <p>&ldquo;<em>It seemed to me that the only true way was for me to trymto follow the doctrine of Jesus</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>My Religion</em></p>
  </div>
 
@@ -29,7 +29,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <li>Judaism influenced Christianity.</li>
   <li>Christianity and Judaism influenced Islam.</li>
  </ul>
- <p>These systems, starting with Zoroastrianism, installed an all powerful boss god at the top and declared all other religions (systems) heathen. They became a separate systen,</p>
+ <p>These systems, starting with Zoroastrianism, installed an all powerful boss god at the top and declared all other religions (systems) heathen. They became a separate systems,</p>
   <div class="_citation">   
    <p>&ldquo;<em>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
    <p ID="_signature">Seth Godin</p>
