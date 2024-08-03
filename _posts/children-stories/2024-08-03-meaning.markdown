@@ -1,13 +1,15 @@
 ---
 layout:   post
-title:    "Meaning"
+title:    "Meaning and Belonging"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-meaning.svg"
 ---
 
 <div style='display:none; '>
- <p>Meaning is the shortest of five children who live in the Foundation house. He is also the one to stand higher.</p>
+ <p>Meaning is the shortest of five children who live in the Foundation house. He is also the one to stand higher. He is an introvert.</p>
+ <p>Belonging is an extrovert. He enjoys company, even when they disagree with him.</p>
+ <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
 </div>
 
 <h1></h1>
