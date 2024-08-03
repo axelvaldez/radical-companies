@@ -35,8 +35,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p ID="_signature">Seth Godin</p>
   </div>
  <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read the <em>Confession</em> and <em>My Religion</em> books to verify it, but that is wrong. He did create his own unique philosophy based upon the teachings of Jesus, whilke rejecting the institutional dogma of the Church.</p>
- 
-<h1>Intro by the Translator</h1>
+
  <h1>Violence</h1>
   <div class="_citation">
    <p>&ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress for ever impossible</em>.&rdquo;</p>
