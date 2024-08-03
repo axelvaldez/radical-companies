@@ -110,7 +110,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Businesses Are Unecessary</h1>
  <div class="_citation">
-  <p>&ldquo;<em>&hellip; if once upon a time [a business as it is today] was necessary, it is now absolutely unnecessary, &hellip; harmful, and dangerous.</em>&rdquo;  &hellip; because theeffect of this organization on allte evil that exists in society is not to lessen and correct, but rather to strengthen and comfirm\ that evil.</p>
+  <p>&ldquo;<em>&hellip; if once upon a time [a business as it is today] was necessary, it is now absolutely unnecessary, &hellip; harmful, and dangerous.</em>&rdquo;  &hellip; because the effect of this organization on all the evil that exists in society is not to lessen and correct, but rather to strengthen and comfirm that evil.</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Radical <em>companies</em> are the alternative.</p>
