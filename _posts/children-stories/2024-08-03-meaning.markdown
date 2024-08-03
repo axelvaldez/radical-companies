@@ -1,0 +1,11 @@
+---
+layout:   post
+title:    "Meaning"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-meaning.svg"
+---
+
+<div style='display:none; '>
+ <p>Meaning is the shortest of five children who live in the Foundation house.</p>
+</div>
