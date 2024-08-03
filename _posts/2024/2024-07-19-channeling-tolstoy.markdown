@@ -18,6 +18,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
  <p>In <em>Confession</em> and <em>My Religion</em> he pretty much said that he was a follower of Jesus.</p>
+ <div class="_citation">
+   <p>&ldquo;<em>It seemed to me that the only true way was for me to try to follow the doctrine of Jesus</em>.&rdquo;</p>
+ </div>
 
 <h1>Fiat Religions</h1>
  <ul>
@@ -26,8 +29,8 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <li>Christianity and Judaism influenced Islam.</li>
  </ul>
  <p>These systems, starting with Zoroastrianism, installed an all powerful boss god at the top and declared all other religions (systems) heathen. They became a separate systen,</p>
-  <div class="_citation">
-   <p>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
+  <div class="_citation">   
+   <p>&ldquo;<em>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
    <p ID="_signature">Seth Godin</p>
   </div>
  <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read the <em>Confession</em> and <em>My Religion</em> books to verify it, but that is wrong. He did create his own unique philosophy based upon the teachings of Jesus, whilke rejecting the institutional dogma of the Church.</p>
