@@ -15,14 +15,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>But Leo was different.</p>
  <p> Reading his <em>The Slavery of Our Times</em> made me feel like I had been channeling Tolstoy as I was writing about about the Radical system.</p>
 
-<div class="_citation">
- <p>Once we see a system, we can change it.</p>
- <p id="_signature">Seth Godin</p>
-</div>
-
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
- <p>In <em>Confession</em> he pretty much said that the (Orthodox) Christian system of his youth was close enough.</p>
+ <p>In <em>Confession</em> he pretty much said that the Christian system of his youth was close enough.</p>
 
 <h1>Fiat Religions</h1>
  <ul>
@@ -37,6 +32,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
   </div>
  <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read the <em>Confession</em> and <em>My Religion</em> books to verify it, but that is wrong. He did create his own unique philosophy based upon the teachings of Jesus, whilke rejecting the institutional dogma of the Church.</p>
  
+<h1>Intro by the Translator</h1>
  <h1>Violence</h1>
   <div class="_citation">
    <p>&ldquo;<em>&hellip;we need not suppose a man&rsquo;s nature to be immutable, and all progress for ever impossible</em>.&rdquo;</p>
@@ -51,10 +47,11 @@ image:    "icon-channeling-leo-tolstoy.svg"
    </ul>
   <p>Abhorrance comes directly from each one of us.</p>
 
-  <h1>Centralization</h1>
-   <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo; That is because laws are made by a few people. It is centralized in their land.</p>
-   <p>Reason and conscience comes from each of us. It is decentralized. Each of us are owners of our reason and conciousness. We can change the 'laws' that we agreed on. &ldquo;<em>No one action,</em>&rdquo; he says, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
-   <p>This is decentralization!</p>
+<h1>Organization</h1>
+ <div class="_citation">
+  <p>Once we see a system, we can change it.</p>
+  <p id="_signature">Seth Godin</p>
+ </div>
 
 <h1>Meaning</h1>
  <div class="_citation">
@@ -67,6 +64,11 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, preface to <em>The Slavery of Our Times</em></p>
  </div>
  <p>We could not agree more.</p>
+
+ <h1>Centralization</h1>
+  <p>&ldquo;<em>Progress</em>,&rdquo; says Baddow, &ldquo;<em>in human well-being can only be achieved by relying more and more on reason and conscience, and less and less on man-made laws</em>.&rdquo; That is because laws are made by a few people. It is centralized in their land.</p>
+  <p>Reason and conscience comes from each of us. It is decentralized. Each of us are owners of our reason and conciousness. We can change the 'laws' that we agreed on. &ldquo;<em>No one action,</em>&rdquo; he says, &ldquo;<em>can be the next step for all men in all places</em>&rdquo;</p>
+  <p>This is decentralization!</p>
 
 <h1>Tranquilizing Explanations</h1>
  <div class="_citation">
@@ -93,7 +95,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>The above is Fiat ownership. In the Radical system everybody who contributes to a company is a co-owner of that company determined by their RADs.</p>
-
 
 <h1>Slavery</h1>
  <div class="_citation">
