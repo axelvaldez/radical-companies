@@ -102,9 +102,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
  </div>
  <p>Unfortunately, this is true <em style="font-weight:300; ">to this day</em>. The word &lsquo;slavery&rsquo; is hard to write, but we must recognize that the Fiat system is based on it.</p>
  <div class="_citation">
-  <p>
-   &ldquo;<em>The cause of the miserable condition of the workers is slavery. The cause of slavery is legislaton. Legislation rests on organized violence.</em>&rdquo;
-  </p>
+  <p>&ldquo;<em>The cause of the miserable condition of the workers is slavery. The cause of slavery is legislaton. Legislation rests on organized violence.</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
 
@@ -114,4 +112,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
  <p>Radical <em>companies</em> are the alternative.</p>
- 
+
+<h1>Decentralizaton</h1>
+ <div class="_citation">
+  <p>&ldquo;<em>&hellip; life flows onward, and the conditiions of life and people's view change</em>&rdquo;</p>
+  <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
+ </div>
