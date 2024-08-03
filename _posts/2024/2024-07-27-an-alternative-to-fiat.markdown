@@ -14,7 +14,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 <h1>Intro</h1>
  <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLP, etc., all Fiat, are all owned by one or a few people and their job is to create more capital for the owner(s). Radical is an alternative to it, based on contributions and collaboration, not capital and competition.</p>
  <p>The Radical systems, we believe, is the next stage of development for businesses. It will bring about an economic transformation for companies through truly engaged people.</p>
- <p>Fiat has grown with us, so it semmed natural. Radical is something that we have to seed conciously, like pioneers. Like Johnny Appleseed, only instead of apples all over the US, we re going to &lsquo;plant&rsquo; Radicals systems all over the world.</p>
+ <p>Fiat has grown with us, so it feels natural. Radical is something that we have to grow conciously, like pioneers. Like Johnny Appleseed, only instead of apples all over the US we re going to &lsquo;plant&rsquo; Radicals systems all over the world.</p>
 
 <h1>Collaboration</h1>
  <p>To make the business transformation happen, first the people have to transform from competitors to collaborators and manage and own companies that way.</p>
