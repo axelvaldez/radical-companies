@@ -7,13 +7,18 @@ image:    "icon-meaning.svg"
 ---
 
 <div style='display:none; '>
- <p>Meaning is the shortest of five children who live in the Foundation house. He is also the one to stand higher. He is an introvert.</p>
- <p>Belonging is an extrovert. He enjoys company, even when they disagree with him.</p>
- <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
+ <p>Meaning is the shortest of five children who live in a house called Foundation. He is also the one to stand higher. He is hidden, he is an introvert.</p>
+ <p>Belonging is an extrovert. He enjoys others, even when they disagree. Belonging learns a lot from their disagreements.</p>
 </div>
 
-<h1></h1>
- <p>Meaning is the shortest of five children who live in the Foundation house. He is also the one to stand higher.</p>
+<h1>Meaning and Belonging</h1>
+ <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
+ <p>Meaning lays hidden until it received by others. It hides atop a mountain and sees all there is. It wants to know where it belongs. That is how it found Belonging</p>
+ <br>
+ <p>Meaniong becomes taller when it is accepted by others. Meaning becomes stronger when it is supported by others, like Belonging.</p>
 
-<h1>Meaning and Belongingr</h1>
- <p>Meaning lays hidden until he blossoms into the arms of a community. He hides atop a mountain and sees all there is to see where he Belongs.</p>
+ <p>Belonging becomes happier when it finds supporting beings like Meaning.</b>
+
+<h1></h1>
+ <p>&ldquo;<em>It was long time ago,</em>&rdquo; said Belonging, &ldquo;<em>when I met Meaning. Then I met Fiat and I did not know back then how much it would change our lives.</p>
+ <p>Fiat</p>
