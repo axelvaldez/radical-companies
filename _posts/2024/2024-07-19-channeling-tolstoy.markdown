@@ -17,7 +17,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
- <p>In <em>Confession</em> he pretty much said that the Christian system of his youth was close enough.</p>
+ <p>In <em>Confession</em> and <em>My Religion</em> he pretty much said that he was a follower of Jesus.</p>
 
 <h1>Fiat Religions</h1>
  <ul>
@@ -120,5 +120,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>Tolstoy figured out that there would be many ways of doing things. In the case of the Radical system, what you put on top of the Foundation is up to the many ways of doing things.</p>
 
 <h1>Conclusion</h1>
- <p>The thing that this work and all the works on the subject are missing, is even an indication of how to go about undoing the many things that he identifies as evil and not good for people. Granted this was written well over a hundred years ago, so I am not critizing. Rather, I am pointing out that the Radical system exist to point the way to what we can do about it.</p>
+ <p>The thing that this work and all the works on the subject are missing, is even an indication of how to go about undoing the many things that he identifies as evil and not good for people.</p>
+ <p>Admittedly, this was written well over a hundred years ago, so thisis not a criticism of Tolstoy&rsquo;s work. Rather, I am pointing out that the Radical system exist as a follow up to what all the writers spoke of and point the way to what we can do about it.</p>
  <p>In the books <em>Radical Companies</em> and <em>Radical in Detail</em> we get into specific detals.</p>
