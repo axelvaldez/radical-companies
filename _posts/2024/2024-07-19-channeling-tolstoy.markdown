@@ -34,6 +34,9 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p>&ldquo;<em>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</p>
    <p ID="_signature">Seth Godin</p>
   </div>
+
+xxxxx
+
  <p>The Internet, and the Large Language Models trained on it, says that Tolstoy declared himself a Christian. You can read the <em>Confession</em> and <em>My Religion</em> books to verify it, but that is wrong. He did create his own unique philosophy based upon the teachings of Jesus, whilke rejecting the institutional dogma of the Church.</p>
 
  <h1>Violence</h1>
