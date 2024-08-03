@@ -46,8 +46,6 @@ image:    "icon-channeling-leo-tolstoy.svg"
     <li>SHOW ITS ABHORRANCE!</li>
    </ul>
   <p>Abhorrance comes directly from each one of us.</p>
-
-<h1>Organization</h1>
  <div class="_citation">
   <p>Once we see a system, we can change it.</p>
   <p id="_signature">Seth Godin</p>
