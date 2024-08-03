@@ -118,4 +118,4 @@ image:    "icon-channeling-leo-tolstoy.svg"
   <p>&ldquo;<em>&hellip; life flows onward, and the conditiions of life and people&rsquo;s view change</em>&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>The Slavery of Our Times</em></p>
  </div>
- <p>Tolstoy figured out that there would be many ways of doing things. In the case of the Radcal system, what you put on top of the Foundation is up to the many ways of doing things.</p>
+ <p>Tolstoy figured out that there would be many ways of doing things. In the case of the Radical system, what you put on top of the Foundation is up to the many ways of doing things.</p>
