@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Meaning, Belonging, and Fiat"
+title:    How It Startedt"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-meaning-belonging-and fiat.svg"
