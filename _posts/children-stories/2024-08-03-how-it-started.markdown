@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How It Startedt"
+title:    "How It Started"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-meaning-belonging-and fiat.svg"
