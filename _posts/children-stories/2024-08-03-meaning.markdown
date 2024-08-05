@@ -20,4 +20,4 @@ image:    "icon-meaning.svg"
  <p>&ldquo;<em>It was long time ago,</em>&rdquo; said Belonging, &ldquo;<em>when I met Meaning. Then I met Fiat and we were all firends. I did not know back then how much it would change our lives</em>.&rdquo;</p>
 
 <h1>Fiat</h1>
- <p>Fiat came together (was born) from pieces on the floor. Now that I think about it, they were sharp pieces. He had a way of morphing so we all saw different shapes of it. Meaning and Belonging and all the beings had that ability, but Fiat&rsquo;s was something else.</p>
+ <p>Fiat came together from pieces on the floor. Sharp pieces. He had a way of morphing so we all saw different shapes of it. Meaning and Belonging and all the beings had that ability, but Fiat&rsquo;s was something else.</p>
