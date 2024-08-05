@@ -7,7 +7,7 @@ image:    "icon-how-it-ended-up-for-now.svg"
 ---
 
 <div style='display:none; '>
- <p>Their story ends. For now.</p>
+ <p>Their story ended up. For now.</p>
 </div>
 
 <h1></h1>
