@@ -9,3 +9,18 @@ image:    "icon-how-it-went.svg"
 <div style='display:none; '>
  <p>Their story continues&hellip;</p>
 </div>
+
+<h1></h1>
+ <p></p>
+
+<h1></h1>
+ <p></p>
+
+<h1></h1>
+ <p></p>
+
+<h1></h1>
+ <p></p>
+
+<h1></h1>
+ <p></p>
