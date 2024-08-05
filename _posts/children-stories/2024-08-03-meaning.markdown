@@ -21,8 +21,8 @@ image:    "icon-meaning-belonging-and fiat.svg"
 
 <h1>Fiat</h1>
  <p>Fiat came together from only the pieces on the floor. Sharp pieces.</p>
- <p>He had a way of morphing: we all saw different shapes of it. Meaning, Belonging, and all the beings had the ability to change as they listened. Fiat&rsquo;s morphing abilities were something else.</p>
- <p>All the beings picked up pieces of love as they formed, but Fiat did not.</p>
+ <p>He had a way of morphing: we all saw different shapes of it. Meaning, Belonging, and all the beings had the ability to change as they deeply listenedn but Fiat&rsquo;s morphing abilities were something else.</p>
+ <p>By the way, all the beings picked up pieces of love as they formed, but Fiat did not.</p>
 
 <h1>How It All Started</h1>
  <p>Fiat turned out to be very divisive.</p>
