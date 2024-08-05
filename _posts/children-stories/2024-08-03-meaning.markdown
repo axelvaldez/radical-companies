@@ -17,5 +17,5 @@ image:    "icon-meaning.svg"
  <p>Meaning becomes stronger when it is supported by others, like Belonging and Fiat. Belonging becomes happier when it finds supporting beings like Meaning and Fiat.</b>
 
 <h1></h1>
- <p>&ldquo;<em>It was long time ago,</em>&rdquo; said Belonging, &ldquo;<em>when I met Meaning. Then I met Fiat and we were all firends. I did not know back then how much it would change our lives.</p>
+ <p>&ldquo;<em>It was long time ago,</em>&rdquo; said Belonging, &ldquo;<em>when I met Meaning. Then I met Fiat and we were all firends. I did not know back then how much it would change our lives.&rdquo;</p>
  <p>Fiat</p>
