@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "How It Ended"
+title:    "How It Ende Up"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-how-it-ended.svg"
+image:    "icon-how-it-ended-up.svg"
 ---
 
 <div style='display:none; '>
