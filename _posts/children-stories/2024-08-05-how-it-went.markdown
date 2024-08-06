@@ -78,4 +78,4 @@ image:    "icon-how-it-went.svg"
     width='70%'
     alt=''>
   </div>
- <p>If the proposal goes against the fundamemtal tenents of Radical, then it is a Fiat organization. And that is OK, too, if the co-owners agree to it. Eventually they will walk from it or the commjunity will change.</p>
+ <p>If the proposal goes against the fundamemtal tenents of Radical, then it is a Fiat organization. And that is OK, too, if the co-owners agree to it. Eventually they will walk away from it or the community will change.</p>
