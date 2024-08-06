@@ -41,7 +41,7 @@ image:    "icon-how-it-went.svg"
    </tr>
    <tr>
     <th style="text-align:right; column-width:45px; ">
-     Mysogeny<br>and LGBT+ low pay?
+     Mysogeny, LGBT+ low pay?
     </th>
     <td>
      Point out the she-Beings who are Being successful in Boards!
