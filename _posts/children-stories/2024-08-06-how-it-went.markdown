@@ -69,7 +69,7 @@ image:    "icon-how-it-went.svg"
     width='70%'
     alt=''>
   </div>
-  <p>You can build a house or a 20-story building on it, so long as it does not against the five Foundation tenets.</p>
+  <p>You can build a house or a 20-story building on it, <em>so long as it does not go against the five Foundation tenets</em>.</p>
 
 <h1></h1>
  <p></p>
