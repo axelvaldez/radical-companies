@@ -24,7 +24,7 @@ image:    "icon-how-it-went.svg"
  <p>Everything that that they tried to change eventually became part of it,</p>
   <table style="margin-left:30px; ">
    <tr>
-    <th width="30px; ">
+    <th width="20en; ">
      Climate change?
     </th>
     <td>
