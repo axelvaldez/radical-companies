@@ -36,7 +36,7 @@ image:    "icon-how-it-went.svg"
      Discrimination?
     </th>
     <td>
-     Bring out successful black actors, they do not need shoe polish on their face.
+     Bring out successful black actors, we can wave on the shoe polish.
     </td>
    </tr>
    <tr>
