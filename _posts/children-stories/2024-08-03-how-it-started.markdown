@@ -1,4 +1,4 @@
----
+/---
 layout:   post
 title:    "How It Started"
 subtitle: "TEMPLATE"
@@ -12,11 +12,11 @@ image:    "icon-how-it-started.svg"
 
 <h1>Meaning</h1>
  <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
- <p>Fiat had a way of morphing som thatwe all saw different shapes of it. Meaning, Belonging, and all the Beings had the ability to change as they deeply listenedn, but Fiat&rsquo;s morphing abilities were something else.</p>
- <p>By the way, all the Beings picked up pieces of love as they formed, but Fiat did not. But, still, they were friends.</p>
+ <p>Fiat had a way of morphing so that every Being saw different shapes of it. Meaning, Belonging, and all the Beings had the ability to change as they deeply listenedn, but Fiat&rsquo;s morphing abilities were something else.</p>
+ <p>Maybe it was because Fiat had not picked up pieces of love as it came togetner. Come tp think of it, it had only pickedm upm sharp shards.</p>
 
 <h1>Belonging</h1>
- <p>Belonging is a friend of Meaning and Fiat. It is defintely an extrovert. It enjoys others, even when they disagree because it learns a lot from disagreements. He listens well like all the Beings.</p>
+ <p>Belonging is a friend of Meaning and Fiat. Belonging is defintely an extrovert. It enjoys others, even when they disagree because it learns a lot from disagreements. He listens well like all the Beings.</p>
  <p>&ldquo;<em>It was long time ago</em>,&rdquo; said Belonging, &ldquo;<em>when I met Meaning first and Fiat after that</em>.&rdquo; They were all very good friends, Meaning, Belonging, and Fiat.</p>
  <p>They did not know back then how much Fiat would impact them.</p>
 
