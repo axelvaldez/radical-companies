@@ -60,15 +60,16 @@ image:    "icon-how-it-went.svg"
  <p>Radical talked to the Beings in the Foundation House and learned that every time they tried they were beaten back, with volence, something they had nver seen among Beings</p>
 
 <h1>The Radical Foundation</h1>
- <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew tat tney had different cultures. He knew that they would want to hve something that they could change. But Radical also knew the danger of having Fiat absorb it. so the Foundation had to be simple and easy to remember. It was important that Beings could ask one another how their proposal compared with the Foundation.</p>
- <p>the problem in the past ismthat a lot of Beings couldm identify the problems, but they had forgotten to point out a specific solution as an example. nd so the Radical Foundation came together. You can build a house or a 20-story building on it,
+ <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew that they had different cultures. He knew that they would want to have something that they could change, not dogma.</p>
+ <p>But Radical also knew the danger of Fiat absorbing the Foundation. So the Foundation had to be simple and easy to remember. It was important that Beings could ask one another how their proposal compared with the Foundation.</p>
+ <p>the problem in the past is that a lot of Beings could identify the problems, but they had forgotten to point out a specific solution as an example. And so the Radical Foundation came together,
   <div class='_center'>
    <img
-    src='/assets/img/pic-the-radical-foundation-house-4.svg'
+    src='/assets/img/pic-the-radical-foundation.svg'
     width='70%'
     alt=''>
   </div>
- 
+  <p>You can build a house or a 20-story building on it, so long as it does not against the five Foundation tenets.</p>
 
 <h1></h1>
  <p></p>
