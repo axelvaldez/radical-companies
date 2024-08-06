@@ -19,7 +19,7 @@ image:    "icon-how-it-went:-tears.svg"
  <p>The Beings in the shack were so stupid that they even tried to help Beings. They obbvoiusly did not know what everybody knows: the riff-raff in the shack were stupid and could not be helped.</p>
  <p>The Beings who had fallen out of grace were the perfect replacements for the riff-raff that had fallen back to pieces.</p>
 
-<h1>the Impact</h1>
+<h1>The Impact</h1>
  <p>All Beings, in and out of the Fiat House felt the impact of the Fiat House. but,  no matter, Fiat had built the perfect House.</p>
  <p>Everything that that they tried to change eventually became part of it,</p>
   <ul>
