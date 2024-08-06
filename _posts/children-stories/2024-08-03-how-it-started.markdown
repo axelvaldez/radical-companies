@@ -1,4 +1,4 @@
-/---
+---
 layout:   post
 title:    "How It Started"
 subtitle: "TEMPLATE"
