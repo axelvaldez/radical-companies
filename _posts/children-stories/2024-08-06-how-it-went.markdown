@@ -64,7 +64,7 @@ image:    "icon-how-it-went.svg"
  <p>the problem in the past ismthat a lot of Beings couldm identify the problems, but they had forgotten to point out a specific solution as an example. nd so the Radical Foundation came together. You can build a house or a 20-story building on it. But it had to have a Radical Foundation,
   <div class='_center'>
    <img
-    src='/assets/img/pic-the-radical-atomic-composition.svg'
+    src='/assets/img/pic-the-radical-foundation-house-1.svg'
     width='70%'
     alt=''>
   </div>
