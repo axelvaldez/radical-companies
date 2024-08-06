@@ -22,13 +22,33 @@ image:    "icon-how-it-went.svg"
 <h1>The Impact</h1>
  <p>All Beings, in and out of the Fiat House felt the impact of the Fiat House. but,  no matter, Fiat had built the perfect House.</p>
  <p>Everything that that they tried to change eventually became part of it,</p>
-  <ul>
-   <li>Climate change?</li>
-   <li>Green washing!</li>
-   <li>Discrimination? Bring out the actors who don&rsquo;t have to put the shoe polish on!</li>
-   <li>Mysogeny? Point out the she-Beings who are Being successful in Boards!</li>
-  </ul>
- <p>It seems that Hou\se that Fiat came up with was good at absorbing all that got in its way.</p>
+  <table>
+   <tr>
+    <th>
+     Climate change?
+    </th>
+    <td>
+     Green washing!
+    <td>
+   </tr>
+   <tr>
+    <th>
+     Discrimination?
+    </th>
+    <td>
+     Bring the black actors, they domt blackface.
+    </td>
+   </tr>
+   <tr>
+    <th>
+     Mysogeny?
+    </th>
+    <td>
+     Point out the she-Beings who are Being successful in Boards!
+    </td>
+   </tr>
+  </table>
+ <p>It seems that House that Fiat came up with was good at absorbing all that got in its way.</p>
  <p>And the time went by. And the times changed.</p>
 
 <h1>Things Changed</h1>
