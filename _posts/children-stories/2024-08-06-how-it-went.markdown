@@ -25,7 +25,7 @@ image:    "icon-how-it-went.svg"
   <table style="margin-left:30px; ">
    <tr>
     1234567890123456789012345678901234567890
-    <th width="40en; ">
+    <th style="width="40en; ">
      Climate change?
     </th>
     <td>
