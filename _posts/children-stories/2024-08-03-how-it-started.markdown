@@ -7,8 +7,8 @@ image:    "icon-how-it-started.svg"
 ---
 
 <div style='display:none; '>
- <p>Meaning is the shortest of five beings who live in a house called Foundation. It is also the one that stands higher. It is an introvert.</p>
- <p>Belonging is a friend of Meaning. It is an extrovert. It enjoys others, even when they disagree, because Belonging learns a lot from their disagreements.</p>
+ <p>Meaning is the shortest of who live in a house called Foundation. It is also the one that stands higher. I think it is what you call an introvert.</p>
+ <p>Belonging is a friend of Meaning. It is defintely an extrovert. It enjoys others, even when they disagree, because it learns a lot from disagreements.</p>
 </div>
 
 <h1>Meaning and Belonging</h1>
