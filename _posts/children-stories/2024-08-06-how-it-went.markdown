@@ -47,20 +47,22 @@ image:    "icon-how-it-went.svg"
      Point out the successful black women in Boards!
     </td>
    </tr>
-  </table>
+axelvaldez/radical-companies/_posts/2023  </table>
  <p>It seems that House that Fiat came up with was good at absorbing all that got in its way.</p>
  <p>And the time went by. And the times changed.</p>
 
 <h1>Things Changed</h1>
  <p>Radical came together from pieces on the floor left by others as they came apart.</p>
- <p>It felt the impact right away. It knew that it was coiming from the Fiat House. So he went over there with the intention of taling to them. But Fiat did not want to talk to it and everybody else was tring to confuse it.</p>
+ <p>It felt the impact right away. It knew that it was coming from the Fiat House, so he went over there to talk to them. But Fiat did not want to talk to Radical to it and the others spokein circles and tried to confuse it.</p>
  <p>He found that strange, Beings that did not want to talk. What the&hellip;?</p>
 
 <h1>Listen!</h1>
  <p>Radical talked to the Beings in the Foundation House and learned that every time they tried they were beaten back, with volence, something they had nver seen among Beings</p>
 
-<h1></h1>
- <p></p>
+<h1>The Radical Foundation</h1>
+ <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew tat tney had different cultures. He knew that they would want to hve something that they could change. But Radical also knew the danger of having Fiat absorb it. so the Foundation had to be simple and easy to remember. It was important that Beings could ask one another how their proposal compared with the Foundation.</p>
+ <p>the problem in the past ismthat a lot of Beings couldm identify the problems, but they had forgotten to point out a specific solution as an example. nd so the Radical Foundation came together. You can build a house or a 20-story building on it. But it had to have a Radical Foundation,
+ 
 
 <h1></h1>
  <p></p>
