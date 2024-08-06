@@ -41,7 +41,7 @@ image:    "icon-how-it-went.svg"
    </tr>
    <tr>
     <th>
-     Mysogeny?
+     Mysogeny and LGBT+ low pay?
     </th>
     <td>
      Point out the she-Beings who are Being successful in Boards!
