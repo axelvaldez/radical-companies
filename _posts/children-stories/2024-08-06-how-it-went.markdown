@@ -24,7 +24,7 @@ image:    "icon-how-it-went.svg"
  <p>Everything that that they tried to change eventually became part of it,</p>
   <table style="margin-left:30px; ">
    <tr>
-    <th style="text-align:right; column-width:50px; ">
+    <th style="text-align:right; column-width:40px; ">
      Climate change?
     </th>
     <td>
@@ -32,7 +32,7 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
    <tr>
-    <th style="text-align:right; column-width:50px; ">
+    <th style="text-align:right; column-width:40px; ">
      Discrimination?50
     </th>
     <td>
@@ -40,8 +40,8 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
    <tr>
-    <th style="text-align:right; column-width:50px; ">
-     Mysogeny and LGBT+ low pay?
+    <th style="text-align:right; column-width:40px; ">
+     Mysogeny<br>and LGBT+ low pay?
     </th>
     <td>
      Point out the she-Beings who are Being successful in Boards!
