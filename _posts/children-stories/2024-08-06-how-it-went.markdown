@@ -29,7 +29,7 @@ image:    "icon-how-it-went.svg"
     </th>
     <td>
      Green washing!
-    <td>
+    </td>
    </tr>
    <tr>
     <th>
