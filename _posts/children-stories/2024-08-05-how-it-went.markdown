@@ -31,6 +31,7 @@ image:    "icon-how-it-went.svg"
      Green washing!
     </td>
    </tr>
+   <tr>
     <th style="text-align:top; text-align:right; width:23ch; ">
      Discrimination?
     </th>
