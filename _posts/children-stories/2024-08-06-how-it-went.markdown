@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "How It Went: Tears"
+title:    "How It Went"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-how-it-went:-tears.svg"
+image:    "icon-how-it-went.svg"
 ---
 
 <div style='display:none; '>
