@@ -77,3 +77,4 @@ image:    "icon-how-it-went.svg"
     width='70%'
     alt=''>
   </div>
+ <p>If the proposal goes against the fundamemtal aatenents of Radical, then it is a Fiat organizatiomn<, and that kis OK too./p>
