@@ -24,14 +24,14 @@ image:    "icon-how-it-went.svg"
  <p>Everything that that they tried to change eventually became part of it,</p>
   <table>
    <tr>
-    <th style="text-align:top, right; width:23ch; ">
+    <th style="text-align:top; text-align:right; width:23ch; ">
      Climate change?
     </th>
     <td>
      Green washing!
     </td>
    </tr>
-    <th style="text-align:top, right; width:23ch; ">
+    <th style="text-align:top; text-align:right; width:23ch; ">
      Discrimination?
     </th>
     <td>
@@ -39,15 +39,14 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
    <tr>
-    <th style="text-align:top, right; width:23ch; ">
-     Mysogeny, LGBT+ low pay?
+    <th style="text-align:top; text-align:right; width:23ch; ">
     </th>
     <td>
      Point out the successful black women in Boards!
     </td>
    </tr>
    <tr>
-    <th style="text-align:top, right; width:23ch; ">
+    <th style="text-align:top; text-align:right; width:23ch; ">
      etc.
     </th>
     <td>
