@@ -11,8 +11,8 @@ image:    "icon-how-it-went:-tears.svg"
 </div>
 
 <h1>Progress?</h1>
- <p>The Fiat House had more and more Beings in its shack and over many years they had to build a much bigger House. The Beings who lived itn it tried calling themselves Chiftains, Kings, but as the House became more prosperous they just called themselves Executives.</p>
- <p>Every one of the Beings who lived the House adored Fiat. He was the Boss. The ones who did not adore Boss had to move to the shack, which had fallen badly into disrepair aand was falling-apart.</p>
+ <p>The Fiat House had more and more Beings in its shack and over many years they had to build a much bigger House. The Beings who lived itn it tried calling themselves Chieftains, Kings, but as the House became more prosperous they just called themselves Executives. They namred themselves CEOs.</p>
+ <p>Every one of the Beings who lived the House adored Fiat whomhd now become the big Boss. The ones who did not adore Boss had to move to the shack, which had fallen badly into disrepair aand was falling-apart.</p>
 
 <h1>The Riff-Raff</h1>
  <p>The Beings who lived in the shack were the riff-raff, and none of the Fiat House Beings cared about them. Somebody had to keep up the Fiat House and its amenities and they could not&hellip; just go.</p>
