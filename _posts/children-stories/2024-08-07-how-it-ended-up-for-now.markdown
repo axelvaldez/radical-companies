@@ -10,7 +10,7 @@ image:    "icon-how-it-ended-up-for-now.svg"
  <p>Their story ended up. For now.</p>
 </div>
 
-<h1></h1>
+<h1>Decentralization & Transparency</h1>
  <p></p>
 
 <h1></h1>
