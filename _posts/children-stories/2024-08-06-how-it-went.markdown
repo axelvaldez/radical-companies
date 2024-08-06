@@ -24,7 +24,7 @@ image:    "icon-how-it-went.svg"
  <p>Everything that that they tried to change eventually became part of it,</p>
   <table style="margin-left:30px; ">
    <tr>
-    <th style="column-width:30px; ">
+    <th style="text-align:right; column-width:30px; ">
      Climate change?
     </th>
     <td>
@@ -32,15 +32,15 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
    <tr>
-    <th>
+    <th style="text-align:right; column-width:30px; ">
      Discrimination?
     </th>
     <td>
-     Bring out successful black actors, they do not need show polish on their face.
+     Bring out successful black actors, they do not need shoe polish on their face.
     </td>
    </tr>
    <tr>
-    <th>
+    <th style="text-align:right; column-width:30px; ">
      Mysogeny and LGBT+ low pay?
     </th>
     <td>
