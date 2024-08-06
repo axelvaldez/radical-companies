@@ -22,9 +22,9 @@ image:    "icon-how-it-went.svg"
 <h1>The Impact</h1>
  <p>All Beings, in and out of the Fiat House felt the impact of the Fiat House. but,  no matter, Fiat had built the perfect House.</p>
  <p>Everything that that they tried to change eventually became part of it,</p>
-  <table style="margin-left:30px">
+  <table style="margin-left:30px; ">
    <tr>
-    <th>
+    <th width="30px; ">
      Climate change?
     </th>
     <td>
