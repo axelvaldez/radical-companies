@@ -73,7 +73,7 @@ image:    "icon-how-it-went.svg"
  <p>You can build a one-story house or a 20-story building on it, <em>so long as it does not go against the five Foundation tenets</em>,</p>
   <div class='_center'>
    <img
-    src='/assets/img/pic-the-radical-foundation.svg'
+    src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
     width='70%'
     alt=''>
   </div>
