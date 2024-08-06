@@ -47,7 +47,7 @@ image:    "icon-how-it-went.svg"
      Point out the successful black women in Boards!
     </td>
    </tr>
-axelvaldez/radical-companies/_posts/2023  </table>
+  </table>
  <p>It seems that House that Fiat came up with was good at absorbing all that got in its way.</p>
  <p>And the time went by. And the times changed.</p>
 
