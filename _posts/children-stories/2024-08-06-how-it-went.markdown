@@ -56,8 +56,8 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
   </table>
- <p>It seems that House that Fiat came up with was good at absorbing all that got in its way.</p>
- <p>And the time went by. And the times changed.</p>
+ <p>It seems that Fiat House was good at absorbing all that got in its way.</p>
+ <p>And the time came and went. And an eagle flew by. And the times changed.</p>
 
 <h1>Things Changed</h1>
  <p>Radical came together from pieces on the floor left by others as they came apart.</p>
