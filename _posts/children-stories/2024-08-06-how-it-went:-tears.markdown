@@ -11,13 +11,13 @@ image:    "icon-how-it-went:-tears.svg"
 </div>
 
 <h1>Progress?</h1>
- <p>The Fiat House had more and more Beings in its shack and over many years they had to build a much bigger House. The Beings who lived itn it tried calling themselves Chieftains, Kings, but as the House became more prosperous they just called themselves Executives. They namred themselves CEOs.</p>
- <p>Every one of the Beings who lived the House adored Fiat whomhd now become the big Boss. The ones who did not adore Boss had to move to the shack, which had fallen badly into disrepair aand was falling-apart.</p>
+ <p>The Fiat House had more and more Beings in its shack and over many years they had to build a much bigger House. The Beings who lived itn it tried calling themselves Chieftains, Kings, but as the House became more prosperous they just called themselves CEOs.</p>
+ <p>Every one of the Beings who lived the House adored Fiat, the Biggest Boss. The ones who did not adore the Biggest Boss had to move to the shack. Ufortunately, the shack fallen badly into disrepair aand was falling-apart.</p>
 
 <h1>The Riff-Raff</h1>
- <p>The Beings who lived in the shack were the riff-raff, and none of the Fiat House Beings cared about them. Somebody had to keep up the Fiat House and its amenities and they could not&hellip; just go.</p>
- <p>The Beings in the shack were so stupid that they even tried to help the Beings in the shack. They do not know what everybody knows that the people in shack cannot be helped. They we stupid, too.</p>
- <p>They were the perfect replacements for the riff-raff that had fallen back to pieces.</p>
+<p>Actually, the Beings who lived in the shack were the riff-raff, and none of the Fiat House Beings cared about them. Somebody had to keep up the Fiat House and its amenities. They could no justt&hellip; go.</p>
+ <p>The Beings in the shack were so stupid that they even tried to help Beings. They obbvoiusly did not know what everybody knows: the riff-raff in the shack were stupid and could not be helped.</p>
+ <p>The Beings who had fallen out of grace were the perfect replacements for the riff-raff that had fallen back to pieces.</p>
 
 <h1>the Impact</h1>
  <p>All Beings, in and out of the Fiat House felt the impact of the Fiat House. but,  no matter, Fiat had built the perfect House.</p>
