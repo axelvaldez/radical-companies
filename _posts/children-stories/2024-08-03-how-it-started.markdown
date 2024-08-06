@@ -13,8 +13,8 @@ image:    "icon-how-it-started.svg"
 
 <h1>Meaning and Belonging</h1>
  <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
- <p>Meaning remains quiet until it finds others and the he blossoms. It lives atop and deep inside and it sees all there is and he chooses where it belongs. That is how it found Belonging and Fiat.</p>
- <p>Meaning becomes stronger when it is supported by others, like Belonging and Fiat. Belonging becomes happier when it finds supporting beings like Meaning and Fiat.</p>
+ <p>Meaning remains quiet until it finds others and then he blossoms. It lives atop and deep inside and it sees all there is. That is how he chooses where it belongs.</p>
+ <p>Belonging becomes happier when it finds supporting beings like Meaning and Fiat.</p>
 
 <h1>Belonging</h1>
  <p>&ldquo;<em>It was long time ago,</em>&rdquo; said Belonging, &ldquo;<em>when I met Meaning and Fiat</em>.&rdquo; They were all very good friends, Meaning, Belonging, and Fiat. They did not know back then how much Fiat would impact their lives.</p>
