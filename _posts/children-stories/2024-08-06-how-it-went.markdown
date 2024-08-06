@@ -70,21 +70,3 @@ image:    "icon-how-it-went.svg"
     alt=''>
   </div>
   <p>You can build a one-story house or a 20-story building on it, <em>so long as it does not go against the five Foundation tenets</em>.</p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
-
-<h1></h1>
- <p></p>
