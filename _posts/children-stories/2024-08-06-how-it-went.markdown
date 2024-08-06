@@ -33,7 +33,7 @@ image:    "icon-how-it-went.svg"
    </tr>
    <tr>
     <th style="text-align:right; column-width:50px; ">
-     Discrimination?
+     Discrimination?50
     </th>
     <td>
      Bring out successful black actors, they do not need shoe polish on their face.
