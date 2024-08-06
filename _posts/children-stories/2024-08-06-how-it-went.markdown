@@ -24,7 +24,7 @@ image:    "icon-how-it-went.svg"
  <p>Everything that that they tried to change eventually became part of it,</p>
   <table style="margin-left:30px; ">
    <tr>
-    <th style="text-align:right; column-width:150px; ">
+    <th style="text-align:right; width:50ch; ">
      Climate change?
     </th>
     <td>
@@ -32,7 +32,7 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
    <tr>
-    <th style="text-align:right; column-width:150px; ">
+    <th style="text-align:right; width:50ch; ">
      Discrimination?
     </th>
     <td>
@@ -40,7 +40,7 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
    <tr>
-    <th style="text-align:right; column-width:150px; ">
+    <th style="text-align:right; width:50ch; ">
      Mysogeny, LGBT+ low pay?
     </th>
     <td>
