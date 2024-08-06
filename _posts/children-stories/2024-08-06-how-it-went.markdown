@@ -36,7 +36,7 @@ image:    "icon-how-it-went.svg"
      Discrimination?
     </th>
     <td>
-     Bring the black actors, they domt blackface.
+     Bring out successful black actors, they do not need show polish on their face.
     </td>
    </tr>
    <tr>
