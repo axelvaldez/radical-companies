@@ -30,5 +30,5 @@ image:    "icon-how-it-started.svg"
  <p>It all started when it moved out of the Foundation house with Fear and Threat; they had also very little love in them.</p>
  <p>The violence move into the the Fiat house and things really bad. The Foundation house dissapeared for hundreds of years. But Radical built a little Foundation shack, and that is where it lived with Love. They even encouraged the coming together of Coowner.</p>
 
-<h1>How It Ended</h1>
+<h1>How It Ended Up</h1>
  <p>Radical came to the rescue and all ended well, after a lot of tears.</p> 
