@@ -62,6 +62,12 @@ axelvaldez/radical-companies/_posts/2023  </table>
 <h1>The Radical Foundation</h1>
  <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew tat tney had different cultures. He knew that they would want to hve something that they could change. But Radical also knew the danger of having Fiat absorb it. so the Foundation had to be simple and easy to remember. It was important that Beings could ask one another how their proposal compared with the Foundation.</p>
  <p>the problem in the past ismthat a lot of Beings couldm identify the problems, but they had forgotten to point out a specific solution as an example. nd so the Radical Foundation came together. You can build a house or a 20-story building on it. But it had to have a Radical Foundation,
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-the-radical-atomic-composition.svg'
+    width='70%'
+    alt=''>
+  </div>
  
 
 <h1></h1>
