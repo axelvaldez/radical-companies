@@ -57,7 +57,7 @@ image:    "icon-how-it-went.svg"
  <p>He found that strange, Beings that did not want to talk. What the&hellip;?</p>
 
 <h1>Listen!</h1>
- <p>Radical talked to the beings in the Foundation House and learned that every time tney tried they were beating back, something they had nver seen among Beings</p>
+ <p>Radical talked to the Beings in the Foundation House and learned that every time tney tried they were beating back, something they had nver seen among Beings</p>
 
 <h1></h1>
  <p></p>
