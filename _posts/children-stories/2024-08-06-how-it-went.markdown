@@ -52,7 +52,7 @@ image:    "icon-how-it-went.svg"
  <p>And the time went by. And the times changed.</p>
 
 <h1>Things Changed</h1>
- <p>Radical came together from pieces on the floor left by others.</p>
+ <p>Radical came together from pieces on the floor left by others as they came apart.</p>
  <p>It felt the impact right away. It knew that it was coiming from the Fiat House. So he went over there with the intention of taling to them. But Fiat did not want to talk to it and everybody else was tring to confuse it.</p>
  <p>He found that strange, Beings that did not want to talk. What the&hellip;?</p>
 
