@@ -13,7 +13,7 @@ image:    "icon-how-it-ended-up-for-now.svg"
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization and transparency held hands as friends that they were.</p>
 
-<h1Decentralization</h1>
+<h1>Decentralization</h1>
  <p>Decentralization did not like one-for-all rules. It just didnt lke it what it did to Itsum.</p>
  <p>It liked to get to the roots of things. It allowed the Itsum to make up their own rules of top of it if they want to or change them.</p>
  <p>&ldquo;<em>It will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House, &ldquo;<em>Idialistic for Pete&rsquo;s sake!</em>,&rdquo; That is what they always say to instill fear.</p>
