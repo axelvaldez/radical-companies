@@ -70,8 +70,8 @@ image:    "icon-how-it-went.svg"
 <h1>The Radical Foundation</h1>
  <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew that they had different cultures. He knew that they would want to have something that they could change, not dogma.</p>
  <p>But Radical also knew the danger of Fiat absorbing the Foundation. So the Foundation had to be simple and easy to remember. It was important that Itsums could ask one another how their proposal compared with the Foundation.</p>
- <p>the problem in the past is that a lot of Itsums could identify the problems, but they had forgotten to point out a specific solution as an example. And so the Radical Foundation came together,
- <p>You can build a one-story house or a 20-story building on it, <em>so long as it does not go against the five Foundation tenets</em>,</p>
+ <p>A lot of Itsums could identify the problems, but they had forgotten specific solutions. They had forgotten that Itsums learn better from examples.</p>
+ <p>And so the Radical Foundation came together. You can build a one-story house or a 20-story building on it, <em>so long as it does not go against the five Foundation tenets</em>,</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
