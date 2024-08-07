@@ -26,7 +26,7 @@ image:    "icon-how-it-ended-up-for-now.svg"
  <p>Sure it was a lot of work making time to amswer all the questions. But it was worth it. For example, sometimes answering a question suggested an improvement. It made t worth it.</p>
 
 
-<h1>On the Quiet Front</h1>
+<h1>A Lot of Work</h1>
  <p>As the Radical House grew this was a lot of work. Later they will be more Itsum to answer questions, but for now it was all up to Decentralization and Transparency. And theyn loved it!</p>
 
 <h1>Speaking of RADs</h1>
