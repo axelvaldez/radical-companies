@@ -60,12 +60,12 @@ image:    "icon-how-it-went.svg"
  <p>An eagle flew and the times changed.</p>
 
 <h1>Things Changed</h1>
- <p>Radical came together from pieces on the floor left by others as they came apart. It felt the impact right away and it knew that it was coming from the Fiat House, so he went over there to talk to them. But Fiat did not want to talk to Radical and the others spoke in circles and tried to confuse Fiat.</p>
- <p>He found that strange, Itsums that did not want to talk.</p>
+ <p>Radical came together from pieces on the floor left by others as they came apart. It felt the impact right away and it knew that it was coming from the Fiat House, so he went over there to talk to them. But Fiat did not want to talk to Radical and the othersles and tried to confuse Fiat.</p>
+ <p>He found that strange, Itsums that did not want to talk.</p> spoke in circ
  <p>What the&hellip;?</p>
 
 <h1>Listen!</h1>
- <p>Radical talked to the Itsums in the Foundation House and learned that every time they tried to talk to themItsums in the Fiat House they were violeently beaten back. They had never seen this.</p>
+ <p>Radical talked to the Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten back with long sticks.</p>
 
 <h1>The Radical Foundation</h1>
  <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew that they had different cultures. He knew that they would want to have something that they could change, not dogma.</p>
