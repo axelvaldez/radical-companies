@@ -15,7 +15,7 @@ image:    "icon-how-it-went.svg"
  <p>Every one of the Itsums who lived the House adored Fiat, the Biggest Boss. The ones who did not adore the Biggest Boss had to move to the shack. Unfortunately, the shack had fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
-<p>Actually, the Itsums who lived in the shack were the riff-raff, and none of the Fiat House Itsums cared about them. Somebody had to keep up the Fiat House and its amenities. They could no just go.</p>
+ <p>Actually, the Itsums who lived in the shack were the riff-raff, and none of the Fiat House Itsums cared about them. Somebody had to keep up the Fiat House and its amenities. They could no just go.</p>
  <p>The Itsums in the shack were so stupid that they even tried to help Itsums. They obbvoiusly did not know what everybody knows: the riff-raff in the shack were stupid and could not be helped.</p>
  <p>The Itsums who had fallen out of grace were the perfect replacements for the riff-raff that had fallen back to pieces.</p>
 
