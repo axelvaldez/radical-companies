@@ -11,12 +11,12 @@ image:    "icon-how-it-went.svg"
 </div>
 
 <h1>Progress?</h1>
- <p>The Fiat House had more and more Itsum in its shack and over many years they had to build a much bigger House. The Itsums who lived itn it tried calling themselves Chieftains, Kings, but as the House became more prosperous they just called themselves Executives.</p>
- <p>Every one of the Itsums who lived the House adored Fiat, the Biggest Boss. The ones who did not adore the Biggest Boss had to move to the shack. Unfortunately, the shack had fallen badly into disrepair.</p>
+ <p>The Fiat House had more and more Itsum in its shack and over many years they had to build a much bigger House. The Itsums who lived tried calling themselves Chieftains, Kings, but as the House became more prosperous they just called themselves Executives.</p>
+ <p>Every one of the Itsums who lived the House adored Fiat, the Biggest of Bosses. The ones who did not adored the Biggest Boss had to move to the Shack. Unfortunately, the Shack had fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
  <p>Actually, the Itsums who lived in the shack were the riff-raff, and none of the Fiat House Itsums cared about them. Somebody had to keep up the Fiat House and its amenities. They could no just go.</p>
- <p>The Itsums in the shack were so stupid that they even tried to help Itsums. They obbvoiusly did not know what everybody knows: the riff-raff in the shack were stupid and could not be helped.</p>
+ <p>The Itsums in the shack were so stupid that they even tried to help Itsums. They obbvoiusly did not know what everybody knows, the riff-raff in the shack were stupid and could not be helped.</p>
  <p>The Itsums who had fallen out of grace were the perfect replacements for the riff-raff that had fallen back to pieces.</p>
 
 <h1>The Impact</h1>
@@ -56,7 +56,7 @@ image:    "icon-how-it-went.svg"
     </td>
    </tr>
   </table>
- <p>It seems that Fiat House was good at absorbing all that got in its way.</p>
+ <p>It wa obvious that Fiat House was good at absorbing all that got in its way.</p>
  <p>An eagle flew and the times changed.</p>
 
 <h1>Things Changed</h1>
@@ -65,7 +65,7 @@ image:    "icon-how-it-went.svg"
  <p>He found that strange, Itsums that did not want to talk. What the&hellip;?</p>
 
 <h1>Listen!</h1>
- <p>Radical talked to the Itsums in the Foundation House and learned that every time they tried they were beaten back, with volence, something they had nver seen among Itsums</p>
+ <p>Radical talked to the Itsums in the Foundation House and learned that every time they tried to talk they were violeently beaten back something they had nver seen among Itsums</p>
 
 <h1>The Radical Foundation</h1>
  <p>Radical thought and thought and finally came out with a simple Foundation. He knew that people needed time, he knew that they had different cultures. He knew that they would want to have something that they could change, not dogma.</p>

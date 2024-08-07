@@ -7,7 +7,8 @@ image:    "icon-how-it-started.svg"
 ---
 
 <div style='display:none; '>
- <p>Meaning is the shortest of who live in a house called Foundation. It is also the one that stands higher. I think it is what you call an introvert.</p>
+ <p>Meaning is the shortest of the Itsum who lived in the Foundation House. It is also the one that stands higher.</p>
+ <p>I think you would call it an introvert.</p>
 </div>
 
 <h1>Meaning</h1>
@@ -21,14 +22,13 @@ image:    "icon-how-it-started.svg"
  <p>They did not know back then how much Fiat would impact them.</p>
 
 <h1>Fiat</h1>
- <p>Fiat came together from  the pieces on the floor, lkke Itsums do. But he picked pieces with sharp edges.</p>
- <p>He had a way of morphing so that others saw different shapes of it. Meaning, Belonging, and all the Itsums had the ability to change as they deeply listenedn. But Fiat&rsquo;s morphing abilities were very strange. They were something else.
- <p>All the Itsums came together by picked up pieces of love as they formed. Bit Fiat was very selective.</p>
+ <p>Fiat was a friend back then. It came together from  the pieces on the floor, like Itsums do. But he picked pieces with sharp edges.</p>
+ <p>Fiat had a way of morphing so that others saw different shapes of it. Meaning, Belonging, and all the Itsums had the ability to change as they deeply listened. But Fiat&rsquo;s morphing abilities were very strange, t. They were something else.
+ <p>All the Itsums came together by picked up pieces of love as they formed. But Fiat seems very selective.</p>
 
 <h1>How It Started</h1>
- <p>Fiat turned out to be very divisive.</p>
- <p>It all started when it moved out of the Foundation house with Fear and Threat; they had also very little love in them.</p>
- <p>The violence move into the the Fiat house and things really bad. The Foundation house dissapeared for hundreds of years. But Radical built a little Foundation shack, and that is where it lived with Love. They even encouraged the coming together of Coowner.</p>
+ <p>Fiat turned out to be very divisive. It all started when it moved out of the Foundation house with Fear and Threat; they had also very little love in them.</p>
+ <p>Then Violence formed in the Fiat house and things really bad. The Foundation House almost dissapeared for hundreds of years. Until Radical built a little Foundation Shack, and that is where it lived with Love.</p>
 
 <h1>How It Ended Up</h1>
- <p>Radical came to the rescue and all ended well, after a lot of tears.</p> 
+ <p>After Radical came to the rescue all ended well. But it took a long time and tears.</p> 
