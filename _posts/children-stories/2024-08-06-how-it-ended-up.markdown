@@ -32,8 +32,7 @@ image:    "icon-how-it-ended-up.svg"
  <p>In the Radical House RADs did it. The Itsum gave RADs to each other so there was no need for a Boss.</p>
  <p>RADs is how things are distributed at the Radical House. Candy, food, etc., all distributed through RADs.</p>
 
-<h1>Foundation</h1>
- <p>And that is the Foundation,
+<h1>The Foundation</h1>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
@@ -42,4 +41,4 @@ image:    "icon-how-it-ended-up.svg"
   </div>
  <p>It points to a something that is easy to remember and technically easy to implement.</p>
  <br />
- <p>(The RADs! mobile app is available in te Apple and Google Store)</p>
+ <p>(The <em>RADs! mobile app</em> is available in te Apple and Google Stores)</p>
