@@ -7,7 +7,7 @@ image:    "icon-how-it-ended-up.svg"
 ---
 
 <div style='display:none; '>
- <p>Their story ended up. For now.</p>
+ <p>How their story ended up. For now.</p>
 </div>
 
 <h1>Decentralization & Transparency</h1>
