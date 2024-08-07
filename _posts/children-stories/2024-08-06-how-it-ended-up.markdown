@@ -7,7 +7,7 @@ image:    "icon-how-it-ended-up.svg"
 ---
 
 <div style='display:none; '>
- <p>How their story ended up. For now.</p>
+ <p>How the story ended up. For now.</p>
 </div>
 
 <h1>Decentralization & Transparency</h1>
@@ -42,3 +42,4 @@ image:    "icon-how-it-ended-up.svg"
     width='70%'
     alt=''>
   </div>
+ <p>The Foundation points to a solution that is easy to remember and technically easy to implement. The RADs! mobile app is available in te Apple and store</p>
