@@ -21,10 +21,24 @@ image:    "icon-how-it-ended-up-for-now.svg"
  <p>In fact, a failed experiment may be deserving of RADs.</p>
 
 <h1>Transparency</h1>
- <p></p>
+ <p>Transparency went around reminding Itsum to let all hang out. It it existed, others should know about it.</p>
+ <p>No trade secrets. No trademarks. No NDAs. No secrets whatsoever. Except inadvertent secrets. And that was Transparency&rsquo;s passion. That is why he went around remindig Itsum to let the inadvertent secrets find their way to the light.</p>
+ <p>Sure it was a lot of work making time to amswer all the questions. But it was worth it. For example, sometimes answering a question suggested an improvement. It made t worth it.</p>
 
-<h1></h1>
- <p></p>
 
-<h1></h1>
- <p></p>
+<h1>On the Quiet Front</h1>
+ <p>As the Radical House grew this was a lot of work. Later they will be more Itsum to answer questions, but for now it was all up to Decentralization and Transparency. And theyn loved it!</p>
+
+<h1>Speaking of RADs</h1>
+ <p>A mission wants a strategy and usually that comes from the Bosses in the Fiat House.</p>
+ <p>In the Radical House RADs did it. The Itsum gave RADs to each other so there was no need for a Boss.</p>
+ <p>RADs is how things are distributed at the Radical House. Candy, food, etc., all distributed through RADs.</p>
+
+<h1>Foundation</h1>
+ <p>And that is the Foundation,
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
+    width='70%'
+    alt=''>
+  </div>
