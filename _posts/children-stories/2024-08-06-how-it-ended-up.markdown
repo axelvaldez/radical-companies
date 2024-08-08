@@ -12,6 +12,7 @@ image:    "icon-how-it-ended-up.svg"
 
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization and Transparency always came and went together. They always held hands, like good friends.</p>
+
 <h1>Decentralization</h1>
  <p>Decentralization did not like one-for-all rules. It just didnt lke it what it did to Itsum.</p>
  <p>It liked to get to the roots of things. It allowed the Itsum to make up their own rules of top of it if they want to or change them.</p>
@@ -29,8 +30,7 @@ image:    "icon-how-it-ended-up.svg"
 
 <h1>Speaking of RADs</h1>
  <p>A mission wants a strategy and usually that comes from the Bosses in the Fiat House.</p>
- <p>In the Radical House RADs did it. The Itsum gave RADs to each other so there was no need for a Boss.</p>
- <p>RADs is how things are distributed at the Radical House. Candy, food, etc., all distributed through RADs.</p>
+ <p>In the Radical House <em>RADs did it</em>. The Itsum gave RADs to each other so there was no need for a Boss. And RADs is how things are distributed at the Radical House. Candy, food, etc., all distributed through RADs.</p>
 
 <h1>The Foundation</h1>
   <div class='_center'>

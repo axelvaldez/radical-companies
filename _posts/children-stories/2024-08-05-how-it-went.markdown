@@ -60,8 +60,8 @@ image:    "icon-how-it-went.svg"
  <p>But the times changed.</p>
 
 <h1>Things Changed</h1>
- <p>Radical came together from pieces on the floor left by others as they came apart. It felt the impact right away and it knew that it was coming from the Fiat House, so he went over there to talk to them. But Fiat did not want to talk to Radical and the othersles and tried to confuse Fiat.</p>
- <p>He found that strange that Itsums that did not want to talk.</p>
+ <p>Radical came together from pieces on the floor left by others as they came apart. It felt the impact right away and it knew that it was coming from the Fiat House.</p>
+ <p>He went over there to talk to them. But Fiat did not want to talk to Radical and the othersles and tried to confuse Fiat. He found that strange that Itsums that did not want to talk.</p>
  <p>What the&hellip;?</p>
 
 <h1>Listen!</h1>
@@ -78,4 +78,4 @@ image:    "icon-how-it-went.svg"
     width='70%'
     alt=''>
   </div>
- <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. And that is OK, too, <em>if the co-owners agree to it</em>.</p>
+ <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. But that is OK, too, <em>if the co-owners agree to it</em>.</p>
