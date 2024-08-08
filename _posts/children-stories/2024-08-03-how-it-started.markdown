@@ -29,7 +29,7 @@ image:    "icon-how-it-started.svg"
 <h1>How It Started</h1>
  <p>Fiat turned out to be very divisive. It all started when it moved out of the Foundation house with Fear and Threat;. They all had also very little love in them.</p>
  <p>Then Violence formed in the Fiat house and things really bad. The Foundation House almost dissapeared for hundreds of years.</p>
- <p>Then Radical built a little Foundation Shack, and that is where it lived with Meaning, Belonging, Decentralization, Transparency, and Exprimentation.</p>
+ <p>Then Radical built a little Foundation Shack, and that is where it lived with friends Meaning, Belonging, Decentralization, Transparency, and Experimentation.</p>
 
 <h1>How It Ended Up</h1>
  <p>All ended well. But it took a long time and a lot of tears.</p> 
