@@ -22,10 +22,10 @@ image:    "icon-how-it-ended-up.svg"
 <h1>Transparency</h1>
  <p>Transparency went around reminding Itsum to let all hang out. If it it existed, others must know about it.</p>
  <p>No trade secrets. No trademarks. No NDAs. No secrets whatsoever. Except inadvertent secrets. And that was Transparency&rsquo;s passion. That is why he went around remindig Itsum to bring their inadvertent secrets to the light.</p>
- <p>Sure it was a lot of work making time to answer the questions, but it was worth it. Sometimes answering a suggested an improvement brought about othere ideas and made it very worth it and satisfyig.</p>
+ <p>Sure it was a lot of work to answer the questions, but it was worth it. Sometimes answering a suggested an improvement brought about othere ideas and made it very worth it and satisfyig.</p>
 
 <h1>A Lot of Work</h1>
- <p>As the Radical House grew this was a lot of work. Later they will be more Itsum to answer questions, but for now it was all up to Decentralization and Transparency, and theyn loved it!</p>
+ <p>As the Radical House grew. Later they will be more Itsum to answer questions, but for now it was all up to Decentralization and Transparency, and theyn loved it!</p>
 
 <h1>Speaking of RADs</h1>
  <p>A mission wants a strategy and usually that comes from the Bosses in the Fiat House.</p>
