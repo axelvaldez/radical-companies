@@ -11,13 +11,13 @@ image:    "icon-how-it-went.svg"
 </div>
 
 <h1>Progress?</h1>
- <p>The Fiat House had more and more Itsums in its shack and over many years they had to build a much bigger House. The Itsums who lived there calling themselves Chieftains or\ Kings, but as the House became more prosperous they just called themselves Executives.</p>
+ <p>The Fiat House had more and more Itsums in its shack and over many years they had to build a much bigger House. The Itsums who lived there calling themselves Chieftains and then Kings, but as the House became more prosperous they just called themselves Executives.</p>
  <p>Every one of the Itsums who lived the House adored Fiat, the Biggest of Bosses. The ones who did not adored the Biggest Boss had to move to the Shack. Unfortunately, the Shack had fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
  <p>Actually, the Itsums who lived in the shack were the riff-raff, and none of the Fiat House Itsums cared about them. Somebody had to keep up the Fiat House and its amenities. They could no just go.</p>
- <p>The Itsums in the shack were so stupid that they even tried to help Itsums. They obbvoiusly did not know what everybody knows, the riff-raff in the shack were stupid and could not be helped.</p>
- <p>The Itsums who had fallen out of grace were the perfect replacements for the riff-raff that had fallen back to pieces.</p>
+ <p>The Itsums in the shack were so stupid that they even tried to help other Itsums. They obbvoiusly did not know that the riff-raff in the shack were stupid and could not be helped.</p>
+ <p>The Itsums who had fallen out of grace were the perfect replacements for the riff-raff that had fallen back to pieces from overwork.</p>
 
 <h1>The Impact</h1>
  <p>All Itsums, in and out of the Fiat House felt the impact of the Fiat House. But, no matter, it seemed that Fiat had built the perfect House to entrap Itsums. Even the things that tried to change the Fiat House became part of it,</p>

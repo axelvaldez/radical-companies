@@ -15,9 +15,9 @@ image:    "icon-how-it-ended-up.svg"
 <h1>Decentralization</h1>
  <p>Decentralization did not like one-for-all rules. It just didnt lke it what it did to Itsum.</p>
  <p>It liked to get to the roots of things. It allowed the Itsum to make up their own rules of top of it if they want to or change them.</p>
- <p>&ldquo;<em>It will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House, &ldquo;<em>That is so idialistic for Pete&rsquo;s sake!</em>.&rdquo; That is what they always say to instill fear.</p>
- <p>What they do not say is that it may be that way if your livelihood depends of it, your autonomy. In the Radical House, however, we do everhything as an experiment. We either get it done and stop being &ldquo;idealistic,&rdquo; or we learn how not to do it.</p>
- <p>In fact, a failed experiment may be deserving of RADs.</p>
+ <p>&ldquo;<em>It will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House, &ldquo;<em>So idialistic for Pete&rsquo;s sake!</em>.&rdquo; That is what they always say to instill fear.</p>
+ <p>What they do not say is that it may be that way <strong><em>if</em></strong> your livelihood depends of it, your autonomy. In the Radical House, however, Itsums do everhything as an experiment. We either get it done so that it stopped being &ldquo;idealistic,&rdquo; or we learn how not to do it.</p>
+ <p>(A failed experiment, in fact, may be deserving of RADs.)</p>
 
 <h1>Transparency</h1>
  <p>Transparency went around reminding Itsum to let all hang out. If it it existed, others must know about it.</p>
