@@ -43,7 +43,7 @@ image:    "icon-how-it-went.svg"
      Mysogeny and LGBT+ low pay?
     </th>
     <td>
-     Point out the successful black women in Boards!
+     Point out the successful women in prestigious Boards!
     </td>
    </tr>
    <tr>
