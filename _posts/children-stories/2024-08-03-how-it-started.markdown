@@ -27,8 +27,9 @@ image:    "icon-how-it-started.svg"
  <p>All the Itsums came together by picked up pieces of love as they formed. But Fiat seems very selective.</p>
 
 <h1>How It Started</h1>
- <p>Fiat turned out to be very divisive. It all started when it moved out of the Foundation house with Fear and Threat; they had also very little love in them.</p>
- <p>Then Violence formed in the Fiat house and things really bad. The Foundation House almost dissapeared for hundreds of years. Until Radical built a little Foundation Shack, and that is where it lived with Love.</p>
+ <p>Fiat turned out to be very divisive. It all started when it moved out of the Foundation house with Fear and Threat;. They all had also very little love in them.</p>
+ <p>Then Violence formed in the Fiat house and things really bad. The Foundation House almost dissapeared for hundreds of years.</p>
+ <p>Then Radical built a little Foundation Shack, and that is where it lived with Meaning, Belonging, Decentralization, Transparency, and Exprimentation.</p>
 
 <h1>How It Ended Up</h1>
- <p>After Radical came to the rescue all ended well. But it took a long time and tears.</p> 
+ <p>All ended well. But it took a long time and a lot of tears.</p> 
