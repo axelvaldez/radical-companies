@@ -33,3 +33,7 @@ image:    "icon-how-it-started.svg"
 
 <h1>How It Ended Up</h1>
  <p>All ended well. But it took a long time and a lot of tears.</p>
+
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a></span>
+</div>
