@@ -32,4 +32,4 @@ image:    "icon-how-it-started.svg"
  <p>Then Radical built a little Foundation Shack, and that is where it lived with friends Meaning, Belonging, Decentralization, Transparency, and Experimentation.</p>
 
 <h1>How It Ended Up</h1>
- <p>All ended well. But it took a long time and a lot of tears.</p> 
+ <p>All ended well. But it took a long time and a lot of tears.</p>
