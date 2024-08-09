@@ -82,6 +82,6 @@ image:    "icon-how-it-went.svg"
  <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. And Fiat organizations are OK, too, <em>if the co-owners agree to it</em>.</p>
  
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/03/how-it-started">                           &lt; Previous &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/03/how-it-started">                           &lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">Next &gt;</a></span>
 </div>
