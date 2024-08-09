@@ -39,3 +39,8 @@ image:    "icon-how-it-ended-up.svg"
  <p>This is easy to remember and technically easy and keep you on track.</p>
  <br />
  <p>(The <em>RADs! mobile app</em> is available in te Apple and Google <em>App Stores</em>)</p>
+
+<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/09/E09-would-be-masters">&lt; Previous</a></span>
+ <!-- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E11-the-fiat-enclaves">   Next &gt;</a></span> -->
+</div>
