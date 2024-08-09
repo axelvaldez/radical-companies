@@ -83,5 +83,5 @@ image:    "icon-how-it-went.svg"
  
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/03/how-it-started">                           &lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">Next &gt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/06/how-it-ended-up">Next &gt;</a></span>
 </div>
