@@ -16,9 +16,10 @@ image:    "icon-how-it-went.svg"
  <p>The Shack had, unfortunately, fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
- <p>Actually, the Itsums who lived in the Fiat Shack were the riff-raff, and none of the Fiat House Itsums. Somebody had to work to keep up the Fiat House and its amenities. They could no just go and Violence made sure of that.</p>
- <p>Some Itsums in the shack even tried to help other Itsums. They obbviously did not know that the riff-raff in the Shack could not be helped, as Fiat had explained. Other Itsums in the Fiat Shack had fallen out of grace with Fiat for some reason.</p>
- <p> They were the perfect replacements for the riff-raff that had let themselves fallen back to pieces from overwork.</p>
+ <p>Actually, the Itsums who lived in the Fiat Shack were the riff-raff, and not the Fiat House Itsums.</p>
+ <p>Somebody had to work to keep up the Fiat House and its amenities. The Itsum in the Fiat Shack could no just go and Violence made sure of that.</p>
+ <p>Itsums in the Fiat Shack had fallen out of grace with Fiat for some reason. Some of them had even tried to help the others. They obbviously did not know that the riff-raff in the Shack could not be helped, as Fiat had said.</p>
+ <p>That made the Itsums in the Fiat Shack the perfect replacements for the riff-raff that had fallen back to pieces from a little hard work.</p>
 
 <h1>The Impact</h1>
  <p>All Itsums, in and out of the Fiat House felt the impact of the Fiat House. But, no matter, it seemed that Fiat had built the perfect House to entrap Itsums. Even the things that tried to change the Fiat House became part of it,</p>
@@ -36,7 +37,7 @@ image:    "icon-how-it-went.svg"
      Discrimination?
     </th>
     <td>
-     Bring out successful people of color.
+     Bring out successful Itsums of color.
     </td>
    </tr>
    <tr>
@@ -66,21 +67,22 @@ image:    "icon-how-it-went.svg"
  <p>What the&hellip;?</p>
 
 <h1>Listen!</h1>
- <p>Radical talked to the Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten.</p>
+ <p>Radical talked to the few Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten.</p>
 
 <h1>The Radical Foundation</h1>
- <p>Radical thought and thought. Eventually it came out with a simple Foundation. He knew that people needed time, he knew that they had different cultures and sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
- <p>Radical also knew the danger of Fiat absorbing the Foundation. So the Foundation had to be simple and easy to remember. Itsums could ask one another how ideas compared with the Foundation. And theyn were reminded to experiment.</p>'
+ <p>Radical thought and thought and eventually it came out with a simple Foundation, inspired by the Itsums left in the Foundation House. It knew that Itsums needed time. It knew that they had different cultures and sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
+ <p>Radical also knew the Fiat House might corrupt the Foundation. So it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation. It would even remind them to experiment.</p>'
 
 <h1>Nothing New</h1>
- <p>Over time Itsums had identify the problems, but they had not come sith sample solutions. It seemed that they had forgotten that Itsums learn better from examples. You can build a one-story house or a 20-story building on it, <em>so long as it does not go against the five Radical Foundation</em>,</p>=
+ <p>In the past Itsums had identify many problems tieh the Fiat House, but they had not come with solutions. It seemed that they had forgotten that Itsums learn better from examples.</p>
+ <p>You can build a one-story house or a 20-story building on  Radical Foundation, <em>so long as it does not go against its five elements</em>,</p>=
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
     width='70%'
     alt=''>
   </div>
- <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. And Fiat organizations are OK, too, <em>if the co-owners agree to it</em>.</p>
+ <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. Fiat organizations are OK, too, <em>if the co-owners agree to it</em>.</p>
  
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/03/how-it-started">                           &lt; Previous</a></span>
