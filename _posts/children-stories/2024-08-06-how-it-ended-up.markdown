@@ -14,14 +14,14 @@ image:    "icon-how-it-ended-up.svg"
  <p>Decentralization and Transparency always came and went together. They held hands, too, like good friends.</p>
 
 <h1>Decentralization</h1>
- <p>Decentralization did not like one-for-all rules. It just didnt the efect it had on Itsums. It liked to get to the roots of things so that Itsums can make or change their own rules.</p>
- <p>&ldquo;<em>It will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House. &ldquo;<em>So idialistic for Pete&rsquo;s sake!</em>.&rdquo; That is what they always said to instill fear.</p>
- <p>What they do not say is that it may be that way <strong><em>if</em></strong> your livelihood, your autonomy, depends of it. But it do not have to be that way. For example, in the Radical House Itsums do everhything as an experiment and they either get it done (so that it stopped being &ldquo;idealistic,&rdquo;) or we learn (how not to do it).</p>
+ <p>Decentralization did not like rules that applied to everybody. It just didnt like the efect it had on Itsums.</p>
+ <p>Decentralization liked to get to the roots of things. It liked making Itsums independent of rules so that they can make, or change, their own rules. &ldquo;<em>It will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House. &ldquo;<em>So idialistic for Pete&rsquo;s sake!</em>.&rdquo; That is what they always said to instill fear.</p>
+ <p>What they do not say is that <em>it may be that way,</em> <strong><em>if</em></strong> your livelihood, your autonomy, depends of it. But it do not have to be that way. For example, in the Radical House Itsums do everhything as an experiment and they either get it done (so that it stopped being &ldquo;idealistic,&rdquo;) or we learn (how not to do it).</p>
  <p>Come to think if it, a failed experiment may be deserving of RADs.</p>
 
 <h1>Transparency</h1>
- <p>Transparency went around reminding Itsums to let all hang out. If it it existed, others must know about it.</p>
- <p>No trade secrets. No trademarks. No NDAs. No secrets whatsoever. Except inadvertent secrets. And that was Transparency&rsquo;s passion and why he went around remindig Itsums to bring their inadvertent secrets to the light.</p>
+ <p>Transparency went around reminding Itsums to let it all hang out. If it it existed, others must know about it.</p>
+ <p>No trade secrets. No trademarks. No NDAs. No secrets whatsoever. Except inadvertent secrets. And that was Transparency&rsquo;s passion. That is why he went around remindig Itsums to bring their <em>inadvertent secrets</em> to the light.</p>
  <p>There were lots of questions and it sure was a lot of work to answer the questions, but it was worth it. In fact. sometimes answering a question suggested an improvement. And that was worth it and satisfyig.</p>
  <p>Later they will be more Itsums to answer questions, after they lived it, but for now it was all up to Decentralization and Transparency, and theyn loved it!</p>
 
