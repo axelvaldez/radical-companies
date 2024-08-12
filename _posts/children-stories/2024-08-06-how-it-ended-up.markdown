@@ -15,8 +15,9 @@ image:    "icon-how-it-ended-up.svg"
 
 <h1>Decentralization</h1>
  <p>Decentralization did not like rules that applied to everybody. It just didnt like the efect it had on Itsums.</p>
- <p>Decentralization liked to get to the roots of things. It liked making Itsums so that they can make, or change, their own rules. &ldquo;<em>It will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House. &ldquo;<em>So idialistic for Pete&rsquo;s sake!</em>.&rdquo; That is what they always said to instill fear.</p>
- <p>What they do not say is that <em>it may be that way,</em> <strong><em>if</em></strong> your livelihood, your autonomy, depends of it. But it do not have to be that way. For example, in the Radical House Itsums do everhything as an experiment and they either get it done (so that it stopped being &ldquo;idealistic,&rdquo;) or we learn (how not to do it).</p>
+ <p>Decentralization liked to get to the roots of things. It liked making Itsums so that they can make, or change, their own rules. &ldquo;<em>But it will be chaos</em>,&rdquo; they yelled louder and louder from the Fiat House. &ldquo;<em>So idialistic for Pete&rsquo;s sake!</em>.&rdquo; That is what they always said to instill fear.</p>
+ <p>What they do not say is that <em>it may be that way,</em> <strong><em>if</em></strong> your livelihood, your autonomy, depends of it. But it do not have to be that way.</p>
+ <p>For example, in the Radical House Itsums do everhything as an <em>experiment</em> and they either get it done (so that it stopped being &ldquo;idealistic,&rdquo;) or we learn (how not to do it).</p>
  <p>Come to think if it, a failed experiment may be deserving of RADs.</p>
 
 <h1>Transparency</h1>
