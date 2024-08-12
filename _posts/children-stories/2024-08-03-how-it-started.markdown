@@ -20,15 +20,16 @@ image:    "icon-how-it-started.svg"
  <p>They did not know back then how much Fiat would impact them.</p>
 
 <h1>Fiat</h1>
- <p>Fiat was a friend back then of Meaning and Belonging. It came together from the pieces on the floor, like Itsums do. But it had a preference for pieces with sharp edges.</p>
- <p>Meaning, Belonging, and all the Itsums had the ability to change as they deeply listened. But Fiat&rsquo;s morphing abilities were very something else.
+ <p>Fiat came together from the pieces on the floor, like Itsums do. But it had a preference for pieces with sharp edges. Meaning, Belonging, and all the Itsums had the ability to change as they deeply listened. But Fiat&rsquo;s morphing abilities were very something else.
  <p>All the Itsums picked up pieces of love as they came together, but not Fiat.</p>
 
 <h1>How It Started</h1>
- <p>Fiat turned out to be very divisive. It all started when it moved out of the Foundation house with Fear and Threat;. They all had also very little love in them.</p>
- <p>Then Violence came together in the Fiat house and things really bad.</p>
- <p>As the Fiat House grew, the Foundation House almost dissapeared, but feelings and vague memoreis remained.</p>
- <p>Then Radical built a little Foundation Shack, and that is where it lived with friends Meaning, Belonging, Decentralization, Transparency, and Experimentation.</p>
+ <p>Fiat turned out to be very divisive. It all started when it moved out of the Foundation House with Fear and Threat. All three of them had also very little love in them. Then Violence came together in the Fiat House and things really bad for most Itsums.</p>
+ <p>As the Fiat House grew, the Foundation House almost dissapeared, but feelings and vague memories remained with the Itsums.</p>
+
+<h1>Radical</h1>
+ <p>Radical came together in the Foundation House. It lived there with Meaning, Belonging, Decentralization, Transparency, and Experimentation.</p>
+ <p>They did not know back then how much Radical would impact them.</p>
 
 <h1>How It Ended Up</h1>
  <p>All ended well. But it took a long time and a lot of tears.</p>
