@@ -11,7 +11,7 @@ image:    "icon-how-it-ended-up.svg"
 </div>
 
 <h1>Decentralization & Transparency</h1>
- <p>Decentralization and Transparency always came and went together. And they held hands, too, like good friends.</p>
+ <p>Decentralization and Transparency always came and went together. They held hands, too, like good friends.</p>
 
 <h1>Decentralization</h1>
  <p>Decentralization did not like one-for-all rules. It just didnt the efect it had on Itsums. It liked to get to the roots of things so that Itsums can make or change their own rules.</p>
