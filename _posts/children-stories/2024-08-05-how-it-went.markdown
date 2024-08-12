@@ -62,15 +62,14 @@ image:    "icon-how-it-went.svg"
  <p>But the times changed.</p>
 
 <h1>Radical</h1>
- <p>Radical came together from pieces on the floor. Like other Itsums, it felt the impact right away that was coming from the Fiat House.</p>
- <p>He went over there to talk to them. But Biggest Boss Fiat did not want to talk to Radical. The others in the Fiat House just tried to confuse it. He found that strange that Itsums that did not want to talk.</p>
- <p>What the&hellip;?</p>
+ <p>Radical came together from pieces on the floor. Like other Itsums, it felt the impact that was coming from the Fiat House.</p>
+ <p>He went over there to talk to them. But Biggest Boss Fiat did not want to talk to Radical. The others in the Fiat House just tried to confuse Radical. He found that strange that Itsums that did not want to talk, like Itsums a the foundation House.</p>
 
 <h1>Listen!</h1>
  <p>Radical talked to the few Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten.</p>
 
 <h1>The Radical Foundation</h1>
- <p>Radical thought and thought and eventually it came out with a simple Foundation, inspired by the Itsums left in the Foundation House. It knew that Itsums needed time. It knew that they had different cultures and sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
+ <p>Radical thought and thought and eventually it came out with a simple Foundation, inspired by the few Itsums left in the Foundation House. It knew that Itsums needed time. It knew that they had different cultures and sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
  <p>Radical also knew the Fiat House might corrupt the Foundation. So it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation. It would even remind them to experiment.</p>'
 
 <h1>Nothing New</h1>
