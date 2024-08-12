@@ -7,19 +7,19 @@ image:    "icon-how-it-went.svg"
 ---
 
 <div style='display:none; '>
- <p>Their story continues&hellip;</p>
+ <p>How their story continues&hellip;</p>
 </div>
 
-<h1>Progress?</h1>
- <p>The Fiat Shack had more and more Itsums in it, so had to built a full blown House. The Itsums who lived there calling themselves Chieftains and Kings, but as the House became more prosperous they just called themselves Executives.</p>
+<h1>Progress</h1>
+ <p>The Fiat Shack had more and more Itsums in it, so Fiat had to built a full blown House. The Itsums who lived there calling themselves Chieftains and Kings, but as the House became more prosperous they just called themselves Executives.</p>
  <p>Every one of the Itsums who lived the Fiat House adored Fiat, the Biggest of Bosses. The ones who did not adored the Biggest Boss were moved to the old Shack by Violence.</p>
- <p>The Shack had, unfortunately, fallen badly into disrepair.</p>
+ <p>The Fiat Shack had, unfortunately, fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
  <p>Actually, the Itsums who lived in the Fiat Shack were the riff-raff, and not the Fiat House Itsums.</p>
- <p>Somebody had to work to keep up the Fiat House and its amenities. The Itsum in the Fiat Shack could no just go and Violence made sure of that.</p>
- <p>Itsums in the Fiat Shack had fallen out of grace with Fiat for some reason. Some of them had even tried to help the others. They obbviously did not know that the riff-raff in the Shack could not be helped, as Fiat had said.</p>
- <p>That made the Itsums in the Fiat Shack the perfect replacements for the riff-raff that had fallen back to pieces from a little hard work.</p>
+ <p>Somebody had to work to keep up the Fiat House and its amenities. The Itsum in the Fiat Shack could not just leave and Violence made sure of that.</p>
+ <p>Itsums in the Fiat Shack had fallen out of grace with Fiat. Some of them had even tried to help the others Itsums. They obviously did not know that the riff-raff in the Shack could not be helped, as Fiat had decreed.</p>
+ <p>That made the Itsums in the Fiat Shack the perfect replacements as others disgraced Itsums had fallen back to pieces from their cruel hard work.</p>
 
 <h1>The Impact</h1>
  <p>All Itsums, in and out of the Fiat House felt the impact of the Fiat House. But, no matter, it seemed that Fiat had built the perfect House to entrap Itsums. Even the things that tried to change the Fiat House became part of it,</p>
