@@ -45,7 +45,7 @@ image:    "icon-how-it-went.svg"
      Mysogeny and LGBT+ low pay?
     </th>
     <td>
-     Point out the successful women in prestigious Boards!
+     Point out the successful women and LGTB+ on prestigious Boards!
     </td>
    </tr>
    <tr>
@@ -62,8 +62,8 @@ image:    "icon-how-it-went.svg"
  <p>But the times changed.</p>
 
 <h1>Radical</h1>
- <p>Radical came together from pieces on the floor. Like othres Itsum, it felt the impact right away that was coming from the Fiat House.</p>
- <p>He went over there to talk to them. But Biggest Boss Fiat did not want to talk to Radical. The others just tried to confuse Fiat. He found that strange that Itsums that did not want to talk.</p>
+ <p>Radical came together from pieces on the floor. Like other Itsums, it felt the impact right away that was coming from the Fiat House.</p>
+ <p>He went over there to talk to them. But Biggest Boss Fiat did not want to talk to Radical. The others in the Fiat House just tried to confuse it. He found that strange that Itsums that did not want to talk.</p>
  <p>What the&hellip;?</p>
 
 <h1>Listen!</h1>
