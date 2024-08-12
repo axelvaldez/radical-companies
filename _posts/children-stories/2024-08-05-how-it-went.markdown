@@ -73,7 +73,7 @@ image:    "icon-how-it-went.svg"
  <p>Radical also knew the Fiat House might corrupt the Foundation. So it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation. It would even remind them to experiment.</p>'
 
 <h1>Nothing New</h1>
- <p>In the past Itsums had identify many problems tieh the Fiat House, but they had not come with solutions. It seemed that they had forgotten that Itsums learn better from examples.</p>
+ <p>In the past Itsums had identify many problems at the Fiat House, but they had not come up with solutions. It seemed that they had forgotten that Itsums learn better from examples.</p>
  <p>You can build a one-story house or a 20-story building on  Radical Foundation, <em>so long as it does not go against its five elements</em>,</p>=
   <div class='_center'>
    <img
@@ -81,7 +81,7 @@ image:    "icon-how-it-went.svg"
     width='70%'
     alt=''>
   </div>
- <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. Fiat organizations are OK, too, <em>if the co-owners agree to it</em>.</p>
+ <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. Fiat organizations are OK, too, <em>if others agree to it</em>.</p>
  
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/03/how-it-started">                           &lt; Previous</a></span>
