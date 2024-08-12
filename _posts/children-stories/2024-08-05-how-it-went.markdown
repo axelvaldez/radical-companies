@@ -16,9 +16,9 @@ image:    "icon-how-it-went.svg"
  <p>The Shack had, unfortunately, fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
- <p>Actually, the Itsums who lived in the shack were the riff-raff, and none of the Fiat House Itsums. Somebody had to work to keep up the Fiat House and its amenities. They could no just go and Violence made sure of that.</p>
- <p>Some Itsums in the shack even tried to help other Itsums. They obbviously did not know that the riff-raff in the Shack could not be helped, as Fiat had explained.</p>
- <p>The Itsums who had fallen out of grace were the perfect replacements for the riff-raff that had let themselves fallen back to pieces from overwork.</p>
+ <p>Actually, the Itsums who lived in the Fiat Shack were the riff-raff, and none of the Fiat House Itsums. Somebody had to work to keep up the Fiat House and its amenities. They could no just go and Violence made sure of that.</p>
+ <p>Some Itsums in the shack even tried to help other Itsums. They obbviously did not know that the riff-raff in the Shack could not be helped, as Fiat had explained. Other Itsums in the Fiat Shack had fallen out of grace with Fiat for some reason.</p>
+ <p> They were the perfect replacements for the riff-raff that had let themselves fallen back to pieces from overwork.</p>
 
 <h1>The Impact</h1>
  <p>All Itsums, in and out of the Fiat House felt the impact of the Fiat House. But, no matter, it seemed that Fiat had built the perfect House to entrap Itsums. Even the things that tried to change the Fiat House became part of it,</p>
