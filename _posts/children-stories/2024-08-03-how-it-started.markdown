@@ -3,7 +3,7 @@ layout:   post
 title:    "How It Started"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-how-it-started.svg"
+image:    "icon-01-how-it-started.svg"
 ---
 
 <div style='display:none; '>

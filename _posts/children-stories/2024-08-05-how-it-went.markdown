@@ -3,7 +3,7 @@ layout:   post
 title:    "How It Went"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-how-it-went.svg"
+image:    "icon-02-how-it-went.svg"
 ---
 
 <div style='display:none; '>
