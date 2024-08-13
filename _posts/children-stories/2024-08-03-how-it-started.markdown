@@ -15,7 +15,9 @@ image:    "icon-01-how-it-started.svg"
  <p>They were friends with Fiat.</p>
 
 <h1>Belonging</h1>
- <p>Belonging is a friend of Meaning; and Fiat. Belonging is defintely an extrovert. It enjoys others, even when they disagree because it learns a lot from disagreements. He listens well like all the Itsums, &ldquo;<em>It was long time ago</em>,&rdquo; said Belonging, &ldquo;<em>when I met Meaning first and Fiat after that</em>.&rdquo;</p>
+ <p>Belonging is a friend of Meaning; and Fiat.</p>
+ <p>Belonging is defintely an extrovert. It enjoys others, even when they disagree because it learns a lot from disagreements.</p>
+ <p>He listens well like all the Itsums, &ldquo;<em>It was long time ago</em>,&rdquo; said Belonging, &ldquo;<em>when I met Meaning first and Fiat after that</em>.&rdquo;</p>
  <p>They did not know back then how much Fiat would impact them.</p>
 
 <h1>Fiat</h1>
