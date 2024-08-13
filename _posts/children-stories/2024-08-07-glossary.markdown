@@ -39,5 +39,42 @@ image:    "icon-04-glossary.svg"
      An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or to an audience.
     </td>
    </tr>
+
+   <tr>
+    <th>
+     Fiat
+    </th>
+    <td>
+     &ldquo;<em>Because I said so!</em>&rdquo; Your parents may sound Fiat, but they love you.
+    </td>
+   </tr>
+
+   <tr>
+    <th>
+     Itsums
+    </th>
+    <td>
+     An imaginary race. You may be an Itsum.
+    </td>
+   </tr>
+
+   <tr>
+    <th>
+     Foundation House
+    </th>
+    <td>
+     Where the Itsums live.
+    </td>
+   </tr>
+
+   <tr>
+    <th>
+     Fiat House
+    </th>
+    <td>
+     A House motivated by Making money. In its pursuit, they use slavey and others from of violence. 
+    </td>
+   </tr>    
+
   </table>
  </div>
