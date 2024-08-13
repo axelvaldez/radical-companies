@@ -62,19 +62,19 @@ image:    "icon-04-glossary.svg"
 
    <tr>
     <th>
-     Itsums
+     Introvert
     </th>
     <td>
-     <p>An imaginary race. You may be an Itsum.</p>
+     An Itsum that does not say much or does not make eye contact. Introverts do not like to speak to an audience, they rather talk to people they know.
     </td>
    </tr>
 
    <tr>
     <th>
-     Introvert
+     Itsums
     </th>
     <td>
-     An Itsum that does not say much or does not make eye contact. Introverts do not like to speak to an audience, they rather talk to people they know.
+     <p>An imaginary race. You may be an Itsum.</p>
     </td>
    </tr>
 
