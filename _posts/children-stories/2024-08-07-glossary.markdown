@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Story's lossary"
+title:    "The Story's Glossary"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-04-glossary.svg"
