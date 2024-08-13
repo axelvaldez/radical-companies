@@ -22,7 +22,8 @@ image:    "icon-02-how-it-went.svg"
  <p>That made the Itsums in the Fiat Shack the perfect replacements as others disgraced Itsums had fallen back to pieces from their cruel hard work.</p>
 
 <h1>The Impact</h1>
- <p>All Itsums, in and out of the Fiat House felt the impact of the Fiat House. But, no matter, it seemed that Fiat had built the perfect House to entrap Itsums. Even the things that tried to change the Fiat House became part of it,</p>
+ <p>All Itsums, in and out of the Fiat House felt the impact of the Fiat House. But, no matter, it seemed that Fiat had built the perfect House to entrap Itsums.</p>
+ <p>Even the things that aimed to change the Fiat House became absorved by it,</p>
   <table>
    <tr>
     <th style="text-align:top; text-align:right; width:25ch; ">
