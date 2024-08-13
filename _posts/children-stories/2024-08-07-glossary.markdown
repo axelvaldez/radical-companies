@@ -55,8 +55,17 @@ image:    "icon-04-glossary.svg"
      Foundation House
     </th>
     <td>
-     <p>Where the Itsums live.</p>
+     <p>Where the Itsums live, when tjey do not live in the Fiat House.</p>
      <p>The opposite of Fiat. Money is nice, but people's well being is more important at the Foundation House.</p>
+    </td>
+   </tr>
+
+   <tr>
+    <th>
+     Green Washing
+    </th>
+    <td>
+     <p>What looks good for Mother Earth, but is not.</p>
     </td>
    </tr>
 
@@ -75,6 +84,15 @@ image:    "icon-04-glossary.svg"
     </th>
     <td>
      <p>An imaginary race. You may be an Itsum.</p>
+    </td>
+   </tr>
+
+   <tr>
+    <th>
+     Mysogeny
+    </th>
+    <td>
+     <p>Exploitation abd discrimination of women. Most women of the world are exploited this way. &ldquo;<em>Of course we paid them less, they are women</em>.&rdquo;</p>
     </td>
    </tr>
 
