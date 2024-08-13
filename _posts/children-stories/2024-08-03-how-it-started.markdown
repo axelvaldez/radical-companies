@@ -7,7 +7,7 @@ image:    "icon-01-how-it-started.svg"
 ---
 
 <div style='display:none; '>
- <p>Meaning is wat you would a deep introvert.</p>
+ <p>Meaning is what you would call a deep introvert.</p>
 </div>
 
 <h1>Meaning</h1>
