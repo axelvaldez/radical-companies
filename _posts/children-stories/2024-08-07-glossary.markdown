@@ -36,7 +36,7 @@ image:    "icon-04-glossary.svg"
      Extrovert
     </th>
     <td>
-     An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or an audience.
+     An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or to an audience.
     </td>
    </tr>
   </table>
