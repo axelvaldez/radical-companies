@@ -30,9 +30,9 @@ image:    "icon-04-glossary.svg"
     </td>
    </tr>
    <tr>
-    <td>
+    <th>
      Extrovert
-    </td>
+    </th>
     <td>
      An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or an audience.
     </td>
