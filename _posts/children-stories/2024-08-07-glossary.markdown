@@ -1,0 +1,23 @@
+---
+layout:   post
+title:    "The Story's lossary"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez, Anita Perez"
+image:    "icon-glossary.svg"
+---
+
+<div style='display:none; '>
+ <p>The Story&rsquo;s Glossary.</p>
+</div>
+
+<h1>The Storu&rsquo;s Glossary</h1>
+ <p>Characters,</p>
+  <ul>
+   <tr>
+    <td>
+     Meaning, Belonging, Decentralization, Transparency. Experimentation, as well as Fiat, Radical, other capitalized words.
+    </td>
+   </tr>
+  </ul>
+ <p>Introvert, is a person, or Itsum, that does not say much but thinks a lot. Introverts Do not like to speak to an audience.They rather talk to people they know.</p>
+ <p>Extrovert, is a person, or Itsum, that tinks out loud. Extroverts like to speak to an audience.</p>  
