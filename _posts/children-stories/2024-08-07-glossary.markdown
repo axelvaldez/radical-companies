@@ -78,5 +78,14 @@ image:    "icon-04-glossary.svg"
     </td>
    </tr>
 
+   <tr>
+    <th>
+     Riff-raff
+    </th>
+    <td>
+     <p>A degorratlory term used whe the Fiat House Itsums taked about the Fiat Shack Itsums.</p>
+    </td>
+   </tr>
+
   </table>
  </div>
