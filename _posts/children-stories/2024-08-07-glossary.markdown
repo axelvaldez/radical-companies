@@ -30,7 +30,7 @@ image:    "icon-04-glossary.svg"
      An Itsum that does not say much or does not make eye contact. Introverts do not like to speak to an audience, they rather talk to people they know.
     </td>
    </tr>
-   
+
    <tr>
     <th>
      Extrovert
@@ -39,5 +39,5 @@ image:    "icon-04-glossary.svg"
      An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or an audience.
     </td>
    </tr>
-  <table>
+  </table>
  </div>
