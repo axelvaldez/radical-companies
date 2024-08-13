@@ -10,14 +10,32 @@ image:    "icon-04-glossary.svg"
  <p>The Story&rsquo;s Glossary.</p>
 </div>
 
-<h1>The Storu&rsquo;s Glossary</h1>
- <p>Characters,</p>
-  <ul>
+<h1>The Story&rsquo;s Glossary</h1>
+ <div class='_center'>
+  <table class='_foundation'>
    <tr>
+    <th>
+     Characters
+    </th>
     <td>
      Meaning, Belonging, Decentralization, Transparency. Experimentation, as well as Fiat, Radical, other capitalized words.
     </td>
    </tr>
-  </ul>
- <p>Introvert, is a person, or Itsum, that does not say much but thinks a lot. Introverts Do not like to speak to an audience.They rather talk to people they know.</p>
- <p>Extrovert, is a person, or Itsum, that tinks out loud. Extroverts like to speak to an audience.</p>  
+   <tr>
+    <th>
+     Introvert
+    </th>
+    <td>
+     An Itsum that does not say much or does not make eye contact. Introverts do not like to speak to an audience, they rather talk to people they know.
+    </td>
+   </tr>
+   <tr>
+    <td>
+     Extrovert
+    </td>
+    <td>
+     An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or an audience.
+    </td>
+   </tr>
+  <table>
+ </div>
