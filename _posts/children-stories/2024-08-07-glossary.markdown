@@ -45,7 +45,7 @@ image:    "icon-04-glossary.svg"
      Fiat
     </th>
     <td>
-     &ldquo;<em>Because I said so!</em>&rdquo; Your parents may sound Fiat, but they love you.
+     <p>&ldquo;<em>Because I said so!</em>&rdquo; Your parents may sound Fiat sometimes, but they love you.</p>
     </td>
    </tr>
 
@@ -54,7 +54,7 @@ image:    "icon-04-glossary.svg"
      Itsums
     </th>
     <td>
-     An imaginary race. You may be an Itsum.
+     <p>An imaginary race. You may be an Itsum.</p>
     </td>
    </tr>
 
@@ -63,7 +63,8 @@ image:    "icon-04-glossary.svg"
      Foundation House
     </th>
     <td>
-     Where the Itsums live.
+     <p>Where the Itsums live.</p>
+     <p>The opposite of Fiat. Money is nice, but people's well being is more important at the Foundation House.</p>
     </td>
    </tr>
 
@@ -74,7 +75,16 @@ image:    "icon-04-glossary.svg"
     <td>
      A House motivated by Making money. In its pursuit, they use slavey and others from of violence. 
     </td>
-   </tr>    
+   </tr>
+
+   <tr>
+    <th>
+     Foundation House
+    </th>
+    <td>
+     The opposite of Fiat House. At the Foundation House money is nice, but people's well being is more important.
+    </td>
+   </tr>
 
   </table>
  </div>
