@@ -28,7 +28,7 @@ image:    "icon-an-alternative-to-fiat.svg"
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
  <p>&hellip; or for the better,</p>
-  <div class="_citation" style="font-size:10px; ">
+  <div class="_citation">
    <p>If a child lives with tolerance, he learnss to be patient</p>
    <p>If a child lives with encouragement, he learns to be confident</p>
    <p>If a child lives with praise, he learns to appreciate</p>
