@@ -49,10 +49,17 @@ image:    "icon-an-alternative-to-fiat.svg"
 <h1>Companies</h1>
  <p>Co-management has momentum behind it. But co-management is not enough, it needs co-ownership.</p>
  <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage, it is more than likely that the system will go back to the Fiat ways. On the other hand, when everybody is a co-owner the company will likely remain Radical.</p>
- <p>In any case, this is going to be difficult and quite possibly take a long time, but it will happen.</p>
+ <p>In any case, this is going to quite possibly take a long time, but it will happen.</p>
+ <p>By the way, the word <em>company</em> comes from Latin <em>com-</em> (thogether) and <em>pan</em> (bread, food>), meaning <em>people who break bread together</em>.</p>
+ <div class="_citation">
+  As palatial rankings solidified, so did te pantheon of gods. Violence within and milkitary conquests between states were  accomoanied by mergers and acquisitions among their deities. Cosolidating hierarchies gave raise to supreme gos, thisrty for blood and eager for war. the Ggods climbed to the skies, severed their direct rekation with their worshippers, and grew evermore mysterious and difficult to understand. A hierarchy of intermediaries&mdash;read, organized church&mdash;was now responsible for representing and interpreting them.</p>
+  <p class="_signature"><em>The Road to Gaza
+  <br />Shimshon Bichier and Jonathan Nitzan,
+  <br />August 2024</em></p> 
+ </div>
 
 <h1>RADs</h1>
  <p>RADs are the key to making this work.</p>
- <p>RADs are unitless tokens that can factor anything, including money. If you have twice as many RADs as me, you get twice as much, say, money as me.</p>
- <p>Maybe a system, based on capital tokens (shares), was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
- <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the wold. Most importantly, such an app (<a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs!</a>) will allow us to do this directly and connect with one another and skip the boss altogether.</p>
+ <p>RADs are unitless tokens that can factor anything through them. If you have twice as many RADs as me, you get twice as much (<em>e.g.</em>, money) as me.</p>
+ <p>Maybe a system, based on capital and distributed through shares was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
+ <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the wold. Most importantly, such an app (<a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs! mobile app</a>) allows us to do this directly, connect with one another, and skip the boss altogether.</p>
