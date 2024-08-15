@@ -71,7 +71,7 @@ image:    "icon-02-how-it-went.svg"
 
 <h1>The Radical Foundation</h1>
  <p>Radical thought and thought and eventually it came out with a simple Foundation, inspired by the few Itsums left in the Foundation House. It knew that Itsums needed time. It knew that they had different cultures and sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
- <p>Radical also knew the Fiat House might corrupt the Foundation. So it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation. It would even remind them to experiment.</p>'
+ <p>Radical also knew the Fiat House might corrupt the Foundation. So it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation. It would even remind them to experiment.</p>
 
 <h1>Nothing New</h1>
  <p>In the past Itsums had identify many problems at the Fiat House, but they had not come up with solutions. It seemed that they had forgotten that Itsums learn better from examples.</p>
