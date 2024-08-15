@@ -59,4 +59,4 @@ image:    "icon-an-alternative-to-fiat.svg"
 <h1>RADs</h1>
  <p>RADs are key to making this work in the 21<sup>th</sup> century. They can factor anything through them; they indicate a percentage. If you have twice as many RADs as me, you get twice as much (<em>e.g.</em>, money) as me.</p>
  <p>Shares was all that could be done in the past, maybe. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
- <p>With a <a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs! mobile app</a>, we can recognize contributions and give people RADs anywhere in the world. Most importantly, such an app allows us to connect with one another and skip the boss altogether.</p>
+ <p>With a <a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs! mobile app</a>, we can recognize contributions and give people RADs anywhere in the world. Most importantly, such an app allows us to connect with one another doirectly; no need for a boss.</p>
