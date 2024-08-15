@@ -41,10 +41,10 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p style="margin-top:6px; ">We are driven by the desire to collaborate and we want to make an impact, as it happens, for example,  how people collaborate and help each other after a tornado or an earthquake.</p>
 
  <h1>Impact</h1>
- <p>The Fiat system blocks us from collaborating at work and only let us do whatever the boss thinks will grow the capital of the Fiat owner(s).</p>
- <p>The Radical system allows you to make an impact based on collaboration and openess. The Fiat system pushes us towards competition and secrecy. It blocks us from maing an impact other than to make money.</p>
- <p>At Fiat workplaces we give up our autonomy for money and instead do what the boss says to do and how to do it. Follow the rules. Stay in your silo. Keep doing it the way the boss said to do it, even if we know how to do it for less cost and effort.</p>
- <p>This makes innovation impossible and it makes people disengage. Just keep doing your work until it is time to leave.<p>
+ <p>The Fiat system blocks us from collaborating at work.It only let us do whatever the boss thinks will grow his capital.</p>
+ <p>The Radical system allows you to make an impact based on collaboration and openess. The Fiat system pushes us towards competition and secrecy. It blocks us from making an impact other than to grow his capital.</p>
+ <p>At Fiat workplaces we exchange our autonomy for money and do what the boss says to do and how to do it. Follow the rules. Stay in your silo. Keep doing it the way the boss said, even if we know how to do it for less cost and effort.</p>
+ <p>This makes innovation impossible. And it makes people disengage. Just keep doing what the boss expects you to do, your work, until it is time to leave.<p>
 
 <h1>Companies</h1>
  <p>Co-management has momentum behind it. But co-management is not enough.</p>
