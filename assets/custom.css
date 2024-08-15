@@ -679,3 +679,8 @@ h4 {
   font-size:smaller;
   margin-bottom:2rem;
 }
+
+._illustration {
+  font-size:small;
+  border:gray 1px solid;
+}
