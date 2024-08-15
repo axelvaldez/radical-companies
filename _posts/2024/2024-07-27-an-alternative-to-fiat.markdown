@@ -53,11 +53,11 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>By the way, the word <em>company</em> comes from Latin <em>com-</em> (thogether) and <em>pan</em> (bread, food>), meaning <em>people who break bread together</em>.</p>
  <div class="_citation">
   <p>As palatial rankings solidified, so did the pantheon of gods. Violence within and military conquests between states were  accompanied by mergers and acquisitions among their deities. Consolidating hierarchies gave raise to <em>supreme gods</em>, thirsty for blood and eager for war. The gods climbed to the skies, severed their direct relation with their worshippers, and grew evermore mysterious and difficult to understand. A hierarchy of intermediaries&mdash;read, organized church&mdash;was now responsible for representing and interpreting them.</p>
-  <p id="_signature"><a href="https://bnarchives.yorku.ca/830/4/20240800_bn_the_road_to_gaza_wpcasp_web.htm">The Road to Gaza</a></p> 
+  <p id="_signature"><a href="https://bnarchives.yorku.ca/830/4/20240800_bn_the_road_to_gaza_wpcasp_web.htm" target="_blank">The Road to Gaza</a></p> 
  </div>
 
 <h1>RADs</h1>
- <p>RADs are the key to making this work.</p>
- <p>RADs are unitless tokens that can factor anything through them. If you have twice as many RADs as me, you get twice as much (<em>e.g.</em>, money) as me.</p>
- <p>Maybe a system, based on capital and distributed through shares was all that could be done in the past. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
+ <p>RADs are the key to making this work in the 21<sup>th</sup> century.</p>
+ <p>RADs are unitless tokens that can factor anything through them; they indicate a percentage. If you have twice as many RADs as me, you get twice as much (<em>e.g.</em>, money) as me.</p>
+ <p>Shares was all that could be done in the past, maybe. But we are in the 21<sup>th</sup> century now. We carry super computers in our pockets and we can connect with anybody in the world through the Internet.</p>
  <p>With a telephone app, we can recognize contributions and give people RADs anywhere in the wold. Most importantly, such an app (<a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs! mobile app</a>) allows us to do this directly, connect with one another, and skip the boss altogether.</p>
