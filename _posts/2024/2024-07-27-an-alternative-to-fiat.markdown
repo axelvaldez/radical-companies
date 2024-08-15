@@ -38,7 +38,7 @@ image:    "icon-an-alternative-to-fiat.svg"
    <p>If a child lives with acceptance and frienship, he learns to find love in the world</p>
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
- <p style="margin-top:6px; ">We are driven by the desire to collaborate and we want to make an impact, as it happens, for example,  how people collaborate and help each other after a tornado or an earthquake.</p>
+ <p style="margin-top:6px; ">We are driven by the desire to collaborate and we want to make an impact, as it happens when people help each other after a tornado or an earthquake.</p>
 
  <h1>Impact</h1>
  <p>The Fiat system blocks us from collaborating at work.It only let us do whatever the boss thinks will grow his capital.</p>
