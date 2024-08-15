@@ -48,7 +48,7 @@ image:    "icon-an-alternative-to-fiat.svg"
 
 <h1>Companies</h1>
  <p>Co-management has momentum behind it. But co-management is not enough, it needs co-ownership.</p>
- <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage it is more than likely that the system will go back to the Fiat system. On the other hand, when everybody is a co-owner, the company will remain Radical.</p>
+ <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage, it is more than likely that the system will go back to the Fiat ways. On the other hand, when everybody is a co-owner the company will likely remain Radical.</p>
  <p>In any case, this is going to be difficult and quite possibly take a long time, but it will happen.</p>
 
 <h1>RADs</h1>
