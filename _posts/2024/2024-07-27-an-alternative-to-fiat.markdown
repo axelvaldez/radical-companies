@@ -47,8 +47,7 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>This makes innovation impossible; it makes people disengage. Just keep doing what the boss expects you to do until it is time to leave.<p>
 
 <h1>Companies</h1>
- <p>Co-management has momentum behind it. But co-management is not enough.</p>
- <p>It needs co-ownership.</p>
+ <p>Co-management has momentum behind it. But co-management is not enough. It needs co-ownership.</p>
  <p>Co-management by itself is fragile. The minute the benevolent boss leaves the stage it is more than likely that the system will go back to the Fiat system. On the other hand, when everybody is a co-owner, the company will remain Radical.</p>
  <p>In any case, this is going to be difficult and quite possibly take a long time, but it will happen.</p>
 
