@@ -7,20 +7,20 @@ image:    "icon-an-alternative-to-fiat.svg"
 ---
 
 <div style='display:none; '>
- <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLP, etc., they are all Fiat owned, owned by one or a few people.</p>
+ <p>Fiat is the name we have given the system we live in today. It is based on capital and competition. Corp, LLC, LLP, etc., they are all Fiat owned by one or a few people.</p>
  <p>Radical is an alternative to it.</p>
 </div>
 
 <h1>Intro</h1>
- <p>Fiat is our name for the system we live in today, based on capital and competition. Corp, LLC, LLP, etc., all Fiat, are all owned by one or a few people and their job is to create more capital for the owner(s). Radical is an alternative to it, based on contributions and collaboration, not capital and competition.</p>
- <p>The Radical systems, we believe, is the next stage of development for businesses. It will bring about an economic transformation for companies through truly engaged people.</p>
+ <p>Fiat is our name for the system we live in today. It is based on capital and competition. Corp, LLC, LLP, etc., all Fiat, are all owned by one or a few people and their job is to create more capital for the owner(s). Radical is an alternative to it, based on contributions and collaboration, not capital and competition.</p>
+ <p>The Radical systems, we believe, is the next stage of development for businesses. It is not a &lsquo;fix&rsquo; to the Fiat system. It will bring about an economic transformation for companies through truly engaged people.</p>
  <p>Fiat has grown with us, so it feels natural. Radical is something that we have to grow conciously, like pioneers. Like Johnny Appleseed, only instead of apples all over the US we re going to &lsquo;plant&rsquo; Radicals systems all over the world.</p>
 
 <h1>Collaboration</h1>
  <p>To make the business transformation happen, first the people have to transform from competitors to collaborators and manage and own companies that way.</p>
  <p>Collaboration does not come naturally because we have been born and grown up in the Fiat system, and so did our parents and grandparents.
  <p>We all, and children most of all, learn what we live, whether is for the worse,</p>
-  <div class="_citation" style="font-size:20px; ">
+  <div class="_citation" style="font-size:10px; ">
    <p>If a child lives with criticism, he learns to condem</p>
    <p>If a child lives with hostility, he learns to fight</p>
    <p>If a child lives with ridicule, he learns to be shy</p>
@@ -28,7 +28,7 @@ image:    "icon-an-alternative-to-fiat.svg"
    <p id="_signature">Dorothy Law Nolte</p>
   </div>
  <p>or for the better,</p>
-  <div class="_citation" style="font-size:20px; ">
+  <div class="_citation" style="font-size:10px; ">
    <p>If a child lives with tolerance, he learnss to be patient</p>
    <p>If a child lives with encouragement, he learns to be confident</p>
    <p>If a child lives with praise, he learns to appreciate</p>
