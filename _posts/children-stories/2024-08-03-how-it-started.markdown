@@ -12,7 +12,7 @@ image:    "icon-01-how-it-started.svg"
 
 <h1>Meaning</h1>
  <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
- <p class="_illustration">Hidinbg ibn a persons brain.</p>
+ <p class="_illustration">Happily hiding in a persons brain.</p>
  <p>They were friends with Fiat.</p>
 
 <h1>Belonging</h1>
