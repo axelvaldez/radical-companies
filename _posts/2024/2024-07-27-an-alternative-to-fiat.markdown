@@ -53,7 +53,7 @@ image:    "icon-an-alternative-to-fiat.svg"
  <p>By the way, the word <em>company</em> comes from Latin <em>com-</em> (thogether) and <em>pan</em> (bread, food>), meaning <em>people who break bread together</em>.</p>
  <div class="_citation">
   <p>As palatial rankings solidified, so did the pantheon of gods. Violence within and military conquests between states were  accompanied by mergers and acquisitions among their deities. Consolidating hierarchies gave raise to <em>supreme gods</em>, thirsty for blood and eager for war. The gods climbed to the skies, severed their direct relation with their worshippers, and grew evermore mysterious and difficult to understand. A hierarchy of intermediaries&mdash;read, organized church&mdash;was now responsible for representing and interpreting them.</p>
-  <p class="_signature"><em><a href="https://bnarchives.yorku.ca/830/4/20240800_bn_the_road_to_gaza_wpcasp_web.htm">The Road to Gaza</a>, Shimshon Bichier and Jonathan Nitzan, August 2024</em></p> 
+  <p id="_signature"><em><a href="https://bnarchives.yorku.ca/830/4/20240800_bn_the_road_to_gaza_wpcasp_web.htm">The Road to Gaza</a>, Shimshon Bichier and Jonathan Nitzan, August 2024</em></p> 
  </div>
 
 <h1>RADs</h1>
