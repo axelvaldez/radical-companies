@@ -35,6 +35,6 @@ image:    "icon-01-how-it-started.svg"
 <h1>How It Ended Up</h1>
  <p>All ended well. But it took a long time and a lot of tears.</p>
 
-<div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
+<div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/05/how-it-went">Next &gt;</a></span>
 </div>
