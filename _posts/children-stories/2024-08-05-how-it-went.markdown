@@ -75,7 +75,7 @@ image:    "icon-02-how-it-went.svg"
 
 <h1>Nothing New</h1>
  <p>In the past Itsums had identify many problems at the Fiat House, but they had not come up with solutions. It seemed that they had forgotten that Itsums learn better from examples.</p>
- <p>You can build a one-story house or a 20-story building on  Radical Foundation, <em>so long as it does not go against its five elements</em>,</p>=
+ <p>You can build a one-story house or a 20-story building on  Radical Foundation, <em>so long as it does not go against its five elements</em>,</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
