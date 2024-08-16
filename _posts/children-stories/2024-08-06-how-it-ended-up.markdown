@@ -33,5 +33,5 @@ image:    "icon-03-how-it-ended-up.svg"
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/05/how-it-went">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/03/how-it-starts">   First Page &gt;</a></span> -->
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/07/glossary">Next &gt;</a></span>
 </div>
