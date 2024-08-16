@@ -684,6 +684,7 @@ h4 {
   width:40%;
   float:right;
   font-size:small;
+  margin-left:1ch;
   border:gray 1px solid;
   background-color:#dedede;
 }
