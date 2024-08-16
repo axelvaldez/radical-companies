@@ -33,7 +33,7 @@ image:    "icon-01-how-it-started.svg"
 <h1>How It Started</h1>
  <p>Fiat turned out to be very divisive. It got worse when it moved out of the Foundation House with Fear and Threat.</p>
  <p>All three of them had also very little love in them. Then Violence came together and things got really much worse for most Itsums.</p>
-  <div class="_illustration">Small ad shrinking Foundation House next to a bit bigger and growing Fiat House.</div>
+  <div class="_illustration">Small and shrinking Foundation House next to a bit bigger and growing Fiat House.</div>
  <p>As the Fiat House grew, the Foundation House almost dissapeared.</p>
 
 <h1>Radical</h1>
