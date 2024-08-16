@@ -66,7 +66,7 @@ image:    "icon-02-how-it-went.svg"
   <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces and multicolor hearts levitating.</div>
  <p>Radical came together from pieces on the floor. Like other Itsums, it felt the impact that was coming from the Fiat House.</p>
  <p>He went over there to talk to them. But Fiat did not want to talk to Radical. The others in the Fiat House just tried to confuse Radical. He found that strange that Itsums that did not want to talk and were more interested in confusing other Itsums.</p>
-  <div class="_illustration">Itsums from the Fiat House beating Itsums from the Foundation House with wooden sticks&mdash;the look a lot like police battons.</div>
+  <div class="_illustration">Itsums from the Fiat House beating Itsums from the Foundation House with wooden sticks&mdash;they look <strong>a lot</strong> like police battons.</div>
  <p>Radical talked to the few Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten.</p>
 
 <h1>The Radical Foundation</h1>
