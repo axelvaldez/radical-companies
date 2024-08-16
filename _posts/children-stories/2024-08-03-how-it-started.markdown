@@ -12,7 +12,7 @@ image:    "icon-01-how-it-started.svg"
 
 <h1>Meaning</h1>
  <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
-           <div class="_illustration">Impish human happily hiding inside a normal human brain.</div>
+           <div class="_illustration">Impish character happily hiding inside a normal human brain.</div>
  <p>They were friends with Fiat.</p>
 
 <h1>Belonging</h1>
