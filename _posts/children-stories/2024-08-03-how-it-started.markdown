@@ -16,13 +16,8 @@ image:    "icon-01-how-it-started.svg"
  <p>They were friends with Fiat.</p>
 
 <h1>Belonging</h1>
-  <div class="_illustration">
-   Impish character, very happy interacting with others.
-  </div>
  <p>Belonging is a friend of Meaning and Fiat.</p>
-  <div class="_illustration">
-   Impish character, very happy interacting with others.
-  </div>
+  <div class="_illustration">Impish character, very happy interacting with others.</div>
  <p>Belonging is defintely an extrovert. It enjoys others, even when they disagree because it learns a lot from disagreements.</p>
   <div class="_illustration">Show Meaning and Belonging holding hands while Fiat is not. In fact, Fiat is a bit separated from them.</div>
  <p>He listens well, like all the Itsums. &ldquo;<em>It was long time ago</em>,&rdquo; said Belonging, &ldquo;<em>I met Meaning first and Fiat later</em>.&rdquo;</p>
