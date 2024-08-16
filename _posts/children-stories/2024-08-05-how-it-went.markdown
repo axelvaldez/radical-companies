@@ -63,14 +63,14 @@ image:    "icon-02-how-it-went.svg"
  <p>But the times were changing.</p>
 
 <h1>Radical</h1>
-  <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces and multicolor hearts levitating.</div>
+  <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces from the floor and multicolor hearts levitating.</div>
  <p>Radical came together from pieces on the floor. Like other Itsums, it felt the impact that was coming from the Fiat House.</p>
  <p>He went over there to talk to them. But Fiat did not want to talk to Radical. The others in the Fiat House just tried to confuse Radical. He found that strange that Itsums that did not want to talk and were more interested in confusing other Itsums.</p>
   <div class="_illustration">Itsums from the Fiat House beating Itsums from the Foundation House with wooden sticks&mdash;they look <strong>a lot</strong> like police battons.</div>
  <p>Radical talked to the few Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten.</p>
 
 <h1>The Radical Foundation</h1>
-  <div class="_illustration">Radical thinking with a dialog baloon with word "FOUNDATION" in it and the word "DOGMA" crossed out.</div>
+  <div class="_illustration">Radical thinking with a dialog balloon with the word "FOUNDATION" in it and the word "DOGMA" crossed out.</div>
  <p>Radical thought and thought and eventually came out with a simple Foundation. It knew that Itsums needed time and they sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
  <p>Radical also knew the Fiat House might corrupt the Foundation, so it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation.</p>
 
