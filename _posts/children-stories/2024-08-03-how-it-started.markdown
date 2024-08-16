@@ -37,7 +37,7 @@ image:    "icon-01-how-it-started.svg"
  <p>As the Fiat House grew, the Foundation House almost dissapeared.</p>
 
 <h1>Radical</h1>
-  <div class="_illustration">Radical embracing all five Itsums.</div>
+  <div class="_illustration">Radical being held up by Meaning & Belonging, Decentralization & Transparency, and Experimentation.</div>
  <p>Radical came together in the Foundation House. It lived there with Meaning, Belonging, Decentralization, Transparency, and Experimentation.</p>
  <p>They did not know at the time how much Radical would impact them.</p>
 
