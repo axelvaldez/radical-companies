@@ -70,12 +70,13 @@ image:    "icon-02-how-it-went.svg"
  <p>Radical talked to the few Itsums in the Foundation House and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten.</p>
 
 <h1>The Radical Foundation</h1>
-  <div class="_illustration">Radical thinking with.</div>
- <p>Radical thought and thought and eventually it came out with a simple Foundation, inspired by the few Itsums left in the Foundation House. It knew that Itsums needed time. It knew that they had different cultures and sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
- <p>Radical also knew the Fiat House might corrupt the Foundation. So it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation. It would even remind them to experiment.</p>
+  <div class="_illustration">Radical thinking with a dialog baloon with word "FOUNDATION" in it and the word "DOGMA" crossed out.</div>
+ <p>Radical thought and thought and eventually came out with a simple Foundation. It knew that Itsums needed time and they sensitivies. But he also knew that they would want to have something that they could change, not dogma.</p>
+ <p>Radical also knew the Fiat House might corrupt the Foundation, so it made the Radical Foundation very simple and easy to remember. The Foundation would encouraged Itsums to ask one another how their ideas compared with the Foundation.</p>
 
 <h1>Nothing New</h1>
- <p>In the past Itsums had identify many problems at the Fiat House, but they had not come up with solutions. It seemed that they had forgotten that Itsums learn better from examples.</p>
+ <p>In the past other Itsums had identify the many problems at the Fiat House, but they had not come up with solutions.</p>
+  <div class="_illustration">Show the Foundation (in yellow?) under a one-story house and the same Foundation over a multi-floor building.</div>
  <p>You can build a one-story house or a 20-story building on  Radical Foundation, <em>so long as it does not go against its five elements</em>,</p>
   <div class='_center'>
    <img
@@ -83,7 +84,7 @@ image:    "icon-02-how-it-went.svg"
     width='70%'
     alt=''>
   </div>
- <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. Fiat organizations are OK, too, <em>if others agree to it</em>.</p>
+ <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. We prefer Foundation Houses, but Fiat organizations are OK, too, <em>if others agree to live in it</em>.</p>
  
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">
