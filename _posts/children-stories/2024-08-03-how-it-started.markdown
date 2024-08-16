@@ -26,7 +26,7 @@ image:    "icon-01-how-it-started.svg"
   <div class="_illustration">Text will wrap around illustrations.</div>
 
 <h1>Fiat</h1>
-  <div class="_illustration">Partially completed Fiat&mdash; you can see some of his face and some of his legs and pieces levitating from the floor.</div>
+  <div class="_illustration">Partially completed Fiat&mdash; you can see some of his face and some of his legs and sharp pieces levitating from the floor.</div>
  <p>Fiat came together from the pieces on the floor, like Itsums do. All the Itsums picked up pieces of love as they came together, but not Fiat.</p>
  <p>But it had a preference for pieces with sharp edges. Meaning, Belonging, and all the Itsums had the ability to change as they deeply listened. But Fiat&rsquo;s morphing abilities were something else.</p>
 
