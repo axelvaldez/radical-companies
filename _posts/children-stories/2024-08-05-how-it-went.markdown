@@ -11,6 +11,7 @@ image:    "icon-02-how-it-went.svg"
 </div>
 
 <h1>Progress</h1>
+  <div class="_illustration">Houses with indications of growig and shrinking</div>
  <p>The Fiat Shack had more and more Itsums in it, so Fiat had to built a full blown House. The Itsums who lived there called themselves Chieftains and Kings, but as the House became more prosperous they just called themselves Executives.</p>
  <p>Every one of the Itsums who lived the Fiat House adored Fiat, the Biggest of Bosses, literally. The ones who did not adored the Biggest Boss were moved to the old Shack by Violence.</p>
  <p>Unfortunately, the Fiat Shack had fallen badly into disrepair.</p>
