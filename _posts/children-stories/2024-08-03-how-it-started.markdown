@@ -12,21 +12,21 @@ image:    "icon-01-how-it-started.svg"
 
 <h1>Meaning</h1>
  <p>Meaning and Belonging always come and go together. They always hold hands, like good friends.</p>
-           <div class="_illustration">Impish character happily hiding inside a normal human brain.</div>
+           <p class="_illustration">Impish character happily hiding inside a normal human brain.</p>
  <p>They were friends with Fiat.</p>
 
 <h1>Belonging</h1>
  <p>Belonging is a friend of Meaning and Fiat.</p>
  <p>Belonging is defintely an extrovert. It enjoys others, even when they disagree because it learns a lot from disagreements.</p>
-           <div class="_illustration">Similar impish character super happy interacting with others.</div>
+           <p class="_illustration">Similar impish character super happy interacting with others.</p>
  <p>He listens well, like all the Itsums, &ldquo;<em>It was long time ago</em>,&rdquo; said Belonging, &ldquo;<em>I met Meaning first and Fiat later</em>.&rdquo;</p>
-           <div class="_illustration">Shows Maeaning and Belonging hoklding hands and Fiat by itself.</div>
+           <p class="_illustration">Shows Maeaning and Belonging hoklding hands and Fiat by itself.</p>
  <p>They did not know back then how much Fiat would impact them.</p>
-           <div class="_illustration">Text will wrap around illustrations.</div>
+           <p class="_illustration">Text will wrap around illustrations.</p>
 
 <h1>Fiat</h1>
  <p>Fiat came together from the pieces on the floor, like Itsums do. All the Itsums picked up pieces of love as they came together, but not Fiat.</p>
-           <span class="_illustration">Partially completed Fiat&mdash; you can see some of his face and some of his legs</p>&mdash;and pieces levitating from the floor.</span></p>
+           <p class="_illustration">Partially completed Fiat&mdash; you can see some of his face and some of his legs and pieces levitating from the floor.</p>
  <p>But it had a preference for pieces with sharp edges. Meaning, Belonging, and all the Itsums had the ability to change as they deeply listened. But Fiat&rsquo;s morphing abilities were something else.</p>
 
 <h1>How It Started</h1>
