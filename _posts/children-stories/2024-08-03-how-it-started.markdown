@@ -11,8 +11,8 @@ image:    "icon-01-how-it-started.svg"
 </div>
 
 <h1>Meaning</h1>
- <p>Meaning and Belonging always came and went together. They always held hands, like good friends.</p>
  <p class="_illustration">Impish character happily hiding inside a normal human brain.</p>
+ <p>Meaning and Belonging always came and went together. They always held hands, like good friends.</p>
  <p>They were friends with Fiat.</p>
 
 <h1>Belonging</h1>
