@@ -35,7 +35,7 @@ image:    "icon-01-how-it-started.svg"
  <p>Fiat turned out to be very divisive. It got worse when it moved out of the Foundation House with Fear and Threat.</p>
  <p>All three of them had also very little love in them. Then Violence came together and things got really much worse for most Itsums.</p>
  <p>As the Fiat House grew, the Foundation House almost dissapeared.</p>
-  <p class="_illustration">Small Foundation House next to growing Fiat House.</p>
+  <p class="_illustration">Small ad shrinking Foundation House next to a bit bigger and growing Fiat House.</p>
 
 <h1>Radical</h1>
  <p>Radical came together in the Foundation House. It lived there with Meaning, Belonging, Decentralization, Transparency, and Experimentation.</p>
