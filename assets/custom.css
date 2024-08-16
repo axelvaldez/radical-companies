@@ -681,6 +681,8 @@ h4 {
 }
 
 ._illustration {
+  width:200ch;
+  float:right;
   font-size:small;
   border:gray 1px solid;
   background-color:#dedede;
