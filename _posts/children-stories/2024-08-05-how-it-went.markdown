@@ -11,9 +11,9 @@ image:    "icon-02-how-it-went.svg"
 </div>
 
 <h1>Progress</h1>
- <p>The Fiat Shack had more and more Itsums in it, so Fiat had to built a full blown House. The Itsums who lived there calling themselves Chieftains and Kings, but as the House became more prosperous they just called themselves Executives.</p>
- <p>Every one of the Itsums who lived the Fiat House adored Fiat, the Biggest of Bosses. The ones who did not adored the Biggest Boss were moved to the old Shack by Violence.</p>
- <p>The Fiat Shack had, unfortunately, fallen badly into disrepair.</p>
+ <p>The Fiat Shack had more and more Itsums in it, so Fiat had to built a full blown House. The Itsums who lived there called themselves Chieftains and Kings, but as the House became more prosperous they just called themselves Executives.</p>
+ <p>Every one of the Itsums who lived the Fiat House adored Fiat, the Biggest of Bosses, literally. The ones who did not adored the Biggest Boss were moved to the old Shack by Violence.</p>
+ <p>Unfortunately, the Fiat Shack had fallen badly into disrepair.</p>
 
 <h1>The Riff-Raff</h1>
  <p>Actually, the Itsums who lived in the Fiat Shack were the riff-raff, and not the Fiat House Itsums.</p>
