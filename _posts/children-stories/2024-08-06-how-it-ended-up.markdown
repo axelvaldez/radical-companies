@@ -26,12 +26,12 @@ image:    "icon-03-how-it-ended-up.svg"
  <p>There were lots of questions and it sure was a lot of work to answer those questions, but it was worth it. In fact, sometimes answering a question suggested an improvement or a better way to explaining it, and that was satisfying.</p>
 
 <h1>Speaking of RADs</h1>
- <p>In the Fiat House a strategy usually came from the Bosses. In the Foundation House <em>RADs did it</em>, they replaced the Boss. In the Radical House the Itsums gave RADs to each other so there was no need for Bosses.</p>
- <p>RADs is how things are distributed at the Radical House. Candy, food, etc., were all distributed through RADs. The more RADs you have the more you get.</p>
+ <p>In the Fiat House a strategy usually came from the Bosses. In the Foundation House RADs replaced the Bosess. That id becase in the Radical House Itsums gave RADs to each other so there is no need for Bosses.</p>
+ <p>RADs is how things are distributed at the Radical House. Candy, money, food, etc., were all distributed through RADs. The more RADs you have the more you get.</p>
  <br />
  <p>(The <em>RADs! mobile app</em> is available in te Apple and Google <em>App Stores</em>)</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/05/how-it-went">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/07/glossary">Next &gt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/07/glossary">Glossary &gt;</a></span>
 </div>
