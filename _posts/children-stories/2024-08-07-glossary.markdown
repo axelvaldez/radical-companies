@@ -92,7 +92,7 @@ image:    "icon-04-glossary.svg"
      Meaning, Belonging, Decentralization, Transparency, and Experimentation
     </th>
     <td>
-     <p>The five blocks of the Foundation.</p>
+     <p>The five blocks of the Foundation as characters in the story.</p>
     </td>
    </tr>
 
