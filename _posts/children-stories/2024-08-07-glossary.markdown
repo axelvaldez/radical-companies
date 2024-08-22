@@ -110,7 +110,7 @@ image:    "icon-04-glossary.svg"
      Riff-raff
     </th>
     <td>
-     <p>A degoratory term used whe the Fiat House Itsums taked about the Fiat Shack Itsums.</p>
+     <p>A degoratory term used whem talking about the Fiat Shack Itsums.</p>
     </td>
    </tr>
 
@@ -118,8 +118,7 @@ image:    "icon-04-glossary.svg"
  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
-<!--
+<!-- -->
 <span style="float:left; " ><a href="https://radicalcompanies.com/2024-08-06-how-it-ended-up">&lt; Previous</a></span>
--->
 <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">Start &gt;</a></span>
 </div>
