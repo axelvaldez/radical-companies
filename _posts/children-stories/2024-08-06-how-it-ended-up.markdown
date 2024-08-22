@@ -32,6 +32,6 @@ image:    "icon-03-how-it-ended-up.svg"
  <p>(The <em>RADs! mobile app</em> is available in te Apple and Google <em>App Stores</em>)</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left;" > <a href="https://radicalcompanies.com/2024/08/05/how-it-went">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/07/glossary">Glossary &gt;</a>   </span>
+ <span style="float:left;" > <a href="https://radicalcompanies.com/2024/08/06/how/it-ended-up">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/07/glossary">Glossary &gt;</a>       </span>
 </div>
