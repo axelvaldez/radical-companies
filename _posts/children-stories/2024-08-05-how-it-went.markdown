@@ -87,8 +87,6 @@ image:    "icon-02-how-it-went.svg"
  <p>If the proposal goes against the Radical Foundaton, then it is just a Fiat organization. We prefer Foundation Houses, but Fiat organizations are OK, too, <em>if others agree to live in it</em>.</p>
  
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">
- &lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/06/how-it-ended-up">
- Next &gt;</a></span>
+ <span style="float:left; "> <a href="https://radicalcompanies.com/2024/08/03/how-it-started"> &lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/06/how-it-ended-up">Next &gt;</a>    </span>
 </div>
