@@ -11,7 +11,7 @@ image:    "icon-01-how-it-started.svg"
 </div>
 
 <h1>Meaning</h1>
-  <div class="_illustration">Impish character happily hiding inside a normal human brain.</div>
+  <div class="_illustration">Impish character happily hiding inside what loks like a human brain.</div>
  <p>Meaning and Belonging always came and went together. They always held hands, like good friends.</p>
  <p>They were friends with Fiat.</p>
 
