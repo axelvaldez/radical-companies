@@ -51,6 +51,7 @@ image:    "icon-02-how-it-went.svg"
  <p>It was obvious that Fiat House was good at corrupting everything that got in its way.</p>
 
 <h1>Radical</h1>
+ <p>But a change was coming.</p>
   <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces from the floor and multicolor hearts levitating.</div>
  <p>Radical came together from pieces on the floor and It immediately felt the impact of the Fiat House.</p>
  <p>He went over there to talk to them, but Fiat did not want to talk to Radical. The other Itsums in the Fiat House just tried to confuse Radical. He found it very strange that Itsums that did not want to talk and were more interested in confusing other Itsums.</p>
