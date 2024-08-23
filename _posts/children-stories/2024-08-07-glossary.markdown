@@ -101,7 +101,7 @@ image:    "icon-04-glossary.svg"
      Mysogeny
     </th>
     <td>
-     <p>Discrimination against women. Most women of the world are exploited, &ldquo;<em>Of course we paid them less, they are women</em>.&rdquo;</p>
+     <p>Discrimination against women, &ldquo;<em>Of course we paid them less, they are women</em>.&rdquo;</p>
     </td>
    </tr>
 
