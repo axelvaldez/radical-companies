@@ -690,3 +690,8 @@ h4 {
   border:gray 1px solid;
   background-color:#dedede;
 }
+/*
+._illustration:after {
+  content:"<br/>";
+}
+*/
