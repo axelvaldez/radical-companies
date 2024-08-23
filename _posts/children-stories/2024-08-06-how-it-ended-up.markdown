@@ -37,9 +37,9 @@ image:    "icon-03-how-it-ended-up.svg"
   <li>We need an alternative for living, like the Radical system.</li>
    <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</div>
   <li>We need a Foundation to help us stay on the living path.</li>
-   <div class="_illustration">Itsums with RADs dialog bubbles and those bubbles with coins dialog bubbles.</li>
+   <div class="_illustration">Itsums with RADs dialog bubbles and those bubbles with coins dialog bubbles.</div>
   <li>We must share the wealth we all create.</li>
-   <div class="_illustration">Itsums holding hands, not fighting.</li>
+   <div class="_illustration">Itsums holding hands, not fighting.</div>
   <li>We need to be collaborative, not compete.</li>
   <li>We need to be recognized for our contributions and that is why we have co-ownership and RADs.</li>
  </ul>
