@@ -59,7 +59,8 @@ image:    "icon-02-how-it-went.svg"
   <div class="_illustration">Itsums from the Fiat House beating Itsums from the Foundation House with sticks that look <strong><em>a lot</em></strong> like police battons.</div>
 
 <h1>The Radical Foundation</h1>
-  <div class="_illustration">Radical with a dialog balloon with the word &ldquo;FOUNDATION&rdquo; in it, and below it, the word &ldquo;DOGMA&rdquo; crossed out.</div>
+  <div class="_illustration">
+  <br/>Radical with a dialog balloon with the word &ldquo;FOUNDATION&rdquo; in it, and below it, the word &ldquo;DOGMA&rdquo; crossed out.</div>
  <p>Radical thought and thought and eventually came out with a simple Foundation. It knew that Itsums needed time and they had different sensitivies. It also knew that they would want static dogma like a multipage constitution or a strict structure.</p>
  <p>Radical also knew the Fiat House might corrupt the Foundation, so It made the Radical Foundation very simple and easy to remember. The Foundation would as much as possible help Itsums to stay on the better path. The Foundation encouraged Itsums to ask questions of one another. It would encouraged them to compare their ideas with the Foundation.</p>
 
