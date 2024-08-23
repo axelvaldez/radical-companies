@@ -15,10 +15,10 @@ image:    "icon-04-glossary.svg"
   <table class='_h2table'>
    <tr>
     <th>
-     Characters
+     Main Characters
     </th>
     <td>
-     Meaning, Belonging, Decentralization, Transparency. Experimentation, as well as Fiat, Radical, other capitalized words.
+     Meaning, Belonging, Decentralization, Transparency, and Experimentation. Fiat and Radical, too.
     </td>
    </tr>
 
@@ -27,7 +27,7 @@ image:    "icon-04-glossary.svg"
      Extrovert
     </th>
     <td>
-     An Itsum that thinks out loud. Extroverts do not mind speaking to strangers or to an audience.
+     An Itsum that sometimes thinks out loud. Extroverts do not mind speaking to strangers or to an audience.
     </td>
    </tr>
 
@@ -36,8 +36,8 @@ image:    "icon-04-glossary.svg"
      Fiat
     </th>
     <td>
-     <p>&ldquo;<em>Because I said so!</em>&rdquo; Your parents may sound Fiat sometimes, but they love you.</p>
-     <p>The only question for Fiat is &ldquo;<em>can it make lots of money? Life be damned</em>.&rdquo;</p>
+     <p>The systems where things are done &ldquo;<em>Because I said so!</em>&rdquo; People who love you. like your parents, may sound Fiat sometimes: they mean well butthtisd all they know.</p>
+     <p>The only question for Fiat is &ldquo;<em>can it make lots of money?</em>.&rdquo; Life could be damned for the people (and Itsums) who live in it.</p>
     </td>
    </tr>
 
@@ -46,7 +46,7 @@ image:    "icon-04-glossary.svg"
      Fiat House
     </th>
     <td>
-     A House motivated only by Making money. In its pursuit, they use slavey and others from of violence. 
+     A House motivated only by making and accumulating money. In its pursuit, they may use violence. 
     </td>
    </tr>
 
@@ -55,8 +55,8 @@ image:    "icon-04-glossary.svg"
      Foundation House
     </th>
     <td>
-     <p>Where the Itsums live, when tjey do not live in the Fiat House.</p>
-     <p>The opposite of Fiat. Money is nice, but people's well being is more important at the Foundation House.</p>
+     <p>Where Itsums live and where they can collaborate with one another and co-own everything.</p>
+     <p>The Foundation House is the opposite of Fiat where they onkly care about money and do not care about people&rsquo;s.</p>
     </td>
    </tr>
 
@@ -74,7 +74,7 @@ image:    "icon-04-glossary.svg"
      Introvert
     </th>
     <td>
-     An Itsum that does not say much or does not make eye contact. Introverts do not like to speak to a bunch of people, they rather talk to people they know.
+     An Itsum that does not say much and does not make eye contact. Introverts do not like to speak to a bunch of anonymous people, they rather talk to people they know.
     </td>
    </tr>
 
@@ -92,7 +92,7 @@ image:    "icon-04-glossary.svg"
      Meaning, Belonging, Decentralization, Transparency, and Experimentation
     </th>
     <td>
-     <p>The five blocks of the Foundation as characters in the story.</p>
+     <p>The five principal characters and blocks of the Foundation.</p>
     </td>
    </tr>
 
@@ -101,7 +101,7 @@ image:    "icon-04-glossary.svg"
      Mysogeny
     </th>
     <td>
-     <p>Discrimination of women. Most women of the world are exploited this way. &ldquo;<em>Of course we paid them less, they are women</em>.&rdquo;</p>
+     <p>Discrimination against women. Most women of the world are exploited, &ldquo;<em>Of course we paid them less, they are women</em>.&rdquo;</p>
     </td>
    </tr>
 
@@ -110,7 +110,7 @@ image:    "icon-04-glossary.svg"
      Riff-raff
     </th>
     <td>
-     <p>A degoratory term used whem talking about the Fiat Shack Itsums.</p>
+     <p>A degoratory term used when the Itsums in the Fiat House talk about Itsums who are forced to live ib the old Fiat Shack.</p>
     </td>
    </tr>
 
