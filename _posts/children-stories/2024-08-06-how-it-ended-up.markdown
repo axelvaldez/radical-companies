@@ -33,7 +33,7 @@ image:    "icon-03-how-it-ended-up.svg"
 
 <h1>And, So&hellip;</h1>
  <ul>
-  <li>Fiat is a system for the few to accumulate money.</li>>
+  <li>Fiat is a system for the few to accumulate money.</li>
   <li>We need an alternative for living, like the Radical system.</li>
    <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</div>
   <li>We need a Foundation to help us stay on the living path.</li>
