@@ -49,8 +49,6 @@ image:    "icon-02-how-it-went.svg"
    </tr>
   </table>
  <p>It was obvious that Fiat House was good at corrupting everything that got in its way.</p>
- <br/>
- <p>But the times are changing.</p>
 
 <h1>Radical</h1>
   <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces from the floor and multicolor hearts levitating.</div>
