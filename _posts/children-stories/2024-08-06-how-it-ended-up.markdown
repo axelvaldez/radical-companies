@@ -15,22 +15,34 @@ image:    "icon-03-how-it-ended-up.svg"
 
 <h1>Decentralization</h1>
   <div class="_illustration">Impish character.</div>
- <p>Decentralization did not like rules that applied to everybody, against their wills. It just didnt like the effect it had on Itsums. It liked to get to the roots of things and making Itsums capable of making and changing their own rules.</p>
- <p>&ldquo;<em>But it will be chaos</em>,&rdquo; they yelled from the Fiat House. &ldquo;<em>So idealistic for Pete&rsquo;s sake!</em>.&rdquo;&mdash; they yelled to instill fear.</p>
- <p>What they do not say is that it may be that way, <strong><em>if</em></strong> your livelihood and autonomy, puts it at risk, but it does not have to be that way.</p>
- <p>In the Radical House Itsums <em>experiment</em> and they either get it done, so that it stops being &ldquo;idealistic&rdquo;, or Itsums learn how not to do it.</p>
+ <p>Decentralization did not like rules that applied to everybody, against their wills. It just didnt like the effect it had on Itsums. It liked to get to the roots of things. And It liked making Itsums capable of making and changing their own rules.</p>
+ <p>&ldquo;<em>But it will be chaos</em>,&rdquo; they yelled from the Fiat House. &ldquo;<em>So idealistic for Pete&rsquo;s sake!</em>.&rdquo;&mdash; they yelled to instill fear. What they do not say is that it may be that way, <strong><em>if</em></strong> your livelihood and autonomy is puts at risk. It does not have to be that way.</p>
+ <p>In the Radical House Itsums <em>experiment</em> and either get it done, and learn how to do it, or learn how not to do it.</p>
 
 <h1>Transparency</h1>
   <div class="_illustration">Impish character with a dialog bubble that says "INADVERTENT SECRETS."</div>
  <p>Transparency went around reminding Itsums to not keep secrets. If it existed, others must find out about it.</p>
- <p>No trade secrets. No trademarks. No Non-Disclosures Agreements. No secrets whatsoever. But they were always inadvertent secrets. And that is why Transparency went around reminding Itsums to bring their <em>inadvertent secrets</em> out into the sunshine.</p>
- <p>There were lots of questions and it sure took work to answer those questions, but it was worth it. In fact, sometimes answering a question suggested an improvement or a better way to explaining it, and that was satisfying.</p>
+ <p>No trade secrets. No trademarks. No Non-Disclosures Agreements. No secrets whatsoever. But they were always inadvertent secrets. And that is why Transparency went around reminding Itsums to bring them out into the sunshine.</p>
+ <p>It sure took work to answer questions, but it was worth it. In fact, sometimes answering a question suggested an improvement or a better way to explaining it, and that was satisfying.</p>
 
 <h1>Speaking of RADs</h1>
  <p>In the Fiat House a strategy usually came from the Supreme Boss through the minor Bosses. In the Foundation House RADs replaced all Bosses; Radical House Itsums gave RADs to each other so there was no need for Bosses.</p>
  <p>RADs is how things are distributed at the Radical House. Candy, money, food, etc., were all distributed through RADs. If one Itsum had twice as many RADs as another, it gets twice as many goodies as the other. And RADs are given for good contributions.</p>
  <br />
  <p>(The <em>RADs! mobile app</em> [note the exclamation mark] is available in te Apple and Google <em>App Stores</em>)</p>
+
+<h1>And, So&hellip;</h1>
+ <ul>
+  <li>Fiat is a system for the few to accumulate money.</li>>
+  <li>We need an alternative for living, like the Radical system.</li>
+   <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</li>
+  <li>We need a Foundation to help us stay on the living path.</li>
+   <div class="_illustration">Itsums with RADs dialog bubbles and those bubbles with coins dialog bubbles.</li>
+  <li>We must share the wealth we all create.</li>
+   <div class="_illustration">Itsums holding hands, not fighting.</li>
+  <li>We need to be collaborative, not compete.</li>
+  <li>We need to be recognized for our contributions and that is why we have co-ownership and RADs.</li>
+ </ul>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left;" > <a href="https://radicalcompanies.com/2024/08/05/how-it-went">&lt; Previous</a></span>
