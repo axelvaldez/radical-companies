@@ -44,7 +44,7 @@ image:    "icon-02-how-it-went.svg"
      Mysogeny and LGBT+ low pay?
     </th>
     <td>
-     Bring out (financially) successful black women and gay men on prestigious Boards!
+     Show black women and gay men on Boards!
     </td>
    </tr>
   </table>
