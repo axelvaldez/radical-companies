@@ -57,8 +57,8 @@ image:    "icon-02-how-it-went.svg"
  <p>He went over there to talk to them, but Fiat did not want to talk to Radical. The other Itsums in the Fiat House just tried to confuse Radical. He found it very strange that Itsums that did not want to talk and were more interested in confusing other Itsums.</p>
  <p>Back in the Foundation House, Radical talked to a couple of Itsums and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten with sticks.</p>
   <div class="_illustration">Itsums from the Fiat House beating Itsums from the Foundation House with sticks that look <strong><em>a lot</em></strong> like police battons.</div>
-
   <br/>
+
 <h1>The Radical Foundation</h1>
   <div class="_illustration">Radical with a dialog balloon with the word &ldquo;FOUNDATION&rdquo; in it, and below it, the word &ldquo;DOGMA&rdquo; crossed out.</div>
  <p>Radical thought and thought and eventually came out with a simple Foundation. It knew that Itsums needed time and they had different sensitivies. It also knew that they would want static dogma like a multipage constitution or a strict structure.</p>
