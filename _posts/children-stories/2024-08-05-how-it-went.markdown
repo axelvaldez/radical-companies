@@ -44,15 +44,7 @@ image:    "icon-02-how-it-went.svg"
      Mysogeny and LGBT+ low pay?
     </th>
     <td>
-     Bring out the successful people on prestigious Boards!
-    </td>
-   </tr>
-   <tr>
-    <th style="text-align:top; text-align:right; width:25ch; ">
-     etc.
-    </th>
-    <td>
-     &hellip;
+     Bring out successful blach women and gay guys on prestigious Boards!
     </td>
    </tr>
   </table>
