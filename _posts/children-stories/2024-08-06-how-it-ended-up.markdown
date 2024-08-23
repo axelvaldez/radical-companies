@@ -32,10 +32,10 @@ image:    "icon-03-how-it-ended-up.svg"
  <p>(The <em>RADs! mobile app</em> [note the exclamation mark] is available in te Apple and Google <em>App Stores</em>)</p>
 
 <h1>And, So&hellip;</h1>
+   <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</li>
  <ul>
   <li>Fiat is a system for the few to accumulate money.</li>>
   <li>We need an alternative for living, like the Radical system.</li>
-   <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</li>
   <li>We need a Foundation to help us stay on the living path.</li>
    <div class="_illustration">Itsums with RADs dialog bubbles and those bubbles with coins dialog bubbles.</li>
   <li>We must share the wealth we all create.</li>
