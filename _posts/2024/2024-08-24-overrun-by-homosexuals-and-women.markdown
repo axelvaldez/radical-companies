@@ -25,7 +25,6 @@ Furthermore,
     <th>
      <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em>
     </th>
-   </tr>
     <th>
      <em>Travail</em>, <em>Familille</em>, <em>Patrie</em>
     </th>
