@@ -1,0 +1,21 @@
+---
+layout:   post
+title:    "Overrun by Homosexuals and Women"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-overrun-by-homosexuals-and-women.svg"
+---
+
+<div style='display:none; '>
+ <p>France overrun by homosexuals and women.</p>
+</div>
+
+<h1>France Overrun</h1>
+ <p>During the Nazi ocupation, the French,
+ <div class="_citation">
+  <p>&ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptinal literary and artistic flowering&hellip; which he denounced as an &ldquo;overunn by homosexuals and women.&rdquo;</p>
+ </div>
+Furthermore,
+ <div class="_citation">
+  <p>&ldquo;They felt betrayed by the way way in which he sought tp destroy the ideas of <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em> of the French Revolution and replace them with <em>Travail</em>, <em>Familille</em>, <em>Patrie</em> (Work, Family, Country) slogan of the <em>Ésta Français</em> (French State).&rdquo;</p>
+ </div>
