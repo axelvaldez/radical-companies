@@ -35,7 +35,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
    </tr>
    <tr>
-    <td>
+    <td style="text-align:right; ">
      Liberty
     </td>
     <td>
@@ -43,7 +43,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
    </tr>
    <tr>
-    <td>
+    <td style="text-align:right; ">
      Democracy
     </td>
     <td>
@@ -51,7 +51,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
    </tr>
    <tr>
-    <td>
+    <td style="text-align:right; ">
      People relationships
     </td>
     <td>
