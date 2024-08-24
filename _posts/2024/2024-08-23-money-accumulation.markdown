@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Either… Or…"
+title:    "Democracy or Money"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-either-or.svg"
+image:    "icon-democracy-or-money.svg"
 ---
 
 <div style='display:none; '>
