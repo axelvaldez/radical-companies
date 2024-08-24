@@ -31,7 +31,6 @@ Furthermore,
      <span style="text-align:center; font-weight: 900; ">
       <em>Travail</em>, <em>Familille</em>, <em>Patrie</em>
      </span>
-     <em>Travail</em>, <em>Familille</em>, <em>Patrie</em>
     </td>
    </tr>
    <tr>
