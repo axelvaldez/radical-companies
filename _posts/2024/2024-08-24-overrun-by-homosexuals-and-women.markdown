@@ -24,12 +24,12 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
   <table style="width:80%; background-color:light-gray; align:center; ">
    <tr>
     <td style="text-align:right; ">
-     <span style="text-align:center; font-weight: 900; font-size:bigger; ">
+     <span style="text-align:center; font-weight: 900; font-size:x-large; ">
       Radical
      </span>
     </td>
     <td>
-     <span style="text-align:center; font-weight: 900; font-size:bigger; ">
+     <span style="text-align:center; font-weight: 900; font-size:x-large; ">
       Fiat
      </span>
     </td>
