@@ -24,6 +24,18 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
   <table style="width:80%; background-color:light-gray; align:center; ">
    <tr>
     <td style="text-align:right; ">
+     <span style="text-align:center; font-weight: 900; font-size:bigger; ">
+      Radical
+     </span>
+    </td>
+    <td>
+     <span style="text-align:center; font-weight: 900; font-size:bigger; ">
+      Fiat
+     </span>
+    </td>
+   </tr>
+   <tr>
+    <td style="text-align:right; ">
      <span style="text-align:center; font-weight: 900; ">
       <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em>
      </span>
