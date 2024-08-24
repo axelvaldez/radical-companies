@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Either Or"
+title:    "Either… Or…"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-either-or.svg"
