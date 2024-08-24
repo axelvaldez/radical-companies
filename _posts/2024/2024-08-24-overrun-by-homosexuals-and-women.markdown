@@ -34,7 +34,7 @@ Furthermore,
      Liberty
     </td>
     <td>
-     work
+     Work
     </td>
    </tr>
 
