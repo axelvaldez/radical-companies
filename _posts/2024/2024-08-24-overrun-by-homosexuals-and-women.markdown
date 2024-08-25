@@ -66,7 +66,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
    </tr>
    <tr>
     <td style="text-align:right; ">
-     People relationships
+     Relationships
     </td>
     <td>
      Easy to dominate units
