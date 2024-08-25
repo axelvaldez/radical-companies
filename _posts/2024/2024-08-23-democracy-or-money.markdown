@@ -14,10 +14,10 @@ image:    "icon-democracy-or-money.svg"
  <p>We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both.</p>
  <p id="_signature">Justice Louis Brandeis</p>
 </div>
-<p>The US and Europe have managed to do a slow back and forth. We may need to continue with the back and forth, but we must make people the highest priority of all systems that come to power.</p>
-<p>We managed to do away with a big part of slavery once; now we have to finish the job. An alternative system like Radical will let us experiment with things like,</p>
+<p>The US and Europe have managed to do &lsquo;both&rdquo; by doing a slow back and forth between parties, for example. We may need to continue with the back and forth, but we must make people the highest priority of all systems that come to power.</p>
+<p>For example, we managed to do away with a big part of slavery once; now we have to finish the job. An alternative system like Radical will let us experiment with things like,</p>
  <ul>
   <li>Make ownership based on contributions, not capital (everyone can contribute).</li>
   <li>Have work be collaborative, not (pseudo-)competitive.</li>
-  <li>Make them guided by the well-being of people, not whatever makes money for the Fiat owners.</li>
+  <li>Make work be guided by the well-being of people, not whatever makes money.</li>
  </ul> 
