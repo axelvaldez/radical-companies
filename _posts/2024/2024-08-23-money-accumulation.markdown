@@ -7,7 +7,7 @@ image:    "icon-democracy-or-money.svg"
 ---
 
 <div style='display:none; '>
- <p>We can have democracy or we can have wealth concentrated in the hands of a few.</p>
+ <p>Democracy for all or accumulated money for the few?</p>
 </div>
 
 <div class="_citation">
