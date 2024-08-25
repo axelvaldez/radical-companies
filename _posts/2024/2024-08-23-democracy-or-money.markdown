@@ -10,7 +10,7 @@ image:    "icon-democracy-or-money.svg"
  <p>Democracy for all or accumulated money for the few?</p>
 </div>
 
-<div class="_citation">
+<div class="_citation" style="width;100%; ">
  <p>We can have democracy in this country, or we can have great wealth concentrated in the hands of a few, but we can't have both.</p>
  <p id="_signature">Justice Louis Brandeis</p>
 </div>
