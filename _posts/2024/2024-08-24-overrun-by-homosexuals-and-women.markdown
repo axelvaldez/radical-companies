@@ -69,7 +69,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
      People relationships
     </td>
     <td>
-     Fiat units
+     Fiat units, easy to dominate
     </td>
    </tr> 
   </table>
