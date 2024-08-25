@@ -42,7 +42,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
     <td>
      <span style="text-align:center; font-weight: 900; ">
-      <em>Travail</em>, <em>Familille</em>, <em>Patrie</em>
+      <em>Travail</em>, <em>Famille</em>, <em>Patrie</em>
      </span>
     </td>
    </tr>
