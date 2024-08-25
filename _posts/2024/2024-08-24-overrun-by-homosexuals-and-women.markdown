@@ -13,7 +13,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 <h1>France Overrun</h1>
  <p>During the Nazi ocupation (1939–1945), most French people,
  <div class="_citation">
-  <p>&ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptinal literary and artistic flowering&hellip; which he denounced as an &ldquo;overrun by homosexuals and women.&rdquo;</p>
+  <p>&ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptinal literary and artistic flowering&hellip;,&rdquo; but &ldquo;he denounced as an &ldquo;overrun by homosexuals and women.&rdquo;</p>
  </div>
 
 <h1>&Eacute;sta Fran&ccedil;ais</h1>
