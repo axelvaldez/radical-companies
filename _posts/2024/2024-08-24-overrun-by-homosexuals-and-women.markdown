@@ -17,7 +17,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
  </div>
 
 <h1>&Eacute;tat Fran&ccedil;ais</h1>
- <div class="_citation">
+ <div class="_citation" style="width:100%; ">
   <p>&ldquo;They felt betrayed by the way way in which he sought to destroy the ideas of <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em> of the French Revolution and replace them with <em>Travail</em>, <em>Famille</em>, <em>Patrie</em> (Work, Family, Country) slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).&rdquo;</p>
  </div>
 
