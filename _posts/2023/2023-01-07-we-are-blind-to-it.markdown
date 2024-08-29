@@ -40,7 +40,7 @@ image:    "icon-we-are-blind-to-it.svg"
  <p>To start to move away from <span class="_paradigm">Fiat</span>, consider co-management,</p>
   <ul>
    <li>No bosses or employees</li>
-   <li>Decentralized management: everybody is a co-manager</li>
+   <li>Decentralized co-management</li>
    <li>The <em>RADs! mobile app</em></li>
    <li>Explicit relationships</li>
    <li>Explicit alignment</li>
