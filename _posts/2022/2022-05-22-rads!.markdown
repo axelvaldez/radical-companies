@@ -37,8 +37,7 @@ image:    "icon-rmedia.svg"
     <th>Adding Banners</th>
     <td>Drilling down for details by double tapping on a person.</td>
    </tr>
-   <tr>
-    <th>Profile</th>
+   <tr>Explicit Profile</th>
     <td>
      <p>The usual,</p>
      <ul>

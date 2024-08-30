@@ -426,13 +426,13 @@ p._speakerc {
 ._speakerac::before,
 ._speakerbc::before,
 ._quotespan::before {
-  content:"“";
+  content:"“<em>";
 }
 ._speakera::after, ._speakerac::after,
 ._speakerb::after, ._speakerbc::after,
 ._speakerc::after, ._speakercc::after,
 ._quotespan::after {
-  content:"”";
+  content:"</em>”";
 }
 div._quotespan {
   font-style:italic;
