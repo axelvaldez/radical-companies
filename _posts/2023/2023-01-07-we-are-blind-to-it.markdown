@@ -11,13 +11,14 @@ image:    "icon-we-are-blind-to-it.svg"
 </div>
 
 <h1>Colonialism</h1>
- <p>There was the colonialism of distant lands. That was the big problem then. Today, the BIG problem today is the self-colonialism of our minds. It makes us blind to the <span class="_paradigm">Fiat</span> system we live in.</p>
+ <p>There was the colonialism of distant lands. That was the big problem then.</p>
+ <p>Today, the BIG problem today is the colonialism we impose on our minds. For one, it makes us blind to the <span class="_paradigm">Fiat</span> system we live in.</p>
 
 <h1>Fiat</h1>
  <ul>
-  <li>We assume that the <span class="_paradigm">Fiat</span> system is a forever thing and cannot be changed.</li>
-  <li>We feel its impact, but can not see the source of it.</li>
-  <li>The <span class="_paradigm">Fiat</span> system remains invisible to us.</li>
+  <li>We assume that the <span class="_paradigm">Fiat</span> system is a <em>forever thing</em> and cannot be changed.</li>
+  <li>We walk around with its impact, but we do not ever think looking for the source of it.</li>
+  <li>This makes the <span class="_paradigm">Fiat</span> system invisible to us.</li>
  </ul>
   <div class='_center'>
    <img
@@ -25,10 +26,10 @@ image:    "icon-we-are-blind-to-it.svg"
     alt=''
     width='60%'>
   </div>
- <p>We did not even have a name for it, so we called it <span class="_paradigm">Fiat</span>.</p>
+ <p>We did not even have a name for it, so we called it <span class="_paradigm">Fiat</span> (<em>e.g.</em>, &ldquo;<em>do it!</em>&rdquo;).</p>
 
 <h1>Radical Foundation</h1>
- <p>Rather than a system where you have to remember rules and whatnots, we focused on an easy-to-remember <span class="_paradigm">Foundation.</span> They also happen to be closer to the root of what we think is important (<em>i.e.</em>, thus Radical).</p>
+ <p>Rather than a system where you have to remember rules and whatnots, we focused on an easy-to-remember <span class="_paradigm">Foundation,</span> which happens to be closer to the root of what we think is important.</p>
   <div class='_center'>
    <img
     src='/assets/img/pic-the-radical-model-coming-together.svg'
