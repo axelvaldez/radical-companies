@@ -7,7 +7,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 ---
 
 <div style='display:none; '>
- <p>BREAKING: France overrun by homosexuals and women (said by theNazis during the occupation of France).</p>
+ <p>BREAKING: France overrun by homosexuals and women (said by the Nazis during their occupation of France).</p>
 </div>
 
 <h1>France Overrun</h1>
