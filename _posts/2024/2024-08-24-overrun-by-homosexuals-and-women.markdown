@@ -11,27 +11,27 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 </div>
 
 <h1>France Overrun</h1>
- <p>During the Nazi ocupation (1939–1945), most French people,
+ <p>During the Nazi ocupation (1939–1945),
  <div class="_citation">
-  <p>&ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptinal literary and artistic flowering&hellip;,&rdquo; but &ldquo;he denounced as an &ldquo;overrun by homosexuals and women.&rdquo;</p>
+  <p>Most French peope &ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptinal literary and artistic flowering&hellip;,&rdquo; but P&eacute;tain denounced as an &ldquo;overrun by homosexuals and women.&rdquo;</p>
  </div>
 
 <h1>&Eacute;tat Fran&ccedil;ais</h1>
  <div class="_citation">
-  <p>&ldquo;They felt betrayed by the way way in which he sought to destroy the ideas of <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em> of the French Revolution and replace them with <em>Travail</em>, <em>Famille</em>, <em>Patrie</em> (Work, Family, Country) slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).&rdquo;</p>
+  <p>&ldquo;They felt betrayed by the way way in which he sought to destroy the ideas of <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em> of the French Revolution&rdquo; and replace them with <em>Travail</em>, <em>Famille</em>, <em>Patrie</em> (Work, Family, Country) slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).&rdquo;</p>
  </div>
 
 <h1>And So&hellip;</h1>
  <p>There you have it,
-  <table style="width:80%; background-color:light-gray; align:center; ">
+  <table style="background-color:light-gray; align:center; ">
    <tr>
     <td style="text-align:right; ">
-     <span style="text-align:center; font-weight: 900; font-size:x-large; ">
+     <span style="text-align:right; font-weight: 900; font-size:x-large; ">
       Radical
      </span>
     </td>
     <td>
-     <span style="text-align:center; font-weight: 900; font-size:x-large; ">
+     <span style="text-align:left; font-weight: 900; font-size:x-large; ">
       Fiat
      </span>
     </td>
@@ -65,7 +65,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
    </tr>
    <tr>
-    <td style="text-align:right; ">
+    <td style="text-align:right; vertical-align:top; ">
      Relationships
     </td>
     <td>
@@ -73,3 +73,4 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
    </tr> 
   </table>
+ </p>
