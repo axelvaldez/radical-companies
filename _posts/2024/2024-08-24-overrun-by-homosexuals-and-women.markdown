@@ -18,33 +18,21 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 
 <h1>&Eacute;tat Fran&ccedil;ais</h1>
  <div class="_citation">
-  <p>&ldquo;They felt betrayed by the way way in which he sought to destroy the ideas of <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em> of the French Revolution&rdquo; and replace them with <em>Travail</em>, <em>Famille</em>, <em>Patrie</em> (Work, Family, Country) slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).&rdquo;</p>
+  <p>&ldquo;They felt betrayed by the way way in which he sought to destroy the ideas of &lsquo;<em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit (Liberty, Equality, Fraternity)</em> of the French Revolution and replace them with &lsquo;<em>Travail</em>, <em>Famille</em>, <em>Patrie</em> (Work, Family, Country)&rsquo; slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).</p>
  </div>
 
-<h1>And So&hellip;</h1>
- <p>There you have it,
+<h1>And There You Have It</h1>
   <table style="background-color:light-gray; align:center; ">
-   <tr>
-    <td style="text-align:right; ">
-     <span style="text-align:right; font-weight: 900; font-size:x-large; ">
-      Radical
-     </span>
-    </td>
-    <td>
-     <span style="text-align:left; font-weight: 900; font-size:x-large; ">
-      Fiat
-     </span>
-    </td>
    </tr>
    <tr>
     <td style="text-align:right; ">
-     <span style="text-align:center; font-weight: 900; ">
-      <em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&eacute;</em>
+     <span style="text-align:right; font-weight:800; ">
+      <em>Libert&eacute;, Egalit&eacute;, Fraternit&eacute;</em>
      </span>
     </td>
     <td>
-     <span style="text-align:center; font-weight: 900; ">
-      <em>Travail</em>, <em>Famille</em>, <em>Patrie</em>
+     <span style="text-align:left; font-weight:800; ">
+      <em>Travail, Famille, Patrie</em>
      </span>
     </td>
    </tr>
@@ -52,7 +40,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     <td style="text-align:right; ">
      Liberty
     </td>
-    <td>
+    <td style="text-align:left; ">
      Work
     </td>
    </tr>
@@ -60,7 +48,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     <td style="text-align:right; ">
      Democracy
     </td>
-    <td>
+    <td style="text-align:left; ">
      Dictatorship
     </td>
    </tr>
@@ -68,9 +56,9 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     <td style="text-align:right; vertical-align:top; ">
      Relationships
     </td>
-    <td>
+    <td style="text-align:left; ">
      Easy to dominate units
     </td>
    </tr> 
   </table>
- </p>
+  </p>
