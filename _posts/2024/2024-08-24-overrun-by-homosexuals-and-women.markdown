@@ -41,15 +41,15 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
      Liberty
     </td>
     <td style="text-align:left; ">
-     Work
+     Work 
     </td>
    </tr>
    <tr>
     <td style="text-align:right; ">
-     Democracy
+     Fraternity
     </td>
     <td style="text-align:left; ">
-     Dictatorship
+     Family (Domination)
     </td>
    </tr>
    <tr>
@@ -57,7 +57,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
      Relationships
     </td>
     <td style="text-align:left; ">
-     Easy to dominate units
+     Country (Dictatorship)
     </td>
    </tr> 
   </table>
