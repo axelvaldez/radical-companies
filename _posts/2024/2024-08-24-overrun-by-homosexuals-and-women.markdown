@@ -27,11 +27,13 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
    <tr>
     <td style="text-align:right; ">
      <span style="text-align:right; font-weight:800; ">
-      <em>Libert&eacute;, Egalit&eacute;, Fraternit&eacute;</em>
+      <em>
+       Libert&eacute;, Egalit&eacute;, Fraternit&eacute;
+      </em>
      </span>
     </td>
     <td>
-     <span style="text-align:left; font-weight:800; ">
+     <span style="text-align:left;  font-weight:800; ">
       <em>Travail, Famille, Patrie</em>
      </span>
     </td>
