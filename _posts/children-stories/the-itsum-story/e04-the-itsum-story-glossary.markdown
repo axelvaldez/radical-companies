@@ -107,9 +107,10 @@ image:    "icon-04-glossary.svg"
  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
-<!-- -->
-<span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/06/how-it-ended-up">&lt; Previous</a></span>
-<span style="float:right; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">Start &gt;</a>    </span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/e02-how-it-ended-up">&lt; Previous</a></span>
+<!-- 
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/05/how-it-went">Start &gt;</a>    </span>
+-->
 </div>
 
 {% include related.html %}
