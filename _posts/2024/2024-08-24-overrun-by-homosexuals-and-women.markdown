@@ -23,7 +23,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
  </div>
 
 <h1>And There You Have It</h1>
-  <table style="background-color:light-gray; align:center; ">
+  <table style="background-color:light-gray; align:center; width:90%; ">
    <tr>
     <td style="text-align:right; ">
      <span style="text-align:right; font-weight:800; ">
