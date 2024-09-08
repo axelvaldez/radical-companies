@@ -110,7 +110,7 @@ image:    "icon-04-glossary.svg"
  <span style="float:left; " ><a href="https://radicalcompanies.com/2024/09/05/the-itsum-story">&lt; START</a></span>
  <!--
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/05/the-itsum-story">&lt; START</a></span>
- -->
+ 
 </div>
 
 {% include related.html %}
