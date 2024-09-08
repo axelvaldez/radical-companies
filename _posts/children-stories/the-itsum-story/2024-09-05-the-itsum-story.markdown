@@ -45,7 +45,7 @@ image:    "icon-01-how-it-started.svg"
 <!--
  <span style="float:left;  "> <a href="https://radicalcompanies.com/2024/09/08/the-itsum-story-glossary">&lt; Glossary</a></span>
 -->
- <span style="float:right;  "><a href="https://radicalcompanies.com/e02-how-it-went">                    Next &gt;</a>    </span>
+ <span style="float:right;  "><a href="https://radicalcompanies.com/2024/09/08/how-it-went">             Next &gt;</a>    </span>
 </div>
 
 {% include related.html %}
