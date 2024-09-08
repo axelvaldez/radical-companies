@@ -12,12 +12,12 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 
 <h1>France Overrun</h1>
  <p>During the Nazi ocupation (1939–1945), most French people,<p> 
- <div class="_citation">
+ <div class="_citation" style="width:90%; ">
   <p>&ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptional literary and artistic flowering&hellip;,&rdquo; but P&eacute;tain denounced as an &ldquo;overrun by homosexuals and women.&rdquo;</p>
  </div>
 
 <h1>&Eacute;tat Fran&ccedil;ais</h1>
- <div class="_citation">
+ <div class="_citation" style="width:90%; >
   <p>&ldquo;They felt betrayed by the way way in which he sought to destroy the ideas of &lsquo;<em>Libert&eacute;</em>, <em>Egalit&eacute;</em>,
   <em>Fraternit&eacute;</em>&rsquo; (Liberty, Equality, Fraternity) of the French Revolution and replace them with &lsquo;<em>Travail</em>, <em>Famille</em>, <em>Patrie</em>&rsquo; (Work, Family, Country) slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).</p>
  </div>
