@@ -112,8 +112,10 @@ image:    "icon-e01-and-then.svg"
  <p>After a few weeks Sammie got tired of being a <span class='_paradigm'>Radical</span> celebrity and she accepted the invitation to go to the Chicago Pod in what used to be the United States of America. The electric jet went up to the edge of the biosphere, although she would not call that &ldquo;space&rdquo; as they did throughout the trip. It was a lot shorter than her trip from the Karala Pod to the Beijing Pod. It was also boring and she slept for most of it.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <!-- <span style="float:left; " ><a href="https://radicalcompanies.com/">                           &lt; Previous <</a></span> -->
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a></span>
+ <!--
+ <span style="float:left; " ><a href="https://radicalcompanies.com/">                                 &lt; Previous </a></span>
+ -->
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a>     </span>
 </div>
 
 {% include related.html %}
