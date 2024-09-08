@@ -48,3 +48,5 @@ image:    "icon-03-how-it-ended-up.svg"
  <span style="float:left;" > <a href="https://radicalcompanies.com/2024/08/05/how-it-went">&lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/07/glossary">Glossary &gt;</a> </span>
 </div>
+
+{% include related.html %}

@@ -21,7 +21,6 @@ image:    "icon-04-glossary.svg"
      Meaning, Belonging, Decentralization, Transparency, and Experimentation. Fiat and Radical, too.
     </td>
    </tr>
-
    <tr>
     <th>
      Extrovert
@@ -30,7 +29,6 @@ image:    "icon-04-glossary.svg"
      An Itsum that sometimes thinks out loud. Extroverts do not mind speaking to strangers or to an audience.
     </td>
    </tr>
-
    <tr>
     <th>
      Fiat
@@ -40,7 +38,6 @@ image:    "icon-04-glossary.svg"
      <p>The only question for Fiat is &ldquo;<em>can it make lots of money?</em>.&rdquo; Life could be damned for the people (and Itsums) who live in it.</p>
     </td>
    </tr>
-
    <tr>
     <th>
      Fiat House
@@ -49,7 +46,6 @@ image:    "icon-04-glossary.svg"
      A House motivated only by making and accumulating money. In its pursuit, they may use violence. 
     </td>
    </tr>
-
    <tr>
     <th>
      Foundation House
@@ -59,7 +55,6 @@ image:    "icon-04-glossary.svg"
      <p>The Foundation House is the opposite of Fiat where they onkly care about money and do not care about people&rsquo;s.</p>
     </td>
    </tr>
-
    <tr>
     <th>
      Green Washing
@@ -68,7 +63,6 @@ image:    "icon-04-glossary.svg"
      <p>What looks good for Mother Earth, but is not.</p>
     </td>
    </tr>
-
    <tr>
     <th>
      Introvert
@@ -77,7 +71,6 @@ image:    "icon-04-glossary.svg"
      An Itsum that does not say much and does not make eye contact. Introverts do not like to speak to a bunch of anonymous people, they rather talk to people they know.
     </td>
    </tr>
-
    <tr>
     <th>
      Itsums
@@ -86,7 +79,6 @@ image:    "icon-04-glossary.svg"
      <p>An imaginary race. You may be an Itsum.</p>
     </td>
    </tr>
-
    <tr>
     <th>
      Meaning, Belonging, Decentralization, Transparency, and Experimentation
@@ -95,7 +87,6 @@ image:    "icon-04-glossary.svg"
      <p>The five principal characters and blocks of the Foundation.</p>
     </td>
    </tr>
-
    <tr>
     <th>
      Mysogeny
@@ -104,7 +95,6 @@ image:    "icon-04-glossary.svg"
      <p>Discrimination against women, &ldquo;<em>Of course we paid them less, they are women</em>.&rdquo;</p>
     </td>
    </tr>
-
    <tr>
     <th>
      Riff-raff
@@ -113,7 +103,6 @@ image:    "icon-04-glossary.svg"
      <p>A degoratory term used when the Itsums in the Fiat House talk about Itsums who are forced to live ib the old Fiat Shack.</p>
     </td>
    </tr>
-
   </table>
  </div>
 
@@ -122,3 +111,5 @@ image:    "icon-04-glossary.svg"
 <span style="float:left; " ><a href="https://radicalcompanies.com/2024/08/06/how-it-ended-up">&lt; Previous</a></span>
 <span style="float:right; "><a href="https://radicalcompanies.com/2024/08/03/how-it-started">Start &gt;</a>    </span>
 </div>
+
+{% include related.html %}

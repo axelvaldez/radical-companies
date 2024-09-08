@@ -47,3 +47,5 @@ image:    "icon-01-how-it-started.svg"
 -->
  <span style="float:right;  "><a href="https://radicalcompanies.com/2024/08/05/how-it-went">Next &gt;</a> </span>
 </div>
+
+{% include related.html %}
