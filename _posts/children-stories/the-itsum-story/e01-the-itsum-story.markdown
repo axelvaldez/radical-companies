@@ -42,6 +42,8 @@ image:    "icon-01-how-it-started.svg"
  <p>It took a lomg time, but over time the Foundation House had more and more Itsums and it kept growing.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
+<!--
  <span style="float:left;  "> <a href="https://radicalcompanies.com/2024/08/07/glossary">&lt; Glossary</a></span>
+-->
  <span style="float:right;  "><a href="https://radicalcompanies.com/2024/08/05/how-it-went">Next &gt;</a> </span>
 </div>
