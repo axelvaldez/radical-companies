@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How It Ended Up"
+title:    "How It Ended Up (E03)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-03-how-it-ended-up.svg"

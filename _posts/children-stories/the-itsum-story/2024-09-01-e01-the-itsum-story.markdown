@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Itsum Story"
+title:    "The Itsum Story (E01)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-01-how-it-started.svg"
