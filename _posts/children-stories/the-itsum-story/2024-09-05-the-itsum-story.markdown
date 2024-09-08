@@ -43,9 +43,9 @@ image:    "icon-01-how-it-started.svg"
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
 <!--
- <span style="float:left;  "> <a href="https://radicalcompanies.com/2024/08/07/glossary">&lt; Glossary</a></span>
+ <span style="float:left;  "> <a href="https://radicalcompanies.com/2024/09/08/the-itsum-story-glossary">&lt; Glossary</a></span>
 -->
- <span style="float:right;  "><a href="https://radicalcompanies.com/2024/09/06/how-it-went">Next &gt;</a> </span>
+ <span style="float:right;  "><a href="https://radicalcompanies.com/2024/09/06/how-it-went">             Next &gt;</a>    </span>
 </div>
 
 {% include related.html %}
