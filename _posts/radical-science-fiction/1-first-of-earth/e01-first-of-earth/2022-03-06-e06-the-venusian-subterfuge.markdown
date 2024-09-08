@@ -47,8 +47,8 @@ hidden:   true
  <p>Everyone asked what was happening on Jupiter and how big was the revolt there. Marine General Pura Cintron, who refused to be called &ldquo;General,&rdquo; smiled as she climbed back into her ship. There was no revolt. They had faked one. They had always just wanted to go to Jupiter, and they were done being told what to do.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/05/E05-my-baby-wrote-me-a-letter">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/07/E07-the-jupiter-surprise">         Next &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/05/E05-my-baby-wrote-me-a-letter">&lt; Previous</a>v</span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/07/E07-the-jupiter-surprise">    v     Next &gt;</a></span>
 </div>
 
 {% include related.html %}

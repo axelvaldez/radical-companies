@@ -32,8 +32,8 @@ hidden:   true
  <p>This time the RADICALS were ready to actively help make that possible.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/09/E09-would-be-masters">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E11-the-fiat-enclaves">   Next &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/09/E09-would-be-masters">&lt; Previous</a> </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E11-the-fiat-enclaves">    Next &gt;</a></span>
 </div>
 
 {% include related.html %}

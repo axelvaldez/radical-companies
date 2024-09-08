@@ -79,8 +79,8 @@ hidden:   true
  <p>Even self-correcting systems go over the edge sometimes. Like other forms of love, you have to work at it to preserve it.</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/08/E08-earth-authority">   &lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E10-the-end-the-beginning"> Next &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/08/E08-earth-authority">   &lt; Previous</a> </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E10-the-end-the-beginning">  Next &gt;</a></span>
 </div>
 
 {% include related.html %}

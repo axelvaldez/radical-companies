@@ -98,8 +98,8 @@ hidden:   true
  <p>The Marines took their time to leave. The Jovian habitat ecosystem was vast enough. And maybe it would be a good place to help other habitats to leverage their experience at facilitating transformations throughout the Solar system. Maybe they could even take on Earth Authority at some point and let humanity scale outside the Solar system. That was a thought&hellip;</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/06/E06-the-venusian-subterfuge">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/08/E08-earth-authority">            Next &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/06/E06-the-venusian-subterfuge">&lt; Previous</a> </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/08/E08-earth-authority">          v  Next &gt;</a></span>
 </div>
 
 {% include related.html %}

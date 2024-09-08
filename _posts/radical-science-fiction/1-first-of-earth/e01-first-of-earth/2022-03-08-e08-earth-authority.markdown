@@ -63,8 +63,8 @@ hidden:   true
  <p>But&hellip; would it be possible to transform Chairwoman Ping?</p>
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/07/E07-the-jupiter-surprise">&lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/09/E09-would-be-masters">        Next &gt;</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/07/E07-the-jupiter-surprise">&lt; Previous</a> </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/09/E09-would-be-masters">         Next &gt;</a></span>
 </div>
 
 {% include related.html %}
