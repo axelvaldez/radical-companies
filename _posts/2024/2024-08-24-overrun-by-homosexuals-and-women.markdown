@@ -16,7 +16,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
    <p>&ldquo;&hellip; scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptional literary and artistic flowering&hellip;,&rdquo;</p>
   </div>
  <p>which P&eacute;tain denounced as,</p>
-  <div class"_citaton">
+  <div class="_citation">
    <p>&ldquo;overrun by homosexuals and women.&rdquo;</p>
   </div>
 
