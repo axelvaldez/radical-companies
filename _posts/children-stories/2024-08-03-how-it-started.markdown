@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How It Started"
+title:    "The Itsums&rsquo; Story"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-01-how-it-started.svg"
