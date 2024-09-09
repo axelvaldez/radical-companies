@@ -74,7 +74,7 @@ image:    "icon-02-how-it-went.svg"
  
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; "> <a href="https://radicalcompanies.com/2024/09/05/the-itsum-story"> &lt; Previous</a></span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/07/how-it-ended-up">Next &gt;</a>     </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/03/how-it-ended-up">Next &gt;</a>     </span>
 </div>
 
 {% include related.html %}
