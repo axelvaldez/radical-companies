@@ -107,9 +107,9 @@ image:    "icon-04-glossary.svg"
  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left; " ><a href="https://radicalcompanies.com/2024/09/07/how-it-ended-up">&lt; Previous</a></span>
+ <span style="float:left; " ><a href="https://radicalcompanies.com/2024/09/03/e03-how-it-ended-up">&lt; Previous</a></span>
  <!--
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/05/the-itsum-story">START &rgt;</a>   </span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/e01-the-itsum-story">START &rgt;</a>   </span>
  -->
 </div>
 
