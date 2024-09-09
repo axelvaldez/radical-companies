@@ -17,7 +17,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
 
 <h1>Pacifist Lyof Nikolayevich</h1>
  <p>Tolstoy was a pacifist, but he could have been a Radical. Paficism is one of the many pointy things that stick out. But that is not the root of it. At the roort of it is the Radical system.</p>
- <p>In <em>Confession</em> and <em>My Religion</em> he pretty much said that he was a follower of Jesus.</p>
+ <p>In <em>Confession</em> and <em>My Religion</em> he pretty much said that he was a follower of fictitiois Jesus.</p>
  <div class="_citation">
   <p>&ldquo;<em>It seemed to me that the only true way was for me to try to follow the doctrine of Jesus</em>.&rdquo;</p>
   <p id="_signature">Leo Tolstoy, <em>My Religion</em></p>
@@ -34,8 +34,7 @@ image:    "icon-channeling-leo-tolstoy.svg"
    <p>&ldquo;<em>Systems are long-lasting, widespread and resilient. We can push back on them with effort, but over time, the system usually comes out ahead.</em></p>
    <p id="_signature">Seth Godin</p>
   </div>
-
- <p>The Internet and the Large Language Models say that Tolstoy declared himself a Christian, but is a lazy way of characterizing it. You can read the <em>Confession</em> and <em>My Religion</em> books to verify it. He did come up with his own &lsquo;believe system&rsquo; based upon the teachings of Jesus, while rejecting the institutional church dogmas (orthodox, catholic, protestant, etc).</p>
+ <p>The Internet and the Large Language Models say that Tolstoy declared himself a Christian, but is a lazy way of characterizing it. You can read the <em>Confession</em> and <em>My Religion</em> books to verify it. He did come up with his own &lsquo;believe system&rsquo; based upon the teachings of Jesus, as per the Christian Bible, while rejecting the institutional church dogmas (orthodox, catholic, protestant, etc).</p>
 
  <h1>Violence</h1>
   <div class="_citation">
