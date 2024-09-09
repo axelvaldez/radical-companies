@@ -46,7 +46,7 @@ hidden:   true
  </ul>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left;" > <a href="https://radicalcompanies.com/2024/09/02/E02-how-it-went">        &lt; Previous</a>V    </span>
+ <span style="float:left;" > <a href="https://radicalcompanies.com/2024/09/02/E02-how-it-went">        &lt; Previous</a>     </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/04/e04-the-itsum-story-glossary">Glossary &gt;</a></span>
 </div>
 
