@@ -57,4 +57,3 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
     </td>
    </tr> 
   </table>
-  </p>
