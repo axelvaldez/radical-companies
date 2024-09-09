@@ -4,6 +4,7 @@ title:    "The Itsum Story Glossary (E04)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-04-glossary.svg"
+hidden:   true
 ---
 
 <div style='display:none; '>
