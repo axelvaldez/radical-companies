@@ -46,7 +46,7 @@ image:    "icon-03-how-it-ended-up.svg"
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left;" > <a href="https://radicalcompanies.com/2024/09/06/E02-how-it-went">        &lt; Previous</a>V    </span>
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/08/e034-the-itsum-story-glossary">Glossary &gt;</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/08/e04-the-itsum-story-glossary">Glossary &gt;</a></span>
 </div>
 
 {% include related.html %}
