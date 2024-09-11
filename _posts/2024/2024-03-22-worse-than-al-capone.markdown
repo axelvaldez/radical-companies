@@ -10,16 +10,20 @@ image:    "icon-worse-than-al-capone.svg"
  <p>Everybody is trying to contribute. For some, the mean is violence, for others, the mean is conversations. We must learn to teach to converse.</p>
 </div>
 
-<h1></h1>
- <div class="_citation">&hellip; British aristocracy are the original gangsters. The reason they own 75% of the British Island is because &ldquo;<em>they stole it by force.</em>&rdquo;</div>
- <p>William the Conqueror was worse than Al Capone.</p>
- <div class="_citation">When he went to England from France, he grabbed hold of everything he could get his hands onto, and then he set up a system so that he and his friends got to hold onto it forever. Taxation. Education. The judiciary. It's all designed to help the aristocracy hold on to their land and their money.<a href="#en01"><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></div>
-
+<h1>William the Conqueror</h1>
+ <div class="_citation">
+  <p>&hellip; British aristocracy are the original gangsters. The reason they own 75% of the British Island is because &ldquo;<em>they stole it by force.</em>&rdquo;</p>
+ </div>
+ <div class="_citation">
+  <p>William the Conqueror was worse than Al Capone. When he went to England from France, he grabbed hold of everything he could get his hands onto, and then he set up a system so that he and his friends got to hold onto it forever. Taxation. Education. The judiciary. It&rsquo;s all designed to help the aristocracy hold on to their land and their money.<a href="#en01"><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ </div>
  <p>And it holds until these days,</p>
- <div class="_citation">&hellip; 160,000 families who own two-thirds of Great Britain and Ireland largely descend from the army of William the Conqueror &mdash; [since] 1066.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></div>
- <br>
- <br>
- <p>That is the system we call Fiat.</p>
+ <div class="_citation">
+  <p>&hellip; 160,000 families who own two-thirds of Great Britain and Ireland largely descend from the army of William the Conqueror &mdash; [since] 1066.<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
+ </div>
+
+<h1>Fiat</h1>
+ <p>The system that makes it all possible we call Fiat.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
