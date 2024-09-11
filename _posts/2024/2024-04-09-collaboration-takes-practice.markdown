@@ -13,7 +13,7 @@ image:    "icon-collaboration-takes-practice.svg"
 <h1>Collaboration</h1>
  <p class="_citation">Happiness can indeed be learned through courses like the &lsquo;Science of Happiness,&rsquo; which educates students on evidence-informed habits for well-being. However, another study indicates that the initial boost in well-being requires sustained effort and continued practice of these habits to maintain long-term benefits.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
- <p>Collaboration, too, like happiness, takes practice. It is not a one of, or a remedy for when you feel low. <em>You need to practice it until it becomes a habit.</em> It will not come &lsquo;<em>naturally.</em>&rsquo; We spent too many years being taught to compete.</p>
+ <p>Collaboration, too, like happiness, takes practice. It is not a one-of or a remedy for when you feel low. <em>You need to practice it until it becomes a habit.</em> It will not come &lsquo;<em>naturally.
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
