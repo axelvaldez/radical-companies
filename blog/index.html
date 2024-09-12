@@ -33,13 +33,13 @@ pagination:
                     <div class="col-6 text-end">
                         {% if paginator.next_page %}
                         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
-                            class="btn btn-tertiary text-orange">&larr; Newer Posts</a>
+                            class="btn btn-tertiary text-orange">&larr;Older Posts</a>
                         {% endif %}
                     </div>
                     <div class="col-6">
                         {% if paginator.previous_page %}
                         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}"
-                            class="btn btn-tertiary text-orange">Older Posts &rarr;</a>
+                            class="btn btn-tertiary text-orange">Newer Posts &rarr;</a>
                         {% endif %}
                     </div>
                 </div>
