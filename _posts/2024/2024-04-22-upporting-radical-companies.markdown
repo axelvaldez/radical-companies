@@ -7,11 +7,11 @@ image:    "icon-supporting-radical-companies.svg"
 ---
 
 <div style='display:none; '>
- <p>Once upon a time we imagined several Radical companies. Here they are as an ensemble,</p>
+ <p>Here an ensemble of of Radical companies,</p>
 </div>
 
 <h1>Motivation?</h1>
- <p>Once upon a time we imagined several Radical companies. Here they are as an Ensemble,</p>
+ <p>Here they are as an Ensemble of <a href="" <a href="https://www.amazon.com/RADICAL-Companies-Organized-Success-Employees/dp/1641846429/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.zvWE1R0NDgL0e3yOQZ7SpbwPHIK23BUmdM6k3YRnWNPP66f8I60T-38roNtx8HMwoy8k1N6BYtOJzu7mSmeJeCI_C_jj7MjE3C1xZp1d1NY.DBHRTPyYr81wye-tlbSuMNfmCUX0Pk-yfvXl43EpA8Y&qid=1726525947&sr=8-1" target="_blank">Radical Companies</a>,</p>
   <ul>
    <li><a href="https://radicalcompanies.com/2022/05/12/rstayhome" target="_blank">rStayHome</a></li>
    <li><a href="https://radicalcompanies.com/2022/05/13/rkare" target="_blank">rKare</a></li>
