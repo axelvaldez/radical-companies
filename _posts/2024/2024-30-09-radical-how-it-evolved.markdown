@@ -49,7 +49,6 @@ image:    "icon-.svg"
  <p>And we also made the RADs public.</p>
 
 <h1>There You Have It</h1>
-xxx
  <table class="table2col">
   <tr>
    <th>Recognized Contribution</th>
@@ -60,28 +59,20 @@ xxx
    <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
   </tr>
   <tr>
-   <th>Co-Ownership</th>
-   <th><strong>Ownership is dynamic, based on contributions.</strong></th>
+   <th>Fiat</th>
+   <th>The system we live in, where money comes first.</th>
   </tr>
   <tr>
-   <th></th>
-   <th>.</th>
+   <th>Radical</th>
+   <th>An alternative system to Fiat, where people comes first.</th>
   </tr>
   <tr>
-   <th></th>
-   <th>.</th>
+   <th>RADs</th>
+   <th>Your percentage of ownership and, therefore, whatever is being distributed.</th>
   </tr>
   <tr>
-   <th></th>
-   <th>.</th>
-  </tr>
-  <tr>
-   <th></th>
-   <th>.</th>
-  </tr>
-  <tr>
-   <th></th>
-   <th>.</th>
+   <th>RADs!</th>
+   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public table.</th>
   </tr>
  </table>
 <h1>Ownership</h1>
@@ -122,7 +113,36 @@ xxx
  <p>The ownership of other things, too, will have to be worked out over time.</p>
 
 <h1>There You Have It</h1>
-xxx
+ <table class="table2col">
+  <tr>
+   <th>Recognized Contribution</th>
+   <th>Later get converted to RADs to make them tangible.</th>
+  </tr>
+  <tr>
+   <th>Co-Management</th>
+   <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
+  </tr>
+  <tr>
+   <th>Co-Ownership</th>
+   <th><strong>Ownership is dynamic, based on contributions.</strong></th>
+  </tr>
+  <tr>
+   <th>Fiat</th>
+   <th>The system we live in, where money comes first.</th>
+  </tr>
+  <tr>
+   <th>Radical</th>
+   <th>An alternative system to Fiat, where people comes first.</th>
+  </tr>
+  <tr>
+   <th>RADs</th>
+   <th>Your percentage of ownership and, therefore, whatever is being distributed.</th>
+  </tr>
+  <tr>
+   <th>RADs!</th>
+   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public table.</th>
+  </tr>
+ </table>
 
 <h1>Co-Management, &amp; Co-Ownership</h1>
  <p>Co-management has gone by &ldquo;self-management&rdquo; except a business has no self. So, we changed the name to co-management, because people, self included, can work without a boss.</p>
