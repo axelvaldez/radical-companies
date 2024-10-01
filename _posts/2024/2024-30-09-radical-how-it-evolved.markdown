@@ -49,6 +49,41 @@ image:    "icon-.svg"
  <p>And we also made the RADs public.</p>
 
 <h1>There You Have It</h1>
+xxx
+ <table class="table2col">
+  <tr>
+   <th>Recognized Contribution</th>
+   <th>Later get converted to RADs to make them tangible.</th>
+  </tr>
+  <tr>
+   <th>Co-Management</th>
+   <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
+  </tr>
+  <tr>
+   <th>Co-Ownership</th>
+   <th><strong>Ownership is dynamic, based on contributions.</strong></th>
+  </tr>
+  <tr>
+   <th></th>
+   <th>.</th>
+  </tr>
+  <tr>
+   <th></th>
+   <th>.</th>
+  </tr>
+  <tr>
+   <th></th>
+   <th>.</th>
+  </tr>
+  <tr>
+   <th></th>
+   <th>.</th>
+  </tr>
+  <tr>
+   <th></th>
+   <th>.</th>
+  </tr>
+ </table>
 <h1>Ownership</h1>
 <h1>Ownership &amp; Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
@@ -87,6 +122,9 @@ image:    "icon-.svg"
  <p>The ownership of other things, too, will have to be worked out over time.</p>
 
 <h1>There You Have It</h1>
+xxx
+
+<h1>Co-Management, &amp; Co-Ownership</h1>
  <p>Co-management has gone by &ldquo;self-management&rdquo; except a business has no self. So, we changed the name to co-management, because people, self included, can work without a boss.</p>
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
@@ -116,11 +154,11 @@ image:    "icon-.svg"
 
 <h1>Foundation</h1>
  <p>These are the blocks of the Foundation,</p>
-
-
-
-
-
-
+  <div class='_center'>
+   <img
+    src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
+    width='70%'
+    alt=''>
+  </div>
  <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
  <p>If it is working for all co-owners, go with. It is not, find another solution.</p>
