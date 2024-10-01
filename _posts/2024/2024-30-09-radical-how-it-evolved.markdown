@@ -99,13 +99,13 @@ image:    "icon-.svg"
 <h1>We Are Blind to It</h1>
  <ul>
   <li>Economists sometimes get really close to it, but at the last minute they avoid it.</li>
-  <li>Marx and his followers blame everything on ruthless capitalists, robber barons, and others bad people./li>
-  <li>Others blame our problems on our veering away from the path of indigenous people, the simple people./li>
+  <li>Marx and his followers blame everything on ruthless capitalists, robber barons, and others bad people.</li>
+  <li>Others blame our problems on our veering away from the path of indigenous people, the simple people.</li>
  </ul>
- <p>But it seems incomprehensible that we don’t see that Fiat ownership causes the majority of the harm we face, starting with poverty and excessive wealth.</p>
+ <p>But it is incomprehensible that we don&lsquo;t see that Fiat ownership causes the majority of the harm we face, starting with poverty and excessive wealth.</p>
 
 </h1>Co-Ownership</h1>
- <p>Co-ownership came out of our conversations. It is the kind of active property (e.g., a company, not a house) that belongs to all who contributes to it. If you see what we others do as a contribution and give us RADs for it, then you are a co-owner.</p>
+ <p>Co-ownership came out of our conversations. It is the kind of active property (<em>e.g.</em>, a company, not a house) that belongs to all who contributes to it. If you see what I do as a contribution and give us RADs for it, then you are a co-owner.</p>
  <p>There must be other ways to do it. For one, it has to come from a real contribution because 1) there are no bosses to kiss up to, and 2) capital does not constitute a contribution. For another, if the RADs given do not makes sense, other co-owners have the right and responsibility to ask.</p>
 
 <h1>Ownership?</h1>
@@ -123,8 +123,8 @@ image:    "icon-.svg"
    <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
   </tr>
   <tr>
-   <th>Co-Ownership</th>
-   <th><strong>Ownership is dynamic, based on contributions.</strong></th>
+   <th><strong>Co-Ownership</strong></th>
+   <th><strong>A dynamic form of ownership, based on contributions recognized by other co-owners.</strong></th>
   </tr>
   <tr>
    <th>Fiat</th>
