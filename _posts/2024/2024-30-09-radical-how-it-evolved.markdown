@@ -178,7 +178,10 @@ image:    "icon-.svg"
    <img
     src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
     width='70%'
-    alt=''>
+    alt="The Foundation table consist pairs. People, meaning and belonging. Community, , and practices. The other is the specifics: meaning and belonging, decentralization & transparency, and experimentation."
+    alt="The Foundation table consist pairs. People: meaning & belonging.
+    Community: decentralization & transparency. and ther last pair practices: experimentation."
+    title="">
   </div>
  <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
  <p>If it is working for all co-owners, go with. It is not, find another solution.</p>
