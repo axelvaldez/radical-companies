@@ -3,27 +3,26 @@ layout:   post
 title:    "Radical: How it Evolved"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
-image:    "icon-.svg"
+image:    "icon-radical-how-it-evolved.svg"
 ---
 
 <h1>In the Beginning</h1>
- <p>Something wanted to come out of me. Why did I make so much more money than the rest of them when we sold the company where in reality they had a bigger hand in making the company grow?</p>
+ <p>Something wanted to come out of us. Why did I make so much more money than the rest of them when we sold the Nearsoft, where in reality they had as big a hand in making the company grow?</p>
  <div class="_citation">
-  &ldquo;Well you did a lot of other things, too. Other people just want a paycheck&rdquo;
+  &ldquo;Well you did a lot of other things, too. Other people did it for the paycheck&rdquo;
  </div>
- <p>These questions kept going around and around in my head, and these traditional answers sounded hollow. And it is not like I hate money or anything like that.</p>
+ <p>Questions kept going around in my head, and traditional answers sounded hollow. And it is not like I hate Fiat money or anything like that.</p>
 
 <h1>Community</h1>
- <p>Later, Jose and I were introduced by Doug Kirkpatrick, self-management extraordinaire, and we started to have conversations, too.</p>
- (<p>Eventually Adrian, Jose, and I had conversations and I started writing the book Radical Companies.</p>
+ <p>Later, Doug Kirkpatrick, self-management extraordinaire intriduced me to Jose and we started to have conversations, too.</p>
 
 <h1>Many Conversations</h1>
- <p>The three of us, Adrian, Jose, and I, ended up meeting for about a year and an alternative system based on contributions started to take shape.</p>
- <p>Before that we checked with many people, including luminaries, but they did not have answers, either. At least, not satisfactory  answers.</p>
+ <p>The three of us, Adrian, Jose, and I, ended up meeting for about a year and an alternative system based on contributions started to take shape.  I started writing the book Radical Companies.</p>
+ <p>Before that we had checked with many people, including luminaries, but they did not have satisfactory answers, either.</p>
  <p>In particular, none identified ownership as a barrier.</p>
 
 <h1>Fiat &amp; Radical</h1>
- <p>We came up with Fiat, “because I said so,” as the name of the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including established co-cops, were all the same. And Fiat resonated with people.</p>
+ <p>We came up with Fiat, &ldquo;because I said so,&rdquo; as the name of the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including established co-cops, were all the same. And Fiat resonated with people.</p>
  <p>The other system., the system that we were working on we called Radical. No violence, no killing the bad guys, no taking their properties, no revolution—simply an alternative.</p>
 
 <h1>No Boss</h1>
@@ -32,7 +31,7 @@ image:    "icon-.svg"
  <p>But what about contributions. Bosses recognize them, although not always fairly.</p>
 
 <h1>Recognized Contributions</h1>
- <h1>The co-author Adrian Perez and I experimented with how to recognize contributions. That was the one question, the fairness of it all, that came up very often at Nearsoft.</h1>
+ <p>Adrian Perez, co-author, and I experimented with how to recognize contributions. That was the one question, fairness of it all, that came up very often at Nearsoft. We did not have RADs at the time, so we made it equal portions and this didnt work as well as we expected.</p>
 
 <h1>Distributions</h1>
  <p>At Nearsoft we reserved part of our profits for the following year’s operations and the rest we distributed equally among everybody. If there were 100 people and we had a $100 to distribute each of us got an extra dollar.</p>
@@ -75,7 +74,7 @@ image:    "icon-.svg"
    <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public table.</th>
   </tr>
  </table>
-<h1>Ownership</h1>
+<h1 class="_title">Ownership</h1>
 <h1>Ownership &amp; Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
  <div class="_citation">
@@ -165,7 +164,7 @@ image:    "icon-.svg"
  <p>The RADs! mobile app has continued to evolve a lot. We have added a lot of things, taken off other things, and resolved a whole lot of issues.</p>
  <p>For example, as the name suggest we tried to let co-owners give RADs directly, but that did work so well. So we switched to recognized contributions. The output is converted to RADs (by an app) and can then be made tangible.</p>
 
-<h1>The Future</h1>
+<h1 class="_title">The Future</h1>
 <h1>RADs App&hellip;</h1>
  <p>The RADs app will continue to evolve. It is open to changes as you and I find mistakes and better solutions.</p>
 
@@ -178,9 +177,9 @@ image:    "icon-.svg"
    <img
     src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
     width='70%'
-    alt="The Foundation table consist pairs. People, meaning and belonging. Community, , and practices. The other is the specifics: meaning and belonging, decentralization & transparency, and experimentation."
-    alt="The Foundation table consist pairs. People: meaning & belonging.
-    Community: decentralization & transparency. and ther last pair practices: experimentation."
+    alt="The Foundation table consist of pairs. People: [meaning & belonging].
+    The other is for [comunnities: decentralization & transparency].
+    And the lat Foundation block is for [practices: experimentation.]"
     title="">
   </div>
  <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
