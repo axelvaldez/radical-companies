@@ -175,7 +175,7 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>These are the blocks of the Foundation,</p>
   <div class='_center'>
    <img
-    src='/assets/img/pic-the-radical-foundation-with-numbers.svg'
+    src='/assets/img/pic-the-radical-foundation.svg'
     width='70%'
     alt="The Foundation table consist of pairs. People: [meaning & belonging].
     The other is for [comunnities: decentralization & transparency].
