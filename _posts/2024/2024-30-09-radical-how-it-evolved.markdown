@@ -14,35 +14,33 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>Questions kept going around in my head, and traditional answers sounded hollow. And it is not like I hate Fiat money or anything like that.</p>
 
 <h1>Community</h1>
- <p>Later, Doug Kirkpatrick, self-management extraordinaire intriduced me to Jose and we started to have conversations, too.</p>
+ <p>Later, Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and we started to have conversations, too.</p>
 
 <h1>Many Conversations</h1>
- <p>The three of us, Adrian, Jose, and I, ended up meeting for about a year and an alternative system based on contributions started to take shape.  I started writing the book Radical Companies.</p>
- <p>Before that we had checked with many people, including luminaries, but they did not have satisfactory answers, either.</p>
- <p>In particular, none identified ownership as a barrier.</p>
+ <p>Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on contributions started to take shape.  I started writing the book Radical Companies.</p>
+ <p>Before that we had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
 
 <h1>Fiat &amp; Radical</h1>
- <p>We came up with Fiat, &ldquo;because I said so,&rdquo; as the name of the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including established co-cops, were all the same. And Fiat resonated with people.</p>
- <p>The other system., the system that we were working on we called Radical. No violence, no killing the bad guys, no taking their properties, no revolution—simply an alternative.</p>
+ <p>We came up with the name Fiat, &ldquo;because I said so,&rdquo; for the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including established co-cops, were all the same, and Fiat resonated with people.</p>
+ <p>The system that we were working on we called Radical. No violence, no pumishing or killing the bad guys, no taking their properties, no revolution. It is simply an alternative.</p>
 
 <h1>No Boss</h1>
- <p>Then there was the question of replacing the boss. I had some experience with that and what came to popularly be known as self-management.</p>
+ <p>Then there was the question of replacing the boss. I had some experience with what came to popularly be known as self-management.</p>
  <p>But we came to realize that companies, a thing, do not have a self. Instead we called it co-management, because the team managed together. No need for a boss.</p>
- <p>But what about contributions. Bosses recognize them, although not always fairly.</p>
 
 <h1>Recognized Contributions</h1>
- <p>Adrian Perez, co-author, and I experimented with how to recognize contributions. That was the one question, fairness of it all, that came up very often at Nearsoft. We did not have RADs at the time, so we made it equal portions and this didnt work as well as we expected.</p>
+ <p>Adrian Perez, co-author, and I, Matt Perez,experimented with how to recognize contributions. That was the one question that came up very often at Nearsoft. At the time of Nearsloft we did not have RADs, so we made it equal portions.</p>
 
 <h1>Distributions</h1>
- <p>At Nearsoft we reserved part of our profits for the following year’s operations and the rest we distributed equally among everybody. If there were 100 people and we had a $100 to distribute each of us got an extra dollar.</p>
+ <p>At Nearsoft we reserved part of our profits for the following year’s operations and the rest we distributed equally among everybody. If there were 100 people and we had a $100 to distribute each of us got a dollar.</p>
 
 <h1>Money</h1>
- <p>I think the problem was money, in particular the equal distribution go money.</p>
- <p>If we distributed carrots or potatoes it would not be a problem. Just eat them or give them away to friends and family. Money, on the other hand, is a universal mean of exchange. You can buy, for example, headphones with it. And that universality made different.</p>
- <p>So for Radical we came up with RADs, a percentage of the given RADs and without the baggage of money. You do something, other people recognize as a contribution, and they give you RADs.</p>
- <p>Later we realized that “recognized contribution” was the key. It got converted to RADs later. If you have 10% of the RADs, you get 10% of the profits.  If you 200 RADs and I have 100, you get twice the profits as I do.</p>
- <p>If you do not get what you think you think you deserve, you have to talk to a lot of other co-owners to learn why (there is no boss, remember).</p>
-
+ <p>I think the problem was money, in particular the equal distribution of money.</p>
+ <p>If we had distributed carrots or potatoes it may not be a problem. Just eat them or give them away to friends and family. Money, on the other hand, is a universal mean of exchange. You can buy, for example, headphones with it. And that made it different.</p>
+ <p>So for Radical we came up with RADs, without the baggage of money. You do something, other people recognize it as a contribution, and it results in RADs.</p>
+ <p>Later we realized that &ldquo;recognized contribution&rdquo; was the key. If you have 10% of the RADs, you get 10% of the dividends.  If you 200 RADs and I have 100, you get twice the dividends as I do.</p>
+ <p>If you do not get what you think you deserve, you have to talk to other co-owners to learn why.</p>
+ 
 <h1>RADs!</h1>
  <p>We made an app to do the math (RADs! free in Apple and Android stores).</h1>
  <p>And we also made the RADs public.</p>
@@ -71,9 +69,10 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th>RADs!</th>
-   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public table.</th>
+   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</th>
   </tr>
  </table>
+
 <h1 class="_title">Ownership</h1>
 <h1>Ownership &amp; Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
