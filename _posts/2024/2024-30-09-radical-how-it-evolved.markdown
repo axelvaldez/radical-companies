@@ -79,8 +79,8 @@ image:    "icon-radical-how-it-evolved.svg"
  <div class="_citation">
   &ldquo;I own it and you don&rsquo;t. Keep out of it!&rdquo;
  </div>
- <p>That is good for a toothbrush, but not for a business. Particularly not for a business whose growth comes from the work other people put in it.</p>
- <p>Today Fiat ownership is invisible. At  one time there might have been a reason for making it so.</p>
+ <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that other people put in it.</p>
+ <p>Today Fiat ownership is invisible,</p>
  <div class="_citation">
   This is mine. I took it by force and I will keep it by force. Even if I had to kill you, everyone in your family, and burn everybody in your village.
  </div>
@@ -91,7 +91,7 @@ image:    "icon-radical-how-it-evolved.svg"
   <li>We do not question it.</li>
   <li>We even defend it.</li>
   <li>We give it sole credit for whatever progress we have made.</li>
-  <li>The ultimate goal of most people in the Fiat system is to get as much money and power as possible.</li>
+  <li>The ultimate goal of most people in the Fiat system is to get as much money (<em>i.e.</em>, coined power) as possible.</li>
  </ul>
 
 <h1>We Are Blind to It</h1>
@@ -107,8 +107,8 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>There must be other ways to do it. For one, it has to come from a real contribution because 1) there are no bosses to kiss up to, and 2) capital does not constitute a contribution. For another, if the RADs given do not makes sense, other co-owners have the right and responsibility to ask.</p>
 
 <h1>Ownership?</h1>
- <p>Many questions came up with co-ownership and we worked out many of them. I say most of them because we have our blind spots, too, but we trust that others will bring other shortcomings up later.</p>
- <p>The ownership of other things, too, will have to be worked out over time.</p>
+ <p>Many questions came up with co-ownership and we worked out many of them. I say most of them because we have our blind spots, too, but we trust that others will bring up shortcomings up later.</p>
+ <p>Many will have to be worked out over time.</p>
 
 <h1>There You Have It</h1>
  <table class="table2col">
