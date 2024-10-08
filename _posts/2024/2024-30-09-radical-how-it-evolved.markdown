@@ -74,12 +74,12 @@ image:    "icon-radical-how-it-evolved.svg"
  </table>
 
 <h1 class="_title">Ownership</h1>
-<h1>Ownership &amp; Co-Ownership</h1>
+<h1>Ownership, Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
  <div class="_citation">
   &ldquo;I own it and you don&rsquo;t. Keep out of it!&rdquo;
  </div>
- <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that other people put in it.</p>
+ <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that people put in it.</p>
  <p>Today Fiat ownership is invisible,</p>
  <div class="_citation">
   This is mine. I took it by force and I will keep it by force. Even if I had to kill you, everyone in your family, and burn everybody in your village.
@@ -96,19 +96,24 @@ image:    "icon-radical-how-it-evolved.svg"
 
 <h1>We Are Blind to It</h1>
  <ul>
-  <li>Economists sometimes get really close to it, but at the last minute they avoid it.</li>
+  <li>Economists sometimes get really close to it, but at the last minute they go around it.</li>
   <li>Marx and his followers blame everything on ruthless capitalists, robber barons, and others bad people.</li>
-  <li>Others blame our problems on our veering away from the path of indigenous people, the simple people.</li>
+  <li>Others blame our problems on our veering away from the path of indigenous people, you know, the simple people who were nostranger to slavery.</li>
  </ul>
- <p>But it is incomprehensible that we don&lsquo;t see that Fiat ownership causes the majority of the harm we face, starting with poverty and excessive wealth.</p>
+ <p>It is incomprehensible that we don&lsquo;t see that Fiat ownership causes the majority of the harm we face, starting with poverty and excessive wealth.</p>
 
-</h1>Co-Ownership</h1>
- <p>Co-ownership came out of our conversations. It is the kind of active property (<em>e.g.</em>, a company, not a house) that belongs to all who contributes to it. If you see what I do as a contribution and give us RADs for it, then you are a co-owner.</p>
- <p>There must be other ways to do it. For one, it has to come from a real contribution because 1) there are no bosses to kiss up to, and 2) capital does not constitute a contribution. For another, if the RADs given do not makes sense, other co-owners have the right and responsibility to ask.</p>
+<h1>Co-Ownership</h1>
+ <p>Co-ownership is the kind of active property (<em>e.g.</em>, a company, not a house) that belongs to all who contributes to it. If recognize what youaredoing as a contribution and give you RADs for it, then you are a co-owner.</p>
+ <p>There can be other ways to do it, but it has to come from a real contribution because. Remember,</p>
+  <ul>
+    <li>There are no bosses to kiss up to</li>
+    <li>Capital does not constitute a contribution.</li>
+    <li>If the RADs given do not makes sense to yoiu, yu have the and responsibility to ask.</li>
+  </ul>
 
-<h1>Ownership?</h1>
- <p>Many questions came up with co-ownership and we worked out many of them. I say most of them because we have our blind spots, too, but we trust that others will bring up shortcomings up later.</p>
- <p>Many will have to be worked out over time.</p>
+<h1>Co-Ownership?</h1>
+ <p>Many questions came up with co-ownership and we worked out many of them. I say most of them because we have our blind spots, too, but others will bring up other shortcomings up later. Many will have to be worked out over time.</p>
+ <p>Just be sure not to fall back on Fiat.</p>
 
 <h1>There You Have It</h1>
  <table class="table2col">
@@ -138,7 +143,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th>RADs!</th>
-   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public table.</th>
+   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</th>
   </tr>
  </table>
 
@@ -147,28 +152,25 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
 <h1>Capital or Contribution</h1>
- <p>Many people can make a contribution, though everybody can’t make a capital investment. So we came to a solution: a Radical Investment from a bank, from individuals, or even from a <em>Venture Capital firm</em>.</p>
+ <p>Many people can make a contribution, though capital can come from, a bank, individuals, or even from a <em>Venture Capital firm</em>.</p>
  <p>Then we would sign a note saying that,</p>
   <ul>
-   <li>We will return the principal,</li>
-   <li>Plus a fixed percentage,</li>
-   <li>Or a percentage of revenue,</li>
-   <li>Or any other scheme</li>
-   <li>A Radical Investment is never exchanged for power. You are free to do it, but it will very likely turn into a Fiat investment, a board, etc.</li>
-   <li>And, of course, if the investment does not work out, that is that as far as the capital in Radical Investment. Just like any other investment.</li>
+   <li>We will return the principal</li>
+   <li>Plus a fixed percentage, or a percentage of revenue, or any other scheme</li>
+   <li>A Radical Investment is never exchanged for power. You are free to do it, but it will very likely turn into a Fiat investment, with a board, etc.</li>
+   <li>And, of course, if the investment does not work out, that is that as far as the Radical Investment, just like any other investment.</li>
   </ul>
- <p>To note, I said we because we, all the co-owners, commit together. Maybe it can be done with a contract and multiple signatures, but we need to find a mechanism for all, or maybe a majority, of co-owners to commit.</p>
+ <p>&lsquo;We&rsquo; in this case refers to all co-owners. Maybe it can be done with a contract and multiple signatures, but we need to find a mechanism for all, or maybe a majority, of co-owners to commit.</p>
 
 <h1>The RADs Mobile App</h1>
  <p>The RADs! mobile app has continued to evolve a lot. We have added a lot of things, taken off other things, and resolved a whole lot of issues.</p>
- <p>For example, as the name suggest we tried to let co-owners give RADs directly, but that did work so well. So we switched to recognized contributions. The output is converted to RADs (by an app) and can then be made tangible.</p>
+ <p>For example, as the name suggest we tried to let co-owners give RADs directly, but that did work so well. So we switched to recognizing contributions. The result is converted to RADs and can then be made tangible.</p>
 
-<h1 class="_title">The Future</h1>
 <h1>RADs App&hellip;</h1>
- <p>The RADs app will continue to evolve. It is open to changes as you and I find mistakes and better solutions.</p>
+ <p>The RADs app is open to changes as you and us find mistakes and better solutions.</p>
 
 <h1>No Dogma</h1>
- <p>There is nothing dogmatic here. It is only an alternative to Fiat. You are welcome to add things and change things, so long as it does not fold back into a Fiat system.</p>
+ <p>There is nothing dogmatic here. Radical is only an alternative to Fiat. You are welcome to add things and change things, so long as it does not mean falling back into a Fiat system.</p>
 
 <h1>Foundation</h1>
  <p>These are the blocks of the Foundation,</p>
@@ -177,7 +179,7 @@ image:    "icon-radical-how-it-evolved.svg"
     src='/assets/img/pic-the-radical-foundation.svg'
     width='70%'
     alt="The Foundation table consist of pairs. People: [meaning & belonging].
-    The other is for [comunnities: decentralization & transparency].
+    The other is for [comunnities: decentralization & transparency]].
     And the lat Foundation block is for [practices: experimentation.]"
     title="">
   </div>
