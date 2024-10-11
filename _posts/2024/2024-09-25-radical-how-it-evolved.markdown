@@ -116,7 +116,7 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
 <h1>Capital or Contribution</h1>
- <p>Many people can make a contribution, though capital can come from, a bank, individuals, or even from a Venture Capital firm.</p>
+ <p>Many people can make a contribution. Capital can come as a radical Investment from a bank, individuals, or even from a Venture Capital firm.</p>
  <p>Then we would sign a note saying that,</p>
   <ul>
    <li>We will return the principal</li>
