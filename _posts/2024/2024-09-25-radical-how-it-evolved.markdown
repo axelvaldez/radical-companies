@@ -139,8 +139,8 @@ image:    "icon-the-story-of the-itsums.svg"
    <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <ttd text-align="right"d>RADs!</td>
-   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</td>
+   <td text-align="right">RADs!</td>
+   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
   </tr>
  </table>
 
