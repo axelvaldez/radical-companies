@@ -75,13 +75,13 @@ image:    "icon-the-story-of-the-itsums.svg"
   </ul>
  <p>Many questions came up with co-ownership and we worked out many of them. Mot that We have blind spots, too. Others will bring up shortcomings up later and will have to be worked out over time.</p>
 
-<h1>Co-Management, &amp; Co-Ownership</h1>
+<h1>Co-Management &amp; Co-Ownership</h1>
  <p>Co-management has gone by the name &ldquo;<em>self-management</em>&rdquo;.</p>
  <p>Except a business has no self.</p>
  <p>We changed the name to co-management because people can make decisions and work without a boss.</p>
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
-<h1>Capital or Contribution</h1>
+<h1>Capital &amp; Contribution</h1>
  <p>Many people can make a contribution.</p>
  <p>Capital may come as a radical Investment from a bank, individuals, or even from a Venture Capital firm as a Radical Investment with a not attached to it,</p>
   <ul>
