@@ -54,20 +54,20 @@ image:    "icon-the-story-of the-itsums.svg"
    <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
   </tr>
   <tr>
-   <th>Fiat</th>
-   <th>The system we live in, where money comes first.</th>
+   <td>Fiat</td>
+   <td>The system we live in, where money comes first.</td>
   </tr>
   <tr>
-   <th>Radical</th>
-   <th>An alternative system to Fiat, where people comes first.</th>
+   <td>Radical</td>
+   <td>An alternative system to Fiat, where people comes first.</td>
   </tr>
   <tr>
-   <th>RADs</th>
-   <th>Your percentage of ownership and, therefore, whatever is being distributed.</th>
+   <td>RADs</td>
+   <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <th>RADs!</th>
-   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</th>
+   <td>RADs!</td>
+   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</td>
   </tr>
  </table>
 
