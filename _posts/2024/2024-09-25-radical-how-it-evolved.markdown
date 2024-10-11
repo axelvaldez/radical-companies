@@ -46,11 +46,11 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>There You Have It</h1>
  <table class="table2col">
   <tr>
-   <td text-align="right">Recognized Contribution</td>
-   <td>Later get converted to RADs to make them tangible.</td>
+   <td style="text-align:right;">Recognized Contribution</td>
+   <th>Later get converted to RADs to make them tangible.</th>
   </tr>
   <tr>
-   <td text-align="right">Co-Management</td>
+   <th style="text-align:right;">Co-Management</th>
    <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
