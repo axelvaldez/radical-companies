@@ -181,6 +181,6 @@ image:    "icon-the-story-of the-itsums.svg"
     title="">
   </div>
  <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
- <p>If it is working for all co-owners, go with. It is not, find another solution.</p>
+ <p>If it is working for all co-owners, go with it. If it is not, find another solution.</p>
 
 {% include related.html %}
