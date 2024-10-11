@@ -3,7 +3,7 @@ layout:   post
 title:    "Radical: How it Evolved"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
-image:    "icon-the-story-of the-itsums.svg"
+image:    "icon-the-story-of-the-itsums.svg"
 ---
 
 <h1>In the Beginning</h1>
@@ -43,7 +43,7 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>We made an app to do the math (RADs! free in Apple and Android stores).</h1>
  <p>And we also made the RADs public.</p>
 
-<h1>Ownership, Co-Ownership</h1>
+<h1>Ownership &amp; Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
  <div class="_citation">
   &ldquo;<em>I own it and you don&rsquo;t. So keep out of it!</em>&rdquo;
