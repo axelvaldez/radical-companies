@@ -111,38 +111,6 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>Many questions came up with co-ownership and we worked out many of them. I say most of them because we have our blind spots, too, but others will bring up other shortcomings up later. Many will have to be worked out over time.</p>
  <p>Just be sure not to fall back on Fiat.</p>
 
-<h1>There You Have It</h1>
- <table class="table2col">
-  <tr>
-   <th style="text-align:right; ">Recognized Contribution</th>
-   <td>Later converted to RADs to make them tangible.</td>
-  </tr>
-  <tr>
-   <th style="text-align:right; ">Co-Management</th>
-   <td>Each team works by itself, without a boss. Note that this is not a flat organization or a patriarchy.</td>
-  </tr>
-  <tr>
-   <th style="text-align:right; ">Co-Ownership</th>
-   <td>A dynamic form of ownership, based on contributions recognized by other co-owners.</td>
-  </tr>
-  <tr>
-   <th style="text-align:right; ">Fiat</th>
-   <td>The system we live in, where <em>money</em> comes first.</td>
-  </tr>
-  <tr>
-   <th style="text-align:right; ">Radical</th>
-   <td>An alternative system to Fiat, where <em>people</em> comes first.</td>
-  </tr>
-  <tr>
-   <th style="text-align:right; ">RADs</th>
-   <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
-  </tr>
-  <tr>
-   <th style="text-align:right; ">RADs!</th>
-   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
-  </tr>
- </table>
-
 <h1>Co-Management, &amp; Co-Ownership</h1>
  <p>Co-management has gone by &ldquo;<em>self-management</em>&rdquo; except a business has no self. So, we changed the name to co-management, because people, self included, can work without a boss.</p>
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
@@ -181,5 +149,37 @@ image:    "icon-the-story-of the-itsums.svg"
   </div>
  <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
  <p>If it is working for all co-owners, go with it. If it is not, find another solution.</p>
+
+<h1>There You Have It</h1>
+ <table class="table2col">
+  <tr>
+   <th style="text-align:right; ">Recognized Contribution</th>
+   <td>Later converted to RADs to make them tangible.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Co-Management</th>
+   <td>Each team works by itself, without a boss. Note that this is not a flat organization or a patriarchy.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Co-Ownership</th>
+   <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Fiat</th>
+   <td>The system we live in, where <em>money</em> comes first.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Radical</th>
+   <td>An alternative system to Fiat, where <em>people</em> comes first.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">RADs</th>
+   <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">RADs!</th>
+   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
+  </tr>
+ </table>
 
 {% include related.html %}
