@@ -46,12 +46,12 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>There You Have It</h1>
  <table class="table2col">
   <tr>
-   <th>Recognized Contribution</th>
-   <th>Later get converted to RADs to make them tangible.</th>
+   <td>Recognized Contribution</td>
+   <td>Later get converted to RADs to make them tangible.</td>
   </tr>
   <tr>
-   <th>Co-Management</th>
-   <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
+   <td>Co-Management</td>
+   <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
    <td>Fiat</td>
@@ -115,32 +115,32 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>There You Have It</h1>
  <table class="table2col">
   <tr>
-   <th>Recognized Contribution</th>
-   <th>Later get converted to RADs to make them tangible.</th>
+   <td>Recognized Contribution</td>
+   <td>Later get converted to RADs to make them tangible.</td>
   </tr>
   <tr>
-   <th>Co-Management</th>
-   <th>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</th>
+   <td>Co-Management</td>
+   <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
-   <th><strong>Co-Ownership</strong></th>
-   <th><strong>A dynamic form of ownership, based on contributions recognized by other co-owners.</strong></th>
+   <td>Co-Ownership</td>
+   <td>A dynamic form of ownership, based on contributions recognized by other co-owners.</td>
   </tr>
   <tr>
-   <th>Fiat</th>
-   <th>The system we live in, where money comes first.</th>
+   <td>Fiat</td>
+   <td>The system we live in, where money comes first.</td>
   </tr>
   <tr>
-   <th>Radical</th>
-   <th>An alternative system to Fiat, where people comes first.</th>
+   <td>Radical</td>
+   <td>An alternative system to Fiat, where people comes first.</th>
   </tr>
   <tr>
-   <th>RADs</th>
-   <th>Your percentage of ownership and, therefore, whatever is being distributed.</th>
+   <td>RADs</td>
+   <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <th>RADs!</th>
-   <th>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</th>
+   <td>RADs!</td>
+   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</td>
   </tr>
  </table>
 
