@@ -9,7 +9,7 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>In the Beginning</h1>
  <p>Something wanted to come out of us. Why did I make so much more money than the rest of them when we sold the Nearsoft, where in reality they had as big a hand in making the company grow?</p>
  <div class="_citation">
-  &ldquo;Well you did a lot of other things, too, for wealth. Other people did it for the paycheck&rdquo;
+  &ldquo;<em>Well you did a lot of other things, too, for wealth. Other people did it for the paycheck</em>&rdquo;
  </div>
  <p>Questions kept going around in my head, and traditional answers sounded hollow. And it is not like I hate Fiat money or anything like that.</p>
 
@@ -20,12 +20,11 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>We had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
 
 <h1>Fiat &amp; Radical</h1>
- <p>We came up with the name Fiat, &ldquo;because I said so,&rdquo; for the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including co-cops, were all the same, and Fiat resonated with people.</p>
  <p>The system that we were working on we called Radical. No violence, no pumishing or killing the bad guys, no taking their properties, no revolution. It is simply an alternative.</p>
 
 <h1>No Boss</h1>
- <p>Then there was the question of replacing the boss. I had some experience with what came to popularly be known as self-management.</p>
- <p>But we came to realize that companies, a thing, do not have a self. Instead we called it co-management, because the team managed together. No need for a boss.</p>
+ <p>There was the question of replacing the boss. I had experience with what came to be popularly known as self-management.</p>
+ <p>However, we came to realize that companies do not have a self. Instead of self-management, we called it co-management. The team managed it together, no need for a boss.</p>
 
 <h1>Recognized Contributions</h1>
  <p>Adrian Perez, co-author, and I, Matt Perez,experimented with how to recognize contributions. That was the one question that came up very often at Nearsoft. At the time of Nearsloft we did not have RADs, so we made it equal portions.</p>
@@ -37,7 +36,7 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>I think the problem was money, in particular the equal distribution of money.</p>
  <p>If we had distributed carrots or potatoes it may not be a problem. Just eat them or give them away to friends and family. Money, on the other hand, is a universal mean of exchange. You can buy, for example, headphones with it. And that made it different.</p>
  <p>So for Radical we came up with RADs, without the baggage of money. You do something, other people recognize it as a contribution, and it results in RADs.</p>
- <p>Later we realized that &ldquo;recognized contribution&rdquo; was the key. If you have 10% of the RADs, you get 10% of the dividends.  If you 200 RADs and I have 100, you get twice the dividends as I do.</p>
+ <p>Later we realized that <em>recognized contribution</em>&rdquo; was the key. If you have 10% of the RADs, you get 10% of the dividends or if you 200 RADs and I have 100, you get twice the benefits as I do.</p>
  <p>If you do not get what you think you deserve, you have to talk to other co-owners to learn why.</p>
  
 <h1>RADs!</h1>
@@ -76,7 +75,7 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>Ownership, Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
  <div class="_citation">
-  &ldquo;I own it and you don&rsquo;t. Keep out of it!&rdquo;
+  &ldquo;<em>I own it and you don&rsquo;t. Keep out of it!</em>&rdquo;
  </div>
  <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that people put in it.</p>
  <p>Today Fiat ownership is invisible,</p>
@@ -147,7 +146,7 @@ image:    "icon-the-story-of the-itsums.svg"
  </table>
 
 <h1>Co-Management, &amp; Co-Ownership</h1>
- <p>Co-management has gone by &ldquo;self-management&rdquo; except a business has no self. So, we changed the name to co-management, because people, self included, can work without a boss.</p>
+ <p>Co-management has gone by &ldquo;<em>self-management</em>&rdquo; except a business has no self. So, we changed the name to co-management, because people, self included, can work without a boss.</p>
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
 <h1>Capital or Contribution</h1>
