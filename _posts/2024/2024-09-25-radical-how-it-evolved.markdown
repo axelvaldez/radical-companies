@@ -122,8 +122,8 @@ image:    "icon-the-story-of the-itsums.svg"
    <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
-   <th style="text-align:right;"><em>>Co-Ownership</em></th>
-   <td>A dynamic form of ownership, based on contributions recognized by other co-owners.</td>
+   <th style="text-align:right;"><em>Co-Ownership</em></th>
+   <td><em>A dynamic form of ownership, based on contributions recognized by other co-owners.</em></td>
   </tr>
   <tr>
    <th style="text-align:right;">Fiat</th>
