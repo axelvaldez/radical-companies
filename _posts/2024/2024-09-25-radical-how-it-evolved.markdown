@@ -46,27 +46,27 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>There You Have It</h1>
  <table class="table2col">
   <tr>
-   <td style="text-align:right;">Recognized Contribution</td>
-   <th>Later get converted to RADs to make them tangible.</th>
+   <th style="text-align:right;">Recognized Contribution</th>
+   <td>Later get converted to RADs. From thatpint on, they are tangible.</th>
   </tr>
   <tr>
    <th style="text-align:right;">Co-Management</th>
    <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">Fiat</td>
+   <th style="text-align:right;">Fiat</v>
    <td>The system we live in, where money comes first.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">Radical</td>
+   <th style="text-align:right;">Radical</tthd>
    <td>An alternative system to Fiat, where people comes first.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">RADs</td>
+   <th style="text-align:right;">RADs</th>
    <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">RADs!</td>
+   <th style="text-align:right;">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard.</td>
   </tr>
  </table>
@@ -114,31 +114,31 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>There You Have It</h1>
  <table class="table2col">
   <tr>
-   <td style="text-align:right;">Recognized Contribution</td>
+   <th style="text-align:right;">Recognized Contribution</th>
    <td>Later get converted to RADs to make them tangible.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">Co-Management</td>
+   <th style="text-align:right;">Co-Management</th>
    <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">Co-Ownership</td>
+   <th style="text-align:right;"><em>>Co-Ownership</em></th>
    <td>A dynamic form of ownership, based on contributions recognized by other co-owners.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">Fiat</td>
+   <th style="text-align:right;">Fiat</th>
    <td>The system we live in, where money comes first.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">Radical</td>
+   <th style="text-align:right;">Radical</th>
    <td>An alternative system to Fiat, where people comes first.</th>
   </tr>
   <tr>
-   <td style="text-align:right;">RADs</td>
+   <th style="text-align:right;">RADs</th>
    <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <td style="text-align:right;">RADs!</td>
+   <th style="text-align:right;">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
   </tr>
  </table>
