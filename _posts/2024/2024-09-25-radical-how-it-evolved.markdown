@@ -76,8 +76,7 @@ image:    "icon-the-story-of the-itsums.svg"
  <div class="_citation">
   &ldquo;<em>I own it and you don&rsquo;t. Keep out of it!</em>&rdquo;
  </div>
- <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that people put in it.</p>
- <p>Today Fiat ownership is invisible,</p>
+ <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that people put in it. Today,  Fiat ownership is invisible,</p>
  <div class="_citation">
   This is mine. I took it by force and I will keep it by force. Even if I had to kill you, everyone in your family, and burn everybody in your village.
  </div>
