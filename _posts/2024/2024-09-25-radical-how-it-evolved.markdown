@@ -147,7 +147,7 @@ image:    "icon-the-story-of the-itsums.svg"
     And the lat Foundation block is for [practices: experimentation.]"
     title="">
   </div>
- <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
+ <p>But you are not going to get a demerit or a medal if you do not follow it. Although if you are not careful you may have wasted time and end up back in the Fiat system.</p>
  <p>If it is working for all co-owners, go with it. If it is not, find another solution.</p>
 
 <h1>There You Have It</h1>
