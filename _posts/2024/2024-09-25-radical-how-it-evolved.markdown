@@ -126,7 +126,7 @@ image:    "icon-the-story-of the-itsums.svg"
    <td>A dynamic form of ownership, based on contributions recognized by other co-owners.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Fiat</thd>
+   <th style="text-align:right; ">Fiat</th>
    <td>The system we live in, where <em>money comes first</em>.</td>
   </tr>
   <tr>
