@@ -114,11 +114,11 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>There You Have It</h1>
  <table class="table2col">
   <tr>
-   <th style="text-align:right;">Recognized Contribution</th>
+   <td style="text-align:right;">Recognized Contribution</td>
    <td>Later get converted to RADs to make them tangible.</td>
   </tr>
   <tr>
-   <th style="text-align:right;">Co-Management</th>
+   <td style="text-align:right;">Co-Management</td>
    <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
@@ -126,19 +126,19 @@ image:    "icon-the-story-of the-itsums.svg"
    <td><em>A dynamic form of ownership, based on contributions recognized by other co-owners.</em></td>
   </tr>
   <tr>
-   <th style="text-align:right;">Fiat</th>
+   <td style="text-align:right;">Fiat</td>
    <td>The system we live in, where money comes first.</td>
   </tr>
   <tr>
-   <th style="text-align:right;">Radical</th>
+   <td style="text-align:right;">Radical</td>
    <td>An alternative system to Fiat, where people comes first.</td>
   </tr>
   <tr>
-   <th style="text-align:right;">RADs</th>
+   <td style="text-align:right;">RADs</td>
    <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <th style="text-align:right;">RADs!</th>
+   <td style="text-align:right;">RADs!</td>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
   </tr>
  </table>
