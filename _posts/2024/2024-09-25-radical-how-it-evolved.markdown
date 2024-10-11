@@ -131,7 +131,7 @@ image:    "icon-the-story-of the-itsums.svg"
   </tr>
   <tr>
    <th style="text-align:right;">Radical</th>
-   <td>An alternative system to Fiat, where people comes first.</th>
+   <td>An alternative system to Fiat, where people comes first.</td>
   </tr>
   <tr>
    <th style="text-align:right;">RADs</th>
