@@ -121,7 +121,7 @@ image:    "icon-the-story-of-the-itsums.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Management</th>
-   <td>Each team works by itself, without a boss. Note that this is not a flat organization, a patriarchy, or even a co-op.</td>
+   <td>Each team works without a boss. Note that this is not a flat organization, a patriarchy, or even a co-op.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
