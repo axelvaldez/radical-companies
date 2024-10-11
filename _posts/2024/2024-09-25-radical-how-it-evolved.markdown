@@ -9,7 +9,7 @@ image:    "icon-the-story-of the-itsums.svg"
 <h1>In the Beginning</h1>
  <p>Something wanted to come out of us. Why did I make so much more money than the rest of them when we sold the Nearsoft, where in reality they had as big a hand in making the company grow?</p>
  <div class="_citation">
-  &ldquo;Well you did a lot of other things, too. Other people did it for the paycheck&rdquo;
+  &ldquo;Well you did a lot of other things, too, for wealth. Other people did it for the paycheck&rdquo;
  </div>
  <p>Questions kept going around in my head, and traditional answers sounded hollow. And it is not like I hate Fiat money or anything like that.</p>
 
