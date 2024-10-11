@@ -15,7 +15,8 @@ image:    "icon-the-story-of the-itsums.svg"
 
 <h1>Community</h1>
  <p>Later, Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and we started to have conversations, too.</p>
- <p>Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on contributions started to take shape.  I started writing the book Radical Companies.</p>
+ <p>Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on <em>contributions</em> started to take shape.</p>
+ <p>We also started writing <em>Radical Companies</em> (<a href="https://www.amazon.com/dp/B0CW1HV3SK" target="_blank">Amazon</a>).</p>
  <p>Before that we had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
 
 <h1>Fiat &amp; Radical</h1>
@@ -183,3 +184,4 @@ image:    "icon-the-story-of the-itsums.svg"
   </div>
  <p>But you are not going to get a demerit or a medal if you do not follow it, but if you are not careful you will have wasted time and end up back in the Fiat system.</p>
  <p>If it is working for all co-owners, go with. It is not, find another solution.</p>
+ 
