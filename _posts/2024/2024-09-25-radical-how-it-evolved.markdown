@@ -115,11 +115,11 @@ image:    "icon-the-story-of the-itsums.svg"
  <table class="table2col">
   <tr>
    <th style="text-align:right; ">Recognized Contribution</th>
-   <td>Later get converted to RADs to make them tangible.</td>
+   <td>Later converted to RADs to make them tangible.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Management</th>
-   <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
+   <td>Each team works by itself, without a boss. Note that this is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
