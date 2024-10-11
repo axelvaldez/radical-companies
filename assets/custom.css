@@ -508,6 +508,7 @@ div table._foundation {
   align-items:center;
   display:grid;
   place-items:center;
+  margin-bottom:6px;
 }
 ._mb0 {
   margin-bottom:0;
