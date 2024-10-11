@@ -84,7 +84,7 @@ image:    "icon-the-story-of the-itsums.svg"
 
 <h1>Fiat Ownership</h1>
  <ul>
-  <li>We are blind to.</li>
+  <li>We are blind to it.</li>
   <li>We do not question it.</li>
   <li>We even defend it.</li>
   <li>We give it sole credit for whatever progress we have made.</li>
