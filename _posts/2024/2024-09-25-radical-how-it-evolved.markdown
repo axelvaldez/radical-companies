@@ -51,7 +51,7 @@ image:    "icon-the-story-of the-itsums.svg"
   </tr>
   <tr>
    <th style="text-align:right;">Co-Management</th>
-   <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
+   <td>Each team works by itself, without a boss. This is not a flat organization, a patriarchy, or even a co-op.</td>
   </tr>
   <tr>
    <th style="text-align:right;">Fiat</th>
@@ -99,20 +99,17 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>It is incomprehensible that we don&lsquo;t see that Fiat ownership causes the majority of the harm we face, starting with poverty and excessive wealth.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-ownership is the kind of active property (<em>e.g.</em>, a company, not a house) that belongs to all who contributes to it. If recognize what youaredoing as a contribution and give you RADs for it, then you are a co-owner.</p>
- <p>There can be other ways to do it, but it has to come from a real contribution because. Remember,</p>
+ <p>Co-ownership is the kind of active property (<em>e.g.</em>, a company, not a house) that belongs to all who contributes to it. If I recognize what you are doing as a contribution, then you are a co-owner.</p>
+ <p>It has to come from a Radical Investment because,</p>
   <ul>
     <li>There are no bosses to kiss up to</li>
     <li>Capital does not constitute a contribution.</li>
-    <li>If the RADs given do not makes sense to yoiu, yu have the and responsibility to ask.</li>
+    <li>If the RADs given do not makes sense to you, yu have the responsibility to have the people involved explained to you.</li>
   </ul>
-
-<h1>Co-Ownership?</h1>
- <p>Many questions came up with co-ownership and we worked out many of them. I say most of them because we have our blind spots, too, but others will bring up other shortcomings up later. Many will have to be worked out over time.</p>
- <p>Just be sure not to fall back on Fiat.</p>
+ <p>Many questions came up with co-ownership and we worked out many of them. I say <em>most of them</em> because we have blind spots, too; others will bring up shortcomings up later and many will have to be worked out over time.</p>
 
 <h1>Co-Management, &amp; Co-Ownership</h1>
- <p>Co-management has gone by &ldquo;<em>self-management</em>&rdquo; except a business has no self. So, we changed the name to co-management, because people, self included, can work without a boss.</p>
+ <p>Co-management has gone by the name &ldquo;<em>self-management</em>&rdquo;. Except a business has no self. So, we changed the name to co-management, because people have a self and can work without a boss.</p>
  <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
 <h1>Capital or Contribution</h1>
@@ -157,7 +154,39 @@ image:    "icon-the-story-of the-itsums.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Management</th>
-   <td>Each team works by itself, without a boss. Note that this is not a flat organization or a patriarchy.</td>
+   <td>Each team works by itself, without a boss. Note that this is not a flat organization, a patriarchy, or even a co-op.
+
+<h1>There You Have It</h1>
+ <table class="table2col">
+  <tr>
+   <th style="text-align:right; ">Recognized Contribution</th>
+   <td>Later converted to RADs to make them tangible.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Co-Management</th>
+   <td>Each team works by itself, without a boss. Note that this is not a flat organization, a patriarchy, or even a co-op.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Co-Ownership</th>
+   <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Fiat</th>
+   <td>The system we live in, where <em>money</em> comes first.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">Radical</th>
+   <td>An alternative system to Fiat, where <em>people</em> comes first.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">RADs</th>
+   <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
+  </tr>
+  <tr>
+   <th style="text-align:right; ">RADs!</th>
+   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
+  </tr>
+ </table>.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
