@@ -127,7 +127,7 @@ image:    "icon-the-story-of the-itsums.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">Fiat</th>
-   <td>The system we live in, where <em>money comes first</em>.</td>
+   <td>The system we live in, where <em>money</em> comes first.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Radical</th>
