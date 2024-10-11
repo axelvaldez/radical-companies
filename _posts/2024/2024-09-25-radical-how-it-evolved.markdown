@@ -161,7 +161,7 @@ image:    "icon-the-story-of the-itsums.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
-   <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners.</td>
+   <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners. No need for a boss</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Fiat</th>
