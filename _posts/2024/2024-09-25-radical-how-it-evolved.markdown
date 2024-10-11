@@ -71,7 +71,6 @@ image:    "icon-the-story-of the-itsums.svg"
   </tr>
  </table>
 
-<h1 class="_title">Ownership</h1>
 <h1>Ownership, Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
  <div class="_citation">

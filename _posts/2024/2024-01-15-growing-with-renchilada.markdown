@@ -91,3 +91,5 @@ image:    "icon-renchilada.svg"
    </tr>
   </table>
  </div>
+
+{% include related.html %}

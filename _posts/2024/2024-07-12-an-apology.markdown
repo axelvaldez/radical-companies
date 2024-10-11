@@ -58,3 +58,5 @@ image:    "icon-an-apology.svg"
  <h1>rRadical</h1>
   <p>Radical and christians want a more equitable world. They want our world to be people-centric, not money-centric. They want to take care of each other. They want to make our own choices and to discover more of the world.</p>
   <p>Unfortunately christians also want all of us to be in the same mysticism they believe in.</p>
+
+{% include related.html %}

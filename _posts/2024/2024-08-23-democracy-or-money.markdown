@@ -20,4 +20,6 @@ image:    "icon-democracy-or-money.svg"
   <li>Make ownership based on contributions, not capital.</li>
   <li>Have work be collaborative, not competitive.</li>
   <li>Make work be guided by the well-being of people, not whatever makes money.</li>
- </ul> 
+ </ul>
+
+{% include related.html %}

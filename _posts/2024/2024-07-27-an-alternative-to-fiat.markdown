@@ -62,3 +62,5 @@ image:    "icon-an-alternative-to-fiat.svg"
   </table.
  </p>
  <p>With a <a href="https://apps.apple.com/us/app/rads/id6447589527" target="_blank">RADs! mobile app</a> we can recognize contributions and give people RADs anywhere in the world. Most importantly, such an app allows us to connect with one another directly: no need for a boss.</p>
+
+{% include related.html %}
