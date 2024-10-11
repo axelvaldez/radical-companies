@@ -15,8 +15,6 @@ image:    "icon-the-story-of the-itsums.svg"
 
 <h1>Community</h1>
  <p>Later, Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and we started to have conversations, too.</p>
-
-<h1>Many Conversations</h1>
  <p>Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on contributions started to take shape.  I started writing the book Radical Companies.</p>
  <p>Before that we had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
 
