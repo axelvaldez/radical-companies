@@ -47,18 +47,18 @@ image:    "icon-the-story-of the-itsums.svg"
  <table class="table2col">
   <tr>
    <th style="text-align:right;">Recognized Contribution</th>
-   <td>Later get converted to RADs. From thatpint on, they are tangible.</th>
+   <td>Later get converted to RADs. From thatpint on, they are tangible.</td>
   </tr>
   <tr>
    <th style="text-align:right;">Co-Management</th>
    <td>Each team works by itself, without a boss. This is not a flat organization or a patriarchy.</td>
   </tr>
   <tr>
-   <th style="text-align:right;">Fiat</v>
+   <th style="text-align:right;">Fiat</th>
    <td>The system we live in, where money comes first.</td>
   </tr>
   <tr>
-   <th style="text-align:right;">Radical</tthd>
+   <th style="text-align:right;">Radical</th>
    <td>An alternative system to Fiat, where people comes first.</td>
   </tr>
   <tr>
