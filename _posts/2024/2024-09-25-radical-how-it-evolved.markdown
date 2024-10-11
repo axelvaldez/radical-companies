@@ -149,7 +149,7 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>You are not going to get a demerit or a medal if you do not follow it. Although if you are not careful you may have wasted time and end up back in the Fiat system.</p>
  <p>If it is working for all co-owners, go with it. If it is not, find another solution.</p>
 
-<h1>There You Have It</h1>
+<h1>And There You Have It</h1>
  <table class="table2col">
   <tr>
    <th style="text-align:right; ">Recognized Contribution</th>
