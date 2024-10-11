@@ -17,10 +17,10 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>Later, Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and we started to have conversations, too.</p>
  <p>Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on <em>contributions</em> started to take shape.</p>
  <p>We also started writing <em>Radical Companies</em> (<a href="https://www.amazon.com/dp/B0CW1HV3SK" target="_blank">Amazon</a>).</p>
- <p>Before that we had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
+ <p>We had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
 
 <h1>Fiat &amp; Radical</h1>
- <p>We came up with the name Fiat, &ldquo;because I said so,&rdquo; for the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including established co-cops, were all the same, and Fiat resonated with people.</p>
+ <p>We came up with the name Fiat, &ldquo;because I said so,&rdquo; for the system we live in. I had used the word Fiat once trying to explain that a CORP, LLC, LLP, and similar others, including co-cops, were all the same, and Fiat resonated with people.</p>
  <p>The system that we were working on we called Radical. No violence, no pumishing or killing the bad guys, no taking their properties, no revolution. It is simply an alternative.</p>
 
 <h1>No Boss</h1>
@@ -169,7 +169,7 @@ image:    "icon-the-story-of the-itsums.svg"
  <p>The RADs app is open to changes as you and us find mistakes and better solutions.</p>
 
 <h1>No Dogma</h1>
- <p>There is nothing dogmatic here. Radical is only an alternative to Fiat. You are welcome to add things and change things, so long as it does not mean falling back into a Fiat system.</p>
+ <p>There is nothing dogmatic here. Radical is only an alternative to Fiat. You are welcome to add things and change things, so long as it does not end up going back into the Fiat system.</p>
 
 <h1>Foundation</h1>
  <p>These are the blocks of the Foundation,</p>
