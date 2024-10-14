@@ -119,18 +119,23 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>Among other things, Banners could represent things like compromises amd commitments and for how long.</p>
 
 <h1>Public Dashboards</h1>
- <p>All RADs transactions are made public via Public Dasbpoards to all co-owners via Public Dasbpoards. They display how many many RADs moved between people and the people involved. With Banners they include how many RADs or noney have been committed, for how long.</p>
+ <p>All RADs transactions are made public via Public Dasbpoards to all co-owners,</p>
+  <ul>
+   <li>They display <em>how many RADs</em> moved between people and the people involved and for what reasons.</li>
+   <li>In the case of people-to-Banners, they include <em>how many RADs or money</em> have been committed and <em>for how long</em>.</li>
+  </ul>
 
 <h1>And There You Have It</h1>
  <table class="table2col">
   <tr>
    <th style="text-align:right; ">Banners</th>
-   <td>They respresnet non-people.</td>
+   <td>They respresnet non-people transactions.</td>
   </tr>
   <tr>
   <tr>
-   <th style="text-align:right; ">Co-Management</th>
-   <td>Each team works without a boss. Note that this is not a flat organization, a patriarchy, or even a co-op.</td>
+   <th style="text-align:right; "><p>Co-Management</th>
+   <td>Each team works without a boss.</p>
+   <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
