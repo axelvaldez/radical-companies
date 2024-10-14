@@ -133,8 +133,10 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th style="text-align:right; "><p>Co-Management</th>
-   <td>Each team works without a boss.</p>
-   <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</td>
+   <td>
+    <p>Each team works without a boss.</p>
+    <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</p>
+   </td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
