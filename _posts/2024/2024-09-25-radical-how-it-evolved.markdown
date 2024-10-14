@@ -126,18 +126,18 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, radical alternatives,</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, and the Radical alternatives,</p>
  <table class="table2col">
   <tr>
-   <th style="text-align:right; ">Banners</th>
-   <td>They represent non-people or multiple people transactions.</td>
+   <th style="text-align:right; ">Banners: The Symbols of Collective Action</th>
+   <td>
+    <p>How banners represent non-personal or collective transactions in this system, standing as emblems for the decentralized ethos of these organizations.</p>
+   </td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Co-Management</th>
-   <td>
-    <p>Each team works without a boss.</p>
-    <p>It is important to note that this is <strong>not</strong> a flat organization, a patriarchy, or even a co-op.</p>
-   </td>
+   <th style="text-align:right; ">Co-Management: The Absence of a Hierarchical Boss</th>
+   <td>Discussing how co-management empowers teams and ensuring collaboration without Fiat hierarchy. Emphasizing that this isn’t a flat or co-op structure but a balance of autonomy and responsibility.</th>
+   
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
