@@ -147,6 +147,7 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">Fiat</th>
    <td>The system we live in, where <em>money</em> comes first.</td>
   </tr>
+  -->
   <tr>
    <th style="text-align:right; ">PubLic Dashboards</th>
    <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners and the public.</td>
@@ -163,7 +164,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
   </tr>
-  -->
   <tr>
    <th style="text-align:right; ">Recognized Contribution</th>
    <td>Later converted to RADs to make them tangible.</td>
