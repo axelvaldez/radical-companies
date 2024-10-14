@@ -136,12 +136,11 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Management: The Absence of a Hierarchical Boss</th>
-   <td>Discussing how co-management empowers teams and ensuring collaboration without Fiat hierarchy. Emphasizing that this isn’t a flat or co-op structure but a balance of autonomy and responsibility.</th>
-   
+   <td>Discussing how co-management empowers teams and ensuring collaboration without Fiat hierarchy. Emphasizing that this isn’t a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Co-Ownership</th>
-   <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners. No need for a boss.</td>
+   <th style="text-align:right; ">Co-Ownership: Recognizing Contributions</th>
+   <td>Exploring the dynamic ownership model where contributions, rather than rank or titles, define ownership. RADs as a way to quantify these contributions.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Fiat</th>
