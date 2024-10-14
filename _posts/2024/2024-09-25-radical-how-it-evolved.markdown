@@ -139,7 +139,7 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>The Absence of a Hierarchical Boss</td>
   </tr>
   <tr>
-   <td colspan="2">Discussing how co-management empowers teams and ensuring collaboration without Fiat hierarchy. Emphasizing that this isn’t a flat or co-op structure but a balance of autonomy and responsibility.</td>
+   <td colspan="2">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Ownership: Recognizing Contributions</th>
