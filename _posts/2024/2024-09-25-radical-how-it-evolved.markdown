@@ -135,12 +135,11 @@ image:    "icon-radical-how-it-evolved.svg"
    </td>
   </tr>
   <tr>
-   <td style="text-align:right; "><strong>Co-Management</strong></td>
+   <td style="text-align:right"><strong>Co-Management</strong></td>
    <td>The Absence of a Hierarchical Boss</td>
-  </tr>
   <tr>
-   <td colspan="2">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
+   <td colspan="2">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
   <tr>
    <th style="text-align:right; ">Co-Ownership: Recognizing Contributions</th>
    <td>Exploring the dynamic ownership model where contributions, rather than rank or titles, define ownership. RADs as a way to quantify these contributions.</td>
