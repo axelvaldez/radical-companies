@@ -147,7 +147,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th style="margin-left:20px'; ">Co-Ownership</th>
+   <th style="margin-left:20px; ">Co-Ownership</th>
    <td>Recognizing Contributions</th>
   </tr>
   <tr>
