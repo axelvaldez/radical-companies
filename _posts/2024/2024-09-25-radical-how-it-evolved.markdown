@@ -134,7 +134,7 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <th style="text-align:right; "><p>Co-Management</th>
    <td>
-    <p>Each team works without a boss.</p>
+    Each team works without a boss.
     <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</p>
    </td>
   </tr>
@@ -161,8 +161,8 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <th style="text-align:right; ">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
-  <tr>
   </tr>
+  <tr>
    <th style="text-align:right; ">Recognized Contribution</th>
    <td>Later converted to RADs to make them tangible.</td>
   </tr>
