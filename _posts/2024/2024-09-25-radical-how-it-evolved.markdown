@@ -126,9 +126,8 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, radical alternatives,</p>
  <table class="table2col">
- <!--
-  -->
   <tr>
    <th style="text-align:right; ">Banners</th>
    <td>They represent non-people or multiple people transactions.</td>
