@@ -135,7 +135,7 @@ image:    "icon-radical-how-it-evolved.svg"
    </td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Co-Management: The Absence of a Hierarchical Boss</th>
+   <td style="text-align:right; "><strong>Co-Management</strong> The Absence of a Hierarchical Boss</td>
    <td>Discussing how co-management empowers teams and ensuring collaboration without Fiat hierarchy. Emphasizing that this isn’t a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
   <tr>
