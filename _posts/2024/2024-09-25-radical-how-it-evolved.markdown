@@ -132,14 +132,15 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">Banners</th>
    <td>They respresnet non-people transactions.</td>
   </tr>
+  -->
   <tr>
-   <th style="text-align:right; "><p>Co-Management</th>
+   <th style="text-align:right; ">
+   <th>Co-Management</th>
    <td>
     Each team works without a boss.
     <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</p>
    </td>
   </tr>
-  -->
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
    <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners. No need for a boss.</td>
@@ -149,7 +150,7 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>The system we live in, where <em>money</em> comes first.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">PubLic Dashboards</th>
+   <th style="text-align:right; ">Public Dashboards</th>
    <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners and the public.</td>
   </tr>
   <tr>
