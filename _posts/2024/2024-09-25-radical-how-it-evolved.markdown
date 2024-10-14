@@ -132,7 +132,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>They respresnet non-people transactions.</td>
   </tr>
   <tr>
-  <tr>
    <th style="text-align:right; "><p>Co-Management</th>
    <td>Each team works without a boss.</p>
    <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</td>
@@ -161,9 +160,10 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
   <tr>
+  </tr>
    <th style="text-align:right; ">Recognized Contribution</th>
    <td>Later converted to RADs to make them tangible.</td>
   </tr>
- </table>.
+ </table>
 
 {% include related.html %}
