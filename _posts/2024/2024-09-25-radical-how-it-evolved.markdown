@@ -131,7 +131,7 @@ image:    "icon-radical-how-it-evolved.svg"
   -->
   <tr>
    <th style="text-align:right; ">Banners</th>
-   <td>They respresent non-people (<em>i.e.</em>, more than one) transactions.</td>
+   <td>They represent non-people or multiple people transactions.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Co-Management</th>
