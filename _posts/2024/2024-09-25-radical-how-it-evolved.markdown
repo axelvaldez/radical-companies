@@ -137,7 +137,7 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">Co-Management</th>
    <td>
     <p>Each team works without a boss.</p>
-    <p>It is important to that this is <strong>not</strong> a flat organization, a patriarchy, or even a co-op.</p>
+    <p>It is important to note that this is <strong>not</strong> a flat organization, a patriarchy, or even a co-op.</p>
    </td>
   </tr>
   <tr>
