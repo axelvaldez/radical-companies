@@ -129,28 +129,35 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, and the Radical alternatives,</p>
  <table class="table2col">
   <tr>
-   <td style="margin-left:20px'; text-align:right;  " >Banners<td>
+   <th style="text-align:right;" >Banners</th>
    <td>The Symbols of Collective Action</th>
   </tr>
   <tr>
-   <td style="margin-left:20px'; text-align:right;  " >
+   <td colspan="2" style="margin-left:20px'; " 
     <p>How banners represent non-personal or collective transactions in this system, standing as emblems for the decentralized ethos of these organizations.</p>
    </td>
   </tr>
+
   <tr>
-   <th style="margin-left:20px; text-align:right; " >Co-Management</th>
+   <th colspan="2" style="margin-left:20px'; " >Co-Management</th>
    <td>The Absence of a Hierarchical Boss</td>
   </tr>
   <tr>
    <td colspan="2">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
+  </tr>
+
   <tr>
-   <td style="margin-left:20px; text-align:right; " >Co-Ownership</td>
+   <th colspan="2" style="margin-left:20px; ">Co-Ownership</th>
    <td>Exploring the dynamic ownership model where contributions, rather than rank or titles, define ownership. RADs as a way to quantify these contributions.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Co-Ownership: Recognizing Contributions</th>
-   <td>Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone. It is the syste, where <em>money</em> comes first.</td>
+   <th colspan="2">Co-Ownership</th>
+   <td>Recognizing Contributions</th>
   </tr>
+  <tr>
+   <td colspan="2">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone. It is the system where <em>money</em> comes first.</td>
+  </tr>
+  
   <tr>
    <th style="text-align:right; ">Public Dashboards</th>
    <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners and the public.</td>
