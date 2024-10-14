@@ -127,6 +127,7 @@ image:    "icon-radical-how-it-evolved.svg"
 
 <h1>And There You Have It</h1>
  <table class="table2col">
+ <!--
   <tr>
    <th style="text-align:right; ">Banners</th>
    <td>They respresnet non-people transactions.</td>
@@ -148,8 +149,9 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">PubLic Dashboards</th>
-   <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners.</td>
+   <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners and the public.</td>
   </tr>
+  -->
   <tr>
    <th style="text-align:right; ">Radical</th>
    <td>An alternative system to Fiat, where <em>people</em> comes first.</td>
@@ -160,7 +162,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">RADs!</th>
-   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
+   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Recognized Contribution</th>
