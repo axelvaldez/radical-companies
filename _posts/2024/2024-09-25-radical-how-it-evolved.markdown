@@ -133,8 +133,8 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>The Symbols of Collective Action</th>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px'; ">
-    <p>How banners represent non-personal or collective transactions in this system, standing as emblems for the decentralized ethos of these organizations.</p>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
    </td>
   </tr>
 <!--
