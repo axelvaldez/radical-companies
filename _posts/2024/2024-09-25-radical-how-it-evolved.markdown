@@ -126,14 +126,14 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, and the Radical alternatives,</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, Radical alternative,</p>
  <table class="table2col">
   <tr> 
    <th>Banners</th>
    <td>The Symbols of Collective Action</th>
   </tr>
-  <tr>
-   <td colspan="2" style="margin-left:20px; ">
+  <tr colspan="2">
+   <td style="margin-left:20px; ">
     <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
    </td>
   </tr>
