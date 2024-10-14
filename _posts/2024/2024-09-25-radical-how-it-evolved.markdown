@@ -143,8 +143,8 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>Exploring the dynamic ownership model where contributions, rather than rank or titles, define ownership. RADs as a way to quantify these contributions.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Fiat</th>
-   <td>The system we live in, where <em>money</em> comes first.</td>
+   <th style="text-align:right; ">Co-Ownership: Recognizing Contributions</th>
+   <td>Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone. It is the syste, where <em>money</em> comes first.</td>
   </tr>
   <tr>
    <th style="text-align:right; ">Public Dashboards</th>
