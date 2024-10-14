@@ -164,7 +164,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">Recognized Contribution</th>
    <td>Later converted to RADs to make them tangible.</td>
   </tr>
-  </tr>
  </table>.
 
 {% include related.html %}
