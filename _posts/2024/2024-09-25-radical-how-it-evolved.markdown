@@ -37,6 +37,7 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>So for Radical we came up with RADs, without the baggage of money. You do something, other people recognize it as a contribution, recognize them, and the results was RADs.</p>
  <p>Later we realized that <em>recognized contribution</em>&rdquo; was the key. If you have 10% of the RADs, you get 10% of the dividends; if you 200 RADs and I have 100, you get twice what I do.</p>
  <p>If you do not get what you think you deserve, you will have to talk to other co-owners to learn why.</p>
+ <p>The co-owners can decide whether to make accessible to the public, too. In the spirint of Transparecyb, our strong reecomendation is to always do so.</p>
  
 <h1><em>RADs!</em></h1>
  <p>We made an app to do the math (free in Apple and Android stores). And we also made the RADs public.</p>
@@ -113,12 +114,20 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>You are not going to get a demerit or a medal if you do not follow it, but if you are not careful you may end up back in the Fiat system.</p>
  <p>In general, if it works for all co-owners, go with it. Else, find another solution.</p>
 
+<h1>Banners </h1>
+ <p>Banners came up s we realized that we need a way to respresent non-people in RADs. Actually, the fisrt name that ocurred to use was Totem, but then Adrian pointed out that &lsquo;<em>totem</em>&rsquo; was a religiosus symbol and we should not. After some thinking, we switched to Banners.</p>
+ <p>Among other things, Banners could represent things like compromises amd commitments and for how long.</p>
+
+<h1>Public Dashboards</h1>
+ <p>All RADs transactions are made public via Public Dasbpoards to all co-owners via Public Dasbpoards. They display how many many RADs moved between people and the people involved. With Banners they include how many RADs or noney have been committed, for how long.</p>
+
 <h1>And There You Have It</h1>
  <table class="table2col">
   <tr>
-   <th style="text-align:right; ">Recognized Contribution</th>
-   <td>Later converted to RADs to make them tangible.</td>
+   <th style="text-align:right; ">Banners</th>
+   <td>They respresnet non-people.</td>
   </tr>
+  <tr>
   <tr>
    <th style="text-align:right; ">Co-Management</th>
    <td>Each team works without a boss. Note that this is not a flat organization, a patriarchy, or even a co-op.</td>
@@ -132,6 +141,10 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>The system we live in, where <em>money</em> comes first.</td>
   </tr>
   <tr>
+   <th style="text-align:right; ">PubLic Dashboards</th>
+   <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners.</td>
+  </tr>
+  <tr>
    <th style="text-align:right; ">Radical</th>
    <td>An alternative system to Fiat, where <em>people</em> comes first.</td>
   </tr>
@@ -142,6 +155,10 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <th style="text-align:right; ">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboard</td>
+  <tr>
+   <th style="text-align:right; ">Recognized Contribution</th>
+   <td>Later converted to RADs to make them tangible.</td>
+  </tr>
   </tr>
  </table>.
 
