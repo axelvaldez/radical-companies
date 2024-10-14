@@ -139,6 +139,7 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Note that this is <em>not</em> a flat organization, a patriarchy, or even a co-op.</p>
    </td>
   </tr>
+  -->
   <tr>
    <th style="text-align:right; ">Co-Ownership</th>
    <td>A dynamic form of ownership, based on <em>contributions</em> recognized by other co-owners. No need for a boss.</td>
@@ -147,7 +148,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">Fiat</th>
    <td>The system we live in, where <em>money</em> comes first.</td>
   </tr>
-  -->
   <tr>
    <th style="text-align:right; ">PubLic Dashboards</th>
    <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners and the public.</td>
