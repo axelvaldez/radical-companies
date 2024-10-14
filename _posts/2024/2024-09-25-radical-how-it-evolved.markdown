@@ -128,11 +128,11 @@ image:    "icon-radical-how-it-evolved.svg"
 <h1>And There You Have It</h1>
  <table class="table2col">
  <!--
+  -->
   <tr>
    <th style="text-align:right; ">Banners</th>
    <td>They respresnet non-people transactions.</td>
   </tr>
-  -->
   <tr>
    <th style="text-align:right; ">Co-Management</th>
    <td>
