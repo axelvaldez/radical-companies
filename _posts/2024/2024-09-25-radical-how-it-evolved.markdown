@@ -185,7 +185,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <td>
-     Explaining the core of RADs and the idea that people come first. 
+     Explaining the core of RADs and the idea that people comes first. 
      <br>
      RADs can transform the Fiat models.
    </td>
