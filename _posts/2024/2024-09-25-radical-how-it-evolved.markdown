@@ -129,11 +129,10 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative,</p>
  <table class="table2col">
   <tr> 
-   <th>Banners</th>
-   <td>Collective Action</td>
+   <td><strong>Banners</strong>&mdash;>Collective Action</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; ">
+   <td style="margin-left:20px; ">
     <p>
      How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.
     </p>
@@ -141,11 +140,10 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th>Co-Management</th>
-   <td>Working without a Fiat boss</td>
+   <td><strong>Co-Management</strong>&mdash;Working without a boss</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px'; ">
+   <td style="margin-left:20px'; ">
     <p>
      How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.
     </p>
@@ -153,11 +151,10 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th>Co-Ownership</th>
-   <td>By Recognized Contributions</td>
+   <th><strong>Co-Ownership</strong>&mdash;Via Recognized Contributions</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; ">
+   <td style="margin-left:20px; ">
     <p>
      Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.
     </p>
@@ -168,18 +165,11 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th>Fiat</th>
-   <td>
-    <p>
-     The dominant system we are escaping
-    </p>
-   </td>
+   <t><strong>Fiat</strong>&mdash;The dominant system we want to escape</td>
   </tr>
   <tr>
-   <td>
-    <p>
-     Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.
-    </p>
+   <td style="margin-left:20px; ">
+    Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.
    </td>
   </tr>
 
@@ -188,17 +178,14 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>Radical Transparency</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; ">
-    <p>Public Dashboards make all transactions visiblen and, in general, Transparency builds trust.</p>
-    <p>Radical is an alternative system to Fiat. In it <em>people</em> comes first.</p>
+   <td style="margin-left:20px; ">
+    Public Dashboards make all transactions visiblen and, in general, Transparency builds trust.</p>
+    <p>Radical is an alternative system to Fiat. In it <em>people</em> comes first.
    </td>
   </tr>
 
   <tr>
-   <th>RADs</th>
-   <td>
-    Unit-less token that ;ater get converted to revenue or whatever is being distributed.
-   </td>
+   <td><strong>RADs</strong>&mdash;Gets converted to revenue or whatever is being distributed</td>
   </tr>
   <tr>
    <td>
