@@ -155,14 +155,17 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Fiat is the system where <em>money and power over others</em> comes first.</p>
    </td>
   </tr>
-<!--
   <tr>
-   <td style="text-align:right; ">Public Dashboards</td>
+   <th>Public Dashboards</th>
    <td>Visible to all co-owners and the public.</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; ">Radical is nn alternative system to Fiat, where <em>people</em> comes first.</td>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>Radical is nn alternative system to Fiat, where <em>people</em> comes first.</p>
+   </td>
   </tr>
+ </table>
+<!--
   <tr>
    <th style="text-align:right; ">RADs</th>
    <td>Your percentage of ownership </td>
@@ -180,7 +183,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <td colspan="2" style="margin-left:20px; ">Later converted to RADs to make them tangible.</td>
   </tr>
 -->
- </table>
 
 <!--
 {% include related.html %}
