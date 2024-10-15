@@ -197,7 +197,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr style="margin-left:20px; ">
    <td>
-     A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.
+     A mobile app that calculates you percentage of ownership and records the whole transaction in public dashboards.
      <br>
      It makes easier for co-owners to participate and track their contributions and stake.
    </td>
