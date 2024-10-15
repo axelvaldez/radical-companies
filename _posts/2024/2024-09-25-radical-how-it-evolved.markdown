@@ -126,7 +126,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, z</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, z z</p>
  <table class="table2col">
   <tr> 
    <th>Banners</th>
@@ -165,8 +165,6 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Radical is nn alternative system to Fiat, where <em>people</em> comes first.</p>
    </td>
   </tr>
- </table>
-<!--
   <tr>
    <th style="text-align:right; ">RADs</th>
    <td>Your percentage of ownership </td>
@@ -174,8 +172,12 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <td>RADs!</td>
    <t<d>>
-   <td colspan="2" style="margin-left:20px; ">A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.</p>
+   </td>
   </tr>
+ </table>
+<!--
   <tr>
    <td style="text-align:right; ">Recognized</Contribution</td>
    <td></td>
