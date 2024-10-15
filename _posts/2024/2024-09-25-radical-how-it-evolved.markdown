@@ -130,10 +130,10 @@ image:    "icon-radical-how-it-evolved.svg"
  <table class="table2col">
   <tr> 
    <th>Banners</th>
-   <td>The Symbols of Collective Action</th>
+   <td>Collective Action</th>
   </tr>
-  <tr colspan="2">
-   <td style="margin-left:20px; ">
+  <tr>
+   <td colspan="2" style="margin-left:20px; ">
     <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
    </td>
   </tr>
@@ -168,11 +168,14 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">RADs!</th>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
   </tr>
-  <tr>
-   <th style="text-align:right; ">Recognized Contribution</th>
-   <td>Later converted to RADs to make them tangible.</td>
-  </tr>
 -->
+  <tr>
+   <td style="text-align:right; ">Recognized</Contribution</td>
+   <td></td>
+  </tr>
+  <tr>
+   <td colspan="2">Later converted to RADs to make them tangible.</td>
+  </tr>
  </table>
 
 {% include related.html %}
