@@ -189,7 +189,6 @@ image:    "icon-radical-how-it-evolved.svg"
     </p>
    </td>
   </tr>
-
   <tr>
    <th>Recognized Contribution</th>
    <td></td>
@@ -202,5 +201,6 @@ image:    "icon-radical-how-it-evolved.svg"
    </td>
   </tr>
  </table>
+ <p>This is a call to action for embracing this Radical shift and outlining how it challenges the <em>status quo</em>.Radical offers a people-centered, transparent alternative to the Fiat system.</p>
 
 {% include related.html %}
