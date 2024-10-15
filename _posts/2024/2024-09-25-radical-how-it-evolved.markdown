@@ -146,57 +146,89 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</p>
    </td>
   </tr>
+
   <tr>
    <th>Co-Ownership</th>
    <td>By Recognized Contributions</td>
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px; ">
-    <p>Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.</p>
-    <p>Fiat is the system where <em>money and power over others</em> comes first.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>Public Dashboards</th>
-   <td>Visible to all co-owners and the public.</td>
-  </tr>
-  <tr>
-   <th>Radical</th>
-   <td></td>
-  </tr>
-  <tr>
-   <td colspan="2" style="margin-left:20px; ">
-    <p>Radical is nn alternative system to Fiat, where <em>people</em> comes first.</p>
-   </td>
-  </tr>
-  <tr>
-   <th>RADs</th>
-   <td></td>
-  </tr>
-  <tr>
-   <td>
-    <p>Your percentage of ownership.</p>
-   </td>
-  </tr>
-  <tr>
-   <td>RADs!</td>
-   <td></td>
-  </tr>
-  <tr>
-   <td colspan="2" style="margin-left:20px; ">
     <p>
-     A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.
+     Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.
+    </p>
+    <p>
+     Fiat is the system where <em>money and power over others</em> comes first.
+    </p>
+   </td>
+  </tr>
+
+  <tr>
+   <th>Fiat</th>
+   <td>
+    <p>
+     The dominant system we are escaping
     </p>
    </td>
   </tr>
   <tr>
-   <th>Recognized Contribution</th>
-   <td></td>
+   <td>
+    <p>
+     Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.
+    </p>
+   </td>
+  </tr>
+
+  <tr>
+   <th>Public dashboards</th>
+   <td>Radical Transparency</td>
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px; ">
+    <p>Public Dashboards make all transactions visiblen and, in general, Transparency builds trust.</p>
+    <p>Radical is an alternative system to Fiat. In it <em>people</em> comes first.</p>
+   </td>
+  </tr>
+
+  <tr>
+   <th>RADs</th>
+   <td>
+    Unit-less token that ;ater get converted to revenue or whatever is being distributed.
+   </td>
+  </tr>
+  <tr>
+   <td>
     <p>
-     Later converted to RADs which makes them tangible.
+     Explaining the core of RADs and the idea that people come first. 
+    </p>
+    <p>
+     RADs can transform Fiat economic models.
+    </p>
+   </td>
+  </tr>
+
+  <tr>
+   <th>RADs! app</th>
+   <td>Simplifying the Complex</td>
+  </tr>
+  <tr colspan="2" style="margin-left:20px; ">
+   <td>
+    <p>
+     A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.
+    </p>
+    <p>
+     It makes easier for co-owners to participe and track their contributions and stake.
+    </p>
+   </td>
+  </tr>
+
+  <tr style="margin-left:20px; ">
+   <th>Recognized contribution</th>
+   <td>Tangible Acknowledgment</td>
+  </tr>
+  <tr colspan="2" style="margin-left:20px; ">
+   <td>
+    <p>
+      How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.
     </p>
    </td>
   </tr>
