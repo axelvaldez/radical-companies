@@ -176,12 +176,9 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <td>
-    <p>
      Explaining the core of RADs and the idea that people come first. 
-    </p>
-    <p>
-     RADs can transform Fiat economic models.
-    </p>
+     <br>
+     RADs can transform the Fiat models.
    </td>
   </tr>
 
