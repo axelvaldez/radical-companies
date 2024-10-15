@@ -126,14 +126,16 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting Fiat systems with the Radical alternative, x</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting Fiat systems with the Radical alternative, x x</p>
  <table class="table2col">
   <tr> 
    <td style="text-align:right; ">Banners</td>
-   <td>Collective Action</th>
+   <td>Collective Action</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; "><p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p></td>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
+   </td>
   </tr>
 <!--
   <tr>
@@ -169,7 +171,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <t<d>>
    <td colspan="2" style="margin-left:20px; ">A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
   </tr>
--->
   <tr>
    <td style="text-align:right; ">Recognized</Contribution</td>
    <td></td>
@@ -177,6 +178,7 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <td colspan="2" style="margin-left:20px; ">Later converted to RADs to make them tangible.</td>
   </tr>
+-->
  </table>
 
 {% include related.html %}
