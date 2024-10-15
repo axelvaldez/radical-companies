@@ -129,14 +129,20 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative,</p>
  <table class="table2col">
   <tr> 
-   <td><strong>Banners</strong>&mdash;>Collaborative action</td>
+   <td>
+    <strong>Banners</strong>&mdash;>collaborative action
+   </td>
   </tr>
   <tr>
-   <td style="margin-left:20px; ">How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.</td>
+   <td style="margin-left:20px; ">
+    How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.
+   </td>
   </tr>
 
   <tr>
-   <td><strong>Co-Management</strong>&mdash;Working without a boss</td>
+   <td>
+    <strong>Co-Management</strong>&mdash;working without a boss
+   </td>
   </tr>
   <tr>
    <td style="margin-left:20px'; ">
@@ -183,7 +189,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <td>RADs! app<strong>Simplifying the Complex&mdash;
+   <td>RADs! app<strong>x&mdash;Simplifying the Complex&mdash;
   </tr>
   <tr style="margin-left:20px; ">
    <td>
