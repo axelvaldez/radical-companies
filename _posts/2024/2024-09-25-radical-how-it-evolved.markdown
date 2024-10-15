@@ -176,7 +176,9 @@ image:    "icon-radical-how-it-evolved.svg"
    <td></td>
   </tr>
   <tr>
-   <td>Your percentage of ownership</td>
+   <td>
+    <p>Your percentage of ownership.</p>
+   </td>
   </tr>
 
   <tr>
