@@ -147,13 +147,10 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th><strong>Co-Ownership</strong>&mdash;via Recognized Contributions</td>
+   <td><strong>Co-Ownership</strong>&mdash;via Recognized Contributions</td>
   </tr>
   <tr>
-   <td style="margin-left:20px; ">
-     Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.
-     <br>
-     Fiat is the system where <em>money and power over others</em> comes first.
+   <td style="margin-left:20px; ">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.<br>Fiat is the system where <em>money and power over others</em> comes first.
    </td>
   </tr>
 
