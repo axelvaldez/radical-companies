@@ -203,9 +203,8 @@ image:    "icon-radical-how-it-evolved.svg"
    </td>
   </tr>
 
-  <tr style="margin-left:20px; ">
-   <th>Recognized contribution</th>
-   <td>Tangible Acknowledgment</td>
+  <tr>
+   <td>Recognized contribution</strong>&mdash;tangible acknowledgments</td>
   </tr>
   <tr style="margin-left:20px; ">
    <td>How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.</td>
