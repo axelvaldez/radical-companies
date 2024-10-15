@@ -126,7 +126,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, y y</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, y y y</p>
  <table class="table2col">
   <tr> 
    <th>Banners</th>
@@ -181,7 +181,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 -->
  </table>
- 
+
 <!--
 {% include related.html %}
 -->
