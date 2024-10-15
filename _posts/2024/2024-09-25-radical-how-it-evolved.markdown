@@ -126,7 +126,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, z z</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, x</p>
  <table class="table2col">
   <tr> 
    <th>Banners</th>
@@ -167,7 +167,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <th style="text-align:right; ">RADs</th>
-   <td>Your percentage of ownership </td>
+   <td>Your percentage of ownership</td>
   </tr>
   <tr>
    <td>RADs!</td>
