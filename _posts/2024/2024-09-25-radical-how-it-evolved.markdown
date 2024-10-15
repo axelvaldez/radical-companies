@@ -129,14 +129,10 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative,</p>
  <table class="table2col">
   <tr> 
-   <td><strong>Banners</strong>&mdash;>Collective Action</td>
+   <td><strong>Banners</strong>&mdash;>Collaborative action</td>
   </tr>
   <tr>
-   <td style="margin-left:20px; ">
-    <p>
-     How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.
-    </p>
-   </td>
+   <td style="margin-left:20px; ">How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.</td>
   </tr>
 
   <tr>
@@ -151,31 +147,25 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th><strong>Co-Ownership</strong>&mdash;Via Recognized Contributions</td>
+   <th><strong>Co-Ownership</strong>&mdash;via Recognized Contributions</td>
   </tr>
   <tr>
    <td style="margin-left:20px; ">
-    <p>
      Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.
-    </p>
-    <p>
+     <br>
      Fiat is the system where <em>money and power over others</em> comes first.
-    </p>
    </td>
   </tr>
 
   <tr>
-   <t><strong>Fiat</strong>&mdash;The dominant system we want to escape</td>
+   <td><strong>Fiat</strong>&mdash;The dominant system we want to escape</td>
   </tr>
   <tr>
-   <td style="margin-left:20px; ">
-    Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.
-   </td>
+   <td style="margin-left:20px; ">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.</td>
   </tr>
 
   <tr>
-   <th>Public dashboards</th>
-   <td>Radical Transparency</td>
+   <td><strong>Public dashboards</strong>&mdash;Radical Transparency</td>
   </tr>
   <tr>
    <td style="margin-left:20px; ">
@@ -185,7 +175,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <td><strong>RADs</strong>&mdash;Gets converted to revenue or whatever is being distributed</td>
+   <td><strong>RADs</strong>&mdash;gets converted to revenue or whatever is being distributed</td>
   </tr>
   <tr>
    <td>
@@ -217,12 +207,8 @@ image:    "icon-radical-how-it-evolved.svg"
    <th>Recognized contribution</th>
    <td>Tangible Acknowledgment</td>
   </tr>
-  <tr colspan="2" style="margin-left:20px; ">
-   <td>
-    <p>
-      How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.
-    </p>
-   </td>
+  <tr style="margin-left:20px; ">
+   <td>How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.</td>
   </tr>
  </table>
  <p>This is a call to action for embracing this Radical shift and outlining how it challenges the <em>status quo</em>.Radical offers a people-centered, transparent alternative to the Fiat system.</p>
