@@ -129,7 +129,7 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, x x</p>
  <table class="table2col">
   <tr> 
-   <td style="text-align:right; ">Banners</td>
+   <td>Banners</td>
    <td>Collective Action</td>
   </tr>
   <tr>
