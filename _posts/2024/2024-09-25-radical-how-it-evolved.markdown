@@ -189,17 +189,13 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <th>RADs! app</th>
-   <td>Simplifying the Complex</td>
+   <td>RADs! app<strong>Simplifying the Complex&mdash;
   </tr>
-  <tr colspan="2" style="margin-left:20px; ">
+  <tr style="margin-left:20px; ">
    <td>
-    <p>
      A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.
-    </p>
-    <p>
-     It makes easier for co-owners to participe and track their contributions and stake.
-    </p>
+     <br>
+     It makes easier for co-owners to participate and track their contributions and stake.
    </td>
   </tr>
 
