@@ -129,13 +129,13 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, Radical alternative,</p>
  <table class="table2col">
   <tr> 
-   <th style="text-align:right; ">Banners</th>
+   <td style="text-align:right; ">Banners</td>
    <td>Collective Action</th>
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px; "><p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p></td>
   </tr>
-
+<!--
   <tr>
    <td style="text-align:right; ">Co-Management</td>
    <td>The Absence of a Fiat boss</td>
@@ -165,20 +165,20 @@ image:    "icon-radical-how-it-evolved.svg"
 
   <tr>
    <th style="text-align:right; ">RADs</th>
-   <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
+   <td>Your percentage of ownership </td>
   </tr>
   <tr>
    <td>RADs!</td>
    <t<d>>
-   <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
+   <td colspan="2" style="margin-left:20px; ">A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
   </tr>
-
+-->
   <tr>
    <td style="text-align:right; ">Recognized</Contribution</td>
    <td></td>
   </tr>
   <tr>
-   <td>Later converted to RADs to make them tangible.</td>
+   <td colspan="2" style="margin-left:20px; ">Later converted to RADs to make them tangible.</td>
   </tr>
  </table>
 
