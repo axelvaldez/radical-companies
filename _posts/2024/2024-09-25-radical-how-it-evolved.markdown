@@ -130,7 +130,7 @@ image:    "icon-radical-how-it-evolved.svg"
  <table class="table2col">
   <tr> 
    <td>
-    <strong>Banners</strong>&mdash;>collaborative action.
+    <strong>Banners</strong>&mdash;collaborative action.
    </td>
   </tr>
   <tr>
@@ -162,14 +162,18 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <td><strong>Fiat</strong>&mdash;The dominant system we want to escape</td>
+   <td>
+    <strong>Fiat</strong>&mdash;the dominant system we want to escape.
+   </td>
   </tr>
   <tr>
    <td style="margin-left:20px; ">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.</td>
   </tr>
 
   <tr>
-   <td><strong>Public dashboards</strong>&mdash;Radical Transparency</td>
+   <td>
+    <strong>Public dashboards</strong>&mdash;Radical Transparency.
+   </td>
   </tr>
   <tr>
    <td style="margin-left:20px; ">
@@ -179,7 +183,9 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <td><strong>RADs</strong>&mdash;gets converted to revenue or whatever is being distributed</td>
+   <td>
+    <strong>RADs</strong>&mdash;gets converted to revenue or whatever is being distributed.
+   </td>
   </tr>
   <tr>
    <td>
@@ -190,7 +196,8 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <td>RADs! app<strong>x&mdash;Simplifying the Complex&mdash;
+   <td>
+    <strong>RADs! app<strong>x&mdash;simplifying the Complex.
   </tr>
   <tr style="margin-left:20px; ">
    <td>
@@ -201,7 +208,9 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 
   <tr>
-   <td>Recognized contribution</strong>&mdash;tangible acknowledgments</td>
+   <td>
+    <strong>Recognized contribution</strong>&mdash;tangible acknowledgments.
+   </td>
   </tr>
   <tr style="margin-left:20px; ">
    <td>
