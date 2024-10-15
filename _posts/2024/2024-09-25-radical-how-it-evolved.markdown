@@ -138,7 +138,6 @@ image:    "icon-radical-how-it-evolved.svg"
     How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.
    </td>
   </tr>
-
   <tr>
    <td>
     <strong>Co-Management</strong>&mdash;working without a boss.
@@ -149,7 +148,6 @@ image:    "icon-radical-how-it-evolved.svg"
      How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.
    </td>
   </tr>
-
   <tr>
    <td>
     <strong>Co-Ownership</strong>&mdash;via Recognized Contributions.
@@ -160,7 +158,6 @@ image:    "icon-radical-how-it-evolved.svg"
     Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.<br>Fiat is the system where <em>money and power over others</em> comes first.
    </td>
   </tr>
-
   <tr>
    <td>
     <strong>Fiat</strong>&mdash;the dominant system we want to escape.
@@ -169,7 +166,6 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <td style="margin-left:20px; ">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.</td>
   </tr>
-
   <tr>
    <td>
     <strong>Public dashboards</strong>&mdash;Radical Transparency.
@@ -181,7 +177,6 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Radical is an alternative system to Fiat. In it <em>people</em> comes first.
    </td>
   </tr>
-
   <tr>
    <td>
     <strong>RADs</strong>&mdash;gets converted to revenue or whatever is being distributed.
@@ -194,7 +189,6 @@ image:    "icon-radical-how-it-evolved.svg"
      RADs can transform the Fiat models.
    </td>
   </tr>
-
   <tr>
    <td>
     <strong>RADs! app<strong>x&mdash;simplifying the Complex.
@@ -206,7 +200,6 @@ image:    "icon-radical-how-it-evolved.svg"
      It makes easier for co-owners to participate and track their contributions and stake.
    </td>
   </tr>
-
   <tr>
    <td>
     <strong>Recognized contribution</strong>&mdash;tangible acknowledgments.
