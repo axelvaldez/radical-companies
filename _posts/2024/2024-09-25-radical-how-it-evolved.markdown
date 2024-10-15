@@ -160,7 +160,6 @@ image:    "icon-radical-how-it-evolved.svg"
    <th>Public Dashboards</th>
    <td>Visible to all co-owners and the public.</td>
   </tr>
-
   <tr>
    <th>Radical</th>
    <td></td>
@@ -170,7 +169,6 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Radical is nn alternative system to Fiat, where <em>people</em> comes first.</p>
    </td>
   </tr>
-
   <tr>
    <th>RADs</th>
    <td></td>
@@ -180,7 +178,6 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Your percentage of ownership.</p>
    </td>
   </tr>
-
   <tr>
    <td>RADs!</td>
    <td></td>
@@ -206,6 +203,4 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
  </table>
 
-<!--
 {% include related.html %}
--->
