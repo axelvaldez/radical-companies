@@ -192,7 +192,8 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <td>
-    <strong>RADs! app<strong>x&mdash;simplifying the Complex.
+    <strong>RADs! app<strong>&mdash;simplifying the Complex.
+   </td>
   </tr>
   <tr style="margin-left:20px; ">
    <td>
