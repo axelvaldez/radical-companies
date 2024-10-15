@@ -126,7 +126,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, y y y</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, z</p>
  <table class="table2col">
   <tr> 
    <th>Banners</th>
@@ -143,7 +143,8 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px'; ">
-    <p>How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
+    <p>How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</p>
+   </td>
   </tr>
   <tr>
    <th>Co-Ownership</th>
