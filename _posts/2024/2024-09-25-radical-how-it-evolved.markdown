@@ -134,16 +134,21 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px; ">
-    <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
+    <p>
+     How Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.
+    </p>
    </td>
   </tr>
+
   <tr>
    <th>Co-Management</th>
-   <td>In the Absence of a Fiat boss</td>
+   <td>Working without a Fiat boss</td>
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px'; ">
-    <p>How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</p>
+    <p>
+     How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.
+    </p>
    </td>
   </tr>
 
