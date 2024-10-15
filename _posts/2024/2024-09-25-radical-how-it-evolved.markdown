@@ -143,7 +143,6 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <td colspan="2" style="margin-left:20px'; ">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
-
   <tr>
    <td style="text-align:right; ">Co-Ownership</td>
    <td>By Recognized Contributions</td>
@@ -154,7 +153,6 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>Fiat is the system where <em>money and power over others</em> comes first.</p>
    </td>
   </tr>
-
   <tr>
    <td style="text-align:right; ">Public Dashboards</td>
    <td>Visible to all co-owners and the public.</td>
@@ -162,7 +160,6 @@ image:    "icon-radical-how-it-evolved.svg"
   <tr>
    <td colspan="2" style="margin-left:20px; ">Radical is nn alternative system to Fiat, where <em>people</em> comes first.</td>
   </tr>
-
   <tr>
    <th style="text-align:right; ">RADs</th>
    <td>Your percentage of ownership </td>
