@@ -181,5 +181,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
 -->
  </table>
-
+ 
+<!--
 {% include related.html %}
+-->
