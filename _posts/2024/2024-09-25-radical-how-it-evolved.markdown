@@ -129,52 +129,56 @@ image:    "icon-radical-how-it-evolved.svg"
  <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting traditional systems (like Fiat) with new, Radical alternative,</p>
  <table class="table2col">
   <tr> 
-   <th>Banners</th>
+   <th style="text-align:right; ">Banners</th>
    <td>Collective Action</th>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; ">
-    <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
-   </td>
+   <td colspan="2" style="margin-left:20px; "><p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p></td>
   </tr>
-<!--
+
   <tr>
-   <th>Co-Management</th>
-   <td>The Absence of a Hierarchical Boss</td>
+   <td style="text-align:right; ">Co-Management</td>
+   <td>The Absence of a Fiat boss</td>
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px'; ">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
+
   <tr>
-   <th style="margin-left:20px; ">Co-Ownership</th>
-   <td>Recognizing Contributions</th>
+   <td style="text-align:right; ">Co-Ownership</td>
+   <td>By Recognized Contributions</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px'; "> Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone. It is the system where <em>money</em> comes first.</td>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.</p>
+    <p>Fiat is the system where <em>money and power over others</em> comes first.</p>
+   </td>
+  </tr>
+
+  <tr>
+   <td style="text-align:right; ">Public Dashboards</td>
+   <td>Visible to all co-owners and the public.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">Public Dashboards</th>
-   <td>All RADs transactions get displayed in Public Dashboards, visible to all co-owners and the public.</td>
+   <td colspan="2" style="margin-left:20px; ">Radical is nn alternative system to Fiat, where <em>people</em> comes first.</td>
   </tr>
-  <tr>
-   <th style="text-align:right; ">Radical</th>
-   <td>An alternative system to Fiat, where <em>people</em> comes first.</td>
-  </tr>
+
   <tr>
    <th style="text-align:right; ">RADs</th>
    <td>Your percentage of ownership and, therefore, whatever is being distributed.</td>
   </tr>
   <tr>
-   <th style="text-align:right; ">RADs!</th>
+   <td>RADs!</td>
+   <t<d>>
    <td>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards</td>
   </tr>
--->
+
   <tr>
    <td style="text-align:right; ">Recognized</Contribution</td>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2">Later converted to RADs to make them tangible.</td>
+   <td>Later converted to RADs to make them tangible.</td>
   </tr>
  </table>
 
