@@ -173,8 +173,9 @@ image:    "icon-radical-how-it-evolved.svg"
   </tr>
   <tr>
    <td style="margin-left:20px; ">
-    Public Dashboards make all transactions visiblen and, in general, Transparency builds trust.</p>
-    <p>Radical is an alternative system to Fiat. In it <em>people</em> comes first.
+    Public Dashboards make all transactions visiblen and, in general, Transparency builds trust.
+    <br>
+    Radical is an alternative system to Fiat on which <em>people</em> comes first.
    </td>
   </tr>
   <tr>
