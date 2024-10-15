@@ -197,7 +197,9 @@ image:    "icon-radical-how-it-evolved.svg"
    <td>Recognized contribution</strong>&mdash;tangible acknowledgments</td>
   </tr>
   <tr style="margin-left:20px; ">
-   <td>How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.</td>
+   <td>
+    How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.
+   </td>
   </tr>
  </table>
  <p>This is a call to action for embracing this Radical shift and outlining how it challenges the <em>status quo</em>.Radical offers a people-centered, transparent alternative to the Fiat system.</p>
