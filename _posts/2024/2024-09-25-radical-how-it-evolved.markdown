@@ -169,23 +169,31 @@ image:    "icon-radical-how-it-evolved.svg"
    <th style="text-align:right; ">RADs</th>
    <td>Your percentage of ownership</td>
   </tr>
+  
   <tr>
    <td>RADs!</td>
-   <t<d>>
-   <td colspan="2" style="margin-left:20px; ">
-    <p>A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.</p>
-   </td>
-  </tr>
- </table>
-<!--
-  <tr>
-   <td style="text-align:right; ">Recognized</Contribution</td>
    <td></td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px; ">Later converted to RADs to make them tangible.</td>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>
+     A mobile app that calculates you percentage of ownership and records the whole transaction in a public dashboards.
+    </p>
+   </td>
   </tr>
--->
+
+  <tr>
+   <th style="text-align:right; ">Recognized Contribution</th>
+   <td>x</td>
+  </tr>
+  <tr>
+   <td colspan="2" style="margin-left:20px; ">
+    <p>
+     Later converted to RADs which makes them tangible.
+    </p>
+   </td>
+  </tr>
+ </table>
 
 <!--
 {% include related.html %}
