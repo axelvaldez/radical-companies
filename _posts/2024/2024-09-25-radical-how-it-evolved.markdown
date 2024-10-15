@@ -126,7 +126,7 @@ image:    "icon-radical-how-it-evolved.svg"
   </ul>
 
 <h1>And There You Have It</h1>
- <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, x x x</p>
+ <p>A brief overview of the emerging paradigm of decentralized work and co-ownership models, contrasting the Fiat systems with the Radical alternative, y</p>
  <table class="table2col">
   <tr> 
    <th>Banners</th>
@@ -137,14 +137,15 @@ image:    "icon-radical-how-it-evolved.svg"
     <p>How banners represent non-personal or collective transactions in this system, standing as emblems for decentralization.</p>
    </td>
   </tr>
-<!--
   <tr>
-   <td style="text-align:right; ">Co-Management</td>
+   <td>Co-Management</td>
    <td>The Absence of a Fiat boss</td>
   </tr>
   <tr>
-   <td colspan="2" style="margin-left:20px'; ">How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
+   <td colspan="2" style="margin-left:20px'; ">
+    <p>How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.</td>
   </tr>
+<!--
   <tr>
    <td style="text-align:right; ">Co-Ownership</td>
    <td>By Recognized Contributions</td>
