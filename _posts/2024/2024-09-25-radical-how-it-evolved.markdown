@@ -140,7 +140,7 @@ image:    "icon-radical-how-it-evolved.svg"
 
   <tr>
    <th>Co-Management</th>
-   <td>The Absence of a Fiat boss</td>
+   <td>In the Absence of a Fiat boss</td>
   </tr>
   <tr>
    <td colspan="2" style="margin-left:20px'; ">
