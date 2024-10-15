@@ -213,6 +213,6 @@ image:    "icon-radical-how-it-evolved.svg"
    </td>
   </tr>
  </table>
- <p>This is a call to action for embracing this Radical shift and outlining how it challenges the <em>status quo</em>.Radical offers a people-centered, transparent alternative to the Fiat system.</p>
+ <p>This is a call to action for embracing this shift to Radical and outlining how it challenges to the <em>status quo</em>. Radical offers a people-centered, transparent alternative to the Fiat system.</p>
 
 {% include related.html %}
