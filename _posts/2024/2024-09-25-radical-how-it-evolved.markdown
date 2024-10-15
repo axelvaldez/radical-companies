@@ -130,7 +130,7 @@ image:    "icon-radical-how-it-evolved.svg"
  <table class="table2col">
   <tr> 
    <td>
-    <strong>Banners</strong>&mdash;>collaborative action
+    <strong>Banners</strong>&mdash;>collaborative action.
    </td>
   </tr>
   <tr>
@@ -141,22 +141,23 @@ image:    "icon-radical-how-it-evolved.svg"
 
   <tr>
    <td>
-    <strong>Co-Management</strong>&mdash;working without a boss
+    <strong>Co-Management</strong>&mdash;working without a boss.
    </td>
   </tr>
   <tr>
    <td style="margin-left:20px'; ">
-    <p>
      How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility.
-    </p>
    </td>
   </tr>
 
   <tr>
-   <td><strong>Co-Ownership</strong>&mdash;via Recognized Contributions</td>
+   <td>
+    <strong>Co-Ownership</strong>&mdash;via Recognized Contributions.
+   </td>
   </tr>
   <tr>
-   <td style="margin-left:20px; ">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.<br>Fiat is the system where <em>money and power over others</em> comes first.
+   <td style="margin-left:20px; ">
+    Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.<br>Fiat is the system where <em>money and power over others</em> comes first.
    </td>
   </tr>
 
