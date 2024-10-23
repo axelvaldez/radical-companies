@@ -6,12 +6,9 @@ authors:  "Matt Perez, Adrian Perez, Jose Leal"
 image:    "icon-radical-how-it-evolved.svg"
 ---
 
-<h1>In the Beginning</h1>
- <p>Something wanted to come out of us. Why did I make so much more money from the sale of the company than others. I I may have deserved some credit for getting it started, but everybody in the company contributed to its growth!</p>
- <div class="_citation">
-  &ldquo;<em>Well you did a lot of other things, too, for wealth. Other people did it for the paycheck</em>&rdquo;
- </div>
- <p>Questions like these kept going around in my head, and traditional answers sounded hollow. BTW, I do not hate Fiat money or anything like that.</p>
+<div style='display:none; '>
+ Something wanted to come out of us. Why did I make so much more money from the sale of the company than others. I I may have deserved some credit for getting it started, but everybody in the company contributed to its growth! &ldquo;<em>Well you did a lot of other things, too, for wealth. Other people did it for the paycheck</em>&rdquo; Traditional answers sounded hollow. BTW, I do not hate Fiat money or anything like that.
+</div>
 
 <h1>Community</h1>
  <p>Later, Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and we started to have conversations, too. Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on <em>contributions</em> started to take shape.</p>
