@@ -7,7 +7,7 @@ image:    "icon-radical-how-it-evolved.svg"
 ---
 
 <div style='display:none; '>
- Something wanted to come out of us. Why did I make so much more money from the sale of the company than others. I I may have deserved some credit for getting it started, but everybody in the company contributed to its growth! &ldquo;<em>Well you did a lot of other things, too, for wealth. Other people did it for the paycheck</em>&rdquo; Traditional answers sounded hollow. BTW, I do not hate Fiat money or anything like that.
+ Something wanted to come out of us. Why did I make so much more money from the sale of the company than others? Everybody in the company contributed to its growth! Traditional answers sounded hollow.
 </div>
 
 <h1>Community</h1>
