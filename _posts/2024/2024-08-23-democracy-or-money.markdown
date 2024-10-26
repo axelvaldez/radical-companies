@@ -1,13 +1,13 @@
 ---
 layout:   post
-title:    "Democracy or Money"
+title:    "Democracy <em>or</em> Money"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-democracy-or-money.svg"
 ---
 
 <div style='display:none; '>
- <p>Democracy for all or accumulated power for a handful?</p>
+ <p>Democracy for all <<em>or</em> accumulated power for a handful?</p>
 </div>
 
 <div class="_citation" >
