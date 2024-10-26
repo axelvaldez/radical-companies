@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Radical: How it Evolved"
+title:    "Radical: How It Has Evolved"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Adrian Perez, Jose Leal"
 image:    "icon-radical-how-it-evolved.svg"
