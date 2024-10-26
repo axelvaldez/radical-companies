@@ -3,7 +3,7 @@ layout:   post
 title:    "The Itsum Story Glossary (E04)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-04-glossary.svg"
+image:    "icon-4-glossary.svg"
 hidden:   true
 ---
 
