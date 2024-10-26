@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How It Ended Up (E03)"
+title:    "The Itsum Story (E03)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-3-how-it-ended-up.svg"

@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "How It Went (E02)"
+title:    "The Itsum Story (E02)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-2-how-it-went.svg"
