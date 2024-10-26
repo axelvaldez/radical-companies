@@ -1,2 +1,6 @@
 {
+    "files.exclude": {
+        "**/.svn": false
+    },
+    "search.useGlobalIgnoreFiles": true
 }
