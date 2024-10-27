@@ -42,7 +42,7 @@ image:    "icon-how-radical-has-evolved.svg"
 <h1>Ownership &amp; Co-Ownership</h1>
  <p>Fiat ownership is exclusive,</p>
  <div class="_citation">
-  <em>This is mine. I keep it even if I had to kill you, everyone in your family, and burn everybody in your village.</em>>
+  <em>This is mine. I will keep you out of it even if I have to kill you, everyone in your family, and burn everybody in your village.</em>>
  </div>
  <p>That is OK for a toothbrush, but not for a business whose growth comes from the work that many people put in it.</p>
 
