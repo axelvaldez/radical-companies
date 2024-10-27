@@ -2,7 +2,7 @@
 layout:   post
 title:    "Growing with rEnchilada"
 subtitle: ""
-authors:  "Matt Perez"
+authors:  "Matt Perez, Jose Contreras"
 image:    "icon-renchilada.svg"
 ---
 
