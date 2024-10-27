@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "The Itsum Story (E03)"
+title:    "The Itsum Story (E03/4)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-3-how-it-ended-up.svg"
+image:    "icon-the-itsum-story-03.svg"
 hidden:   true
 ---
 
