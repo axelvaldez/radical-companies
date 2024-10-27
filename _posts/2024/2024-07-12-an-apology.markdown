@@ -42,12 +42,9 @@ image:    "icon-an-apology.svg"
   <p>What the authors of the Bible, and Mr Kelly, meant by &ldquo;<em>the soul</em>&rdquo; is the sum of everything they did not know. In 2024 we know more about the body and the mind, there is no need for mysticism. Unless you are 15 years old or in the Iron Age.</p>
 
 <h1>Progress</h1>
- <p>Later on in the book he asks &ldquo;<em>What is progress?</em>&rdquo; andf he asnwers, &ldquo;<em>Preserving the well-being of human beings.</em>&rdquo; He understands the problem well.</p>
-
-<h1>Progress</h1>
- <p>When it comes to the answers, the only time he mentions &ldquo;<em>collaborataion</em>&rdquo; is to say &ldquo;<em>collaborate with God.</em>&rdquo; When it comes tp people he keeps repeating &ldquo;<em>Holy Moments.</em>&rdquo; as revelations from the christian god. Mysticism might have been unavoidable in the Iron Age, but now is inexcusable, at least.</p>
-
- &lt;apology&gt;
+ <p>Later on in the book he asks &ldquo;<em>What is progress?</em>&rdquo; andf he asnwers, &ldquo;<em>Preserving the well-being of human beings.</em>&rdquo; He understands the problem well. That tells me he understands the challenge well.</p>
+ <p>When it comes to the answers, the only time he mentions &ldquo;<em>collaboration</em>&rdquo; is to say &ldquo;<em>collaborate with God.</em>&rdquo</p>
+ <p>When it comes tp people he keeps repeating &ldquo;<em>Holy Moments.</em>&rdquo; as revelations from the christian god. Mysticism might have been unavoidable in the Iron Age, but now is inexcusable today.</p>
 
 <h1>The Apology</h1>
  <p>In any case, it sound like christians are looking for the same things as the Radical model. They could be our partners.</p>
