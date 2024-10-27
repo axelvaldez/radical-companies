@@ -50,10 +50,8 @@ image:    "icon-an-apology.svg"
  <p>In any case, it sound like christians are looking for the same things as the Radical model. They could be our partners.</p>
  <p>Well, not all &ldquo;<em>Christians.</em>&ldquo; Gentle authotiarians, like Mr Kelly, want to tell you what to pay attention to and what to ignore. Only they know what is important and true.</p>
 
- &lt;/apology&gt;
-
- <h1>rRadical</h1>
+ <h1>Radical and Christians</h1>
   <p>Radical and christians want a more equitable world. They want our world to be people-centric, not money-centric. They want to take care of each other. They want to make our own choices and to discover more of the world.</p>
-  <p>Unfortunately christians also want all of us to be in the same mysticism they believe in.</p>
+  <p>Unfortunately some christians also want all of us to believe in the same mysticism they believe in.</p>
 
 {% include related.html %}
