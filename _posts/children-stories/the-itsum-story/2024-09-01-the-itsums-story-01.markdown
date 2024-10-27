@@ -3,11 +3,11 @@ layout:   post
 title:    "The Itsum Story (E01/4)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-the-itsum-story-01.svg"
+image:    "icon-the-itsums-story-01.svg"
 ---
 
 <div style='display:none; '>
- <p>How the Itsums learn of Fiat.</p>
+ <p>How Fiat arose.</p>
 </div>
 
 <h1>Meaning</h1>
