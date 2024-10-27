@@ -27,7 +27,7 @@ image:    "icon-resistance-to-co-ownership.svg"
 
 <h1>Co-Ownership Is a Big, Tough Challenge</h1>
  <p>Co-ownership makes it possible for everybody to be a co-owner. Everybody, not just the selected few who learned how to use the system to financially win and have power over others. Simple as that.</p>
- <p>But resistance to change is understandable and <em>to be expected</em>. Resistance will come from everywhere.</p>
+ <p>But resistance to change is understandable and <em>to be expected</em>.</p>
   <div class="_center">
    <img
     src="/assets/img/pic-resistance-to-co-ownership.svg"
