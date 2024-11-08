@@ -7,7 +7,7 @@ image:    "icon-an-apology.svg"
 ---
 
 <div style='display:none; '>
- <p>The Judeo-Christian religions weren't wrong, they just didn't go deep enough.</p>
+ <p>The Judeo-Christian religions were not wrong, they just didn't go deep enough.</p>
 </div>
 
 <h1>Partners</h1>
