@@ -7,31 +7,25 @@ image:    "icon-radical-has-evolved.svg"
 ---
 
 <div style='display:none; '>
- Something wanted to come out of me. Why did I make so much more money from the sale of the company than others? Everybody in the company contributed to its growth!
+ Why did I deserved so much more money from the sale of the company than others, when everybody in the company had contributed to its growth?
 </div>
 
 <h1>Community</h1>
- <p>Later, Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and we started to have conversations, too. Adrian, Jose, and I ended up meeting once a week for about a year and an alternative system based on <em>contributions</em> started to take shape.</p>
- <p>We also started writing <em>Radical Companies</em> (<a href="https://www.amazon.com/dp/B0CW1HV3SK" target="_blank">Amazon</a>).</p>
- <p>We had checked with many people, including luminaries, but they did not have valuable or satisfactory answers, either.</p>
+ <p>Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and the three of us, Adrian, Jose, and I, ended up meeting every week for about a year and an alternative system based on <em>contributions</em> started to take shape.</p>
+ <p>We also started writing <em>Radical Companies</em> (<a href="https://www.amazon.com/dp/B0CW1HV3SK" target="_blank">Amazon</a>) out of frustration that even luminaries, but they did not have valuable answers, either.</p>
 
 <h1>Fiat &amp; Radical</h1>
- <p>The alternative we were working on we called <em>Radical</em>. No violence, no punishing or killing the bad guys, no no revolution. Radical was simply an alternative.</p>
+ <p>The alternative we were working on Jose called <em>Radical</em>. No violence, no punishing or killing the bad guys, no revolution. Radical was simply an alternative to the invisible Fiat system we lived in.</p>
 
 <h1>No Boss</h1>
- <p>There was the question of replacing or eliminating the boss. And I happened to have experience with that.</p>
- <p>However, we came to realize that companies do not have a selfnand instead of self-management, we called it co-management. The team managed to work together without a boss.</p>
+ <p>There was the question of replacing or eliminating the boss.</p>
 
 <h1>Recognized Contributions</h1>
- <p>Co-author Adrian Perez and I experimented with how to recognize contributions.We knew wehad to be careful because that was the one question that came up often at Nearsoft. At the time we had not come up with RADs and the distributions were all equal.</p>
-
-<h1>Distributions</h1>
- <p>At Nearsoft we reserved part of our profits for the following year&lsquo;s operations and sice we jhad not come up with RADs we distributed what was left equally among everybody. If there were 100 people, if we had a $100 to distribute each of us got one dollar.</p>
+ <p>Co-author Adrian Perez and I experimented with how to recognize contributions. We knew wehad to be careful because that was the one question that came up often at Nearsoft. The distributions were all equal.</p>
 
 <h1>Money</h1>
- <p>I think the problem was the equal distribution of money.</p>
- <p>If we had distributed carrots or potatoes it may not be a problem. Just eat them or give them away to friends and family. Money, on the other hand, is a universal mean of exchange. You can buy, for example, headphones with it.</p>
- <p>So for Radical we came up with RADs, without the baggage of money. You do something, other people recognize it as a contribution, recognize them, and the results was RADs.</p>
+ <p>If we had distributed carrots or potatoes it may not be a problem. Just eat them or give them away to friends and family. Money, on the other hand, is a universal mean of exchange. For example, you can buy headphones with it.</p>
+ <p>For Radical we came up with RADs, without the baggage of money. You do something, other people recognize it as a contribution, recognize them, and the results was RADs.</p>
  <p>Later we realized that <em>recognized contribution</em>&rdquo; was the key. If you have 10% of the RADs, you get 10% of the dividends; if you 200 RADs and I have 100, you get twice what I do.</p>
  <p>If you do not get what you think you deserve, you will have to talk to other co-owners to learn why.</p>
  <p>The co-owners can decide whether to make accessible to the public, too. In the spirint of Transparecyb, our strong reecomendation is to always do so.</p>
