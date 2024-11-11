@@ -6,7 +6,7 @@ authors:  "Matt Perez"
 image:    "icon-overrun-by-homosexuals-and-women.svg"
 ---
 
-<div style='display:none; '>
+<div style='display:none;'>
  <em>France overrun by homosexuals and women</em> (said by a Nazi Boss during the occupation).
 </div>
 
