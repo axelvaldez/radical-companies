@@ -7,7 +7,7 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 ---
 
 <div style='display:none;'>
- &ldquo;France overrun by homosexuals and women&rdquo; (said by a French Nazi Boss during the occupation).
+ &ldquo;France overrun by homosexuals and women&rdquo; (said by a French Nazi Boss during the WWII occupation).
 </div>
 
 <h1>France Overrun by Homosexuals and Women</h1>
