@@ -7,10 +7,10 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 ---
 
 <div style='display:none;'>
- <em>France overrun by homosexuals and women</em> (said by a French Nazi Boss during the occupation).
+ &ldquo;France overrun by homosexuals and women&rdquo; (said by a French Nazi Boss during the occupation).
 </div>
 
-<h1>France Overrun</h1>
+<h1>France Overrun by Homosexuals and Women</h1>
  <p>During the Nazi occupation (1939–1945), French people &ldquo;<em>scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptional literary and artistic flowering&rdquo; [and] which he had denounced as overrun by homosexuals and women</em>.&rdquo; (sounds like something that came out of the mouth of some religionist in the USA),</p>
 
 <h1>&Eacute;tat Fran&ccedil;ais</h1>
