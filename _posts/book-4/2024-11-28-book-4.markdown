@@ -1,0 +1,27 @@
+---
+layout:   post
+title:    "The Fiat System Has Been Good"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-fiat-has-been-good.svg"
+---
+
+<div style="display:none; ">
+ <p>Time for an alternative to the bug.</p>
+</div>
+
+<h1>Fiat Has Been Good</h1>
+ <p>The Fiat system has been good for more than a few people. It has advanced the middle class, education, medicine, and science over all. Poeple in the US and the European Union, Australia, and New Zealand live better.</p>
+ 
+ <p>But people of European descent live best. Not all of them, mind you, but generally that is the case and things have moved forward. For the benefit of human kind.</p>
+
+ <h1>Climate Change</h1>
+  <p>And then there is Clinmate Change, which of course cold be a hoax and the fires and storms we ae suffering though are just the result of our ovrr stimulated imagination. Or it could be urgently true. But, hey, lets talk about it because we could be leaving money on the table.</p>
+
+  <p>But money is not the priority, people are. People&rsquo;s lives are. 
+   <div class="_citation" >
+    <p>&ldquo;People are starvingp and I fel bad for them,&rdquo; so what are you doing about it?</p>
+    <p>&ldquo;Those poor people in Gaza, i feel for them,&rdquo; so what are you doing about it?</p>
+   </div>
+
+  <p>It is now the act of charity (thank you). It is not participation at a demonstration and getting arrested *(thank you). And it idefinitely not a revolution with blood on the streets, terror, and all that (Karl Marx instigated for that and it failed, big time). We need to provide and alternative system that people&rsquo;s lives the top priority. Once we changed a few minds we weill be on our way of fixing Climate Change and all the other bad things that Fiat brings with it.</p>
