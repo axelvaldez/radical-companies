@@ -7,7 +7,7 @@ image:    "icon-democracy-or-money.svg"
 ---
 
 <div style='display:none; '>
- <p>Democracy for all <<em>or</em> accumulated power for a handful?</p>
+ <p>Democracy for all <em>or</em> accumulated power for a handful?</p>
 </div>
 
 <div class="_citation" >
