@@ -13,7 +13,7 @@ image:    "icon-fiat-has-been-good.svg"
 <h1>Fiat Has Been Good</h1>
  <p>The Fiat system has been good. For more than a few people. It created the middle class, improved education, medicine, and science, etc. Poeple in the US, the European Union, Australia, and New Zealand live better.</p>
  
- <p>But people of European descent live best. Not all of them, mind you, but generally that is the case. Human kind have moved forward.</p>
+ <p>But people of European descent live best. Not all of them, mind you, but generally that is the case. And human kind have moved forward.</p>
 
  <h1>Climate Change</h1>
   <p>Then there is Clinmate Change, which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</p>
