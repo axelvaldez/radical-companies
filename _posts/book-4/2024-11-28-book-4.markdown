@@ -26,7 +26,7 @@ image:    "icon-fiat-has-been-good.svg"
   <p>But money is not the priority, people are: people&rsquo;s lives are.</p>
    <div class="_citation" >
     <p>&ldquo;People are starvingp and I feel bad for them,&rdquo; so what are you doing about it?</p>
-    <p>&ldquo;Those poor people in Gaza, i feel for them,&rdquo; so what are you doing about it?</p>
+    <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo; so what are you doing about it?</p>
    </div>
 
   <p>It is not the act of charity (thank you). It is not participation at a demonstration and getting arrested (thank you). And it idefinitely not a revolution with blood on the streets, terror, and all that (Karl Marx instigated for that and it failed, big time).</p>
