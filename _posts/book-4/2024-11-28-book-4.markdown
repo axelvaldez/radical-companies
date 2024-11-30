@@ -11,14 +11,14 @@ image:    "icon-fiat-has-been-good.svg"
 </div>
 
 <h1>Fiat Has Been Good</h1>
- <p>The Fiat system has been good for more than a few people. It has advanced the middle class, education, medicine, and science over all. Poeple in the US and the European Union, Australia, and New Zealand live better.</p>
+ <p>The Fiat system has been good. For more than a few people mostly and it has advanced the middle class, education, medicine, and science over all. Poeple in the US and the European Union, Australia, and New Zealand live better.</p>
  
- <p>But people of European descent live best. Not all of them, mind you, but generally that is the case and things have moved forward. For the benefit of human kind.</p>
+ <p>But people of European descent live best. Not all of them, mind you, but generally that is the case and things have moved forward for the benefit of human kind.</p>
 
  <h1>Climate Change</h1>
-  <p>And then there is Clinmate Change, which of course cold be a hoax and the fires and storms we are suffering through are just the result of our over stimulated imagination.</p>
+  <p>Then there is Clinmate Change, which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</p>
   
-  <p>Or it could be urgently true and it is already here.</p>
+  <p>Or it could be urgently true because Climat Change is already here.</p>
   
   <p>But, hey, lets talk about it because we could be leaving money on the table.</p>
 
