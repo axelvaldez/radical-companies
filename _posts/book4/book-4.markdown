@@ -16,4 +16,4 @@ image:    "icon-fiat-has-been-good.svg"
  <p>But people of European descent live best. Not all of them, mind you, but generally that is the case and things have moved forward. For the benefit of human kind.</p>
 
  <h1>Climate Change</h1>
-  <p>And then there Clinmate Change, which of course cold be a hoax and the fires and storms we ae suffering though are just eh result of 
+  <p>And then there is Clinmate Change, which of course cold be a hoax and the fires and storms we ae suffering though are just the result of our imagination. Or it culd be urgently true. But, hey, lets talk about iy because you could be leaving money on the table.</p>
