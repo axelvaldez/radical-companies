@@ -36,7 +36,13 @@ image:    "icon-fiat-has-been-good.svg"
    <li>It is not acts of charity (thank you).</li>
    <li>It is not serving food for the homeless (thank you).</li>
    <li>It is not participation at a demonstration and maybe getting arrested (thank you).</li>
-   <li>And it is idefinitely not a revolution with terror and blood on the streets (you failed, Karl Marx).</li>
+   <li>It is not a revolution with terror and blood on the streets (you failed, Karl Marx).</li>
   </ul>
-  
-  <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Once we changed a few minds, people will be on our way of fixing Climate Change and many the other bad things that Fiat brings with it. And will do it from the very roots and not fungible &ldquo;laws decided by politics.&rdquo;</p>
+ <p>These all features of the Fiat system,</p>
+  <ul>
+   <li>Charity, serrving food, has never solved anything long term, but it feel good to the providers.</li>
+   <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
+   <li>Revolutions change the characters who want their own flavor of a super-centralized Fiat system.</li>
+  </ul> 
+
+  <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority, lives with an impat, purpose, and missions. Once we changed a few minds, people will be on our way of fixing Climate Change and many the other bad things that Fiat brings with it. And will do it from the very roots and not fungible &ldquo;laws decided by politics.&rdquo;</p>
