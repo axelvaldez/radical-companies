@@ -40,7 +40,7 @@ image:    "icon-fiat-has-been-good.svg"
   </ul>
  <p>These all features of the Fiat system,</p>
   <ul>
-   <li>Charity, serrving food, has never solved anything long term, but it feel good to the providers.</li>
+   <li>Charity, like serving food, has never solved anything, but it feel good to the providers.</li>
    <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
    <li>Revolutions change the characters who want their own flavor of a super-centralized Fiat system.</li>
   </ul> 
