@@ -15,7 +15,7 @@ image:    "icon-fiat-has-been-good.svg"
  
  <p>But people of European descent live best. Not all of them, mind you, but generally that is the case.</p>
 
- <p>Society has moved forward, in the &lsquo;developed&rsquo; cuntries.</p>
+ <p>Society has moved forward, in the &lsquo;developed&rsquo; countries.</p>
 
  <h1>Climate Change</h1>
   <p>Then there is Climate Change, which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</p>
@@ -31,6 +31,11 @@ image:    "icon-fiat-has-been-good.svg"
     <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo; so what are you doing about it?</p>
    </div>
 
-  <p>It is not the act of charity (thank you). It is ot serving food for the homeless (thank you). It is not participation at a demonstration and maybe getting arrested (thank you). And it is idefinitely not a revolution with blood on the streets, terror, and all that (Karl Marx instigated for that and it failed, big time).</p>
+ <p>It is not,</p>
+  <ul>
+   <li>It is not acts of charity (thank you).</li>
+   <li>It is not serving food for the homeless (thank you).</li>
+   <li>It is not participation at a demonstration and maybe getting arrested (thank you).</li>
+   <li>And it is idefinitely not a revolution with terror and blood on the streets (Karl Marx instigated for that and it failed, big time).</li>  </ul>
   
   <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Once we changed a few minds, people will be on our way of fixing Climate Change and many the other bad things that Fiat brings with it. And will do it from the very roots and not fungible &ldquo;laws decided by politics.&rdquo;</p>
