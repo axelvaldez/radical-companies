@@ -45,4 +45,4 @@ image:    "icon-fiat-has-been-good.svg"
    <li>Revolutions change the characters who want their own flavor of a super-centralized Fiat system.</li>
   </ul> 
 
-  <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority, lives with an impat, purpose, and missions. Once we changed a few minds, people will be on our way of fixing Climate Change and many the other bad things that Fiat brings with it. And will do it from the very roots and not fungible &ldquo;laws decided by politics.&rdquo;</p>
+  <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Lives with an impat, purpose, and missions. Once we changed a few minds, people will be on our way of fixing Climate Change and many the other bad things that Fiat brings with it. And will do it from the very roots and not fungible &ldquo;laws decided by politics.&rdquo;</p>
