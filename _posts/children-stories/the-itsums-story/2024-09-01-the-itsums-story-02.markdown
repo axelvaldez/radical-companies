@@ -72,7 +72,7 @@ hidden:   true
   <div class="_illustration">Show the Foundation (in yellow?) under a one-story house and the same Foundation over a multi-floor building.</div>
  <p>You can build a one-story house or a 20-story building on the Radical Foundation.</p>
  <p>If the proposal goes against the Radical Foundaton, then it is really a Fiat organization in disguise. Fiat organizations are OK, too, <em>if others agree to live in it</em>. We do not want to compete with the many ills brought upon by the Fiat House, we need an alternative for living.</p>
- 
+
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; "> <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-01">&lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-03">Next &gt;</a>     </span>

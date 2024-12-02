@@ -1,0 +1,31 @@
+---
+layout:   post
+title:    "The Fiat System Has Been Good - E02"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-fiat-has-been-good.svg"
+---
+
+<div style="display:none; ">
+ <p>Time for an alternative to the bug.</p>
+</div>
+
+<h1>Fiat Has Been Good</h1>
+ <p></p>
+ 
+ <p></p>
+
+ <p></p>
+
+ <h1>Climate Change</h1>
+  <p></p>
+  
+  <p></p>
+  
+  <p></p>
+
+
+<div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
+ <span style="float:left; "> <a href="https://radicalcompanies.com/2024/11/28/boo4-intro">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/12/01/boo4-02">Next &gt;</a></span>
+</div>

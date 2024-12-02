@@ -12,16 +12,12 @@ image:    "icon-fiat-has-been-good.svg"
 
 <h1>Fiat Has Been Good</h1>
  <p>The Fiat system has been good, for more than a few people. It created the middle class, improved education, medicine, and science, etc. Poeple in the US, the European Union, Australia, and New Zealand live better.</p>
- 
  <p>But people of European descent live best. Not all of them, mind you, but generally that is the case.</p>
-
  <p>Society has moved forward, in the &lsquo;developed&rsquo; countries.</p>
 
  <h1>Climate Change</h1>
   <p>Then there is Climate Change, which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</p>
-  
   <p>Or it could be urgently true because Climat Change is already here.</p>
-  
   <p>But, hey, lets talk about it because we could be leaving money on the table.</p>
 
 <h1>Money</h1>
@@ -44,11 +40,10 @@ image:    "icon-fiat-has-been-good.svg"
    <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
    <li>Revolutions change the characters who want their own flavor of a super-centralized Fiat system.</li>
   </ul> 
-
-  <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Lives with an impat, purpose, and missions. Once we changed a few minds, people will be on their way of fixing Climate Change and many of the other bad things that Fiat brings with it. And they will do it from the very roots of the alterntive system and not from fungible Fiat laws decided by sausage making politics.</p>
+ <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Lives with an impat, purpose, and missions. Once we changed a few minds, people will be on their way of fixing Climate Change and many of the other bad things that Fiat brings with it. And they will do it from the very roots of the alterntive system and not from fungible Fiat laws decided by sausage making politics.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/11/28/book-4">              Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/11/28/book4-02">              Next &gt;</a>
  </span>
 </div>
