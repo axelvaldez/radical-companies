@@ -29,17 +29,17 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    authors.
-    descriptions.
-    <a href="https://www.amazon.com/dp/B0CN3X7J93" target='_blank'>Amazon</a>
+    Matt Perez, Adian Perez, Jose Leal.
+    This book will make you question much of what you have learned to accept as normal so you can help create a sustainable future that works better for all of us.
+    <a href="https://www.amazon.com/dp/B0CW1HV3SK" target='_blank'>Radical Companies</a> (Amazon).
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    authors.
-    descriptions.
-    <a href="https://www.amazon.com/dp/B0CW1HV3SK" target='_blank'>Amazon</a>
+    Matt Perez, Adrian Perez.
+    You are about to learn about an alternative way, where traditional boundaries crumble. In the world of Radical it is up to you to open the floodgates to opportunities. Here, the conventional is reimagined, and innovation thrives on a different kind of risk-taking.
+    <a href="https://www.amazon.com/dp/B0CN3X7J93" target='_blank'>Radical in Detail</a> (Amazon).
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
