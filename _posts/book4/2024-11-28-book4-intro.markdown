@@ -29,10 +29,10 @@ image:    "icon-fiat-has-been-good.svg"
 
  <p>It is not,</p>
   <ul>
-   <li>It is not acts of charity (thank you).</li>
-   <li>It is not serving food for the homeless (thank you).</li>
-   <li>It is not participation at a demonstration and maybe getting arrested (thank you).</li>
-   <li>It is not a revolution with terror and blood on the streets (you failed, Karl Marx).</li>
+   <li>Acts of charity (thank you).</li>
+   <li>Food for the homeless (thank you).</li>
+   <li>Participation at a demonstration and maybe getting arrested (thank you).</li>
+   <li>A revolution with blood on the streets (you failed, Karl Marx).</li>
   </ul>
  <p>These all features of the Fiat system,</p>
   <ul>
