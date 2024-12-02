@@ -7,7 +7,7 @@ image:    "icon-the-itsums-story-01.svg"
 ---
 
 <div style='display:none; '>
- <p>How Fiat arose.</p>
+ <p>Scary Fiat arose.</p>
 </div>
 
 <h1>Meaning</h1>
