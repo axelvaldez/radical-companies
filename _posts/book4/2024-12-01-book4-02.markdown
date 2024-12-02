@@ -15,7 +15,7 @@ hidden:   true
  <p></p>
  <p></p>
  <p>You can read how we thought of it and how it devepeloped in <a href="#en01">
-  <sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>Radical Companies and <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>Radical in Detail</a>, respectively</p>
+  <sup id="bm01">&hairsp;&nabla;&hairsp;</sup><Radical Companies and <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup>Radical in Detail</a>, respectively</p>
 
 <h1></h1>
  <p></p>
