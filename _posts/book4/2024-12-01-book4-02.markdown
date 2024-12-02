@@ -11,20 +11,15 @@ hidden:   true
  <p>Time for an alternative to the bug.</p>
 </div>
 
-<h1>Fiat Has Been Good</h1>
+<h1></h1>
  <p></p>
- 
  <p></p>
-
  <p></p>
 
- <h1>Climate Change</h1>
+<h1></h1>
   <p></p>
-  
+  <p></p>  
   <p></p>
-  
-  <p></p>
-
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
