@@ -44,6 +44,6 @@ image:    "icon-fiat-has-been-good.svg"
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/11/28/book4-02">              Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/11/28/book4-02">Next &gt;</a>
  </span>
 </div>
