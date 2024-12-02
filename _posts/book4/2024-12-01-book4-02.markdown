@@ -31,7 +31,7 @@ hidden:   true
     authors.
     descriptions.
     <a href="https://www.amazon.com/dp/B0CN3X7J93" target='_blank'>Amazon</a>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#en01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
@@ -39,7 +39,7 @@ hidden:   true
     authors.
     descriptions.
     <a href="https://www.amazon.com/dp/B0CW1HV3SK" target='_blank'>Amazon</a>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#en02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
