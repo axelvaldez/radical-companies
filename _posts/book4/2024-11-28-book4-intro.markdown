@@ -43,6 +43,11 @@ image:    "icon-fiat-has-been-good.svg"
  <p>We need alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Lives with an impat, purpose, and missions. Once we changed a few minds, people will be on their way of fixing Climate Change and many of the other bad things that Fiat brings with it. And they will do it from the very roots of the alterntive system and not from fungible Fiat laws decided by sausage making politics.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
+<!--
+ <span style="float:left; ">
+  <a href="https://radicalcompanies.com/2024/11/28/book4-intro">&lt; Previous</a>
+ </span>
+-->
  <span style="float:right;  ">
   <a href="https://radicalcompanies.com/2024/12/01/book4-02">Next &gt;</a>
  </span>
