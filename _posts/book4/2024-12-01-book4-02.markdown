@@ -4,6 +4,7 @@ title:    "The Fiat System Has Been Good - E02"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fiat-has-been-good.svg"
+hidden:   true
 ---
 
 <div style="display:none; ">
