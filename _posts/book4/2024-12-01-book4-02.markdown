@@ -27,7 +27,7 @@ hidden:   true
   <li id="en01">
    <p class="_list-item">
     authors.
-    descrptions.
+    descriptions.
     <a href="https://www.amazon.com/dp/B0CN3X7J93" target='_blank'>Amazon</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
@@ -35,7 +35,7 @@ hidden:   true
   <li id="en02">
    <p class="_list-item">
     authors.
-    descrptions.
+    descriptions.
     <a href="https://www.amazon.com/dp/B0CW1HV3SK" target='_blank'>Amazon</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
