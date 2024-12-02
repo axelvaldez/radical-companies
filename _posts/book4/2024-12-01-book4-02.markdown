@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style="display:none; ">
- <p>Time for an alternative to the bug.</p>
+ <p>Time for an alternative.</p>
 </div>
 
 <h1></h1>
