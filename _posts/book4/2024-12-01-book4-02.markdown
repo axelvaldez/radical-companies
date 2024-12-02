@@ -14,20 +14,38 @@ hidden:   true
 <h1>Radical</h1>
  <p></p>
  <p></p>
- <p>You can read how it was born and how it devepeloped in Radical Companies and Radical in Detail, respectively</p>
+ <p>You can read how we thought of it and how it devepeloped in <a href="#en01">
+  <sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>Radical Companies and <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a>Radical in Detail</a>, respectively</p>
 
 <h1></h1>
  <p></p>
  <p></p>  
  <p></p>
 
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Note
+    &lt;<a href="https://www.amazon.com/dp/B0CN3X7J93" target='_blank'>Amazon</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Note
+    &lt;<a href="https://www.amazon.com/dp/B0CW1HV3SK" target='_blank'>Amazon</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
   <a href="https://radicalcompanies.com/2024/11/28/book4-intro">&lt; Previous</a>
- <span>
+ </span>
  <span style="float:right; ">
   <a href="https://radicalcompanies.com/2024/12/01/book4-02">Next &gt;</a>
  </span>
 </div>
-
 
