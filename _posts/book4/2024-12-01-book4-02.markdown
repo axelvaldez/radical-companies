@@ -11,10 +11,10 @@ hidden:   true
  <p>Time for an alternative.</p>
 </div>
 
-<h1></h1>
+<h1>Radical</h1>
  <p></p>
  <p></p>
- <p></p>
+ <p>You can read how t was born and how it devepeloped in <a href="https://www.amazon.com/dp/B0CN3X7J93" xxx="">Radical Companies</a> and <a href="Radical In Detail">Radical n Detail,</a> respectively</p>
 
 <h1></h1>
  <p></p>
@@ -29,3 +29,5 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/01/book4-02">Next &gt;</a>
  </span>
 </div>
+
+

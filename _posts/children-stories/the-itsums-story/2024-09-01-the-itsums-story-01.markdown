@@ -46,7 +46,7 @@ image:    "icon-the-itsums-story-01.svg"
  <span style="float:left;  "> <a href="https://radicalcompanies.com/2024/09/08/the-itsum-story-glossary">&lt; Glossary</a></span>
 -->
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">              Next &gt;</a></span>
+  <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">Next &gt;</a></span>
 </div>
 
 {% include related.html %}

@@ -113,9 +113,13 @@ image:    "icon-e01-and-then.svg"
 
 <div style="margin-bottom:1in; width:80%; padding:0 10%; font-family: American Typewriter, serif; ">
  <!--
- <span style="float:left; " ><a href="https://radicalcompanies.com/">                                 &lt; Previous </a></span>
+ <span style="float:left; " >
+  <a href="https://radicalcompanies.com/">&lt; Previous </a>
+ </span>
  -->
- <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a>     </span>
+ <span style="float:right; ">
+  <a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a>
+ </span>
 </div>
 
 {% include related.html %}
