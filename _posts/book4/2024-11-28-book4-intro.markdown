@@ -34,7 +34,7 @@ image:    "icon-fiat-has-been-good.svg"
    <li>Participation at a demonstration and maybe getting arrested (thank you).</li>
    <li>A revolution with blood on the streets (you failed, Karl Marx).</li>
   </ul>
- <p>These all features of the Fiat system,</p>
+ <p>These all features of the <em>Fiat system,</em>/p>
   <ul>
    <li>Charity, like serving food, has never solved anything, but it feel good to the providers.</li>
    <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
