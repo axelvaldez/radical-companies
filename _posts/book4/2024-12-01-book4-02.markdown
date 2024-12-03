@@ -17,11 +17,11 @@ hidden:   true
 <h1>The Tshirt Said It (almost)</h1>
  <p>Ursula K Le Guin said,</p>
   <div class="_caption">
-   We live in Capitalism. Its power seems inescapable. But so did the divine right of Kings.
+   <p>We live in Capitalism. Its power seems inescapable. But so did the divine right of Kings.</p>
   </div>
  <p>I would change it to,</p>
   <div class="_caption">
-   We live in the Fiat systems. Its power seems inescapable. But so did the divine right of Kings and Queens.</p>
+   <p>We live in the Fiat systems. Its power seems inescapable. But so did the divine right of Kings and Queens.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
