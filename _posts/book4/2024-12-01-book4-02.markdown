@@ -17,11 +17,11 @@ hidden:   true
 <h1>The Tshirt Said It (almost)</h1>
  <p>Ursula K Le Guin said,</p>
   <div class="_citation">
-   <p>We live in Capitalism. Its power seems inescapable. But so did the divine right of Kings.</p>
+   <p>We live in Capitalism. Its power seems inescapable. But so was did the divine right of Kings.</p>
   </div>
  <p>I would change it to,</p>
   <div class="_citation">
-   <p>We live in the <em>Fiat</em> systems. Its power seems inescapable. But so did the divine right of Kings <em>and Queens</em.>.</p>
+   <p>We live in the <em>Fiat</em> systems. Its power seems inescapable. But so was did the divine right of Kings <em>and Queens</em.>.</p>
   </div>
   <p>Fiat is <em>bigger</em> than capitalism. Actually it is <em>orthogonal</em> to it. Fiat is bigger than capitalism in the ense that capitalism.
   
