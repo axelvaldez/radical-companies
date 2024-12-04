@@ -60,7 +60,7 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/11/28/book4-intro">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/01/book4-002">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/03/book4-003">Next &gt;</a>
  </span>
 </div>
 
