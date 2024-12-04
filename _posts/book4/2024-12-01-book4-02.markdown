@@ -29,7 +29,7 @@ hidden:   true
      <p>Fiat is bigger than capitalism in the ense that it has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves to a lot of unecessaray criticism.</p>
     </li>
     <li>
-     <p>Capitalism is a way to create a community of people with money that they are willing to risk as capital for somebody else. And as such it is a good thing.</p>
+     <p>Capitalism is created a community of people with money tp spare that are willing to risk as capital for somebody else. As such it is a good thing.</p>
     </li>
    </ul>
    <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital (<em>i.e.</em>, accumulated money) is needed for that.</p>
