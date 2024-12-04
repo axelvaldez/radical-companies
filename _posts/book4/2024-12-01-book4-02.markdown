@@ -23,10 +23,10 @@ hidden:   true
   <div class="_citation">
    <p>We live in the <em>Fiat</em> systems. Its power seems inescapable. But so was did the divine right of Kings <em>and Queens</em.>.</p>
   </div>
-  <p>Fiat is <em>bigger</em> than capitalism. Actually it is <em>orthogonal</em> to it. Fiat is bigger than capitalism in the ense that capitalism.
+  <p>Fiat is <em>bigger</em> than capitalism. Actually it is <em>orthogonal</em> to it. Fiat is bigger than capitalism in the ense that ot has absorved capitalism. But capitalism is not an integral part of it. People who confused the two are cmfused and open themselves to a lot of unecessaray criticism.
   
-  <p>Capitalism is awayn to create a community of people with money that they are willing to convert to capital for somebody else. And as such it is a good thing.</p>
-  <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital is needed for that. In the good old days when the Dutch invented capitalism shares of the businesses were given out in exchange for capital. In the 21<sup>th</sup> Century capital can come as a loan with a fixed gain whereas a share is a forever gain.</p>
+  <p>Capitalism is a way to create a community of people with money that they are willing to risk as capital for somebody else. And as such it is a good thing.</p>
+  <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital, accumulated money, is needed for that. In the good old days when the Dutch invented capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century individials and banks can issue capital as a loan. Like all loans they would have a fixed gain whereas a share is a forever gain.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
