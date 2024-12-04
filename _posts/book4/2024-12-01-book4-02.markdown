@@ -32,8 +32,8 @@ hidden:   true
      <p>Capitalism is a way to create a community of people with money that they are willing to risk as capital for somebody else. And as such it is a good thing.</p>
     </li>
    </ul>
-   <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital (<em>i.e.</em>, accumulated money) is needed for that. In the good old days when the Dutch invented capitalism shares of the businesses were given in exchange for capital.</p>
-   <p>In the 21<sup>th</sup> Century individuals and banks can issue capital as a loan. And like all loans they would have a fixed gain whereas shares are a forever gain.</p>
+   <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital (<em>i.e.</em>, accumulated money) is needed for that.</p>
+   <p>In the good old days when the Dutch invented capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century individuals and banks can issue capital as a loan. And like all loans they would have a fixed gain whereas shares are a forever gain.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
