@@ -26,7 +26,7 @@ hidden:   true
   <p>Fiat is <em>bigger</em> than capitalism. Actually it is <em>orthogonal</em> to it.</p>
    <ul>
     <li>
-     <p>Fiat is bigger than capitalism in the ense that it has absorved capitalism, but capitalism is not an integral part of it. People who confused the two are cmfused and open themselves to a lot of unecessaray criticism.</p>
+     <p>Fiat is bigger than capitalism in the ense that it has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves to a lot of unecessaray criticism.</p>
     </li>
     <li>
      <p>Capitalism is a way to create a community of people with money that they are willing to risk as capital for somebody else. And as such it is a good thing.</p>
