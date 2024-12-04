@@ -32,7 +32,7 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Matt Perez, Adian Perez, Jose Leal.
+    Matt Perez, Adrian Perez, Jose Leal.
     This book will make you question much of what you have learned to accept as normal so you can help create a sustainable future that works better for all of us.
     <a href="https://www.amazon.com/dp/B0CW1HV3SK" target='_blank'>Radical Companies</a> (Amazon).
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
