@@ -14,6 +14,15 @@ hidden:   true
 <h1></h1>
  <p></p>
 
+<div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
+ <span style="float:left; ">
+  <a href="https://radicalcompanies.com/2024/12/01/book4-002">&lt; Previous</a>
+ </span>
+ <span style="float:right; ">
+  <a href="https://radicalcompanies.com/2024/11/28/book4-intro">Next &gt;</a>
+ </span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
@@ -25,12 +34,3 @@ hidden:   true
    </p>
   </li>
  </ul>
-
-<div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/01/book4-002">&lt; Previous</a>
- </span>
- <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/11/28/book4-intro">Next &gt;</a>
- </span>
-</div>
