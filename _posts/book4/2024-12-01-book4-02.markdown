@@ -33,7 +33,7 @@ hidden:   true
     </li>
    </ul>
    <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital (<em>i.e.</em>, accumulated money) is needed for that.</p>
-   <p>In the good old days when the Dutch invented capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century individuals and banks can issue capital as a loan. And like all loans they would have a fixed gain whereas shares are a forever gain.</p>
+   <p>In the good old days when the Dutch invented capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century even individuals can issue capital as a loan. And like all loans they would have a fixed gain whereas shares are a forever gain.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
