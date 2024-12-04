@@ -23,7 +23,7 @@ hidden:   true
   <div class="_citation">
    <p>We live in <em>the Fiat system</em>. Its power seems inescapable. But so did the divine rights of Kings and Queens.</p>
   </div>
-  <p>Fiat is <em>bigger</em> than capitalism. Actually it is <em>orthogonal</em> to it.</p>
+  <p>Fiat is <em>bigger</em> than capitalism. Actually Fiat is <em>orthogonal</em> to capitalism.</p>
    <ul>
     <li>
      <p>Fiat is bigger than capitalism in the ense that it has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves to a lot of unecessaray criticism.</p>
