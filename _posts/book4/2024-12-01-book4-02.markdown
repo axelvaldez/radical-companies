@@ -22,6 +22,11 @@ hidden:   true
  <p>I would change it to,</p>
   <div class="_caption">
    <p>We live in the Fiat systems. Its power seems inescapable. But so did the divine right of Kings and Queens.</p>
+  </div>
+  <p>Fiat is <em>bigger</em> than capitalism. Actually it is <em>orthogonal</em> to it. Fiat is bigger than capitalism in the ense that capitalism.
+  
+  <p>Capitalism is awayn to create a community of people with money that they are willing to convert to capital for somebody else. And as such it is a good thing.</p>
+  <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital is needed for that. In the good old days when the Dutch invented capitalism shares of the businesses were given out in exchange for capital. In the 21<sup>th</sup> Century capital can come as a loan with a fixed gain whereas a share is a forever gain.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
