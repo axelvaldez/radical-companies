@@ -12,7 +12,8 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Fiat started a long tie ago, Tales of Two Cities and all that. But then somebody, probably in America, figured out that the demonstrations and the bribes to politicians were costing way too much. People in Europe were fightinh a war, people in the US just wanted more money.</p>
+ <p>Fiat started a long tie ago, Tales of Two Cities and all that. But then somebody, probably in America, figured out that the demonstrations and the bribes to politicians were costing way too much.</p>
+ <p>People in Europe were fightinh a war, people in the US just wanted more money.</p>
  <p>They fixed it with entertainment for the masses.</p>
  <p>Raise their wages, just enough to buy entertainment. Make them confortable, just enough to be entertained.</p>
  <p>Instead of entertainment, some people used their new wages to accumulate money and eventually the middle class came into existance.</p>
