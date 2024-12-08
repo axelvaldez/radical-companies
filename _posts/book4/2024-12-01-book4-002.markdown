@@ -26,14 +26,14 @@ hidden:   true
   <p>Fiat is <em>bigger</em> than capitalism. Actually Fiat is <em>orthogonal</em> to capitalism.</p>
    <ul>
     <li>
-     <p>Fiat is bigger than capitalism in the ense that it has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves to a lot of unecessaray criticism.</p>
+     <p>Fiat is bigger than capitalism in the ense that Fiat has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves to a lot of unecessaray criticism.</p>
     </li>
     <li>
-     <p>Capitalism is created a community of people with money tp spare that are willing to risk as capital for somebody else. As such it is a good thing.</p>
+     <p>Capitalism is created a community of people with money to spare that are willing to risk as capital for somebody else. As such it is a good thing.</p>
     </li>
    </ul>
-   <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital (<em>i.e.</em>, accumulated money) is needed for that.</p>
-   <p>In the good old days when the Dutch invented capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century even individuals can issue capital as a loan. And like all loans they would have a fixed gain, where as <em>shares</em> they are a &lsquo;forever gain.&rsquo;</p>
+   <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital is needed for that.</p>
+   <p>In the good old days when the Dutch formalized capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century even individuals can issue capital as a loan. And like all loans they would have a fixed gain, whereas <em>shares</em> are a &lsquo;forever gain.&rsquo;</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
