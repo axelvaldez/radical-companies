@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p></p>
+ <p> </p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
