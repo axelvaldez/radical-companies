@@ -25,6 +25,6 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/01/book4-002">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/04/book4-004">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/08/book4-004">Next &gt;</a>
  </span>
 </div>
