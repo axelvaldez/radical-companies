@@ -26,7 +26,7 @@ hidden:   true
    <li>Skin test for tuberculosis</li>
    <li>Typhoid vaccine</li>
   </ul>
- <p>Of course, this all happened during wars.  &ldquo;<em>Immunization was officially adopted by the army before the outbreak of WWI</em>&rdquo;
+ <p>Of course, this all happened during a time of wars.  &ldquo;<em>Immunization was officially adopted by the (British) army before the outbreak of WWI</em>&rdquo;</p>
 
 <h1>Just A Few</h1>
  <div class="_citation">
