@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Let me enumerate Fiat's many advances in medicine in the 20<sup>th</sup.> century.</p>
+ <p>Let me enumerate Fiat's many advances in medicine in the 20<sup>th</sup> century.</p>
  <p>Just to mentioned a few,</p>
   <ul>
    <li>Vaccines</li>
