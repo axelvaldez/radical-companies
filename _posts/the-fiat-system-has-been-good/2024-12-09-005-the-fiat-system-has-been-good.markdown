@@ -47,7 +47,7 @@ hidden:   true
   <li id="en01">
    <p class="_list-item">
     William A Robson, Douglass J Guthrie.
-    In history of medicine.
+    History of medicine.
     <a href="" target='_blank'></a>.
     <a class="_uparrow" href="#bm01"><img src="/https://www.britannica.com/science/history-of-medicine/Medicine-in-the-20th-century">https://www.britannica.com/science/history-of-medicine/Medicine-in-the-20th-century</a>
    </p>
