@@ -29,8 +29,7 @@ hidden:   true
   </ul>
  <p>Of course, this all happened during wars.  &ldquo;<em>Immunization was officially adopted by the army before the outbreak of WWI</em>&rdquo;
 
-<h1>The Win</h1>
- <p>And these are just but a few,</p>
+<h1>Just A Few</h1>
  <div class="_citation">
   <p>In 1901 in the United Kingdom, for instance, the life expectancy at birth &hellip; was 48 years for males and 51.6 years for females &hellip; in the 1980s the life expectancy had reached 71.4 years for males and 77.2 years for females. By the 21st century &hellip; attention was focused on morbidity rather than mortality&hellip;</p>
   <p id="_signature">Enciclopedia Britanica, Online</p>
