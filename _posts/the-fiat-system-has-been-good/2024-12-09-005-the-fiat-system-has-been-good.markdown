@@ -34,7 +34,10 @@ hidden:   true
   <p>In 1901 in the United Kingdom, for instance, the life expectancy at birth &hellip; was 48 years for males and 51.6 years for females &hellip; in the 1980s the life expectancy had reached 71.4 years for males and 77.2 years for females. By the 21st century &hellip; attention was focused on morbidity rather than mortality&hellip;</p>
   <p id="_signature">Enciclopedia Britanica, Online</p>
  </div>
- <p>Also from Britannica, &ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo; And, yes, this was acceraleted but money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are).</p>
+ <p>Also from Britannica,</p>
+  <p class="_citation">&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</p>
+  <p>And, yes, this was acceralated by money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are).</p>
+  <p class="_citation">&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo; And, yes, this was acceraleted but money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are).</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
