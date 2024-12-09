@@ -34,9 +34,13 @@ hidden:   true
   <p id="_signature">Enciclopedia Britanica, Online</p>
  </div>
  <p>Also from Britannica,</p>
-  <p class="_citation">&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</p>
-  <p>And, yes, this was accerelated by money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are) and not excited at the possibility of discovery.</p>
-  <p class="_citation">&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo; And, yes, this was acceraleted but money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are).</p>
+  <div class="_citation">
+   <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
+  </div>
+  <p>This was accerelated by money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are) and not excited at the possibility of discovery.</p>
+  <div class="_citation">
+   <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
+  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
