@@ -23,8 +23,11 @@ hidden:   true
    <li>Chemotherapy</li>
    <li>Arsenic</li>
    <li>Penicillin</li>
+   <li>Vaccines for smallpox and others</li>
+   <li>Skin test for tuberculosis</li>
+   <li>Typhoid vaccine</li>
   </ul>
- <p>And the winner of them all: Higiene!</p>
+ <p>Of course, this all happened during wars.  &ldquo;<em>Immunization was officially adopted by the army before the outbreak of WWI</em>&rdquo;
 
  <p>And this are just but a few.</p>
  <div class="_citation">
