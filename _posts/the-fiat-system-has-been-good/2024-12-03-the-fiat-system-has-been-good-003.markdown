@@ -22,9 +22,9 @@ hidden:   true
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/01/book4-002">&lt; Previous</a>
+  <a href="https://radicalcompanies.com/2024/12/01/the-fiat-system-has-been-goopd-002">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/08/book4-004">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/08/the-fiat-system-has-been-goopd-004">Next &gt;</a>
  </span>
 </div>
