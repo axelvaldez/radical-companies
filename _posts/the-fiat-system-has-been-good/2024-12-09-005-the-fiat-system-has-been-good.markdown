@@ -14,11 +14,13 @@ hidden:   true
 <h1></h1>
  <p>Let me enumerate Fiat's many advances in medicine in the 20<sup>th</sup.> century.</p>
  <p>Just to mentioned a few,</p>
-  <h3>Vaccines</h3>
-  <h3>Cancer Treatment</h3>
-  <h3>Higiene</h3>
-  <h3>Flu</h3>
-  <h3>Hemorroid</h3>
+  <ul>
+   <li>Vaccines</li>
+   <li>Cancer Treatment</li>
+   <li>Higiene</li>
+   <li>Flu</li>
+   <li>Hemorroid</li>
+  </ul>
  <p>And this are just but a few.</p>
  <div class="_citation">
   <p>In 1901 in the United Kingdom, for instance, the life expectancy at birth, a primary indicator of the effect of health care on mortality (but also reflecting the state of health education, housing, and nutrition), was 48 years for males and 51.6 years for females. After steady increases, by the 1980s the life expectancy had reached 71.4 years for males and 77.2 years for females. Other industrialized countries showed similar dramatic increases. By the 21st century the outlook had been so altered that, with the exception of oft-fatal diseases such as certain types of cancer, attention was focused on morbidity rather than mortality&hellip;</p>
