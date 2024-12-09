@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Fiat System Has Been Good (1 of many)"
+title:    "The Fiat System Has Been Good"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fiat-has-been-good.svg"
@@ -50,6 +50,6 @@ image:    "icon-fiat-has-been-good.svg"
  </span>
 -->
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/12/01/the-fiat-system-has-been-goopd-002">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/01/002-the-fiat-system-has-been-goopd">Next &gt;</a>
  </span>
 </div>
