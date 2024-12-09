@@ -15,15 +15,20 @@ hidden:   true
  <p>Let me enumerate Fiat's many advances in medicine in the 20<sup>th</sup> century.</p>
  <p>Just to mentioned a few,</p>
   <ul>
-   <li>Vaccines</li>
-   <li>Cancer Treatment</li>
-   <li>Higiene</li>
-   <li>Flu</li>
-   <li>Hemorroid</li>
+   <li>Thypus</li>
+   <li>Malaria & other tropical dieases</li>
+   <li>Mumps</li>
+   <li>Mesles</li>
+   <li>Polio</li>
+   <li>Chemotherapy</li>
+   <li>Arsenic</li>
+   <li>Penicillin</li>
   </ul>
+ <p>And the winner of them all: Higiene!</p>
+
  <p>And this are just but a few.</p>
  <div class="_citation">
-  <p>In 1901 in the United Kingdom, for instance, the life expectancy at birth, a primary indicator of the effect of health care on mortality (but also reflecting the state of health education, housing, and nutrition), was 48 years for males and 51.6 years for females. After steady increases, by the 1980s the life expectancy had reached 71.4 years for males and 77.2 years for females. Other industrialized countries showed similar dramatic increases. By the 21st century the outlook had been so altered that, with the exception of oft-fatal diseases such as certain types of cancer, attention was focused on morbidity rather than mortality&hellip;</p>
+  <p>In 1901 in the United Kingdom, for instance, the life expectancy at birth, a primary indicator of the effect of health care on mortality&hellip; was 48 years for males and 51.6 years for females &hellip; in the 1980s the life expectancy had reached 71.4 years for males and 77.2 years for females. By the 21st century &hellip; attention was focused on morbidity rather than mortality&hellip;</p>
   <p id="_signature">Enciclopedia Britanica, Online</p>
  </div>
  <p>Also from Britannica, &ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo; And, yes, this was acceraleted but money, but all the money in the world would not have not have done anything if people were slaves.</p>
