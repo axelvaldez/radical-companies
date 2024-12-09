@@ -21,7 +21,6 @@ hidden:   true
    <li>Mesles</li>
    <li>Polio</li>
    <li>Chemotherapy</li>
-   <li>Arsenic</li>
    <li>Penicillin</li>
    <li>Vaccines for smallpox and others</li>
    <li>Skin test for tuberculosis</li>
