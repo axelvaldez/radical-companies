@@ -18,7 +18,7 @@ hidden:   true
  <p>They had plenty of oil and other minerals as assets. They created a system to make money/capital/power <em>for individuals</em> by exploiting those assets and people, as part f captalism.</p>
  <p>That is why, I believe, that WWWII was the beginning of the end. The elements were there, we just combined them and industrialized them in our suit-coat-and-tie uniforms.</p>
  <p>Fifteen years later, we got rid of the uniforms, but we continued to rob our space g ourselves outcapsule, our earth. But now we are forced to notice.</p>
- <p>Nobody knows what follows, except that it will be corrective. I say that because it is what we do: we us into a hole and then we did ourselves out.</p>
+ <p>Nobody knows what follows, except that it will be corrective. I say that because it is what we do: we dig  us into a hole and then we dig ourselves out.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
