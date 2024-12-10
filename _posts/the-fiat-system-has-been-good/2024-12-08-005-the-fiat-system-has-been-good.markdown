@@ -37,7 +37,7 @@ hidden:   true
   <div class="_citation">
    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
   </div>
-  <p>This was accerelated by money, but all the money in the world would not have not have done anything if these scientist were bold-faced enslaved (which they are) and not excited at the possibility of discovery.</p>
+  <p>And, yes, this was accerelated by money, but all the money in the world would have just sat there and not have done anything if these scientist were bold-faced enslaved (below I will say more about this) and not excited at the possibility of discovery and getting the credit. So, again, Fiat has done some things well.</p>
   <div class="_citation">
    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
   </div>
