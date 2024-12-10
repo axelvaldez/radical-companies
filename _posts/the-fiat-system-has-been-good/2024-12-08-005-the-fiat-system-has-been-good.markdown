@@ -53,7 +53,7 @@ hidden:   true
  <div class="_citation">
   <p>&ldquo;<em>The battlefields of the 20th century stimulated the progress of surgery and taught the surgeon innumerable lessons, which were subsequently applied in civilian practice.</em>&rdquo;</p>
  </div>
- <p>I need to say that I have nothing against <em>money making</em>. But I want alternatives to the Fiat system that makes employees into co-owners so they can <em>benefit from any and all transactions</em>, measured by their contributions and not by a benevolent boss.</p>
+ <p>I need to say that I have nothing against <em>money making</em>. But I want alternatives to the Fiat system that makes employees into co-owners so they can <em>benefit from any and all</em> transactions, measured by their contributions and not by a benevolent boss.</p>
 
 <h1>Just A Few</h1>
  <div class="_citation">
