@@ -17,7 +17,7 @@ hidden:   true
  <p>That is very expensive in people&rsquo;s lives.</p>
  <p>Worse, we lean, and often fall, towards fascist dictatorhips. Some times for many years, as is the case in Russia, North Korea, Cuba, and other places. It happens because capitalist system says nothinh so long as some people are making money.</p>
  <p>It used to be intelligent brutes with guns, now it is smart people with guns. Think of Stalin and Fidel Castro, old face, versus new face Trump and Musk.</p>
- <p>The way we are going about with Radical is to 1) go down to the roots of the system we want, and 2) provide a very sismple foundation,
+ <p>The way we are going about with Radical is to 1) go down to the roots of the system we want, and 2) provide a very simple foundation,
    <div class="_center">
     <table class="_h2table">
      <tr>
