@@ -49,13 +49,13 @@ hidden:   true
     <tr>
      <th>Meaning and Belonging</th>
      <td>
-      <p>These are important things to people, finding meaning in what they do and belonging to a community that helps them.</p>
+      <p>These are important things to <em>people</em>, finding meaning in what they do and belonging to a community that helps them.</p>
      </td>
     </tr>
     <tr>
      <th>Decentralization & Transparency</th>
      <td>
-      <p>Decentralization and transparency specify a range, they are vectors. You can be move towards decentralization and transparency depending on the choices you make and decision you take.</p>
+      <p>Decentralization and transparency specify a range, they are vectors. You can be move towards or away decentralization and transparency depending on the choices you make and decision you take.</p>
      </td>
     </tr>
     <tr>
