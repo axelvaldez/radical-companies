@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>As I said before, Fiat improves the human lot. Reticently, but it does.</p>
+ <p>As I said before, Fiat improves people&rsquo;s lot, though it does not care how many people. Is the moneys upply growing.</p>
  <p>The problem with that is that there is no guarantee that it will end up on the right path. What has kept Fiat, more or less, in the better path has been people protests and near-revolutions.</p>
  <p>That is very expensive in people&rsquo;s lives.</p>
  <p>Worse, we lean, and often fall, towards fascist dictatorhips. Some times for many years, as is the case in Russia, North Korea, Cuba, and other places. It happens because capitalist system says nothinh so long as some people are making money.</p>
