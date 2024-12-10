@@ -43,7 +43,7 @@ hidden:   true
    <li>Radiation Therapy and Chemotherapy</li>
   </ul>
  <p>Surgery also avanced aswell as anesthiology.</p>
- <p>And, of course, the wars also play a role.</p>
+ <p>And, of course, (money making) wars also play a role.</p>
  <div class="_citation">
   <p>&ldquo;<em>Immunization was officially adopted by the (British) army before the outbreak of WWI.</em>&rdquo;</p>
  </div>
