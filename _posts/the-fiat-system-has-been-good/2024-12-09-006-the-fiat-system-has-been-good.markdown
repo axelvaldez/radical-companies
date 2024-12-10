@@ -34,6 +34,13 @@ hidden:   true
      </tr>
     </table>
    </div>
+   <div class='_center'>
+    <img
+     src='/assets/img/pic-the-radical-foundation.svg'
+     width='50%'
+     alt=''>
+    </div>
+
  <p>In <span class="_paradigm">Radical</span> speak, a company is people who come together to build something bigger than themselves.</p>
  <p>The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together. We distinguish companies from businesses.</p>
  <p>Businesses are dictatorships with their only reason-for-being is to make money for a few people called the owners.</li>
