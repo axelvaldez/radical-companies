@@ -57,7 +57,7 @@ hidden:   true
     <li>Not excited at the possibility of discovery</li>
     <li>Getting credit.</li>
    </ul>
-  <p>So, again, Fiat has balanced some things well for the sake of making money.</p>
+  <p>So, again, Fiat has balanced some things well for the sake of making money and itmhas resulted in well-being. Of course, this is is not the only or best way to do it.</p>
   <p>The one thing to note is that,</p>
   <div class="_citation">
    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
