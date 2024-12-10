@@ -16,7 +16,7 @@ hidden:   true
  <p>Just to mentioned a few,</p>
   <ul>
    <li>Thypus</li>
-   <li>Malaria & other tropical diseases</li>
+   <li>Malaria, Yellow Fever, Leprosy, and other tropical diseases</li>
    <li>Mumps</li>
    <li>Measles</li>
    <li>Rubella</li>
@@ -27,7 +27,6 @@ hidden:   true
    <li>Skin test for tuberculosis</li>
    <li>Typhoid vaccine</li>
    <li>BCG Vaccines for Tuberculosis</li>
-   <li>Yellow Fever</li>
    <li>Influenza</li>
    <li>DNA</li>
    <li>Diabitis</li>
