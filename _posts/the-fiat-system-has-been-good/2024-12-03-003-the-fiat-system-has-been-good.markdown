@@ -25,6 +25,6 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/01/002-the-fiat-system-has-been-good">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/08/004-the-fiat-system-has-been-good">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/07/004-the-fiat-system-has-been-good">Next &gt;</a>
  </span>
 </div>
