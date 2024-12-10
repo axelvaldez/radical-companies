@@ -52,7 +52,7 @@ hidden:   true
  <div class="_citation">
   <p>&ldquo;<em>The battlefields of the 20th century stimulated the progress of surgery and taught the surgeon innumerable lessons, which were subsequently applied in civilian practice.</em>&rdquo;</p>
  </div>
- <p>I need to repeat that I have nothing against <em>money making</em>. But I want alternatives that makes employees into co-owners so they can benefit from all transactions.
+ <p>I need to repeat that I have nothing against <em>money making</em>. But I want alternatives that makes employees into co-owners so they can benefit from all transactions,  and not at the mercy of a benevolent boss.</p>
 
 <h1>Just A Few</h1>
  <div class="_citation">
