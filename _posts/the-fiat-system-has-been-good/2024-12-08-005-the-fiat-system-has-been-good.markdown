@@ -16,15 +16,30 @@ hidden:   true
  <p>Just to mentioned a few,</p>
   <ul>
    <li>Thypus</li>
-   <li>Malaria & other tropical dieases</li>
+   <li>Malaria & other tropical diseases</li>
    <li>Mumps</li>
-   <li>Mesles</li>
+   <li>Measles</li>
+   <li>Rubella</li>
    <li>Polio</li>
    <li>Chemotherapy</li>
    <li>Penicillin</li>
    <li>Vaccines for smallpox and others</li>
    <li>Skin test for tuberculosis</li>
    <li>Typhoid vaccine</li>
+   <li>BCG Vaccines for Tuberculosis</li>
+   <li>Yellow Fever</li>
+   <li>Influenza</li>
+   <li>DNA</li>
+   <li>Diabitis</li>
+   <li>Rheumatoid Arthritis</li>
+   <li>Multiple Sclerosis</li>
+   <li>AIDS</li>
+   <li>Epinephrene</li>
+   <li>Insulin and Diabitis</li>
+   <li>Cortisone</li>
+   <li>Contraceptives</li>
+   <li>Vitamins</li>
+   <li>Radiation Therapyella and Chemoterapy</li>
   </ul>
  <p>Of course, this all happened during a time of wars.  &ldquo;<em>Immunization was officially adopted by the (British) army before the outbreak of WWI.</em>&rdquo;</p>
 
