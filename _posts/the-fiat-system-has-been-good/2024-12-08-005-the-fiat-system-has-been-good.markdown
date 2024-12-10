@@ -37,10 +37,18 @@ hidden:   true
   <div class="_citation">
    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
   </div>
-  <p>And, yes, this was accerelated by money, but all the money in the world would have just sat there and not have done anything if these scientist were bold-faced enslaved (below I will say more about this) and not excited at the possibility of discovery and getting the credit. So, again, Fiat has balanced some things well for the sake of money making.</p>
+  <p>And, yes, this was accerelated by money, but all the money in the world would have just sat there and not have done anything if these scientist were,</p>
+   <ul>
+    <li>Enslaved (below I will say more about this)</li>
+    <li>Not excited at the possibility of discovery</li>
+    <li>Getting credit.</li>
+   </ul>
+  <p>So, again, Fiat has balanced some things well for the sake of making money.</p>
+  <p>The one thing to note is that,</p>
   <div class="_citation">
    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
   </div>
+  <p>One thing to note here is that the drive to make money sometimes results in doing the right thing. It worked only because it was not the increased communication was not a direct competition.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
