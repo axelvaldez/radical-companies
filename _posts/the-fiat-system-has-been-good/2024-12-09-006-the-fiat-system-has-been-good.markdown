@@ -34,6 +34,33 @@ hidden:   true
      </tr>
     </table>
    </div>
+ <p>In <span class="_paradigm">Radical</span> speak, a company is people who come together to build something bigger than themselves.</p>
+ <p>The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together. We distinguish companies from businesses.</p>
+ <p>Businesses are dictatorships with their only reason-for-being is to make money for a few people called the owners.</li>
+  <div class='_center'>
+   <table class='_h2table'>
+    <tr>
+     <th>Meaning and Belonging</th>
+     <td>
+      <p>These are important things to people, finding meaning in what they do and belonging to a community that helps them.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Decentralization & Transparency</th>
+     <td>
+      <p>Decentralization and transparency specify a range, they are vectors. You can be move towards decentralization and transparency depending on the choices you make and decision you take.</p>
+     </td>
+    </tr>
+    <tr>
+     <th>Experimentation</th>
+     <td>
+      <p>Be explicit about what you expect (<em>e.g.</em>, tomato paste with 50% acidity) and then experiment. If your results match your expectations, call it an innovation and celebrate. Otherwise, learn from it.</p>
+     </td>
+    </tr>
+   </table>
+  </div>
+  </ul>
+ <p>This Foundation is what what make a Radical Company.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
