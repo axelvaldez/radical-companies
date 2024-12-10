@@ -38,7 +38,7 @@ hidden:   true
    <li>Cortisone</li>
    <li>Contraceptives</li>
    <li>Vitamins</li>
-   <li>Radiation Therapyella and Chemoterapy</li>
+   <li>Radiation Therapy and Chemotherapy</li>
   </ul>
  <p>Of course, this all happened during a time of wars.  &ldquo;<em>Immunization was officially adopted by the (British) army before the outbreak of WWI.</em>&rdquo;</p>
 
