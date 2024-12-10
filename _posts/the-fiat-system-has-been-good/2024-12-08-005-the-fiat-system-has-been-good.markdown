@@ -50,7 +50,7 @@ hidden:   true
  <div class="_citation">
   <p>&ldquo;<em>The battlefields of the 20th century stimulated the progress of surgery and taught the surgeon innumerable lessons, which were subsequently applied in civilian practice.</em>&rdquo;</p>
  <div>
-
+XXXXXX
 <h1>Just A Few</h1>
  <div class="_citation">
   <p>In 1901 in the United Kingdom, for instance, the life expectancy at birth &hellip; was 48 years for males and 51.6 years for females &hellip; in the 1980s the life expectancy had reached 71.4 years for males and 77.2 years for females. By the 21st century &hellip; attention was focused on morbidity rather than mortality&hellip;</p>
