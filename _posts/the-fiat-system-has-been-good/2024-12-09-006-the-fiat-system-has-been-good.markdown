@@ -50,8 +50,7 @@ hidden:   true
     </tr>
    </table>
   </div>
-  </ul>
- <p>This Foundation is what what make a Radical Company.</p>
+ <p>This Foundation is what what make a company Radical.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
