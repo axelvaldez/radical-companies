@@ -19,7 +19,7 @@ hidden:   true
 <h1>Summary so Far</h1>
  <ul>
   <li><strong>Fiat Has Been Good.</strong> Mostly for the people looking to make money. But making money is just one aspect of what we are all about. Many others do not like to have to slave and fight to stay on the survival treadmill.</li>
-  <li><strong>Climate Change.</strong> This only one aspect of the ills that we have brought to our Earth. Water scarcity, deforestation, pollution, and others ills are juwst as harmfull.</li>
+  <li><strong>Climate Change.</strong> This only one aspect of the ills that we have brought to our Earth. Water privatization, deforestation, pollution, are just as harmfull to us.</li>
 
 <h1>Money</h1>
 
