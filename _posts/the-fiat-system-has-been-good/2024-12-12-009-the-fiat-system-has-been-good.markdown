@@ -18,7 +18,7 @@ hidden:   true
 
 <h1>Summary so Far</h1>
  <ul>
-  <li><strong>Fiat Has Been Good.</strong> Mostly for the people looking to make money. But making money is just one aspect of what we are all about. Many others do not like to fight to stay on the survival treadmill as a slave to it.</li>
+  <li><strong>Fiat Has Been Good.</strong> Mostly for the people looking to make money. But making money is just one aspect of what we are all about. Many others do not like to have to fight to stay on the survival treadmill as a slave to it.</li>
   <li><strong>Climate Change.</strong> This only one aspect of what we are doing to our Earth. Deforestation,pollution, and others ills that we are bringing</li>
 
 <h1>Money
