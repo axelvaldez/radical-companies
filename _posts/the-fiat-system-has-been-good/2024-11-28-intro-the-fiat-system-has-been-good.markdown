@@ -21,7 +21,7 @@ image:    "icon-fiat-has-been-good.svg"
   <p>But, hey, lets talk about it because we could be leaving money on the table.</p>
 
 <h1>Money</h1>
-  <p>But money is not the priority, people are: people&rsquo;s lives are.</p>
+  <p>But money is not the priority, people&rsquo;s lives are.</p>
    <div class="_citation" >
     <p>&ldquo;People are starvingp and I feel bad for them,&rdquo; so what are you doing about it?</p>
     <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo; so what are you doing about it?</p>
