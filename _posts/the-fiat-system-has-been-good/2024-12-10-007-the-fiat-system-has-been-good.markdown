@@ -29,7 +29,7 @@ hidden:   true
 <h1>Slavery Illegal</h1>
  <p>Then Europe made slavery illegal and eventually it stopped.</p>
  <p>But not in the US. The US fought a war instead between the old-fashioned slaver States and the new-fashioned slaver States. The new-factioned States may not even have been aware that it was slavery, but it was a step forward to the Fiat system, so efective that it has lasted to this day and will lastlonger, perhaps forever.</p>
- <p>The war came about because the Northern States and the Southern States were yelling at each other. The Northern Stats even called it <em>freedom</em> instead of <em>New, Improved Slavery</em>. Improved beause it applied to Africans <em>>and</em> Europeans. You were a slave to your survival and that survival came in the form of low wages.</p>
+ <p>The war came about because the Northern States and the Southern States were yelling at each other. The Northern Stats even called it <em>freedom</em> instead of <em>New, Improved Slavery</em>. Improved beause it applied to Africans <em>and</em> Europeans. You were a slave to your survival and that survival came in the form of low wages.</p>
  <p>And that is why I refer to jobs as slavery.</p>
  <p>Instead of slavery to one owner, you were made slave to your survival and Fiat owners &lsquo;helped&rsquo; by offering a job. Fiat did not care, so long as money accumulation happened.</p>
  <p>The employees themselves could try get rich, but they had to bring the owners of <em>capital</em> into the deal. It was another form of getting richer, this time through <em>entrepreneurs</em>.</p>
