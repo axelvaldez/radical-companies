@@ -26,7 +26,7 @@ hidden:   true
    <li>Think of the roads to you job. Those are public goods, provided for your taxes, through State and Federal goverments.</li>
    <li>Think of your taxes and how they create public goods, like roads and schools, and cities and accumulations of people everywhere, in the cities.</li>
   </ul>
- <p>They are the benefits of the system we have put in place. Of course, some people fall outside of it due to their goverment and the laws that these goverments enact. Look at the shithole countries in Africa.</p>
+ <p>They are the benefits of the system we have put in place. Of course, some people fall outside of it due to their goverment and the laws that these goverments enact. Just look at the shithole countries in Africa.</p>
  
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
