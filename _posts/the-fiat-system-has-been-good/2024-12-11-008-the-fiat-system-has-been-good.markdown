@@ -25,9 +25,8 @@ hidden:   true
    <li>Think of transportation. everybody has a car, well almost everybody. Then homeless do not, or else they would not be homeless.</li>
    <li>Think of the roads to you job. Those are public goods, provided for your taxes, through State and Federal goverments.</li>
    <lip>Think of your taxes and how they create public goods, like roads and schools, and cities and accumulations of people everywhere, in the cities.</li>
-   <li>They are the benefits of the system we have put in place for people&rsquo;s benefits. Of course, the people that fall outside of it are due to their goverment and the laws that these goverments enact. Look at the shithole countries in Africa.</li>
   </ul>
- <p>
+ <p>They are the benefits of the system we have put in place for people&rsquo;s benefits. Of course, the people that fall outside of it are due to their goverment and the laws that these goverments enact. Look at the shithole countries in Africa.</p>
  
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
