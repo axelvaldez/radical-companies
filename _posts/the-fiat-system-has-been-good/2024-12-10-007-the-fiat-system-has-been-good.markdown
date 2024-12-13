@@ -24,12 +24,14 @@ hidden:   true
    <li>The Spanish tried to keep families together.</li>
    <li>The North American did not care for villages of families, they sold each individual enslaved person to the highest bidder.</li>
   </ul>
- <p>Regardless, families and villages were broken over time in all territories. The women and children were sold individually.</p>
- <p>Then Europe made slavery illegal and eventually it stopped. But not the US.</p>
- <p>The US fought a war instead between the old-fashioned slaver States, mostly in the in South, and the new-fashioned States, mostly in the North.</p>
- <p>You see the Northen States had figured a new form of slavery, but could not explain it to the slaver States. They called it freedom; they should have called it New Slavery. And it applied to Africans and Europeans: you were a slave to your survival. And that survival came oin the form of very low wages.</p>
- <p>And that is why I refer to jobs are slavery. Instead of slavery to one owener, slavery to ybour survival. Capitalism and Fiat did not care so long as money accumulation happened. We are slaves to our survival and the people that, temporarly offer jobs.</p>
- <p>Then owners keep getting richer and the employess keep changing jobs. The employess themselves ould get rich, but they had to bring the owners of <em>capital</em> into the deal, so they could get richer, too.</p>
+ <p>Regardless, families and villages were broken over time in all territories as women and children were sold individually.</p>
+
+<h1>Slavery Illigal/h1>
+ <p>Then Europe made slavery illegal and eventually it stopped.</p>
+ <p>But not the US. The US fought a war instead between the old-fashioned slaver States and the new-fashioned States; they were not evn aware that it was slavery, anf it was a step forward acoording to the Fiat system. so efective that it has lasted to this day.</p>
+ <p>then war came about because the Northern States and the Southern States were yelling t each other. The Northern Stats even called it <em>freedom</em> instead of <em>New, Improved Slavery</em>. Improved beause it applied to Africans <em>>and</em> Europeans:. You were a slave to your survival and that survival came in the form of very low wages.</p>
+ <p>And that is why I refer to jobs are slavery. Instead of slavery to one owner, you were made slave to your survival. Fiat did not care, so long as money accumulation happened. We are slaves to our survival and the people had jobs to offer.</p>
+ <p>The employess themselves could get rich, but they had to bring the owners of <em>capital</em> into the deal.It was another form of getting richer, this time through <em>entrepreneurs</em>.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
