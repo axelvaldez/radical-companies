@@ -16,7 +16,7 @@ hidden:   true
  <p>But now the Fiat system, with a single focus on money, is too simplistic. Now that we access to the world. we can handle more.</p>
  <p><_emp>And that is where the Radical system comes in.</_emp></p>
 
-<h1>summary, so Far</h1>
+<h1>Summary, so Far</h1>
  <p></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
