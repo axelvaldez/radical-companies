@@ -18,7 +18,10 @@ hidden:   true
 
 <h1>Summary so Far</h1>
  <ul>
-  <li>
+  <li><strong>Fiat Has Been Good.</strong> For some, mostly the people looking to make money, but people are more very complex, and making money is just one aspect of what they are all about. For one we do not like to fight to stay on the survival treadmill, we do not like to be slaves to it.</li>
+  <li><strong>Climate Change.</strong> This only one sapect of what we are doing to our</li>
+
+<h1>Money
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
