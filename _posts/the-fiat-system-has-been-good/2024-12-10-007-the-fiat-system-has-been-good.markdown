@@ -26,7 +26,7 @@ hidden:   true
   </ul>
  <p>Regardless, families and villages were broken over time in all territories as women and children were sold individually.</p>
 
-<h1>Slavery Illigal/h1>
+<h1>Slavery Illegal</h1>
  <p>Then Europe made slavery illegal and eventually it stopped.</p>
  <p>But not the US. The US fought a war instead between the old-fashioned slaver States and the new-fashioned States; they were not evn aware that it was slavery, anf it was a step forward acoording to the Fiat system. so efective that it has lasted to this day.</p>
  <p>then war came about because the Northern States and the Southern States were yelling t each other. The Northern Stats even called it <em>freedom</em> instead of <em>New, Improved Slavery</em>. Improved beause it applied to Africans <em>>and</em> Europeans:. You were a slave to your survival and that survival came in the form of very low wages.</p>
