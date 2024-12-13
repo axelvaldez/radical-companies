@@ -32,7 +32,7 @@ hidden:   true
  <p>The war came about because the Northern States and the Southern States were yelling at each other. The Northern States even called it <em>freedom</em> instead of <em>New, Improved Slavery</em>. Improved beause it applied to Africans <em>and</em> Europeans. You were a slave to your survival and that survival came in the form of low wages.</p>
  <p>And that is why I refer to jobs as slavery. Youn stop working, and evuatually you will be in the poor house.</p>
  <p>Instead of slavery to one owner, you were made slave to your survival and Fiat owners &lsquo;helped&rsquo; by offering a job. Fiat did not care, so long as money accumulation happened no matter howmany owners held it.</p>
- <p>The employees themselves could tried to get rich. But they had to bring the owners of <em>owners of capital</em> into the deal. It was new form of getting richer, this time through <em>entrepreneurs</em>.</p>
+ <p>The employees themselves could tried to get rich, and many have. But they had to bring the <em>people with capital</em> into the deal. It was new form of getting richer, this time through <em>entrepreneurs</em>.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
