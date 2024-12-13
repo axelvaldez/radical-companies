@@ -692,7 +692,8 @@ h4 {
   background-color:#dedede;
 }
 
-/* */
-._size {
-  font-size:25px;
+/**/
+#_standout {
+  font-family: 'courier new';
+  font-size: 20px;
 }
