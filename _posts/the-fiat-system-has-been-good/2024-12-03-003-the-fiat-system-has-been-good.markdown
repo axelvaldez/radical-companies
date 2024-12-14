@@ -17,8 +17,8 @@ hidden:   true
  <p>To be sure it first showed its good aspects, like the GI Bill, education for people who fought in the war. But then those same people created the destructive form of capitalism. They didn&rsquo;t all get in a room and decided to do evil, but they created the destructive aspects of capitalism nontheless.</p>
  <p>They had plenty of oil and other minerals as assets. They created a system to make money/capital/power <em>for individuals</em> by exploiting those assets and people, as part f captalism.</p>
  <p>That is why, I believe, that WWWII was the beginning of the end. The elements were there, we just combined them and industrialized them in our suit-coat-and-tie uniforms.</p>
- <p>Fifteen years later, we got rid of the uniforms, but we continued to rob our space g ourselves outcapsule, our earth. But now we are forced to notice.</p>
- <p>Nobody knows what follows, except that it will be corrective. I say that because it is what we do: we dig  us into a hole and then we dig ourselves out.</p>
+ <p>Fifteen years later, we got rid of the uniforms, but we continued to rob our space g ourselves, and our Earth. Now we are forced to notice.</p>
+ <p>Nobody knows what follows. That is what we do: we dig us into a hole and then we dig ourselves out.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
