@@ -45,11 +45,6 @@ hidden:   true
   </ul>
  <p>Surgery also avanced aswell as anesthiology.</p>
  <p>And, of course, (money making) wars also played a role.</p>
-<!--
- <div class="_citation">
-  <p>&ldquo;<em>Immunization was officially adopted by the (British) army before the outbreak of WWI.</em>&rdquo;</p>
- </div>
- -->
  <div class="_citation">
   <p>&ldquo;<em>The battlefields of the 20th century stimulated the progress of surgery and taught the surgeon innumerable lessons, which were subsequently applied in civilian practice.</em>&rdquo;</p>
  </div>
