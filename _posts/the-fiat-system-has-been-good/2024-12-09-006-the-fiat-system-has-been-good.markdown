@@ -39,7 +39,7 @@ hidden:   true
     <tr>
      <th>Decentralization & Transparency</th>
      <td>
-      <p>Decentralization and transparency specify a range, they are vectors. You can be move towards or away decentralization and transparency depending on the choices you make and decision you take.</p>
+      <p>Decentralization and transparency specify ranges; they are vectors. You can be move towards or away decentralization and transparency depending on the choices you make and decision you take.</p>
      </td>
     </tr>
     <tr>
