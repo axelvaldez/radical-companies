@@ -14,7 +14,7 @@ hidden:   true
 <h1></h1>
  <p>To be clear. the Fiat system has been good to humanity because it is made it possible to progress, it has given us time to grow and mature. And it has not been till the 21<sup>th</sup> with the Internet, etc., that we get to try something significantly new and different.</p>
  <p>The Fiat system, with a single focus on money, is too simplistic. Now that we are together as a world (minus dictatorships), we can handle more than a single focus.</p>
- <p id="_standout">And that is where the simple Radical system fits in&hellip;</p>
+ <p id="_standout">And that is where the very simple Radical system fits in&hellip;</p>
 
 <h1>Summary so Far</h1>
  <ul>
