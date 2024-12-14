@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Here is what I meant by &lsquo;slavery.&rsquo; previously.</p>
+ <p>Here is what I meant by &lsquo;slavery&rsquo;.</p>
 
 <h1></h1>
  <p>In the not-so-good old days, slavery was temporary to a harvest, to a person, to a village. I won over you as the enemy, you are now my slave for the next harves. Then came America, and I mean Anglo and Spanish America, and slavery was industrialized. It was forever and your kids were going to be ensalaved, too.</p>
