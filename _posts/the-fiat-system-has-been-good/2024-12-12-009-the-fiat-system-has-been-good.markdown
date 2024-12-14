@@ -34,14 +34,3 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/12/009-the-fiat-system-has-been-good">Next &gt;</a>
  </span>
 </div>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    athors.
-    Description.
-    <a class="_uparrow" href="#bm01"><img src="/"></a>
-   </p>
-  </li>
- </ul>

@@ -21,13 +21,13 @@ hidden:   true
  <p>Notives that I didnt mentioned the Portuguese. They made money too by importing slaves from West Africa. But here is the differenve,</p>
   <ul>
    <li>The Portuguese in Brazil kept villages together.</li>
-   <li>The Spanish tried to keep families together.</li>
-   <li>The North American did not care for villages of families, they sold each individual enslaved person to the highest bidder.</li>
+   <li>The Spanish kept families together.</li>
+   <li>The US did not care for villages of families, they sold each enslaved person to the highest bidder.</li>
   </ul>
  <p>Regardless, families and villages were broken over time in all territories as women and children were sold individually.</p>
 
 <h1>Slavery Illegal</h1>
- <p>Then Europe made slavery illegal and eventually it stopped.</p>
+ <p>Then Europe made slavery illegal and eventually it stopped, kind of.</p>
  <p>But not in the US. The US fought a war instead between the old-fashioned slaver States and the new-fashioned slaver States. The new-fashioned States did not see it as slavery, and it was a step forward to the Fiat system. So efective that it has lasted to this day and will last longer, perhaps forever.</p>
  <p>The war came about because the Northern States and the Southern States were yelling at each other. The Northern States even called it <em>freedom</em> instead of <em>New, Improved Slavery</em>. Improved beause it applied to Africans <em>and</em> Europeans. You were a slave to your survival and that survival came in the form of low wages.</p>
  <p>And that is why I refer to jobs as slavery. Youn stop working, and evuatually you will be in the poor house.</p>
