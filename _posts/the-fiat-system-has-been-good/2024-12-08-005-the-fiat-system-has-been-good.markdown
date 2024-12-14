@@ -67,10 +67,10 @@ hidden:   true
    </ul>
   <p>So, again, Fiat has balanced some things well for the sake of making money and itmhas resulted in well-being. Of course, this is is not the only or best way to do it.</p>
   <p>The one thing to note is that,</p>
-  <div class="_citation">
-   <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
-  </div>
-  <p>One thing to note here is that the drive to make money sometimes results in doing the right thing. In this case it worked only because &ldquo;increased communication&rdquo; was not in direct competition and was not taking money out of their pockets.</p>
+   <div class="_citation">
+    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
+   </div>
+  <p>One thing to note here is that the drive to make money sometimes results in doing the right thing. In this case it worked only because &ldquo;increased communication&rdquo; was not in direct competition and was not taking money out of the Fiat bosses&rsquo;s pockets.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
