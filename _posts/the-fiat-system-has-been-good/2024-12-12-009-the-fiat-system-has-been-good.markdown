@@ -20,6 +20,9 @@ s
  <ul>
   <li><strong>Fiat Has Been Good.</strong> Mostly for the people looking to make money. But making money is just one aspect of what we are all about. Many others do not like to have to slave and fight to stay on the survival treadmill.</li>
   <li><strong>Climate Change.</strong> This only one aspect of the ills that we have brought to our Earth. Water privatization, deforestation, pollution, and many others are just as harmful.</li>
+  <li><strong>The Tshirt Said It.</strong> The Divine rights of Kings and Queens were once inescapable, but now they are not.</li>
+  <li><strong>Climate Change.</strong>
+ </ul>
 
 <h1>Money</h1>
 
