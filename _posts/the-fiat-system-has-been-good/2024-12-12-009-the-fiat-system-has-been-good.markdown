@@ -23,8 +23,6 @@ hidden:   true
   <li><strong>The Tshirt Said It.</strong> The Divine rights of Kings and Queens were once inescapable, but now they are not.</li>
  </ul>
 
-<h1>Money</h1>
-
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
   <a href="https://radicalcompanies.com/2024/12/10/007-the-fiat-system-has-been-good">&lt; Previous</a>
