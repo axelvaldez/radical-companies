@@ -33,7 +33,7 @@ hidden:   true
     <tr>
      <th>Meaning and Belonging</th>
      <td>
-      <p>These are important things to <em>people</em>, finding meaning in what they do and belonging to a community that helps them.</p>
+      <p>These are important things to <em>people</em>. Finding meaning in what they do; belonging to a community that helps them.</p>
      </td>
     </tr>
     <tr>
