@@ -7,7 +7,7 @@ image:    "icon-e01-and-then.svg"
 ---
 
 <div style="display: none;">
- <p>BREAKING: First child be born in space. Every country around the world claims her as a native.</p>
+ <p>BREAKING: First child born in space. Every country around the world claims her as a native.</p>
 </div>
 
 <h1>&nbsp;</h1>
