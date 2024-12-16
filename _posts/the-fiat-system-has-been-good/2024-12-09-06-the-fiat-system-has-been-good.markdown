@@ -12,11 +12,10 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>As I said before, Fiat improves people&rsquo;s lot, though it does not care how many people. Is the moneys upply growing.</p>
- <p>The problem with that is that there is no guarantee that it will end up on the right path. What has kept Fiat, more or less, in the better path has been people protests and near-revolutions.</p>
- <p>That is very expensive in people&rsquo;s lives.</p>
- <p>Worse, we lean, and often fall, towards fascist dictatorhips. Some times for many years, as is the case in Russia, North Korea, Cuba, and other places. It happens because capitalist system says nothinh so long as some people are making money.</p>
- <p>It used to be intelligent brutes with guns, now it is smart people with guns. Think of Stalin and Fidel Castro, old face, versus new face Trump and Musk.</p>
+ <p>As I said before, Fiat improves people&rsquo;s lot, though it does not care how many people. Thenonly goal ofthe system: it the moneys supply growing. The problem with that is that there is no guarantee that it will end up on the right path. What has kept Fiat, more or less, in the better path has been people struggle,protests, and near-revolutions.</p>
+
+<h1>Dictatorships</h1>
+ <p>We lean, and often fall, towards fascist dictatorhips. Some times for many years, as is the case in Russia, North Korea, Cuba, and other places. It happens because capitalist system says nothinh so long as some people are making money and amassing more power. Thism used to be brutes with guns, now it is smart people with guns. Think of Stalin and Fidel Castro, old face, versus new face Trump and Musk.</p>
  <p>The way we are going about with Radical is to 1) go down to the roots of the system we want, and 2) provide a very simple foundation,
   <div class='_center'>
    <img
@@ -24,10 +23,9 @@ hidden:   true
     width='50%'
     alt=''>
   </div>
-
- <p>In <span class="_paradigm">Radical</span> speak, a company is people who come together to build something bigger than themselves. Businesses are dictatorships with their only reason-for-being is to make money for a few people called the owners.</p>
- <p>The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together. We distinguish companies from businesses.</p>
- 
+ <p>In Radical speak, a <em>company</em> is people who come together to build something bigger than themselves. <em>Businesses</em> are dictatorships with their only reason-for-being is to make money for the owners.</p>
+ <p>The word &ldquo;company&rdquo; comes from the Latin <em>co-</em>, meaning &lsquo;together&rsquo;, and <em>pan-</em>, meaning &lsquo;bread.&rsquo; In other words, people who break bread together.</p>
+ <p>We distinguish companies from businesses.</p>
   <div class='_center'>
    <table class='_h2table'>
     <tr>
@@ -50,7 +48,7 @@ hidden:   true
     </tr>
    </table>
   </div>
- <p>This Foundation is what what make a company Radical. There may be other foundations over time.</p>
+ <p>This Foundation is what what make a company <em>Radical</em>. There may be other foundations over time.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
