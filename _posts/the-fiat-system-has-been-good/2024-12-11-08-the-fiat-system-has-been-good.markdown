@@ -18,7 +18,7 @@ hidden:   true
  <p>Besides medicine, Fiat has brought progress to people&rsquo;s comfort.</p>
   <ul id="_standout">
    <li>Think of the comfort of living in a house. Worm in the winter with heating and cool with A/C in the summer. Never mind the homeless, they lost the will to fight for the well being of their families or they are in some sinful state, like drunkness or drug addiction.</li>
-   <li>Think of the job that exists today thanks to independant actors wanting to do better. You can &lsquo;blame&rsquo; that on the Fiat system, too. And employees made good money, too.</li>
+   <li>Think of the job that exists today thanks to independant actors wanting to do better. You can &lsquo;blame&rsquo; that on the Fiat system, too.</li>
    <li>Think of AI. It is not going to replace people, any more than the mills replaced people. People just have to get re-trained, that is all.</li>
    <li>Think of all the home conviences for the benefits of house wives. Microwave ovens, expreso machines, intelligent ovens, and even intelligent toasters. Even men are befiting from these! And people that do not have those, want them and will work multiple jobs orgominto debt to get them.</li>
    <li>Think of debt, conveniently accumulated in credit cards. Buy now and paylater. Sure it may take a while but eventually you will pay. <em>And you will!</em> You will be forced to pay because upright citizens always do so. And if you are not an upridght citizen you may end uo is some of trouble, one that you brought on yourself.</li>
