@@ -50,6 +50,6 @@ image:    "icon-fiat-has-been-good.svg"
  </span>
 -->
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/12/01/002-the-fiat-system-has-been-good">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/01/02-the-fiat-system-has-been-good">Next &gt;</a>
  </span>
 </div>
