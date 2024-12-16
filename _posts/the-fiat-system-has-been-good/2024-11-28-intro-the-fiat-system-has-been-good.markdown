@@ -17,7 +17,7 @@ image:    "icon-fiat-has-been-good.svg"
  <h1>Climate Change</h1>
   <p>Then there is Climate Change, <span id="_standout">which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</span></p>
   <p>Or it could be urgently true because Climat Change is already here.</p>
-  <p>But, hey, lets talk about it because we could be leaving money on the table.</p>
+  <p id="_standout">But, hey, lets talk about it because we could be leaving money on the table.</p>
 
 <h1>Money</h1>
  <p>But money is not the priority, people&rsquo;s lives are.</p>
