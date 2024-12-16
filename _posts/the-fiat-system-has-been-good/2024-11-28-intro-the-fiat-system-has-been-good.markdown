@@ -20,34 +20,26 @@ image:    "icon-fiat-has-been-good.svg"
   <p>But, hey, lets talk about it because we could be leaving money on the table.</p>
 
 <h1>Money</h1>
-  <p>But money is not the priority, people&rsquo;s lives are.</p>
+ <p>But money is not the priority, people&rsquo;s lives are.</p>
    <div class="_citation" >
-    <p>&ldquo;People are starvingp and I feel bad for them,&rdquo; so what are you doing about it?</p>
-    <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo; so what are you doing about it?</p>
+    <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo;. So what are you doing about it?</p>
    </div>
-
  <p>It is not,</p>
   <ul>
-   <li>Acts of charity (thank you).</li>
-   <li>Food for the homeless (thank you).</li>
+   <li>Acts of charity (thank you) and food for the homeless (thank you).</li>
    <li>Participation at a demonstration and maybe getting arrested (thank you).</li>
    <li>A revolution with blood on the streets (you failed, Karl Marx).</li>
   </ul>
- <p>These all features of the <em>Fiat system,</em></p>
+ <p>These are all features of the <em>Fiat system,</em></p>
   <ul>
-   <li>Charity, like serving food, has never solved anything, but it feels good to the providers.</li>
+   <li>Charity has never solved anything, but it feels good to the givers.</li>
    <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
    <li>Revolutions change the people at the top who want their own flavor of a centralized Fiat system.</li>
   </ul> 
- <p>We need at least one alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Lives with an impat, purpose, and missions. Once we changed a few minds, people will be on their way of fixing Climate Change and many of the other bad things that Fiat brings with it. And they will do it from the very roots of the alterntive system and not from fungible Fiat laws decided by sausage making politics.</p>
- <p>We call the one we came up with Radical, starting from the roots.</p>
+ <p>We need at least one alternative systems with different roots. Roots that start with making <em>people&rsquo;s lives</em> the top priority. Lives with an impact, purpose, and missions. Once we changed a few minds, people will be on their way of fixing Climate Change and many of the other bad things that Fiat brings with it. And they will do it from the very roots of the alternative system and not from fungible Fiat laws decided by politics.</p>
+ <p>We call the system we came up with <em>Radical</em> as in starting from the roots.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
-<!--
- <span style="float:left; ">
-  <a href=""https://radicalcompanies.com/">&lt; Previous</a>
- </span>
--->
  <span style="float:right;  ">
   <a href="https://radicalcompanies.com/2024/12/01/02-the-fiat-system-has-been-good">Next &gt;</a>
  </span>
