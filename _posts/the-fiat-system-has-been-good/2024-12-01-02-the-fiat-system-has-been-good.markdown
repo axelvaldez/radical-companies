@@ -34,7 +34,7 @@ hidden:   true
     </li>
    </ul>
    <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital is needed for that.</p>
-   <p>In the good old days when the Dutch formalized capitalism shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century even individuals can issue capital as a loan. And like all loans they would have a fixed gain, whereas <em>shares</em> are a &lsquo;forever gain.&rsquo;</p>
+   <p>In the good old days shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century even individuals can issue capital as a loan. And like all loans they would have a fixed gain, whereas <em>shares</em> are a &lsquo;forever gain.&rsquo;</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
