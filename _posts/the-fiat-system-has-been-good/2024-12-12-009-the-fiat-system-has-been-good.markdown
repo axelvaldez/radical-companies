@@ -1,7 +1,6 @@
 ---
 layout:   post
-title:    "The Fiat System Has Been Good - 09"
-subtitle: "TEMPLATE"
+title:    "The Fiat System Has Been Good - 09 of 12"
 authors:  "Matt Perez"
 image:    "icon-fiat-has-been-good.svg"
 hidden:   true
