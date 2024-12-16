@@ -12,8 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Let me enumerate Fiat's many advances in medicine in the 20<sup>th</sup> century.</p>
- <p>Just to mentioned a few,</p>
+ <p>Let me mention a few Fiat&rsquo;s advances in medicine,</p>
   <ul>
    <li>Thypus</li>
    <li>Malaria, Yellow Fever, Leprosy, and other tropical diseases</li>
@@ -41,14 +40,14 @@ hidden:   true
    <li>Gangrene</li>
    <li>X-Rays</li>
    <li>Radiation Therapy and Chemotherapy</li>
-   <li>Organ Tansplantations</li>
+   <li>Organ Tansplants</li>
+   <li>Surgery also avanced aswell as anesthiology.</li>
   </ul>
- <p>Surgery also avanced aswell as anesthiology.</p>
- <p>And, of course, (money making) wars also played a role.</p>
+ <p>And, of course, (money making) wars also played a role,</p>
  <div class="_citation">
   <p>&ldquo;<em>The battlefields of the 20th century stimulated the progress of surgery and taught the surgeon innumerable lessons, which were subsequently applied in civilian practice.</em>&rdquo;</p>
  </div>
- <p>I need to say that I have nothing against <em>money making</em>. But I want alternatives to the Fiat system that makes employees into co-owners so they can <em>benefit</em> from any and all transactions, measured by their contributions and not by a benevolent boss.</p>
+ <p>I have nothing against <em>money making</em>. But I want alternatives to the Fiat system that makes employees into co-owners so they can <em>benefit</em> from any and all transactions. The measure is their contributions and not by a benevolent boss or the capital they bring to the table.</p>
 
 <h1>Just A Few</h1>
  <div class="_citation">
@@ -59,13 +58,13 @@ hidden:   true
   <div class="_citation">
    <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
   </div>
-  <p>And, yes, this was accerelated by money, but all the money in the world would have just sat there and not have done anything if these scientist were,</p>
+  <p>And, yes, this was accerelated by money, but all the money in the world would have just sat there and not have done anything if these scientist were, for example,</p>
    <ul>
-    <li>Enslaved (below I will say more about this)</li>
+    <li>Enslaved</li>
     <li>Not excited at the possibility of discovery</li>
-    <li>Getting credit.</li>
+    <li>Not getting credit.</li>
    </ul>
-  <p>So, again, Fiat has balanced some things well for the sake of making money and itmhas resulted in well-being. Of course, this is is not the only or best way to do it.</p>
+  <p>So, again, Fiat has balanced some things well for the sake of making money which of course, this is is not the only or best way to do it.</p>
   <p>The one thing to note is that,</p>
    <div class="_citation">
     <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
