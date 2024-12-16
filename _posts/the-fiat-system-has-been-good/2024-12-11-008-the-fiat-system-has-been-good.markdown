@@ -15,7 +15,7 @@ hidden:   true
  <p>Back to the progress instigated be Feat.</p>
 
 <h1></h1>
- <p>Besides medicine, Feat has brought progress to people&rsquo;s comfort.</p>
+ <p>Besides medicine, Fiat has brought progress to people&rsquo;s comfort.</p>
   <ul>
    <li>Think of the comfort of living in a house. Worm in the winter, heating, and cool, A/C in the summer. Never mind the homeless, they lost the will to fight for the well being of their families or they are in some sinful state, like drunkness or drug addiction.</li>
    <li>Think of the job that exists today thanks to independant actors wanting to do better by their families. You can &lsquo;blame&rsquo; that on the Fiat system, too. ATher employees made good money, too. Some of them aretrying to get start ups going right now and nothin is standing their way.</li>
