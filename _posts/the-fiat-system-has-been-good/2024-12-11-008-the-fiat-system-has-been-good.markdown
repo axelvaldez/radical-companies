@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Back to the progress instigated be Feat.</p>
+ <p>Back to the progress instigated be Fiat.</p>
 
 <h1></h1>
  <p>Besides medicine, Fiat has brought progress to people&rsquo;s comfort.</p>
