@@ -18,7 +18,7 @@ hidden:   true
  <p>I&rsquo;ve been in then US since 1969 and a US citizen since 1976. I was born in Cuba and grew up there. I left a few days before my 15<sup>th</sup> birthday. I left for Spain at the behest of my parents.</p>
 
 <h1>My Father</h1>
- <p>My father very influential my life and I think he would have been a fan of the Radical system. Let me give an example,</p>
+ <p>My father was very influential my life and I think he would have been a fan of the Radical system. Let me give two of the things he said,</p>
   <p class="_citation">
    <p>In Cuba there are these things called <em>cuarterías</em>. A collecton of single rooms for poor people. At one time the one near our house was for sale. A group of friends of his invited him to joined them, but he turned them down. They wanted to make money, and he had the capital. He simply did not want to many money by exploiting poor people.</p>
   <p>
