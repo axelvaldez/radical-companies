@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1>Too Complicated</h1>
- <p>The Fiat system has gotten too complicated for any one person to understand. In fact, that is one of its defensive moves: A complex systems separates highly educated people into specialties, and then they waste their time arguing with each other.</p>
+ <p>The Fiat system has gotten too complicated for any one person to understand and that is one of its defensive moves: A complex systems separates highly educated people into specialties, and then they waste their time arguing with each other.</p>
  <p>It does not stop the future, but it slows it down. And time is money.</p>
 
 <h1>A Note</h1>
