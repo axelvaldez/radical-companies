@@ -80,15 +80,3 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/09/006-the-fiat-system-has-been-good">Next &gt;</a>
  </span>
 </div>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    William Robson, Douglass Guthrie.
-    History of Medicine.
-    <a href="/https://www.britannica.com/science/history-of-medicine/Medicine-in-the-20th-century">https://www.britannica.com/science/history-of-medicine/Medicine-in-the-20th-century</a>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
