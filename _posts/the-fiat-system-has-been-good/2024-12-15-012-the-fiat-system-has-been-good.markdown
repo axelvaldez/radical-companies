@@ -19,14 +19,14 @@ hidden:   true
 
 <h1>My Father</h1>
  <p>My father was very influential my life and I think he would have been a fan of the Radical system. Let me give two of the things he said,</p>
-  <p class="_citation">
+  <div class="_citation">
    <p>In Cuba there are these things called <em>cuarterías</em>. A collecton of single rooms for poor people. At one time the one near our house was for sale and a group of my father&rsquo;s friends invited him to joined them to invest, but he turned them down. They wanted to make money, and altough he had the capital, he simply did not want to make money by exploiting poor people.</p>
-  <p>
+  </div>
  <p>This was a couple of years before the birth of the Castro dictatoship, so it did not quite matter.</p>
  <p>On another occassion he said,
-  <p clss="_citation">
+  <div clss="_citation">
    <p>If you see a white man and black man sleeping on one bed, the bed belongs to the black man.</p>
-  </p>
+  </div>
  <p>And thos in a society that did not have the aparthaid system that we had then in the US.</p>
  <p>These coomments have stuck with me (did I say that I am 73 years old?).</p>
 
