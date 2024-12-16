@@ -18,7 +18,7 @@ hidden:   true
   <ul>
    <li>Make them confortable, just enough to be entertained</li>
    <li>Rise their wages, just enough to buy entertainment.</li>
-  <ul>
+  </ul>
  <p>Some people used their higher wages to accumulate money and eventually the middle class came into existance.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
