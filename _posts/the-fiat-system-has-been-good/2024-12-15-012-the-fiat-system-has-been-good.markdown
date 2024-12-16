@@ -20,7 +20,7 @@ hidden:   true
 <h1>My Father</h1>
  <p>My father was very influential my life and I think he would have been a fan of the Radical system. Let me give two of the things he said,</p>
   <p class="_citation">
-   <p>In Cuba there are these things called <em>cuarterías</em>. A collecton of single rooms for poor people. At one time the one near our house was for sale. A group of friends of his invited him to joined them, but he turned them down. They wanted to make money, and he had the capital. He simply did not want to many money by exploiting poor people.</p>
+   <p>In Cuba there are these things called <em>cuarterías</em>. A collecton of single rooms for poor people. At one time the one near our house was for sale and a group of my father&rsquo;s friends invited him to joined them to invest, but he turned them down. They wanted to make money, and altough he had the capital, he simply did not want to make money by exploiting poor people.</p>
   <p>
  <p>This was a couple of years before the birth of the Castro dictatoship, so it did not quite matter.</p>
  <p>On another occassion he said,
