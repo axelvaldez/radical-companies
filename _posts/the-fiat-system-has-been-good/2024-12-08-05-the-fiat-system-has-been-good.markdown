@@ -41,7 +41,7 @@ hidden:   true
    <li>X-Rays</li>
    <li>Radiation Therapy and Chemotherapy</li>
    <li>Organ Tansplants</li>
-   <li>Surgery also avanced aswell as anesthiology.</li>
+   <li>Surgery also avanced as well as anesthiology.</li>
   </ul>
  <p>And, of course, (money making) wars also played a role,</p>
  <div class="_citation">
