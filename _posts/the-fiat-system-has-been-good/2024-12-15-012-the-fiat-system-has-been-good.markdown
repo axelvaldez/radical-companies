@@ -39,13 +39,12 @@ hidden:   true
  </span>
 </div>
 
-<h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    athors.
-    Description.
-    <a class="_uparrow" href="#bm01"><img src="/"></a>
+    authors.
+    description.
+    <a class="_uparrow" href="#bm01"><img src="SRC">HREF</a>
    </p>
   </li>
  </ul>
