@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>I do n0ot have anything else to say about the Fiat system, except that it has been good for mankind to have a goal, simplistic as it has been. It produce progress and it has improved the well-being of many more people than a handful of Europeans Kings and Queens.</p>
+ <p>I do not have anything else to say about the Fiat system, except that it has been good for mankind to have a goal, simplistic as the Fiat system&rsquo;s goal has been. It generated progress and it has improved the well-being of many more people than a handful of Europeans Kings and Queens.</p>
 
 <h1>Nice to Meet You</h1>>
  <p>I&rsquo;ve been in then US since 1969 and a US citizen since 1976. I was born in Cuba and grew up there. I left a few days before my 15<sup>th</sup> birthday. I left for Spain at the behest of my parents.</p>
