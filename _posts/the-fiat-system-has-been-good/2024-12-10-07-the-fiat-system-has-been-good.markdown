@@ -12,15 +12,14 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Here is what I meant by &lsquo;slavery&rsquo;.</p>
+ <p>Here is what I meant by &lsquo;slavery&rsquo;&hellip;</p>
 
 <h1></h1>
- <p>In the not-so-good old days, slavery was temporary to a harvest, to a person, to a village. I won over you as my enemy, so you are now my slave for the next harvest.</p>
- <p>Then came Anglo and Spanish Americas, and slavery was industrialized. It was forever. The kids were going to be enslaved, too.</p>
- <p>These slaves were imported from West Africa.</p>
- <p>The English, the Spanish, and the Portuguese made a lot of money this way,</p>
+ <p>In the not-so-good old days, slavery was temporary to a harvest, to a person, to a village. &ldquo;I won over you as my enemy, so you are now my slave for the next harvest.&ldquo;</p>
+ <p>Then came (Anglo, Spanish, and Portugues) Americas, and slavery was industrialized. It was generationally. you know, <span id="_standout">like cows</span></p>
+ <p>And these were not the result of won battles, these slaves were imported from West Africa. The English, the Spanish, and the Portuguese made a lot of money this way,</p>
   <ul>
-   <li>The Portuguese in Brazil kept (or tried to) villages together.</li>
+   <li>The Portuguese in Brazil kept villages together, more or less.</li>
    <li>The Spanish kept families together, more or less.</li>
    <li>The US did not care for villages of families, they sold each enslaved person to the highest bidder.</li>
   </ul>
