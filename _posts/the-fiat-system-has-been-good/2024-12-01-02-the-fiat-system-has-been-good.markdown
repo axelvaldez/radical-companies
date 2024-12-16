@@ -1,6 +1,7 @@
 ---
 layout:   post
-title:    "The Fiat System Has Been Good - 02 of 12"
+title:    "The Fiat System Has Been Good - 02
+"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-fiat-has-been-good.svg"
@@ -40,7 +41,7 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/11/28/intro-the-fiat-system-has-been-good">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/03/003-the-fiat-system-has-been-good">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/03/03-the-fiat-system-has-been-good">Next &gt;</a>
  </span>
 </div>
 
