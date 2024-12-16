@@ -15,8 +15,8 @@ hidden:   true
  <p>The Fiat system has gotten too complicated for any one person to understand and that is one of its defensive moves. Complex systems separate people into specialties, and then they waste time arguing with each other. It does not stop the future, but it slows it down, and time is money.</p>
 
 <h1>A Note</h1>
- <p>The Fiat system, like all systems, is implemented by people. They do not have to get in a room to plan the whole thin, but the system keeps them acting as one to preserve itself.</p>
- <p>Hats off to William the Conqueror, who may have given genesis to the system.</p>
+ <p>The Fiat system, like all systems, is implemented by people. They do not have to get in a room to plan the whole thing, but the system keeps them acting as one to preserve itself.</p>
+ <p>Hats off to William the Conqueror, who gave genesis to the system.</p>
  <p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
