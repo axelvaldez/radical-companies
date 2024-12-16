@@ -12,7 +12,7 @@ image:    "icon-fiat-has-been-good.svg"
 
 <h1>Fiat Has Been Good</h1>
  <p>The Fiat system has been good for more than a few people. It created the middle class, improved education, medicine, and science, etc. Poeple in the US, the European Union, Australia, and New Zealand live better.</p>
- <p>But people of European descent live best. Not all of them, mind you, but that it generally the case.</p>
+ <p>TTht is to say, people of European descent live best. Not all of them, mind you, but that it generally the case.</p>
  <p>Society has moved forward, in the &lsquo;developed&rsquo; countries.</p>
 
  <h1>Climate Change</h1>
