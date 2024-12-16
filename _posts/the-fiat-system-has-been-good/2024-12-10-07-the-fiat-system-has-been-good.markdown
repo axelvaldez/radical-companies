@@ -19,8 +19,8 @@ hidden:   true
  <p>Then came (Anglo, Spanish, and Portugues) Americas, and slavery was industrialized. It was generationally. you know, <span id="_standout">like cows</span></p>
  <p>And these were not the result of won battles, these slaves were imported from West Africa. The English, the Spanish, and the Portuguese made a lot of money this way,</p>
   <ul>
-   <li>The Portuguese in Brazil kept villages together, more or less.</li>
-   <li>The Spanish kept families together, more or less.</li>
+   <li>The Portuguese in Brazil kept villages together.</li>
+   <li>The Spanish kept families together.</li>
    <li>The US did not care for villages of families, they sold each enslaved person to the highest bidder.</li>
   </ul>
  <p>Regardless, families and villages were broken over time in all territories. For example, women and children were sold individually.</p>
