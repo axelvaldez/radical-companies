@@ -26,7 +26,6 @@ hidden:   true
  </span>
 </div>
 
-
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">

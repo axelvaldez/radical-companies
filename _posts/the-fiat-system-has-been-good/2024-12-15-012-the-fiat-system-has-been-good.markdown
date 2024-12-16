@@ -39,12 +39,14 @@ hidden:   true
  </span>
 </div>
 
+<h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    authors.
+    author.
     description.
-    <a class="_uparrow" href="#bm01"><img src="SRC">HREF</a>
+    <a href="https://www.livescience.com/archaeology/5000-year-old-artifacts-in-iraq-hint-at-mysterious-collapse-of-one-of-the-worlds-1st-governments?utm_source=Live+Audience&utm_campaign=8caf16c576-nature-briefing-daily-20241209&utm_medium=email&utm_term=0_b27a691814-8caf16c576-51193576" target='_blank'>5,000-year-old artifacts in Iraq hint at mysterious collapse of one of the world's 1st governments.</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
