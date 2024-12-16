@@ -12,10 +12,14 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Fiat started a long tie ago, possibly around 5,000 years ago.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>Then somebody, probably in US, figured out that the demonstrations and the bribes to &lsquo;friendly&rsquo; politicians were costing way too much. BTW, I am guessing the US because people in Europe were fightinh a war, but people in the US just wanted more money.</p>
- <p>In any case, it was fixed with entertainment. Make them confortable, just enough to be entertained and raise their wages, just enough to buy entertainment.</p>
- <p>Some people used their new wages to accumulate money and eventually the middle class came into existance.</p>
+ <p>Fiat started a long time ago, possibly around 5,000 years ago.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Then somebody, probably in US, figured out that the demonstrations and the bribes to &lsquo;friendly&rsquo; politicians were costing way too much.</p>
+ <p>In any case, entertainment wasthe way to fix it,</p>
+  <ul>
+   <li>Make them confortable, just enough to be entertained</li>
+   <li>Rise their wages, just enough to buy entertainment.</li>
+  <ul>
+ <p>Some people used their higher wages to accumulate money and eventually the middle class came into existance.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
