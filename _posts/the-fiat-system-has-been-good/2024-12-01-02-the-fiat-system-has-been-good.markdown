@@ -24,17 +24,12 @@ hidden:   true
   <div class="_citation">
    <p>We live in <em>the Fiat system</em>. Its power seems inescapable. But so did the divine rights of Kings <em>and Queens</em>.</p>
   </div>
-  <p>Fiat is <em>bigger</em> than capitalism. Actually Fiat is <em>orthogonal</em> to capitalism.</p>
+  <p>Fiat is <em>bigger</em> than capitalism. Actually, Fiat is <em>orthogonal</em> to capitalism.</p>
    <ul>
-    <li>
-     Fiat is bigger than capitalism in the sense that Fiat has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves to a lot of unecessaray criticism.
-    </li>
-    <li>
-     Capitalism is created a community of people with money to spare that are willing to risk as capital for somebody else. As such it is a good thing.
-    </li>
+    <li>Fiat is bigger than capitalism in the sense that Fiat has absorved capitalism, but capitalism is not an integral part of it. People who confused the two open themselves up to a lot of unecessaray criticism.</li>
+    <li>Capitalism is created a community of people with money to spare that are willing to risk as capital for somebody else. As such it is a good thing.</li>
    </ul>
-   <p>There are businesses that need to hire skilled people and buy equipment and materials before they can ship their first product. Capital is needed for that.</p>
-   <p>In the good old days shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century even individuals can issue capital as a loan. And like all loans they would have a fixed gain, whereas <em>shares</em> are a &lsquo;forever gain.&rsquo;</p>
+   <p>There are businesses that need to buy equipment and materials before they can ship their first product. Capital is needed for that. In the good old days shares of the businesses were given in exchange for capital. In the 21<sup>th</sup> Century individuals can issue capital as a loan. And like all loans they would have a fixed gain, whereas <em>shares</em> are a &lsquo;forever gain.&rsquo;</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
