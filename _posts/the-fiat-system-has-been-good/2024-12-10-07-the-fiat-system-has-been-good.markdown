@@ -25,7 +25,7 @@ hidden:   true
   </ul>
  <p>Regardless, families and villages were broken over time in all territories. For example, women and children were sold individually.</p>
 
-<h1>Slavery Made Illegal</h1>
+<h1>Slavery Made Illegal </h1>
  <p>Then Europe made slavery illegal and eventually at least the exporting business stopped, but in the US a war was fought instead between the old-fashioned slaver States and the new-fashioned slaver States.</p>
  <p>The new-fashioned States did not see it as slavery. The new system was so efective that it has lasted to this day, and will probably last longer.</p>
  <p>The war came about because the Northern States and the Southern States were not listening to each other, they were yelling at each other.</p>
