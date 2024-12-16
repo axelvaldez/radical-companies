@@ -70,7 +70,7 @@ hidden:   true
    <div class="_citation">
     <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
    </div>
-  <p>One thing to note here is that the drive to make money sometimes results in doing the right thing. In this case it worked only because &ldquo;increased communication&rdquo; was not in direct competition with cpitqlism and was not taking money out of the Fiat bosses&rsquo;s pockets.</p>
+  <p>One thing to note here is that the drive to make money sometimes results in doing the right thing. In this case it worked only because &ldquo;increased communication&rdquo; was not in direct competition with cpital and was not taking money out of the Fiat bosses&rsquo;s pockets.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
