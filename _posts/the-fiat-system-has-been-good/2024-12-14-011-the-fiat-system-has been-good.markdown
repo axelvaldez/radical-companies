@@ -12,8 +12,7 @@ hidden:   true
 </div>
 
 <h1>Too Complicated</h1>
- <p>The Fiat system has gotten too complicated for any one person to understand and that is one of its defensive moves: A complex systems separates highly educated people into specialties, and then they waste their time arguing with each other.</p>
- <p>It does not stop the future, but it slows it down. And time is money.</p>
+ <p>The Fiat system has gotten too complicated for any one person to understand and that is one of its defensive moves. Complex systems separate people into specialties, and then they waste time arguing with each other. It does not stop the future, but it slows it down, and time is money.</p>
 
 <h1>A Note</h1>
  <p>The Fiat system, like all systems, is implemented by people. They do not have to get in a room to plan the whole thin, but the system keeps them acting as one to preserve itself.</p>
