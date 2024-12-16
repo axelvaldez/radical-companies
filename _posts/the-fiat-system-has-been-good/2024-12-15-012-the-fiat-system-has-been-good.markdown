@@ -22,12 +22,12 @@ hidden:   true
   <div class="_citation">
    <p>In Cuba there are these things called <em>cuarterías</em>. A collecton of single rooms for poor people. At one time the one near our house was for sale and a group of my father&rsquo;s friends invited him to joined them to invest, but he turned them down. They wanted to make money, and altough he had the capital, he simply did not want to make money by exploiting poor people.</p>
   </div>
- <p>This was a couple of years before the birth of the Castro dictatoship, so it did not quite matter.</p>
+ <p>This was a couple of years before the birth of the Castro dictatorship, so it did not quite matter.</p>
  <p>On another occassion he said,
   <div class="_citation">
    <p>If you see a white man and black man sleeping on one bed, the bed belongs to the black man.</p>
   </div>
- <p>And thos in a society that did not have the aparthaid system that we had then in the US.</p>
+ <p>And those in a society that did not have the aparthaid system that the US had then.</p>
  <p>These coomments have stuck with me (did I say that I am 73 years old?).</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
