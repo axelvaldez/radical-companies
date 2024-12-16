@@ -14,7 +14,7 @@ hidden:   true
 <h1></h1>
  <p>Fiat started a long time ago, possibly around 5,000 years ago.<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Then somebody, probably in US, figured out that the demonstrations and the bribes to &lsquo;friendly&rsquo; politicians were costing way too much.</p>
- <p>In any case, entertainment wasthe way to fix it,</p>
+ <p>In any case, entertainment fixed it,</p>
   <ul>
    <li>Make them confortable, just enough to be entertained</li>
    <li>Rise their wages, just enough to buy entertainment.</li>
