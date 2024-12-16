@@ -24,7 +24,7 @@ hidden:   true
   </div>
  <p>This was a couple of years before the birth of the Castro dictatoship, so it did not quite matter.</p>
  <p>On another occassion he said,
-  <div clss="_citation">
+  <div class="_citation">
    <p>If you see a white man and black man sleeping on one bed, the bed belongs to the black man.</p>
   </div>
  <p>And thos in a society that did not have the aparthaid system that we had then in the US.</p>
