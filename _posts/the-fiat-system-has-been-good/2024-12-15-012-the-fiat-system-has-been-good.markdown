@@ -27,7 +27,7 @@ hidden:   true
   <div class="_citation">
    <p>If you see a white man and black man sleeping on one bed, the bed belongs to the black man.</p>
   </div>
- <p>And those in a society that did not have the aparthaid system that the US had then.</p>
+ <p>And those in a society that did not have the apartheid system that the US had then.</p>
  <p>These coomments have stuck with me (did I say that I am 73 years old?).</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
