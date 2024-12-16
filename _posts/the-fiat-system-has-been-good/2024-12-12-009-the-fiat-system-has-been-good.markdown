@@ -16,7 +16,7 @@ hidden:   true
  <p>The Fiat system, with a single focus on money, is too simplistic. Now that we are together as a world (minus dictatorships), we can handle more than a single focus.</p>
  <p id="_standout">And that is where the very simple Radical system fits in&hellip;</p>
 
-<h1>Summary so Far</h1>
+<h1>Summary (so far)</h1>
  <ul>
   <li><strong>Fiat Has Been Good.</strong> Mostly for the people looking to make money. But making money is just one aspect of what we, people, are all about. Many others do not like to have to slave and fight to stay on the survival treadmill.</li>
   <li><strong>Climate Change.</strong> This is only one aspect of the ills that we have broumde Earth suffer. Water privatization, deforestation, pollution, and many others are just as harmful to the Earth and to us.</li>
