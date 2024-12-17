@@ -13,7 +13,7 @@ image:    "icon-supreme-god-religion.svg"
 <h1></h1>
  <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern. And that is what has made so long lasting.</p>
  <p>Countries and businesses adopted the pattern and it has worked very well for them.</p>
- <p>Bichler and  Nitzan take a much darker view. They write that private armies will take over. They analyzed the data and came out with those conclusions. Problem is that the past is not a prediction of the future. They may be right or they maybe wrong.</p>
+ <p>Bichler and  Nitzan take a much darker view. They write that private armies will take over. This came from data that lead to those conclusions. Problem is that the past is not a prediction of the future. They may be right or they maybe wrong.</p>
  <p></p>
  <p></p>
  <p></p>
