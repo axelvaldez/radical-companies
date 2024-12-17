@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Supreme-God Religions"
+title:    "Supreme-Gods"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-supreme-god-religion.svg"
@@ -13,7 +13,7 @@ image:    "icon-supreme-god-religion.svg"
 <h1></h1>
  <p>The term <em>Supreme-God</em> <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern. And that is what has made so long lasting.</p>
  <p>Countries and businesses adopted the pattern and it has worked very well for them.</p>
- <p>Bichler and  Nitzan take a much darker view. they think that private armies will take over and  They may be right or they maybe wrong.</p>
+ <p>Bichler and  Nitzan take a much darker view. they think that private armies will take over and  They may be right or they maybe wrong. They analyzed the data and came out with those conclusions. Problem is that the past is not a prediction of the future.</p>
  <p></p>
  <p></p>
  <p></p>
