@@ -7,11 +7,11 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- 
+ Supreme-God religions is the worst thing that happen to human culture.
 </div>
 
 <h1></h1>
- <p></p>
+ <p>The Supreme-God moniker comes from Bicchier and Nizzan</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
@@ -19,7 +19,7 @@ image:    "icon-supreme-god-religion.svg"
    <p class="_list-item">
     authors.
     description.
-    <a href="display" target='_blank'>display</a>.
+    <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>

@@ -22,6 +22,9 @@ image:    "icon-template.svg"
 <!-- Endnote URL replace -->
 <h1></h1>
  <a href=[\"\']#en(\d\d)[\"\']><[^>]*>\d&nbsp;<.*/a>
+
+<!-- ENDNOTE Icon -->
+<h1></h1>
  <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>
 
 <!-- RADICAL | FIAT | RAD | rCOIN |  -->
@@ -37,7 +40,7 @@ image:    "icon-template.svg"
  <span class='_paradigm'>rCoin</span>
  <span class='_paradigm'>rLand</span>
  <span class='_paradigm'>rGov</span>
- <!-- Foudation -->
+ <!-- Foundation -->
  <span class='_paradigm'>Meaning</span>
  <span class='_paradigm'>Belonging</span>
  <span class='_paradigm'>Decentralization</span>
