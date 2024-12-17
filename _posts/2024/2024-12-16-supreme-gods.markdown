@@ -7,18 +7,18 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions is the worst thing that could have happened.
+ Supreme-God religions is the worst thing that could have happened. Gods for the forces of nature makes sense but a supreme god is notmrelat4d tomforces of nature: it is the boss.
 </div>
 
 <h1></h1>
- <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern that has lasted for quite a while, to thiosmday, in fact. Countries and businesses adopted the pattern and it has worked very well for them.</p>
+ <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern that has lasted for quite a while, to this mday, in fact. Countries and businesses adopted the pattern and it has worked very well for them.</p>
  <p>This is a very brief review of of their latest paper.</p>
 
 <h1></h1>
- <p>The paper brings up the rise of private armed forces. Bichler and  Nitzan take a dark view of it.</p>
- <p>They write that private armies will keep getting more and more powerful and this will lead to oligarchic states. This is a well researched paper and the data they analyzed certaily point to that conclusion.</p>
- <p>But the past is not a prediction of the future. Otherwise, we would still be vassals. Let&rsquo;s instead take their analysis as a warning.</p>
- <p>My own opinion is that private arm forces have been around forever. Reagan had them, Putin had them. A few politicians, like Trump, may have aspirations of creating a Hitler-like dictatorship, but right now I am not betting on it.</p>
+ <p>Their paper brings up the rise of private armed forces and Bichler and  Nitzan take a dark view of it.</p>
+ <p>They write that private armies will keep getting more and more powerful and this will lead to oligarchic States. This is a well researched paper and the data they analyzed certaily points to that conclusion.</p>
+ <p>But the past is not a prediction of the future. Let&rsquo;s instead take their analysis as a warning.</p>
+ <p>Private armed forces have been around forever. For example, Reagan had them and Putin had them. A few politicians, say, Trump, may have aspirations of creating a Hitler-like dictatorship in the US, but right now I am not betting on it.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
