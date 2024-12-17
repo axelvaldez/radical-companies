@@ -11,7 +11,7 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The <em>Supreme-God</em> moniker comes from Bicchier and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchyical pattern</p>
+ <p>The <em>Supreme-God</em> moniker comes from Bichler and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchyical patter.</p>
  <p></p>
  <p></p>
  <p></p>
@@ -22,7 +22,7 @@ image:    "icon-supreme-god-religion.svg"
   <li id="en01">
    <p class="_list-item">
     Shimshon Bichler, Jonathan Nitzan.
-    Workimg papers on <em>Capital as Power</em>.
+    Working papers from <em>Capital as Power</em>.
     <a href="https://bnarchives.net/id/eprint/830/" target="_blank">https://bnarchives.net/id/eprint/830</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
