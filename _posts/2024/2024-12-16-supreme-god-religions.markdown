@@ -11,7 +11,7 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The <em>Supreme-God</em> moniker comes from Bichler and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchyical pattern, and that is what has made so succesful that it has lasted to these day.</p>
+ <p>The <em>Supreme-God</em> moniker comes from Bichler and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchical pattern, and that is what has made so long lasting.</p>
  <p></p>
  <p></p>
  <p></p>
