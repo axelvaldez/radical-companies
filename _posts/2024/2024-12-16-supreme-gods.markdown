@@ -26,7 +26,7 @@ image:    "icon-supreme-god-religion.svg"
    <p class="_list-item">
     Shimshon Bichler, Jonathan Nitzan.
     Working papers from <em>Capital as Power</em>.
-    <a href="https://bnarchives.net/id/eprint/830/" target="_blank">https://bnarchives.net/id/eprint/830</a>
+    <a href="https://bnarchives.net/id/eprint/830/" target="_blank">https://bnarchives.net/id/eprint/830/</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
