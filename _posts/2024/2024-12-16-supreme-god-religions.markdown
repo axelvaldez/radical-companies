@@ -2,7 +2,7 @@
 layout:   post
 title:    "Supreme-God Religions"
 subtitle: "TEMPLATE"
-authors:  "Matt Perez, Adrian Perez, Jose Leal"
+authors:  "Matt Perez"
 image:    "icon-supreme-god-religion.svg"
 ---
 
@@ -11,7 +11,7 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The Supreme-God moniker comes from Bicchier and Nizzan<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The Supreme-God moniker comes from Bicchier and Nizzan<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>. For one it was a centralization move for another it gave us a pattern for political governance.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
