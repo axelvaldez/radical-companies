@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions are Fiat. Gods for the forces of nature makes sense to a certain extent, but a Supreme God is not related to forces of nature. It is a centralization move.
+ Supreme-God religions are Fiat. Gods for the forces of nature makes sense to a certain extent, but a Supreme God is not related to forces of nature, it is pure move towards centralization.
 </div>
 
 <h1></h1>
