@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions is the worst thing that could have happened. Gods for the forces of nature makes sense but a Supreme God is not related to forces of nature. It is a move to centralize.
+ Supreme-God religions are Fiat. Gods for the forces of nature makes sense to a certain extent, but a Supreme God is not related to forces of nature. It is a centralization move.
 </div>
 
 <h1></h1>
