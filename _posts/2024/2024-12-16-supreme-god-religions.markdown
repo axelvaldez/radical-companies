@@ -11,16 +11,16 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The Supreme-God moniker comes from Bicchier and Nizzan</p>
+ <p>The Supreme-God moniker comes from Bicchier and Nizzan<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    authors.
-    description.
-    <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    Shimshon Bichler, Jonathan Nitzan.
+    Workimg papers on <em>Capital as Power</em>.
+    <a href="https://bnarchives.net/id/eprint/830/" target="_blank">https://bnarchives.net/id/eprint/830</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
