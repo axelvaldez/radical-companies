@@ -11,8 +11,8 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern that has lasted for quite a while, to this day, in fact. Countries and businesses adopted the pattern and it has worked very well for them.</p>
- <p>This is a very brief review of of their latest paper.</p>
+ <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern that has lasted for quite a while. To this day, in fact. Countries and businesses adopted the pattern and it has worked very well for them.</p>
+ <p>This is a very brief review of of Bichler and Nitza latest paper.</p>
 
 <h1></h1>
  <p>Their paper brings up the rise of private armed forces and Bichler and  Nitzan take a dark view of it.</p>
