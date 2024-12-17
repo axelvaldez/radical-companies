@@ -11,7 +11,7 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The <em>Supreme-God</em> moniker comes from Bichler and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchyical patter.</p>
+ <p>The <em>Supreme-God</em> moniker comes from Bichler and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchyical pattern.</p>
  <p></p>
  <p></p>
  <p></p>
