@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions is the worst thing that happen to human culture.
+ Supreme-God religions is the worst thing that happen to people.
 </div>
 
 <h1></h1>
