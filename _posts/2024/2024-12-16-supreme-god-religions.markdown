@@ -7,12 +7,13 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions is the worst thing that happen to people.
+ Supreme-God religions is the worst thing that could have happened.
 </div>
 
 <h1></h1>
- <p>The <em>Supreme-God</em> moniker comes from Bichler and Niztan.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> It was a hierarchical pattern, and that is what has made so long lasting.</p>
- <p></p>
+ <p>The term <em>Supreme-God</em> <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern. And that is what has made so long lasting.</p>
+ <p>Countries and businesses adopted the pattern and it has worked very well for them.</p>
+ <p>Bichler and  Nitzan take a much darker view. they think that private armies will take over and  They may be right or they maybe wrong.</p>
  <p></p>
  <p></p>
  <p></p>
