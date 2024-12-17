@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Supreme-Gods"
+title:    ""
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-supreme-god-religion.svg"
+image:    "icon-.svg"
 ---
 
 <div style='display:none; '>

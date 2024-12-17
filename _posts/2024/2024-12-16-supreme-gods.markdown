@@ -11,13 +11,14 @@ image:    "icon-supreme-god-religion.svg"
 </div>
 
 <h1></h1>
- <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern. And that is what has made them so long lasting. </p>
- <p>Countries and businesses adopted the pattern and it has worked very well for them.</p>
+ <p>The term <em>Supreme-God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical pattern that has lasted for quite a while, to thiosmday, in fact. Countries and businesses adopted the pattern and it has worked very well for them.</p>
+ <p>This is a very brief review of of their latest paper.</p>
 
 <h1></h1>
- <p>Another theme they bring up is that of private armies and paramilitry forces.</p>
- <p>Bichler and  Nitzan take a dark viewb of that. They write that private armies will take over and this will lead to oligarchic states (and with the recent Trump win, this is certainly a fear). This a well researched paper and the data certaily point to those conclusions.</p>
- <p>But that the past is not a prediction of the future. Let&rsquo;s take it as a warning of what we should not let happen.</p>
+ <p>The paper brings up the rise of private armed forces. Bichler and  Nitzan take a dark view of it.</p>
+ <p>They write that private armies will keep getting more and more powerful and this will lead to oligarchic states. This is a well researched paper and the data they analyzed certaily point to that conclusion.</p>
+ <p>But the past is not a prediction of the future. Otherwise, we would still be vassals. Let&rsquo;s instead take their analysis as a warning.</p>
+ <p>My own opinion is that private arm forces have been around forever. Reagan had them, Putin had them. A few politicians, like Trump, may have aspirations of creating a Hitler-like dictatorship, but right now I am not betting on it.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
