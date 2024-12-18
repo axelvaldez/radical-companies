@@ -13,37 +13,53 @@ hidden:   true
 
 <h1></h1>
  <p>Let me mention a few Fiat&rsquo;s advances in medicine,</p>
-  <ul>
-   <li>Thypus</li>
-   <li>Malaria, Yellow Fever, Leprosy, and other tropical diseases</li>
-   <li>Mumps</li>
-   <li>Measles</li>
-   <li>Rubella</li>
-   <li>Polio</li>
-   <li>Chemotherapy</li>
-   <li>Penicillin</li>
-   <li>Vaccines for smallpox and others</li>
-   <li>Skin test for tuberculosis</li>
-   <li>Typhoid vaccine</li>
-   <li>BCG Vaccines for Tuberculosis</li>
-   <li>Influenza</li>
-   <li>DNA</li>
-   <li>Diabitis</li>
-   <li>Rheumatoid Arthritis</li>
-   <li>Multiple Sclerosis</li>
-   <li>AIDS</li>
-   <li>Epinephrene</li>
-   <li>Insulin and Diabitis</li>
-   <li>Cortisone</li>
-   <li>Contraceptives</li>
-   <li>Vitamins</li>
-   <li>Gangrene</li>
-   <li>X-Rays</li>
-   <li>Radiation Therapy and Chemotherapy</li>
-   <li>Organ Tansplants</li>
-   <li>Surgery also avanced as well as anesthiology.</li>
-  </ul>
- <p>And, of course, (money making) wars also played a role,</p>
+  <div class='_center'>
+   <table>
+    <tr>
+     <td>
+      <ul>
+       <li>Thypus</li>
+       <li>Malaria, Yellow Fever, Leprosy, and other tropical diseases</li>
+       <li>Mumps</li>
+       <li>Measles</li>
+       <li>Rubella</li>
+       <li>Polio</li>
+       <li>Chemotherapy</li>
+       <li>Penicillin</li>
+       <li>Vaccines for smallpox and others</li>
+      </ul>
+     </td>
+     <td>
+      <ul>
+       <li>Skin test for tuberculosis</li>
+       <li>Typhoid vaccine</li>
+       <li>BCG Vaccines for Tuberculosis</li>
+       <li>Influenza</li>
+       <li>DNA</li>
+       <li>Diabitis</li>
+       <li>Rheumatoid Arthritis</li>
+       <li>Multiple Sclerosis</li>
+       <li>AIDS</li>
+      </ul>
+     </td>
+     <td>
+      <ul>
+       <li>Epinephrene</li>
+       <li>Insulin and Diabitis</li>
+       <li>Cortisone</li>
+       <li>Contraceptives</li>
+       <li>Vitamins</li>
+       <li>Gangrene</li>
+       <li>X-Rays</li>
+       <li>Radiation Therapy and Chemotherapy</li>
+       <li>Organ Tansplants</li>
+       <li>Surgery also avanced as well as anesthiology.</li>
+      </ul>
+     </td>
+    </tr>
+   </table>
+  </div>
+ <p>And, of course, wars also played a role,</p>
  <div class="_citation">
   <p>&ldquo;<em>The battlefields of the 20th century stimulated the progress of surgery and taught the surgeon innumerable lessons, which were subsequently applied in civilian practice.</em>&rdquo;</p>
  </div>
