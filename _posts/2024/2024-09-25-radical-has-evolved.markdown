@@ -7,7 +7,7 @@ image:    "icon-radical-has-evolved.svg"
 ---
 
 <div style='display:none; '>
- Why did I deserved so much more money from the sale of the company than others, when everybody in the company had contributed to its growth?
+ Why did I deserved so much more money from the sale of the company, when everybody in the company had contributed to its growth?
 </div>
 
 <h1>Community</h1>
