@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Fiat System Has Been Good - 02 of 12
+title:    "The Fiat System Has Been Good (2/12)
 "
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
