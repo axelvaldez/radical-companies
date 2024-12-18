@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions are Fiat in that they are hierarchical. A Supreme God is a pure centralization move.
+ Supreme-God religions are Fiat in that they are hierarchical. Installing a Supreme God is a pure centralization move.
 </div>
 
 <h1></h1>
