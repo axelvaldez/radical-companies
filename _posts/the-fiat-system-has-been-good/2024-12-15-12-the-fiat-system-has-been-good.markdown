@@ -34,7 +34,7 @@ hidden:   true
  </span>
  <span style="float:right; ">
   <a href="https://radicalcompanies.com/2024/11/28/intro-the-fiat-system-has-been-good">Back to the Beginning &gt;</a>
- </span> 
+ </span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
