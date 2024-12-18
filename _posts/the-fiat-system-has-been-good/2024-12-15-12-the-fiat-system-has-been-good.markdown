@@ -26,7 +26,7 @@ hidden:   true
   <div class="_citation">
    <p>If there is a white man and black man sleeping on one bed, the bed belongs to the black man.</p>
   </div>
- <p>Cuba was a society that did not have the apartheid system that the US had bck then.</p>
+ <p>Cuba was a society that did not have the apartheid system that the US had back then.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
