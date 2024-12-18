@@ -7,7 +7,7 @@ image:    "icon-fiat-has-been-good.svg"
 ---
 
 <div style="display:none; ">
- <p>It is now ime for an alternative.</p>
+ <p>It is now time for an alternative.</p>
 </div>
 
 <h1>Fiat Has Been Good</h1>
