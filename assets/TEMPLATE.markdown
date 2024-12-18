@@ -63,7 +63,8 @@ image:    "icon-template.svg"
 <h1></h1>
  <span class='_quotespan'>xxx</span>
 
-<!-- proto-image -->
+<!-- Proto-image -->
+<h1></h1>
   <div class='_center'>
    <img
     src='/assets/img/pic-leo-rayman-grow-and-avoid-green-washing.svg'
@@ -71,7 +72,7 @@ image:    "icon-template.svg"
     alt=''>
   </div>
 
-<!-- proto-table -->
+<!-- Proto-table -->
  <div class='_center'>
    <table class='_foundation'>
     <tr>
