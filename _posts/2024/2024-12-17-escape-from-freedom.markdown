@@ -7,7 +7,8 @@ image:    "icon-escape-from-freedom.svg"
 ---
 
 <div style='display:none; '>
- 
+ <p>A book by Eric Fromm that explores the psychological and social dynamics of freedom, as well as its paradoxical consequences in modern societies.</p>
+ <p>The book was published in 1941, the reminder came fro Pim de Morre, Corporate Rebels.</p>
 </div>
 
 <h1></h1>
