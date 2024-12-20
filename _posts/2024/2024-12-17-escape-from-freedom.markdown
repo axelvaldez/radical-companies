@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "TBD"
+title:    "Escape from Freedom"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
