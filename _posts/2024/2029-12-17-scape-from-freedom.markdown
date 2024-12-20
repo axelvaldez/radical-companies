@@ -3,7 +3,7 @@ layout:   post
 title:    "TBD"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-.svg"
+image:    "icon-escape-from-freedom.svg"
 ---
 
 <div style='display:none; '>
