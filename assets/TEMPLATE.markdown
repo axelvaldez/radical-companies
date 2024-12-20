@@ -13,8 +13,6 @@ image:    "icon-template.svg"
 <h1>&nbsp;</h1>
  <p>xxx</p>
 
-{% include related.html %}
-
 <!-- Endnotes URL -->
 <h1></h1>
  <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
