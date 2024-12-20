@@ -15,7 +15,7 @@ image:    "icon-supreme-god-religion.svg"
  <p>This is a very brief review of of Bichler and Nitza latest paper.</p>
 
 <h1></h1>
- <p>Their paper brings up the rise of private armed forces and they take a dark view of it.</p>
+ <p>Their paper brings up the rise of private armed forces and they take a dark view of it, as we should all do.</p>
  <p>They write that private armies will keep getting more and more powerful and this will lead to oligarchic States. This is a well researched paper and the data they analyzed certaily points to that conclusion.</p>
  <p>But the past is not a prediction of the future. Let&rsquo;s instead take their analysis as a warning.</p>
  <p>Private armed forces have been around forever. For example, Reagan had them and Putin had them. A few politicians, say, Trump, may have aspirations of creating a Hitler-like dictatorship in the US, but right now I am not betting on it.</p>
