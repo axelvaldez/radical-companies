@@ -4,6 +4,7 @@ title:    "Escape from Freedom: Foreword"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
+hidden:   true
 ---
 
 <div style='display:none; '>
