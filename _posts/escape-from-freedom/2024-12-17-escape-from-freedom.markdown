@@ -7,7 +7,7 @@ image:    "icon-escape-from-freedom.svg"
 ---
 
 <div style='display:none; '>
- <p>A book by Eric Fromm that explores the psychological and social dynamics of freedom. The book was published in 1941, the reminder came from Pim de Morre, Corporate Rebels.</p>
+ <p>A book by Eric Fromm that explores the psychological and social dynamics of freedom. The book was published in 1941. Pim de Morre, Corporate Rebels, reminded me of this nook which I read when I was 18-19 years old (I am 73 now).</p>
 </div>
 
 <h1></h1>

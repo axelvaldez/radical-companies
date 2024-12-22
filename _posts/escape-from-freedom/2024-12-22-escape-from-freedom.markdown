@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>A book by Eric Fromm that explores the psychological and social dynamics of freedom. The book was published in 1941. Pim de Morre, Corporate Rebels, reminded of this nook which I read when I was 18-19 years old (I am 73 now).</p>
+ <p>A book by Eric Fromm that explores the psychological and social dynamics of freedom. The book was published in 1941. Pim de Morre, Corporate Rebels, reminded me of this nook which I read when I was 18-19 years old (I am 73 now).</p>
 </div>
 
 <div class="_citation">
