@@ -29,8 +29,10 @@ hidden:   true
   <p>[By] the increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
 <p>In case you do not know, I have no repects for Jesus or Mohammed; they are stories from the Iron Age that cannot relied on, except as a means to convert Iron Age people to a particular religion; the prophets are a bit more reliable; Socrates is very more reliable and has been studied to death.</p>
-<p></p>
-<p></p>
+
+<h1></h1>
+<p>What Inget for the Intro and the first chapter is that we cannot stand to be alone, we have to be in community with our believes or with people.</p>
+<p>Being in community, by ourselves, with our believes is tricky because it can <em>easily</em> lead to our spouting nonsense.</p>
 <p></p>
 <p></p> 
 <p>
