@@ -17,7 +17,7 @@ image:    "icon-escape-from-freedom.svg"
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom: Foreword">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
 
