@@ -26,7 +26,7 @@ hidden:   true
  <span style="float:left; ">
   <a href="https://radicalcompanies.com/2024/12/17/esape-from-freedom.markdown">&lt; Previous</a>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/22/esape-from-freedom-foreword.markdown">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/22/esape-from-freedom.markdown">Next &gt;</a>
  </span>
 </div>
 

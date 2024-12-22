@@ -17,7 +17,7 @@ image:    "icon-escape-from-freedom.svg"
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
-  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom: Foreword">Next &gt;</a>
  </span>
 </div>
 
@@ -35,7 +35,7 @@ image:    "icon-escape-from-freedom.svg"
    <p class="_list-item">
     Eric Fromm.
     The book explores the psychological and social dynamics of freedom, as well as its paradoxical consequences in modern societies.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom: Foreword</a>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
