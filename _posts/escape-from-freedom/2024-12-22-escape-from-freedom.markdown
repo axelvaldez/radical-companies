@@ -24,10 +24,10 @@ hidden:   true
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/17/escape-from-freedom.markdown">&lt; Previous</a>
+  <a href="https://radicalcompanies.com/2024/12/17/escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom.markdown">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
 
