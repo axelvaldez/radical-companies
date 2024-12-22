@@ -22,6 +22,14 @@ hidden:   true
   <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; he worships power, money, the sovereign state, the nation.</p>
  </div>
 
+<div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
+ <span style="float:left; ">
+  <a href="https://radicalcompanies.com/2024/12/17/esape-from-freedom.markdown">&lt; Previous</a>
+ <span style="float:right; ">
+  <a href="https://radicalcompanies.com/2024/12/22/esape-from-freedom-foreword.markdown">Next &gt;</a>
+ </span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
