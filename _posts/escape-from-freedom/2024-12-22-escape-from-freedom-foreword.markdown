@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>The majority of men have not yet acquired the maturity to be independent, to be rational, to be objective.</p>
+ <p>A book by Eric Fromm that explores the psychological and social dynamics of freedom. The book was published in 1941. Pim de Morre, Corporate Rebels, reminbded of tis book which i had read 1969-1970 nwhen I was 18-19 years old (I am 73 now).</p>
 </div>
 
 <div class="_citation">
