@@ -7,11 +7,11 @@ image:    "icon-escape-from-freedom.svg"
 ---
 
 <div style='display:none; '>
- <p>The makjority of men have not yet acquired the maturity to be independent, to be rational, to be objective.</p>
+ <p>The majority of men have not yet acquired the maturity to be independent, to be rational, to be objective.</p>
 </div>
 
 <div class="_citation">
- <p>Tjhe majlority of man have yet acquiredf the maturirity to be independent, to be rational, to be objective.</p>
+ <p>The majority of man have not yet acquiredf the maturity to be independent, to be rational, to be objective.</p>
 </div>
 
 <h1></h1>
