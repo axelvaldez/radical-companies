@@ -19,7 +19,7 @@ hidden:   true
  <p>This is so because the Fiat impulse of treating people without power like children. Religion is a big part of the process and why we include it in the Fiat system</p>
  <br>
  <div class="_citation">
-  <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; he worships power, money, the sovereign state, the nation.</p>
+  <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.</p>
  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
