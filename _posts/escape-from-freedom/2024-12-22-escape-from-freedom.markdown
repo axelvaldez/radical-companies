@@ -23,12 +23,12 @@ hidden:   true
  </div>
 <h1>Idol Worship</h1>
 <div class="_citation">
-  <p>&hellip; he pays lip service to the teachings of the great spiritual leaders of the human race, those of Buddha, the prophets, Socrates, Jeusus, Mohammed&mdash;he has transformed these teachings into a jungle of superestition and idol-worship.</p>
+  <p>&hellip; he pays lip service to the teachings of the great spiritual leaders of the human race, those of Buddha, the prophets, Socrates, Jesus, Mohammed&mdash;he has transformed these teachings into a jungle of superestition and idol-worship.</p>
   <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   <p>(Emphasis added)</p>
   <p>[By] the increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
-<p></p>
+<p>In case you do not know, I have no repects for Jesus or Mohammed; they are stories from the Iron Age that cannot relied on, except as a means to convert Iron Age people to a particular religion; the prophets are a bit more reliable; Socrates is very more reliable and has been studied to death.</p>
 <p></p>
 <p></p>
 <p></p>
