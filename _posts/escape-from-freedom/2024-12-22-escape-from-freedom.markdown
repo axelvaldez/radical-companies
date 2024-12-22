@@ -32,10 +32,7 @@ hidden:   true
 
 <h1></h1>
 <p>What Inget for the Intro and the first chapter is that we cannot stand to be alone, we have to be in community with our believes or with people.</p>
-<p>Being in community, by ourselves, with our believes is tricky because it can <em>easily</em> lead to our spouting nonsense.</p>
-<p></p>
-<p></p> 
-<p>
+<p>Being in community, by ourselves, with our believes is tricky because it can <em>easily</em> lead to our spouting nonsense. However, it can lead to its developement from a believe to a thesis.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
