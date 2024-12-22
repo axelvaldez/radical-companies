@@ -21,6 +21,19 @@ hidden:   true
  <div class="_citation">
   <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.</p>
  </div>
+<h1>Idol Worship</h1>
+<div class="_citation">
+  <p>&hellip; he pays lip service to them teachings of the great spiritual leaders of the human race, those of Buddha, the prophets, Socrates, Jeusus, Mohammed&mdash;he has transformed these teachings into a jungleof superwstition and idol-worship.</p>
+  <p>zhzow can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness.</p>
+  <p>(Emphasis added)</p>
+  <p>[By] the increasing aareness of the most essential fact of our social existence, an awareness suffcient to prevent jus from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
+  <p></p> 
+ </div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
