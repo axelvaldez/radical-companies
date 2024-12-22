@@ -11,13 +11,14 @@ image:    "icon-escape-from-freedom.svg"
 </div>
 
 <div class="_citation">
- <p>The majority of man have not yet acquiredf the maturity to be independent, to be rational, to be objective.</p>
+ <p>The majority of man have not yet acquiredf the maturity to be independent, to be rational, to be objective.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1></h1>
- <p>This is so because the Fiat impulse of treating people like little kids. religion is a big part of it. That is why we have to include religion in the Fiat system</p>
+ <p>This is so because the Fiat impulse of treating people without power like children. Religion is a big part of ithqt process and why we include religion in the Fiat system</p>
+ <br>
  <div class="_citation">
-  <p>Man represents the irrational passions of destriuctiveness, hate, envevy, revenge; he worships power, money, the sovereign statt, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; he worships power, money, the sovereign state, the nation.</p>
  </div>
 
 <h1 class="_section">ENDNOTES</h1>
