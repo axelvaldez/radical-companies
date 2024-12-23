@@ -35,7 +35,7 @@ hidden:   true
  </div>
 
  <div class="_citation">
-  <p>partly by individual conditions, but essentially by <em>social conditions</em>. (<span style="font-name:courier new" >emphasis added</span>)</p>
+  <p>&hellip; essentially by <em>social conditions</em>. (<span style="font-name:courier new" >emphasis added</span>)</p>
  </div>
 
 <h1></h1>
