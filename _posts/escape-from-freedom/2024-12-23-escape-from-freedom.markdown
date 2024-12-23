@@ -27,7 +27,7 @@ hidden:   true
  </div>
 <p>And,</p>
  <div class="_citation">
-  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of and of beeing rooted somewhere.</p>
+  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of beeing rooted somewhere.</p>
  </div>
 
  <div class="_citation">
