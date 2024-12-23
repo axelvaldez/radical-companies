@@ -46,7 +46,7 @@ hidden:   true
  </div>
 <br>
  <div class="_citation">
-  <p>&There is only one possible, productive solution  for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
+  <p>There is only one possible, productive solution  for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
  </div>
 
 <h1></h1>
