@@ -41,7 +41,7 @@ hidden:   true
  </div>
 
  <div class="_citation">
-  &hellip; man&rsquo;s biolgical weaknesses is the condition of human culture.
+  &hellip; man&rsquo;s biological weaknesses is the condition of human culture.
  </div>
 
 <h1></h1>
