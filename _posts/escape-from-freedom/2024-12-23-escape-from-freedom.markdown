@@ -19,7 +19,7 @@ hidden:   true
  <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> &hellip;</p>
  <div class="_citation">
   <p>&hellip; freedom characterizes human existence as such &hellip; its meaning changes according to the degrees of man&rsquo;sawareness and conception of himself as an independent and separthe being.</p>
- <div>
+ </div>
 <p>Fromm asserts that,</p>
  <div class="_citation">
   <p>&hellip; individuation seems to have reached its peak &hellip; between the Reformation and the present.</p>
