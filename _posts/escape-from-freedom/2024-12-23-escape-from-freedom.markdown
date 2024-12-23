@@ -27,19 +27,19 @@ hidden:   true
  <div class="_citation">
   To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of beeing rooted somewhere.
  </div>
-
+<br>
  <div class="_citation">
   The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.
  </div>
-
+<br>
  <div class="_citation">
   &hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span>
  </div>
-
+<br>
  <div class="_citation">
   &hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.
  </div>
-
+<br>
  <div class="_citation">
   &hellip; man&rsquo;s biological weaknesses is the condition of human culture.
  </div>
