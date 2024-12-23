@@ -39,7 +39,7 @@ hidden:   true
  </div>
 
  <div class="_citation">
-  <p>&hellip; human existence and freedom are from the beginning inseparable./p>
+  <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedonm from instinctual determination of his actions./p>
  </div>
 
 <h1></h1>
