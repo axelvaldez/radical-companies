@@ -17,33 +17,31 @@ hidden:   true
 
 <h1></h1>
  <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> &hellip;</p>
- 
-<div class="_citation">
- <p>&hellip; freedom characterizes human existence as such &hellip; its meaning changes according to the of degree of man&rsquo;s awareness and conception of himself as an independent and separate being.</p>
-</div>
+ <div class="_citation">
+  <p>&hellip; freedom characterizes human existence as such &hellip; its meaning changes according to the of <<div>
 <p>Fromm asserts that,</p>
  <div class="_citation">
   &hellip; individuation seems to have reached its peak &hellip; between the Reformation and the present.
  </div>
 <p>And,</p>
  <div class="_citation">
-  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of beeing rooted somewhere.</p>
+  To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of beeing rooted somewhere.
  </div>
 
  <div class="_citation">
-  <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
+  The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.
  </div>
 
  <div class="_citation">
-  <p>&hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span></p>
+  &hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span>
  </div>
 
  <div class="_citation">
-  <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
+  &hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.
  </div>
 
  <div class="_citation">
-  <p>&hellip; man&rsquo;s biolgical weaknesses is the condition of human culture.</p>
+  &hellip; man&rsquo;s biolgical weaknesses is the condition of human culture.
  </div>
 
 <h1></h1>
