@@ -12,18 +12,38 @@ hidden:   true
 </div>
 
 <div class="_citation">
- <p></p>
+ <p>Man&rsquo;s biological weakness is <em>the condition</em> of human culture.</p>
 </div>
 
 <h1></h1>
+ <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> &hellip;</p>
+ 
+<div class="_citation">
+ <p>&hellip; freedom characterizes human existence as such &hellip; its meaning changes according to the of degree of man&rsquo;s awareness and conception of himself as an independent and separate being.</p>
+</div>
+<p>Fromm asserts that,</p>
+ <div class="_citation">
+  &hellip; individuation seems to have reached its peak &hellip; between the Reformation and the present.
+ </div>
+<p>And,</p>
+ <div class="_citation">
+  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of and of beeing rooted somewhere.</p>
+ </div>
+
+ <div class="_citation">
+  <p>The more the child grows and to the extent to which primary ties are cut off, the more itn develops a quest for freedom and independence.</p>
+ </div>
+
+ <div class="_citation">
+  <p>partly by individual conditions, but essentially by <em>social conditions</em>. (<span style="font-name:courier new" >emphasis added</span>)
+ </div>
+
+<h1></h1>
+ <p></p>
  <p></p>
 
 <h1></h1>
-<p></p>
-<p></p>
-
-<h1></h1>
-<p></p>
+ <p></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
