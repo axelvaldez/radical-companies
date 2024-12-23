@@ -31,7 +31,7 @@ hidden:   true
  </div>
 
  <div class="_citation">
-  <p>The more the child grows and to the extent to which <em>primary ties</em>> are cut off, the more itn develops a quest for freedom and independence.</p>
+  <p>The more the child grows and to the extent to which <em>primary ties</em>> are cut off, the more it develops a quest for freedom and independence.</p>
  </div>
 
  <div class="_citation">
