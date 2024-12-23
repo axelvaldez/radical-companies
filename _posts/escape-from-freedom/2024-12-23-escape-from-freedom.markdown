@@ -42,6 +42,10 @@ hidden:   true
   <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
  </div>
 
+ <div class="_citation">
+  <p>&hellip; man&rsquo;s biolgical weaknessesis the condition ofmhuman culture.</p>
+ </div>
+
 <h1></h1>
  <p></p>
  <p></p>
