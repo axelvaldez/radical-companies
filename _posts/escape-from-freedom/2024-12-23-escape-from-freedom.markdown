@@ -38,6 +38,10 @@ hidden:   true
   <p>&hellip; essentially by <em>social conditions</em>. (<span style="font-name:courier new" >emphasis added</span>)</p>
  </div>
 
+ <div class="_citation">
+  <p>&hellip; human existence and freedom are from the beginning inseparable./p>
+ </div>
+
 <h1></h1>
  <p></p>
  <p></p>
