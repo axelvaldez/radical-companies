@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape from Freedom (5/7)"
+title:    "Escape from Freedom (7/7)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
@@ -13,10 +13,10 @@ hidden:   true
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/236/escape-from-freedom">&lt; Previous</a>
+  <a href="https://radicalcompanies.com/2024/12/26/escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/28/escape-from-freedom">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">Beginning &gt;</a>
  </span>
 </div>
 
