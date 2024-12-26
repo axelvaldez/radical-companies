@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>Published in 1941, Pim de Morre, <em>Corporate Rebels</em>, reminded me of this book which I read when I was 18-19 years old (I am 73 now).</p>
+ <p>Published in 1941, Pim de Morre, <em>Corporate Rebels</em>, reminded me of this book which I read when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
 <div class="_citation">
