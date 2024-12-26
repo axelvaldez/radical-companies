@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <div class="_citation">
- <p>The majority of man have not yet acquiredf the maturity to be independent, to be rational, to be objective.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>The majority of people have not yet acquiredf the maturity to be independent.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 </div>
 
 <h1>Not Independent</h1>
@@ -21,18 +21,20 @@ hidden:   true
  <div class="_citation">
   <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.</p>
  </div>
+
 <h1>Idol Worship</h1>
-<div class="_citation">
+ <div class="_citation">
   <p>&hellip; he pays lip service to the teachings of the great spiritual leaders of the human race, those of Buddha, the prophets, Socrates, Jesus, Mohammed&mdash;he has transformed these teachings into a jungle of superestition and idol-worship.</p>
   <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   <p>(Emphasis added)</p>
   <p>[By] the increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
+
 <p>In case you do not know, I have no repects for Jesus or Mohammed; they are stories from the Iron Age that cannot relied on, except as a means to convert Iron Age people to a particular religion; the prophets are a bit more reliable; Socrates is most reliable, he was trying to convince. too, but a scientific perspective.</p>
 
-<h1></h1>
-<p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we cannot be alone, we have to be in community.</p>
-<p>Being in community, by ourselves, with our believes is tricky because it can <em>easily</em> lead to our spouting nonsense. However, it can lead to its developement from a believe to a thesis to a theory. And that development can best happen, I believe, with a community of people.</p>
+<h1>Intro</h1>
+ <p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we cannot be alone, we have to be in community.</p>
+ <p>Being in community, by ourselves, with our believes is tricky because it can <em>easily</em> lead to our spouting nonsense. However, it can lead to its developement from a believe to a thesis to a theory. And that development can best happen, I believe, with a community of people.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
