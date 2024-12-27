@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>How their story continues&hellip;</p>
+ <p>How their story continues&hellip; </p>
 </div>
 
 <h1>Progress</h1>
