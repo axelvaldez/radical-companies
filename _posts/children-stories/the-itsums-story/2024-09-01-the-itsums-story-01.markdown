@@ -13,7 +13,7 @@ image:    "icon-the-itsums-story-01.svg"
 <h1>Meaning</h1>
  <p>Meaning and Belonging always came and went together. They always held hands, like good friends.</p>
  <div class="">
-  <img src="IMG_0942.jpeg">
+  <img src="the-itsum-stories-01.svg">
  </div>
  <p>They were buddies with Fiat.</p>
 
