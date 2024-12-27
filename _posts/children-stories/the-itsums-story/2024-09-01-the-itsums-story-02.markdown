@@ -79,7 +79,7 @@ hidden:   true
 <h1>Radical Foundation</h1>
   <div class="_illustration">Show the Foundation (in yellow?) under a one-story house and the same Foundation over a multi-floor building.</div>
   <div>
-   <img src="childrens-the-itsum-stories-04.svg">
+   <img src="childrens-the-itsum-stories-01.svg">
   </div>
  <p>You can build a one-story house or a 20-story building on the Radical Foundation.</p>
  <p>If the proposal goes against the Radical Foundaton, then it is really a Fiat organization in disguise. Fiat organizations are OK, too, <em>if others agree to live in it</em>. We do not want to compete with the many ills brought upon by the Fiat House, we need an alternative for living.</p>
