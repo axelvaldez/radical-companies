@@ -13,7 +13,7 @@ hidden:   true
 
 <h1>Progress</h1>
  <p>The Fiat Shack had more and more Itsums in it, so Fiat had to build a full blown House. The Itsums who lived there called themselves Chieftains and Kings. As they became more prosperous they just called themselves <em>Executives</em>.</p>
- <p>Every one of the Itsums who lived the Fiat House literally adored Fiat, the Supreme Boss. The others were moved to the Shack by Violence. Unfortunately, the Fiat Shack had fallen badly into disrepair, but they the riff-raff fit there.</p>
+ <p>Every one of the Itsums who lived the Fiat House literally adored Fiat, the Supreme Boss. The others were moved to the Shack by Violence. Unfortunately, the Fiat Shack had fallen badly into disrepair, but the the riff-raff fit there.</p>
   <div>
    <img src="/assets/img/childrens-the-itsums-story-01.svg">
   </div>
