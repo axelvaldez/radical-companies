@@ -57,7 +57,7 @@ hidden:   true
  <p>But Radical came together ans a change was coming.</p>
   <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces from the floor and multicolor hearts levitating.</div>
   <div>
-   <img src="childrens-the-itsums-story-02.svg">
+   <img src="childrens-the-itsums-story-03.svg">
   </div>
  <p>Radical came together from pieces on the floor and It immediately felt the impact of the Fiat House.</p>
  <p>He went over there to talk to them, but Fiat did not want to talk to Radical. The other Itsums in the Fiat House just tried to confuse Radical. He found it very strange that Itsums that did not want to talk and were more interested in confusing other Itsums.</p>
@@ -68,7 +68,7 @@ hidden:   true
 <h1>The Radical Foundation</h1>
   <div class="_illustration">Radical with a dialog balloon with the word &ldquo;FOUNDATION&rdquo; in it, and below it, the word &ldquo;DOGMA&rdquo; crossed out.</div>
   <div>
-   <img src="childrens-the-itsums-story-03.svg">
+   <img src="childrens-the-itsums-story-04.svg">
   </div>
  <p>Radical thought and thought and eventually came out with a simple Foundation. It knew that Itsums needed time and they had different sensitivies. It also knew that they would want static dogma like a multipage constitution or a strict structure.</p>
  <p>Radical also knew the Fiat House might corrupt the Foundation, so It made the Radical Foundation very simple and easy to remember. The Foundation would as much as possible help Itsums to stay on the better path. The Foundation encouraged Itsums to ask questions of one another. It would encouraged them to compare their ideas with the Foundation.</p>
