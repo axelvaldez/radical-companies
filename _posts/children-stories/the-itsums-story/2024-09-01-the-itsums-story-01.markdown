@@ -1,7 +1,6 @@
 ---
 layout:   post
 title:    "The Itsum Story (2/4)"
-subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "childrens-the-itsums-story.svg"
 hidden:   true
@@ -34,7 +33,7 @@ hidden:   true
  <p></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">Next &gt;</a></span>
+ <span style="float:right; ">  <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">Next &gt;</a></span>
 </div>
 
 {% include related.html %}
