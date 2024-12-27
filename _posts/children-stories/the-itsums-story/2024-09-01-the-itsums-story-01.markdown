@@ -23,7 +23,7 @@ image:    "childrens-the-itsums-story.svg"
  <p>Belonging is definitely an extrovert. It enjoys others, even when they disagree because It learns a lot from disagreements. He listens well, like all Itsums. &ldquo;<em>It was long time ago</em>,&rdquo; said Belonging, &ldquo;<em>I met Meaning. Then I met Fiat later, when It came together.</em>.&rdquo;</p>
   <div class="_illustration">Show Meaning and Belonging holding hands while Fiat is not. In fact, Fiat is a bit separated from them.</div>
   <div>
-   <img src="/assets/img/childrens-the-itsums-story-02.svg">
+   <img src="/assets/img/childrens-the-itsums-story-01.svg">
   </div>
  <p>They did not know back then how much Fiat would impact them.</p>
  <br />
@@ -42,12 +42,12 @@ image:    "childrens-the-itsums-story.svg"
  <p>All three of them had also very little love in them. Then Violence came together and things got really much worse for most Itsums.</p>
   <div class="_illustration">Small and shrinking Foundation House next to a bit bigger and growing Fiat Shack.</div>
   <div>
-   <img src="/assets/img/childrens-the-itsums-story-03.svg">
+   <img src="/assets/img/childrens-the-itsums-story-031.svg">
   </div>
  <p>As the Fiat grew into House, the Foundation House almost dissapeared.</p>
   <div class="_illustration">Radical being held up by <strong>Meaning</strong> & <strong>Belonging</strong>, <strong>Decentralization</strong> & <strong>Transparency</strong>, and <strong>Experimentation</strong>.</div>
   <div>
-   <img src="/assets/img/childrens-the-itsums-story-04.svg">
+   <img src="/assets/img/childrens-the-itsums-story-041.svg">
   </div>
  <p>They did not know at the time how much Radical would impact them.</p>
 

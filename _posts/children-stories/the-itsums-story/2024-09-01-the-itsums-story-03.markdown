@@ -23,7 +23,7 @@ hidden:   true
 <h1>Transparency</h1>
   <div class="_illustration">Impish character with a dialog bubble that says "INADVERTENT SECRETS."</div>
   <div>
-   <img src="childrens-the-itsums-stories-04.svg">
+   <img src="/assets/img/childrens-the-itsums-stories-01.svg">
   </div>
  <p>Transparency went around reminding Itsums to not keep secrets. If it existed, others must find out about it.</p>
  <p>No trade secrets. No trademarks. No Non-Disclosures Agreements. No secrets whatsoever. But they were always inadvertent secrets. And that is why Transparency went around reminding Itsums to bring them out into the sunshine.</p>
@@ -44,13 +44,13 @@ hidden:   true
    
    <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</div>
   <div>
-   <img src="childrens-the-itsums-stories-04.svg">
+   <img src="/assets/img/childrens-the-itsums-stories-01.svg">
   </div>
   <li>We need a Foundation to help us stay on the living path.</li>
    <br/><div class="_illustration">Itsums with RADs dialog bubbles and those bubbles with coins dialog bubbles.</div>
   <li>We must share the wealth we all create.</li>
   <div>
-   <img src="childrens-the-itsums-stories-04.svg">
+   <img src="/assets/img/childrens-the-itsums-stories-01.svg">
   </div>
 
 <br/>
@@ -58,7 +58,7 @@ hidden:   true
   <div class="_illustration">Itsums holding hands, not fighting.</div>
   <li>We need to be collaborative, not compete.</li>
   <div>
-   <img src="childrens-the-itsums-stories-04.svg">
+   <img src="/assets/img/childrens-the-itsums-stories-01.svg">
   </div>
   <li>We need to be recognized for our contributions and that is why we have co-ownership and RADs.</li>
  </ul>
