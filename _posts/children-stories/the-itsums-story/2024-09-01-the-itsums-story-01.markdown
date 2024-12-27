@@ -10,26 +10,24 @@ hidden:   true
  <p>How their story continues&hellip;</p>
 </div>
 
-<h1>Progress</h1>
+<h1></h1>
  <p></p>
 
-<h1>The Riff-Raff</h1>
+<h1></h1>
  <p></p>
 
-<h1>The Impact</h1>
+<h1></h1>
  <p></p>
 
-<h1>Radical</h1>
+<h1>l</h1>
  <p></p>
 
 <br/>
 
-<h1>The Radical Foundation</h1>
+<h1></h1>
  <p></p>
 
-<h1></p>
-
-<h1>Radical Foundation</h1>
+<h1></h1>
  <p></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
