@@ -11,9 +11,11 @@ image:    "icon-the-itsums-story-01.svg"
 </div>
 
 <h1>Meaning</h1>
-  <div class="_illustration">Impish character happily hiding inside what loks like a human brain.</div>
  <p>Meaning and Belonging always came and went together. They always held hands, like good friends.</p>
- <p>It was friends with Fiat.</p>
+ <div class="">
+  <img src="IMG_0942.jpeg">
+ </div>
+ <p>They were buddies with Fiat.</p>
 
 <h1>Belonging</h1>
  <p>Belonging is a friend of Meaning. And Fiat.</p>
