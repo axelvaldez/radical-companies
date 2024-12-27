@@ -8,7 +8,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>The Story&rsquo;s Glossary.</p>
+ <p>The Story&rsquo;s Glossary. </p>
 </div>
 
 <h1>The Story&rsquo;s Glossary</h1>
