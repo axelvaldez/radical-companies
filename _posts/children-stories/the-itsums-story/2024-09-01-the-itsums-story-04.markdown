@@ -7,8 +7,7 @@ image:    "icon-icon-the-itsum-story-04.svg"
 hidden:   true
 ---
 
-<div style='display:none; '>
- <p>The Story&rsquo;s Glossary. </p>
+<div style='display:none; '>>
 </div>
 
 <h1>The Story&rsquo;s Glossary</h1>
