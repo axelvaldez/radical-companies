@@ -11,7 +11,7 @@ image:    "icon-an-apology.svg"
 </div>
 
 <h1>Partners</h1>
- <p>The Judeo-Christian religions weren't wrong, but they can still be Partners to Radical model. They just didn't go deep enough. They stopped at the unknown and called it <em>the soul</em>.</p>
+ <p>The Judeo-Christian religions weren't wrong, but they can still be Partners to Radical model. They just didn't go deep enough. They stopped at the unknown and called it a bunch of names including <em>the soul</em>.</p>
  <p>These religions didn't pop out of nothing. My the Jewish religion was heavily ifluenced by the Zoroastrian religion</p>founded by Zarathustra, a Persian priest turned profet).</p>
  <p>founded by Zarathustra, a Persian priest turned profet. Zarathustra wanted to set polytheistic (decentralized) religions straight with a single boss God at the top (centralized) named Ahura Mazda.</p>
  <p>The Hebrews later added a written script, started Christianity, and globally kicked off what we know as the Fiat system.</p>
