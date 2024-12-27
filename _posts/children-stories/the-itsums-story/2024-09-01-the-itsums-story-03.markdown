@@ -3,7 +3,7 @@ layout:   post
 title:    "The Itsum Story (3/4)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
-image:    "icon-the-itsum-story-03.svg"
+image:    "childrens-the-itsums-story-03.svg"
 hidden:   true
 ---
 
