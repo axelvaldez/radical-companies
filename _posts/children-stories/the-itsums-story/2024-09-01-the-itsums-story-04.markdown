@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "The Itsum Story (4 of 4)"
+title:    "The Itsum Story (4/4)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez, Anita Perez"
 image:    "icon-icon-the-itsum-story-04.svg"
