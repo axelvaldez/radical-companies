@@ -42,12 +42,12 @@ image:    "childrens-the-itsums-story.svg"
  <p>All three of them had also very little love in them. Then Violence came together and things got really much worse for most Itsums.</p>
   <div class="_illustration">Small and shrinking Foundation House next to a bit bigger and growing Fiat Shack.</div>
   <div>
-   <img src="/assets/img/childrens-the-itsums-story-031.svg">
+   <img src="/assets/img/childrens-the-itsums-story-01.svg">
   </div>
  <p>As the Fiat grew into House, the Foundation House almost dissapeared.</p>
   <div class="_illustration">Radical being held up by <strong>Meaning</strong> & <strong>Belonging</strong>, <strong>Decentralization</strong> & <strong>Transparency</strong>, and <strong>Experimentation</strong>.</div>
   <div>
-   <img src="/assets/img/childrens-the-itsums-story-041.svg">
+   <img src="/assets/img/childrens-the-itsums-story-01.svg">
   </div>
  <p>They did not know at the time how much Radical would impact them.</p>
 
