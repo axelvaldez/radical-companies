@@ -15,7 +15,7 @@ hidden:   true
  <p>The Fiat Shack had more and more Itsums in it, so Fiat had to build a full blown House. The Itsums who lived there called themselves Chieftains and Kings. As they became more prosperous they just called themselves <em>Executives</em>.</p>
  <p>Every one of the Itsums who lived the Fiat House literally adored Fiat, the Supreme Boss. The others were moved to the Shack by Violence. Unfortunately, the Fiat Shack had fallen badly into disrepair, but they the riff-raff fit there.</p>
   <div>
-   <img src="childrens-the-itsum-stories-02.svg">
+   <img src="childrens-the-itsums-stories-02.svg">
   </div>
 
 <h1>The Riff-Raff</h1>
@@ -57,18 +57,22 @@ hidden:   true
  <p>But Radical came together ans a change was coming.</p>
   <div class="_illustration">You can see some of Radical&rsquo;s face and feet, with pieces from the floor and multicolor hearts levitating.</div>
   <div>
-   <img src="childrens-the-itsum-stories-03.svg">
+   <img src="childrens-the-itsums-stories-03.svg">
   </div>
  <p>Radical came together from pieces on the floor and It immediately felt the impact of the Fiat House.</p>
  <p>He went over there to talk to them, but Fiat did not want to talk to Radical. The other Itsums in the Fiat House just tried to confuse Radical. He found it very strange that Itsums that did not want to talk and were more interested in confusing other Itsums.</p>
  <p>Back in the Foundation House, Radical talked to a couple of Itsums and learned that every time they tried to talk to the Itsums in the Fiat House they were beaten with sticks.</p>
   <div class="_illustration">Itsums from the Fiat House beating Itsums from the Foundation House with sticks that look <strong><em>a lot</em></strong> like police battons.</div>
-  <br/>
+  <div>
+   <img src="childrens-the-itsums-stories-04.svg">
+  </div>
+
+<br/>
 
 <h1>The Radical Foundation</h1>
   <div class="_illustration">Radical with a dialog balloon with the word &ldquo;FOUNDATION&rdquo; in it, and below it, the word &ldquo;DOGMA&rdquo; crossed out.</div>
   <div>
-   <img src="childrens-the-itsum-stories-04.svg">
+   <img src="childrens-the-itsums-stories-04.svg">
   </div>
  <p>Radical thought and thought and eventually came out with a simple Foundation. It knew that Itsums needed time and they had different sensitivies. It also knew that they would want static dogma like a multipage constitution or a strict structure.</p>
  <p>Radical also knew the Fiat House might corrupt the Foundation, so It made the Radical Foundation very simple and easy to remember. The Foundation would as much as possible help Itsums to stay on the better path. The Foundation encouraged Itsums to ask questions of one another. It would encouraged them to compare their ideas with the Foundation.</p>
@@ -79,7 +83,7 @@ hidden:   true
 <h1>Radical Foundation</h1>
   <div class="_illustration">Show the Foundation (in yellow?) under a one-story house and the same Foundation over a multi-floor building.</div>
   <div>
-   <img src="childrens-the-itsum-stories-01.svg">
+   <img src="childrens-the-itsums-stories-01.svg">
   </div>
  <p>You can build a one-story house or a 20-story building on the Radical Foundation.</p>
  <p>If the proposal goes against the Radical Foundaton, then it is really a Fiat organization in disguise. Fiat organizations are OK, too, <em>if others agree to live in it</em>. We do not want to compete with the many ills brought upon by the Fiat House, we need an alternative for living.</p>
