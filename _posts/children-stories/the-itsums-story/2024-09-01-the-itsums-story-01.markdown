@@ -18,7 +18,7 @@ hidden:   true
 
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization had been around for a while, always teaching alternatives to Itsums that always wanted somebody to tell what to do.</p>
- <p>Tnasparenvy weas hard to see, but when Decentralization met Tansparency he knew they were compas</p>
+ <p>Transparenvy was hard to see, but when Decentralization met Tansparency they knew they were compas</p>
  <p></p>
  <p></p>
 
@@ -44,7 +44,7 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Spanish for friends.
+    Spanish for friends, from <em>compadres</em>.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
