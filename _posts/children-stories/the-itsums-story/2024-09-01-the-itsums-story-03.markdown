@@ -54,15 +54,11 @@ hidden:   true
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-08.svg">
   </div>
-
-<br/>
-
-  <div class="_illustration">Itsums holding hands, not fighting.</div>
-  <li>We need to be collaborative, not compete.</li>
+  <li>We need to collaborate, not compete.</li>
   <div>
-   <img src="/assets/img/pic-hildrens-the-itsums-story-09.svg">
+   <img src="/assets/img/pic-hildrens-the-itsums-story-10.svg">
   </div>
-  <li>We need to be recognized for our contributions and that is why we have co-ownership and RADs.</li>
+  <li>We need to be recognized for our contributions towards our work and we want to accomplish together.</li>
  </ul>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
