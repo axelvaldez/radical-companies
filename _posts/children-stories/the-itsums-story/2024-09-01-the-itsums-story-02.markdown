@@ -57,20 +57,20 @@ hidden:   true
 <h1>Radical</h1>
  <p>But it all change when Radical came together. King Fiat immediately felt the impact.</p>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-01.svg">
+   <img src="/assets/img/pic-childrens-the-itsums-story-02.svg">
   </div>
  <p>Radical went over to the Fiat House to talk to them, but Fiat did not want to talk to Radical.</p>
  <p>The other Itsums in the Fiat House just tried to confuse Radical. He found it very strange that Itsums did not want to talk and were more interested in confusing other Itsums.</p>
  <p>Back in the Foundation House, Radical talked to the Itsums and learned that every time they tried to talk they were beaten.</p>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-01.svg">
+   <img src="/assets/img/pic-childrens-the-itsums-story-03.svg">
   </div>
 
 <br/>
 
 <h1>The Radical Foundation</h1>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-01.svg">
+   <img src="/assets/img/pic-childrens-the-itsums-story-04.svg">
   </div>
  <p>Radical thought and thought and eventually came out with a Foundation. It knew that Itsums had different sensitivies. It also knew that they would not want static dogma like a multipage constitution or a strict structure.</p>
  <p>Radical was aware that the Fiat House might corrupt the Foundation, so Radical made the Radical Foundation very simple and easy to remember.</p>
@@ -82,7 +82,7 @@ hidden:   true
 <h1>Radical Foundation</h1>
   <div class="_illustration">Show the Foundation (in yellow?) under a one-story house and the same Foundation over a multi-floor building.</div>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-01.svg">
+   <img src="/assets/img/pic-childrens-the-itsums-story-05.svg">
   </div>
  <p>You can build a one-story house or a 20-story building on the Radical Foundation.</p>
  <p>Anything that goes against the Radical Foundaton, then it is really a Fiat organization in disguise. Fiat organizations are OK, too, <em>if others agree to live in it</em>. We do not want to compete with the many ills brought upon by the Fiat House, we simply want an alternative for living.</p>
