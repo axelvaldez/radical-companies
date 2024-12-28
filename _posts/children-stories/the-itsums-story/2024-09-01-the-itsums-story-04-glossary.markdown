@@ -7,7 +7,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>Their story continues&hellip;</p>
+ <p>About 50 yeasrs ago I read it, in High School (go Bulldogs). Its lessons became part of me.</p>
 </div>
 
 <h1>The Story&rsquo;s Glossary</h1>
