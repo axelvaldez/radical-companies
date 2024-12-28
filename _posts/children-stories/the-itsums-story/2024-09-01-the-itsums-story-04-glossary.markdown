@@ -6,7 +6,8 @@ image:    "childrens-the-itsums-story.svg"
 hidden:   true
 ---
 
-<div style='display:none; '>>
+<div style='display:none; '>
+ <p>Their story continues&hellip;</p>
 </div>
 
 <h1>The Story&rsquo;s Glossary</h1>

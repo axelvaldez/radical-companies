@@ -7,7 +7,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>How the story ended up. For now.</p>
+ <p>Their story continues&hellip;</p>
 </div>
 
 <h1>Decentralization & Transparency</h1>
