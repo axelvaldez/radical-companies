@@ -16,7 +16,8 @@ hidden:   true
 </div>
 
 <h1>Not Independent</h1>
- <p>This is so because the Fiat impulse of treating people without power like children. Religion is a big part of the process and why we include it in the Fiat system,</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of this book.</p>
+ <p>I read this book when I was 18-19 years old (I am a mere 73 now).</p>
  <br>
  <div class="_citation">
   <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.</p>
