@@ -19,7 +19,7 @@ image:    "icon-escape-from-freedom.svg"
   <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
-
+<br/>
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">

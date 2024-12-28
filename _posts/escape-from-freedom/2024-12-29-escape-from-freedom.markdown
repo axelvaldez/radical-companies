@@ -19,7 +19,7 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">Beginning &gt;</a>
  </span>
 </div>
-
+<br/>
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
