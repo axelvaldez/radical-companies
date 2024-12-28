@@ -1,9 +1,9 @@
 ---
 layout:   post
-title:    "Supporting Radical Companies"
+title:    "Radical Companies Supporting Radical Companies"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-supporting-radical-companies.svg"
+image:    "icon-radical-companies-supporting-radical-companies.svg"
 ---
 
 <div style='display:none; '>
