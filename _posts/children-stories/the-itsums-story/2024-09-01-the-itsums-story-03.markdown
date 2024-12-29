@@ -65,7 +65,7 @@ hidden:   true
  <span style="float:left;" >
   <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">&lt; Previous</a></span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-04">Glossary &gt;</a></span>
+  <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-04.glossary">Glossary &gt;</a></span>
 </div>
 
 {% include related.html %}
