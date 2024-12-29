@@ -26,16 +26,17 @@ hidden:   true
  <p>He thought about it a lot before picking up a piece. And he would discard a piece just as easily as he picked it up.</p>
  <p>&ldquo;Do I feel more adventurous?&rdquo; If not, it would discard that piece and pick another one.</p>
 
-<h1></h1>
- <p></p>
+<h1>Foundation</h1>
+ <p>These five Itsums make the Foundation of Radical. From them come everything Radical.</p>
 
-<br/>
-
-<h1></h1>
- <p></p>
+<h1>Co-Ownership</h1>
+ <p>Co-management, often known as self-management means <em>no managers</em> The people in the company manage <em>the work</em> themselves.</p>
+ <p>If mom or dad are managers, they can be part of a Fiat business and continue as managers.</p>
+ <p>If they join a Radical Company they can work on&hellip; anything they want, as long as their team knows.</p>
+ <p>Co-ownership is the next step: <em>no owners</em>. People accumulate ownership as they contribute to what everybody works towards.</p>
 
 <h1>Fiat</h1>
- <p></p>
+ <p>The Fiat system cannot deal with co-ownership. The Radical House is co-owned by all the Itsums. They have to collaborate to get things done. They each has to speack up if something sounds &ldquo;funny.&rdquo;</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">Next &gt;</a></span>
