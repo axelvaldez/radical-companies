@@ -16,7 +16,7 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/26/escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/28/escape-from-freedom">Beginning &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/28/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
 <br/>
