@@ -18,12 +18,13 @@ hidden:   true
 
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization had been around for a while, always teaching alternatives to Itsums that always wanted somebody to tell what to do.</p>
- <p>Transparenvy was hard to see, but when Decentralization met Tansparency they knew they were compas</p>
- <p></p>
- <p></p>
+ <p>Transparenvy was hard to see, but when Decentralization met Tansparency they knew they were <em>compas</em>.</p>
 
 <h1>Experiment</h1>
- <p></p>
+ <p>Itsum <em>Experiment</em> was always in <em>Let&rsquo;s-Try</em> mode. In fact, the reality is that we are always <em>doing things from scratch</em>.</p>
+ <p>Experiment knew it as it picked pieces to make himself. He was eager.</p>
+ <p>He thought about it a lot before picking up a piece. And he would discard a piece just as easily as he picked it up.</p>
+ <p>&ldquo;Do I feel more adventurous?&rdquo; If not, it would discard that piece and pick another one.</p>
 
 <h1></h1>
  <p></p>
