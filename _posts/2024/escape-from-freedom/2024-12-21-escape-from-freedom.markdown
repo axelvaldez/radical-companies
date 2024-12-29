@@ -30,11 +30,12 @@ image:    "icon-escape-from-freedom.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en012>
+  <li id="en02>
    <p class="_list-item">
     Corporate Rebels.
     A newsletter by Pim de Morre and Joost Minnaar.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a> (Amazon)2"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a> (Amazon)"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
