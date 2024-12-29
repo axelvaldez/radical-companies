@@ -18,14 +18,15 @@ hidden:   true
 <h1>Not Independent</h1>
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of this book.</p>
  <p>I read this book when I was 18-19 years old (I am a mere 73 now).</p>
- <br>
- <div class="_citation">
-  <p>Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.</p>
- </div>
- <p>As Setch Godin has said,<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+
+ <h1></h1>
   <div class="_citation">
-   <p>If you want to change the world, change the systems.</p>
+   <p>&ldquo;Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.&rdquo;</p>
   </div>
+  <p>As Setch Godin has said,<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <div class="_citation">
+    <p>If you want to change the world, change the systems.</p>
+   </div>
 
 <h1>Idol Worship</h1>
  <div class="_citation">
