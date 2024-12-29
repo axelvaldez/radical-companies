@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Democracy <em>or</em> Money"
+title:    "Democracy <em>OR</em> Money"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-democracy-or-money.svg"
