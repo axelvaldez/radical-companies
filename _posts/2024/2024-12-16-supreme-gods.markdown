@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- <p>A Supreme God religion is a pure centralization and hierarchical move.</p>
+ <p>History says that it started with Zoroastrian, in Persia. He probabl wanted to appeal to the Kings and Queens of the times</p>
 </div>
 
 <h1>Supreme God</h1>
