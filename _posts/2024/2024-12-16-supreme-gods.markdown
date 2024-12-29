@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- Supreme-God religions are hierarchical. Installing a Supreme God is a pure centralization and hierarchical move.
+ <p>A Supreme God religion is a pure centralization and hierarchical move.</p>
 </div>
 
 <h1>Supreme God</h1>
