@@ -34,9 +34,10 @@ hidden:   true
  <p>If mom or dad are managers, they can be part of a Fiat business and continue as managers.</p>
  <p>If they join a Radical Company they can work on&hellip; anything they want, as long as their team knows.</p>
  <p>Co-ownership is the next step: <em>no owners</em>. People accumulate ownership as they contribute to what everybody works towards.</p>
-
-<h1>Fiat</h1>
  <p>The Fiat system cannot deal with co-ownership. The Radical House is co-owned by all the Itsums. They have to collaborate to get things done. They each has to speack up if something sounds &ldquo;funny.&rdquo;</p>
+
+<h1>RADs</h1>
+ <p>Your contributions gets converted to RADs. This way they can be converted to money, candy, and toys.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">Next &gt;</a></span>
@@ -46,7 +47,7 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Spanish for friends, from <em>compadres</em>.
+   Short version of <em><strong>compadres</strong>: a close friend or companion.</em>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
