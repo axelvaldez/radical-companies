@@ -12,7 +12,7 @@ image:    "icon-escape-from-freedom.svg"
 
 <h1>Late Last Nigt&hellip;</h1>
  <p>Late last night I read the latest Corporate Rebel post and in it Pim de Morre<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> announced that he was reading <em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a>. I read this book in 1969-70 when I was 18-19 years old (I am 73 now).</p>
- <p>In the newsletter Pim says that Fromm talks about <em>Escape from Freedom</em> and <em>Embrace Freedom</em>. I will find down more detail when I start to read it again (50 years later). I have probably consciously forgotten most of it, but the lessons became part of me.</p>
+ <p>I will find down more detail when I start to read it again (50 years later). I have probably consciously forgotten most of it, but the lessons became part of me.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
