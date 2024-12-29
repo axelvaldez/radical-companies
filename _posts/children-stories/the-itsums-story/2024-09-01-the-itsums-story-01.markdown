@@ -7,7 +7,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>About 50 years ago I read <em>Escape from Freedom</em>. In High School (go Schurz Bulldogs). Its lessons became part of me.</p>
+ <p>About 50 yeasrs ago I read <em>Escape from Freedom</em>. In High School (go Bulldogs). I may not remember all that much, but its lessons became part of me.</p>
 </div>
 
 <h1>Meaning & Belonging</h1>
