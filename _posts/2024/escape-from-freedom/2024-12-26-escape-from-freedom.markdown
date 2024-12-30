@@ -32,7 +32,7 @@ hidden:   true
  </div>
  <p>But it was not freedom for <em>all</em> individuals that Americans were fighting for, it was really freedom for a specific class of wealthy land and slave owner Europeans. They did all this while they looked down at,</p>
   <ul>
-   <li>Poor Europeans (unreliable)</li>
+   <li>Poor Europeans and poor Non-Europeans (unreliable)</li>
    <li>American Indians (hostile)</li>
    <li>Africans and their descendants (who?)</li>
   </ul>
