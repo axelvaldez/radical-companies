@@ -65,7 +65,7 @@ hidden:   true
   </li>
   <li id="en01">
    <p class="_list-item">
-    In case you did not notice, the words in parenthesis are supposedly what the people in Congress were thinking about what James Madison wrote.
+    The words in parenthesis are supposedly what the people in Congress were thinking about what James Madison wrote.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
