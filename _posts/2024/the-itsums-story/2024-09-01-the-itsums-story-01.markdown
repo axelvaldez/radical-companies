@@ -27,18 +27,27 @@ hidden:   true
  <p>&ldquo;Do I feel more adventurous?&rdquo; If not, it would discard that piece and pick another one.</p>
 
 <h1>Foundation</h1>
- <p>These five Itsums, Meaning, Belonging, Decentralization, Transparency, and Experimenting came together and created the Radical Foundation to give Itsums a guide to stay on the healthy path.</p>
+ <p>These five Itsums,</p>
+  <ul>
+   <li>Meaning</li>
+   <li>Belonging</li>
+   <li>Decentralization</li>
+   <li>Transparency</li>
+   <li>Experimenting</li>
+  </ul>
+ <p>came together and created the Radical Foundation.The Radical Foundation gave Itsums who chose it a guide to stay on the healthy path.</p>
  <p>From them come everything Radical.</p>
 
-<h1>Co-Ownership</h1>
+<h1>Co-Managers</h1>
  <p>Co-management, often known as self-management means <em>no managers</em>. The people working toegether as a company manage <em>the work</em> themselves.</p>
- <p>If mom or dad are managers, they can be part of a <em>Fiat Business</em> and continue as managers.</p>
- <p>If they join a <em>Radical Company</em> they can work on&hellip; anything they want, as long as their team knows.</p>
- <p>Co-ownership is the next step: <em>no owners</em>. People accumulate ownership as they contribute to what everybody works towards.</p>
- <p>The Fiat system cannot deal with co-ownership. The Radical House is co-owned by all the Itsums. They have to collaborate to get things done. They each has to speack up if something sounds &ldquo;funny.&rdquo;</p>
+ <p>If mom or dad are managers, they can be part of a <em>Fiat Business</em> and continue as managers. If they join a <em>Radical Company</em> they can work on anything they want, as long as their team knows.</p>
+
+<h1>Co-Ownership</h1>
+ <p>Co-ownership, <em>no owners</em>, is partner to co-management. People accumulate ownership as they contribute to what everybody came together for.</p>
+ <p>The Radical House is co-owned by all the Itsums. They collaborate to get things done. They speack up if something sounds &ldquo;funny.&rdquo;</p>
 
 <h1>RADs</h1>
- <p>Your contributions gets converted to RADs. This way they can be converted to money, candy, and toys.</p>
+ <p>Contributions gets converted to RADs and then to money, candy, toys&hellip;</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-02">Next &gt;</a></span>
