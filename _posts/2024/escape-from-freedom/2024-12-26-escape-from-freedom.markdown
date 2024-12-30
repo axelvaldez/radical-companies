@@ -22,7 +22,7 @@ hidden:   true
    <li>The &hellip; state</li>
   </ul>
  <div class="_citation">
-  <p>One tie after another had been severed. <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>One tie after another had been severed.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  
 <h1>Fighting for All</h1>
@@ -34,7 +34,7 @@ hidden:   true
   <ul>
    <li>Poor Europeans (unreliable)</li>
    <li>American Indians (hostile)</li>
-   <li>Africans and their descendants (who?)</li>
+   <li>Africans and their descendants (who?)<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></li>
   </ul>
  
 <h1>The Federalists</h1>
@@ -61,6 +61,12 @@ hidden:   true
     The book explores the psychological and social dynamics of freedom.
     <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en01">
+   <p class="_list-item">
+    In case you did not notice, the word inprenthesis are irony.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
