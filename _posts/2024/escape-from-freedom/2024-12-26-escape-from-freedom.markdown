@@ -13,7 +13,7 @@ hidden:   true
 </div>
 
 <h1>Freedom!</h1>
- <p>By the end of the American Revolution, man had overthrown the domination of,</p>
+ <p>By the end of the American Revolution, mankind had overthrown the domination of,</p>
   <ul>
    <li>Nature</li>
    <li>The Church</li>
