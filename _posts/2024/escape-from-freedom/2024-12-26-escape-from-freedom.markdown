@@ -23,6 +23,7 @@ hidden:   true
 
  <div class="_citation">
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
+ <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
  </div>
  <p>But it was not freedom for <em>all</em> individuasn that Americans were fighting for, it was really freedom for a specific class of land and slave owner wealthy Europeans. They didallmthis while looked down at <em>poor Europeans</em> (unreliable), <em>American Indians</em> (hostile to the European ways), and, of course, <em>African slaves</em> (who?).</p>
 
