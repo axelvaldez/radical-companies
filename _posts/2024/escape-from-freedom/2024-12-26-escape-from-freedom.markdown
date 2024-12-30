@@ -9,7 +9,7 @@ hidden:   true
 
 <div style='display:none; '>
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it. I first read it when I was 18-19 years old (I am a mere 73 now).</p>
- <p id="_signature">Eric Fromm, <em>Escape from Freedom</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
 </div>
 
 <h1>Freedom!</h1>
@@ -22,7 +22,7 @@ hidden:   true
    <li>The &hellip; state</li>
   </ul>
  <div class="_citation">
-  <p>One tie after another had been severed.</p>
+  <p>One tie after another had been severed. <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  
 <h1>Fighting for All</h1>

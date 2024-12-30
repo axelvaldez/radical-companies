@@ -21,7 +21,7 @@ image:    "icon-template.svg"
 <h1></h1>
  <a href=[\"\']#en(\d\d)[\"\']><[^>]*>\d&nbsp;<.*/a>
 
-<!-- ENDNOTE Icon -->
+<!-- FOOTNOTE Icon -->
 <h1></h1>
  <a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>
 
