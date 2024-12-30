@@ -36,7 +36,8 @@ hidden:   true
    <li>American Indians (hostile)</li>
    <li>Africans and their xxx (who?)</li>
   </ul>
-
+ 
+<h1>The Federalists</h1>
  <div class="_citation">
   <p>The principles of economic liberalism, political democracy, religious autonomy, and individualism in personal life, gave expression to the longing for freedom, and at the same time seemed to bring mankind nearer to its realization.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
