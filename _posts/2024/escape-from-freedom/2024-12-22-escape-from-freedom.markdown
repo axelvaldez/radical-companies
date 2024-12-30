@@ -19,15 +19,16 @@ hidden:   true
  <h1></h1>
   <div class="_citation">
    <p>&ldquo;Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.&rdquo;</p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
   </div>
-  <p>As Setch Godin has said,<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>And as Seth Godin has said,</p>
    <div class="_citation">
-    <p>If you want to change the world, change the systems.</p>
+    <p>If you want to change the world, change the systems.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Idol Worship</h1>
  <div class="_citation">
-  <p>&hellip; he pays lip service to the teachings of the great spiritual leaders of the human race, those of Buddha, the prophets, Socrates, Jesus, Mohammed&mdash;he has transformed these teachings into a jungle of superestition and idol-worship.</p>
+  <p>&hellip; he has transformed these teachings into a jungle of superestition and idol-worship.</p>
   <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   <p>(Emphasis added)</p>
   <p>[By] the increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
