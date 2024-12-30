@@ -22,7 +22,7 @@ hidden:   true
    <li>The absolutist state</li>
  </ul>
  <div class="_citation">
-  <p>One tie after another had been severed.<p>
+  <p>One tie after another had been severed.</p>
  </div>
  <br />
  <div class="_citation">
