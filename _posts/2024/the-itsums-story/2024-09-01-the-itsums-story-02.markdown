@@ -14,15 +14,15 @@ hidden:   true
  <p>The Fiat Shack had more and more Itsums in it, so Fiat had to build a House. The Itsums who moved to the new House called themselves Chieftains. And as they became more prosperous they just called themselves <em>Executives</em>.</p>
  <p>Fiat had a whole wing of the Fiat House to himself.</p>
  <p>Every one of the Itsums who lived the Fiat House literally adored Fiat. The others were moved to the Fiat Shack by the Itsum called Violence.</p>
- <p>Unfortunately, the Fiat Shack had fallen badly into disrepair, but the Riff-Raff fit in it tightly. It was fine for them.</p>
+ <p>Unfortunately, the Fiat Shack had fallen badly into disrepair, but the Rabble fit in it tightly. It was fine for them.</p>
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-01.svg">
   </div>
 
-<h1>The Riff-Raff</h1>
+<h1>The Rabble</h1>
  <p>About 50 yeasrs ago I read <em>Escape from Freedom</em>, in High School (<em>go Bulldogs</em>). I may not remember all that much of it, but its lessons became part of me.</p>
- <p>The Riff-Raff had to keep up the Fiat House and its amenities. Itsum Violence made sure they did the work and then back to the Shack.</p>
- <p>Itsums in the Fiat Shack had fallen out of grace with King Fiat. Some of them had even tried to help other Itsums, which show how stupid they were  because they obviously did not know that the Riff-Raff could not be helped. Fiat had said so, Fiat had decreed it.</p>
+ <p>The Rabblef had to keep up the Fiat House and its amenities. Itsum Violence made sure they did the work and then back to the Shack.</p>
+ <p>Itsums in the Fiat Shack had fallen out of grace with King Fiat. Some of them had even tried to help other Itsums, which show how stupid they were  because they obviously did not know that the Rabble could not be helped. Fiat had said so, Fiat had decreed it.</p>
  <p>In any case, the Itsums in the Fiat Shack were the perfect replacements as others disgraced Itsums were falling back to pieces from the hard work.</p>
 
 <h1>The Impact</h1>
