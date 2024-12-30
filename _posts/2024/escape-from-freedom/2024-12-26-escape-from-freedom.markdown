@@ -34,7 +34,7 @@ hidden:   true
   <ul>
    <li>Poor Europeans (unreliable)</li>
    <li>American Indians (hostile)</li>
-   <li>Africans and their xxx (who?)</li>
+   <li>Africans and their descendants (who?)</li>
   </ul>
  
 <h1>The Federalists</h1>
