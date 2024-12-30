@@ -14,7 +14,8 @@ hidden:   true
 <div class="_citation">
  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  
- <p>Man &hellip; worships power, money, the sovereign state, the nation.</p><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'></p><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
+ <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en02'></p><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a>
 
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
 </div>
@@ -22,12 +23,12 @@ hidden:   true
 <p>As Seth Godin said,</p>
  <div class="_citation">
   <p>If you want to change the world, change the systems.</p>
-  <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Idol Worship</h1>
  <div class="_citation">
-  <p>&hellip; [Mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>&hellip; [Mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness? (Emphasis added)</p>
   <p>[By] increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
@@ -45,34 +46,34 @@ hidden:   true
  </span>
 </div>
 
-<h1 class="_section">ENDNOTES</h1>\
+<h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Notice that it makes uou a slave to power, money, the state, and the nation.
+    Notice that it makes us slaves to power, money, the state, and the nation.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
     I believe that Jesus or Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Eric Fromm.
+    The book explores the psychological and social dynamics of freedom.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    Eric Fromm.
-    The book explores the psychological and social dynamics of freedom.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en05">
-   <p class="_list-item">
     Seth Godin.
     Daily Newsletter.
     <a href="https://seths.blog/2024/12/our-new-school/" target="_blank">Newsletter</a>
-    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
