@@ -18,12 +18,13 @@ hidden:   true
 
  <h1></h1>
   <div class="_citation">
-   <p>&ldquo;Man represents the irrational passions of destructiveness, hate, envy, revenge; [however] he worships power, money, the sovereign state, the nation.&rdquo;</p>
+   <p>&ldquo;Man &hellip; worships power, money, the sovereign state, the nation.&rdquo;</p>
    <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
   </div>
   <p>And as Seth Godin has said,</p>
    <div class="_citation">
     <p>If you want to change the world, change the systems.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Seth Godin</em></p>
    </div>
 
 <h1>Idol Worship</h1>
