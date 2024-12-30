@@ -19,9 +19,9 @@ hidden:   true
    <li>The Church</li>
    <li>The absolutist state</li>
  </ul>
- <div class="_citation">
-  <p>One tie after another wa severed.</p>
+  <p>&ldquo;One tie after another was severed.&rdquo;</p>
 
+ <div class="_citation">
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
  </div>
  <p>But it was not freedom for <em>all</em> individuas, it was really freedom for a specific class of wealthy Europeans. They looked down at <em>poor Europeans</em> (unreeliable), <em>American Indians</em> (ignorant), and <em>African slaves</em> (who).</p>
