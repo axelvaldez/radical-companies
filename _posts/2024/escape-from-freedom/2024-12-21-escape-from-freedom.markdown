@@ -10,8 +10,9 @@ image:    "icon-escape-from-freedom.svg"
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of this book which I first read when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
-<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a>
+Pim de Morre                <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
+<br/>
+<em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a>
 
 <h1>Late Last Nigt&hellip;</h1>
  <p>Late last night I read the latest Corporate Rebel post and in it Pim de Morre<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> announced that he was reading <em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a>. I read this book in 1969-70 when I was 18-19 years old (I am 73 now).</p>
