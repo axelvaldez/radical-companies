@@ -9,13 +9,30 @@ hidden:   true
 
 <div style='display:none; '>
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it. I first read it when I was 18-19 years old (I am a mere 73 now).</p>
+ <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
 </div>
 
-<h1></h1>
+<h1>Freedom!</h1>
+ <p>By the end of the American Revolution, man had overthrown the domination of,</p>
+  <ul>
+   <li>Nature</li>
+   <li>The Church</li>
+   <li>The absolutist state</li>
+ </ul>
+ <div class="_citation">
+  <p>One tie after another wa severed.</p>
+
+  <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
+ </div>
+ <p>But it was not freedom for <em>all</em> individuas, it was really freedom for a specific class of wealthy Europeans. They looked down at <em>poor Europeans</em> (unreeliable), <em>American Indians</em> (ignorant), and <em>African slaves</em> (who).</p>
+
  <div class="_citation">
   <p>The principles of economic liberalism, political democracy, religious autonomy, and individualism in personal life, gave expression to the longing for freedom, and at the same time seemed to bring mankind nearer to its realization.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
  </div>
+ <p>The people who wrote the US Constitution thought they were fighting for <em>the longing for freedom in  all individual</em>. Fortunately, this ideal is what has stuck to his day.</p>
+
+<h1></h1>
  <p></p>
  <p></p>
  <p></p>
