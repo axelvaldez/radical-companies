@@ -14,11 +14,7 @@ hidden:   true
 <div class="_citation">
  <p>The majority of people have not yet acquiredf the maturity to be independent.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
-</div>
-
-<h1>Not Independent</h1>
- <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of this book.</p>
- <p>I read this book when I was 18-19 years old (I am a mere 73 now).</p>
+</div>xx
 
  <h1></h1>
   <div class="_citation">
