@@ -15,7 +15,6 @@ hidden:   true
  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  
  <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
- <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
 </div>
@@ -23,12 +22,12 @@ hidden:   true
 <p>As Seth Godin said,</p>
  <div class="_citation">
   <p>If you want to change the world, change the systems.</p>
-  <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Idol Worship</h1>
  <div class="_citation">
-  <p>&hellip; [Mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>&hellip; [Mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness? (Emphasis added)</p>
   <p>[By] increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
@@ -68,6 +67,7 @@ hidden:   true
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
+  xx
   <li id="en04">
    <p class="_list-item">
     Seth Godin.
