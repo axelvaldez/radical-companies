@@ -34,7 +34,7 @@ hidden:   true
 
 <h1>Intro</h1>
  <p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we have to be in a community.</p>
- <p>Being by ourselves is tricky because it can <em>easily</em> lead to your spouting nonsense. On the other hand, it can lead from a believe, to a thesis, to a theory and that development can best happen, I believe, with a community of people.</p>
+ <p>Being by ourselves is tricky because it can <em>easily</em> lead to spouting nonsense. On the other hand, it can lead from a believe, to a thesis, to a theory and that development can best happen, I believe, with a community of people.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
