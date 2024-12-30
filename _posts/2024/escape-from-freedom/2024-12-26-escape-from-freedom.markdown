@@ -42,7 +42,7 @@ hidden:   true
   <p>The principles of economic liberalism, political democracy, religious autonomy, and individualism in personal life, gave expression to the longing for freedom, and at the same time seemed to bring mankind nearer to its realization.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
  </div>
- <p>The people who wrote the US Constitution thought they were fighting for <em>the longing for freedom in  all individual</em>. Fortunately, this ideal is what has stuck to his day.</p>
+ <p>The good news is that the people who wrote the US Constitution thought they were fighting for <em>the longing for freedom in  all individual</em>. Fortunately, this ideal is what has stuck to his day.</p>
 
 <h1></h1>
  <p></p>
