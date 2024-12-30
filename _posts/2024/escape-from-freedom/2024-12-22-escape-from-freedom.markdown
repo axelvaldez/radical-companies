@@ -18,7 +18,7 @@ hidden:   true
 
  <h1></h1>
   <div class="_citation">
-   <p>&ldquo;Man &hellip; worships power, money, the sovereign state, the nation.&rdquo;</p>
+   <p>Man &hellip; worships power, money, the sovereign state, the nation.</p>
    <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
   </div>
   <p>And as Seth Godin has said,</p>
