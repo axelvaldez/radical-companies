@@ -7,7 +7,7 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>About 50 yeasrs ago I read <em>Escape from Freedom</em>. In High School (go Bulldogs). I may not remember all that much, but its lessons became part of me.</p>
+ <p>The Itsum Story</p>
 </div>
 
 <h1>Meaning & Belonging</h1>
@@ -27,12 +27,13 @@ hidden:   true
  <p>&ldquo;Do I feel more adventurous?&rdquo; If not, it would discard that piece and pick another one.</p>
 
 <h1>Foundation</h1>
- <p>These five Itsums make the Foundation of Radical. From them come everything Radical.</p>
+ <p>These five Itsums, Meaning, Belonging, Decentralization, Transparency, and Experimenting came together and created the Radical Foundation to give Itsums a guide to stay on the healthy path.</p>
+ <p>From them come everything Radical.</p>
 
 <h1>Co-Ownership</h1>
- <p>Co-management, often known as self-management means <em>no managers</em> The people in the company manage <em>the work</em> themselves.</p>
- <p>If mom or dad are managers, they can be part of a Fiat business and continue as managers.</p>
- <p>If they join a Radical Company they can work on&hellip; anything they want, as long as their team knows.</p>
+ <p>Co-management, often known as self-management means <em>no managers</em>. The people working toegether as a company manage <em>the work</em> themselves.</p>
+ <p>If mom or dad are managers, they can be part of a <em>Fiat Business</em> and continue as managers.</p>
+ <p>If they join a <em>Radical Company</em> they can work on&hellip; anything they want, as long as their team knows.</p>
  <p>Co-ownership is the next step: <em>no owners</em>. People accumulate ownership as they contribute to what everybody works towards.</p>
  <p>The Fiat system cannot deal with co-ownership. The Radical House is co-owned by all the Itsums. They have to collaborate to get things done. They each has to speack up if something sounds &ldquo;funny.&rdquo;</p>
 

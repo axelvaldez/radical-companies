@@ -7,14 +7,14 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p>About 50 yeasrs ago I read <em>Escape from Freedom</em>. In High School (go Bulldogs). I may not remember all that much, but its lessons became part of me.</p>
+ <p>The Itsum Story</p>
 </div>
 
 <h1>Progress</h1>
- <p>The Fiat Shack had more and more Itsums in it, so Fiat had to build a House. The Itsums who ,oved to the new House called themselves Chieftains. Of course, King Fiat had a whole wing of it to himself.</p>
- <p>As they became more prosperous they just called themselves <em>Executives</em>.</p>
- <p>Every one of the Itsums who lived the Fiat House literally adored King Fiat, the Supreme Boss.The others were moved to the Shack by then Itsum called Violence.</p>
- <p>Unfortunately, the Fiat Shack had fallen badly into disrepair, but the Riff-Raff fit in it (tightly), so it was fine.</p>
+ <p>The Fiat Shack had more and more Itsums in it, so Fiat had to build a House. The Itsums who moved to the new House called themselves Chieftains. And as they became more prosperous they just called themselves <em>Executives</em>.</p>
+ <p>Fiat had a whole wing of the Fiat House to himself.</p>
+ <p>Every one of the Itsums who lived the Fiat House literally adored Fiat. The others were moved to the Fiat Shack by the Itsum called Violence.</p>
+ <p>Unfortunately, the Fiat Shack had fallen badly into disrepair, but the Riff-Raff fit in it tightly. It was fine for them.</p>
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-01.svg">
   </div>
