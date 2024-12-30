@@ -16,7 +16,7 @@ hidden:   true
  <div class="_citation">
  </div>
  <p>By the end of the American Revolution mankind had overthrown the domination of,</p>
-  <ul class="_citation" style="font-size:18px; margin-left:2em; width:-4em">
+  <ul class="_citation" style="font-size:18px; ">
    <li>Nature</li>
    <li>The Church</li>
    <li>The &hellip; state</li>
