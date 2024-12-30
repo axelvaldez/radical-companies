@@ -14,7 +14,7 @@ hidden:   true
 <div class="_citation">
  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  
- <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'></p><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
+ <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en02'></p><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a>
 
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
