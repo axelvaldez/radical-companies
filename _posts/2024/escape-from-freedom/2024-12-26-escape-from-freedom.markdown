@@ -15,8 +15,7 @@ hidden:   true
 <h1>Freedom!</h1>
  <div class="_citation">
  </div>
- <p>By the end of the American Revolution,
-  <p class="_citation">mankind had overthrown the domination of,</p>
+ <p>By the end of the American Revolution mankind had overthrown the domination of,</p>
   <ul class="_citation">
    <li>Nature</li>
    <li>The Church</li>
