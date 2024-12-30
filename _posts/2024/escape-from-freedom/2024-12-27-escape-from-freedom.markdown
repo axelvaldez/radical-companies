@@ -12,7 +12,10 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p></p>
+ <p class="_citation">
+  <p>We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it. That instead of wanting freedom, they sought for ways of <em>escape from it</em>.</p>
+  <p>The crisis of democracy is notmapeculiarnItalian ormGerman proble, but cnfornting every modern state.</p>
+ </p>
  <p></p>
  <p></p>
  <p></p>
