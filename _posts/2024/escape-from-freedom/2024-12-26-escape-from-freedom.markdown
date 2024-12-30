@@ -34,7 +34,7 @@ hidden:   true
   <ul>
    <li>Poor Europeans (unreliable)</li>
    <li>American Indians (hostile)</li>
-   <li>African slaves< (who?)</li>
+   <li>Africans and their xxx (who?)</li>
   </ul>
 
  <div class="_citation">
