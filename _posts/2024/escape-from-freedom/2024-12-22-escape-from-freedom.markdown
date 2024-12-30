@@ -55,7 +55,7 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    I believe that Jesus or Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
+    I believe that Jesus and Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
