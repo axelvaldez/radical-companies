@@ -24,7 +24,8 @@ hidden:   true
  <div class="_citation">
   <p>One tie after another had been severed.</p>
  </div>
- <br />
+ 
+<h1>Fighting for All</h1>
  <div class="_citation">
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
