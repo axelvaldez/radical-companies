@@ -67,7 +67,6 @@ hidden:   true
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  xx
   <li id="en04">
    <p class="_list-item">
     Seth Godin.
