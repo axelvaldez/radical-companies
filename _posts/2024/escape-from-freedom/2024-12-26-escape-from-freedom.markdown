@@ -30,7 +30,12 @@ hidden:   true
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
  </div>
- <p>But it was not freedom for <em>all</em> individuasn that Americans were fighting for, it was really freedom for a specific class of land and slave owner wealthy Europeans. They didallmthis while looked down at <em>poor Europeans</em> (unreliable), <em>American Indians</em> (hostile to the European ways), and, of course, <em>African slaves</em> (who?).</p>
+ <p>But it was not freedom for <em>all</em> individuals that Americans were fighting for, it was really freedom for a specific class of wealthy land and slave owner Europeans. They did all this while they looked down at,</p>
+  <ul>
+   <li>Poor Europeans (unreliable)</li>
+   <li>American Indians</em> (hostile)<li>
+   <li>African slaves< (who?)<li>
+  </ul>
 
  <div class="_citation">
   <p>The principles of economic liberalism, political democracy, religious autonomy, and individualism in personal life, gave expression to the longing for freedom, and at the same time seemed to bring mankind nearer to its realization.</p>
