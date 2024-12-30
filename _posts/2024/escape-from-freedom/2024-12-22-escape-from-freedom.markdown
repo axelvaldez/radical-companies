@@ -14,7 +14,7 @@ hidden:   true
 <div class="_citation">
  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  
- <p>Man &hellip; worships power, money, the sovereign state, the nation.</p>
+ <p>Man &hellip; worships power, money, the sovereign state, the nation.</p><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a
 
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em>
 </div>
@@ -60,10 +60,16 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
+    Notice that it makes uou a slave to power, money, the state, and the nation.
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
     Seth Godin.
     Daily Newsletter.
     <a href="https://seths.blog/2024/12/our-new-school/" target="_blank">Newsletter</a>
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
