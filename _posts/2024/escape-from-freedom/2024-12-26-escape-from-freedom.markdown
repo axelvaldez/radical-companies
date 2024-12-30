@@ -19,7 +19,7 @@ hidden:   true
   <ul class="_citation">
    <li>Nature</li>
    <li>The Church</li>
-   <li>The absolutist state</li>
+   <li>The &hellip; state</li>
   </ul>
  <div class="_citation">
   <p>One tie after another had been severed.</p>
