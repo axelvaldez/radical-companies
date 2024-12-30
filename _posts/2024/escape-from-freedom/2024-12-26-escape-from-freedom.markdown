@@ -58,7 +58,8 @@ hidden:   true
   <li id="en01">
    <p class="_list-item">
     Eric Fromm.
-    <a href="display" target="_blank">display</a>
+    The book explores the psychological and social dynamics of freedom.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>

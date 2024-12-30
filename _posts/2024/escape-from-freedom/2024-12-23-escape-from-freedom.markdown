@@ -49,13 +49,6 @@ hidden:   true
   <p>There is only one possible, productive solution  for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
  </div>
 
-<h1></h1>
- <p></p>
- <p></p>
-
-<h1></h1>
- <p></p>
-
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
   <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom">&lt; Previous</a>
@@ -64,7 +57,7 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/26/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
-<br/>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
