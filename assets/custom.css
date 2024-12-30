@@ -384,13 +384,6 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 
 /*
- * _paradigm
- */
-._paradigm {
-  
- }
-
-/*
  * dialog: begin
  */
 p._speaker {
@@ -495,9 +488,7 @@ div table._foundation {
   font-weight:bolder;
 }
 ._me {
-  font-style:normal;
- }
-._image {
+  font-style:normmage {
   display:grid;
   place-items:center;
   font-family:'Courier New', Courier, monospace;
