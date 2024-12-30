@@ -11,7 +11,7 @@ image:    "icon-escape-from-freedom.svg"
 </div>
 
 <h1>Late Last Nigt&hellip;</h1>
- <p>Late last night I read the latest Corporate Rebel post and in it Pim de Morre<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> announced that he was reading <em>Escape from Freedom.</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> I read this book when I was 18-19 years old (I am 73 now).</p>
+ <p>Late last night I read the latest Corporate Rebel post and in it Pim de Morre<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> announced that he was reading <em>Escape from Freedom.</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> I read this book when I was 18-19 years old (I am mere 73 now).</p>
  <p>I have probably forgotten most of it, but the lessons became part of me.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
