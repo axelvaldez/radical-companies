@@ -14,26 +14,23 @@ hidden:   true
 <div class="_citation">
  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  
- <p>Man &hellip; worships power, money, the sovereign state, the nation.</p><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a
+ <p>Man &hellip; worships power, money, the sovereign state, the nation.</p><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
- <p id="_signature">Eric Fromm, <em>Escape from Freedom</em>
+ <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
 </div>
 
-<p>And as Seth Godin has said,</p>
+<p>As Seth Godin said,</p>
  <div class="_citation">
-  <p>If you want to change the world, change the systems.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
-  <p id="_signature">Seth Godin</p>
+  <p>If you want to change the world, change the systems.</p>
+  <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Idol Worship</h1>
  <div class="_citation">
-  <p>&hellip; he has transformed these teachings into a jungle of superestition and idol-worship.</p>
-  <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
-  <p>(Emphasis added)</p>
-  <p>[By] the increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
+  <p>&hellip; [Mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness? (Emphasis added)</p>
+  <p>[By] increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
-
-<p>In case you do not know, I have no repects for Jesus or Mohammed; they are stories from the Iron Age that cannot relied on, except as a means to convert Iron Age people to a particular religion; the prophets are a bit more reliable; Socrates is most reliable, he was trying to convince. too, but a scientific perspective.</p>
 
 <h1>Intro</h1>
  <p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we cannot be alone, we have to be in community.</p>
@@ -48,28 +45,34 @@ hidden:   true
  </span>
 </div>
 
-<h1 class="_section">ENDNOTES</h1>
+<h1 class="_section">ENDNOTES</h1>\
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Eric Fromm.
-    The book explores the psychological and social dynamics of freedom.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    Notice that it makes uou a slave to power, money, the state, and the nation.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    Notice that it makes uou a slave to power, money, the state, and the nation.
-    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+    I believe that Jesus or Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en03">
+  <li id="en04">
+   <p class="_list-item">
+    Eric Fromm.
+    The book explores the psychological and social dynamics of freedom.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
    <p class="_list-item">
     Seth Godin.
     Daily Newsletter.
     <a href="https://seths.blog/2024/12/our-new-school/" target="_blank">Newsletter</a>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
