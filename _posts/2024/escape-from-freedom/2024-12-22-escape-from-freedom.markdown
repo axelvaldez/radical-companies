@@ -24,7 +24,7 @@ hidden:   true
   <p>And as Seth Godin has said,</p>
    <div class="_citation">
     <p>If you want to change the world, change the systems.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p id="_signature">Seth Godin</em></p>
+    <p id="_signature">Seth Godin</p>
    </div>
 
 <h1>Idol Worship</h1>
@@ -55,7 +55,7 @@ hidden:   true
   <li id="en01">
    <p class="_list-item">
     Eric Fromm.
-    The book explores the psychological and social dynamics of freedom, as well as its paradoxical consequences.
+    The book explores the psychological and social dynamics of freedom.
     <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
