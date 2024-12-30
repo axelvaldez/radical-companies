@@ -13,14 +13,18 @@ hidden:   true
 </div>
 
 <h1>Freedom!</h1>
+ <div class="_citation">
+ </div>
  <p>By the end of the American Revolution, mankind had overthrown the domination of,</p>
   <ul>
    <li>Nature</li>
    <li>The Church</li>
    <li>The absolutist state</li>
  </ul>
-  <p>&ldquo;One tie after another was severed.&rdquo;</p>
-
+ <div class="_citation">
+  <p>One tie after another had been severed.<p>
+ </div>
+ <br />
  <div class="_citation">
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
