@@ -33,7 +33,7 @@ hidden:   true
  </div>
 
 <h1>Intro</h1>
- <p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we cannot be alone, we have to be in community.</p>
+ <p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we have to be in community.</p>
  <p>Being in community, by ourselves, with our believes is tricky because it can <em>easily</em> lead to our spouting nonsense. However, it can lead to its developement from a believe to a thesis to a theory. And that development can best happen, I believe, with a community of people.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
