@@ -17,7 +17,13 @@ hidden:   true
   <p>&hellip;</p>
   <p>The crisis of democracy is not a peculiar Italian or German problem, but confronting every modern state.</p>
  </div>
- <p></p>
+
+<h1>John Dewey</h1>
+ <p>This truth has been forcefully siad by John Dewey,/p>
+  <div class="_citation">
+   <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon The Leader in foreign countries. The battlefield is also accordingly here—within ourselves and our institutions.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  </div>
+ </div>
  <p></p>
  <p></p>
  <p></p>
@@ -31,14 +37,13 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/28/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
-<br/>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    authors.
-    description.
-    <a href="display" target="_blank">display</a>
+    John Dewey.
+    <a href="display" target="_blank">Freedom and Culture, G P Putnam and sons, New York, 1939.</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
