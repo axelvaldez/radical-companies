@@ -60,7 +60,7 @@ hidden:   true
    <p class="_list-item">
     San Ant&oacute;nio de P&aacute;dua, Doctor of the Church.
     &ldquo;Riches exist for man, not man for riches.&rdquo;
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
