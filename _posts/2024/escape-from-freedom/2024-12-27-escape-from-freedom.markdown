@@ -18,7 +18,7 @@ hidden:   true
   <p>The crisis of democracy is not a peculiar Italian or German problem, but confronting every modern state.</p>
  </div>
 
-<h1>John Dewey</h1>
+<h1>Our Own Personal Attitudes</h1>
  <p>According to what John Dewey forcefully said,</p>
   <div class="_citation">
    <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon <em>The Leader</em> in foreign countries.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
