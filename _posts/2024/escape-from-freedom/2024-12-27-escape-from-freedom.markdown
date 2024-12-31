@@ -23,7 +23,6 @@ hidden:   true
   <div class="_citation">
    <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon The Leader in foreign countries. The battlefield is also accordingly here—within ourselves and our institutions.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
- </div>
  <p></p>
  <p></p>
  <p></p>
