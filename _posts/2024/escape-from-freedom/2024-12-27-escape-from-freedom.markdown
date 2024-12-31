@@ -14,7 +14,7 @@ hidden:   true
 <h1></h1>
  <p class="_citation">
   We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it. That instead of wanting freedom, they sought for ways of <em>escape from it</em>.
-  <p>The crisis of democracy is notmapeculiarnItalian ormGerman proble, but confornting every modern state.</p>
+  <p>The crisis of democracy is not a peculiar Italian or German problem, but confornting every modern state.</p>
  <p></p>
  <p></p>
  <p></p>
