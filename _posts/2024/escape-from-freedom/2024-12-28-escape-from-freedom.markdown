@@ -23,8 +23,6 @@ hidden:   true
 </div>
  <p>In Radical there is no such thing as a permanent private property. I was thinkig of a house, not a toothbrush.</p>
  <p>I read it again and it really does not conflict with Radical if instead pf &rsquo;private property&lsquo; it said, &ldquo;&lsquo;private goods&rsquo; are <em>produced</em> privately.&rdquo;</p>
-
-<h1>Share</h1>
  <p>Perhaps unsurprisingly,</p>
  <div class="_citation">
   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
@@ -38,6 +36,8 @@ hidden:   true
   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></a>
  </div>
  <p>This means that the Fiat thing was in full swing <em>before</em> the 15<sup>th</sup> century. We knew that it had started by Kings and Queens who printed their own coins, but now we have a date.</p>
+
+<h1>Share</h1>
  <p></p>
  <p></p>
  <p></p>
