@@ -13,7 +13,7 @@ hidden:   true
 
 <h1></h1>
  <div class="_citation">
-  <p>Homini divitiae sunt, non homo propter divitias<a href='#en01'><sup id='bm$01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>Homini divitiae sunt, non homo propter divitias<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   <p id="_signature">San Ant&oacute;nio de P&aacute;dua, Doctor of the Church</p>
 </div>
 
