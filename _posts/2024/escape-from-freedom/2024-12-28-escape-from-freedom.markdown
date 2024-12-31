@@ -19,7 +19,7 @@ hidden:   true
  <p>One quote that at first disturbed me was,</p>
  <div class="_citation">
   <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
-  <p id="signature">Eric Fromm. <em>Escape from Freedom</em></p>
+  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
 </div>
  <p>In Radical there is no such thing as a permanent private property. I was thinkig of a house, not a toothbrush.</p>
  <p>I read it again and it really does not conflict with Radical if instead pf &rsquo;private property&lsquo; it said, &ldquo;&lsquo;private goods&rsquo; are <em>produced</em> privately.&rdquo;</p>
@@ -28,14 +28,14 @@ hidden:   true
  <p>Perhaps unsurprisingly,</p>
  <div class="_citation">
   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
-  <p id="signature">Eric Fromm. <em>Escape from Freedom</em></a>
+  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></a>
 </div>
 
 <h1>The Money Class</h1>
  <p>This was surpising as well,</p>
  <div class="_citation">
   <p>By the <em>fifteen century</em>&hellip; the shares belonged to capitalists &hellip; and increasingly the work was done by workers who were paid wages and had no share in the enterprise.</p>
-  <p id="signature">Eric Fromm. <em>Escape from Freedom</em></a>
+  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></a>
  </div>
  <p>This means that the Fiat thing was in full swing <em>before</em> the 15<sup>th</sup> century. We knew that it had started by Kings and Queens who printed their own coins, but now we have a date.</p>
  <p></p>
