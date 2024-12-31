@@ -22,8 +22,7 @@ hidden:   true
  <div class="_citation">
   <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
-</div>
- <p>In Radical there is no such thing as a permanent private property. I was thinkig of a house, not a toothbrush.</p>
+</div>It seems that I was thinkig of a house, not a toothbrush (<em>i.e.</em>, a company is not a property, it is a group of people working to make an impact).</p>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;private property&lsquo; it said, &ldquo;&lsquo;private goods&rsquo; are <em>produced</em> privately.&rdquo;</p>
  <p>Perhaps unsurprisingly,</p>
  <div class="_citation">
