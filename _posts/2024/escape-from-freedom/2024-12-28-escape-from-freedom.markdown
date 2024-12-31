@@ -19,17 +19,20 @@ hidden:   true
 
 <h1>Disturbing</h1>
  <p>One quote that at first disturbed me was,</p>
- <div class="_citation">
-  <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
-  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
- </div>
+  <div class="_citation">
+   <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
+   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
+  </div>
  <p>It seems that I was thinkig of a house, not a toothbrush (<em>i.e.</em>, a company is not a property, it is a group of people working to make an impact).</p>
- <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said, &ldquo;private &lsquo;<em>goods</em>&rsquo; are <em>produced</em> privately.&rdquo;</p>
+ <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
+  <div class="_citation">
+   <p>Production of private <em>goods</em> is a necessary institution</em>.</p>
+  </div>
  <p>Perhaps unsurprisingly,</p>
- <div class="_citation">
-  <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
-  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
-</div>
+  <div class="_citation">
+   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
+   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
+  </div>
 
 <h1>The Money Class</h1>
  <p>This was surpising as well,</p>
