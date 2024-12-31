@@ -13,9 +13,11 @@ hidden:   true
 
 <h1></h1>
  <div class="_citation">
-  <p>Riches exist for man, not man for riches.</p>
+  <p>Riches exist for man, not man for riches</p>
   <p id="_signature">San Ant&oacute;nio de P&aacute;dua, Doctor of the Church</p>
 </div>
+
+<h1>Disturbing</h1>
  <p>One quote that at first disturbed me was,</p>
  <div class="_citation">
   <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
