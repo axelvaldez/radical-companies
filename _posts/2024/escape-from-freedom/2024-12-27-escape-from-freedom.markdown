@@ -19,7 +19,7 @@ hidden:   true
  </div>
 
 <h1>John Dewey</h1>
- <p>This truth has been forcefully said by John Dewey,/p>
+ <p>This truth has been forcefully said by John Dewey,</p>
   <div class="_citation">
    <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon <em>The Leader</em> in foreign countries.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
