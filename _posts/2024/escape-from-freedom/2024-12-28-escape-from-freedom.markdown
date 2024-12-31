@@ -13,7 +13,7 @@ hidden:   true
 
 <h1></h1>
  <div class="_citation">
-  <p>Riches exist for man, not man for riches</p>
+  <p>Homini divitiae sunt, non homo propter divitias<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a></p>
   <p id="_signature">San Ant&oacute;nio de P&aacute;dua, Doctor of the Church</p>
 </div>
 
@@ -53,13 +53,13 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/29/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
-<br/>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
-    authors.
-    description.
+    San Ant&oacute;nio de P&aacute;dua, Doctor of the Church.
+    Riches exist for man, not man for riches.
     <a href="display" target="_blank">display</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
