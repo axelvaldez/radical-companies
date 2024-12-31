@@ -19,7 +19,7 @@ hidden:   true
  <p>One quote that at first disturbed me was,</p>
  <div class="_citation">
   <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
-  <p id="signature">Eric Fromm. <em>Escape from Freedom</em></a></p>
+  <p id="signature">Eric Fromm. <em>Escape from Freedom</em></p>
 </div>
  <p>In Radical there is no such thing as a permanent private property. I was thinkig of a house, not a toothbrush.</p>
  <p>I read it again and it really does not conflict with Radical if instead pf &rsquo;private property&lsquo; it said, &ldquo;&lsquo;private goods&rsquo; are <em>produced</em> privately.&rdquo;</p>
@@ -28,7 +28,6 @@ hidden:   true
  <p>Perhaps unsurprisingly,</p>
  <div class="_citation">
   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
-  <p></p>
   <p id="signature">Eric Fromm. <em>Escape from Freedom</em></a>
 </div>
 
