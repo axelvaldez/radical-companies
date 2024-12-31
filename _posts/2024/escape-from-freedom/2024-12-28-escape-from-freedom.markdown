@@ -28,7 +28,7 @@ hidden:   true
  <p>Perhaps unsurprisingly,</p>
  <div class="_citation">
   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
-  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></a>
+  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
 </div>
 
 <h1>The Money Class</h1>
