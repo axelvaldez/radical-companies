@@ -11,7 +11,7 @@ hidden:   true
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it. I first read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<h1>Nazis Everywhere</h1>
+<h1>Extremists Everywhere</h1>
  <div class="_citation">
   <p>We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it. That instead of wanting freedom, they sought for ways of <em>escape from it</em>.</p>
   <p>&hellip;</p>
