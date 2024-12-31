@@ -24,7 +24,7 @@ hidden:   true
   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
  </div>
  <p>It seems that I was thinkig of a house, not a toothbrush (<em>i.e.</em>, a company is not a property, it is a group of people working to make an impact).</p>
- <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it said, &ldquo;private &lsquo;<em>goods</em>&rsquo; are <em>produced</em> privately.&rdquo;</p>
+ <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said, &ldquo;private &lsquo;<em>goods</em>&rsquo; are <em>produced</em> privately.&rdquo;</p>
  <p>Perhaps unsurprisingly,</p>
  <div class="_citation">
   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
