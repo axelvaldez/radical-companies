@@ -23,7 +23,7 @@ hidden:   true
   <div class="_citation">
    <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon <em>The Leader</em> in foreign countries.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
- <p>One evidence of this is the recent (Dec 30, 2024) win of a second (and hopefully last) term by Donald Trump as President of the US.</p>
+ <p>One evidence of this is the recent (Dec 30, 2024) win of a second, and hopefully last, term by Donald Trump as President of the US.</p>
  <p></p>
  <p></p>
  <p></p>
