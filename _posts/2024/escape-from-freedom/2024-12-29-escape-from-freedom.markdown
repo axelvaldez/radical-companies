@@ -25,8 +25,11 @@ hidden:   true
    <p>&hellip; a suprapersonal force, was determining their economic and thereby their personal fate. Capital &ldquo;had ceased to be a servant and had become a master.&rdquo;. &hellip; it claimed the right of a predominant partner to dictate economic organization in accordance with its exacting requirements.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
    <p id="_signature">Richard H Tawney, <em>Religion and the Rise of Capitalism</em>.</p>
   </div>
- <p></p>
- <p></p>
+  <div class="_citation">
+   <p>&hellip; extra personao wer, asceticism, and a compulsive sense of duty&mdash;were character traits which became proiductive forces in capitaistic societym and without which modern economic and social development are unthinkable.</p>
+  </div>
+   <p></p>
+  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
