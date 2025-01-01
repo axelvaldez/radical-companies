@@ -15,12 +15,12 @@ hidden:   true
  <p>For the individual, an increase in,</p>
   <div class="_citation">
    <p><em>capital, market, and competition</em> changed their personal situation into one of <em>insecurity, isolation, and anxiety</em>.</p>
-   <p class="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p></p>
   <div class="_citation">
    <p>&hellip; a suprapersonal force [<em>i.e.</em>, money] was determining their economic and thereby their personal fate. Capital &ldquo;had ceased to be a servant and had become a master.&rdquo;. &hellip; it claimed the right of a predominant partner to dictate economic organization in accordance with its exacting requirements.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p class="_signature">Tawney, <em>Religion and the Rise of Capitalism</em>. Harcourt, Brace & Co, New York. 1926.</p>
+   <p id="_signature">Richard H Tawney, <em>Religion and the Rise of Capitalism</em>. Harcourt, Brace & Co, New York. 1926.</p>
   </div>
  <p></p>
  <p></p>
