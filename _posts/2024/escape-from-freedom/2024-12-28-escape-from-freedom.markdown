@@ -28,7 +28,7 @@ hidden:   true
 <h1>Again</h1>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
   <div class="_citation">
-   <p><em>Production</em>of private <em>goods</em> is a necessary institution.</p>
+   <p><em>Production of</em> private <em>goods</em> is a necessary institution.</p>
   </div>
  <p>Perhaps unsurprisingly,</p>
   <div class="_citation">
