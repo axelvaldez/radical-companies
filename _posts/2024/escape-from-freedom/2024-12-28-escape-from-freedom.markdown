@@ -40,7 +40,7 @@ hidden:   true
   <p>By the <em>fifteen century</em>&hellip; the shares belonged to capitalists &hellip; and increasingly the work was done by workers who were paid wages and had no share in the enterprise.</p>
   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
  </div>
- <p>This means that the Fiat thing was in full swing <em>before</em> the 15<sup>th</sup> Century. It had started by Kings and Queens who printed their own coins to collect taxes.</p>
+ <p>This means that the Fiat thing was in full swing <em>before</em> the 15<sup>th</sup> Century. It had started by Kings and Queens who printed their own currency to collect taxes.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
