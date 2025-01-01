@@ -36,7 +36,7 @@ hidden:   true
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en01">
+  <li id="en02">
    <p class="_list-item">
     Eric Fromm.
     <em>Escape from Freedom</em>.
