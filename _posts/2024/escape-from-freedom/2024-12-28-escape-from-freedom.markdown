@@ -62,7 +62,7 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    A company is not a property, it is a group people working towards making an impact. A <em>company</em> can be converted to a private <em>business</em> and then sold.
+    A company is not a property, it is a group people working towards making an impact. Of course, a <em>company</em> can be converted to a private <em>business</em> and then sold.
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
