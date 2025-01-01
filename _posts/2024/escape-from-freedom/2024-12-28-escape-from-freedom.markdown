@@ -23,7 +23,7 @@ hidden:   true
    <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
    <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
   </div>
- <p>I guess it disturbed me because in the Radical system &lsquo;private&rsquo; is an unexpected word, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I guess it disturbed me because in the Radical system &lsquo;private&rsquo; is unexpected, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Again</h1>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
