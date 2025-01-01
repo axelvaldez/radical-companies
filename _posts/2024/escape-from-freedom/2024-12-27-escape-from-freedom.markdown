@@ -42,7 +42,7 @@ hidden:   true
   <li id="en01">
    <p class="_list-item">
     John Dewey.
-    <a href="https://archive.org/details/dewey_freedomculture" target="_blank">Freedom and Culture</a>, G P Putnam and Sons, New York, 1939.
+    <a href="https://archive.org/details/dewey_freedomculture" target="_blank">Freedom and Culture</a>, G P Putnam and Sons, New York, 1939.</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
