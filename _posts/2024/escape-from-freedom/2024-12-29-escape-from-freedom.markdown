@@ -29,8 +29,6 @@ hidden:   true
   <div class="_citation">
    <p>&hellip; extra personal power, asceticism, and a compulsive sense of duty&mdash;were character traits which became productive forces in capitaistic society and without which modern economic and social development are unthinkable.</p>
   </div>
-   <p></p>
-  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
