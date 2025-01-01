@@ -19,7 +19,7 @@ hidden:   true
   </div>
  <p>(Remember that this is a book written by a social psychologist)</p>
  
-<h1>Capital Ascendance</h1>
+<h1>Capitaln and Power Ascendance</h1>
  <p>Capital,</p>
   <div class="_citation">
    <p>&hellip; a suprapersonal force, was determining their economic and thereby their personal fate. Capital &ldquo;had ceased to be a servant and had become a master.&rdquo;. &hellip; it claimed the right of a predominant partner to dictate economic organization in accordance with its exacting requirements.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
