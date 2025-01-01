@@ -35,7 +35,7 @@ hidden:   true
   </div>
 
 <h1>The Money Class</h1>
- <p>This was surpising as well,</p>
+ <p>This was surprising as well,</p>
  <div class="_citation">
   <p>By the <em>fifteen century</em>&hellip; the shares belonged to capitalists &hellip; and increasingly the work was done by workers who were paid wages and had no share in the enterprise.</p>
   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
@@ -55,7 +55,7 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    San Ant&oacute;nio de P&aacute;dua, Doctor of the Church.
+    San Ant&oacute;nio de P&aacute;dua ()).
     &ldquo;Riches exist for man, not man for riches.&rdquo;
     <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
