@@ -23,7 +23,7 @@ hidden:   true
    <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
    <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
   </div>
- <p>It seems that I was thinkig of a house, not a toothbrush (<em>i.e.</em>, a company is not a property, it is a group of people working to make an impact).</p>
+ <p>Perhaps I was thinkig of a house, not a toothbrush<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
   <div class="_citation">
    <p>Production of private <em>goods</em> is a necessary institution</em>.</p>
@@ -58,6 +58,12 @@ hidden:   true
     San Ant&oacute;nio de P&aacute;dua, Doctor of the Church.
     &ldquo;Riches exist for man, not man for riches.&rdquo;
     <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    A company is not a property, it is a group people working towards making an impact. A <em>company</em> can be converted to a private <em>business</em>, which is a thing, and then sold.
+    <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
