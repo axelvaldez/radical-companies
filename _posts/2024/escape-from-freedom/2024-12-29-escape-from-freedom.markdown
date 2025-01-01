@@ -26,7 +26,7 @@ hidden:   true
    <p id="_signature">Richard H Tawney, <em>Religion and the Rise of Capitalism</em>.</p>
   </div>
   <div class="_citation">
-   <p>&hellip; extra personao wer, asceticism, and a compulsive sense of duty&mdash;were character traits which became proiductive forces in capitaistic societym and without which modern economic and social development are unthinkable.</p>
+   <p>&hellip; extra personal power, asceticism, and a compulsive sense of duty&mdash;were character traits which became productive forces in capitaistic society and without which modern economic and social development are unthinkable.</p>
   </div>
    <p></p>
   </div>
