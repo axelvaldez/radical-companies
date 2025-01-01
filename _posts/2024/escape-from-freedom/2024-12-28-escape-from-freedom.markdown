@@ -24,6 +24,8 @@ hidden:   true
    <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
   </div>
  <p>I guess it disturbed me because in the Radical system &lsquo;private&rsquo; is an unexpected word, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+
+<h1>Again</h1>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
   <div class="_citation">
    <p><em>Production</em>of private <em>goods</em> is a necessary institution.</p>
