@@ -45,7 +45,7 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    Tawney.
+    Richard H Tawney.
     <em>Religion and the Rise of Capitalism.</em>
     Harcourt, Brace & Co., New York, 1926.
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
