@@ -26,7 +26,7 @@ hidden:   true
  <p>I guess it disturbed me because in the Radical system &lsquo;private&rsquo; is not a welcome word, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
   <div class="_citation">
-   <p>Production of private <em>goods</em> is a necessary institution</em>.</p>
+   <p>Production of private <em>goods</em> is a necessary institution.</p>
   </div>
  <p>Perhaps unsurprisingly,</p>
   <div class="_citation">
