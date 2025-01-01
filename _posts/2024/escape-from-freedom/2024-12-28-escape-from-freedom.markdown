@@ -23,7 +23,7 @@ hidden:   true
    <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
    <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
   </div>
- <p>Perhaps I was thinkig of a house, not a toothbrush<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I guess it disturbed me because in the Radical system &lsquo;private&rsquo; is not a welcome word, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
   <div class="_citation">
    <p>Production of private <em>goods</em> is a necessary institution</em>.</p>
@@ -62,7 +62,7 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    A company is not a property, it is a group people working towards making an impact. Of course, a <em>company</em> can be converted to a private <em>business</em> and then sold.
+    A company is not a property that can be bought and sold, it is a group people working towards making an impact. Of course, a <em>company</em> can be converted to a private <em>business</em> and then sold.
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
