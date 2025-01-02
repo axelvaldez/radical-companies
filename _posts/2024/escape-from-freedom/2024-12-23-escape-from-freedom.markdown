@@ -12,39 +12,39 @@ hidden:   true
 </div>
 
 <div class="_citation">
- <p>Man&rsquo;s biological weakness is <em>the condition</em> of human culture.</p>
+ <p>Man&rsquo;s biological weakness is the condition of human culture.</p>
 </div>
 
 <h1></h1>
- <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> &hellip;</p>
- <div class="_citation">
-  <p>&hellip; freedom characterizes human existence as such &hellip; its meaning changes according to the degrees of man&rsquo;sawareness and conception of himself as an independent and separthe being.</p>
- </div>
-<p>Fromm asserts that,</p>
- <div class="_citation">
-  <p>&hellip; individuation seems to have reached its peak &hellip; between the Reformation and the present.</p>
- </div>
+ <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> Eric Fromm says,;</p>
+  <div class="_citation">
+   <p>[Freedom] meaning changes according to the degrees of man&rsquo;s awareness and conception of himself as an independent and separate being.</p>
+  </div>
+ <p>Fromm asserts that,</p>
+  <div class="_citation">
+   <p>&hellip; individuation seems to have reached its peak &hellip; between the Reformation and the present.</p>
+  </div>
 <p>And,</p>
  <div class="_citation">
-  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; but these ties give him security and a feeling of belonging and of beeing rooted somewhere.</p>
+  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; [however] these ties give him security, a feeling of belonging, and of being rooted somewhere.</p>
  </div>
-<br>
+ 
  <div class="_citation">
   <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
  </div>
-<br>
+ 
  <div class="_citation">
   <p>&hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span></p>
  </div>
-<br>
+ 
  <div class="_citation">
   <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
  </div>
-<br>
+ 
  <div class="_citation">
   <p>&hellip; man&rsquo;s biological weaknesses is the condition of human culture.</p>
  </div>
-<br>
+ 
  <div class="_citation">
   <p>There is only one possible, productive solution  for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
  </div>
