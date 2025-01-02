@@ -24,7 +24,7 @@ hidden:   true
   </div>
  <p>And this is how capitalism and religion combined to fuel the nascent Fiat dynamic,</p>
   <div class="_citation">
-   <p>&hellip; extra personal power, asceticism, and a <em>compulsive</em> sense of duty&mdash;were character traits which became productive forces in capitaistic society and without which modern economic and social development are unthinkable.</p>
+   <p>&hellip; extra personal power, <em>asceticism</em>, and a <em>compulsive</em> sense of duty&mdash;were character traits which became productive forces in capitaistic society and without which modern economic and social development are unthinkable.</p>
   </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
