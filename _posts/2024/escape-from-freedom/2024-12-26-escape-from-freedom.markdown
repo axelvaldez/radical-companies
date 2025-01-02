@@ -1,7 +1,6 @@
 ---
 layout:   post
-title:    "Escape from Freedom (4/7)"
-subtitle: "TEMPLATE"
+title:    "Escape from Freedom (4/8)
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
 hidden:   true
