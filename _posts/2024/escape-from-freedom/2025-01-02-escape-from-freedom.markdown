@@ -20,6 +20,15 @@ hidden:   true
  <p>Flores is 81 as ofthisw writing and he isn still an original. He talked more about the lessons from the Pinochet period, including the good. He prefaced by saying something like, &ldquo;<em>you might be surprised, but there were a couple of things we learned from Pinochet</em>.&rdquo; (There were a lot of Chileans in the audience).</p>
  <p>There was nothing in particular that would have predicted Radical. He was a not-so-good teacher but he managed to show us how to think diffrently. <em>That</em> was very valuable and has stayed with me.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
+<div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
+ <span style="float:left; ">
+  <a href="https://radicalcompanies.com/2024/12/29/escape-from-freedom">&lt; Previous</a>
+ </span>
+ <span style="float:right; ">
+  <a href="https://radicalcompanies.com/2025/01/03/escape-from-freedom">Start &gt;</a>
+ </span>
+</div>
+
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
