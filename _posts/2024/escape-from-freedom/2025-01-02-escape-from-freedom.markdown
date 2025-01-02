@@ -19,7 +19,7 @@ hidden:   true
  <p>During the workhop he did not talk much about his time in jail. In fact, he never mentioned it except when giving credit to Amnesty International for getting him out.</p>
  <p>He talked about the lessons from the Pinochet period, surprinsingly including the few &ldquo;good&rdquo; ones. He prefaced it by saying something like, &ldquo;<em>there were a couple of things we learned from Pinochet. Hold your comments</em>.&rdquo; (There were a lot of young Chileans in the audience, because of Pinochet).</p>
  <p>As of 2025, Flores is 83 years old and still an original thinker</p>
- <p>There was nothing in particular in then workshop that would have predicted Radical. He was a so-so teacher but he managed to show us how to think differently. <em>That</em> was very valuable and has stayed with me.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>There was nothing in particular in the workshop that would have predicted Radical. He was a so-so teacher but he managed to show us how to think differently. <em>That</em> was very valuable and has stayed with me.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
