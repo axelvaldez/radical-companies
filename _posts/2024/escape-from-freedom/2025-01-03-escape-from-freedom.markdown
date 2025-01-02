@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape from Freedom (8/12)"
+title:    "Escape from Freedom (9/12)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
@@ -28,8 +28,9 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    <p>I heard about the Fernando Flores lecture while at The Forum, originally EST, a creation of the infamous William Erhard (born John Paul Rosenberg).</p>
-    <a href="https://duckduckgo.com/?q=%22the+forum%22+Erhard&t=ffab&ia=web" target="_blank">Werner Erhard</a>
+    AUTHOR(S)
+    DESCRIPTION
+    <a href="TARGET" target="_blank">TITLE</a>
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
