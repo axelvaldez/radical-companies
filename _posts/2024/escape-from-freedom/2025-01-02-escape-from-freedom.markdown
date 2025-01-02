@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1>Yesterday</h1>
- <p>(No, not the Beatle song.) On Jan 1, 2025, wy wife reminded me of other things, besides <em>Escape from Freedom</em>,<a href='#en01><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> that should propably be in the chain that lead me to Radical. Including a lecture by Fernando Flores.</p>
+ <p>(No, not the Beatle song.) On Jan 1, 2025, wy wife reminded me of other things, besides <em>Escape from Freedom</em>,<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> that should propably be in the chain that lead me to Radical. Including a lecture by Fernando Flores.</p>
 
  <h1>Flores</h1>
  <p>Flores, a former Cabinet Member in Allende&rsquo;s government, was in a Chilean jail for three years until the Amnesty International group in San Francisco got him out.</p>
