@@ -15,7 +15,7 @@ hidden:   true
  <p>(No, not the Beatle song.) On Jan 1, 2025, wy wife reminded me of other things, besides <em>Escape from Freedom</em>,<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> that should propably be in the chain that lead me to Radical. Including a lecture by Fernando Flores.</p>
 
  <h1>Flores</h1>
- <p>Flores, a former Cabinet Member in Allende&rsquo;s government, was in a Chilean jail for three years until the Amnesty International group in San Francisco got him out.</p>
+ <p>Flores, a former Cabinet Member in Allende&rsquo;s government, was thrown in jail for three years until the Amnesty International group in San Francisco got him out.</p>
  <p>He did not focus on his time in jail. In fact, he never mentioned it except when giving credit to Amnesty International for getting him out.</p>
  <p>Flores is 81 as ofthisw writing and he isn still an original. He talked more about the lessons from the Pinochet period, including the good. He prefaced by saying something like, &ldquo;<em>there were a couple of things we learned from Pinochet. Hold your comments</em>.&rdquo; (There were a lot of Chileans in the audience, because of Pinochet).</p>
  <p>There was nothing in particular in it that would have predicted Radical. He was a not-so-good teacher but he managed to show us how to think diffrently. <em>That</em> was very valuable and has stayed with menall this time.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
