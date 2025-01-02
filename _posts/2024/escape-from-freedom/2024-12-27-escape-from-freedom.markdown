@@ -13,8 +13,7 @@ hidden:   true
 
 <h1>Extremists Everywhere</h1>
  <div class="_citation">
-  <p>We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it. That instead of wanting freedom, they sought for ways of <em>escape from it</em>.</p>
-  <p>&hellip;</p>
+  <p>We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it. That instead of wanting freedom, they sought for ways of <em>escape from it</em>&hellip;</p>
   <p>The crisis of democracy is not a peculiar Italian or German problem, but confronting every modern state.</p>
  </div>
 
@@ -24,9 +23,6 @@ hidden:   true
    <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon <em>The Leader</em> in foreign countries.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p>One potential evidence of this is the recent (Dec 30, 2024) win of a second, and hopefully last, term by Donald Trump as President of the US.</p>
- <p></p>
- <p></p>
- <p></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
