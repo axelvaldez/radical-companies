@@ -24,14 +24,6 @@ image:    "icon-escape-from-freedom.svg"
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Corporate Rebels.
-    A newsletter by Pim de Morre and Joost Minnaar.
-    <a href="https://newsletter.corporate-rebels.com/posts/freedom-at-work-scary-messy-and-totally-worth-it" target="_blank">Newsletter</a>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
   <li id="en02">
    <p class="_list-item">
     Eric Fromm.
