@@ -12,7 +12,8 @@ hidden:   true
 </div>
 
 <h1>Yesterday</h1>
- <p>No, not the Beatle song, literally Jan 1, 2025, wy wife reminded me of other things that coud be in the chain of what lead me to Radical, besides <em>Escape from Freedom</em>.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a> Including xxx</p>
+ <p>No, not the Beatle song. Literally Jan 1, 2025, wy wife reminded me of other things, besides <em>Escape from Freedom</em>.<a href='#en$1'><sup id='bm$1'>&hairsp;&nabla;&hairsp;</sup></a>, that coud be in the chain of what lead me to Radical.</p>
+ <p>Including xxx</p>
  <p></p>
 
 <h1></h1>
