@@ -7,14 +7,15 @@ image:    "icon-escape-from-freedom.svg"
 ---
 
 <div style='display:none; '>
- <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it. I read it when I was 18-19 years old (I am a mere 73 now).</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
 <h1>Late Last Nigt&hellip;</h1>
- <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I first read it when I was 18-19 years old (I am a mere 73 now).</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it. I read it when I was 18-19 years old (I am a mere 73 now).</p>
+ <em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 
 <h1>Review</h1>
- <p>The rest of this series is my review of <em>Escape from Freddom</em>, by Eric Fromm, publised in 1941. In particular, what resonated with me is how his analysis pre-tellsm the Radical system.</p>
+ <p>The rest of these posts is my review of it. In particular, what resonates with me now is how his analysis pre-tells the Radical system.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
