@@ -20,7 +20,7 @@ hidden:   true
 <h1>Power Ascendance</h1>
  <p>Capital,</p>
   <div class="_citation">
-   <p>&hellip; a suprapersonal force, was determining their economic and thereby their personal fate. Capital &ldquo;had ceased to be a servant and had become a master.&rdquo;. &hellip; it claimed the right of a predominant partner to dictate economic organization in accordance with its exacting requirements.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>Capital, &hellip;<em> a suprapersonal force, was determining their economic and thereby their personal fate. Capital &ldquo;had ceased to be a servant and had become a master.&rdquo;. &hellip; it claimed the right of a predominant partner to dictate economic organization in accordance with its exacting requirements.</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
    <p id="_signature">Richard H Tawney, <em>Religion and the Rise of Capitalism</em>.</p>
   </div>
  <p>This is how capitalism and religion combined to fuel the start of capitalism, as part of the nascent Fiat dynamic.
