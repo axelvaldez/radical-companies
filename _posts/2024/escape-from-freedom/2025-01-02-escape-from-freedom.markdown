@@ -11,8 +11,8 @@ hidden:   true
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it(he is reading it!). I first read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<h1>Yesterday</h1>
- <p>No, not the Beatle song, but on Jan 1, 2025 my wife reminded me of other things, besides <em>Escape from Freedom</em>,<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> that should propably be in the chain that lead me to Radical, including a workshop by Fernando Flores.</p>
+<h1>An Aside</h1>
+ <p>On Jan 1, 2025 my wife reminded me of other things, besides <em>Escape from Freedom</em>,<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> that should propably be in the chain that lead me to Radical, including a workshop by Fernando Flores.</p>
 
 <h1>Carlos <em>Fernando Flores</em> Labra</h1>
  <p>Flores, a former young Cabinet Member in Allende&rsquo;s government, was thrown in jail by Pinochet&lsquo;s regime for three years until the Amnesty International group in San Francisco managed to get him out.</p>
