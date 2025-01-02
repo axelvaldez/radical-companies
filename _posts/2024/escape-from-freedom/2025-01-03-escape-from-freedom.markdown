@@ -11,10 +11,10 @@ hidden:   true
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it(he is reading it!). I first read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<h1>Yesterday</h1>
- <p>.</p>
+<h1></h1>
+ <p></p>
 
- <h1></h1>
+<h1></h1>
  <p></p>
 
 <h1 class="_section">ENDNOTES</h1>
