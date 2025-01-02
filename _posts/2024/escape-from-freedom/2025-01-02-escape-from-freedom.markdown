@@ -17,8 +17,8 @@ hidden:   true
  <h1>Flores</h1>
  <p>Flores, a former Cabinet Member in Allende&rsquo;s government, was in a Chilean jail for three years until the Amnesty International group in San Francisco got him out.</p>
  <p>He did not focus on his time in jail. In fact, he never mentioned it except when giving credit to Amnesty International for getting him out.</p>
- <p>Flores is 81 as ofthisw writing and he isn still an original. He talked more about the lessons from the Pinochet period, including the good. He prefaced by saying something like, &ldquo;<em>you might be surprised, but there were a couple of things we learned from Pinochet</em>.&rdquo; (There were a lot of Chileans in the audience).</p>
- <p>There was nothing in particular that would have predicted Radical. He was a not-so-good teacher but he managed to show us how to think diffrently. <em>That</em> was very valuable and has stayed with me.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>Flores is 81 as ofthisw writing and he isn still an original. He talked more about the lessons from the Pinochet period, including the good. He prefaced by saying something like, &ldquo;<em>there were a couple of things we learned from Pinochet. Hold your comments</em>.&rdquo; (There were a lot of Chileans in the audience, because of Pinochet).</p>
+ <p>There was nothing in particular in it that would have predicted Radical. He was a not-so-good teacher but he managed to show us how to think diffrently. <em>That</em> was very valuable and has stayed with menall this time.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
