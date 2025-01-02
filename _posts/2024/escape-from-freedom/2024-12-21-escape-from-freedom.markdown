@@ -11,8 +11,7 @@ image:    "icon-escape-from-freedom.svg"
 </div>
 
 <h1>Late Last Nigt&hellip;</h1>
- <p>Late last night I read the latest Corporate Rebel post and in it Pim de Morre<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> announced that he was reading <em>Escape from Freedom.</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> I read this book when I was 18-19 years old (I am a mere 73 now).</p>
- <p>I have probably forgotten most of it, but the lessons became part of me.</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I first read it when I was 18-19 years old (I am a mere 73 now).</p>
 
 <h1>Review</h1>
  <p>The rest of this series is my review of <em>Escape from Freddom</em>, by Eric Fromm, publised in 1941. In particular, what resonated with me is how his analysis pre-tellsm the Radical system.</p>
