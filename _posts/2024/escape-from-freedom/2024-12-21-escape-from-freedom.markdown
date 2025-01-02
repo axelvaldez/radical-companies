@@ -12,7 +12,7 @@ image:    "icon-escape-from-freedom.svg"
 
 <h1>Late Last Nigt&hellip;</h1>
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it. I read it when I was 18-19 years old (I am a mere 73 now).</p>
- <em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 
 <h1>Review</h1>
  <p>The rest of these posts is my review of it. In particular, what resonates with me now is how his analysis pre-tells the Radical system.</p>
