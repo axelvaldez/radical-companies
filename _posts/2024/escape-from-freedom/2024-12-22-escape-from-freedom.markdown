@@ -19,18 +19,20 @@ hidden:   true
   <p>They &ldquo;worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
-<p>As Seth Godin has said,</p>
- <div class="_citation">
-  <p>If you want to change the world, change the systems.</p>
-  <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
- </div>
+<h1>Systems</h1>
+ <p>Fiat is a system, and as Seth Godin has said,</p>
+  <div class="_citation">
+   <p>If you want to change the world, change the systems.</p>
+   <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  </div>
 
 <h1>Idol Worship</h1>
- <div class="_citation">
-  <p>&hellip; [mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
-  <p>How can mankind save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
-  <p>[By] increasing awareness, an awareness sufficient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
- </div>
+ <p>People have transformed religion,</p>
+  <div class="_citation">
+   <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>How can mankind save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
+   <p>[By] increasing awareness, an awareness sufficient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
+  </div>
 
 <h1>Intro</h1>
  <p>What I get for the first few passages of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense. Or it lead to a theory.</p>
