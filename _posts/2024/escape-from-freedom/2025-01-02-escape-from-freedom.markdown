@@ -40,7 +40,7 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    <p>I heard about the Fernando Flores lecture while at The Forum, originally EST, a creation of the infamous William Erhard (born John Paul Rosenberg).</p>
+    I heard about the Fernando Flores lecture while at The Forum, originally EST, a creation of the infamous William Erhard (born John Paul Rosenberg).
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
