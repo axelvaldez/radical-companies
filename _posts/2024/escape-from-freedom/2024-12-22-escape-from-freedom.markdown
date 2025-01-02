@@ -15,11 +15,11 @@ hidden:   true
  <div class="_citation">
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
-<p>However, this is true,</p> 
- <div class="_citation">
-  <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <div>
+  <p>They &ldquo;worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
-<p>And as Seth Godin has said,</p>
+
+<p>As Seth Godin has said,</p>
  <div class="_citation">
   <p>If you want to change the world, change the systems.</p>
   <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
