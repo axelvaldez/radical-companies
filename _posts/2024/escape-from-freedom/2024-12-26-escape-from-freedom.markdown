@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape from Freedom (4/8)
+title:    "Escape from Freedom (4/12)
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
 hidden:   true
