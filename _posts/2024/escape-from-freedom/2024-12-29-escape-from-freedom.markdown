@@ -13,7 +13,7 @@ hidden:   true
 
 <h1></h1>
   <div class="_citation">
-   <p> <p>An increase in, &ldquo;<em>capital, market, and competition</em> changed their personal situation into one of <em>insecurity, isolation, and anxiety</em>.&ldquo;</p>
+   <p>An increase in, &ldquo;<em>capital, market, and competition</em> changed their personal situation into one of <em>insecurity, isolation, and anxiety</em>.&ldquo;</p>
    <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
  <p>(Remember that this is a book written by a social psychologist)</p>
