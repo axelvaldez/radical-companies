@@ -11,15 +11,15 @@ hidden:   true
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<div class="_citation">
- <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
- 
- <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
-
- <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
-</div>
-
-<p>As Seth Godin said,</p>
+<p>This is true of people who grew up in the Fiat system (all of us).</p>
+ <div class="_citation">
+  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
+ </div>
+<p>However, this is true,</p> 
+ <div class="_citation">
+  <p>Man &hellip; worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ </div>
+<p>And as Seth Godin has said,</p>
  <div class="_citation">
   <p>If you want to change the world, change the systems.</p>
   <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
@@ -27,14 +27,15 @@ hidden:   true
 
 <h1>Idol Worship</h1>
  <div class="_citation">
-  <p>&hellip; [Mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
-  <p>How can mankimd save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness? (Emphasis added)</p>
-  <p>[By] increasing awareness of the most essential fact of our social existence, an awareness suffcient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
+  <p>&hellip; [mankind] has transformed these teachings into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>How can mankind save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
+  <p>[By] increasing awareness, an awareness sufficient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
  </div>
 
 <h1>Intro</h1>
- <p>What I get for the Intro and the first chapter, <em>Freedom&mdash;A Psychological Problem?</em> is that we have to be in a community.</p>
- <p>Being by ourselves is tricky because it can <em>easily</em> lead to spouting nonsense. On the other hand, it can lead from a believe, to a thesis, to a theory and that development can best happen, I believe, with a community of people.</p>
+ <p>What I get for the Intrfirst few passages of the book, is that we have to be in community.</p>
+ <p>Being by ourselves can lead to spouting nonsense. On the other hand, it can go from a believe, to a thesis, to a theory.</p>
+ <p>Development can best happen within a community of people.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
@@ -49,7 +50,7 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Notice that it makes us slaves to power, money, the state, and the nation.
+    Notice that at the same time it makes us slaves to power, money, the state, and the nation.
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
