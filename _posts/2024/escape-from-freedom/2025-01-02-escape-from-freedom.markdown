@@ -17,7 +17,7 @@ hidden:   true
 <h1>Carlos <em>Fernando Flores</em> Labra</h1>
  <p>Flores, a former young Cabinet Member in Allende&rsquo;s government, was thrown in jail by Pinochet&lsquo;s regime for three years until the Amnesty International group in San Francisco managed form setting him free.</p>
  <p>During the workhop he did not talk much about his time in jail. In fact, he never mentioned it except when giving credit to Amnesty International for getting him out.</p>
- <p>He talked about the lessons from the Pinochet period, surprinsingly including the few &ldquo;good&rdquo; ones. He prefaced it by saying something like, &ldquo;<em>there were a couple of things we learned from Pinochet. Hold your comments</em>.&rdquo; (There were a lot of young Chileans in the audience, because of Pinochet).</p>
+ <p>He talked about the lessons from the Pinochet period, surprinsingly including the few &ldquo;good&rdquo; ones. He prefaced it by saying something like, &ldquo;<em>there were a couple of things we learned from Pinochet. Hold your comments</em>.&rdquo; (There were a lot of young Chileans in the audience, victims of Pinochet).</p>
  <p>As of 2025, Flores is 83 years old and still an original thinker</p>
  <p>There was nothing in particular in the workshop that would have predicted Radical. He managed to show us how to think differently and <em>that</em> has stayed with me.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
