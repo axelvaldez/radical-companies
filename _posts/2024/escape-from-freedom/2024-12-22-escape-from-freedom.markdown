@@ -33,9 +33,7 @@ hidden:   true
  </div>
 
 <h1>Intro</h1>
- <p>What I get for the Intrfirst few passages of the book, is that we have to be in community.</p>
- <p>Being by ourselves can lead to spouting nonsense. On the other hand, it can go from a believe, to a thesis, to a theory.</p>
- <p>Development can best happen within a community of people.</p>
+ <p>What I get for the first few passages of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense. Or it lead to a theory.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
