@@ -18,12 +18,12 @@ hidden:   true
 </div>
 
 <h1>Disturbing</h1>
- <p>One quote that at first disturbed me was,</p>
+ <p>This quote I found at first disturbing,</p>
   <div class="_citation">
    <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
    <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
   </div>
- <p>I guess it disturbed me because in the Radical system &lsquo;private&rsquo; is unexpected, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>I guess it disturbed me because in the Radical systemv &lsquo;private&rsquo; is unexpected, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>Again</h1>
  <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
