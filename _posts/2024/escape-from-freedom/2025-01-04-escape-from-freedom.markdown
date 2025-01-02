@@ -19,10 +19,10 @@ hidden:   true
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/01/02/escape-from-freedom">&lt; Previous</a>
+  <a href="https://radicalcompanies.com/2024/01/03/escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2025/01/04/escape-from-freedom">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2025/01/05/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
 
@@ -38,6 +38,24 @@ hidden:   true
   <li id="en02">
    <p class="_list-item">
     I heard about the Fernando Flores workhop while at The Forum, originally EST, a creation of the infamous William Erhard (born John Paul Rosenberg).
+    <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    AUTHOR(S)
+    DESCRIPTION
+    <a href="TARGET" target="_blank">TITLE</a>
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
