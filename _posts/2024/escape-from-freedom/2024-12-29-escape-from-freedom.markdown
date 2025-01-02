@@ -25,7 +25,7 @@ hidden:   true
    <p>&hellip; a suprapersonal force, was determining their economic and thereby their personal fate. Capital &ldquo;had ceased to be a servant and had become a master.&rdquo;. &hellip; it claimed the right of a predominant partner to dictate economic organization in accordance with its exacting requirements.<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
    <p id="_signature">Richard H Tawney, <em>Religion and the Rise of Capitalism</em>.</p>
   </div>
- <p>This is how capitalism and religion combinrd to start capitalism, as part of Fiat.
+ <p>This is how capitalism and religion combined to start capitalism, as part of Fiat.
   <div class="_citation">
    <p>&hellip; extra personal power, asceticism, and a compulsive sense of duty&mdash;were character traits which became productive forces in capitaistic society and without which modern economic and social development are unthinkable.</p>
   </div>
