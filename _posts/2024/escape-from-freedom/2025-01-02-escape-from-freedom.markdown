@@ -15,7 +15,7 @@ hidden:   true
  <p>On Jan 1, 2025 my wife reminded me of other things, besides <em>Escape from Freedom</em>,<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> that should propably be in the chain that lead me to Radical, including a workshop by Fernando Flores.</p>
 
 <h1>Carlos <em>Fernando Flores</em> Labra</h1>
- <p>Flores, a former young Cabinet Member in Allende&rsquo;s government, was thrown in jail by Pinochet&lsquo;s regime for three years until the Amnesty International group in San Francisco managed to get him out.</p>
+ <p>Flores, a former young Cabinet Member in Allende&rsquo;s government, was thrown in jail by Pinochet&lsquo;s regime for three years until the Amnesty International group in San Francisco managed form setting him free.</p>
  <p>During the workhop he did not talk much about his time in jail. In fact, he never mentioned it except when giving credit to Amnesty International for getting him out.</p>
  <p>He talked about the lessons from the Pinochet period, surprinsingly including the few &ldquo;good&rdquo; ones. He prefaced it by saying something like, &ldquo;<em>there were a couple of things we learned from Pinochet. Hold your comments</em>.&rdquo; (There were a lot of young Chileans in the audience, because of Pinochet).</p>
  <p>As of 2025, Flores is 83 years old and still an original thinker</p>
