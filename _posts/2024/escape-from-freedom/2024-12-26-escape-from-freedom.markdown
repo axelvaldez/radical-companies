@@ -27,7 +27,7 @@ hidden:   true
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
  </div>
- <p>But it was not freedom for <em>all</em> individuals in the US. It was really freedom for a specific class of wealthy land-owner and slave-owner Europeans. They did all this while they looked down at,</p>
+ <p>But it was not freedom for <em>all</em> individuals in the US. It was really freedom for a specific class of wealthy land-owner and slave-owner Europeans. They wrote this while they looked down at,</p>
   <ul>
    <li>Poor Europeans (unreliable)</li>
    <li>American Indians (hostile)</li>
