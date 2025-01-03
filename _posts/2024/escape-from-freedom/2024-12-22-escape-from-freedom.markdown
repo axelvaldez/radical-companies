@@ -16,8 +16,6 @@ hidden:   true
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
 
-0
-
  <h1>Worship</h1>
  <p>We, the people who have grown up in the Fiat system,</p>
   <div class="_citation">
