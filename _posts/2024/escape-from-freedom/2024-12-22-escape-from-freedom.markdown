@@ -50,6 +50,8 @@ hidden:   true
  <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en06'><sup id='bm06'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
+xxx
+
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
   <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">&lt; Previous</a>
