@@ -16,6 +16,8 @@ hidden:   true
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
 
+0
+
  <p>Worship</p>
  <p>We, the people who have grown up in the Fiat system,</p>
   <div class="_citation">
@@ -31,15 +33,14 @@ hidden:   true
    <p>If you want to change the world, change the systems.</p>
    <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
-  
-22
+
 
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
-
+2
 333
 
 <h1>Save Thyself</h1>
