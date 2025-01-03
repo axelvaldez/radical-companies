@@ -25,8 +25,6 @@ hidden:   true
    <p id="_signature">Eric Fromm<!--a href='#en02'><sup id='bm02'>&nabla;</sup></a>--></p>
   </div>
 
-1
-
 <h1>Systems</h1>
  <p>Fiat is a system and as Seth Godin has said,</p>
   <div class="_citation">
@@ -37,15 +35,11 @@ hidden:   true
    </p>
   </div>
 
-2
-
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
-
-3
 
 <h1>Save Thyself</h1>
  <p>We are experiencing this right now: climate change, pollution, potable water!</p>
@@ -53,12 +47,8 @@ hidden:   true
    <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   </div>
 
-4
-
 <h1>Nonsense</h1>
  <p>We have to be in community. Being by ourselves can lead to spouting nonsense.</p>
-
-5
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
