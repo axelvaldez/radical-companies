@@ -15,7 +15,7 @@ hidden:   true
  <div class="_citation">
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
- They&hellip;
+ We&hellip;
  <div class="_citation">
   <p>worships power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
