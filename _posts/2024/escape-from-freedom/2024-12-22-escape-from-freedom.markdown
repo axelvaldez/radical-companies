@@ -15,10 +15,10 @@ hidden:   true
  <div class="_citation">
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
- We, the people who have grown up in the Fiat system, worship,
- <div class="_citation">
-  <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
- </div>
+ <p>>e, the people who have grown up in the Fiat system,</p>
+  <div class="_citation">
+   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup></a></p>
+  </div>
 
 <h1>Systems</h1>
  <p>Fiat is a system, and as Seth Godin has said,</p>
