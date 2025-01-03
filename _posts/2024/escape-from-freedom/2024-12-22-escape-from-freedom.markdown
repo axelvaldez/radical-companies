@@ -50,11 +50,12 @@ hidden:   true
   <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left; "><a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">&lt; Previous</a>
+ <span style="float:left; ">
+  <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
   <a href="https://radicalcompanies.com/2024/12/23/escape-from-freedom">Next &gt;</a>
-</div>
+ </span>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
