@@ -11,12 +11,13 @@ hidden:   true
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<p>This is true of all of us who grew up in the Fiat system.</p>
- <div class="_citation">
-  <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
- </div>
+<h1>Worship</h1>
+ <p>This is true of all of us who grew up in the Fiat system.</p>
+  <div class="_citation">
+   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
+  </div>
 
- <h1>Worship</h1>
+<h1>Worship</h1>
  <p>We, the people who have grown up in the Fiat system,</p>
   <div class="_citation">
    <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<!--<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup></a>--></p>
