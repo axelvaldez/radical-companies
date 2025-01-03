@@ -25,13 +25,13 @@ hidden:   true
  <p>Fiat is a system, and as Seth Godin has said,</p>
   <div class="_citation">
    <p>If you want to change the world, change the systems.</p>
-   <p id="_signature">Seth Godin<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
-   <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Save Thyself</h1>
@@ -72,6 +72,13 @@ hidden:   true
   <li id="en03">
    <p class="_list-item">
     I believe that Jesus and Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
