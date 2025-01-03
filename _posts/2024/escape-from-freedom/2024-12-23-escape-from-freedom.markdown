@@ -19,6 +19,7 @@ hidden:   true
  <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> Eric Fromm says,</p>
   <div class="_citation">
    <p>[Freedom] meaning changes according to the degrees of man&rsquo;s awareness and conception of himself as an independent and separate being.</p>
+   <p id="_signature">Eric Fromm<a href='#en01><sup id='bm01'>&nabla;</sup></a></p>
   </div>
  <p>Fromm asserts that,</p>
   <div class="_citation">

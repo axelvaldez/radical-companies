@@ -15,15 +15,13 @@ hidden:   true
  <p>This is true of all of us who grew up in the Fiat system.</p>
   <div class="_citation">
    <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
-   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
+   <p id="_signature">Eric Fromm<a href='#en01'><sup id='bm01'>&nabla;</sup></a></p>
   </div>
 
 <h1>Worship</h1>
  <p>We also,</p>
   <div class="_citation">
-   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;
-    <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
-   </p>
+   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;</p>
    <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
   </div>
 
