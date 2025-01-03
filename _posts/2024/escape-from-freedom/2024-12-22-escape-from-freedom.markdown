@@ -31,7 +31,13 @@ hidden:   true
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   </div>
+   
+  <div class="_citation">
    <p>How can mankind save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
+   </div>
+
+  <div class="_citation">
    <p>[By] an awareness sufficient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
   </div>
 
