@@ -48,7 +48,7 @@ hidden:   true
   </div>
 
 <h1>Nonsense</h1>
- <p>We have to be in community. Being by ourselves can lead to spouting nonsense.</p>
+ <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
