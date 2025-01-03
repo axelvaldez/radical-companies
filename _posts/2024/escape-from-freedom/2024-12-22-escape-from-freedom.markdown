@@ -35,7 +35,7 @@ hidden:   true
   </div>
 
 <h1>Intro</h1>
- <p>What I get for the first few passages of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense. Or it lead to a theory.</p>
+ <p>What I got from the book is that we have to be in community. Being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
