@@ -28,7 +28,7 @@ hidden:   true
 1
 
 <h1>Systems</h1>
- <p>Fiat is a system, and as Seth Godin has said,</p>
+ <p>Fiat is a system and as Seth Godin has said,</p>
   <div class="_citation">
    <p>If you want to change the world, change the systems.</p>
    <p id="_signature">
