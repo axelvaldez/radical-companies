@@ -29,26 +29,31 @@ hidden:   true
  <div class="_citation">
   <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; [however] these ties give him security, a feeling of belonging, and of being rooted somewhere.</p>
  </div>
- 
- <div class="_citation">
-  <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
- </div>
- 
- <div class="_citation">
-  <p>&hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span></p>
- </div>
- 
- <div class="_citation">
-  <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
- </div>
- 
- <div class="_citation">
-  <p>&hellip; man&rsquo;s biological weaknesses is the condition of human culture.</p>
- </div>
- 
- <div class="_citation">
-  <p>There is only one possible, productive solution  for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
- </div>
+
+ <h1>Indepence</h1>
+  <div class=itation">
+   <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
+  </div>
+
+ <h1>Indepence</h1>
+  <div class="_citation">
+   <p>&hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span></p>
+  </div>
+
+ <h1>Deternation</h1> 
+  <div class="_citation">
+   <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
+  </div>
+
+ <h1>Deternation</h1> 
+  <div class="_citation">
+   <p>&hellip; man&rsquo;s biological weaknesses is the condition of human culture.</p>
+  </div>
+
+ <h1>Individualized</h1> 
+  <div class="_citation">
+   <p>There is only one possible, productive solution for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
+  </div>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
