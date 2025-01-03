@@ -56,7 +56,7 @@ hidden:   true
 4
 
 <h1>Nonsense</h1>
- <p>What I got from this part of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense.</p>
+ <p>We have to be in community. Being by ourselves can lead to spouting nonsense.</p>
 
 5
 
