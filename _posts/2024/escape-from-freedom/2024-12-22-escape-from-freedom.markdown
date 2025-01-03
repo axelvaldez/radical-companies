@@ -15,39 +15,40 @@ hidden:   true
  <p>This is true of all of us who grew up in the Fiat system.</p>
   <div class="_citation">
    <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
-   <p id="_signature">Eric Fromm<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Worship</h1>
  <p>We also,</p>
   <div class="_citation">
    <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;</p>
-   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Systems</h1>
  <p>Fiat is <em>a system</em> and as Seth Godin has said,</p>
   <div class="_citation">
    <p>If you want to change the world, change the systems.</p>
-   <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Seth Godin, <em>Daily Post</em><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.</p>
-   <p id="_signature">Eric Fromm<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Save Thyself</h1>
  <p>We are experiencing this right now: climate change, pollution, potable water!</p>
   <div class="_citation">
    <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
-   <p id="_signature">Eric Fromm<a href='#en05'><sup id='bm05'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en05'><sup id='bm05'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Spouting Nonsense</h1>
  <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
+ <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en05'><sup id='bm06'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
@@ -90,7 +91,14 @@ hidden:   true
    <p class="_list-item">
     Eric Fromm.
     <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
