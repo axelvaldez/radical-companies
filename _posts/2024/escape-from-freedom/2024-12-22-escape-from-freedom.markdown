@@ -74,5 +74,4 @@ hidden:   true
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  </li>
  </ul>
