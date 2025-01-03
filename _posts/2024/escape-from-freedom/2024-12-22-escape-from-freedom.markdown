@@ -48,11 +48,10 @@ hidden:   true
 3
 
 <h1>Save Thyself</h1>
- <p>We are experiencing this right now,</p>
+ <p>We are experiencing this right now: climate change, pollution, water rights!</p>
   <div class="_citation">
    <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   </div>
- <p>Think climate change, pollution, even water rights!</p>
 
 4
 
