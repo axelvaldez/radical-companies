@@ -39,7 +39,7 @@ hidden:   true
   <div class="_citation">
    <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   </div>
- </p>Think climate change, pollution, even water rights!</p>
+ <p>Think climate change, pollution, even water rights!</p>
 
 <h1>Nonsense</h1>
  <p>What I got from this part of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense.</p>
