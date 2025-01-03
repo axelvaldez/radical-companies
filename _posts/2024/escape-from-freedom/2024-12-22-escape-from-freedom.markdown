@@ -15,9 +15,9 @@ hidden:   true
  <div class="_citation">
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
- We worship&hellip;
+ We, the people who have grown up in the FiTat system, worship,
  <div class="_citation">
-  <p>power, money, the sovereign state, the nation.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Systems</h1>
