@@ -40,7 +40,7 @@ hidden:   true
 
  <h1>Indepence</h1>
   <div class="_citation">
-   <p>&hellip; essentially by <em>social conditions</em>. <span style="font-name:courier new">(emphasis added)</span></p>
+   <p>&hellip; essentially by <em>social conditions</em>.</p>
    <p id="_signature">Eric Fromm<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
