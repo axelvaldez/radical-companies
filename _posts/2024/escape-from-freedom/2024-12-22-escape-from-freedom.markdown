@@ -20,8 +20,8 @@ hidden:   true
 <h1>Worship</h1>
  <p>We, the people who have grown up in the Fiat system,</p>
   <div class="_citation">
-   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<!--<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup></a>--></p>
-   <p id="_signature">Eric Fromm<!--a href='#en02'><sup id='bm02'>&nabla;</sup></a>--></p>
+   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup></a></p>
+   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
   </div>
 
 <h1>Systems</h1>
