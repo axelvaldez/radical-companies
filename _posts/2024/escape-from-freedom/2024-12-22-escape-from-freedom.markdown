@@ -23,6 +23,8 @@ hidden:   true
    <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
   </div>
 
+1
+
 <h1>Systems</h1>
  <p>Fiat is a system, and as Seth Godin has said,</p>
   <div class="_citation">
@@ -30,13 +32,15 @@ hidden:   true
    <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
   
-xxx
+22
 
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
+
+333
 
 <h1>Save Thyself</h1>
  <p>We are experiencing this right now,</p>
