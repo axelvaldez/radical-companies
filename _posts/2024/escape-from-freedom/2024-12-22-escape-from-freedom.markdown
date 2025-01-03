@@ -35,6 +35,7 @@ hidden:   true
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromma href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
    </div>
 
 <h1>Save Thyself</h1>
