@@ -33,7 +33,7 @@ hidden:   true
  </div>
 
  <h1>Indepence</h1>
-  <div class=itation">
+  <div class="_citation">
    <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
    <p id="_signature">Eric Fromm<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
