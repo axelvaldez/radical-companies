@@ -15,28 +15,28 @@ hidden:   true
  <p>This is true of all of us who grew up in the Fiat system.</p>
   <div class="_citation">
    <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
-   <p id="_signature">Eric Fromm<a href='#en01'><sup id='bm01'>&nabla;</sup></a></p>
+   <p id="_signature">Eric Fromm<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Worship</h1>
  <p>We also,</p>
   <div class="_citation">
    <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;</p>
-   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
+   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Systems</h1>
  <p>Fiat is <em>a system</em> and as Seth Godin has said,</p>
   <div class="_citation">
    <p>If you want to change the world, change the systems.</p>
-   <p id="_signature">Seth Godin <a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p id="_signature">Eric Fromma <a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
+   <p id="_signature">Eric Fromma<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Save Thyself</h1>
