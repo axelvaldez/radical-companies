@@ -29,10 +29,7 @@ hidden:   true
  <p>Fiat is a system and as Seth Godin has said,</p>
   <div class="_citation">
    <p>If you want to change the world, change the systems.</p>
-   <p id="_signature">
-    Seth Godin
-    <a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a>
-   </p>
+   <p id="_signature">Seth Godin <a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Idol Worship</h1>
