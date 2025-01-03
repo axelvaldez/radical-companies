@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1>Independent?</h1>
- <p>This is true of all of us who grew up in the Fiat system.</p>
+ <p>This is true of all of us who grew up in the Fiat system.,/p>
   <div class="_citation">
    <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
   </div>
