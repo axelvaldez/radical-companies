@@ -22,7 +22,7 @@ hidden:   true
  <p>We, the people who have grown up in the Fiat system,</p>
   <div class="_citation">
    <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<a href='#en01'><!--<sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup>--></a></p>
-   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
+   <p id="_signature">Eric Fromm<!--<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
   </div>
 
 1
@@ -40,8 +40,8 @@ hidden:   true
   <div class="_citation">
    <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
-2
-333
+
+3
 
 <h1>Save Thyself</h1>
  <p>We are experiencing this right now,</p>
@@ -50,8 +50,12 @@ hidden:   true
   </div>
  <p>Think climate change, pollution, even water rights!</p>
 
+4
+
 <h1>Nonsense</h1>
  <p>What I got from this part of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense.</p>
+
+5
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
