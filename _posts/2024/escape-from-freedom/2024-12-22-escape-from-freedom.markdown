@@ -42,7 +42,7 @@ hidden:   true
    <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   </div>
 
-<h1>Nonsense</h1>
+<h1>Spouting onsense</h1>
  <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
