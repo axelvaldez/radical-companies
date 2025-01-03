@@ -11,18 +11,18 @@ hidden:   true
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<p>This is true of people (all of us) who grew up in the Fiat system.</p>
+<p>This is true of all of us who grew up in the Fiat system.</p>
  <div class="_citation">
   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
  </div>
 
 0
 
- <p>Worship</p>
+ <h1>Worship</h1>
  <p>We, the people who have grown up in the Fiat system,</p>
   <div class="_citation">
-   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<a href='#en01'><!--<sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup>--></a></p>
-   <p id="_signature">Eric Fromm<!--<a href='#en02'><sup id='bm02'>&nabla;</sup></a></p>
+   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;<!--<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</ sup></a>--></p>
+   <p id="_signature">Eric Fromm<!--a href='#en02'><sup id='bm02'>&nabla;</sup></a>--></p>
   </div>
 
 1
@@ -34,6 +34,7 @@ hidden:   true
    <p id="_signature">Seth Godin<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
+2
 
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
