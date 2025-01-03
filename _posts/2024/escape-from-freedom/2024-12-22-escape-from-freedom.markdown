@@ -19,7 +19,7 @@ hidden:   true
   </div>
 
 <h1>Worship</h1>
- <p>We, the people who have grown up in the Fiat system,</p>
+ <p>We also,</p>
   <div class="_citation">
    <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;
     <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a>
