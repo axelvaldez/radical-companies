@@ -32,7 +32,7 @@ hidden:   true
    <li>Poor Europeans (unreliable)</li>
    <li>American Indians (hostile)</li>
    <li>Africans and their descendants (who?)<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></li>
-  </ul> 
+  </ul>
  
 <h1>The Federalists</h1>
  <div class="_citation">
