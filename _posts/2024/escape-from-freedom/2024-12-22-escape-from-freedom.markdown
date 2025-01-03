@@ -30,19 +30,18 @@ hidden:   true
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
-   <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
-   </div>
-   
-  <div class="_citation">
-   <p>How can mankind save itself from destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
+   <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
+<h1>Save Thyself</h1>
+ <p>We are experiencing this right now,</p>
   <div class="_citation">
-   <p>[By] an awareness sufficient to prevent us from commiting irreparable follies, and to raise to some small extent our capacity for objectivity and reason.</p>
+   <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
   </div>
+ </p>Think climate change, pollution, even water rights!</p>
 
-<h1>Intro</h1>
- <p>What I got from the book is that we have to be in community. Being by ourselves can lead to spouting nonsense.</p>
+<h1>Nonsense</h1>
+ <p>What I got from this part of the book is that we have to be in community. Being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
@@ -70,13 +69,6 @@ hidden:   true
    </p>
   </li>
   <li id="en03">
-   <p class="_list-item">
-    Seth Godin.
-    Daily Newsletter.
-    <a href="https://seths.blog/2024/12/our-new-school/" target="_blank">Newsletter</a>
-    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  <li id="en04">
    <p class="_list-item">
     I believe that Jesus and Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
