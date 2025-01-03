@@ -47,13 +47,12 @@ hidden:   true
   </div>
 
 <h1>Spouting Nonsense</h1>
- <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
- <p id="_signature">
-  Eric Fromm, <em>Escape from Freedom</em>
-  <a href='#en06'><sup id='bm06'>&hairsp;&nabla;&hairsp;</sup></a>
-xxx
- </p>
+ <div class="_citation">
+  <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
+  <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en06'><sup id='bm06'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ </div>
 
+xxx
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
