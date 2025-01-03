@@ -35,15 +35,15 @@ hidden:   true
 <h1>Idol Worship</h1>
  <p>People have transformed religion,</p>
   <div class="_citation">
-   <p>&hellip; into a jungle of superestition and idol-worship.<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
-   <p id="_signature">Eric Fromma<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>&hellip; into a jungle of superestition and idol-worship.</p>
+   <p id="_signature">Eric Fromm<a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
    </div>
 
 <h1>Save Thyself</h1>
  <p>We are experiencing this right now: climate change, pollution, potable water!</p>
   <div class="_citation">
    <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
-   <p id="_signature">Eric Fromm<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm<a href='#en05'><sup id='bm05'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Spouting Nonsense</h1>
@@ -80,6 +80,13 @@ hidden:   true
    </p>
   </li>
   <li id="en04">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
    <p class="_list-item">
     Eric Fromm.
     <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
