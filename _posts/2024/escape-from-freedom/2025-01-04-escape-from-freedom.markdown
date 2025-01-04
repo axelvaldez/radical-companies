@@ -16,12 +16,12 @@ hidden:   true
 
 <h1>Read Me</h1>
  <p>First came the prokaryotes (SURVIVE!) and then came eukaryoutes (Do not eat the liver, HE IS A FRIEND).</p>
-<p>Eukaryotes won by collaborating and can read Miguel de Cervantes y Saavedra! (El Ingenioso Hidalgo Don Quixote de la Mancha)</p>
+<p>Eukaryotes won by collaborating and can read Miguel de Cervantes y Saavedra!<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>New rules</h1>
   <div class="_citation">
    <p>As cells transitioned  from rivals to teammates, new rules were needed.</p>
-   <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</span></p>
+   <p id="_signature">Dr Jason Fung, <span class="_italized">The Cancer Code</span></p>
   </div> 
  <p>And that is the rub. The cells (<em>i.e.</em>, human beings), will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with furners!</p>
  <p>Because they are smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
@@ -31,7 +31,7 @@ hidden:   true
    <li>The second-to-third generations will transition.</li>
    <li>By the third-to-fourth generation collaboration collaboration will be a given.</li>
   </ul>
- <p>However, &ldquo;the mob&ldquo; is still there, in all of us, and must be dealt with. That is why nice, polite people turns into a mob at the first sign of fire and then revert to <span id="italized">normal, polite</span> people afterwards.</p>
+ <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in all of us, and must be dealt with. That is why nice, polite people turns into a mob at the first sign of fire and then revert to <span class="_italized">normal, polite</span> people afterwards.</p>
  <p></p>
  <p></p>
  <p></p>
@@ -59,8 +59,7 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Eric Fromm.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <p class="_italized">El Ingenioso Hidalgo Don Quixote de la Mancha.</p>
     <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
