@@ -18,7 +18,7 @@ hidden:   true
  <p>First came the prokaryotes (SURVIVE!) and then came eukaryoutes (Do not eat the liver, HE IS A FRIEND).</p>
  <p>Eukaryotes won by collaborating and can read Shakespeare!</p>
 
-<h1>New rules</h1.>
+<h1>New rules</h1>
   <div class="_citation">
    <p>As cells transitioned  from rivals to teammates, new rules were needed.</p>
    <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</span></p>
