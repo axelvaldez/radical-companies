@@ -690,20 +690,12 @@ h4 {
   background-color:#dedede;
 }
 
-/**/
+/*
+ * _standout
+ */
 #_standout {
   font-family: 'courier new';
   font-size: 20px;
-}
-/*
- * _italized
- */
-#_italized {}
-#_italized::before {
-  content: "&lsquo;<em>";
-}
-#_italized::after {
-  content: "</em>&rdquo";
 }
 
 /*
