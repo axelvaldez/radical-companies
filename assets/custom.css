@@ -697,7 +697,7 @@ h4 {
 }
 
 #_italized::before {
-  content:&lsquo;<em>;
+  content:"&lsquo;<em>";
 }
-]#_italized::after {
-  content:</em>&rdquo;
+#_italized::after {
+  content:"</em>&rdquo";
