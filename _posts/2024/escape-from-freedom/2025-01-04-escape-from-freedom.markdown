@@ -15,8 +15,7 @@ hidden:   true
  <p>Ciao. A la prochaine. Hasta la próxima. See you.</p>
 
 <h1>Read Me</h1>
- <p>First came the prokaryotes (<span class="_type">SURVIVE!</span>) and then came eukaryoutes (Do not eat the liver, <span class="_type">HE IS A FRIEND</span>).</p>
-<p>Eukaryotes won by collaborating. They and can read Miguel de Cervantes!<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>First came the prokaryotes (<span class="_type">SURVIVE!</span>) and then came eukaryoutes (Do not eat the liver, <span class="_type">HE IS A FRIEND</span>). Eukaryotes won by collaborating. They and can read Miguel de Cervantes!<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1>New Rules</h1>
   <div class="_citation">
