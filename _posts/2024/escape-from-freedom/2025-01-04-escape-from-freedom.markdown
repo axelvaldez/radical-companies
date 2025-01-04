@@ -28,7 +28,7 @@ hidden:   true
   <ul>
    <li>The first-to-second generations will fight it.</li>
    <li>The second-to-third generations will transition.</li>
-   <li>By the third-to-fourth generation collaboration collaboration will be a given.</li>
+   <li>By the third-to-fourth generation collaboration will be a given.</li>
   </ul>
  <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in all of us, and must be dealt with. That is why nice, polite people turns into a mob at the first sign of fire and then revert to <span class="_italized">normal, polite</span> people afterwards.</p>
  <p></p>
