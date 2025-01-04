@@ -16,7 +16,7 @@ hidden:   true
 
 <h1>Read Me</h1>
  <p>First came the prokaryotes (SURVIVE!) and then came eukaryoutes (Do not eat the liver, HE IS A FRIEND).</p>
- <p>Eukaryotes won by collaborating and can read Shakespeare!</p>
+<p>Eukaryotes won by collaborating and can read Miguel de Cervantes y Saavedra! (El Ingenioso Hidalgo Don Quixote de la Mancha)</p>
 
 <h1>New rules</h1>
   <div class="_citation">
