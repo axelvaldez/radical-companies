@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>That is the end of the review. This is my &lsquo;<em>ciao, arrivederci, revoir, hasta luego, so long.</em>&rsquo;</p>
+ <p>This is my &lsquo;<em>ciao, revoir, hasta luego, so long.</em>&rsquo;</p>
 
 <h1>Aqui Va Lo Importante…</h1>
  <p>According to Dr Jason Fung, first came thene were prokaryotes (SURVIVE!) and then came eucaryoutes (Do not eat your liver, he is a friend). Eukaryotes won, collaboration won and can read Shakespeare!</p>
