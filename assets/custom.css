@@ -691,17 +691,9 @@ h4 {
 }
 
 /*
- * _standout
- */
-#_standout {
-  font-family: 'courier new';
-  font-size: 20px;
-}
-
-/*
  * _type
  */
 #_type {
   font-family:'Courier New';
-  font-size:20px;
+  font-size:120px;
 }
