@@ -12,9 +12,28 @@ hidden:   true
 </div>
 
 <h1></h1>
+ <p>That is the end of the review. This is my &lsquo;<em>ciao, arrivederci, revoir, hasta luego, so long.</em>&rsquo;</p>
+
+<h1>Aqui Va Lo Importante…</h1>
+ <p>According to Dr Jason Fung, first came thene were prokaryotes (SURVIVE!) and then came eucaryoutes (Do not eat your liver, he is a friend). Eukaryotes won, collaboration won and can read Shakespeare!</p>
+  <div class="_citation">
+  As cells transitioned  from rivals to teammates, new rules were needed.
+  </div>
+ <p>And that is the rub. The cells, called human beinbgs, will rebel vociferously aginst collaboration with stranges. It is all well and good with some friends and family, but not with strangers. Yuck!</p>
+ <p>Eventually they will collaborate with (used-to-be-strangers-but-now-are-)teammates as well, but it will take a long, long time. This is not for the impatient.</p>
+ <p>The firstngemeration will fight it, and the secongd generation will transition. By the third generation collaboration will be a fact, but the initial programming is nstill there. That is why a crowd of polite people will turn into a mob at the the first sign of fire. That same mob, and will revert to <_italized>normal</_italized> polite people after the disaster.</p>
+ <p></p>
+ <p></p>
+ <p></p>
  <p></p>
 
 <h1></h1>
+ <p></p>
+ <p></p>
+ <p></p>
+ <p></p>
+ <p></p>
+ <p></p>
  <p></p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">

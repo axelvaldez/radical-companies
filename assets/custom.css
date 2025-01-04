@@ -695,3 +695,9 @@ h4 {
   font-family: 'courier new';
   font-size: 20px;
 }
+
+#_italized::before {
+  content:&lsquo;<em>;
+}
+]#_italized::after {
+  content:</em>&rdquo;
