@@ -31,7 +31,7 @@ hidden:   true
    <li>The second-to-third generations will transition.</li>
    <li>By the third-to-fourth generation collaboration collaboration will be a given.</li>
   </ul>
- <p>However, the mob is still there, in all of us. That is why nice, polite people turns into a mob at the first sign of fire and then reverts to <span id="italized">normal, polite</span> people afterwards.</p>
+ <p>However, the mob is still there, in all of us. That is why nice, polite people turns into a mob at the first sign of fire and then revert to <span id="italized">normal, polite</span> people afterwards.</p>
  <p></p>
  <p></p>
  <p></p>
