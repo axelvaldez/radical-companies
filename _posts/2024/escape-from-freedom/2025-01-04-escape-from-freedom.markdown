@@ -18,8 +18,7 @@ hidden:   true
  <p>According to Dr Jason Fung, first came thene were prokaryotes (SURVIVE!) and then came eucaryoutes (Do not eat your liver, he is a friend). Eukaryotes won, collaboration won and can read Shakespeare!</p>
   <div class="_citation">
    <p>As cells transitioned  from rivals to teammates, new rules were >needed.</p>
-   <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</italized></p>
-  </div>
+   <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</span></p>
  <p>And that is the rub. The cells, called human beings, will rebel vociferously against collaboration <em>with stranges</em>. It is all well and good with friends and family, but not with strangers. Yuck!</p>
  <p>Eventually they will collaborate with (used-to-be-strangers-but-now-are-)teammates as well, but it will take a long, long time. This is not for the impatient.</p>
  <p>The firstngemeration will fight it, and the secongd generation will transition. By the third generation collaboration will be a fact, but the initial programming is nstill there. That is why a crowd of polite people will turn into a mob at the the first sign of fire. That same mob, and will revert to <span id="italized">normal</span> polite people after the disaster.</p>
