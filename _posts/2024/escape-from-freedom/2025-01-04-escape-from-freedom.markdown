@@ -19,7 +19,7 @@ hidden:   true
   <div class="_citation">
   As cells transitioned  from rivals to teammates, new rules were needed.
   </div>
- <p>And that is the rub. The cells, called human beinbgs, will rebel vociferously aginst collaboration with stranges. It is all well and good with some friends and family, but not with strangers. Yuck!</p>
+ <p>And that is the rub. The cells, called human beings, will rebel vociferously against collaboration <em>with stranges</em>. It is all well and good with friends and family, but not with strangers. Yuck!</p>
  <p>Eventually they will collaborate with (used-to-be-strangers-but-now-are-)teammates as well, but it will take a long, long time. This is not for the impatient.</p>
  <p>The firstngemeration will fight it, and the secongd generation will transition. By the third generation collaboration will be a fact, but the initial programming is nstill there. That is why a crowd of polite people will turn into a mob at the the first sign of fire. That same mob, and will revert to <_italized>normal</_italized> polite people after the disaster.</p>
  <p></p>
