@@ -23,7 +23,7 @@ hidden:   true
    <p>As cells transitioned  from rivals to teammates, new rules were needed.</p>
    <p id="_signature">Dr Jason Fung, The Cancer Code</p>
   </div> 
- <p>And that is the rub. People (<em>i.e.</em>, the cells) will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with furners!</p>
+ <p>And that is the rub. People (<em>i.e.</em>, the cells) will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with foreigners!</p>
  <p>Because they are smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
  <p>My guess is that,</p>
   <ul>
