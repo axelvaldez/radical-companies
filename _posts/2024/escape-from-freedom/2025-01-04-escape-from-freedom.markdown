@@ -27,11 +27,11 @@ hidden:   true
  <p>Because they are smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
  <p>My guess is that,</p>
   <ul>
-   <li>The first gemeration will fight it.</li>
-   <li>The second generation will transition.</li>
-   <li>By the third generation collaboration will be a given.</li>
+   <li>The first-to-second generations will fight it.</li>
+   <li>The second-to-third generations will transition.</li>
+   <li>By the third-to-fourth generation collaboration will be a given.</li>
   </ul>
- <p>However, the mob is still there. That is why nice, polite people turns into a mob at the first sign of fire and then will revert to <span id="italized">normal, polite</span> people afterwards.</p>
+ <p>However, the mob is still there, in all of us. That is why nice, polite people turns into a mob at the first sign of fire and then reverts to <span id="italized">normal, polite</span> people afterwards.</p>
  <p></p>
  <p></p>
  <p></p>
