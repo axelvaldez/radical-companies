@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>Ciao. Revoir. Hasta luego. So long.</p>
+ <p>Ciao. Si longtemps. Hasta luego. So long.</p>
 
 <h1>Read Me</h1>
  <p>According to Dr Jason Fung, first came thene were prokaryotes (SURVIVE!) and then came eucaryoutes (Do not eat your liver, he is a friend). Eukaryotes won, collaboration won and can read Shakespeare!</p>
