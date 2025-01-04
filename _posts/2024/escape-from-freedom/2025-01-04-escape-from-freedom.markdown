@@ -15,7 +15,8 @@ hidden:   true
  <p>Ciao. A la prochaine. Hasta la próxima. See you.</p>
 
 <h1>Read Me</h1>
- <p>According to Dr Jason Fung, first came thene were prokaryotes (SURVIVE!) and then came eucaryoutes (Do not eat your liver, he is a friend). Eukaryotes won, collaboration won and can read Shakespeare!</p>
+ <p>First came the prokaryotes (SURVIVE!) and then came eukaryoutes (Do not eat the liver, HE IS A FRIEND).</p>
+ <p>Eukaryotes won by collaborating and can read Shakespeare!</p>
   <div class="_citation">
    <p>As cells transitioned  from rivals to teammates, new rules were needed.</p>
    <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</span></p>
