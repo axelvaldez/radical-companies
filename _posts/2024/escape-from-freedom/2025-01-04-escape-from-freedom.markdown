@@ -24,7 +24,7 @@ hidden:   true
    <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</span></p>
   </div> 
  <p>And that is the rub. The cells (<em>i.e.</em>, human beings), will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with furners!</p>
- <p>Because they are smart, eventually they will collaborate what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
+ <p>Because they are smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
  <p>My guess is that,</p>
   <ul>
    <li>The first gemeration will fight it.</li>
