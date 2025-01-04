@@ -58,15 +58,15 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    <p class="_italized">El Ingenioso Hidalgo Don Quixote de la Mancha.</p>
+    El Ingenioso Hidalgo Don Quixote de la Mancha.
     <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en02">
    <p class="_list-item">
-    AUTHOR(S)
+    Dr Jason Fong.
     DESCRIPTION
-    <a href="TARGET" target="_blank">TITLE</a>
+    <a href="https://www.amazon.com/Cancer-Code-Revolutionary-Understanding-Wellness/dp/0062894005" target="_blank">The Cancer Code</a>
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
