@@ -21,8 +21,11 @@ hidden:   true
    <p>As cells transitioned  from rivals to teammates, new rules were needed.</p>
    <p id="_signature">Dr Jason Fung, <span id="_italized">The Cancer Code</span></p>
   </div> 
- <p>And that is the rub. The cells/human beings, will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with strangers!</p>
- <p>Eventually they will collaborate with (what-used-to-be-strangers-but-now-are-)teammates as well, but it will take a long, long time. This is not for the impatient. The first gemeration will fight it, and the secongd generation will transition. By the third generation collaboration will be a fact, but the initial programming is nstill there. That is why a crowd of polite people will turn into a mob at the the first sign of fire. That same mob, and will revert to <span id="italized">normal</span> polite people after the disaster.</p>
+ <p>And that is the rub. The cells (<em>i.e.</em>, human beings), will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with strangers!</p>
+ <p>Eventually they will collaborate, because they are smart with (what-used-to-be-strangers) teammates as well, but it will take a long, long time. This is not for the impatient. The first gemeration will fight it religion will be involved (not to be irrevelant).</p>
+ <p>The second generation will transition.</p>
+ <p>By the third generation collaboration will be a given.</p>
+ <p>However, the initial programming is still there. For example, that is why a crowd of nice, polite people will turn into a mob at the first sign of fire. That same mob, will revert to <span id="italized">normal, polite</span> people afterwards.</p>
  <p></p>
  <p></p>
  <p></p>
