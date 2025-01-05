@@ -53,7 +53,6 @@ hidden:   true
   <li id="en02">
    <p class="_list-item">
     Dr Jason Fong.
-    DESCRIPTION
     <a href="https://www.amazon.com/Cancer-Code-Revolutionary-Understanding-Wellness/dp/0062894005" target="_blank">The Cancer Code</a>
     <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
