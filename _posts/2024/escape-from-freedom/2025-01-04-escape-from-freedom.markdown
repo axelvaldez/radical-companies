@@ -25,9 +25,9 @@ cde
    <p id="_signature">Dr Jason Fung, The Cancer Code</p>
   </div> 
  <p>And that is the rub. People (<em>i.e.</em>, the cells) will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with foreigners! Because they are smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
- <p>My guess is that,</p>
+ <p>My guess is that, like Viet-nam,</p>
   <ul>
-   <li>The first generations will fight it.</li>
+   <li>The first generations will fight it</li>
    <li>The second generations will transition.</li>
    <li>By the third generation collaboration will be a given.</li>
   </ul>
