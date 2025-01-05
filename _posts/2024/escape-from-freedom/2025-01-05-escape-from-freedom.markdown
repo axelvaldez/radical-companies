@@ -24,13 +24,13 @@ hidden:   true
   </div> 
  <p>And there&rsquo;s the rub.</p>
  <p>People (<em>i.e.</em>, the cells) will protest vociferously against collaboration <em>with strangers</em>. &ldquo;<em>It is all well and good with friends and family, but, damn, not with foreigners!</em>&rdquo; Because they are human smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
- <p>My guess is that, like Viet-nam war,</p>
+ <p>My guess is that, like the Viet-nam war,</p>
   <ul>
    <li>The first generations will fight it</li>
    <li>The second generations will transition.</li>
    <li>By the third generation collaboration will be a given.</li>
   </ul>
- <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in our heads. That is why nice, polite people turns into a mob at the first sign of dangerous fire and then revert to &ldquo;<em>normal, polite</em>&rdquo; people afterwards.</p>
+ <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in our heads. That is why &ldquo;<em>nice, polite</em>&rdquo; people turns into a mob at the first sign of dangerous fire and then revert to &ldquo;<em>normal, polite</em>&rdquo; people afterwards.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
