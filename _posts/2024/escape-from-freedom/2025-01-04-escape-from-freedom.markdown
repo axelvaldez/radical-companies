@@ -15,9 +15,9 @@ hidden:   true
  <p>Ciao. A la prochaine. Hasta la próxima. See you.</p>
 
 <h1>Read Me</h1>
- <p>First came the prokaryotes (<span style="font-family:Courier; font-size:18px; ">>SURVIVE!</span>) and then came eukaryoutes (Do not eat the liver, <span style="font-family:Courier; font-size:20px; ">HE IS A FRIEND</span>). Eukaryotes won by collaborating. They and can even read Don Quixote!<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>First came the prokaryotes (<span style="font-family:Courier; font-size:186px; ">>SURVIVE!</span>) and then came eukaryoutes (Do not eat the liver, <span style="font-family:Courier; font-size:16px; ">HE IS A FRIEND</span>). Eukaryotes won by collaborating. They and can even read Don Quixote!<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
-def
+efg
 
 <h1>New Rules</h1>
   <div class="_citation">
