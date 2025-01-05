@@ -27,9 +27,9 @@ abc
  <p>And that is the rub. People (<em>i.e.</em>, the cells) will protest vociferously against collaboration <em>with strangers</em>. It is all well and good with friends and family, but, damn, not with foreigners! Because they are smart, eventually they will collaborate with what used-to-be strangers as well, but it will take a long, long time. This is not for the impatient.</p>
  <p>My guess is that,</p>
   <ul>
-   <li>The first-to-second generations will fight it.</li>
-   <li>The second-to-third generations will transition.</li>
-   <li>By the third-to-fourth generation collaboration will be a given.</li>
+   <li>The first generations will fight it.</li>
+   <li>The second generations will transition.</li>
+   <li>By the third generation collaboration will be a given.</li>
   </ul>
  <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in all of us, and must be dealt with. That is why nice, polite people turns into a mob at the first sign of fire and then revert to &ldquo;<em>normal, polite</em>&rdquo; people afterwards.</p>
 
