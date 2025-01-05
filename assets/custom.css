@@ -695,6 +695,6 @@ h4 {
  */
 ._type {
   font-size:120px;
-  font-family:'Courier New';
-  font-family:Arial;
+  font-family: Helvetica;
+  font-family: Courier;
 }
