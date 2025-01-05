@@ -29,7 +29,7 @@ hidden:   true
    <li>The second generations will transition.</li>
    <li>By the third generation collaboration will be a given.</li>
   </ul>
- <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in all of us, and must be dealt with. That is why nice, polite people turns into a mob at the first sign of fire and then revert to &ldquo;<em>normal, polite</em>&rdquo; people afterwards.</p>
+ <p>However, the mob<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a> is still there, in our heads, and must be dealt with. That is why nice, polite people turns into a mob at the first sign of fire and then revert to &ldquo;<em>normal, polite</em>&rdquo; people afterwards.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
