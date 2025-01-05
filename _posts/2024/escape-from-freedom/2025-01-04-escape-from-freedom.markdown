@@ -48,6 +48,7 @@ abc
    <p class="_list-item">
     Miguel de Cervantes y Saavedra
     El Ingenioso Hidalgo Don Quixote de la Mancha.
+    <a hreff="https://en.wikipedia.org/wiki/Miguel_de_Cervantes" target="_blank">Miguel de Cervantes</a>
     <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
