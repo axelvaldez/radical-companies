@@ -695,6 +695,5 @@ h4 {
  */
 ._type {
   font-size:120px;
-  font-family: Helvetica;
-  font-family: Courier;
+  font-family:Helvetica, sans-serif;
 }
