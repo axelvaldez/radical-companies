@@ -61,7 +61,9 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    Notice that at the same time it makes us slaves to power, money, the state, and the nation.
+    x Notice that at the same time it makes us slaves to power, money, the state, and the nation. x
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
