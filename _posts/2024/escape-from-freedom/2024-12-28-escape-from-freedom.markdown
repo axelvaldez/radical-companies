@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape from Freedom (6/12)"
+title:    "Escape from Freedom (5/12)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
@@ -8,48 +8,28 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it  (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<h1></h1>
+<h1>Extremists Everywhere</h1>
  <div class="_citation">
-  <p>Homini divitiae sunt, non homo propter divitias<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
-  <p id="_signature">San Ant&oacute;nio de P&aacute;dua, Doctor of the Church</p>
-</div>
-
-<h1>Disturbing</h1>
- <p>This quote I found at first disturbing,</p>
-  <div class="_citation">
-   <p><em>Private property is a necessary institution</em>, men work more and dispute less when goods are private than when they are common.</p>
-   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
-  </div>
- <p>I guess it disturbed me because in the Radical systemv &lsquo;private&rsquo; is unexpected, unless we are talking about a toothbrush<a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
-
-<h1>Again</h1>
- <p>I read it again and it really does not conflict with Radical if instead of &rsquo;property&lsquo; it had said,
-  <div class="_citation">
-   <p><em>Production of</em> private <em>goods</em> is a necessary institution.</p>
-  </div>
- <p>Perhaps unsurprisingly,</p>
-  <div class="_citation">
-   <p>&hellip; they reflect to some extent the actual spirit of medieval society.</p>
-   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
-  </div>
-
-<h1>The Money Class</h1>
- <p>This was surprising as well,</p>
- <div class="_citation">
-  <p>By the 15<sup>th</sup> century</em>&hellip; the shares belonged to capitalists &hellip; and increasingly the work was done by workers who were paid wages and had no share in the enterprise.</p>
-  <p id="_signature">Eric Fromm. <em>Escape from Freedom</em></p>
+  <p>We have been compelled to recognize that millions in Germany were as eager to surrender their freedom as their fathers were to fight for it. That instead of wanting freedom, they sought for ways of <em>escape from it</em>&hellip;</p>
+  <p>The crisis of democracy is not a peculiar Italian or German problem, but confronting every modern state.</p>
  </div>
- <p>This means that the Fiat thing was in full swing <em>before</em> the 15<sup>th</sup> Century. MNobodhy noticed, or perhaps they did, that it was started by Kings and Queens who printed their own currency to collect taxes.</p>
+
+<h1>Ourselves</h1>
+ <p>According to what John Dewey forcefully said,</p>
+  <div class="_citation">
+   <p>The serious threat to our democracy is not the existance of foreign totalitarian states. It is the existence within our own personal attitudes and within our own institutions of conditions which have given a victory to external authority, discipline, uniformity and dependence upon <em>The Leader</em> in foreign countries.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  </div>
+ <p>One potential evidence of this is the recent (Dec 30, 2024) win of a second, and hopefully last, term by Donald Trump as President of the US.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/27/escape-from-freedom">&lt; Previous</a>
+  <a href="https://radicalcompanies.com/2024/12/26/escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/29/escape-from-freedom">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/28/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
 
@@ -57,15 +37,11 @@ hidden:   true
  <ul>
   <li id="en01">
    <p class="_list-item">
-    San Ant&oacute;nio de P&aacute;dua ()).
-    &ldquo;Riches exist for man, not man for riches.&rdquo;
-    <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en02">
-   <p class="_list-item">
-    A company is not a property that can be bought and sold, it is a group people working towards making an impact. Of course, a <em>company</em> can be converted to a private <em>business</em> and then sold.
-    <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
+    John Dewey.
+    <a href="https://archive.org/details/dewey_freedomculture" target="_blank">Freedom and Culture</a>.
+    G P Putnam and Sons, New York.
+    1939.</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
