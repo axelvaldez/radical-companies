@@ -14,7 +14,7 @@ image:    "icon-supreme-god-religion.svg"
  <p>This is a very brief review of of Bichler and Nitzam paper.</p>
 
 <h1>Supreme God</h1>
- <p>The term <em>Supreme God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a celestial hierarchical power above all the other Gods. The Earthly verskion has lasted for quite a while, to this day, in fact.</p>
+ <p>The term <em>Supreme God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a celestial hierarchical power above all the other Gods. The Earthly version has lasted to this day, in fact.</p>
  <p>Countries and businesses adopted the pattern and it has worked very well for them.</p>
 
 <h1></h1>
