@@ -56,6 +56,7 @@ hidden:   true
  <span style="float:right; ">
   <a href="https://radicalcompanies.com/2024/12/23/escape-from-freedom">Next &gt;</a>
  </span>
+</div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
