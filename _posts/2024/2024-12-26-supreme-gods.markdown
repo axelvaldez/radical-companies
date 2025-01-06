@@ -7,8 +7,8 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- <p>It started with Zoroastrian, in Persia (he probably wanted to appeal to the Kings and Queens of the times).</p>
-</div>
+ <p>It started with Zoroastrian, in Persia (he probably wanted to appeal to the Kings and Queens of his time or he wanted to be the pope).</p>
+</div
 
 <h1>Supreme God</h1>
  <p>This is a very brief review of of Bichler and Nitzam paper.</p>
