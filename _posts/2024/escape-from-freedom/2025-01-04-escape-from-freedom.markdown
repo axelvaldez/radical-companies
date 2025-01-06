@@ -35,12 +35,4 @@ hidden:   true
     <a href="#bm01" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en02">
-   <p class="_list-item">
-    AUTHOR(S)
-    DESCRIPTION
-    <a href="TARGET" target="_blank">TITLE</a>
-    <a href="#bm02" class="_uparrow"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
  </ul>
