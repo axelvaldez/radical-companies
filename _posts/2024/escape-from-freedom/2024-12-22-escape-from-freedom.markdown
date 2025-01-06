@@ -69,8 +69,7 @@ hidden:   true
   </li>
   <li id="en02">
    <p class="_list-item">
-    Eric Fromm.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    Notice that at the same time it makes us slaves to &ldquo;power, money, the state, and the nation.&rdquo;
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
