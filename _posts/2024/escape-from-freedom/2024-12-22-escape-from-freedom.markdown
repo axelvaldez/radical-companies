@@ -50,12 +50,8 @@ hidden:   true
   <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">&lt; Previous</a>
- </span>
- <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/23/escape-from-freedom">Next &gt;</a>
- </span>
+ <span style="float:left; "> <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/12/23/escape-from-freedom">Next &gt;</a></span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
@@ -77,7 +73,7 @@ hidden:   true
   <li id="en03">
    <p class="_list-item">
     Jesus and Mohammed are stories from the Iron Age used as a means to convert the people of that time to a particular religion.
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
