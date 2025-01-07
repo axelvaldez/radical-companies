@@ -24,7 +24,7 @@ hidden:   true
   </div>
  <p>Fromm asserts that,</p>
   <div class="_citation">
-   <p>&hellip; individuation seems to have reached its peak &hellip; between the Reformation and the present.</p>
+   <p>&hellip; individuation seems to have reached its peak&hellip; between the Reformation and the present.</p>
    <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 <p>And,</p>
