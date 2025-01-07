@@ -66,14 +66,15 @@ hidden:   true
   <li id="en02">
    <p class="_list-item">
     Eric Fromm.
-    Notice that at the same time it makes us slaves to &ldquo;power, money, the state, and the nation.&rdquo;
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Newale from Freedom</a>
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en03">
    <p class="_list-item">
-    Religious stories from the Iron Age are used as a means to convert the people of that time to a particular religion.
+    Seth Godin.
+    Religious stories from the Iron Age used as to convert the people of that time to a particular religion.
+    <a href="https://seths.blog/2024/12/our-new-school/" target="_blank">Blog Post</a>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
