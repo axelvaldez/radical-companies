@@ -87,7 +87,7 @@ hidden:   true
     Seth Godin.
     Stories from the Iron Age used to convert people to a particular religion.
     <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
-    <a class="_uparrow" href="#bm03"2024><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
