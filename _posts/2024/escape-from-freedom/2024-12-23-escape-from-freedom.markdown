@@ -25,30 +25,30 @@ hidden:   true
  <p>Fromm asserts that,</p>
   <div class="_citation">
    <p>&hellip; individuation seems to have reached its peak&hellip; between the Reformation and the present.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en02'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 <p>And,</p>
  <div class="_citation">
   <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; [however] these ties give him security, a feeling of belonging, and of being rooted somewhere.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en013><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Indepence</h1>
   <div class="_citation">
    <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en04'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Conditions</h1>
   <div class="_citation">
    <p>&hellip; essentially by <em>social conditions</em>.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en05'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Determination</h1> 
   <div class="_citation">
    <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en06'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>For the Individual</h1> 
@@ -65,3 +65,43 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/27/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en02">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en03">
+   <p class="_list-item">
+    Seth Godin.
+    Stories from the Iron Age used to convert people to a particular religion.
+    <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
+    <a class="_uparrow" href="#bm03"2024><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en04">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+  <li id="en05">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
