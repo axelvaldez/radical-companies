@@ -65,15 +65,3 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/27/escape-from-freedom">Next &gt;</a>
  </span>
 </div>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    authors.
-    description.
-    <a href="display" target="_blank">display</a>
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
- </ul>
