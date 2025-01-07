@@ -73,7 +73,7 @@ hidden:   true
   <li id="en03">
    <p class="_list-item">
     Seth Godin.
-    Stories from the Iron Age used as to convert people to a particular religion. 
+    Stories from the Iron Age used as to convert people to a particular religion.
     <a href="https://seths.blog/2024/12/our-new-school/" target="_blank">Blog Post</a>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
