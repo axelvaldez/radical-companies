@@ -30,7 +30,7 @@ hidden:   true
 <p>And,</p>
  <div class="_citation">
   <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; [however] these ties give him security, a feeling of belonging, and of being rooted somewhere.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en013><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en013'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Indepence</h1>
