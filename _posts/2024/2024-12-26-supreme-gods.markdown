@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- <p>It started with Zoroastrian, in Persia. He probably wanted to appeal to the Kings and Queens of his time (or maybe he wanted to be the Persian eqivalent of pope).</p>
+ <p>It started with Zoroastrian, in Persia. He probably wanted to appeal to the Kings and Queens of his time (or maybe he wanted to be the Persian equivalent of pope).</p>
 </div>
 
 <h1></h1>
