@@ -30,7 +30,7 @@ hidden:   true
 <p>And,</p>
  <div class="_citation">
   <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; [however] these ties give him security, a feeling of belonging, and of being rooted somewhere.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en013'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en03'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
 
 <h1>Indepence</h1>
@@ -84,16 +84,16 @@ hidden:   true
   </li>
   <li id="en03">
    <p class="_list-item">
-    Seth Godin.
-    Stories from the Iron Age used to convert people to a particular religion.
-    <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
    <p class="_list-item">
-    Eric Fromm.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    Seth Godin.
+    Stories from the Iron Age used to convert people to a particular religion.
+    <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
     <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -102,6 +102,13 @@ hidden:   true
     Eric Fromm.
     <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p
+  </li>
+  <li id="en06">
+   <p class="_list-item">
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
