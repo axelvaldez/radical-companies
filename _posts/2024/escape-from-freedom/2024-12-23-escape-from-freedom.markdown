@@ -89,12 +89,11 @@ hidden:   true
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en04">
+  <li id="en03">
    <p class="_list-item">
-    Seth Godin.
-    Stories from the Iron Age used to convert people to a particular religion.
-    <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    Eric Fromm.
+    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en05">
