@@ -22,7 +22,7 @@ hidden:   true
   <a href="https://radicalcompanies.com/2024/12/29/f-escape-from-freedom">&lt; Previous</a>
  </span>
  <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">Next &gt;</a>
+  <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">Start &gt;</a>
  </span>
 </div>
 
