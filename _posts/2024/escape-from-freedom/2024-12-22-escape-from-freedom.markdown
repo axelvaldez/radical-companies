@@ -22,14 +22,14 @@ hidden:   true
  <p>We also,</p>
   <div class="_citation">
    <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;</p>
-   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Systems</h1>
  <p>Fiat is <em>a system</em> and as Seth Godin has said,</p>
   <div class="_citation">
    <p>If you want to change the world, change the systems.</p>
-   <p id="_signature">Seth Godin, <em>Daily Post</em><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p id="_signature">Seth Godin. <em>Daily Post</em>\\\ <a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
 <h1>Idol Worship</h1>
@@ -70,12 +70,12 @@ hidden:   true
     <a class="_uparrow" href="#bm02"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-  <li id="en04">
+  <li id="en03">
    <p class="_list-item">
     Seth Godin.
     Stories from the Iron Age used to convert people to a particular religion.
     <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
-    <a class="_uparrow" href="#bm04"><img src="/assets/img/arrow-up-icon.png"></a>
+    <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
   <li id="en04">
