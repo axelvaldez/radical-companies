@@ -20,8 +20,9 @@ image:    "icon-supreme-god-religion.svg"
 
 <h1>Private Armies</h1>
  <p>Their paper brings up the rise of private armed forces and the authors take a very dark view of it, as we all should. They write that private armies will keep getting more and more powerful and this will lead to oligarchic States.</p>
- <p>This is a well researched paper and the data they analyzed certaily points to that conclusion. But the past is not a <em>prediction</em> of the future,so let&rsquo;s instead take this as a warning.</p>
- <p>Private armed forces have been around forever. For example, US President Ronald Reagan had them and Russia&rsquo;s dictator Vladimir Putin has them. Some politicians (<em>e.g.</em>, Donald Trump) may have aspirations of creating an authoritarian goverment in the US, but I am not betting on it.</p>
+ <p>This is a well researched paper and the data they analyzed certaily points to that conclusion. But the past is not a <em>prediction</em> of the future.</p>
+ <p>Private armed forces have been around forever. For example, US President Ronald Reagan had them and Russia&rsquo;s dictator Vladimir Putin has them. Some politicians (<em>e.g.</em>, Donald Trump) may have aspirations of creating an authoritarian goverment in the US, but I am not betting on it (<em>i.e.</em>, although I am expecting a big, BIG fight over it).</p>
+ <p>Let&rsquo;s take that as a warning.</p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
