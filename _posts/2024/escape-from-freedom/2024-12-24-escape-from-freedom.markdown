@@ -22,7 +22,7 @@ hidden:   true
   <p>One tie after another had been severed.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  
-<h1>Fighting for All (Wealthy Gentleman)</h1>
+<h1>Fighting for All (the Wealthyxxx)</h1>
  <div class="_citation">
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
