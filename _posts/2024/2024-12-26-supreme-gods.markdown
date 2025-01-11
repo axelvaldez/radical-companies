@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- <p>According to history, the Supreme God (Ahura Mazda) stuff started with Zarathushtra Spitama (aka, Zoroaster), in Persia.</p>
+ <p>According to history, the Supreme God (Ahura Mazda) stuff started with Zarathushtra Spitama (better known as Zoroaster), in Persia.</p>
 </div>
 
 <h1></h1>
