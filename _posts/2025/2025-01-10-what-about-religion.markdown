@@ -11,4 +11,4 @@ image:    "icon-radical-religion.svg"
 </div>
 
 <h1>Radical -> Religion?</h1>
- <p>Will Radical change religion same as &ldquo;Supreme Gods&rdquo; did?</p>
+ <p>Will Radical change religion same as Zoroaster did?</p>
