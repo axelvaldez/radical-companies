@@ -3,7 +3,7 @@ layout:   post
 title:    "What about Religion?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-supreme-gods-religions.svg"
+image:    "icon-what-about-religion.svg"
 ---
 
 <div style='display:none; '>
