@@ -3,6 +3,7 @@ layout:   post
 title:    "Escape from Freedom (4/12)
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
+hidden:   true
 ---
 
 <div style='display:none; '>
