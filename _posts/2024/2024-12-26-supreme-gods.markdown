@@ -15,7 +15,7 @@ image:    "icon-supreme-god-religion.svg"
 
 <h1>Supreme God</h1>
  <p>The term <em>Supreme God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a hierarchical God with power above all the other Gods (first coined by Friedrich von Schelling, although I picked it up from the Bichler and Nitzam paper).</p>
- <p>The Supreme God religions, in fact, has lasted to this day includingn Judaism, Christianity (Catnolic and Protestant), and Islam.</p>
+ <p>The Supreme God religions, in fact, has lasted to this day includingn Judaism, Christianity (Catholic and Protestant), and Islam.</p>
  <p>Countries and businesses adopted this pattern from royalty and it has worked financially very well for them.</p>
 
 <h1>Private Armies</h1>
