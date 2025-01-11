@@ -7,7 +7,7 @@ image:    "icon-supreme-god-religion.svg"
 ---
 
 <div style='display:none; '>
- <p>According to history, the Supreme God stff started with Zarathushtra Spitama, in Persia. He probably wanted to appeal to royalty (or maybe he wanted to be the Persian equivalent of Pope).</p>
+ <p>According to history, the Supreme God stff started with Zarathushtra Spitama (aka, Zoroaster), in Persia. He probably wanted to appeal to royalty (or maybe he wanted to be the Persian equivalent of Pope).</p>
 </div>
 
 <h1></h1>
