@@ -16,7 +16,7 @@ image:    "icon-supreme-god-religion.svg"
 <h1>Supreme God</h1>
  <p>The term <em>Supreme God</em> <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a> refers to a celestial hierarchical power above all the other Gods (first coined by Friedrich von Schelling , although I picked it up from the Bichler and Nitzam paper).</p>
  <p>The Supreme God religions has lasted to this day, in fact, includingn Judaism. Christianity, and Islam.</p>
- <p>Countries and businesses adopted the pattern and it has worked very well for them.</p>
+ <p>Countries and businesses adopted this pattern from royalty and it has worked very well for them.</p>
 
 <h1>Private Armies</h1>
  <p>Their paper brings up the rise of private armed forces and the authors take a very dark view of it, as we all should. They write that private armies will keep getting more and more powerful and this will lead to oligarchic States.</p>
