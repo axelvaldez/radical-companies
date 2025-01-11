@@ -3,7 +3,7 @@ layout:   post
 title:    "Supreme Gods"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-radical-religion.svg"
+image:    "icon-supreme-gods.svg"
 ---
 
 <div style='display:none; '>
