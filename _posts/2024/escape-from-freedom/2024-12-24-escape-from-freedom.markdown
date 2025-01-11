@@ -1,7 +1,6 @@
 ---
 layout:   post
 title:    "Escape from Freedom (4/12)
-subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
 hidden:   true
@@ -23,7 +22,7 @@ hidden:   true
   <p>One tie after another had been severed.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  
-<h1>Fighting for All</h1>
+<h1>Fighting for All (Wealthy Gentleman)</h1>
  <div class="_citation">
   <p>The abolition of external domination seemed to be not only a necessary but also a sufficient condition to attain the cherished goal: freedom of the individual.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
@@ -40,7 +39,7 @@ hidden:   true
   <p>The principles of economic liberalism, political democracy, religious autonomy, and individualism in personal life, gave expression to the longing for freedom, and at the same time seemed to bring mankind nearer to its realization.</p>
   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em></p>
  </div>
- <p>The good news is that the people who wrote the US Constitution saw themselves as fighters for <em>freedom</em> in all individual. Fortunately, this <em>ideal</em> has stuck to his day.</p>
+ <p>The good news is that the people who wrote the US Constitution saw themselves as fighters for <em>freedom</em> For All. Fortunately, this <em>ideal</em> has stuck to his day.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
