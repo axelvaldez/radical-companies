@@ -19,7 +19,7 @@ image:    "icon-ensembles-radical-companies-working-as-one.svg"
   </ul>
  <p>(The little &lsquo;<em>r</em>&rsquo; stands for Radical)</p>
  <p>The idea, contributed by Jose, is to make them as Franchises with no static capital owners.</p>
- <p>The Radical franchisor and the Radical franchisees will co-owners of the Radical Franchise which may provide common services (<em>e.g.</em>, purchasing, accounting, legal, recycling, etc).</p>
+ <p>The Radical franchisor and the Radical franchisees will be co-owners of the Radical Franchise which provide common services like purchasing, accounting, legal, recycling, etc.</p>
 
 <h1>How It Starts</h1>
  <p>It all starts with loans,</p>
