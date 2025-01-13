@@ -126,7 +126,7 @@ image:    "icon-radical-has-evolved.svg"
   </tr>
   <tr>
    <td style="margin-left:20px; ">
-    Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.
+    <p>Banners represent non-personal transactions in the Radical system standing as emblems for decentralization.</p>
    </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ image:    "icon-radical-has-evolved.svg"
   </tr>
   <tr>
    <td style="margin-left:20px'; ">
-     How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility, a changed mindset.
+     <p>How co-management empowers teams and ensures collaboration without a Fiat hierarchy. Emphasizing that this is not a flat or co-op structure but a balance of autonomy and responsibility, a changed mindset.</p>
    </td>
   </tr>
   <tr>
@@ -146,7 +146,8 @@ image:    "icon-radical-has-evolved.svg"
   </tr>
   <tr>
    <td style="margin-left:20px; ">
-    Reflecting on the current system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves anybody.<br>Fiat is the system where <em>money and power over others</em> comes first.
+    <p>Reflects the current Fiat system, where money and hierarchical control determine decisions. Fiat is the system where <em>money and power over others</em> comes first.</p>
+    <p>It highlights why this system no longer serves anybody.</p>
    </td>
   </tr>
   <tr>
@@ -155,30 +156,30 @@ image:    "icon-radical-has-evolved.svg"
    </td>
   </tr>
   <tr>
-   <td style="margin-left:20px; ">Reflecting on the current Fiat system, where money and hierarchical control dominate decisions, highlighting why this system no longer serves everyone.</td>
+   <td style="margin-left:20px; ">
+    <p>Reflects on the current Fiat system, where money and hierarchical control determine decisions. It highlighting why this system serves itself and its self-preservation and not people.</p>
+   </td>
   </tr>
   <tr>
    <td>
-    <strong>Public dashboards</strong>&mdash;Radical Transparency.
+    <strong>Public dashboards</strong>&mdash;<em>Radical Transparency.</em>
    </td>
   </tr>
   <tr>
    <td style="margin-left:20px; ">
-    Public Dashboards make all transactions visiblen and, in general, Transparency builds trust.
-    <br>
-    Radical is an alternative system to Fiat on which <em>people</em> comes first.
+    <p>Public Dashboards make all transactions visible and it builds trust.</p>
+    <p>Radical is an alternative system to Fiat where <em>people comes first</em>.</p>
    </td>
   </tr>
   <tr>
    <td>
-    <strong>RADs</strong>&mdash;gets converted to revenue or whatever is being distributed.
+    <strong>RADs</strong>&mdash;get converted to whatever is being distributed.
    </td>
   </tr>
   <tr>
    <td>
-     Explaining the core of RADs and the idea that people comes first. 
-     <br>
-     RADs can transform the Fiat models.
+     <p>Explaining the core of RADs and the idea that people comes first.</p> 
+     <p>RADs can transform the Fiat models.</p>
    </td>
   </tr>
   <tr>
@@ -188,9 +189,8 @@ image:    "icon-radical-has-evolved.svg"
   </tr>
   <tr style="margin-left:20px; ">
    <td>
-     A mobile app that calculates you percentage of ownership and records the whole transaction in public dashboards.
-     <br>
-     It makes easier for co-owners to participate and track their contributions and stake.
+     <p>A mobile app that calculates you percentage of ownership and records the whole transaction in public dashboards.</p>
+     <p>It makes easier for co-owners to participate and track their contributions and stake.</p>
    </td>
   </tr>
   <tr>
@@ -200,7 +200,7 @@ image:    "icon-radical-has-evolved.svg"
   </tr>
   <tr style="margin-left:20px; ">
    <td>
-    How contributions are recognized and converted into RADs, offering a tangible way to quantify efforts in a collaborative environment.
+    Contributions are recognized and converted into RADs, offering a tangible way to quantify efforts.
    </td>
   </tr>
  </table>
