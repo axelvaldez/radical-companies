@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "What about Religion?"
+title:    "What about Religion Influence?"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-what-about-religion.svg"
