@@ -11,6 +11,6 @@ image:    "icon-what-about-religion.svg"
 </div>
 
 <h1>Radical -> Religion?</h1>
- <p>Will Radical contribute to a change religion? Zoroaster did it!</p>
+ <p>Will Radical contribute to a change religion? Zarahustra did!</p>
  
 {% include related.html %}

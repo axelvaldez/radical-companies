@@ -11,8 +11,8 @@ image:    "icon-radical-has-evolved.svg"
 </div>
 
 <h1>Community</h1>
- <p>Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and the three of us, Adrian, Jose, and I, ended up meeting every week for about a year and an alternative system based on <em>contributions</em> started to take shape.</p>
- <p>We also started writing <em>Radical Companies</em> (<a href="https://www.amazon.com/dp/B0CW1HV3SK" target="_blank">Amazon</a>) out of frustration that even luminaries, but they did not have valuable answers, either.</p>
+ <p>Doug Kirkpatrick, self-management extraordinaire, introduced me to Jose and the three of us, Adrian, Jose, and I, ended up meeting every week for about a year. An alternative system based on <em>contributions</em>, rather than money, started to take shape.</p>
+ <p>We also started writing <em>Radical Companies</em> (<a href="https://www.amazon.com/dp/B0CW1HV3SK" target="_blank">Amazon</a>) out of frustration that even luminaries did not have valuable answers, either.</p>
 
 <h1>Fiat &amp; Radical</h1>
  <p>The alternative we were working on Jose called <em>Radical</em>. No violence, no punishing or killing the bad guys, no revolution. Radical was simply an alternative to the invisible Fiat system we lived in.</p>
@@ -57,6 +57,12 @@ image:    "icon-radical-has-evolved.svg"
  </ul>
  <p>It is incomprehensible that we don&lsquo;t see that Fiat ownership causes the majority of the harm we face, starting with poverty and ending excessive wealth.</p>
 
+<h1>Co-Management</h1>
+ <p>Co-management has gone by the name &ldquo;<em>self-management</em>&rdquo;.</p>
+ <p>Except a business has no self.</p>
+ <p>We changed the name to co-management because people can make decisions and work without a boss.</p>
+ <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
+
 <h1>Co-Ownership</h1>
  <p>Co-ownership is the kind of active property (<em>e.g.</em>, a company) that belongs to all who contributes to it. If I recognize what you are doing as a contribution, then you are a co-owner.</p>
  <p>Co-ownership comes from a Radical Investment because,</p>
@@ -66,12 +72,6 @@ image:    "icon-radical-has-evolved.svg"
     <li>If the RADs given do not makes sense to you, you have the responsibility to have the people involved explain it to you.</li>
   </ul>
  <p>Many questions came up with co-ownership and we worked out many of them. Mot that We have blind spots, too. Others will bring up shortcomings up later and will have to be worked out over time.</p>
-
-<h1>Co-Management &amp; Co-Ownership</h1>
- <p>Co-management has gone by the name &ldquo;<em>self-management</em>&rdquo;.</p>
- <p>Except a business has no self.</p>
- <p>We changed the name to co-management because people can make decisions and work without a boss.</p>
- <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
 
 <h1>Capital &amp; Contribution</h1>
  <p>Many people can make a contribution.</p>
@@ -208,4 +208,4 @@ image:    "icon-radical-has-evolved.svg"
 <h1>A Call to Action</h1>
  <p>This is a call to action for embracing a shift to Radical. It challenges the <em>status quo</em> along with other alternatives to the Fiat system.</p>
  
- {% include related.html %}
+{% include related.html %}
