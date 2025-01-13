@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Ensembles: Radical Companies Working Together"
+title:    "Ensembles: Radical Companies Working as One"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-radical-companies-workingtogether.svg"
