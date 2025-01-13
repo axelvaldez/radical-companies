@@ -206,6 +206,7 @@ image:    "icon-radical-has-evolved.svg"
  </table>
 
 <h1>A Call to Action</h1>
- <p>This is a call to action for embracing this shift to Radical and outlining how it challenges the <em>status quo</em>. Radical offers a people-centered, transparent alternative to the Fiat system.</p>
+ <p>This is a call to action for embracing a shift to Radical</p>
+ <p>Radical challenges the <em>status quo</em> along with other people-centered, transparent alternatives to the Fiat system.</p>
 
 {% include related.html %}
