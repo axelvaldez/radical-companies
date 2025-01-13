@@ -352,7 +352,7 @@ table._background tr ul, ul li p:last-of-type, table._foundation tr ul, ul li p:
 }
 
 /*
- * Radical-companies/assets
+ * _citation
  */
 ._citation {
   width:95%;
@@ -454,7 +454,6 @@ div._quotespan {
 ._continue {
   content:"   ";
   margin-left:1.5em;
-}
 /*
  * dialog: end
  */
