@@ -12,7 +12,7 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p></p>
+ <p>&hellip; he was prepared to accept a role in which <em>his life became a means to purposes outside of himself</em>, those of economic productivity and accumulation of capital.</p>
 
 <h1></h1>
  <p></p>
