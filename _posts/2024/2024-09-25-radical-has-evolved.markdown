@@ -70,7 +70,7 @@ image:    "icon-radical-has-evolved.svg"
     <li>Capital does not constitute a contribution.</li>
     <li>If the RADs given do not makes sense to you, you have the responsibility to have the people involved explain it to you. And if it is something novel foryour community, then they have the responsability to explain to the community.</li>
   </ul>
- <p>Many questions came up with co-ownership and we worked out many of them. Mot that We have blind spots, too. Others will bring up shortcomings up later and will have to be worked out over time.</p>
+ <p>Many questions came up with co-ownership and we worked out many of them. We have blind spots, too. Others will bring up shortcomings up later and will have to be worked out over time.</p>
 
 <h1>Capital &amp; Contribution</h1>
  <p>Many people can make a contribution.</p>
