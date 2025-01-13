@@ -12,8 +12,10 @@ hidden:   true
 </div>
 
 <h1>Good or Bad?</h1>
-<p>Religion mad humankind ready to work,</p>
- <p>&hellip; his life became a means to purposes outside of himself, those of economic productivity and accumulation of capital.</p>
+<p>Religion makes humankind ready to workatajob defined by the Boss,</p>
+<div style="margin-bottom:0; "> 
+ <p class="_citation">&hellip; his life became a means to <em>purposes outside of himself</em> (the job), those of economic productivity and accumulation of capital.</p><span style="float:right; "><em>for the Boss</em>.</span>
+</div>
 
 <h1></h1>
  <p></p>
