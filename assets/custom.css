@@ -648,6 +648,7 @@ table._h2table tr td p:first-child {
 }
 
 /*
+ * img
  */
 img {
   font-family:'Courier New', Courier, monospace;
@@ -665,7 +666,7 @@ td p {
 }
 
 /*
- _h2heading
+ * _h2heading
  */
 ._h2heading h2,
 ._h2heading h2 ~ * {
@@ -687,12 +688,4 @@ h4 {
   padding-left:1ch;
   border:gray 1px solid;
   background-color:#dedede;
-}
-
-/*
- * _type
- */
-._type {
-  font-size:120px;
-  font-family:Helvetica, sans-serif;
 }
