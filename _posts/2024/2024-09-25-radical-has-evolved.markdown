@@ -200,7 +200,7 @@ image:    "icon-radical-has-evolved.svg"
   </tr>
   <tr style="margin-left:20px; ">
    <td>
-    Contributions are recognized and converted into RADs, offering a tangible way to quantify efforts.
+    <p>Contributions are recognized and converted into RADs, offering a tangible way to quantify work nd is recognized by other co-owners.</p>
    </td>
   </tr>
  </table>
