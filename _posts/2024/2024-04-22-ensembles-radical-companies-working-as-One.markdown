@@ -18,7 +18,7 @@ image:    "icon-ensembles-radical-companies-working-as-one.svg"
    <li><a href="https://radicalcompanies.com/2022/05/14/rclean" target="_blank">rClean</a></li>
   </ul>
  <p>(The little &lsquo;<em>r</em>&rsquo; stands for Radical)</p>
- <p>The idea, contributed by Jose, is to make them as Franchises, but not Fiat Franchises, moremlike ensembles with with no static capital owners.</p>
+ <p>The idea, contributed by Jose, is to make them as Franchises with no static capital owners.</p>
  <p>The Radical franchisor and the Radical franchisees will co-owners of the Radical Franchise which may provide common services (<em>e.g.</em>, purchasing, accounting, legal, recycling, etc).</p>
 
 <h1>How It Starts</h1>
