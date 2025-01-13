@@ -207,5 +207,5 @@ image:    "icon-radical-has-evolved.svg"
 
 <h1>A Call to Action</h1>
  <p>This is a call to action for embracing a shift to Radical. It challenges the <em>status quo</em> along with other alternatives to the Fiat system.</p>
-
-{% include related.html %}
+ 
+ {% include related.html %}
