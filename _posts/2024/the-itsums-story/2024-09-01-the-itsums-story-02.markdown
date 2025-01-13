@@ -67,8 +67,6 @@ hidden:   true
    <img src="/assets/img/pic-childrens-the-itsums-story-03.svg">
   </div>
 
-<br/>
-
 <h1>The Radical Foundation</h1>
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-04.svg">

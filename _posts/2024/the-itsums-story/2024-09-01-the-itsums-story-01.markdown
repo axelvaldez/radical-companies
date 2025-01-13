@@ -63,6 +63,4 @@ hidden:   true
   </li>
  </ul>
 
-
-
 {% include related.html %}
