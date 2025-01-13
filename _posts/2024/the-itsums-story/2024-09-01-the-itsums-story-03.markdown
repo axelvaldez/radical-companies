@@ -41,9 +41,7 @@ hidden:   true
  <ul>
   <li>Fiat is a system for the few to accumulate money.</li>
   <li>We need an alternative for living, like the Radical system.</li>
-
-<br/>
-   
+  <br />
    <div class="_illustration">Meaning, Belonging, Decentralization, Transparency, and Experimentation holding up the Foundation.</div>
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-07.svg">
