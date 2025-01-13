@@ -58,18 +58,17 @@ image:    "icon-radical-has-evolved.svg"
  <p>It is incomprehensible that we don&lsquo;t see that Fiat ownership causes the majority of the harm we face, starting with poverty and ending excessive wealth.</p>
 
 <h1>Co-Management</h1>
- <p>Co-management has gone by the name &ldquo;<em>self-management</em>&rdquo;.</p>
- <p>Except a business has no self.</p>
- <p>We changed the name to co-management because people can make decisions and work without a boss.</p>
- <p>Note that co-management is not a flat organization or a patriarchy, or even a co-op.</p>
+ <p>Co-management has gone by the name &ldquo;<em>self-management</em>&rdquo;. However, a business has no self.</p>
+ <p>We changed the name to <em>co-management</em> because <em>people</em> can make decisions, change their mindset, and work without a boss.</p>
+ <p>Please note that <em>co-management</em> is not a flat organization, a patriarchy, or a co-op. It moves us from "I" to "us."</p>
 
 <h1>Co-Ownership</h1>
  <p>Co-ownership is the kind of active property (<em>e.g.</em>, a company) that belongs to all who contributes to it. If I recognize what you are doing as a contribution, then you are a co-owner.</p>
- <p>Co-ownership comes from a Radical Investment because,</p>
+ <p>Co-ownership comes from a Radical mindset,</p>
   <ul>
-    <li>There are no bosses to kiss up to.</li>
-    <li>Capital does not constitute a contribution. At bet it is temporary.</li>
-    <li>If the RADs given do not makes sense to you, you have the responsibility to have the people involved explain it to you.</li>
+    <li>There are no bosses.</li>
+    <li>Capital does not constitute a contribution.</li>
+    <li>If the RADs given do not makes sense to you, you have the responsibility to have the people involved explain it to you. And if it is something novel foryour community, then they have the responsability to explain to the community.</li>
   </ul>
  <p>Many questions came up with co-ownership and we worked out many of them. Mot that We have blind spots, too. Others will bring up shortcomings up later and will have to be worked out over time.</p>
 
