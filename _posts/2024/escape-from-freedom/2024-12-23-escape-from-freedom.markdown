@@ -111,3 +111,5 @@ hidden:   true
    </p>
   </li>
  </ul>
+
+{% include related.html %}
