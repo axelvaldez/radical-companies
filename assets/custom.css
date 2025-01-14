@@ -474,6 +474,7 @@ p._list-item {
 }
 div._center table._explicitalignment p {
   text-indent:0;
+  align-items:center;
 }
 ._float {
   float:right;
