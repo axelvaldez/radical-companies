@@ -504,9 +504,9 @@ div table._foundation {
 ._center {
   text-align:center;
   align-items:center;
+  /*
   display:grid;
-  place-items:center;
-  margin-bottom:6px;
+   */
 }
 ._mb0 {
   margin-bottom:0;
