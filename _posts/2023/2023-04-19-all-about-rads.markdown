@@ -47,6 +47,7 @@ image:    "icon-all-about-rads.svg"
    alt="A formula to convert recognized contributions to RADs. The app calculates a ratio of the number of contributions you recognized for each co-owner divided by the total percentage of contributions you have recognized during the cycle. This ratio is then multiplied by the number of RADs accumulated in the cycle. The result is the number of RADs given to a each co-owner."
   >
  </div>
+xx
 
 <h1>Teaching RADs</h1>
  <p>People are the best judges of what a contribution is. Sure, they may grant <span class='_paradigm'>RAD</span>s and later regret it. In fact, that change of heart might have come as result of a conversation with other co-owners. That is how people learn!</p>
