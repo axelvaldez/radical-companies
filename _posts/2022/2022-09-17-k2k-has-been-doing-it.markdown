@@ -60,5 +60,3 @@ image:    "icon-k2k-has-been-doing-it.svg"
 
 <h1 class="_section">CREDITS</h1>
  <p>The icon image <em>Galileo&rsquo;s Falling Bodies Experiment</em>, is by <a jref="https://www.hireanartist.net/style.asp?cartoonist=603">Gary Brown</a>.</p>
-
-{% include related.html %}

@@ -57,5 +57,3 @@ image:    "icon-change-the-mindset-of-employees-with-theres-three-simple-steps.s
    </p>
   </li>
  </ul>
-
-{% include related.html %}

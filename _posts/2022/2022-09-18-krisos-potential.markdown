@@ -74,5 +74,3 @@ image:    "icon-krisos-potential.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
