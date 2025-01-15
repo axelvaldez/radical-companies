@@ -421,5 +421,3 @@ image:    "icon-entertainment-rmedia.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

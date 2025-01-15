@@ -311,8 +311,6 @@ image:    "icon-rmedia.svg"
   </table>
  </div>
 
-<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
-<a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup></a>
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
@@ -331,5 +329,3 @@ image:    "icon-rmedia.svg"
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/04/02/rmedia-tools">&lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/04/04/rplaygym">        Next &gt;</a></span>
 </div>
-
-{% include related.html %}
