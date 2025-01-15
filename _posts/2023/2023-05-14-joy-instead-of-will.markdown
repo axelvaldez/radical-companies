@@ -35,5 +35,3 @@ image:    "icon-joy-instea-of-will.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

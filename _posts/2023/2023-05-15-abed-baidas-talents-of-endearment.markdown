@@ -41,5 +41,3 @@ image:    "icon-abed-baidas-talents-of-endearment.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

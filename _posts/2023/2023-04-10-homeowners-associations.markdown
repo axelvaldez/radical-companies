@@ -62,5 +62,3 @@ image:    "icon-homeowners-associations.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

@@ -105,6 +105,7 @@ image:    "icon-radical-in-detail.svg"
    <li>Had developed a methodology to cleanse out whatever other cultures they encountered</li>
    <li>They had what it took to subjugate, control, and obliterate anything that stood in their way.</li>
   </ul>
+
 <h1>Divide and Conquer</h1>
  <p>At some point women were made the property of men and were made subservient to them. That is, for example, why inherited last names are the man&rsquo;s. The &ldquo;ez&rdquo; at the end of Spanish family names (<em>e.g.</em>, Per<em>ez</em>) is the equivalent to the English possessive (<em>e.g.</em>, Pedro&rsquo;s). It indicated that people with that last name &ldquo;belonged to&rdquo; the man called Pedro in the village. Men were the kings of their castle and everybody, including women, were reduced to chattel.</p>
  <p>Sounds comical now, but there is an intuitive logic to it: men, half the population, now had to worry about staying in control of what belonged to them, and not about the injustices from the powerful men above.</p>
@@ -164,6 +165,7 @@ image:    "icon-radical-in-detail.svg"
     <li>The level of co-ownership is determined by contributions, not capital.</li>
     <li>These contributions are recognized by other co-owners.</li>
    </ul>
+
 <h1>And&hellip;</h1>
  <p>And, yes, there is an app for that.</p>
 
@@ -172,6 +174,7 @@ image:    "icon-radical-in-detail.svg"
 <h1>Fiat</h1>
  <p>In the <span class='_paradigm'>Fiat</span> world we live in, the default is that the only way to contribute to a business is to invest capital in it. Said capital investment gives the investors power over the business. In the US investors don’t technically have any power over company operations. But there is a big, juicy loophole: they can replace the CEO. And they can keep replacing him until they find one that runs the operations according to their wishes. Those are some of the side-effects of seeing capital as the only way to contribute.</p>
  <p>For one, power is force-waiting-happen. So given their capital contribution, investors have power over the business. On the other hand, you have no ownership in the business and you are happy to get your salary, but that’s that. Owners have power over you.</p>
+ 
 <h1>Radical</h1>
  <p>This is probably the most shocking thing about Radical alternatives: companies are not there to make founders and investors wealthy. Companies have to make money and be self-sustainable. But what usually goes into the pocket of the owners, now goes into the pockets of the co-owners, into the pockets of everybody who contributes to creating the wealth. If you are looking for yet another way to become wealthy, this ain’t it. Companies are a way to increase the wellbeing of every co-owner and the society around them.</p>
  <p>Your level of co-ownership is determined by these contributions given to you by your co-owner peers. Your recognized contributions determine your level of co-ownership on a month to month basis. It is not static, it is dynamic. Next month it will most likely be different.</p>
@@ -256,9 +259,11 @@ image:    "icon-radical-in-detail.svg"
 
 <h1 class='_section'>From Democracies and Dictatorships</h1>
  <p>The <span class='_paradigm'>Fiat</span> model and its embedded force is at the root of all governance, from democracies to dictatorships. Can you think of a decentralized national government? I can’t, either, because it doesn’t exist.</p>
+
 <h1>Fiat</h1>
  <p>I have already said a lot about Fiat. One thing I mentioned in passing is that Fiat evolved into the complex mess it is today. For example, the Christian Bible admonished slaves to “obey your earthly masters.” However, when outright slavery went out the door, that stopped being acceptable language (though the majority of women and children to this day still have to obey their earthly masters).</p>
  <p>The thing that has remained constant in the Fiat system is Force.</p>
+
 <h1>Radical</h1>
  <p>As opposed to Fiat, Radical is a Foundation of what we need at the root of the system (i.e., in yellow, below), not a system that has evolved to be a big, hairy ball. Radical does not have include rules and it is not intended to be dogmatic in any way,</p>
   <div class='_center'>
@@ -280,6 +285,7 @@ image:    "icon-radical-in-detail.svg"
  <p>Competition is another constant feature of the <span class='_paradigm'>Fiat</span> model. We learn to compete from the minute we are born. Kindergarten slows it down a little, but it comes back in full force in everything that follows. We pretend to listen, but we are really waiting for our chance to outcompete the previous speakers. Sometimes we are aggressive and sometimes we are meek, but underneath it all we compete in the <span class='_paradigm'>Fiat</span> system. There are even debate clubs where we can practice our competitive skills.</p>
  <p>And, &ldquo;so?&rdquo; you ask, &ldquo;<em>what is wrong with that? We need to compete to survive</em>.&rdquo; But I see it as a way to divide people, as in divide and conquer. Them who win and they who lose. This makes it a lot easier for the powerful to just pay off enough of the winners.</p>
  <p>Democracy-by-voting probably was the best system in the 18th century, but here we are, 300 hundred years later in the 21<sup>st</sup> century. Things have changed and we can do better now.</p>
+
 <h1>Radical</h1>
  <p>Competition is a way of imposing your will. Cooperation is how you negotiate your will. Collaboration is the way to come up with acceptable goals. The people who can&rsquo;t live with these goals, have to come up with their own proposal. BTW, this is called <em>consent</em> by Sociocracy practitioners and as far as I know, they came up with it.</p>
  <p>We don&rsquo;t need to compete to survive. We need to compete to survive within the <span class='_paradigm'>Fiat</span> system where artificial, made up scarcity is used as a tool of force. This is what Marx never figured out. He just wanted a system where the workers were at the top and powerful at the bottom. Stalin named himself the representative of all workers and the rest is history: worker at the top and everybody else at the bottom.</p>
@@ -292,6 +298,7 @@ image:    "icon-radical-in-detail.svg"
  <p>Abundance for a few, scarcity for everybody else.</p>
  <p>In the <span class='_paradigm'>Fiat</span> system, abundance creates scarcity. Abundance brings out the forces to enclose and creates scarcity for the rest of us. For example, the newest abundant good is the so-called AI computing. It is abundant because it evolved in the Open Source space (free, as in beer), but some people would like to <em>enclose</em> that technology with regulation (force). People like Elon Musk, Tesla and SpaceX, Sam Altman, OpenAI, Kent Walker, SVP at Google, Mustafa Suleyman, Co-founder of DeepMind, Francesca Rossi, Global Leader at IBM Research are lobbying the US Congress for regulation that would amount to enclosure.</p>
  <p>Abundance for a few, scarcity for everybody else, 21<sup>st</sup> century style.</p>
+
 <h1>Radical</h1>
  <p>Enclosures do come out of Force and Force is a no-no in <span class='_paradigm'>Radical</span>-based alternatives.</p>
  <p>We can&rsquo;t fix history, but we can choose our future. And we can choose a future where abundance is the rule, not the exception-until-somebody-figures-out-how-to-exploit-it.</p>
@@ -308,6 +315,7 @@ image:    "icon-radical-in-detail.svg"
     width='30%'
     alt=''>
   </div>
+
 <h1>Radical</h1>
  <p>The <span class='_paradigm'>Radical</span> foundation is all about wellbeing for you and your community to live your lives.</p>
   <div class='_center'>
@@ -325,12 +333,14 @@ image:    "icon-radical-in-detail.svg"
   <p>Ironically, managers can be the happiest abandoning their titles and becoming co-owners with their former employees. People who are today "managers" will benefit the most by going <span class='_paradigm'>Radical</span> because they are currently boxed up by the <span class='_paradigm'>Fiat</span> hierarchy.</p>
   <p id='_signature'>Adrian Perez</p>
  </div>
+
 <h1>How Fiat Developed (according to me)</h1>
  <p>By the time Thomas Hobbes writes Leviathan the idea that people were a  warring species was already normalized. Hobbes argued that humanity&rsquo;s natural state was a &ldquo;war of all against all.&rdquo;</p>
   <div class='_citation'>
    <p>If there is hierarchy, &hellip; access to resources will grow with hierarchical power.</p>
    <p id='_signature'>Blair Fix, An Evolutionary Theory of Resource Distribution</p>
   </div>
+
 <h1>Surviving Is Not Living</h1>
  <div class='_citation'>
   <p>First, I jumped into the void, past my fears. I was hoping to go through it safely. Instead I came out stronger, with a positive view of life. It was a blind jump, but I discovered the light in my life.</p>
@@ -344,8 +354,10 @@ image:    "icon-radical-in-detail.svg"
 
 <h1>Fiat</h1>
  <p>In a <span class='_paradigm'>Fiat</span> business, things are static. <span class='_paradigm'>You give me so much cash, and I&rsquo;ll give you a percentage of the company</span>.</span> That percentage of the business  remains fixed forever. You can even die and your heirs inherit that piece of the business. They will try to dilute you, but if you stay on your tippy toes, you can fight it.</p>
+
 <h1>Radical</h1>
  <p>In a company based on <span class='_paradigm'>Radical</span>, things are dynamic. You give me so much cash, negotiate a return, and you get your principal and the negotiated return in a negotiated timeframe. You contribute a lot this month and you end up with a serious percentage of all RADs and you get a serious percentage of the dividends. Next month you don&rsquo;t contribute as much and you end up with a smaller percentage of RADs and a smaller percentage of dividends. Ownership is dynamic.</p>
+
 <h1>What Are RADs?</h1>
  <p>RADs are like tokens—not crypto tokens or anything like them. Your RADs really are a percentage of all RADs ever given. That is your percentage of whatever is distributed through them. Most often it is dividends. That is what remains of the revenue after paying all expenses, taxes, and any investments. This usually goes to the owners, but in <span class='_paradigm'>Radical</span> companies it goes to people who create the wealth, people like you, the co-owners.</p>
  <p>The number of RADs you get for a given cycle (<em>e.g.</em>, one month) is calculated from the number of Recognized Contributions. These are your contributions that your peers co-owners have recognized as significant. They accumulate and at the end of the month the <em>RADs! Mobile App</em> calculates the number of RADs that each co-owner gets. They may be guidelines that your community has agreed to, but in the end it is whatever moves you to press the recognition button.</p>
@@ -382,6 +394,7 @@ image:    "icon-radical-in-detail.svg"
 <h1>People Need to Learn to Give Pieces of the Company to Their Peers</h1>
   <p>In the <span class='_paradigm'>Fiat</span> world we live in, getting ownership in a business is a big, big deal. Many meetings happen, voices and tempers rise, and finally an agreement is cast in stone. After much grumbling the investor hands over cash and in exchange the business owner signs a stock certificate and gives it to the investor.</p>
   <p>In a company based on the <span class='_paradigm'>Radical</span> foundation, everybody, every co-owner, gives away pieces of the company as they see fit. But this is a skill like any other, and we will have to learn it. We are the pioneers.  We, the children of <span class='_paradigm'>Fiat</span>, have to learn to be leaders of <span class='_paradigm'>Radical</span>-base alternatives.</p>
+
 <h1>The <em>RAD!</em> Mobile App</h1>
   <p>The <em>RADs! Mobile App</em> is deceptively simple to use, but it might just change the world by giving people a chance to live an alternative to Fiat.</p>
 
@@ -394,24 +407,30 @@ image:    "icon-radical-in-detail.svg"
  <p>The name, RADs, is meaningless. It is the first name I could think of. But they are the key to decentralized ownership.</p>
  <p>We are used to ”somebody else,” the boss, owning the business. <span class='_paradigm'>RAD</span>s make it possible to have decentralized ownership, where you and your peers own the company. You are part of creating value and wealth, and with <span class='_paradigm'>RAD</span>s you are a co-owner of it.</p>
  <p>The value that you help create shows up as revenue, money paid for your goods or services. With decentralized ownership, you are a co-owner of that revenue. Now &ldquo;somebody else&rdquo; owns it.</p>
+
 <h1>Not Revenue Sharing</h1>
  <p>Revenue sharing is done according to what the boss says people are going to get. In the  <span class='_paradigm'>Radical</span>-based model, the system is decentralized and there is no boss to decide what you are going to get. Instead, your peers decide how many <span class='_paradigm'>RAD</span>s you get and you decide how many they get.</p>
  <p>The percentage of <span class='_paradigm'>RAD</span>s you end up with determines what percentage of the revenue you get.</p>
+
 <h1>Not a Co-op</h1>
  <p>Co-operatives make everybody financially equal. But people&rsquo;s contributions are not equal. The same person can contribute a lot one month, but less the next.</p>
  <p><span class='_paradigm'>RAD</span>s are used to keep a tally of contributions.</p>
+
 <h1>How RADs Work</h1>
  <p>Now we can talk about how RADs work.</p>
  <p>The whole thing starts with recognized contributions. As you do your work, other co-owners will recognize some of it as contributions that resonate with them and they will record those using the <em>RADs! mobile app</em> by simply pressing a button. The more significant you find the contribution, the more button presses.</p>
  <p>At the end of the cycle (<em>e.g.</em>, a week, a month), the app calculates how many <span class='_paradigm'>RAD</span>s those recognized contributions translate to. That many RADs are given to each of the contributing co-owners.</p>
  <p><span class='_paradigm'>RAD</span>s accumulate, so each cycle adds to existing RADs.</p>
+
 <h1>Shares Tired, RADs Wired</h1>
  <p>As I mentioned,  <span class='_paradigm'>Radical</span>-based companies don&rsquo;t have shares. Ownership is based on recognized contributions, not capital</p>
  <p>Shares are a 16<sup>th</sup> century invention that worked pretty much as <span class='_paradigm'>RAD</span>s, with one significant difference: shares are based on capital while RA<span class='_paradigm'>RAD</span>sDs are based on recognized contributions. But they are both ways to create something bigger than one person could.</p>
  <p>Business shares must have sounded crazy, like <span class='_paradigm'>RAD</span>s sound today. The clientele for shares back then already were risk takers and it was a smaller audience. The audience for RADs is everybody who has been trained since birth to work for a wage and leave everything else to the oligarchic owners. We are counting on them being more educated and who sense that the current system is not working for them.</p>
+
 <h1>Decentralized Ownership</h1>
  <p>Decentralized ownership is sustainable. The company is not dependent on a top boss. It is forever flexible.</p>
  <p>Decentralized ownership lasts&hellip; forever. For one, there is no issue of inheritance.</p>
+
 <h1>Co-ownership is dynamic</h1>
  <p>Say in January you make a lot of contributions that are recognized by your peers. Your <span class='_paradigm'>RAD</span>s go up quite a bit. But in February you are down to routine things. You get a few recognized contributions, but not many. Your <span class='_paradigm'>RAD</span>s go up a bit, but not much.</p>
  <p>In March you and your team give talks about the projects you just finished and how it is going to reduce costs significantly. Your recognized contributions go up and so do your <span class='_paradigm'>RAD</span>s. Then you go on vacation in April. Your <span class='_paradigm'>RAD</span>s stay the same but the total <span class='_paradigm'>RAD</span>s go up (<em>e.g.</em>, more people) so your percentage of revenue goes down.</p>
@@ -455,5 +474,3 @@ image:    "icon-radical-in-detail.svg"
  <p>The Radical alternative offers us a chance—a chance to step into the light, to break free from the shackles of old paradigms, and to reclaim what it means to be truly alive.</p>
  <p>It. Will. Not. Be. Easy.</p>
  <p>Change seldom is. The journey towards Radical co-ownership will be fraught with obstacles, resistance, and moments of doubt. But remember this: every seismic shift in human history began with a daring vision and the courage to challenge the status quo. Let us choose a path that leads us towards abundance, well-being, and co-ownership. Let us choose a path where force and fear no longer hold dominion. Let us choose a path that enables us not just to survive but to truly live.</p>
-
-{% include related.html %}

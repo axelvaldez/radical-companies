@@ -51,5 +51,3 @@ image:    "icon-subordination-is-bad-for-you-and-me.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

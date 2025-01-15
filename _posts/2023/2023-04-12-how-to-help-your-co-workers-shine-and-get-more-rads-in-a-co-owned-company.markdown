@@ -32,5 +32,3 @@ image:    "icon-how-to-help-your-co-workers-shine-and-get-more-rads-in-a-co-owne
    <li>Increasing people&rsquo;s senses of <span class='_paradigm'>Belonging</span>.</li>
   </ul>
  <p>And the thing that makes this scalable is that everybody learns and can do it in the future.</p>
-
-{% include related.html %}

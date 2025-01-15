@@ -33,5 +33,3 @@ image:    "icon-decentralized-decision-making.svg"
  <h1>And Now&hellip;</h1>
   <p>Now that you have read this, don&rsquo;t wait until this happens to you, make it part of a workshop that would-be <span class='_paradigm'>Radical</span>s have available to them.</p>
   <p>Help people <em>learn</em> and <em>grow</em>.</p>
-
-{% include related.html %}

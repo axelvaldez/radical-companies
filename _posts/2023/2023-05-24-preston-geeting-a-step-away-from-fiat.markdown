@@ -16,5 +16,3 @@ image:    "icon-preston-geeting-a-step-away-from-fiat.svg"
 <h1>Packaging</h1>
  <p>Preston has been in the packaging business for a long time. All-his-working-life long. After many years in a big, stable, generous business, he decided to get out and start a company with a serial entrepreneur from Terra incognita Australis, better known as Australia these days. Their business has grown big and fast in a mere four year.</p>
  <p>But, what does have to do with getting away from ? Not a whole lot, from one point of view; from another this could be sen as a first of many <em>small bites</em>.</p>
-
-{% include related.html %}

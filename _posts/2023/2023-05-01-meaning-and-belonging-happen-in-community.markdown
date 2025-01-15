@@ -54,5 +54,3 @@ image:    "icon-meaning-and-belonging-happen-in-community.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

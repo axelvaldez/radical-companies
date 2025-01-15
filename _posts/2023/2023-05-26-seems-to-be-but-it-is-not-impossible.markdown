@@ -36,5 +36,3 @@ image:    "icon-seems-to-be-but-it-is-not-impossible.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

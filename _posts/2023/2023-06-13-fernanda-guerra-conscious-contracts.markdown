@@ -16,5 +16,3 @@ image:    "icon-fernanda-guerra-conscious-contracts.svg"
 
 <h1>For Hours</h1>
  <p>We extended the interview to 55 minutes, but could have talked with her for hours.</p>
-
-{% include related.html %}

@@ -57,5 +57,3 @@ image:    "icon-kendell-johnson-subscription-economy.svg"
  <p>One way to tell the progressive models from the not-so-progressive ones is how they relate to the  model, it is worth another look.</p>
  <p>It is very, very important to be able to <em>see</em> the  scheme</p>
  <p>The system we crave is decentralized and transparent. It supports our need for a meaningful existence and belonging. It thrives on experimentation. If a system has these characteristic, it is worth a try.</p>
-
-{% include related.html %}

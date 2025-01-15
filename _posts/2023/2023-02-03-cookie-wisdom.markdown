@@ -17,5 +17,3 @@ image:    "icon-cookie-wisdom.svg"
    width="70%"
    alt="Chinese cookie that says, 'Engage in group activities that further transformation.'">
  </div>
-
-{% include related.html %}

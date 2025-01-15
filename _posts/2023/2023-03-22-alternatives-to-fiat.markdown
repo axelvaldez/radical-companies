@@ -93,5 +93,3 @@ image:    "icon-alternatives-to-fiat.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

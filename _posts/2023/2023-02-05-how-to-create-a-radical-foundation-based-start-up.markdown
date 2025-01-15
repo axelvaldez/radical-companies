@@ -237,6 +237,3 @@ image:    "icon-how-to-create-a-radical-foundation-based-start-up.svg"
      </td>
     </tr>
    </table>
-  </div>
-
-{% include related.html %}

@@ -102,5 +102,3 @@ image:    "icon-inequality-and-fiat-hierarchy.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

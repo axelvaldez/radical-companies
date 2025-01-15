@@ -23,5 +23,3 @@ image:    "icon-and-maybe-shares.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

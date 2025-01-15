@@ -35,5 +35,3 @@ image:    "icon-competence-is-not-intelligence.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

@@ -95,5 +95,3 @@ image:    "icon-urban-radical-one-more-time.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

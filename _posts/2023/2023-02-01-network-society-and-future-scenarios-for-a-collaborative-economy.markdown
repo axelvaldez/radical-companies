@@ -55,5 +55,3 @@ image:    "icon-network-society-and-future-scenarios-for-a-collaborative-economy
    </p>
   </li>
  </ul>
-
-{% include related.html %}

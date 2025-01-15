@@ -18,5 +18,3 @@ image:    "icon-the-difference-between-collaboration-and-cooperation.svg"
    <li>Collaboration aims <em>to achieve <em>shared</em> goals</em>.</li>
   </ul>
  <p>Cooperation is what the <span class='_paragigm'>Fiat</span> ownership imposes. Collaboration is what we do by our contribution; it has made us people.</p>
-
-{% include related.html %}

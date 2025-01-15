@@ -22,5 +22,3 @@ image:    "icon-edgar-horz-being-aware.svg"
 <h1>Translation</h1>
  <p>The  system and the harm that it does to people and businesses has become visible to Edgar. Not all of it, but probably enough.</p>
  <p>His new business has a  hierarchy in place, but he feels that it is inconsequential. As his business grows, Edgar will discover that hierarchy may grow and create a bureaucracy around itself. I am hoping that he will not let it go that far, and if he does, that he will figure it out sooner rather than later.</p>
-
-{% include related.html %}

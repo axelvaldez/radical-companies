@@ -84,5 +84,3 @@ image:    "icon-urban-radical.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

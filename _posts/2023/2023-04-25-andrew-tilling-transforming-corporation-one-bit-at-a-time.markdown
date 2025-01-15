@@ -25,5 +25,3 @@ image:    "icon-andrew-tilling-transforming-corporations-one-bit-at-a-time.svg"
    <li>The whole thing would be transparent and the transparency would give them the ability to make corrections.</li>
    <li>In the end, it would feel fair, rather than having the boss pass out secret checks.</li>
   </ul>
-
-{% include related.html %}

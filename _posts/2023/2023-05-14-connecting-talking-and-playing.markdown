@@ -34,5 +34,3 @@ image:    "icon-connecting-talking-and-playing.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

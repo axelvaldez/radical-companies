@@ -17,5 +17,3 @@ image:    "icon-no-more-meetings.svg"
  <span style="float:left; " >                                                                             &lt; Previous</span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/04/16/no-more-deadlines.html">    Next &gt;</a></span>
 </div>
-
-{% include related.html %}

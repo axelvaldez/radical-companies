@@ -66,5 +66,3 @@ image:    "icon-an-alternative-system-for-creating-wealth-and-meaning.svg"
    </tr>
   </table>
  </div>
-
-{% include related.html %}

@@ -128,5 +128,3 @@ image:    "icon-bindu-kalesan-patient-centric-heatlhcare.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

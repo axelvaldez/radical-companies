@@ -58,5 +58,3 @@ image:    "icon-starbucks-once-a-good-employer-now-at-the-bottom-of-the-list.svg
    </p>
   </li>
  </ul>
-
-{% include related.html %}

@@ -17,5 +17,3 @@ image:    "icon-timothy-kaczynski-facing-ourselves.svg"
  <p>Timothy understand that you must have a different organization in order to fully embrace your work. You need to trust your peers (belonging) and together find meaning in your work, the work that you are doing together. He also emphasized the need to disclose everything about the assigned project, not just a sketch of the expected result (transparency).</p>
  <p>He mentioned &lsquo;short toes&rsquo; and then he explained that when you are working with others there is no such thing as ‘stepping on toes’ (decentralization).</p>
  <p>As Jose said, Timothy may not speak the Radical language, but he&rsquo;s very much aligned with it.</p>
-
-{% include related.html %}

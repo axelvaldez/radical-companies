@@ -30,5 +30,3 @@ image:    "icon-professional-growth.svg"
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
-
-{% include related.html %}

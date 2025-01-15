@@ -67,5 +67,3 @@ image:    "icon-leo-rayman-grow-and-avoid-green-washing.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

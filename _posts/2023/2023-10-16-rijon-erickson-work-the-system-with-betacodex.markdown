@@ -20,5 +20,3 @@ image:    "icon-rijon-erickson-work-the-system-with-betacodex.svg"
 
 <h1>Bosses?</h1>
  <p>BTW, when you ask “<em>why?</em>” it is not so ‘obvious’ that there has to be ranked bosses, with the titles and all that. (see our second book, <em>Radical in Detail</em>).</p>
-
-{% include related.html %}
