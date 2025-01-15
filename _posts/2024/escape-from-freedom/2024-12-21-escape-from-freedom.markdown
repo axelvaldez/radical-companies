@@ -33,5 +33,3 @@ image:    "icon-escape-from-freedom.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
