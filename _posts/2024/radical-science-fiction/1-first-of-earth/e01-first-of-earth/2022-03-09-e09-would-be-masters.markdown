@@ -82,5 +82,3 @@ hidden:   true
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/08/E08-earth-authority">   &lt; Previous</a> </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E10-the-end-the-beginning">  Next &gt;</a></span>
 </div>
-
-{% include related.html %}

@@ -101,5 +101,3 @@ hidden:   true
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/06/E06-the-venusian-subterfuge">&lt; Previous</a> </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/08/E08-earth-authority">          v  Next &gt;</a></span>
 </div>
-
-{% include related.html %}

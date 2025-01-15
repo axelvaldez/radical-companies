@@ -121,5 +121,3 @@ image:    "icon-e01-and-then.svg"
   <a href="https://radicalcompanies.com/2022/03/02/E02-sweet-home-chicago">Next &gt;</a>
  </span>
 </div>
-
-{% include related.html %}

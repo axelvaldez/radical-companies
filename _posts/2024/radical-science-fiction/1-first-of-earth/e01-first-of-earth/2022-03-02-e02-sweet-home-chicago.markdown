@@ -96,5 +96,3 @@ hidden:   true
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/01/E01-first-of-earth">&lt; Previous</a>     </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/03/E03-give-him-back">      Next     &gt;</a></span>
 </div>
-
-{% include related.html %}

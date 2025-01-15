@@ -35,5 +35,3 @@ hidden:   true
  <span style="float:left; " ><a href="https://radicalcompanies.com/2022/03/09/E09-would-be-masters">&lt; Previous</a> </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2022/03/10/E11-the-fiat-enclaves">    Next &gt;</a></span>
 </div>
-
-{% include related.html %}
