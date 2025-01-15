@@ -42,5 +42,3 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

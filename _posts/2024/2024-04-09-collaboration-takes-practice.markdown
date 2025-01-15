@@ -26,5 +26,3 @@ image:    "icon-collaboration-takes-practice.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

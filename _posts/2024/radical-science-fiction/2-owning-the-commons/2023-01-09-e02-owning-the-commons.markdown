@@ -49,5 +49,3 @@ image:    "icon-owning-the-commons-e02.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

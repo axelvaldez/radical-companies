@@ -59,5 +59,3 @@ image:    "icon-co-ownership.svg"
    <li><em>Individual wins</em></li>
   </ul>
  <p>We all win when our community, the world, and people thrive.</p>
-
-{% include related.html %}

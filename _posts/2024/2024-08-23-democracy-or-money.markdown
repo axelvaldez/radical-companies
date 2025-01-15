@@ -21,5 +21,3 @@ image:    "icon-democracy-or-money.svg"
   <li>Have work be collaborative, not competitive.</li>
   <li>Make work be guided by the well-being of people, not whatever makes money.</li>
  </ul>
-
-{% include related.html %}

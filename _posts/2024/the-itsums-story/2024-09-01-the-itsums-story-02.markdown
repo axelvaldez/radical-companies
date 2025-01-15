@@ -90,5 +90,3 @@ hidden:   true
  <span style="float:left; "> <a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-01">&lt; Previous</a></span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2024/09/01/the-itsums-story-03">Next &gt;</a>     </span>
 </div>
-
-{% include related.html %}

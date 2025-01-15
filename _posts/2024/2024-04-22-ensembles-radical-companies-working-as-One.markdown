@@ -38,5 +38,3 @@ image:    "icon-ensembles-radical-companies-working-as-one.svg"
    <li>80% ($160 of $200) may go to the lawyer.</li>
   </ul>
  <p>That is how a community can help companies get started. Ths is how the entrepreneur get togethernwith the services they need.</p> 
-
-{% include related.html %}

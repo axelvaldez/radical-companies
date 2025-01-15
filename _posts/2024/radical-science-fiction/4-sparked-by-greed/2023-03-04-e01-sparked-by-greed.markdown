@@ -117,5 +117,3 @@ image:    "icon-sparked-by-greed.svg"
  <span style="float:left; " >                                                                       &lt; Previous             </span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/03/04/E02-sparked-by-greed">             Next &gt;</a></span>
 </div>
-
-{% include related.html %}

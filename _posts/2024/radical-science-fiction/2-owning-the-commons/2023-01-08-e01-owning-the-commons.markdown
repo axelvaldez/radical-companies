@@ -60,5 +60,3 @@ image:    "icon-owning-the-commons-e01.svg"
  <span style="float:left; " >                                                                         &lt; Previous</span>
  <span style="float:right; "><a href="https://radicalcompanies.com/2023/01/09/e02-owning-the-commons">Next &gt;</a></span>
 </div>
-
-{% include related.html %}

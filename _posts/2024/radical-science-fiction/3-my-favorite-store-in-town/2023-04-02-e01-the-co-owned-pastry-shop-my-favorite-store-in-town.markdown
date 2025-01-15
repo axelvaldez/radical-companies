@@ -86,5 +86,3 @@ image:    "icon-the-co-owned-pastry-shop-my-favorite-store-in-town-e01.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

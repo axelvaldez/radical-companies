@@ -51,5 +51,3 @@ image:    "icon-later.svg"
    </p>
   </li>  
  </ol>
-
-{% include related.html %}

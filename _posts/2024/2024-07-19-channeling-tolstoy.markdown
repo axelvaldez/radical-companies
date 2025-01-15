@@ -127,5 +127,3 @@ image:    "icon-channeling-leo-tolstoy.svg"
  <p>The thing that this work and all the works on the subject are missing, is even an indication of how to go about undoing the many things that he identifies as evil and not good for people.</p>
  <p>Admittedly, this was written well over a hundred years ago, so thisis not a criticism of Tolstoy&rsquo;s work. Rather, I am pointing out that the Radical system exist as a follow up to what all the writers spoke of and point the way to what we can do about it.</p>
  <p>In the books <em>Radical Companies</em> and <em>Radical in Detail</em> we get into specific detals.</p>
-
-{% include related.html %}

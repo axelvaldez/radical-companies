@@ -168,7 +168,7 @@ hidden:   true
 </div>
 
 <h1 class="_section">FURTHER READING</h1>
-<ul>
+ <ul>
   <li><a>The Hidden Masters – Notes</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Moons_of_Jupiter">Moons of Jupiter</a></li>
   <li><a>A gatekeeper for learning</a> (see <a>AnchorMod</a>)</li>
@@ -176,6 +176,4 @@ hidden:   true
   <li><a>Future Tech and Culture</a></li>
   <li><a>Resources</a></li>
   <li><a>Notes</a></li>
-</ul>
-
-{% include related.html %}
+ </ul>

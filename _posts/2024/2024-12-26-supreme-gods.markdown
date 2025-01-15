@@ -35,5 +35,3 @@ image:    "icon-supreme-gods.svg"
    </p>
   </li>
  </ul>
- 
-{% include related.html %}

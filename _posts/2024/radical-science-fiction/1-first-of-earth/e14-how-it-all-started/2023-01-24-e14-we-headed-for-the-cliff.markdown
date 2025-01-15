@@ -72,5 +72,3 @@ image:    "icon-we-headed-for-the-cliff.svg"
    </p>
   </li>
  </ol>
-
-{% include related.html %}

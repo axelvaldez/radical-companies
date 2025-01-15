@@ -160,5 +160,3 @@ image:    "icon-the-co-owned-pastry-shop-my-favorite-store-in-town-e02.svg"
  <span style="float:left; " ><a href="https://radicalcompanies.com/2023/04/02/E01-the-co-owned-pastry-shop-my-favorite-store-in-town">&lt; Previous</a></span>
  <span style="float:right; ">                                                                                                                 Next &gt;</span>
 </div>
-
-{% include related.html %}

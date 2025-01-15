@@ -21,7 +21,6 @@ image:    "icon-worse-than-al-capone.svg"
   <p>Taxation. Education. The judiciary. It&rsquo;s all designed to help the aristocracy hold on to&hellip; land and &hellip; money.<a href="#en01"><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
  </div>
  <p>And it holds until these days, &ldquo;&hellip; 160,000 families who own two-thirds of Great Britain and Ireland largely descend from the army of William the Conqueror &mdash; [since] 1066. &rdquo;<a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup></a></p>
-
  <p>The is the system we call Fiat.</p>
 
 <h1 class="_section">ENDNOTES</h1>
@@ -40,5 +39,3 @@ image:    "icon-worse-than-al-capone.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
