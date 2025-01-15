@@ -263,5 +263,3 @@ image:    "icon-the-power-of-the-powerless.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

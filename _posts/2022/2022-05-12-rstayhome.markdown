@@ -71,6 +71,4 @@ image:    "icon-rmedia.svg"
    <li>Help wit extenbded vacations</li>
    <li>Bring in special games they have found effective for learning</li>
    <li>Cook special meals that kids like</li>
-  </ul> 
-
-{% include related.html %}
+  </ul>

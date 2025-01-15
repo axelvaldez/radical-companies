@@ -169,5 +169,3 @@ image:    "icon-rnextbright.svg"
   <li><a href="http://joshuavial.com/">Joshua Vial</a>, <a href="http://www.devacademy.co.nz/">Enspiral Dev Academy</a></li>
   <li>Tanmay Vora (<a href="http://qaspire.com/2016/08/22/leading-and-learning-how-to-feed-a-community/">Leading and Learning: How to Feed a Community</a>)</li>
 </ul>
-
-{% include related.html %}

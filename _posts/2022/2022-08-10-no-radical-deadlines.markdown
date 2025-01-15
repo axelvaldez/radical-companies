@@ -33,7 +33,7 @@ image:    "icon-no-radical-deadlines.svg"
  <p>In a <span class="_paradigm">Fiat</span> hierarchy, it becomes more and more justified to use deadlines that cause people to fear for their jobs, their reputation, and their livelihoods. In a <span class="_paradigm">Fiat</span> business, as ownership and engagement disappears, fear is all there is.</p>
 
 <h1 class="_section">ENDNOTES</h1>
- <ul>
+<ul>
   <li id="en02">
    <p class="_list-item">
     Usain Bolt.

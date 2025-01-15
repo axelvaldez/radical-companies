@@ -83,5 +83,3 @@ image:    "icon-10-progressive-org-structures.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

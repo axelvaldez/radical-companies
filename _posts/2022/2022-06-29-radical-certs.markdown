@@ -59,5 +59,3 @@ image:    "icon-radical-certs.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

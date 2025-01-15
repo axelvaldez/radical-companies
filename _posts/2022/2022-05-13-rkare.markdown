@@ -61,5 +61,3 @@ image:    "icon-rmedia.svg"
 
 <h1>What's in It for the Baby?</h1>
  <p>A more nourishing environment managed by a well trained adult.</p>
-
-{% include related.html %}

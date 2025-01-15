@@ -57,5 +57,3 @@ image:    "icon-small-bites-building-community.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}

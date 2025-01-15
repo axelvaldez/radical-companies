@@ -64,5 +64,3 @@ image:    "icon-about-daos.svg"
    </p>
   </li>
  </ul>
- 
-{% include related.html %}

@@ -57,6 +57,4 @@ image:    "icon-rmedia.svg"
  <p>Help with time off, new skills.</p>
 
 <h1>What's in It for the their Customers?</h1>
- <p>Not having to hunt/risk the service.</p>
-
-{% include related.html %}
+ <p>Not having to hunt/risk the service.</p

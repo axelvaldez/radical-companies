@@ -189,5 +189,3 @@ image:    "icon-gov.svg"
    </p>
   </li>
  </ul>
-
-{% include related.html %}
