@@ -16,5 +16,3 @@ hidden:   true
   <div style="margin-bottom:0; "> 
  <p class="_citation">&hellip; his life became a means to purposes outside of himself, those of economic productivity and accumulation of capital.</p><span style="float:right; "><em>for the Boss</em>.</span>
 </div>
- 
-{% include related.html %}
