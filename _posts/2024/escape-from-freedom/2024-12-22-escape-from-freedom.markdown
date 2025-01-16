@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Escape from Freedom (3/10)"
+title:    "Escape from Freedom (2/10)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
@@ -8,62 +8,50 @@ hidden:   true
 ---
 
 <div style='display:none; '>
- <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I it when I was 18-19 years old (I am a mere 73 now).</p>
+ <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
-<h1></h1>
- <div class="_citation">
-  <p>Man&rsquo;s biological weakness is the condition of human culture.</p>
- </div>
-
-<h1></h1>
- <p>In <em>The Emergence of the Individual and the Ambiguity and Freedom</em> Fromm says that the,</p>
+<h1>Independent?</h1>
+ <p>This is true of all of us who grew up in the Fiat system.</p>
   <div class="_citation">
-   <p>meaning [of freedom] changes according to the degrees of man&rsquo;s awareness and conception of himself as an independent and separate being.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
-  </div>
- <p>Fromm asserts that,</p>
-  <div class="_citation">
-   <p>&hellip; individuation seems to have reached its peak&hellip; between the Reformation and the present.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en02'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
-  </div>
-<p>And,</p>
- <div class="_citation">
-  <p>To the degree &hellip; [he] has not yet completely severed the umbilical cord which fasten him to the outside world, he lacks freedom; [however] these ties give him security, a feeling of belonging, and of being rooted somewhere.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en03'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
- </div>
-
-<h1>Indepence</h1>
-  <div class="_citation">
-   <p>The more the child grows and to the extent to which <em>primary ties</em> are cut off, the more it develops a quest for freedom and independence.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en04'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>The majority of people have not yet acquiredf the maturity to be independent.</p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
-<h1>Conditions</h1>
+<h1>Worship</h1>
+ <p>We also,</p>
   <div class="_citation">
-   <p>&hellip; essentially by <em>social conditions</em>.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en05'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>worship &ldquo;power, money, the sovereign state, the nation.&rdquo;</p>
+   <p id="_signature">Eric Fromm. <em>Escape from Freedom</em><a href='#en02'><sup id='bm02'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
-<h1>Determination</h1> 
+<h1>Systems</h1>
+ <p>Fiat is <em>a system</em> and as Seth Godin has said,</p>
   <div class="_citation">
-   <p>&hellip; human existence and freedom are from the beginning inseparable &hellip; freedom from instinctual determination of his actions.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en06'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>If you want to change the world, change the systems.</p>
+   <p id="_signature">Seth Godin. <em>Daily Post</em><a href='#en03'><sup id='bm03'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
 
-<h1>For the Individual</h1> 
+<h1>Idol Worship</h1>
+ <p>People have transformed religion,</p>
   <div class="_citation">
-   <p>There is only one possible, productive solution for the relationship of individualized man with the world: his active solidarity with all men and his spontaneous activity, love and work, which unite him again with the world, not by primary ties but as a free and independent individuals.</p>
-   <p id="_signature">Eric Fromm, Escape from Freedom<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+   <p>&hellip; into a jungle of superestition and idol-worship.</p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en04'><sup id='bm04'>&hairsp;&nabla;&hairsp;</sup></a></p>
   </div>
+
+<h1>Save Thyself</h1>
+ <p>We are experiencing this right now: climate change, pollution, potable water!</p>
+  <div class="_citation">
+   <p>How can mankind [avoid] destroying itself by this discrepancy between intellectual-technical <em>overmaturity</em> and <em>emotional</em> backwardness?</p>
+   <p id="_signature">Eric Fromm, <em>Escape from Freedom</em><a href='#en05'><sup id='bm05'>&hairsp;&nabla;&hairsp;</sup></a></p>
+  </div>
+
+<h1>Spouting Nonsense</h1>
+  <p>We have to be in community because being by ourselves can lead to spouting nonsense.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
- <span style="float:left; ">
-  <a href="https://radicalcompanies.com/2024/12/22/escape-from-freedom">&lt; Previous</a>
- </span>
- <span style="float:right; ">
-  <a href="https://radicalcompanies.com/2024/12/24/x-escape-from-freedom">Next &gt;</a>
- </span>
+ <span style="float:left; "> <a href="https://radicalcompanies.com/2024/12/21/escape-from-freedom">&lt; Previous</a></span>
+ <span style="float:right; "><a href="https://radicalcompanies.com/2024/12/23/escape-from-freedom">Next &gt;</a></span>
 </div>
 
 <h1 class="_section">ENDNOTES</h1>
@@ -84,8 +72,9 @@ hidden:   true
   </li>
   <li id="en03">
    <p class="_list-item">
-    Eric Fromm.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
+    Seth Godin.
+    Stories from the Iron Age used to convert people to a particular religion.
+    <a href="https://seths.blog//12/our-new-school/" target="_blank">Blog Post</a>
     <a class="_uparrow" href="#bm03"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
@@ -101,13 +90,6 @@ hidden:   true
     Eric Fromm.
     <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
     <a class="_uparrow" href="#bm05"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
-  <li id="en06">
-   <p class="_list-item">
-    Eric Fromm.
-    <a href="https://www.amazon.com/Escape-Freedom-Erich-Fromm/dp/0805031499" target="_blank">Escape from Freedom</a>
-    <a class="_uparrow" href="#bm06"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
  </ul>
