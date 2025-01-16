@@ -10,6 +10,8 @@ image:    "icon-escape-from-freedom.svg"
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (he is reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 </div>
 
+xxx
+
 <h1>Late Last Nigt&hellip;</h1>
  <p><em>Escape from Freedom</em> was published in 1941. Pim de Morre, co-founder of <em>Corporate Rebels</em>, reminded me of it (by annoucing that he was reading it). I read it when I was 18-19 years old (I am a mere 73 now).</p>
 
