@@ -18,13 +18,13 @@ image:    "icon-co-ownership.svg"
 
 <h1>Impossible</h1>
  <p>Not, it is not!</p>
- <p>A company without leaders, <em>that</em> is impossible. And if nobody takes the leadership, then it is not needed, or well defined, and you must start all over again. Remember, there is no rank!</p>
+ <p>A company without leaders, <em>that</em> is impossible. And if nobody takes the leadership, then it is not needed, or well defined, and you must start all over again (remember, there is no rank!)</p>
  <p>Ignore questions like,</p>
   <ul>
    <em>
-   <li>How would the unwashed masses know what to do?</li>
+   <li>How would they know what to do?</li>
    <li>How would they set a strategy?</li>
-   <li>It is going to be chaos or at best very ho-hum.</li>
+   <li>It is going to be chaos or ho-hum.</li>
    </em>
   </ul>
 
