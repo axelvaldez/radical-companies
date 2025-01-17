@@ -18,7 +18,7 @@ image:    "icon-co-ownership.svg"
 
 <h1>Impossible</h1>
  <p>Not, it is not!</p>
- <p>A company without leaders, <em><strong>that</strong></em> is impossible. And if nobody takes the reponsibility, then it is not needed, or well defined, and you must start all over again. Remember, there is no rank!</p>
+ <p>A company without leaders, <em><strong>that</strong></em> is impossible. And if nobody takes the leadership, then it is not needed, or well defined, and you must start all over again. Remember, there is no rank!</p>
  <p>Ignore questions like,</p>
   <ul>
    <em>
