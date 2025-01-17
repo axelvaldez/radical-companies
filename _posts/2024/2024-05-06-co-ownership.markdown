@@ -15,7 +15,7 @@ image:    "icon-co-ownership.svg"
   <div class="_citation">
    <p>A business without managers. <em>That is impossible!<,em></p>
   </div>
- <p>A company without leaders, that is <em>impossible</em>.</p>
+ <p>A company without leaders, that is <em>impossible</em>. And if nobody takes the reponsibility, the it is not needed. or well define, or you start over again. There is no rank!</p>
  <p>Ignore questions like,</p>
   <ul>
    <em>
