@@ -13,8 +13,9 @@ image:    "icon-co-ownership.svg"
 <h1>Intro</h1>
  <p>Co-ownership may be the most difficult thing to fully get and even harder to implement. But do not worry. Just get started.</p>
   <div class="_citation">
-   <p>A business without managers. That is impossible!</p>
+   <p>A business without managers. <em>That is impossible!<,em></p>
   </div>
+ <p>A company without leaders, that is <em>impossible</em>.</p>
  <p>Ignore questions like,</p>
   <ul>
    <em>
