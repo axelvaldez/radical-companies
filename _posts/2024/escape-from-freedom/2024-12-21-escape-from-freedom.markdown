@@ -4,7 +4,6 @@ title:    "Escape from Freedom (1/10)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-escape-from-freedom.svg"
-hidden:   true
 ---
 
 <div style='display:none; '>
