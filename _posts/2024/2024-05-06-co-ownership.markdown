@@ -7,11 +7,14 @@ image:    "icon-co-ownership.svg"
 ---
 
 <div style='display:none; '>
- <p>Co-ownership may be the most difficult thing to fully &lsquo;get.&rsquo; A company without a CEO? That is impossible!</p>
+ <p>Co-ownership may be the most difficult thing to fully &lsquo;get,&rsquo;</p>
 </div>
 
 <h1>Intro</h1>
- <p>Co-ownership may be the most difficult thing to fully get and even harder to implement. But do not worry, just get started.</p>
+ <p>Co-ownership may be the most difficult thing to fully get and even harder to implement. But do not worry. Just get started.</p>
+  <div>
+   <p>A business without managers. That is impossible!</p>
+  </div>
  <p>Ignore questions like,</p>
   <ul>
    <em>
