@@ -16,7 +16,7 @@ image:    "icon-co-ownership.svg"
    <p>A business without managers. <em>That is impossible!</em></p>
   </div>
 
-<h1>Impossible</h1>
+<h1>Impossible?</h1>
  <p>Not, it is not!</p>
  <p>A company without leaders, <em>that</em> is impossible. And if nobody takes the leadership, then it is not needed, or well defined, and you must start all over again (remember, there is no rank!)</p>
  <p>Ignore questions like,</p>
