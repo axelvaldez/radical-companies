@@ -29,7 +29,7 @@ image:    "icon-co-ownership.svg"
   </ul>
 
 <h1>Ho-Hum?</h1>
- <p>Let&rsquo;s start with the last concern: It is going to be chaos or very ho-hum. That could be true if you assume that people cannot or will not <em>learn</em>, but that is wrong.</p>
+ <p>Let&rsquo;s start with the last concern: It is going to be chaos or ho-hum. That could be true if you assume that people cannot or will not <em>learn</em>, but that is wrong.</p>
  <p>But people learn. Within the Fiat system we learn to do what the boss says. But that is not <em>&rdquo;human nature&rdquo;</em> or any such, it is simply what we have been taught to do and expect by the people we trust.</p>
  <p>The Fiat system is in our heads and we simply pass on. We pride ourselves to be individuals, to beat the other guy, and enjoy a crushing win. Those are all part of the Fiat system.</p>
  <p>The Radical system offers alternatives,</p>
