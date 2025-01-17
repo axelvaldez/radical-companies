@@ -17,8 +17,7 @@ image:    "icon-co-ownership.svg"
   </div>
 
  <p>Not, it is not!</p>
- <p>A company without leaders, <em><strong>that</strong></em> is impossible. And if nobody takes the reponsibility, then it is not needed. or well defined. You must start all over again. Remember, there is no rank!</p>
->>>>>>> a3181a21b6ed0454ba66bf41040a54b6cf857df7
+ <p>A company without leaders, <em><strong>that</strong></em> is impossible. And if nobody takes the reponsibility, then it is not needed. or well defined and you must start all over again. Remember, there is no rank!</p>
  <p>Ignore questions like,</p>
   <ul>
    <em>
