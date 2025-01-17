@@ -24,7 +24,7 @@ image:    "icon-co-ownership.svg"
    <em>
    <li>How would they know what to do?</li>
    <li>How would they set a strategy?</li>
-   <li>It is going to be chaos or ho-hum.</li>
+   <li>It is going to be chaos or ho-hum?</li>
    </em>
   </ul>
 
