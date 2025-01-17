@@ -7,7 +7,7 @@ image:    "icon-co-ownership.svg"
 ---
 
 <div style='display:none; '>
- <p>Co-ownership may be the most difficult thing to fully get. A company without a CEO? That is impossible!</p>
+ <p>Co-ownership may be the most difficult thing to fully &lsquo;get.&rsquo; A company without a CEO? That is impossible!</p>
 </div>
 
 <h1>Intro</h1>
