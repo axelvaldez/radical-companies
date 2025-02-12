@@ -23,4 +23,16 @@ hidden:   true
 
  <p>Pain is not just the wailing out of injury: laughter also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
  
- <h1>
+ <h1>The Last One</h1>
+  <p>This is my last post.</p>
+  <p>I am slowly dying of what used to be called <em>consumption</em>, but it is now called cancer.</p>
+
+<h1 class="_section">ENDNOTES</h1>
+ <ul>
+  <li id="en01">
+   <p class="_list-item">
+    Colorectal, if you must know.
+    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
+   </p>
+  </li>
+ </ul>
