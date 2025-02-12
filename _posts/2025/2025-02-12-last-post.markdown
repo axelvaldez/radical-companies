@@ -1,0 +1,26 @@
+---
+layout:   post
+title:    "Paim Came First (thesis)"
+subtitle: "TEMPLATE"
+authors:  "Matt Perez"
+image:    "icon-pain-came-first.svg"
+hidden:   true
+---
+
+<div style='display:none; '>
+ <p>Pain came first, thn came humanity</p>
+</div>
+
+<h1>Pain Came First</h1>
+ <p>Pain came first. Then came language. Then came laughter. Then ame humanity. All from pain.</p>
+
+ <p>People, and perhap all animals, are translating machines, inside to the outside. So you could wail about your foot, or you could signal agony coming form your hand. Somebody else names your foot or your hand. And a <em>foot</em> becomes a foot an a <em>hand</em> becomes a hand.</p>
+
+<h1>Songs</h1>
+ <p>The most powerful songs are the ones about pain, like the blues. They are the most impactful. We invent words much less frequently now, lot of words and grammar and syntax for all sorts of suffering, joy, and ideas.</p>
+
+<h1>Expressing Pain</h1>
+
+ <p>Pain is not just the wailing out of injury: laughter also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
+ 
+ <h1>
