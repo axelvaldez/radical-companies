@@ -17,15 +17,30 @@ hidden:   true
  <p>People, and perhap all animals, are translating machines, inside to the outside. So you could wail about your foot, or you could signal agony coming form your hand. Somebody else names your foot or your hand. And a <em>foot</em> becomes a foot an a <em>hand</em> becomes a hand.</p>
 
 <h1>Songs</h1>
- <p>The most powerful songs are the ones about pain, like the blues. They are the most impactful. We invent words much less frequently now, lot of words and grammar and syntax for all sorts of suffering, joy, and ideas.</p>
+ <p>The most impactful songs are the ones about broken hearts and promises. Like the blues, they are the most powerful.</p>
+ <p>We invent words much less frequently now. Eventually we invent  grammar and syntax for all sorts of suffering, joys, and ideas.</p>
+ <p>Today we develop Professional <em>Experiments</em> to discover things. Popuplar culture can not wait and invents vernacular that eventually may get into the language.</p>
 
-<h1>Expressing Pain</h1>
+<h1>Words</h1>
+ <p>Words also comes out of pain.</p>
+ <p>The first time the injured points to the foot and makes a sound. The next time he makes the same sound without pointing and it is understood by his tribe.</p>
 
- <p>Pain is not just the wailing out of injury: laughter also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
- 
- <h1>The Last One</h1>
-  <p>This is my last post.</p>
-  <p>I am slowly dying of what used to be called <em>consumption</em>, but it is now called cancer.</p>
+<h1>Laughter</h1>
+ <p>Pain is not just the wailing, <em>laughter</em> also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
+ <p><em>Laughter</em> also comes from from the sounds that one makes when in pain.</p>
+
+<h1>Curiosity?</h1>
+ <p>What does any of this have to do with <em>Curiosity</em> and <em>experimation</em>?</p>
+ <p>The way I think about, you have to be <em>curios</em> to invent,
+  <ul>
+   <li>And there is plenty of invention going on.</li>
+   <li>Associating a specific sounds with a body part is a remarkable invention.</li>
+   <li>Inventing grammar and syntax is also innovative.</li>
+  </ul>
+ <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss). People are very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
+
+<h1>The Last One</h1>
+ <p>BTW, this is my last post, as I am slowly dying of cancer.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
