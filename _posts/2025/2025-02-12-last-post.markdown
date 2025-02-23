@@ -3,7 +3,7 @@ layout:   post
 title:    "Paim Came First (thesis)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-pain-came-first.svg"
+image:    "icon-dutch-stock-exchang-.svg"
 hidden:   true
 ---
 
@@ -40,7 +40,8 @@ hidden:   true
  <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss). People are very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
 
 <h1>The Last One</h1>
- <p>BTW, this is my last post, as I am slowly dying of cancer.<a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
+ <p>BTW, this is my last post, as I have cancer (colorectal, stage 4).</p>
+ <p>>However, if you have cancer, too, consult with a pain management MD. I have had very, very good luck with Celebrex. <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
