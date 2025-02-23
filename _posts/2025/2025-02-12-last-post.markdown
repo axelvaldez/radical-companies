@@ -23,7 +23,7 @@ hidden:   true
 
 <h1>Words</h1>
  <p>Words also comes out of pain.</p>
- <p>The first time the injured points to the foot and makes a sound. The next time he makes the same sound without pointing and it is understood by his tribe.</p>
+ <p>The first time the injured points to the foot and makes a sound. The next time he makes the same sound without pointing and it is understood by his tribe. Or somebody else points or touches the foot abd the next time he make the same sounds and everybody konws it is the foot.</p>
 
 <h1>Laughter</h1>
  <p>Pain is not just the wailing, <em>laughter</em> also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
@@ -35,20 +35,12 @@ hidden:   true
   <ul>
    <li>And there is plenty of invention going on.</li>
    <li>Associating a specific sounds with a body part is a remarkable invention.</li>
-   <li>Inventing grammar and syntax is also innovative.</li>
+   <li>Inventing grammar and syntax later is also innovative.</li>
   </ul>
- <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss). People are very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
+ <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss).</p>
+ <p>People are very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
 
 <h1>The Last One</h1>
  <p>BTW, this is my last post, as I have cancer (colorectal, stage 4).</p>
- <p>>However, if you have cancer, too, consult with a pain management MD. I have had very, very good luck with Celebrex. <a href='#en01'><sup id='bm01'>&hairsp;&nabla;&hairsp;</sup></a></p>
-
-<h1 class="_section">ENDNOTES</h1>
- <ul>
-  <li id="en01">
-   <p class="_list-item">
-    Colorectal, if you must know.
-    <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
-   </p>
-  </li>
+ <p>However, if you have cancer, too, consult with a pain management MD. I have had very, very good luck with Celebrex./p>
  </ul>
