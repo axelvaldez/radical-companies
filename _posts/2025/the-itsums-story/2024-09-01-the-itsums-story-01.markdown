@@ -13,32 +13,37 @@ hidden:   true
 <h1>Meaning & Belonging</h1>
  <p>Like all Itsums, Meaning put himself together from pieces left on the floor.</p>
 
- <a href=[\"\']#en(\d\d)[\"\']><[^>]*>\d&nbsp;<.*/a>
-
  <p>Meaning wanted to underdant his motivations and wht brought him to doone thing versus another</p>
- <p>Then Belonging put himself together from the pieces that he believed would make him more sensitive to other Itsums and what they wanted (not what they said).</p>
+
+ <p>Then Belonging put himself together from the pieces that he believed would make him more sensitive to other Itsums and what they wanted (not what they said).</p> 
+
  <p>Itsums Meaning and Belonging became very close friends. They were buddies with many other Itsums, including Fiat.</p> 
 
 <h1>Decentralization & Transparency</h1>
  <p>Decentralization had been around for a while, always teaching alternatives to Itsums that always wanted somebody to tell what to do.</p>
+
  <p>Transparenvy was hard to see, but when Decentralization met Tansparency they knew they were <em>compas</em>.</p>
 
 <h1>Experiment</h1>
  <p>Itsum <em>Experiment</em> was always in <em>Let&rsquo;s-Try</em> mode. In fact, the reality is that we are always <em>doing things from scratch</em>.</p>
+
  <p>Experiment knew it as it picked pieces to make himself. He was eager.</p>
+
  <p>He thought about it a lot before picking up a piece. And he would discard a piece just as easily as he picked it up.</p>
+
  <p>&ldquo;Do I feel more adventurous?&rdquo; If not, it would discard that piece and pick another one.</p>
 
 <h1>Foundation</h1>
- <p>These five Itsums,</p>
+ <p>These Itsums,</p>
   <ul>
    <li>Meaning</li>
    <li>Belonging</li>
    <li>Decentralization</li>
    <li>Transparency</li>
+   <li>Curiosity</li>
    <li>Experimenting</li>
   </ul>
- <p>came together and created the Radical Foundation.The Radical Foundation gave Itsums who chose it a guide to stay on the healthy path.</p>
+ <p>Came together and created the Radical Foundation which gave Itsums who chose it a guide to stay on the healthy path.</p> 
  <p>From them come everything Radical.</p>
 
 <h1>Co-Managers</h1>
