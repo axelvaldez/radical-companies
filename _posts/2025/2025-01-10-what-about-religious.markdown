@@ -11,5 +11,4 @@ image:    "icon-what-about-religion.svg"
 </div>
 
 <h1>Will Radical Change Religion?</h1>
- <p>Will Radical contribute to a changed religion?</p>
  <p>Zarahustra did!</p>
