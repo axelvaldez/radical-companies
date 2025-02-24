@@ -36,18 +36,15 @@ hidden:   true
 <h1>Foundation</h1>
  <p>These Itsums,</p>
   <ul>
-   <li>Meaning</li>
-   <li>Belonging</li>
-   <li>Decentralization</li>
-   <li>Transparency</li>
-   <li>Curiosity</li>
-   <li>Experimenting</li>
+   <li>Meaning and Belonging</li>
+   <li>Decentralization and Transparency</li>
+   <li>Curiosity and Experimenting</li>
   </ul>
  <p>Came together and created the Radical Foundation which gave Itsums who chose it a guide to stay on the healthy path.</p> 
  <p>From them come everything Radical.</p>
 
 <h1>Co-Managers</h1>
- <p>Co-management, often known as self-management means <em>no managers</em>. The people working toegether as a company manage <em>the work</em> themselves.</p>
+ <p>Co-management means <em>no managers</em>. The people working together as a company manage <em>the work</em>.</p>
  <p>If mom or dad are managers, they can be part of a <em>Fiat Business</em> and continue as managers. If they join a <em>Radical Company</em> they can work on anything they want, as long as their team knows.</p>
 
 <h1>Co-Ownership</h1>

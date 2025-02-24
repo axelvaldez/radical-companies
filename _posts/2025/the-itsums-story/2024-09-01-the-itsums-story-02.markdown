@@ -29,31 +29,32 @@ hidden:   true
  <p>It seemed that Fiat had built the perfect House to attract and entrap Itsums. Even the things that aimed to change the Fiat House became absorved by the Fiat House,</p>
   <table>
    <tr>
-    <th style="text-align:top; text-align:right; width:25ch; ">
+    <th style="text-align:right; width:8ch; ">
      Climate change?
     </th>
-    <td>
+    <td style="text-align:top; width:30ch; ">
      Green washing!
     </td>
    </tr>
    <tr>
-    <th style="text-align:top; text-align:right; width:25ch; ">
+    <th style=" text-align:right; width:8ch;  ">
      Discrimination?
     </th>
-    <td>
+    <td style="text-align:top; width:30ch; ">
      Bring out successful Itsums of color.
     </td>
    </tr>
    <tr>
-    <th style="text-align:top; text-align:right; width:25ch; ">
-     Mysogeny and LGBT+ low pay?
+Itsums
+    <th style="text-align:right; width:8ch; ">
+     Mysogeny and LGBT+ discrimination?
     </th>
-    <td>
-     Show black women and gay men on Boards!
+    <td style="text-align:top; width:30ch; ">
+     Show black and gay Itsums of color on Boards of Directors!
     </td>
    </tr>
   </table>
- <p>It was obvious that Fiat House was good at corrupting and eating up everything that got in its way.</p>
+ <p>The Fiat House was good at corrupting and eating up everything that got in its way.</p>
 
 <h1>Radical</h1>
  <p>But it all change when Radical came together. King Fiat immediately felt the impact.</p>
