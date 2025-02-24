@@ -21,20 +21,21 @@ hidden:   true
  <p>Somebody else names your foot or your hand with a sound, and a foot becomes the <em>foot sound</em> and a hand becomes the <em>hand sound</em>.</p>
 
 <h1>Songs</h1>
- <p>The most impactful songs are the ones about broken hearts and promises. Like the blues, they are the most intrinsically powerful.</p>
-
- <p>We invent words much less frequently now. Eventually we invented grammar and syntax for all sorts of suffering, joys, and ideas.</p>
- 
- <p>Today we develop Professional <em>Experiments</em> to discover things. Popupular culture invents vernacular and engineers invent new things that require different terms. These that eventually may get into the language body.</p>
+ <p>The most impactful songs are the ones about broken hearts and broken promises. Like the blues, they are intrinsically powerful.</p>
 
 <h1>Words</h1>
- <p>Words also comes out of pain.</p>
- 
+ <p>Words also comes out of pain. We invented grammar and syntax for all sorts of suffering, joys, and ideas.</p>
+
+ <p>We invent words much less frequently now. Popular culture invents vernacular, like Broh and Bitch. Engineers invent things that require different terms, like bits and bytes. And these eventually get into the body of language.</p>
+
  <p>The first time the injured points to the foot and makes a sound. The next time he makes the same sound without pointing and it is understood by his tribe. Or somebody else points or touches the foot and the next time he make the same sounds and everybody knows it is the foot.</p>
+ 
+ <p>We invent words much less frequently now.</p>
 
 <h1>Laughter</h1>
- <p>Pain is not just the wailing, <em>laughter</em> also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
- <p><em>Laughter</em> also comes from from the sounds that one makes when in pain.</p>
+ <p>Pain is not just the wailing, <em>laughter</em> also comes out of pain. It indicatew the joy comes when the pain goes away.</p>
+
+ <p><em>Laughter</em> also comes from from the sounds that one makes when in pain. &ldquo;<em>Rhythmic, vocalized contractions of the diaphragm and other respiratory muscles,</em>&rdquo; according to ChatGPT.</p>
 
 <h1>Curiosity?</h1>
  <p>What does any of this have to do with <em>Curiosity</em> and <em>experimation</em>?</p>
@@ -49,5 +50,5 @@ hidden:   true
  <p>People are naturally very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
 
 <h1>This Is Last Blog Post for Now</h1>
- <p>I have cancer (colorectal, stage 4). If you have cancer, too, consult with a Pain Management doctor. I have had very good luck with Celebrex, but consult a Pain Management doctor for your condition.</p>
+ <p>I have cancer (colorectal, stage 4). If you have cancer, too, consult with a Pain Management doctor. I have had very good luck with Celebrex, but consult a Pain Management doctor for your specific condition.</p>
  </ul>
