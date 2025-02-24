@@ -12,6 +12,9 @@ hidden:   true
 
 <h1>Meaning & Belonging</h1>
  <p>Like all Itsums, Meaning put himself together from pieces left on the floor.</p>
+
+ <a href=[\"\']#en(\d\d)[\"\']><[^>]*>\d&nbsp;<.*/a>
+
  <p>Meaning wanted to underdant his motivations and wht brought him to doone thing versus another</p>
  <p>Then Belonging put himself together from the pieces that he believed would make him more sensitive to other Itsums and what they wanted (not what they said).</p>
  <p>Itsums Meaning and Belonging became very close friends. They were buddies with many other Itsums, including Fiat.</p> 
