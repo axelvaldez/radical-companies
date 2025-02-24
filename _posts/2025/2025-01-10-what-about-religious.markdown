@@ -10,6 +10,6 @@ image:    "icon-what-about-religion.svg"
  <p>Will Radical change religion?</p>
 </div>
 
-<h1>Radical -> Religion?</h1>
- <p>Will Radical contribute to a change religion?</p>
+<h1>Will Radical Change Religion?</h1>
+ <p>Will Radical contribute to a changed religion?</p>
  <p>Zarahustra did!</p>

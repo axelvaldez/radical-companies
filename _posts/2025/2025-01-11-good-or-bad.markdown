@@ -13,6 +13,7 @@ hidden:   true
 
 <h1>Good or Bad?</h1>
  <p>Religion made people ready to <em>get at a job</em> with for someone else&rsquo;s purpose, a job defined by the owners! (wich is usually <em>making money</em>).</p>
+ 
   <div style="margin-bottom:0; "> 
    <p class="_citation">&hellip; his life became a means to purposes outside of himself, those of economic productivity and accumulation of capital.</p><span style="float:right; "><em>for the Boss</em>.</span>
   </div>
