@@ -3,7 +3,7 @@ layout:   post
 title:    "Paim Came First (thesis)"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
-image:    "icon-dutch-stock-exchang-.svg"
+image:    "icon-colorectal-cancer.svg"
 hidden:   true
 ---
 
