@@ -12,18 +12,25 @@ hidden:   true
 </div>
 
 <h1>Pain Came First</h1>
- <p>Pain came first. Then came language. Then came laughter. Then ame humanity. All from pain.</p>
+ <p>Pain came first. Then came language. Then came laughter. Then came humanity. All from pain.</p>
 
- <p>People, and perhap all animals, are translating machines, inside to the outside. So you could wail about your foot, or you could signal agony coming form your hand. Somebody else names your foot or your hand. And a <em>foot</em> becomes a foot an a <em>hand</em> becomes a hand.</p>
+ <p>People, and perhap all animals, are translating machines. Inside to outside.</p>
+
+ <p>Imagine that pre-language-you get hurt (inside). You could wail (outside) about your foot, or you could signal agony (outside) coming form your hand.</p>
+
+ <p>Somebody else names your foot or your hand with a sound, and a foot becomes the <em>foot sound</em> and a hand becomes the <em>hand sound</em>.</p>
 
 <h1>Songs</h1>
- <p>The most impactful songs are the ones about broken hearts and promises. Like the blues, they are the most powerful.</p>
- <p>We invent words much less frequently now. Eventually we invent  grammar and syntax for all sorts of suffering, joys, and ideas.</p>
- <p>Today we develop Professional <em>Experiments</em> to discover things. Popuplar culture can not wait and invents vernacular that eventually may get into the language.</p>
+ <p>The most impactful songs are the ones about broken hearts and promises. Like the blues, they are the most intrinsically powerful.</p>
+
+ <p>We invent words much less frequently now. Eventually we invented grammar and syntax for all sorts of suffering, joys, and ideas.</p>
+ 
+ <p>Today we develop Professional <em>Experiments</em> to discover things. Popupular culture invents vernacular and engineers invent new things that require different terms. These that eventually may get into the language body.</p>
 
 <h1>Words</h1>
  <p>Words also comes out of pain.</p>
- <p>The first time the injured points to the foot and makes a sound. The next time he makes the same sound without pointing and it is understood by his tribe. Or somebody else points or touches the foot abd the next time he make the same sounds and everybody konws it is the foot.</p>
+ 
+ <p>The first time the injured points to the foot and makes a sound. The next time he makes the same sound without pointing and it is understood by his tribe. Or somebody else points or touches the foot and the next time he make the same sounds and everybody knows it is the foot.</p>
 
 <h1>Laughter</h1>
  <p>Pain is not just the wailing, <em>laughter</em> also comes out of pain. The joy comes when the pain goes away, like pulling a needle.</p>
@@ -31,16 +38,16 @@ hidden:   true
 
 <h1>Curiosity?</h1>
  <p>What does any of this have to do with <em>Curiosity</em> and <em>experimation</em>?</p>
- <p>The way I think about, you have to be <em>curios</em> to invent,
+ <p>
   <ul>
-   <li>And there is plenty of invention going on.</li>
-   <li>Associating a specific sounds with a body part is a remarkable invention.</li>
+   <li>You have to be <em>curios</em> to invent language. Associating a specific sounds with a body part is a remarkable invention.</li>
    <li>Inventing grammar and syntax later is also innovative.</li>
   </ul>
- <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss).</p>
- <p>People are very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
 
-<h1>The Last One</h1>
- <p>BTW, this is my last post, as I have cancer (colorectal, stage 4).</p>
- <p>However, if you have cancer, too, consult with a pain management MD. I have had very, very good luck with Celebrex./p>
+ <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss).</p>
+
+ <p>People are naturally very curios. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiosity</em> that sparked songs, words, laughter and many of other things.</p>
+
+<h1>This Is Last Blog Post for Now</h1>
+ <p>I have cancer (colorectal, stage 4). If you have cancer, too, consult with a Pain Management doctor. I have had very good luck with Celebrex, but consult a Pain Management doctor for your condition.</p>
  </ul>
