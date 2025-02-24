@@ -12,9 +12,10 @@ hidden:   true
 </div>
 
 <h1>Pain Came First</h1>
- <p>Pain came first. Then came language. Then came laughter. Then came humanity. All from pain.</p>
+ <p>Pain came first. Then came laughter. Then came language. All from humanity. All, possibly, from pain.</p>
 
- <p>People, and perhap all animals, are translating machines. Inside to outside.</p>
+<h1>Translating Machines</h1>
+ <p>People, and perhap all animals, are translating machines: inside to outside.</p>
 
  <p>Imagine that pre-language-you get hurt (inside). You could wail (outside) about your foot, or you could signal agony (outside) coming form your hand.</p>
 
