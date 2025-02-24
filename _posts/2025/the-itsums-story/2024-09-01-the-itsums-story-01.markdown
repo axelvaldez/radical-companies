@@ -24,14 +24,14 @@ hidden:   true
 
  <p>Transparenvy was hard to see, but when Decentralization met Tansparency they knew they were <em>compas</em>.</p>
 
-<h1>Experiment</h1>
- <p>Itsum <em>Experiment</em> was always in <em>Let&rsquo;s-Try</em> mode. In fact, the reality is that we are always <em>doing things from scratch</em>.</p>
+<h1>Curiosity & Experiment</h1>
+ <p>Curiosity ismalwaystrying things out. He is always nudging Experiment when and helps when his experiments do not work as expected. &ldquo;Try it again, change it a little.&rdquo;. and with big smile. &ldquo;Now <em>you know</em> one way it does not work!&rdquo;</p>
 
- <p>Experiment knew it as it picked pieces to make himself. He was eager.</p>
+ <p>In any case, Itsum <em>Experiment</em> was always in <em>Let&rsquo;s-Try</em> mode, although Itsum Curiosity&rsquo;s encouragene was nice.</p>
 
- <p>He thought about it a lot before picking up a piece. And he would discard a piece just as easily as he picked it up.</p>
+ <p>The reality is that <em>we are always doing things from scratch</em>.</p>
 
- <p>&ldquo;Do I feel more adventurous?&rdquo; If not, it would discard that piece and pick another one.</p>
+ <p>Curiosity and experiment becamevery close.</p>
 
 <h1>Foundation</h1>
  <p>These Itsums,</p>
