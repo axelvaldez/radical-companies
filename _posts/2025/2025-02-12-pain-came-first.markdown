@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Paim Came First (thesis)"
+title:    "Paim Came First"
 subtitle: "TEMPLATE"
 authors:  "Matt Perez"
 image:    "icon-dutch-stock-exchang-.svg"
