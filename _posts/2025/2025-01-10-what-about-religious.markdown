@@ -12,4 +12,4 @@ image:    "icon-what-about-religion.svg"
 
 <h1>Religion</h1>
  <p>Will Radical change religion in time?</p>
- <p>Zarahustra did!</p>
+ <p>Zarahustra&rsquo;s religion did! Unfornately it was a move towards centralisation on one boss-god. But it changed religion, and governance.</p>
