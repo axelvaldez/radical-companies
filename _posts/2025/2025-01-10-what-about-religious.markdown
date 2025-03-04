@@ -7,8 +7,9 @@ image:    "icon-what-about-religion.svg"
 ---
 
 <div style='display:none; '>
- <p>Will Radical change religion?</p>
+ <p>Will Radical change religion in time?</p>
 </div>
 
-<h1>Will Radical Change Religion?</h1>
+<h1>Religion</h1>
+ <p>Will Radical change religion in time?</p>
  <p>Zarahustra did!</p>
