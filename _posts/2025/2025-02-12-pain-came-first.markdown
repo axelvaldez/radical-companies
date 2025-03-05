@@ -48,4 +48,4 @@ hidden:   true
 
  <p>Even if did not happened exactly like this, the development of language is remarkable (and without a boss).</p>
 
- <p>People are naturally very curious. Unfortunately, the Fiat system wants the <em>raw muscle</em>, but not the <em>curiousity</em> that sparked songs, words, laughter and many of other things.</p>
+ <p>People are naturally very curious. Unfortunately, the Fiat system wants their <em>raw muscle</em>, but not their <em>curiousity</em> that sparked songs, words, laughter, and everything that humanity has created.</p>
