@@ -16,8 +16,9 @@ hidden:   true
  <p>Itsums Meaning and Belonging became very close friends. They were buddies with many other Itsums, including Fiat.</p> 
 
 <h1>Decentralization & Transparency</h1>
- <p>Decentralization had been around for a while, always teaching alternatives to Itsums that wanted somebody to tell them what to do and instead teaching them to make choices themselves.</p>
+ <p>Decentralization had been around for a while, always teaching alternatives to Itsums who wanted somebody to tell them what to do and instead teaching them to make choices themselves.</p>
  <p>Transparency was hard to see, but when Decentralization really saw Transparency they knew they were going to be very close friends.</p>
+ <p>Every time he introduced Transparency to a newbie Decentralization stood behind Transparency.</p>
  <p>They were buddies with many other Itsums, including Fiat.</p>
 
 <h1>Curiosity & Experiment</h1>
@@ -27,8 +28,7 @@ hidden:   true
  <p>Curiosity and Experiment became very close. They were buddies with many other Itsums, including Fiat.</p>
 
 <h1>Radical Foundation</h1>
- <p>All the Itsums came together and made up the <em>Radical Foundation</em> which pointed to the healthy path.</p> 
- <p>And from that came the Radical system.</p>
+ <p>All the Itsums came together and made up the <em>Radical Foundation</em> and from that, together wth a couple of other things, came the Radical system.</p>
 
 <h1>Co-Managers</h1>
  <p>Co-management means <em>no managers</em>. The people working together as a company managed <em>the work</em>.</p>
