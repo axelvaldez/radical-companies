@@ -21,7 +21,7 @@ hidden:   true
  <p>They were buddies with many other Itsums, including Fiat.</p>
 
 <h1>Curiosity & Experiment</h1>
- <p>Curiosity was always verhyn curious.</p>
+ <p>Curiosity was always very curious.</p>
  <p>He is always nudging Experiment, &ldquo;Try it again, change it a little.&rdquo;, and he would continu, with big smile, &ldquo;now <em>you know</em> another way it does not work!&rdquo;</p>
  <p>Itsum <em>Experiment</em> was always in &ldquo;<em>let&rsquo;s try mode</em>&rdquo;. But Itsum Curiosity&rsquo;s encouragements were good.</p>
  <p>Curiosity and Experiment became very close. They were buddies with many other Itsums, including Fiat.</p>
