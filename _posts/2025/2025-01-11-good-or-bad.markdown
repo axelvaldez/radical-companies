@@ -12,7 +12,8 @@ hidden:   true
 </div>
 
 <h1>Good or Bad?</h1>
- <p>Religion made people ready to <em>get at a job</em>. A job is defined by the Boss whose purpose it is to <em>make money</em>.</p>
+ <p>Religion made people ready to <em>get at a job</em> as defined by the Boss,. Ant Boss&rsquo; sole purpose is to make money</em>.</p>
+ <p>Religion made people ready to get at a job in <em>the Bos&rsquo;s money-making machine.</em></p>
   <div class="_citation">
     &ldquo;[H]is life became a means to purposes outside of himself, those of economic productivity and accumulation of capital (<em>for the boss</em>).&rdquo;
   </div>
