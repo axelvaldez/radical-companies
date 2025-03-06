@@ -33,26 +33,26 @@ hidden:   true
  <p>It sure took work to answer questions, but it was worth it. In fact, sometimes answering a question suggested an improvement or a better way to explaining it. And <EM>that</EM> was very satisfying.</p>
 
 <h1>About RADs</h1>
- <p>In the Fiat House a strategy usually came from the Supreme Boss through the minor bosses. In the Foundation House RADs <EM>replaced</EM> all bosses. Radical House Itsums gave RADs to each other so there was no need for Bosses.</p>
- <p>RADs is how things are distributed at the Radical House. Money, food, were all distributed through RADs. If one Itsum had twice as many RADs as another, it gets twice as many goodies as the other in a cycle.</p>
- <p>RADs are recogmkized for \  contribution to the Itsum community.</p>
+ <p>In the Fiat House everything came from the Supreme Boss through the minor bosses.</p>
+ <p>In the Foundation House RADs <EM>replace</EM> all bosses. Radical House Itsums gave RADs to each other so there was no need for Bosses.</p>
+ <p>RADs is how things are distributed at the Radical House. Money, food, are all distributed through RADs. If one Itsum had twice as many RADs as another, it gets twice as many goodies as the other. RADs makeeverything ho]]go in the Itsum community.</p>
 
 <h1>And So&hellip;</h1>
- <p>Fiat is a system for the few to accumulate money. We need an alternative for living, like the Radical system.</p>
+ <p>Fiat is a system to accumulate money. We need the Radical system for living.</p>
  <br />
  <div class="_illustration">
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-07.svg"  size="70">
   </div>
-   <p>We need a Foundation to help us stay on the living path. We must share in the wealth we create.</p>
+   <p>We need a Foundation to help us enjoy nour wwork living path. We must share the wealth we create.</p>
   <div>
    <img src="/assets/img/pic-childrens-the-itsums-story-08.svg"  size="70">
   </div>
-  <li>We need to collaborate, not compete.</li>
+  <li>We must to collaborate, not compete.</li>
   <div>
    <img src="/assets/img/pic-hildrens-the-itsums-story-10.sgv"  size="70">
   </div>
-  <li>We need to be <em>recognized for our contributions</em> to our work we accomplish together.</li>
+  <li>We need to be <em>recognized for our contributions</em> in the work we do together.</li>
  </ul>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
