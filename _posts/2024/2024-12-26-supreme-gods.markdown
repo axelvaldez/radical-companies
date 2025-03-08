@@ -7,7 +7,7 @@ image:    "icon-supreme-gods.svg"
 ---
 
 <div style='display:none; '>
- <p>According to history, the Supreme God stuff started with Zarathushtra Spitama (aka, Zoroaster), in Persia. The termn was coined by Friedrich Wilhelm Joseph von Schelling.</p>
+ <p>According to history, the Supreme God stuff started with Zarathushtra Spitama (aka, Zoroaster), in Persia. The term was coined by Friedrich Wilhelm Joseph von Schelling.</p>
 </div>
 
 <h1></h1>
