@@ -27,10 +27,23 @@ hidden:   true
  </div>
  <p>But the sign of &ldquo;<em>free country might as well be taken down</em>&rdquo; is what we have to be ready to fight against at any time.</p>
 
-<h1>The Many, the Few</em>&rdquo;</p></h1>
+<h1>All. The People.</h1>
   <div class="_citation">
-   <p>&ldquo;<em>&hellip; the great drainage companies fastenend upon America&lsquo;s prosperity</em>&rdquo; saw to it that &ldquo;<em>the proceeds of the labor of the many [went] into the pockets of the few.</em>&rdquo;</p>
+   <p>&ldquo;&hellip; that the profits from the cooperation of <em>all people</em> would go to <em>the people</em>,</p>
   </div>
- <p>
+ <p>Here is the problem with that sentence,</p>
+  <ul>
+   <li><em>Who</em> is this so called &ldquo;<em>the people</em>?&rdquo;</li>
+   <li><em>How</em> is this benefit going to be distributed?</li>
+   <li>Based on <em>what</em>?</li>
+   <li>By <em>whom</em> is it going to be distributed?</p
+  </ul>
+  </div>
+ <p>The problem is that this could be interpreted in many ways including that <em>the work of the people</em> would go <em>to [all] the people</em>. A perhaps careless mistake opens the door to all kinds of criticism.</p>
+ <p>Worse, this was on the right path, but impulsive. Imagine if this would have ended uo spawning Radical!</p>
 
-<h1> </h1>
+<h1>The Many. The Few.</h1>
+ <div class="_citation">
+  <p>&ldquo;<em>&hellip; the great drainage companies fastenend upon America&lsquo;s prosperity</em>&rdquo; saw to it that &ldquo;<em>the proceeds of the labor of many [went] into the pockets of the few.</em>&rdquo;</p>
+ </div>
+ <p>This is stil happening: Elon Mush is the richest person in the world and I imagine that other wealty people are quietly competing with him. Perhaps <link rel="stlesheet" href="https://en.wikipedia.org/wiki/Carlos_Slim">Carlos Slim Hel&uacute</link>&mdash;but maybe not.</p>
