@@ -19,13 +19,13 @@ hidden:   true
   <div class="_citation">
    <p>The rise of corporate giants &hellip; upended a culture of <em>traditional American values</em> that had jelled around the <em>virtue of hard work</em>, and suspicion of great wealth, in pursuit of sustainable &lsquo;equality.&rsquo;</p>
   </div>
- <p>I am not sure if it waa the mentions of <em>&ldquo;community&rdquo;</em>, <em>&ldquo;sustainable&rdquo;</em>, or <em>&rdquo;suspicion of great wealth&rdquo;</em>, but it really resonated with me.</p>
+ <p>I am not sure if it was the mentions of <em>&ldquo;community&rdquo;</em>, <em>&ldquo;sustainable&rdquo;</em>, or <em>&rdquo;suspicion of great wealth&rdquo;</em>, but it really resonated with me.</p>
 
-<h1>Free Country&hellip; ?</h1>
+<h1>&ldquo;Free Country&rdquo;</h1>
  <div class="_citation">
-  <p>If the capitalists succeed in their quest for power, unionists asserted, &lsquo;<em>then the sign of </em>free country<em> might as well be taken down.</em>&lsquo;</p>
+  <p>If the capitalists succeed in their quest for power &hellip;, &lsquo;<em>then the sign of </em>free country<em> might as well be taken down.</em>&lsquo;</p>
  </div>
- <p>But the sign of &ldquo;<em>free country might as well be taken down</em>&rdquo; is what we have to be ready to fight against at any time.</p>
+ <p>But the &ldquo;<em>free country&hellip; </em>&rdquo; is what we must be ready to defend and make sure it continuous to be free.</p>
 
 <h1>All. The People.</h1>
   <div class="_citation">
@@ -46,4 +46,4 @@ hidden:   true
  <div class="_citation">
   <p>&ldquo;<em>&hellip; the great drainage companies fastenend upon America&lsquo;s prosperity</em>&rdquo; saw to it that &ldquo;<em>the proceeds of the labor of many [went] into the pockets of the few.</em>&rdquo;</p>
  </div>
- <p>This is stil happening: Elon Mush is the richest person in the world and I imagine that other wealty people are quietly competing with him. Perhaps <link rel="stlesheet" href="https://en.wikipedia.org/wiki/Carlos_Slim">Carlos Slim Hel&uacute</link>&mdash;but maybe not.</p>
+ <p>This is stil happening: Elon Mush is the richest person in the world and I imagine that other wealty people are quietly competing with him (perhaps <a href="https://en.wikipedia.org/wiki/Carlos_Slim" target="_blank">Carlos Slim Hel&uacute;</a>, the second richest man in the world&mdash;but maybe not).</p>
