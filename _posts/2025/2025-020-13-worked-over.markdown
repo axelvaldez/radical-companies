@@ -54,4 +54,4 @@ hidden:   true
   Join us and our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital.
 
   Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and dare to challenge the boundaries.
-  </div>
+</div>
