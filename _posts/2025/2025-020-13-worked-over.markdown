@@ -45,10 +45,13 @@ hidden:   true
   <div class="_citation">
    <p>&ldquo;<em>&hellip; the great drainage companies fastenend upon America&lsquo;s prosperity</em>&rdquo; saw to it that &ldquo;<em>the proceeds of the labor of many [went] into the pockets of the few.</em>&rdquo;</p>
   </div>
- <p>This is stil happening. For example, Elon Mush is the richest person in the world, as of the writing if this post. I imagine that other wealthy people are quietly competing with him (perhaps <a href="https://en.wikipedia.org/wiki/Carlos_Slim" target="_blank">Carlos Slim Hel&uacute;</a>, a Mexican of Lebanesee descendece and the second richest man in the world).</p>
+ <p>And this is stil happening. For example, Elon Mush is the richest person in the world, as of the writing if this post. I imagine that other wealthy people are quietly competing with him (perhaps <a href="https://en.wikipedia.org/wiki/Carlos_Slim" target="_blank">Carlos Slim Hel&uacute;</a>, a Mexican of Lebanesee descendece and the second richest man in the world).</p>
 
 
-<h1>---------------------------------------</h1>
-  You are about to learn about Radical, an alternative way to the system we live in today which we call Fiat. Be ready for a journey that will leave an indelible mark on the world, where pioneers emerge and you can be part of a movement that shapes the future.  It is up to you to open the floodgates to opportunities where innovation thrives on a different kind of risk-taking.
+<div style='display:none; '>
+  You are about to learn about <em>Radical</em>, an alternative way to the system we live in today, which we call <em>Fiat</em>. Be ready for a journey that will leave an indelible mark on the world, where pioneers emerge and you can be part of a movement that shapes the future.  It is up to you to open the floodgates to opportunities where innovation thrives on a different kind of risk-taking.
+
   Join us and our community of like-minded people, where collaboration is a cornerstone. We aim to achieve what was once deemed impossible and create a world driven by contributions, not capital.
+
   Now is the time to be part of something truly daring. Step forward as a pioneer, and together, we will surpass expectations, and dare to challenge the boundaries.
+  </div>
