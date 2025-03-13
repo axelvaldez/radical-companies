@@ -23,7 +23,7 @@ hidden:   true
 
 <h1>&ldquo;Free Country&rdquo;</h1>
   <div class="_citation">
-   <p>If the capitalists succeed in their quest for power &hellip;, then the sign of free country might as well be taken down</em></p>
+   <p>If the capitalists succeed in their quest for power &hellip;, then the sign of <em>free country</em> might as well be taken down</em></p>
   </div>
  <p>But a &ldquo;free country&hellip; &rdquo; is what we must be ready to defend and make sure it continuous to be <em>free</em>.</p>
 
