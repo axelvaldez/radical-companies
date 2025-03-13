@@ -16,7 +16,7 @@ hidden:   true
  <p>Every one of the Itsums who lived the Fiat House literally adored Fiat. The others were moved to the Fiat Shack by the Itsum called Violence.</p>
  <p>Unfortunately, the Fiat Shack had fallen badly into disrepair, but the Rabble could still fit in tightly. And that was fine for them.</p>
   <div>
-   <img src="/assets/img/pic-\the-itsums-story.svg" size="70%">
+   <img src="/assets/img/pic-the-itsums-story.svg" size="70%">
   </div>
 
 <h1>The Rabble</h1>
