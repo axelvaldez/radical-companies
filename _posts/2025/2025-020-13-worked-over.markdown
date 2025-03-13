@@ -45,7 +45,7 @@ hidden:   true
   <div class="_citation">
    <p>&ldquo;<em>&hellip; the great drainage companies fastenend upon America&lsquo;s prosperity</em>&rdquo; saw to it that &ldquo;<em>the proceeds of the labor of many [went] into the pockets of the few.</em>&rdquo;</p>
   </div>
- <p>And this is stil happening. For example, Elon Mush is the richest person in the world, as of the writing if this post. I imagine that other wealthy people are quietly competing with him (perhaps <a href="https://en.wikipedia.org/wiki/Carlos_Slim" target="_blank">Carlos Slim Hel&uacute;</a>, a Mexican of Lebanesee descendece and the second richest man in the world).</p>
+ <p>And this is stil happening. For example, Elon Musk is the richest person in the world, as of the writing of this post. <em>I imagine that other wealthy people are quietly competing with him</em>. Perhaps <a href="https://en.wikipedia.org/wiki/Carlos_Slim" target="_blank">Carlos Slim Hel&uacute;</a>, a Mexican, of Lebanesee descent, the second richest personkn tne world.</p>
 
 
 <div style='display:none; '>
