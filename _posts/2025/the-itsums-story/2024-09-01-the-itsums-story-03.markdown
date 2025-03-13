@@ -15,7 +15,7 @@ hidden:   true
 
 <h1>Decentralization</h1>
  <div>
-  <img src="/assets/img/pic-childrens-the-itsums-story-06.svg"  size="70%">
+  <img src="/assets/img/pic-the-itsums-story-06.svg"  size="70%">
  </div>
  <p>Decentralization did not like rules that applied to <em>everybody</em> regardless of their will. He did not like the effect it had on Itsums.</p>
  <p>It liked helping Itsums to make and change their own rules. &ldquo;<em>But it will be chaos</em>,&rdquo; they yelled from the Fiat House. &ldquo;<em>&ldquo;So idealistic for Pete&rsquo;s sake!</em>. &mdash;they said to instill fear. What they did not say is that it may be that way, <strong><em>if</em></strong> your autonomy depends on it because it definiteluy puts at risk.</p>
@@ -24,7 +24,7 @@ hidden:   true
 
 <h1>Transparency</h1>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-07.svg"  size="70">
+   <img src="/assets/img/pic-the-itsums-story-07.svg"  size="70">
   </div>
  <p>Transparency went around reminding Itsums to not keep things that they forgotten to make tramsparemt. If it existed, others must be able to find out about it.</p>
  <p>No trade secrets. No trademarks. No Non-Disclosures. No secrets whatsoever.</p>
