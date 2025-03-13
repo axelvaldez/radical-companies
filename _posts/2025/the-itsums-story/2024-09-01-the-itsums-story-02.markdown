@@ -16,7 +16,7 @@ hidden:   true
  <p>Every one of the Itsums who lived the Fiat House literally adored Fiat. The others were moved to the Fiat Shack by the Itsum called Violence.</p>
  <p>Unfortunately, the Fiat Shack had fallen badly into disrepair, but the Rabble could still fit in tightly. And that was fine for them.</p>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-01.svg" size="70%">
+   <img src="/assets/img/icon-childrens-the-itsums-story.svg" size="70%">
   </div>
 
 <h1>The Rabble</h1>
@@ -57,18 +57,18 @@ hidden:   true
 <h1>Radical</h1>
  <p>But it all changed when Radical came together. King Fiat immediately <em>felt</em> the impact.</p>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-02.svg" size="70%">
+   <img src="/assets/img/icon-childrens-the-itsums-story-02.svg" size="70%">
   </div>
  <p>Radical went over to the Fiat House to talk to them, but King Fiat did not want to talk to Radical.</p>
  <p>The other Itsums in the Fiat House just tried to confuse Radical. He found it very strange that Itsums did not want to talk and were more interested in confusing other Itsums.</p>
  <p>Back in the Foundation House, Radical talked to the Itsums and learned that every time they tried to talk they were beaten.</p>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-03.svg" size="70%">
+   <img src="/assets/img/icon-childrens-the-itsums-story-03.svg" size="70%">
   </div>
 
 <h1>The Radical Foundation</h1>
   <div>
-   <img src="/assets/img/pic-childrens-the-itsums-story-04.svg" size="70%">
+   <img src="/assets/img/icon-childrens-the-itsums-story-04.svg" size="70%">
   </div>
  <p>Radical thought and thought and eventually came out with a Foundation wth thenhelp of Meaning, & belonging, Decentralization & Transparencey. and Curios & Experimentation.</p>
  <p>It knew that Itsums had different sensitivies. It also knew that they would not want dogma like a constitution or yet another  structure.</p>
@@ -78,9 +78,9 @@ hidden:   true
 <h1>Nothing New</h1>
  <p>In the past other Itsums had identified the many problems that the Fiat House brought, but their solutions were too specific and narrow.</p>
 
-<h1>Radical Foundation</h1>
+<h1>The Radical Foundation</h1>
  <div>
-  <img src="/assets/img/pic-childrens-the-itsums-story-05.svg" size="70%">
+  <img src="/assets/img/icon-childrens-the-itsums-story-05.svg" size="70%">
  </div>
  <p>Fiat organizations are OK <em>if others agree to live in them</em>.</p>
  <p>We do not want to compete with the many ills of the Fiat House. We simply want an alternative for living healthy lives.</p>
