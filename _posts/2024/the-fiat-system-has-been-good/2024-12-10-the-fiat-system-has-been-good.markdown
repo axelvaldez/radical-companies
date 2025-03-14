@@ -33,7 +33,7 @@ hidden:   true
  <p>And that is why I refer to jobs as slavery,</p>
   <ul>
    <li>You stop working, and eventually you will be in the poor house.</li>
-   <li>Instead of slavery to one owner, you were enslaved to your survival.</li>
+   <li>Instead of slavery to one owner, you were enslaved to your survival by wage slavery.</li>
    <li>Fiat owners &lsquo;helped&rsquo; by offering a job.</li>
   </ul>
  <p>The Fiat system does not care, so long as money accumulation happened no matter how many hands it ended up in. The employees themselves tried to get rich, and many have. They had to bring the <em>people with capital</em> into the deal. It was new form of getting richer, this time through <em>entrepreneurship</em>.</p>
