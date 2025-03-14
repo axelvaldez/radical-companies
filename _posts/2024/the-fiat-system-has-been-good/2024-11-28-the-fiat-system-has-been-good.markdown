@@ -34,10 +34,10 @@ image:    "icon-fiat-has-been-good.svg"
  <p>These are all features of the <em>Fiat system,</em></p>
   <ul>
    <li>Charity has never solved anything, but it feels good to the givers.</li>
-   <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
-   <li>Revolutions change the people at the top who want their own flavor of a centralized Fiat system.</li>
+   <li>Serving free food is an act of charity, which reinforces the believe that <em>the little people</em> are hepless even when it comes to feeding themselves.</li>
+   <li>Revolutions change the people at the top who want their own flavor of a Fiat system.</li>
   </ul> 
- <p>We need at least one alternative with roots to make &ldquo;<em>people&rsquo;s lives</em>&rdquo; the highest priority. Lives with an impact, lives with a purpose, and lives with missions. We will have to changed more than a few minds and once we have people will be on their way of fixing Climate and change and many of the other bad things that Fiat brings with it. And they will do it from the very roots. We call the system <em>Radical</em>.</p>
+ <p>We need at least one alternative with roots to make &ldquo;<em>people&rsquo;s lives</em>&rdquo; the highest priority. Lives with an impact, lives with a purpose, and lives with missions. We will have to changed more than a few minds, but once we have done so people will be on their way of fixing Climate and change and many of the other bad things that Fiat brings with it. We call that system <em>Radical</em>.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
