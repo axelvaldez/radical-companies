@@ -12,7 +12,7 @@ image:    "icon-fiat-has-been-good.svg"
 
 <h1>Fiat Has Not Been All Bad</h1>
  <p>The Fiat system has been good for more than a few people: it created the middle class, improved education, medicine, and science, etc. People in the US, Europe, Australia, and New Zealand and people of <em>European descent</em> do. Not all of them, mind you, but that is generally the case.</p>
- <p>Society has moved forward, in Europe and the &ldquo;<em>developed</em>&rdquo; countries.</p>
+ <p>Society has moved forward in the &ldquo;<em>developed</em>&rdquo; countries.</p>
 
  <h1>Climate Change</h1>
   <p>Then there is Climate Change, <span id="_standout">which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</span></p>
