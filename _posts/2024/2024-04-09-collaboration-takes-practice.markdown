@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    "Collaboration Takes Practice"
+title:    "Collaboration Takes Practice (05/12)"
 subtitle: ""
 authors:  "Matt Perez"
 image:    "icon-collaboration-takes-practice.svg"
