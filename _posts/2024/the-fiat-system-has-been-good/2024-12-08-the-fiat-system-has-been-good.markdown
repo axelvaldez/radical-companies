@@ -81,8 +81,8 @@ hidden:   true
     <li>Not getting credit.</li>
    </ul>
   <p>So, again, Fiat has balanced some things well for the sake of making money which of course, this is is not the only or best way to do it.</p>
-  <p>The one thing to note is that,</p>
-   <div class="_citation">
+  <p>To note,</p>
+   <div class="_citation" style="display:none; ">
     <p>&ldquo;<em>The rapid progress of medicine in this era was reinforced by enormous improvements in communication between scientists throughout the world.</em>&rdquo;</p>
    </div>
   <p>One thing to note here is that the drive to make money sometimes results in doing the right thing. In this case it worked only because <em>increased communication</em> was not in direct competition with capital and was not taking money out of the Fiat bosses&rsquo;s pockets.</p>
