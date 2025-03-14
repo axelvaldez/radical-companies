@@ -13,7 +13,7 @@ hidden:   true
 </div>
 
 <h1>Radical</h1>
- <p>Radical is the name we gave to one alternative to the Fiat system. In this case it <em>Radical</em> refers to the roots of its governance systems. You can read how it came up and how it developed in <a href="#en01"><sup id="bm01">&hairsp;&nabla;&hairsp;</sup> Radical Companies</a> and in <a href="#en02"><sup id="bm02">&hairsp;&nabla;&hairsp;</sup> Radical in Detail</a> you can read the answers to questions that have come up and some that we made up to make it more understandable.</p>
+ <p>Radical is the name we gave to one alternative to the Fiat system. In this case it <em>Radical</em> refers to the roots of its governance systems. You can read how it came up and how it developed in <sup id="bm01"><a href="#en01"> Radical Companies&hairsp;&nabla;&hairsp;</a></sup> and in <sup id="bm02"><a href="#en02"> Radical in Depth&hairsp;&nabla;&hairsp;</a></sup> you can read the answers to questions that have come up and some that we made up to make it more understandable.</p>
 
 <h1>The Tshirt Said It</h1>
  <p>The renoun author, Ursula Le Guin said,</p>
