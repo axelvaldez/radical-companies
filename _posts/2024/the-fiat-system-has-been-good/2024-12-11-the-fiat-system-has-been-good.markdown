@@ -38,7 +38,7 @@ hidden:   true
     <p>Think of the roads to you job. Those are public goods (provided by taxes that you dutifully paid).</p>
    </li>
   </ul>
- <p id="_standout">They are the benefits of the Fiat system we have put in place. Some people may fall outside of it, just look at the shithole countries.</p>
+ <p id="_standout">They are the benefits of the Fiat system, although some people may fall outside of it, just look at the shithole countries.</p>
  
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:left; ">
