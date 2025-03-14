@@ -37,8 +37,7 @@ image:    "icon-fiat-has-been-good.svg"
    <li>Serving free food is an act of charity which reinforces that the receivers are hepless even to feed themselves.</li>
    <li>Revolutions change the people at the top who want their own flavor of a centralized Fiat system.</li>
   </ul> 
- <p>We need at least one alternative. With roots that make <em>people&rsquo;s lives</em> the top priority. Lives with an impact, purpose, and missions. Once we changed a few minds, people will be on their way of fixing Climate Change and many of the other bad things that Fiat brings with it. And they will do it from the very roots of the alternative system and not from fungible Fiat laws decided by politics.</p>
- <p>We call the system we came up with <em>Radical</em> as in starting from the roots.</p>
+ <p>We need at least one alternative with roots to make &ldquo;<em>people&rsquo;s lives</em>&rdquo; the highest priority. Lives with an impact, lives with a purpose, and lives with missions. We will have to changed more than a few minds and once we have people will be on their way of fixing Climate and change and many of the other bad things that Fiat brings with it. And they will do it from the very roots. We call the system <em>Radical</em>.</p>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
  <span style="float:right;  ">
