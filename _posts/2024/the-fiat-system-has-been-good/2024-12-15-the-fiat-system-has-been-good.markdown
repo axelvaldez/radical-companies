@@ -12,15 +12,12 @@ hidden:   true
 </div>
 
 <h1></h1>
- <p>I do not have anything else to say about the Fiat system, except that it has been good for mankind to have a goal, simplistic as the Fiat system&rsquo;s goal has been. It generated progress and it has improved the well-being of many more people than a handful of Europeans Kings and Queens.</p>
-
-<h1>Nice to Meet You</h1>>
- <p>I have been in then US since 1969 and a US citizen since 1976. I was born in Cuba and grew up there. I left for Spain a few days before my 15<sup>th</sup> birthday.</p>
+ <p>I do not have anything else to say about the Fiat system, except that it generated progress and it has improved the well-being of many more people than a handful of Europeans Kings and Queens.</p>
 
 <h1>My Father</h1>
- <p>My father was very influential in my life and I think he would have been a fan of the Radical system. Let me give two of the things he said,</p>
+ <p>My father was very influential in my life and I think he would have been a fan of the Radical system. Let me give you two of the things he said,</p>
   <div class="_citation">
-   <p>In Cuba there are these things called <em>cuarterías</em>, a collecton of single rooms and  coomon bathroom, for poor people. At one time the <em>cuarter&iacute;a</em> near our house was for sale and a group of my father&rsquo;s friends invited him to joined them, to invest, but he turned them down. They wanted to make money, and altough he had the savngs/capital, he simply did not want to make money by exploiting poor people.</p>
+   <p>In Cuba there are these things called <em>cuarterías</em>, a collecton of single rooms, with a common bathroom, for poor people. At one time the <em>cuarter&iacute;a</em> near our house was for sale and a group of my father&rsquo;s friends invited him to invest in buying a cuarter&iacute;a, but he turned them down. They wanted to make money, but he simply did not want to make money by exploiting poor people.</p>
   </div>
  <p>On another occassion he said,
   <div class="_citation">
