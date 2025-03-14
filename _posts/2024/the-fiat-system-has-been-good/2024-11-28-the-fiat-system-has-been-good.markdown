@@ -20,16 +20,16 @@ image:    "icon-fiat-has-been-good.svg"
   <p id="_standout">But, hey, lets talk about it because we could be leaving money on the table.</p>
 
 <h1>Money</h1>
- <p>But money is not the priority, people&rsquo;s lives are.</p>
+ <p>But money should not be the priority. The priority must be people&rsquo;s lives.</p>
    <div class="_citation" >
     <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo;.</p>
     <p>So&hellip; what are you doing about it?</p>
    </div>
  <p>It is not,</p>
   <ul>
-   <li>Acts of charity (thank you) and food for the homeless (thank you).</li>
-   <li>Participation at a demonstration and maybe getting arrested (thank you).</li>
-   <li>A revolution with blood on the streets (you failed, Karl Marx).</li>
+   <li>Acts of charity and food for the homeless.</li>
+   <li>Participation at a demonstration and maybe getting arrested.</li>
+   <li>A revolution with blood on the streets (Marx failed).</li>
   </ul>
  <p>These are all features of the <em>Fiat system,</em></p>
   <ul>
