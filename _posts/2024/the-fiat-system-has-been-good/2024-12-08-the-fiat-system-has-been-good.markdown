@@ -39,7 +39,7 @@ hidden:   true
        <li>Diabitis</li>
        <li>Rheumatoid Arthritis</li>
        <li>Multiple Sclerosis</li>
-       <li>AIDS</li>
+       <li>HIV/AIDS</li>
       </ul>
      </td>
      <td>
