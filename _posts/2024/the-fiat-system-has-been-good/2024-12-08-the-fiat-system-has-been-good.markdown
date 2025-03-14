@@ -19,7 +19,7 @@ hidden:   true
      <td>
       <ul>
        <li>Thypus</li>
-       <li>Malaria, Yellow Fever, Leprosy, and other tropical diseases</li>
+       <li>Malaria, Yellow Fever, Leprosy, and other diseases</li>
        <li>Mumps</li>
        <li>Measles</li>
        <li>Rubella</li>
