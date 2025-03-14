@@ -22,7 +22,8 @@ image:    "icon-fiat-has-been-good.svg"
 <h1>Money</h1>
  <p>But money is not the priority, people&rsquo;s lives are.</p>
    <div class="_citation" >
-    <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo;. So what are you doing about it?</p>
+    <p>&ldquo;Those poor people in Gaza, I feel for them,&rdquo;.</p>
+    <p>So&hellip; what are you doing about it?</p>
    </div>
  <p>It is not,</p>
   <ul>
