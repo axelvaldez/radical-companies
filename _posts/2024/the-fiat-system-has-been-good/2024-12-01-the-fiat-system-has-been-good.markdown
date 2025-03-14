@@ -16,7 +16,7 @@ hidden:   true
  <p>Radical is the name we gave to one alternative to the Fiat system. In this case it <em>Radical</em> refers to the roots of its governance systems. You can read how it came up in <a href="#en01">Radical Companies</a><sup id="bm01">&hairsp;&nabla;&hairsp;</sup> and in <a href="#en02">Radical in Depth</a><sup id="bm02">&hairsp;&nabla;&hairsp;</sup> you can read the answers to questions that have come up and some that we made up to make it more understandable.</p>
 
 <h1>The Tshirt Said It</h1>
- <p>The renoun author, Ursula Le Guin said,</p>
+ <p>Author Ursula Le Guin said,</p>
   <div class="_citation">
    <p>We live in <em>Capitalism</em>. Its power seems inescapable. But so did the divine rights of Kings.</p>
   </div>
