@@ -19,7 +19,7 @@ hidden:   true
  <ul>
   <li><strong>Fiat Has Been Good.</strong> Mostly for the people looking to make money. But making money is just one aspect of what we are all about. Others may not like to have to slave and fight to stay on the survival treadmill.</li>
   <li><strong>Climate Change.</strong> This is only one aspect of the ills that Fiat hs brought the Earth to suffer. Others are water privatization, deforestation, pollution. These and many others are harmful to the Earth and to us.</li>
-  <li><strong>The Tshirt Said It.</strong> As Ursula LeGuin, the author, said, &ldquo;<em>The divine rights of Kings and Queens were once inescapable, but now they are not.</em>&rdquo;</li>
+  <li><strong>The T-Shirt Said It.</strong> As Ursula LeGuin, the author, said, &ldquo;<em>The divine rights of Kings and Queens were once inescapable, but now they are not.</em>&rdquo;</li>
  </ul>
 
 <div style="margin-bottom:1in; font-family: American Typewriter, serif; ">
