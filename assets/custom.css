@@ -692,6 +692,9 @@ h4 {
 }
 
 /* _standout */
+._standout {
+  
+}
 ._standout::before {
   content:"“<em>";
 }
