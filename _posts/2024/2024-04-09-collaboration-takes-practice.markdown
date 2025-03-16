@@ -22,6 +22,7 @@ image:    "icon-collaboration-takes-practice.svg"
  <ul>
   <li id="en01">
    <p class="_list-item">
+    Laura Thomas, University of Bristol.
     <a href="https://neurosciencenews.com/happiness-practice-25736/" target="_blank">Happiness Takes Practice</a>
     <a class="_uparrow" href="#bm01"><img src='/assets/img/arrow-up-icon.png'></a>
    </p>

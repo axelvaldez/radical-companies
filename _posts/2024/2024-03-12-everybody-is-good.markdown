@@ -26,16 +26,17 @@ image:    "icon-the-origins-of-integlligence-in-children.svg"
  <p>They might have started with good intentions, but then they revert to the threat of violence a their way to control people. That is addictive.</p>
 
 <h1>And, BTW&hellip; </h1>
- <p>&hellip; as we grow up, the Fiat system warps our intention to contribute to our community. &ldquo;Be an adult.&rdquo;</p>
+ <p>&hellip; as we grow up, the Fiat system warps our intention to contribute to our community.
+ <div class="_citation">
+  <p>Act like the adult you are!</p>
+ </div>
 
 <h1 class="_section">ENDNOTES</h1>
  <ul>
   <li id="en01">
    <p class="_list-item">
     Linda DiProperzio.
-    <em>All About Child Speech and Language Milestones</em>.
-    August 16, 2023.
-    <a href="https://radicals.world/icon-the-origins-of-integlligence-in-children" target="_blank">The Origins of Integlligence in Children </a>
+    <a href="https://radicals.world/icon-the-origins-of-integlligence-in-children" target="_blank">All About Child Speech and Language Milestones.</a>
     <a class="_uparrow" href="#bm01"><img src="/assets/img/arrow-up-icon.png"></a>
    </p>
   </li>
