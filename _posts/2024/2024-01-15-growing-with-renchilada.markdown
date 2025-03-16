@@ -17,43 +17,52 @@ image:    "icon-renchilada.svg"
   </ul>
 
 <h1>Jose Contreras</h1>
- <p>He has an interesting background,</p>
- <p>AJose Contreras is a good example of makig a contribution.</p>
+ <p>He has an interesting background. And he is a good example of makig a contribution.</p>
   <ul>
-   <li>He spent time in prison</li>
-   <li>Soon after he got out of prison, he became the first employee of Nearsoft, a business that I had founded.</li>
+   <li>He spent time in jail.</li>
+   <li>He became the first Nearsoft employee.</li>
    <li>From Nearsoft he went on to work for well-known companies.</li>
    <li>He writes poetry and has a facility with words.</li>
    <li>He is very creative and very quick on his feet.</li>
-   <li>He came up with what became the <em>rEnchilada</em> to help people who were struggling with sales and growth.</li>
-   <li>He wants to start Kite, an app that to help people with their need mental health.</li>
+   <li>He came up with what became <em>rEnchilada</em>.</li>
+   <li>He slowly starting Kite, an app to help people with their mental health.</li>
   </ul>
 
 <h1>Staffing</h1>
-  <p>rEnchila is going to staff up with underrepresented people (<em>e.g.</em>, brown people, black people, single mothers, ex-felons, etc) as co-owners.</p>
+  <p>rEnchilada is going to staff up with underrepresented people (<em>e.g.</em>, brown people, black people, single mothers, ex-felons, etc) as co-owners.</p>
  
 <h1>rEnchilada</h1>
- <p>Jose&rsquo;s original idea was to unify the sales process into an evidence-based process we call Sales stac: revenue growth with minimal fuzz and less expensive than doing it piecemeal as it is done today</p>
+ <p>Jose&rsquo;s original idea was to unify the sales process into an evidence-based process we call Sales Stack, that is, revenue growth with minimal fuzz and less expensive than doing it piecemeal as it is done today</p>
  <p>Our team,</p>
  <ul>
   <li>Gets leads</li>
-  <li>Calls/Email these leads</li>
+  <li>Calls or email these leads</li>
   <li>Builds relationships with these leads</li>
   <li>Qualifies them</li>
+  <li>Ask for a meeting</li>
+ </ul>
+<p>The client team gets involved at this point and,</p>
+ <ul>
+  <li>Joins the meeting</li>
+  <li>If possible, closes the sales with our guidance</li>
+  <li>Else, sets up a closing meeting.</li>
  </ul>
 
 <h1>Process?</h1>
- <p>Big companies do this in-house, if they ndo itnat all. Smaller companies outsource these pieces.</p>
- <p>Jose&rsquo;s came with the idea to unify all of it into a single process. We work this process and we partner with our customers so they can learn it.</p>
+ <p>Now this has been available to big besinesses, but not small besinesses and Jose came up with the idea to unify all of it into a single process available to big and small all.</p>
+ <p>We partner with our customers so they can learn the process. Sometimes they will want to do it on their own and other times they keep us on as their revenue team; in other cases they keep us sa consultants.</p>
 
 <h1>But&hellip;</h1>
-<p>My first reaction was &ldquo;But &hellip; somebody must be doing it already!&rdquo; I looked around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies do not nave a process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job. They have to make their financial quotas, and that is the thing that is measured.</p>
-<p>From my own experience, this had legs.
- <ul>
-  <li>Founders end doing sales sporadically.</li>
-  <li>Later they instituonalize it because, it had worked for them during the early stages and, hey, they are the boss. Eventually they bring in a vice President of Sales.</li>
+ <p>My first reaction was &ldquo;But &hellip; somebody must be doing it already!&rdquo; I looked around, but I came up empty handed. I talked to some of my friends in Sales and they pointed out that even in big companies do not nave a process. Sales is a sink or swim activity and what goes is whatever the sales people learned in their previous job. They have to make their financial quotas, and that is the thing that is measured.</p>
+
+<h1>Expensive</h1>
+ <p>From my own experience,</p>
+  <ul>
+   <li>Founders and small businesses end doing sales haphazardly.</li>
+   <li>Later they instituonalize it because, it had worked for them during the early stages and they are the boss.</li>
+   <li>Eventually they bring in a vice President of Sales.</li>
  </ul>
- <p>It is time-consuming, and it gets very expensive over time.</li>
+ <p>Doing it this way it is time-consuming and it gets very expensive over time.</li>
 
 <h1>Alignment</h1>
  <p>rEnchilada&rsquo;s Explicit Alignment is as follows,</p>
