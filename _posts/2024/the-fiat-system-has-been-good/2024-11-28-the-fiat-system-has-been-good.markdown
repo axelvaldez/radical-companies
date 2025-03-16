@@ -11,13 +11,12 @@ image:    "icon-fiat-has-been-good.svg"
 </div>
 
 <h1>Fiat Has Not Been All Bad</h1>
- <p>The Fiat system has been good for more than a few people: it created the middle class, improved education, medicine, and science, etc. People in the US, Europe, Australia, and New Zealand and people of <em>European descent</em> do. Not all of them, mind you, but that is generally the case.</p>
+ <p>The Fiat system has been good for more than a few people: it created the middle class, improved education, medicine, and science, etc. People in the US, Europe, Australia, and New Zealand and in general people of <em>European descent</em> have doe well. Not all of them, mind you, but that is generally the case.</p>
  <p>Society has moved forward in the &ldquo;<em>developed</em>&rdquo; countries.</p>
 
  <h1>Climate Change</h1>
-  <p>Then there is Climate Change, <span id="_standout">which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</span></p>
-  <p>Or it could be urgently true because Climat Change is already here.</p>
-  <p id="_standout">But, hey, lets talk about it because we could be leaving money on the table.</p>
+  <p>Then there is Climate Change, <span id="_standout">which of course could be a hoax and the fires and destructive storms we are suffering through are just the result of our over stimulated imagination.</span> Or it could be <em>urgently true</em> because Climate Change is already here and happening.</p>
+  <p id="_standout">But, trying to fix it could leave money on the table.</p>
 
 <h1>Money</h1>
  <p>But money should not be the priority. The priority must be people&rsquo;s lives.</p>
