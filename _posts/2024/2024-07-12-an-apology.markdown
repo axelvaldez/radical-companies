@@ -7,49 +7,59 @@ image:    "icon-an-apology.svg"
 ---
 
 <div style='display:none; '>
- <p>The Judeo-Christian religions were not wrong, they just didn't go deep enough.</p>
+ <p>The Judeo-Christian religions were not wrong, they just did not go deep enough.</p>
 </div>
 
 <h1>Partners</h1>
- <p>The Judeo-Christian religions weren't wrong, but they can still be Partners to Radical model. They just didn't go deep enough. They stopped at the unknown and called it a bunch of names including <em>the soul</em>.</p>
- <p>These religions didn't pop out of nothing. My the Jewish religion was heavily ifluenced by the Zoroastrian religion</p>founded by Zarathustra, a Persian priest turned profet).</p>
- <p>founded by Zarathustra, a Persian priest turned profet. Zarathustra wanted to set polytheistic (decentralized) religions straight with a single boss God at the top (centralized) named Ahura Mazda.</p>
- <p>The Hebrews later added a written script, started Christianity, and globally kicked off what we know as the Fiat system.</p>
+ <p>The Judeo-Christian religions were not completely wrong and they can still be partners to Radical.</p>
+ <p>They stopped at the unknown and called it <em>the soul</em>.</p>
+ <p>These religions did not pop out of nothing. The Jewish religion was heavily ifluenced by the Zoroastrian religion</p>founded by Zarathustra, a Persian priest turned profet.</p>
+ <p>Zarathustra wanted to set polytheistic (decentralized) religions straight with a single Boss God at the top (centralized) named Ahura Mazda.</p>
+ <p>The Hebrews later added a written script, started Christianity, and globally kicked off (surprise!) what we know as the Fiat system.</p>
 
 <h1>Holy Moments</h1>
- <p>My wife and some friends formed a book club. The latest book is <em>Holy Moments</em> by Matthew Kelly. The subtitle, <em>A Handbook for the Rest of Your Life</em>, was the first hint that it was mostly mystical and very authoritarian. The author, Mr kelly, had his &ldquo;awakening&rdquo; when he was 15 years old and has been caught in this particular story ever since.</p>
- <p>However, as I browsed the pages, it reminded me of the Radical Systemn.</p> 
+ <p>My wife and some friends of hers formed a book club. Their latest book is <em>Holy Moments</em> by Matthew Kelly. The subtitle, <em>A Handbook for the Rest of Your Life</em>, was the first hint. I took a look at it and was dissapointed.</p>
+ <p>Mr kelly, the author, had what he called his <span class="_standut">awakening</span> when he was 15 years old. I was ready for the worst.</p>
+ <p>However, as I browsed the pages, it <em>reminded me</em> of the Radical Systemn.</p> 
 
 <h1>Radical Eyes</h1>
- <p>In the <em>Awakening</em> sectiom he starts with,
- <div class="_citation">
-  You may find yourself thinking or saying,
-   <ul>
-    <li>Something is missigng&hellip;</li>
-    <li>There must be more to life&hellip;</li>
-    <li>I have more to offer&hellip;</li>
-   </ul>
- </div>
- <p>As I read this I was shaking my head in agreement. Mr Kelly called these lines &lsquo;sacred truths.&rsquo; The curious thing is that these quesions are key to Radical.</p>
- <p>&ldquo;You are not malfunctioning,&rdquo; Mr kelly says, &ldquo;your intuition has nveer been so sharp.&rdquo; Indeed.</p>
- <p>What is missing is going donw to the root of the reason and what to do about it and making what is now a mistake and assigning it to the supernatural.</p>
- <p>This is an observation, not a criticism. More to the point it is the basis of my apology.</p>
+ <p>He starts with,</p>
+  <div class="_citation">
+   <p>In is words, <span class="_standout">You may find yourself thinking or saying,</span></p>
+    <ul class="_standout">>
+     <li>Something is missigng&hellip;</li>
+     <li>There must be more to life&hellip;</li>
+     <li>I have more to offer&hellip;</li>
+    </ul>
+  </div>
+ <p>As I read this I found myself shaking my head in agreement. Mr Kelly called these lines <span class="_standout">sacred truths</span>. The thing is that these quesions are key to Radical,too.</p>
+ <p><span class="_standout">You are not malfunctioning</span>, he says, <span class="_standout">your intuition has never been so sharp</span>.</p>
+ <p>What is object to is assigning it to the supernatural.</p>
 
  <h1>Something Is Missing</h1>
-  <p>What is missing is the ability to say no to tedium and yes to &lsquo;<em>I have more to offer</em>.&rdquo;</p>
+  <p>What is missing is the ability to say no and falling back on the supernatural.</p>
 
 <h1>The Soul</h1>
-  <p>What the authors of the Bible, and Mr Kelly, meant by &ldquo;<em>the soul</em>&rdquo; is the sum of everything they did not know. In 2024 we know more about the body and the mind, there is no need for mysticism. Unless you are 15 years old or in the Iron Age.</p>
+  <p>If you are an impressionable 15 years old, or in the Iron Age, you can get away with it, but in the 21<sup>th</sup> Century there is no need for mysticism.</p>
 
 <h1>Progress</h1>
- <p>Later on in the book he asks &ldquo;<em>What is progress?</em>&rdquo; andf he asnwers, &ldquo;<em>Preserving the well-being of human beings.</em>&rdquo; He understands the problem well. That tells me he understands the challenge well.</p>
- <p>When it comes to the answers, the only time he mentions &ldquo;<em>collaboration</em>&rdquo; is to say &ldquo;<em>collaborate with God.</em>&rdquo</p>
- <p>When it comes tp people he keeps repeating &ldquo;<em>Holy Moments.</em>&rdquo; as revelations from the christian god. Mysticism might have been unavoidable in the Iron Age, but now is inexcusable today.</p>
+ <p>Later on in the book Mr Kelly asks <span class="_standout">What is progress?</span> and, he asnwers, <span class="_standout">Preserving the well-being of human beings.</span>!</p>
+
+ <h1>Collaboration</h1>
+ <p>He mentions <span class="_standout">collaboration</span> to say <span class="_standout">collaborate with God.</span></p>
+ <p>He keeps repeating <span class="_standout">revelations from the Christian god</span>. Again, mysticism might have been unavoidable in the past, but it is inexcusable today.</p>
 
 <h1>The Apology</h1>
- <p>In any case, it sound like christians are looking for the same things as the Radical model. They could be our partners.</p>
- <p>Well, not all &ldquo;<em>Christians.</em>&ldquo; Gentle authotiarians, like Mr Kelly, want to tell you what to pay attention to and what to ignore. Only they know what is important and true.</p>
+ <p>In any case, in general, it sound like Christians are looking for the same things as the Radical systeman and we could be partners.</p>
+ <p>Well, not all Christians.</p>
+ <p><span class="_standout">Authauthotiarians</span> like Mr Kelly want you to take his words for what to pay attention to and what to ignore because only they know what is important and true, according to his <span class="_standut">awakening</span>.</p>
 
 <h1>Radical and Christians</h1>
- <p>Radical and christians want a more equitable world. They want our world to be people-centric, not money-centric. They want to take care of each other. They want to make our own choices and to discover more of the world.</p>
- <p>Unfortunately some christians also want all of us to believe in the same mysticism they believe in.</p>
+ <p>Radical and christians want a more equitable world.</p>
+ <p>They want our world to be people-centric, not money-centric.</p>
+ <p>And they also want</p>
+  <ul>
+   <li>To take care of each other</li>
+   <li>To make choices</li>
+   <li>To discover more of the world.</li>
+  </ul>

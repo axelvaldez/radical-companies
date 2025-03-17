@@ -17,24 +17,21 @@ image:    "icon-ensembles-radical-companies-working-as-one.svg"
    <li><a href="https://radicalcompanies.com/2022/05/13/rkare" target="_blank">rKare</a></li>
    <li><a href="https://radicalcompanies.com/2022/05/14/rclean" target="_blank">rClean</a></li>
   </ul>
- <p>(The little &lsquo;<em>r</em>&rsquo; stands for Radical)</p>
- <p>The idea, contributed by Jose, is to make them as Franchises with no static capital owners.</p>
- <p>The Radical franchisor and the Radical franchisees will be co-owners of the Radical Franchise which provide common services like purchasing, accounting, legal, recycling, etc.</p>
+ <p>(The little <span class="_standout">r</span> stands for Radical)</p>
+ <p>Jose Leal&rsquo;s idea is to make them as Franchises, but without static capital owners. The Radical franchisor and the Radical franchisees will be co-owners of the Radical Franchise which provide common services like purchasing, accounting, legal, recycling, etc.</p>
 
 <h1>How It Starts</h1>
  <p>It all starts with loans,</p>
   <ul>
    <li>The company needs a web site and the help of a lawyer</li>
-   <li>The website may cost, for example, $1,000: $750 his cost and $250 in profit. An amount, say the cost, gets paid immediately, the remainder $250 becomes a loan.</li>
-   <li>The lawyer can set things up legally for $1,500, her costs is $750 and her profit $500. The $1,000 cost gets paid immediately, the other $750 becomes a loan.</li>
+   <li>The website may cost, for example, $100: $75 his cost and $25 in profit. An amount, say the cost, gets paid immediately, the remainder $250 becomes <em>a loan</em>.</li>
+   <li>The lawyer can set things up legally for $150, her costs is $100 and her profit $50. The $100 cost gets paid immediately, the other $50 becomes <em>a loan</em>.</li>
   </ul>
-  <p>The lawyer and web maker may assume the risk for them loan or the new Radical Franchisee may need a Radical loan to cover the amount that must be paid immediately.</p>
 
 <h1>Loan Payments</h1>
- <p>An agreement is worked out with each lender.</p>
- <p>Let&rsquo;s assume that new Radical Franchisee can pay $200 every month which will be distributed relative to what is owed,</p>
+ <p>An agreement is worked out with each lender and, let&rsquo;s assume that new Radical Franchisee can pay $200 every month which will be distributed relative to what is owed,</p>
   <ul>
    <li>20% ($40 of $200) may go to the web page maker</.i>
    <li>80% ($160 of $200) may go to the lawyer.</li>
   </ul>
- <p>That is how a community can help companies get started. Ths is how the entrepreneur get togethernwith the services they need.</p> 
+ <p>That is how a community can help companies get started. Ths is how the entrepreneur get together with the services they need.</p> 
