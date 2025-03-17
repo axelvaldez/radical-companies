@@ -7,11 +7,11 @@ image:    "icon-overrun-by-homosexuals-and-women.svg"
 ---
 
 <div style='display:none;'>
- &ldquo;France overrun by homosexuals and women&rdquo; (said by a French Nazi Boss during the WWII occupation).
+ &ldquo;France overrun by homosexuals and women&rdquo; (said by a French Nazi Boss during the WWII occupation by Nazis).
 </div>
 
 <h1>France Overrun by Homosexuals and Women</h1>
- <p>During the Nazi occupation (1939–1945), French people &ldquo;<em>scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptional literary and artistic flowering&rdquo; [and] which he had denounced as overrun by homosexuals and women</em>.&rdquo; (sounds like something that came out of the mouth of some religionist in the USA),</p>
+ <p>During the Nazi occupation (1939–1945), French people <span class="_standout">scorned P&eacute;tain&rsquo;s vow to rid France of the Third Republic, which had hosted an exceptional literary and artistic flowering</spam> and which he had <span class="_standout">denounced as overrun by homosexuals and women</em>.</span>.</p>
 
 <h1>&Eacute;tat Fran&ccedil;ais</h1>
   <p>&ldquo;<em>They felt betrayed</em>&rdquo; by the way way in which P&eacute;tain  sought to destroy the ideas of &lsquo;<em>Libert&eacute;</em>, <em>Egalit&eacute;</em>, <em>Fraternit&rsquo;</em> (Liberty, Equality, Fraternity) of the French Revolution and replace them with &lsquo;<em>Travail</em>, <em>Famille</em>, <em>Patrie</em>&rsquo; (Work, Family, Country) slogan of the <em>&Eacute;tat Fran&ccedil;ais</em> (French State).</p>
